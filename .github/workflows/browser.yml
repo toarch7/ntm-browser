@@ -33,7 +33,7 @@ jobs:
       - name: Push changes
         run: |
           git config --global user.email ${{ secrets.MAIL }}
-          git config --global user.name "toarch7"
+          git config --global user.name "updater"
           git add resourcepacks.json
           git commit --allow-empty -m "[automatic update]"
           git push https://toarch7:${{ secrets.API_TOKEN_GITHUB }}@github.com/toarch7/ntm-browser
