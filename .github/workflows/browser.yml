@@ -4,7 +4,7 @@ run-name: Update list
 on:
   schedule:
     - cron: "* */2 * * *"
-  push: # test
+  push: # test 12
     branches: [ main ]
 
 jobs:
