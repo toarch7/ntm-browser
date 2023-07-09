@@ -117,32 +117,33 @@ function checkFailed(then, caught) {
 }
 
 function handlePack(name, item, meta) {
+    let updated = packsLast[name] && packsLast[name]?.updated != unix(item.updated_at);
+    let malformed = false;
+    let hidden = false;
+    
     if (blacklist.indexOf(name) != -1 || blacklist.indexOf("user:" + item.owner.login) != -1) {
         console.log(name, "is banned.");
 
         packsMalformed.push({ name: name, descriptionShort: "malformed meta.json" });
 
-        return;
+        hidden = true;
     }
-    
-    let malformed = false;
-
-    if (typeof meta != "object") {
-        if (!packsLast[name]);
+    else if (typeof meta != "object") {
+        if (!packsLast[name] || !(packsLast[name].malformed)) {
             packsMalformed.push({ name: name, descriptionShort: "malformed meta.json" });
-
+        }
+        
         console.log(name, "malformed meta.json");
 
         malformed = true;
-
-        return;
     }
-
-    if (!packsLast[name]) {
-        packsNew.push(meta);
-    }
-    else if (packsLast[name].updated != unix(item.updated_at)) {
-        packsUpdated.push(meta);
+    else {
+        if (!packsLast[name]) {
+            packsNew.push(meta);
+        }
+        else if (updated) {
+            packsUpdated.push(meta);
+        }
     }
     
     packs[name] = {
@@ -154,6 +155,7 @@ function handlePack(name, item, meta) {
         stars: item.stargazers_count,
 
         malformed: malformed,
+        hidden: hidden,
 
         meta: {
             name: meta.name ?? name,
@@ -188,7 +190,7 @@ function allDone() {
     else diff = "";
     
     const embed = {
-        title: "Resourcepacks updates",
+        title: "",
         description: time + " Total: " + packList.length + " " + diff,
         color: 0xFFFFFF,
         fields: [ ],
@@ -199,7 +201,7 @@ function allDone() {
     
     let fields = [];
     
-    embed.title = "";
+    embed.title = "Resourcepacks updates";
     embed.color = 0xe6d927;
 
     if (packsUpdated.length > 0) {
@@ -226,6 +228,9 @@ function allDone() {
         sendEmbed("updates", [ embed ]);
     
     fields = [];
+    
+    embed.title = "Malformed packs";
+    embed.color = 0xf00048;
 
     if (packsBlacklisted.length > 0) {
         for(let pack of packsBlacklisted) {
@@ -245,7 +250,6 @@ function allDone() {
         }
     }
 
-    embed.title = "Malformed packs";
     embed.fields = fields;
 
     if (fields.length > 0)
@@ -258,7 +262,7 @@ function allDone() {
 // beware the pipeline
 
 function start() {
-    axios.get("https://raw.githubusercontent.com/toarch7/nt-browser/main/resourcepack-blacklist.json")
+    axios.get("https://raw.githubusercontent.com/toarch7/ntm-browser/main/resourcepack-blacklist.json")
         .then((response) => {
             let data = response.data;
             blacklist = data;
@@ -272,12 +276,16 @@ function start() {
         });
 }
 
-axios.get("https://raw.githubusercontent.com/toarch7/nt-browser/main/resourcepacks.json")
+axios.get("https://raw.githubusercontent.com/toarch7/ntm-browser/main/resourcepacks.json")
     .then((response) => {
         let data = response.data;
 
-        for(let i of data)
+        for(let i of data) {
+            if (Math.random() < 0.1)
+                continue;
+            
             packsLast[i.full_name] = i;
+        }
         
         console.log("Previous count:", data.length);
         
