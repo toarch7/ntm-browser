@@ -3,7 +3,10 @@ run-name: Update list
 
 on:
   schedule:
-    - cron: "* */2 * * *"
+    - cron: "0 */1 * * *"
+  push:
+    branches:
+      main
 
 jobs:
   Update:
@@ -16,22 +19,15 @@ jobs:
     
     steps:
       - uses: actions/checkout@v3
-
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
-      
-      - name: Install packages
-        run: npm ci axios
-      
-      - name: Run update
-        run: npm run update
-      
+      - run: npm run update
       - name: Push changes
         run: |
-          git config --global user.email ${{ secrets.MAIL }}
-          git config --global user.name "updater"
+          git config --global user.email "${{ secrets.MAIL }}"
+          git config --global user.name "toncho_"
           git add resourcepacks.json
-          git commit --allow-empty -m "[automatic update]"
+          git commit --allow-empty -m "[auto update]"
           git push https://toarch7:${{ secrets.API_TOKEN_GITHUB }}@github.com/toarch7/ntm-browser
