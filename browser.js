@@ -117,7 +117,7 @@ function checkFailed(then, caught) {
 }
 
 function handlePack(name, item, meta) {
-    let updated = packsLast[name] && packsLast[name]?.updated != unix(item.updated_at);
+    let updated = packsLast[name] && packsLast[name]?.updated != unix(item.pushed_at);
     let malformed = false;
     let hidden = false;
     
@@ -151,7 +151,7 @@ function handlePack(name, item, meta) {
         name: item.name,
         owner: item.owner.login,
         created: unix(item.created_at),
-        updated: unix(item.updated_at),
+        updated: unix(item.pushed_at),
         stars: item.stargazers_count,
 
         malformed: malformed,
