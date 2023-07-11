@@ -117,27 +117,33 @@ function checkFailed(then, caught) {
 }
 
 function handlePack(name, item, meta) {
-    let updated = packsLast[name] && packsLast[name]?.updated != unix(item.pushed_at);
-    let malformed = false;
-    let hidden = false;
+	var last = packsLast[name];
+	
+	let updated = last && last.updated != unix(item.pushed_at);
+    
+	let malformed = false;
+	let hidden = false;
     
     if (blacklist.indexOf(name) != -1 || blacklist.indexOf("user:" + item.owner.login) != -1) {
-        console.log(name, "is banned.");
-
-        packsMalformed.push({ name: name, descriptionShort: "malformed meta.json" });
+        if (!last || (last && !last.hidden))
+			packsMalformed.push({ name: name, descriptionShort: "blacklisted" });
+		
+		console.warn("Pack hidden", name);
 
         hidden = true;
     }
     else if (typeof meta != "object") {
-        if (!packsLast[name] || !(packsLast[name].malformed)) {
+		if (!last || (last && !last.malformed))
             packsMalformed.push({ name: name, descriptionShort: "malformed meta.json" });
-        }
         
-        console.log(name, "malformed meta.json");
+        console.warn("Malformed meta.json", name);
 
         malformed = true;
     }
     else {
+		if (meta.hidden)
+			return console.info("meta.hidden:", name);
+		
         if (!packsLast[name]) {
             packsNew.push(meta);
         }
@@ -163,6 +169,9 @@ function handlePack(name, item, meta) {
             description: meta.description ?? "No description provided"
         }
     };
+	
+	if (!malformed && !hidden)
+		console.info("Pack added!", name);
 }
 
 function sendEmbed(kind, embeds) {
@@ -254,6 +263,10 @@ function allDone() {
 
     if (fields.length > 0)
         sendEmbed("errors", [ embed ]);
+
+    console.log("New:", packsNew.length);
+    console.log("Updates:", packsUpdated.length);
+    console.log("Unlisted:", packsMalformed.length);
     
     fs.writeFileSync("resourcepacks.json",
         JSON.stringify(packList, null, 2));
@@ -280,12 +293,8 @@ axios.get("https://raw.githubusercontent.com/toarch7/ntm-browser/main/resourcepa
     .then((response) => {
         let data = response.data;
 
-        for(let i of data) {
-            if (Math.random() < 0.1)
-                continue;
-            
+        for(let i of data)
             packsLast[i.full_name] = i;
-        }
         
         console.log("Previous count:", data.length);
         
