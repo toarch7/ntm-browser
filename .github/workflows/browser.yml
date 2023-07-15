@@ -26,8 +26,8 @@ jobs:
       - run: npm run update
       - name: Push changes
         run: |
-          git config --global user.email "${{ secrets.MAIL }}"
-          git config --global user.name "toncho_"
+          git config --global user.email "cli@github.com"
+          git config --global user.name "Actions"
           git add resourcepacks.json
           git commit --allow-empty -m "[auto update]"
           git push https://toarch7:${{ secrets.API_TOKEN_GITHUB }}@github.com/toarch7/ntm-browser
