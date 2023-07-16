@@ -159,6 +159,7 @@ function handlePack(name, item, meta) {
         created: unix(item.created_at),
         updated: unix(item.pushed_at),
         stars: item.stargazers_count,
+        branch: item.default_branch,
 
         malformed: malformed,
         hidden: hidden,
