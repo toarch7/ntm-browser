@@ -141,8 +141,8 @@ function handlePack(name, item, meta) {
         malformed = true;
     }
     else {
-		if (meta.hidden)
-			return console.info("meta.hidden:", name);
+	if (meta.hidden)
+		return console.info("meta.hidden:", name);
 		
         if (!packsLast[name]) {
             packsNew.push(meta);
