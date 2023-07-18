@@ -23,6 +23,9 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
+        env:
+          WEBHOOK_UPDATES: ${{ secrets.WEBHOOK_UPDATES }}
+          WEBHOOK_ERRORS: ${{ secrets.WEBHOOK_ERRORS }}
       - run: npm run update
       - name: Push changes
         run: |
