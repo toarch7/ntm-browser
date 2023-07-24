@@ -37,10 +37,11 @@ function areaGetString(area, subarea, loops) {
 }
 
 let charCurrent = 1;
+
 function parseTitle(str) {
 	let ret = { };
-
-	ret.name = str.split(" ").pop();
+	
+	ret.name = str.split(" ")[1];
 
 	str = str.toLowerCase();
 
