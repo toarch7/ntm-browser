@@ -34,7 +34,9 @@ jobs:
         run: npm run browser
       
       - name: Run update (leaderboards)
-        run: npm run leaderboards
+        run: |
+          npm i discord.js
+          npm run leaderboards
 
       - name: Push changes
         run: |

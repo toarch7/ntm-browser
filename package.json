@@ -19,7 +19,7 @@
   },
   "scripts": {
     "browser": "node browser.js",
-    "leaderboards": "node browser.js"
+    "leaderboards": "node leaderboards/leaderboards.js"
   },
   "author": "toncho_",
   "license": "ISC"
