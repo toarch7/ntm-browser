@@ -96,12 +96,12 @@ client.once(Events.ClientReady, c => {
             dailylist = JSON.parse(readFileSync("./leaderboards/dailylist.json", "utf-8"));
 
 			entires = dailylist.entries;
-		console.log("read", dailylist);
+		
             if (dailylist.day != date)
                 reset = true;
         }
 
-        console.log(`Received ${messages.size} messages`);
+        console.log(`(Daily) Received ${messages.size} messages`);
 
         messages.forEach(message => {
             if (!entries[message.id]) {
@@ -179,7 +179,7 @@ client.once(Events.ClientReady, c => {
 
         let list = Object.values(entries);
 
-        console.log("Entires count:", list.length);
+        console.log("(Weekly) Entires count:", list.length);
 
         if (reset) {
             list.sort((a, b) => b.kills - a.kills);
