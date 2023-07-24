@@ -18,7 +18,8 @@
     "proxy-from-env": "^1.1.0"
   },
   "scripts": {
-    "update": "node browser.js"
+    "browser": "node browser.js",
+    "leaderboards": "node browser.js"
   },
   "author": "toncho_",
   "license": "ISC"
