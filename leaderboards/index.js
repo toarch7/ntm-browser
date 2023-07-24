@@ -13,8 +13,6 @@ const params = {
     }
 };
 
-console.log(params);
-
 const client = new Client({
     intents: [ GatewayIntentBits.Guilds | GatewayIntentBits.MessageContent ]
 });
