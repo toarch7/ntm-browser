@@ -691,6 +691,27 @@
         7
       ],
       "crown": 10
+    },
+    "Seeker255": {
+      "name": "Seeker255",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 11,
+      "areaString": "7-1",
+      "kills": 242,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        4,
+        27,
+        21
+      ],
+      "crown": 10
     }
   }
 }
