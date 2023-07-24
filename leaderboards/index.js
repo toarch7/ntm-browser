@@ -96,7 +96,7 @@ client.once(Events.ClientReady, c => {
             dailylist = JSON.parse(readFileSync("./leaderboards/dailylist.json", "utf-8"));
 
 			entires = dailylist.entries;
-			
+		console.log("read", dailylist);
             if (dailylist.day != date)
                 reset = true;
         }
