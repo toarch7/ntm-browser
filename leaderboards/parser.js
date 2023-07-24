@@ -90,7 +90,7 @@ function parseDescription(str) {
 			}
 			else ret.area = 100;
 
-			if (a[1][0] == "L")
+			if (a[1] && a[1][0] == "L")
 				ret.loops = parseInt(a[1].substring(1));
 
             ret.areaString = areaGetString(ret.area, ret.subarea, ret.loops);
