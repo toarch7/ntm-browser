@@ -633,6 +633,289 @@
         28
       ],
       "crown": 10
+    },
+    "hexsander": {
+      "name": "hexsander",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 13,
+      "areaString": "3-2",
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        13,
+        4
+      ],
+      "crown": 10
+    },
+    "абищка": {
+      "name": "абищка",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 13,
+      "areaString": "2-1",
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7
+      ],
+      "crown": 10
+    },
+    "Solano": {
+      "name": "Solano",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 4,
+      "areaString": "3-1",
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7
+      ],
+      "crown": 10
+    },
+    "Seeker648": {
+      "name": "Seeker648",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 124,
+      "areaString": "5-3",
+      "kills": 259,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        13,
+        4,
+        28
+      ],
+      "crown": 10
+    },
+    "Seeker496": {
+      "name": "Seeker496",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 13,
+      "areaString": "2-1",
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7
+      ],
+      "crown": 10
+    },
+    "Erick": {
+      "name": "Erick",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 81,
+      "areaString": "5-2",
+      "kills": 230,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        13,
+        4,
+        27
+      ],
+      "crown": 10
+    },
+    "Kirito777": {
+      "name": "Kirito777",
+      "char": 1,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 14,
+      "areaString": "4-?",
+      "kills": 188,
+      "ultra": 0,
+      "skills": [
+        8,
+        25,
+        3,
+        13,
+        7,
+        27
+      ],
+      "crown": 10
+    },
+    "Seeker960": {
+      "name": "Seeker960",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 13,
+      "areaString": "3-2",
+      "kills": 146,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7,
+        4
+      ],
+      "crown": 10
+    },
+    "coldghost": {
+      "name": "coldghost",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 81,
+      "areaString": "5-2",
+      "kills": 235,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7,
+        4,
+        27
+      ],
+      "crown": 10
+    },
+    "Seeker538": {
+      "name": "Seeker538",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 81,
+      "areaString": "3-2",
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        13,
+        7
+      ],
+      "crown": 10
+    },
+    "biba": {
+      "name": "biba",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 81,
+      "areaString": "3-2",
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7,
+        17
+      ],
+      "crown": 10
+    },
+    "Dark": {
+      "name": "Dark",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 11,
+      "areaString": "3-2",
+      "kills": 164,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        21,
+        7
+      ],
+      "crown": 10
+    },
+    "Throneseeker705": {
+      "name": "Throneseeker705",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 16,
+      "areaString": "3-1",
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        17,
+        1,
+        13
+      ],
+      "crown": 10
+    },
+    "Main": {
+      "name": "Main",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 60,
+      "areaString": "7-3",
+      "kills": 352,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7,
+        4,
+        21,
+        6
+      ],
+      "crown": 10
     }
   }
 }
