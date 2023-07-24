@@ -171,7 +171,7 @@ client.once(Events.ClientReady, c => {
                 let entry = entries[stats.name];
     
                 if (!entry || (entry && entry.kills < stats.kills)) {
-					console.log("New entry from", entry.name);
+					console.log("New entry from", stats.name);
                     entries[stats.name] = stats;
                 }
             }
