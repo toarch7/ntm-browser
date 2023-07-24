@@ -94,7 +94,9 @@ client.once(Events.ClientReady, c => {
 
         if (existsSync("dailylist.json")) {
             dailylist = JSON.parse(readFileSync("./dailylist.json", "utf-8"));
-            
+
+			entires = dailylist.entries;
+			
             if (dailylist.day != date)
                 reset = true;
         }
@@ -107,8 +109,10 @@ client.once(Events.ClientReady, c => {
         
                 if (date != day.getDate())
                     return;
-                
-                entries[message.id] = parse(message.embeds[0]);
+
+				let stats = parse(message.embeds[0]);
+				console.log("New entry from", stats.name);
+                entries[message.id] = stats;
             }
         });
 
@@ -150,7 +154,9 @@ client.once(Events.ClientReady, c => {
 
         if (existsSync("weeklylist.json")) {
             weeklylist = JSON.parse(readFileSync("./weeklylist.json", "utf-8"));
-            
+
+			entries = weeklylist.entries;
+			
             if (weeklylist.seed != weeklySeed)
                 reset = true;
         }
@@ -165,6 +171,7 @@ client.once(Events.ClientReady, c => {
                 let entry = entries[stats.name];
     
                 if (!entry || (entry && entry.kills < stats.kills)) {
+					console.log("New entry from", entry.name);
                     entries[stats.name] = stats;
                 }
             }
