@@ -92,8 +92,8 @@ client.once(Events.ClientReady, c => {
 
         let reset = false;
 
-        if (existsSync("dailylist.json")) {
-            dailylist = JSON.parse(readFileSync("./dailylist.json", "utf-8"));
+        if (existsSync("./leaderboards/dailylist.json")) {
+            dailylist = JSON.parse(readFileSync("./leaderboards/dailylist.json", "utf-8"));
 
 			entires = dailylist.entries;
 			
@@ -128,7 +128,7 @@ client.once(Events.ClientReady, c => {
             entries = {};
         }
 
-        writeFileSync("dailylist.json",
+        writeFileSync("./leaderboards/dailylist.json",
             JSON.stringify(
             {
                 day: date,
@@ -152,8 +152,8 @@ client.once(Events.ClientReady, c => {
 
         let reset = false;
 
-        if (existsSync("weeklylist.json")) {
-            weeklylist = JSON.parse(readFileSync("./weeklylist.json", "utf-8"));
+        if (existsSync("./leaderboards/weeklylist.json")) {
+            weeklylist = JSON.parse(readFileSync("./leaderboards/weeklylist.json", "utf-8"));
 
 			entries = weeklylist.entries;
 			
@@ -189,7 +189,7 @@ client.once(Events.ClientReady, c => {
             entries = {};
         }
 
-        writeFileSync("weeklylist.json",
+        writeFileSync("./leaderboards/weeklylist.json",
             JSON.stringify(
             {
                 seed: weeklySeed,
