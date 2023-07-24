@@ -36,6 +36,7 @@ jobs:
           WEBHOOK_DAILY: ${{ secrets.WEBHOOK_DAILY }}
           WEBHOOK_WEEKLY: ${{ secrets.WEBHOOK_WEEKLY }}
         run: |
+          npm i discord.js
           npm run leaderboards
 
       - name: Push changes
