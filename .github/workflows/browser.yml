@@ -3,7 +3,7 @@ run-name: Update resourcepacks and leaderboards
 
 on:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "1 */1 * * *"
   push:
     branches:
       main
