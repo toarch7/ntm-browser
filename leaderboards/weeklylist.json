@@ -732,6 +732,49 @@
         4
       ],
       "crown": 10
+    },
+    "tiramisú": {
+      "name": "tiramisú",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 53,
+      "areaString": "5-1",
+      "kills": 217,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        4,
+        28,
+        16
+      ],
+      "crown": 10
+    },
+    "Seeker151": {
+      "name": "Seeker151",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 23,
+      "areaString": "7-3",
+      "kills": 354,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        19,
+        27,
+        14,
+        2
+      ],
+      "crown": 10
     }
   }
 }
