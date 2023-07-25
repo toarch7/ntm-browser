@@ -1561,6 +1561,85 @@
         7
       ],
       "crown": 10
+    },
+    "peperyutee": {
+      "name": "peperyutee",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 6,
+      "areaString": "2-1",
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        13
+      ],
+      "crown": 10
+    },
+    "prijrak": {
+      "name": "prijrak",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 7,
+      "areaString": "3-1",
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7
+      ],
+      "crown": 10
+    },
+    "Seeker270": {
+      "name": "Seeker270",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 14,
+      "areaString": "5-3",
+      "kills": 258,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7,
+        4,
+        6,
+        16,
+        14
+      ],
+      "crown": 10
+    },
+    "Seeker632": {
+      "name": "Seeker632",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 81,
+      "areaString": "2-1",
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        8,
+        7
+      ],
+      "crown": 10
     }
   }
 }
