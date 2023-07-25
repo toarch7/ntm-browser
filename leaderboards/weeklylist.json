@@ -622,20 +622,22 @@
       "name": "Diego",
       "char": 1,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 1,
       "loops": 0,
-      "wep": 59,
-      "bwep": 11,
-      "areaString": "5-3",
-      "kills": 272,
+      "wep": 116,
+      "bwep": 49,
+      "areaString": "7-1",
+      "kills": 317,
       "ultra": 0,
       "skills": [
         25,
         21,
+        1,
         7,
         4,
-        27
+        27,
+        28
       ],
       "crown": 10
     },
@@ -1646,18 +1648,39 @@
       "name": "Erick62Z",
       "char": 1,
       "skin": true,
-      "area": 3,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 13,
-      "bwep": 81,
-      "areaString": "3-1",
-      "kills": 135,
+      "wep": 59,
+      "bwep": 23,
+      "areaString": "7-3",
+      "kills": 189,
       "ultra": 0,
       "skills": [
         8,
         1,
-        13
+        7,
+        4,
+        27
+      ],
+      "crown": 10
+    },
+    "plusmoney": {
+      "name": "plusmoney",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 81,
+      "areaString": "2-1",
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7
       ],
       "crown": 10
     }
