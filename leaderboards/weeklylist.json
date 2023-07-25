@@ -984,6 +984,69 @@
         28
       ],
       "crown": 10
+    },
+    "Санс": {
+      "name": "Санс",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 81,
+      "areaString": "3-3",
+      "kills": 175,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        4
+      ],
+      "crown": 10
+    },
+    "Seeker847": {
+      "name": "Seeker847",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 13,
+      "areaString": "3-1",
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        25,
+        3,
+        1,
+        13
+      ],
+      "crown": 10
+    },
+    "Seeker962": {
+      "name": "Seeker962",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 11,
+      "areaString": "7-1",
+      "kills": 334,
+      "ultra": 0,
+      "skills": [
+        25,
+        3,
+        22,
+        7,
+        4,
+        27,
+        6,
+        13
+      ],
+      "crown": 10
     }
   }
 }
