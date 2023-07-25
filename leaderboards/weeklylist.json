@@ -775,6 +775,68 @@
         2
       ],
       "crown": 10
+    },
+    "Throneseeker398": {
+      "name": "Throneseeker398",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 23,
+      "areaString": "7-3",
+      "kills": 353,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        13,
+        4,
+        6,
+        28,
+        10
+      ],
+      "crown": 10
+    },
+    "KoHcepBa": {
+      "name": "KoHcepBa",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "areaString": "2-1",
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        8,
+        7
+      ],
+      "crown": 10
+    },
+    "Seeker404": {
+      "name": "Seeker404",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 81,
+      "areaString": "5-1",
+      "kills": 195,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        19,
+        7,
+        6
+      ],
+      "crown": 10
     }
   }
 }
