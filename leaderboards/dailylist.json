@@ -1,6 +1,97 @@
 {
   "day": 25,
   "entries": {
+    "1133340679423131708": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "areaString": "1-3",
+      "kills": 28,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1
+    },
+    "1133337058748932126": {
+      "name": "Ziga",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "areaString": "1-3",
+      "kills": 27,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1
+    },
+    "1133335551676784660": {
+      "name": "Sharashckin",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 12,
+      "areaString": "5-3",
+      "kills": 230,
+      "ultra": 0,
+      "skills": [
+        10,
+        23,
+        13,
+        4,
+        3
+      ],
+      "crown": 1
+    },
+    "1133334323425185883": {
+      "name": "абищка",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 39,
+      "areaString": "3-1",
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        2,
+        7,
+        24
+      ],
+      "crown": 1
+    },
+    "1133330013840744538": {
+      "name": "STRVACT",
+      "char": 4,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 34,
+      "areaString": "2-?",
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        10,
+        23,
+        17
+      ],
+      "crown": 1
+    },
     "1133324280235565056": {
       "name": "Seeker413",
       "char": 5,

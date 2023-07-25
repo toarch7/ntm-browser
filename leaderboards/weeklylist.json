@@ -251,21 +251,21 @@
       "name": "Seeker413",
       "char": 1,
       "skin": true,
-      "area": 6,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 4,
-      "bwep": 11,
-      "areaString": "6-1",
-      "kills": 281,
+      "wep": 11,
+      "bwep": 60,
+      "areaString": "7-3",
+      "kills": 368,
       "ultra": 0,
       "skills": [
         8,
         1,
-        19,
         7,
-        21,
-        6
+        4,
+        27,
+        23
       ],
       "crown": 10
     },
@@ -1056,19 +1056,20 @@
       "name": "Seeker636",
       "char": 1,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
       "wep": 13,
       "bwep": 81,
-      "areaString": "3-3",
-      "kills": 177,
+      "areaString": "4-?",
+      "kills": 180,
       "ultra": 0,
       "skills": [
         8,
         1,
         13,
-        7
+        7,
+        28
       ],
       "crown": 10
     },
@@ -1089,6 +1090,47 @@
         3,
         1,
         13
+      ],
+      "crown": 10
+    },
+    "CockSuccer": {
+      "name": "CockSuccer",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 7,
+      "areaString": "3-1",
+      "kills": 146,
+      "ultra": 0,
+      "skills": [
+        17,
+        1,
+        13
+      ],
+      "crown": 10
+    },
+    "Sharashckin": {
+      "name": "Sharashckin",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 11,
+      "areaString": "5-1",
+      "kills": 210,
+      "ultra": 0,
+      "skills": [
+        25,
+        3,
+        1,
+        13,
+        7,
+        27
       ],
       "crown": 10
     }
