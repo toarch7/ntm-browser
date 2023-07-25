@@ -680,19 +680,23 @@
       "name": "Throneseeker413",
       "char": 1,
       "skin": true,
-      "area": 3,
+      "area": 1,
       "subarea": 1,
-      "loops": 0,
-      "wep": 81,
-      "bwep": 7,
-      "areaString": "3-1",
-      "kills": 136,
-      "ultra": 0,
+      "loops": 1,
+      "wep": 115,
+      "bwep": 11,
+      "areaString": "1-1 L1",
+      "kills": 380,
+      "ultra": 1,
       "skills": [
-        8,
         25,
         3,
-        7
+        22,
+        13,
+        4,
+        27,
+        28,
+        23
       ],
       "crown": 10
     },
@@ -1044,6 +1048,46 @@
         4,
         27,
         6,
+        13
+      ],
+      "crown": 10
+    },
+    "Seeker636": {
+      "name": "Seeker636",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 81,
+      "areaString": "3-3",
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        13,
+        7
+      ],
+      "crown": 10
+    },
+    "MIX'er♥️Rogue": {
+      "name": "MIX'er♥️Rogue",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "areaString": "3-1",
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        25,
+        3,
+        1,
         13
       ],
       "crown": 10
