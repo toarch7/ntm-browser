@@ -1133,6 +1133,87 @@
         27
       ],
       "crown": 10
+    },
+    "LisArt10": {
+      "name": "LisArt10",
+      "char": 1,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 23,
+      "areaString": "6-1",
+      "kills": 310,
+      "ultra": 0,
+      "skills": [
+        17,
+        1,
+        13,
+        4,
+        27
+      ],
+      "crown": 10
+    },
+    "Seeker723": {
+      "name": "Seeker723",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 19,
+      "areaString": "5-3",
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7,
+        4
+      ],
+      "crown": 10
+    },
+    "Rafa": {
+      "name": "Rafa",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 81,
+      "areaString": "5-3",
+      "kills": 256,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        19,
+        4,
+        27,
+        16
+      ],
+      "crown": 10
+    },
+    "Seeker157.70": {
+      "name": "Seeker157.70",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 7,
+      "areaString": "2-1",
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        8,
+        7
+      ],
+      "crown": 10
     }
   }
 }
