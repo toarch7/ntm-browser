@@ -1,6 +1,73 @@
 {
   "day": 25,
   "entries": {
+    "1133264859732115558": {
+      "name": "Throneseeker413",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "areaString": "1-1",
+      "kills": 5,
+      "crown": 1
+    },
+    "1133257348060819456": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 69,
+      "areaString": "2-1",
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        10,
+        7
+      ],
+      "crown": 1
+    },
+    "1133256215732949082": {
+      "name": "mataputas",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 34,
+      "areaString": "3-2",
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        28,
+        7,
+        24
+      ],
+      "crown": 1
+    },
+    "1133253619194536007": {
+      "name": "eduardo",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 18,
+      "areaString": "1-3",
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1
+    },
     "1133247002692567071": {
       "name": "Seeker712",
       "char": 2,

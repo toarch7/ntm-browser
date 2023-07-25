@@ -251,18 +251,21 @@
       "name": "Seeker413",
       "char": 1,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 6,
+      "subarea": 1,
       "loops": 0,
-      "wep": 13,
-      "bwep": 81,
-      "areaString": "3-2",
-      "kills": 154,
+      "wep": 4,
+      "bwep": 11,
+      "areaString": "6-1",
+      "kills": 281,
       "ultra": 0,
       "skills": [
         8,
-        13,
-        4
+        1,
+        19,
+        7,
+        21,
+        6
       ],
       "crown": 10
     },
@@ -842,16 +845,18 @@
       "name": "eduardo",
       "char": 1,
       "skin": true,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
       "wep": 13,
-      "bwep": 81,
-      "areaString": "2-1",
-      "kills": 94,
+      "bwep": 116,
+      "areaString": "4-?",
+      "kills": 182,
       "ultra": 0,
       "skills": [
-        7
+        7,
+        4,
+        28
       ],
       "crown": 10
     },
@@ -932,6 +937,28 @@
         21,
         1,
         7
+      ],
+      "crown": 10
+    },
+    "ты": {
+      "name": "ты",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 59,
+      "areaString": "7-3",
+      "kills": 352,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7,
+        4,
+        27,
+        19
       ],
       "crown": 10
     }
