@@ -1386,13 +1386,12 @@
       "subarea": 2,
       "loops": 0,
       "wep": 81,
-      "bwep": 3,
+      "bwep": 13,
       "areaString": "3-2",
-      "kills": 158,
+      "kills": 160,
       "ultra": 0,
       "skills": [
         8,
-        1,
         7,
         4
       ],
@@ -1402,21 +1401,23 @@
       "name": "Оффтоп",
       "char": 1,
       "skin": true,
-      "area": 105,
-      "subarea": 1,
-      "loops": 0,
-      "wep": 11,
-      "bwep": 53,
-      "areaString": "5-?",
-      "kills": 261,
-      "ultra": 0,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 115,
+      "bwep": 11,
+      "areaString": "1-3 L1",
+      "kills": 601,
+      "ultra": 2,
       "skills": [
         17,
         25,
+        21,
         13,
         4,
         27,
-        9
+        28,
+        23
       ],
       "crown": 10
     },
@@ -1455,6 +1456,51 @@
         17,
         1,
         13
+      ],
+      "crown": 10
+    },
+    "бебра": {
+      "name": "бебра",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 60,
+      "areaString": "7-1",
+      "kills": 323,
+      "ultra": 0,
+      "skills": [
+        17,
+        1,
+        13,
+        25,
+        21,
+        27,
+        6
+      ],
+      "crown": 10
+    },
+    "Ziga": {
+      "name": "Ziga",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 28,
+      "areaString": "5-2",
+      "kills": 245,
+      "ultra": 0,
+      "skills": [
+        8,
+        25,
+        3,
+        7,
+        4,
+        21
       ],
       "crown": 10
     }
