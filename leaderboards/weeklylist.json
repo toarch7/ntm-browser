@@ -1503,6 +1503,64 @@
         21
       ],
       "crown": 10
+    },
+    "Seeker655": {
+      "name": "Seeker655",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 4,
+      "areaString": "3-2",
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        8,
+        7
+      ],
+      "crown": 10
+    },
+    "Niky": {
+      "name": "Niky",
+      "char": 1,
+      "skin": true,
+      "area": 105,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 11,
+      "areaString": "5-?",
+      "kills": 258,
+      "ultra": 0,
+      "skills": [
+        1,
+        13,
+        7,
+        27,
+        9
+      ],
+      "crown": 10
+    },
+    "SeekNdestroy": {
+      "name": "SeekNdestroy",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 81,
+      "areaString": "3-1",
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7
+      ],
+      "crown": 10
     }
   }
 }
