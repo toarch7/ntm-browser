@@ -1,6 +1,84 @@
 {
   "day": 25,
   "entries": {
+    "1133533846852341972": {
+      "name": "Пидр228",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 5,
+      "areaString": "2-1",
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        28,
+        4
+      ],
+      "crown": 1
+    },
+    "1133533772088881192": {
+      "name": "Seeker648",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "areaString": "1-2",
+      "kills": 10,
+      "crown": 1
+    },
+    "1133529892701618316": {
+      "name": "Throneseeker413",
+      "char": 15,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 7,
+      "areaString": "1-2",
+      "kills": 15,
+      "crown": 1
+    },
+    "1133527343181349016": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 1,
+      "areaString": "1-3",
+      "kills": 17,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1
+    },
+    "1133525980309377135": {
+      "name": "balux",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 69,
+      "areaString": "2-1",
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1
+    },
     "1133515965850726563": {
       "name": "Czimbala",
       "char": 2,
