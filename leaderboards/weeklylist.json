@@ -1015,19 +1015,20 @@
       "name": "Seeker847",
       "char": 1,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 81,
-      "bwep": 13,
-      "areaString": "3-1",
-      "kills": 122,
+      "wep": 24,
+      "bwep": 11,
+      "areaString": "5-1",
+      "kills": 223,
       "ultra": 0,
       "skills": [
-        25,
-        3,
+        8,
         1,
-        13
+        7,
+        13,
+        21
       ],
       "crown": 10
     },
@@ -1060,20 +1061,20 @@
       "char": 1,
       "skin": true,
       "area": 7,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
       "wep": 13,
-      "bwep": 59,
-      "areaString": "7-1",
-      "kills": 340,
+      "bwep": 60,
+      "areaString": "7-2",
+      "kills": 351,
       "ultra": 0,
       "skills": [
         8,
         1,
         13,
-        4,
-        28,
         7,
+        27,
+        19,
         2
       ],
       "crown": 10
@@ -1727,6 +1728,27 @@
         1,
         13,
         4
+      ],
+      "crown": 10
+    },
+    "Ronin": {
+      "name": "Ronin",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 81,
+      "areaString": "5-2",
+      "kills": 225,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7,
+        4,
+        6
       ],
       "crown": 10
     }

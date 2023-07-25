@@ -1,6 +1,88 @@
 {
   "day": 25,
   "entries": {
+    "1133503221969715322": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "areaString": "1-1",
+      "kills": 0,
+      "crown": 1
+    },
+    "1133500233888833648": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "areaString": "1-3",
+      "kills": 17,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1
+    },
+    "1133498098480586905": {
+      "name": "Ronin",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "areaString": "1-3",
+      "kills": 17,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1
+    },
+    "1133497716119457882": {
+      "name": "Seeker712",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "areaString": "1-3",
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1
+    },
+    "1133492468642480158": {
+      "name": "Alex",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "areaString": "2-1",
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        28,
+        10
+      ],
+      "crown": 1
+    },
     "1133491537804791898": {
       "name": "ERWE",
       "char": 8,
