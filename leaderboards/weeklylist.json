@@ -84,20 +84,22 @@
       "name": "Seeker648",
       "char": 1,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 3,
-      "bwep": 124,
-      "areaString": "5-3",
-      "kills": 259,
+      "wep": 13,
+      "bwep": 47,
+      "areaString": "7-3",
+      "kills": 362,
       "ultra": 0,
       "skills": [
         8,
         1,
         13,
         4,
-        28
+        28,
+        7,
+        23
       ],
       "crown": 10
     },
@@ -1736,12 +1738,12 @@
       "char": 1,
       "skin": true,
       "area": 5,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 14,
-      "bwep": 81,
-      "areaString": "5-2",
-      "kills": 225,
+      "wep": 7,
+      "bwep": 28,
+      "areaString": "5-3",
+      "kills": 250,
       "ultra": 0,
       "skills": [
         8,
@@ -1749,6 +1751,108 @@
         7,
         4,
         6
+      ],
+      "crown": 10
+    },
+    "balux": {
+      "name": "balux",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 13,
+      "areaString": "3-1",
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7
+      ],
+      "crown": 10
+    },
+    "悪GATØ悪": {
+      "name": "悪GATØ悪",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 13,
+      "areaString": "3-2",
+      "kills": 160,
+      "ultra": 0,
+      "skills": [
+        8,
+        13,
+        7
+      ],
+      "crown": 10
+    },
+    "Seeker061": {
+      "name": "Seeker061",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 11,
+      "areaString": "5-3",
+      "kills": 254,
+      "ultra": 0,
+      "skills": [
+        17,
+        1,
+        13,
+        4,
+        27,
+        21
+      ],
+      "crown": 10
+    },
+    "Czimbala": {
+      "name": "Czimbala",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 11,
+      "areaString": "7-1",
+      "kills": 320,
+      "ultra": 0,
+      "skills": [
+        25,
+        21,
+        22,
+        13,
+        7,
+        27,
+        6
+      ],
+      "crown": 10
+    },
+    "Aaaaaa": {
+      "name": "Aaaaaa",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 81,
+      "areaString": "2-1",
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        19
       ],
       "crown": 10
     }
