@@ -147,20 +147,21 @@
       "name": "Erick",
       "char": 1,
       "skin": true,
-      "area": 5,
-      "subarea": 2,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
       "wep": 13,
-      "bwep": 81,
-      "areaString": "5-2",
-      "kills": 230,
+      "bwep": 11,
+      "areaString": "7-3",
+      "kills": 334,
       "ultra": 0,
       "skills": [
         8,
         1,
         13,
         4,
-        27
+        27,
+        19
       ],
       "crown": 10
     },
@@ -1212,6 +1213,168 @@
       "skills": [
         8,
         7
+      ],
+      "crown": 10
+    },
+    "Spixic": {
+      "name": "Spixic",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 13,
+      "areaString": "2-1",
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        1,
+        19
+      ],
+      "crown": 10
+    },
+    "iban": {
+      "name": "iban",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 30,
+      "areaString": "3-2",
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        25,
+        3,
+        1,
+        7
+      ],
+      "crown": 10
+    },
+    "Frike": {
+      "name": "Frike",
+      "char": 1,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 7,
+      "areaString": "2-?",
+      "kills": 118,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        21
+      ],
+      "crown": 10
+    },
+    "Koala": {
+      "name": "Koala",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 81,
+      "areaString": "2-1",
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        13
+      ],
+      "crown": 10
+    },
+    "Seeker662.80": {
+      "name": "Seeker662.80",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "areaString": "2-1",
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        8,
+        7
+      ],
+      "crown": 10
+    },
+    "LastKalina": {
+      "name": "LastKalina",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 28,
+      "bwep": 81,
+      "areaString": "5-3",
+      "kills": 245,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7,
+        4,
+        27,
+        16
+      ],
+      "crown": 10
+    },
+    "Seeker608": {
+      "name": "Seeker608",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 124,
+      "areaString": "5-3",
+      "kills": 278,
+      "ultra": 0,
+      "skills": [
+        17,
+        22,
+        13,
+        4,
+        27,
+        6
+      ],
+      "crown": 10
+    },
+    "Seeker713": {
+      "name": "Seeker713",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 68,
+      "bwep": 23,
+      "areaString": "7-3",
+      "kills": 364,
+      "ultra": 0,
+      "skills": [
+        25,
+        3,
+        22,
+        13,
+        4,
+        27,
+        6,
+        23
       ],
       "crown": 10
     }
