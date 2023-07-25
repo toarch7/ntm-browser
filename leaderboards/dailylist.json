@@ -1,6 +1,100 @@
 {
   "day": 25,
   "entries": {
+    "1133280934968434789": {
+      "name": "Спин",
+      "char": 14,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 5,
+      "areaString": "1-3",
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1
+    },
+    "1133273675529998336": {
+      "name": "Seeker815",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 7,
+      "areaString": "3-2",
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        10,
+        8
+      ],
+      "crown": 1
+    },
+    "1133273673382506497": {
+      "name": "DoderTool",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 17,
+      "areaString": "5-3",
+      "kills": 227,
+      "ultra": 0,
+      "skills": [
+        2,
+        4,
+        19,
+        8,
+        22
+      ],
+      "crown": 1
+    },
+    "1133269594543493170": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 34,
+      "areaString": "3-2",
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        4,
+        24
+      ],
+      "crown": 1
+    },
+    "1133268859797897266": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 34,
+      "areaString": "3-2",
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        28,
+        7,
+        13,
+        19
+      ],
+      "crown": 1
+    },
     "1133264859732115558": {
       "name": "Throneseeker413",
       "char": 1,
