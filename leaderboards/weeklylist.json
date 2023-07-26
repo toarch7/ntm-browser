@@ -1180,6 +1180,92 @@
         3
       ],
       "crown": 12
+    },
+    "hexsander": {
+      "name": "hexsander",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 35,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        1
+      ],
+      "crown": 12
+    },
+    "Seeker586": {
+      "name": "Seeker586",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 35,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        3
+      ],
+      "crown": 12
+    },
+    "Stefa": {
+      "name": "Stefa",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        2,
+        1
+      ],
+      "crown": 12
+    },
+    "Seeker982": {
+      "name": "Seeker982",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 35,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        25,
+        4
+      ],
+      "crown": 12
+    },
+    "Spixic": {
+      "name": "Spixic",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
     }
   }
 }
