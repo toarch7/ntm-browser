@@ -708,6 +708,43 @@
         7
       ],
       "crown": 12
+    },
+    "Erick": {
+      "name": "Erick",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "areaString": "3-3",
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        4,
+        3,
+        1
+      ],
+      "crown": 12
+    },
+    "Throneseeker265": {
+      "name": "Throneseeker265",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 88,
+      "areaString": "3-1",
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        1,
+        16
+      ],
+      "crown": 12
     }
   }
 }
