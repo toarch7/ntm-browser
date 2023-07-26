@@ -870,6 +870,81 @@
         6
       ],
       "crown": 12
+    },
+    "BlackKidBoy": {
+      "name": "BlackKidBoy",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        8
+      ],
+      "crown": 12
+    },
+    "Iverdigital": {
+      "name": "Iverdigital",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 88,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        28,
+        8
+      ],
+      "crown": 12
+    },
+    "Seeker480": {
+      "name": "Seeker480",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 69,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "Seeker590": {
+      "name": "Seeker590",
+      "char": 4,
+      "skin": false,
+      "area": 105,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 35,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        1,
+        12,
+        13,
+        7
+      ],
+      "crown": 12
     }
   }
 }

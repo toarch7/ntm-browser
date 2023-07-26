@@ -646,6 +646,68 @@
         10
       ],
       "crown": 1
+    },
+    "1133731205444018197": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 9,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        4,
+        22,
+        1,
+        26,
+        9
+      ],
+      "crown": 1
+    },
+    "1133725003947442226": {
+      "name": "DeezNuts",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 4,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        4,
+        16,
+        12
+      ],
+      "crown": 1
+    },
+    "1133720833135755344": {
+      "name": "Sku",
+      "char": 11,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 13,
+      "bwep": 111,
+      "kills": 1176,
+      "ultra": 1,
+      "skills": [
+        27,
+        23,
+        1,
+        10,
+        9,
+        8,
+        13,
+        25,
+        4
+      ],
+      "crown": 7
     }
   }
 }
