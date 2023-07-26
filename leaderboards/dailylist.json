@@ -987,6 +987,59 @@
         23
       ],
       "crown": 1
+    },
+    "1133858190656798821": {
+      "name": "Czimbala",
+      "char": 1,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 9,
+      "kills": 246,
+      "ultra": 0,
+      "skills": [
+        27,
+        16,
+        22,
+        23,
+        9,
+        1
+      ],
+      "crown": 1
+    },
+    "1133852227220549643": {
+      "name": "Спин",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 9,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        27,
+        16,
+        25,
+        4,
+        19
+      ],
+      "crown": 1
+    },
+    "1133852125131186177": {
+      "name": "Br",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "kills": 7,
+      "crown": 1
     }
   }
 }

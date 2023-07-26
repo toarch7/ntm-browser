@@ -1322,6 +1322,60 @@
         1
       ],
       "crown": 12
+    },
+    "Ziga": {
+      "name": "Ziga",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 35,
+      "kills": 187,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        6,
+        12,
+        13
+      ],
+      "crown": 12
+    },
+    "Seeker532": {
+      "name": "Seeker532",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "Br": {
+      "name": "Br",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        25,
+        4
+      ],
+      "crown": 12
     }
   }
 }
