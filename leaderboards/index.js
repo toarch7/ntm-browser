@@ -96,10 +96,12 @@ client.once(Events.ClientReady, c => {
             dailylist = JSON.parse(readFileSync("./leaderboards/dailylist.json", "utf-8"));
 
 			entires = dailylist.entries;
-	    console.log("entries", entires);
+			
             if (dailylist.day != date)
                 reset = true;
         }
+
+	    console.log("entries", entires);
 
         console.log(`(Daily) Received ${messages.size} messages`);
 
