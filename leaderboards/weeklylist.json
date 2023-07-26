@@ -994,6 +994,42 @@
       "bwep": 3,
       "kills": 76,
       "crown": 12
+    },
+    "KIRILLPLAY": {
+      "name": "KIRILLPLAY",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "noname": {
+      "name": "noname",
+      "char": 4,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        1,
+        12
+      ],
+      "crown": 12
     }
   }
 }
