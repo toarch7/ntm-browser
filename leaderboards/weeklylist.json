@@ -580,6 +580,76 @@
         4
       ],
       "crown": 12
+    },
+    "seiji000": {
+      "name": "seiji000",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "areaString": "2-1",
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        25,
+        4
+      ],
+      "crown": 12
+    },
+    "BABA": {
+      "name": "BABA",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "areaString": "2-1",
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "Seeker723": {
+      "name": "Seeker723",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "areaString": "2-1",
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        2,
+        4
+      ],
+      "crown": 12
+    },
+    "unnamed": {
+      "name": "unnamed",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "areaString": "2-1",
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
     }
   }
 }
