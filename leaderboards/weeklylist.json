@@ -848,6 +848,28 @@
         27
       ],
       "crown": 12
+    },
+    "Sku": {
+      "name": "Sku",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 35,
+      "kills": 252,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        21,
+        1,
+        4,
+        6
+      ],
+      "crown": 12
     }
   }
 }
