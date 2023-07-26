@@ -521,19 +521,22 @@
       "name": "бебра",
       "char": 4,
       "skin": false,
-      "area": 3,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
       "wep": 35,
-      "bwep": 5,
-      "areaString": "3-3",
-      "kills": 106,
+      "bwep": 29,
+      "areaString": "7-3",
+      "kills": 293,
       "ultra": 0,
       "skills": [
         25,
         4,
         3,
-        6
+        6,
+        26,
+        7,
+        14
       ],
       "crown": 12
     },
