@@ -951,17 +951,48 @@
       "name": "Adm",
       "char": 4,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 88,
-      "bwep": 69,
-      "kills": 36,
+      "wep": 5,
+      "bwep": 66,
+      "kills": 102,
       "ultra": 0,
       "skills": [
         25,
-        1
+        7,
+        1,
+        28,
+        8
       ],
+      "crown": 12
+    },
+    "kykyry3ka": {
+      "name": "kykyry3ka",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 5,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 12
+    },
+    "Throneseeker068": {
+      "name": "Throneseeker068",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 3,
+      "kills": 76,
       "crown": 12
     }
   }
