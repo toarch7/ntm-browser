@@ -816,18 +816,19 @@
       "name": "Cockonut",
       "char": 4,
       "skin": false,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 88,
+      "wep": 21,
       "bwep": 35,
-      "areaString": "3-1",
-      "kills": 67,
+      "kills": 154,
       "ultra": 0,
       "skills": [
         25,
         27,
-        28
+        16,
+        6,
+        22
       ],
       "crown": 12
     },
@@ -943,6 +944,23 @@
         12,
         13,
         7
+      ],
+      "crown": 12
+    },
+    "Adm": {
+      "name": "Adm",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 69,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        25,
+        1
       ],
       "crown": 12
     }
