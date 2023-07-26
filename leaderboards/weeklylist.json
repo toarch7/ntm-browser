@@ -1035,18 +1035,18 @@
       "name": "Throneseeker398",
       "char": 4,
       "skin": false,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
       "wep": 88,
       "bwep": 35,
-      "kills": 108,
+      "kills": 119,
       "ultra": 0,
       "skills": [
         25,
-        1,
+        4,
         3,
-        8
+        1
       ],
       "crown": 12
     },
@@ -1263,6 +1263,62 @@
       "kills": 34,
       "ultra": 0,
       "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "Seeker157.70": {
+      "name": "Seeker157.70",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 66,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        8,
+        12
+      ],
+      "crown": 12
+    },
+    "Kevalla": {
+      "name": "Kevalla",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 35,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        3,
+        8
+      ],
+      "crown": 12
+    },
+    "Seeker718": {
+      "name": "Seeker718",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        25,
         1
       ],
       "crown": 12
