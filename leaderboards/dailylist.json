@@ -1,4 +1,189 @@
 {
   "day": 26,
-  "entries": {}
+  "entries": {
+    "1133587395221131374": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "areaString": "3-1",
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        27,
+        22
+      ],
+      "crown": 1
+    },
+    "1133583025742028800": {
+      "name": "GV-CN",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 2,
+      "wep": 74,
+      "bwep": 111,
+      "areaString": "1-3 L2",
+      "kills": 2457,
+      "ultra": 2,
+      "skills": [
+        27,
+        23,
+        1,
+        10,
+        8,
+        13,
+        25,
+        7
+      ],
+      "crown": 7
+    },
+    "1133580813116657736": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 16,
+      "areaString": "1-3",
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1
+    },
+    "1133580382361636954": {
+      "name": "bajnmen",
+      "char": 3,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 86,
+      "bwep": 35,
+      "areaString": "6-1 L1",
+      "kills": 1578,
+      "ultra": 2,
+      "skills": [
+        27,
+        23,
+        25,
+        7,
+        6,
+        9,
+        8,
+        13,
+        12
+      ],
+      "crown": 7
+    },
+    "1133580087938256927": {
+      "name": "Seeker636",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 75,
+      "areaString": "5-2",
+      "kills": 176,
+      "ultra": 0,
+      "skills": [
+        8,
+        28,
+        25,
+        7,
+        19,
+        9
+      ],
+      "crown": 1
+    },
+    "1133579945130610748": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 13,
+      "areaString": "2-1",
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        27,
+        16
+      ],
+      "crown": 1
+    },
+    "1133572310733951037": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "areaString": "1-3",
+      "kills": 40,
+      "crown": 1
+    },
+    "1133562657157419090": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "areaString": "1-1",
+      "kills": 7,
+      "crown": 1
+    },
+    "1133557522146545704": {
+      "name": "Seeker960",
+      "char": 10,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 69,
+      "areaString": "1-3",
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1
+    },
+    "1133554564809900043": {
+      "name": "Seeker255",
+      "char": 4,
+      "skin": true,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "areaString": "1-?",
+      "kills": 12,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1
+    }
+  }
 }
