@@ -8,20 +8,18 @@
       "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 12,
-      "bwep": 11,
+      "wep": 11,
+      "bwep": 124,
       "areaString": "7-3",
-      "kills": 309,
-      "ultra": 2,
+      "kills": 316,
+      "ultra": 1,
       "skills": [
         25,
         27,
         3,
         1,
         12,
-        4,
-        14,
-        17
+        4
       ],
       "crown": 12
     },
@@ -518,6 +516,67 @@
         4
       ],
       "crown": 10
+    },
+    "бебра": {
+      "name": "бебра",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 5,
+      "areaString": "3-3",
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        3,
+        6
+      ],
+      "crown": 12
+    },
+    "GV-CN": {
+      "name": "GV-CN",
+      "char": 4,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 35,
+      "areaString": "6-1 L1",
+      "kills": 1098,
+      "ultra": 1,
+      "skills": [
+        25,
+        7,
+        27,
+        3,
+        1,
+        12,
+        13,
+        14
+      ],
+      "crown": 12
+    },
+    "Dhykzard_How": {
+      "name": "Dhykzard_How",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "areaString": "2-1",
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 12
     }
   }
 }
