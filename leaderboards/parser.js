@@ -4,38 +4,6 @@ const UltraNames = require("./tables/ultras.json");
 const WeaponNames = require("./tables/weapons.json");
 const Emotes = require("./tables/emotes.json");
 
-function areaGetString(area, subarea, loops) {
-    let _area = "?",
-        _subarea = "?",
-        _loop = "";
-
-    if (area == 106) {
-        _area = "HQ";
-        _subarea = subarea;
-    }
-    else if (area == 107) {
-        _area = "$$$";
-        _subarea = "";
-    }
-    else if (area > 100) {
-        _area = area - 100;
-        _subarea = "-?";
-    }
-    else if (area == 100) {
-        _area = "???";
-        _subarea = "";
-    }
-    else {
-        _area = area;
-        _subarea = "-" + subarea;
-    }
-
-    if (loops > 0)
-        _loop = " L" + loops;
-
-    return _area + _subarea + _loop;
-}
-
 let charCurrent = 1;
 
 function parseTitle(str) {
@@ -92,8 +60,6 @@ function parseDescription(str) {
 
 			if (a[1] && a[1][0] == "L")
 				ret.loops = parseInt(a[1].substring(1));
-
-            ret.areaString = areaGetString(ret.area, ret.subarea, ret.loops);
 
 			ret.kills = parseInt(a.pop().replace ("**", ""))
 

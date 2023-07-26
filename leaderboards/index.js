@@ -59,8 +59,10 @@ function sendLeaderboards(kind, list) {
             case 3: suffix = "rd."; break;
         }
 
+        let areaString = areaGetString(item.area, item.subarea, item.loops);
+
         // living hell, you might say
-        embed.description += `## ${place + suffix} ${icon} ${item.name}\n${Emotes.None}${Emotes.Kills} **Kills**: ${item.kills}\n${Emotes.None}${Emotes.Distance} **Distance**: ${item.areaString}\n\n`
+        embed.description += `## ${place + suffix} ${icon} ${item.name}\n${Emotes.None}${Emotes.Kills} **Kills**: ${item.kills}\n${Emotes.None}${Emotes.Distance} **Distance**: ${areaString}\n\n`
     }
 
     axios.post(url, { content: "", embeds: [ embed ] });
@@ -73,6 +75,38 @@ function getWeekNumber(d) {
     d.setUTCDate(d.getUTCDate() + 4 - (d.getUTCDay() || 7));
 
     return Math.ceil(( ( (d - yearStart) / 86400000) + 1) / 7);
+}
+
+function areaGetString(area, subarea, loops) {
+    let _area = "?",
+        _subarea = "?",
+        _loop = "";
+
+    if (area == 106) {
+        _area = "HQ";
+        _subarea = subarea;
+    }
+    else if (area == 107) {
+        _area = "$$$";
+        _subarea = "";
+    }
+    else if (area > 100) {
+        _area = area - 100;
+        _subarea = "-?";
+    }
+    else if (area == 100) {
+        _area = "???";
+        _subarea = "";
+    }
+    else {
+        _area = area;
+        _subarea = "-" + subarea;
+    }
+
+    if (loops > 0)
+        _loop = " L" + loops;
+
+    return _area + _subarea + _loop;
 }
 
 let weeklySeed = 123;
@@ -95,13 +129,11 @@ client.once(Events.ClientReady, c => {
         if (existsSync("./leaderboards/dailylist.json")) {
             dailylist = JSON.parse(readFileSync("./leaderboards/dailylist.json", "utf-8"));
 
-			entires = dailylist.entries;
+			entries = dailylist.entries;
 			
             if (dailylist.day != date)
                 reset = true;
         }
-
-	    console.log("entries", entires);
 
         console.log(`(Daily) Received ${messages.size} messages`);
 
