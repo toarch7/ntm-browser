@@ -627,7 +627,7 @@
       "wep": 69,
       "bwep": 35,
       "areaString": "2-1",
-      "kills": 37,
+      "kills": 38,
       "ultra": 0,
       "skills": [
         2,
@@ -791,6 +791,61 @@
         8,
         22,
         4
+      ],
+      "crown": 12
+    },
+    "саец": {
+      "name": "саец",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 35,
+      "areaString": "2-1",
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        25,
+        27
+      ],
+      "crown": 12
+    },
+    "Cockonut": {
+      "name": "Cockonut",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "areaString": "3-1",
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        28
+      ],
+      "crown": 12
+    },
+    "Seeker274.66": {
+      "name": "Seeker274.66",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "areaString": "2-1",
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        25,
+        27
       ],
       "crown": 12
     }

@@ -1,6 +1,61 @@
 {
   "day": 26,
   "entries": {
+    "1133703622060933140": {
+      "name": "STRVACT",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 70,
+      "areaString": "5-2",
+      "kills": 184,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        25,
+        3,
+        26,
+        28,
+        1
+      ],
+      "crown": 11
+    },
+    "1133698911240978472": {
+      "name": "Seeker413",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 0,
+      "areaString": "1-2",
+      "kills": 11,
+      "crown": 1
+    },
+    "1133689358155776133": {
+      "name": "Пидр228",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 75,
+      "areaString": "3-1",
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        1
+      ],
+      "crown": 1
+    },
     "1133687863473606666": {
       "name": "Cockonut",
       "char": 6,
