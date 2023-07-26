@@ -1,6 +1,84 @@
 {
   "day": 26,
   "entries": {
+    "1133687863473606666": {
+      "name": "Cockonut",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 39,
+      "areaString": "1-3",
+      "kills": 19,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1
+    },
+    "1133686744961794078": {
+      "name": "HatManSm",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 112,
+      "areaString": "5-3",
+      "kills": 204,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        25,
+        4,
+        6,
+        9,
+        21
+      ],
+      "crown": 1
+    },
+    "1133683964020805712": {
+      "name": "Seeker712",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "areaString": "1-3",
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1
+    },
+    "1133678202502520892": {
+      "name": "Erick",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 72,
+      "areaString": "5-3",
+      "kills": 174,
+      "ultra": 0,
+      "skills": [
+        8,
+        23,
+        12,
+        6,
+        28
+      ],
+      "crown": 1
+    },
     "1133674167527559229": {
       "name": "hexsander",
       "char": 8,

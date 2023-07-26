@@ -5,21 +5,22 @@
       "name": "Оффтоп",
       "char": 4,
       "skin": false,
-      "area": 7,
-      "subarea": 3,
-      "loops": 0,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
       "wep": 11,
-      "bwep": 124,
-      "areaString": "7-3",
-      "kills": 316,
+      "bwep": 35,
+      "areaString": "1-1 L1",
+      "kills": 409,
       "ultra": 1,
       "skills": [
         25,
-        27,
+        4,
         3,
         1,
         12,
-        4
+        7,
+        6
       ],
       "crown": 12
     },
@@ -713,18 +714,20 @@
       "name": "Erick",
       "char": 4,
       "skin": false,
-      "area": 3,
-      "subarea": 3,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 88,
-      "bwep": 35,
-      "areaString": "3-3",
-      "kills": 100,
+      "wep": 66,
+      "bwep": 74,
+      "areaString": "5-2",
+      "kills": 155,
       "ultra": 0,
       "skills": [
-        4,
+        27,
+        28,
         3,
-        1
+        12,
+        13
       ],
       "crown": 12
     },
@@ -743,6 +746,51 @@
       "skills": [
         1,
         16
+      ],
+      "crown": 12
+    },
+    "BREAD": {
+      "name": "BREAD",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 35,
+      "areaString": "7-1",
+      "kills": 281,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        28,
+        3,
+        22,
+        4,
+        13
+      ],
+      "crown": 12
+    },
+    "тіма": {
+      "name": "тіма",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 35,
+      "areaString": "5-3",
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        3,
+        8,
+        22,
+        4
       ],
       "crown": 12
     }
