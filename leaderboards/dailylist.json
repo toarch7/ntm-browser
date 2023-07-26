@@ -885,6 +885,42 @@
         4
       ],
       "crown": 1
+    },
+    "1133804217258233856": {
+      "name": "Seeker413",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 0,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1
+    },
+    "1133803685273673829": {
+      "name": "DoderTool",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 9,
+      "kills": 191,
+      "ultra": 0,
+      "skills": [
+        8,
+        23,
+        12,
+        2,
+        9
+      ],
+      "crown": 1
     }
   }
 }

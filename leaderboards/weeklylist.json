@@ -1126,6 +1126,24 @@
         3
       ],
       "crown": 12
+    },
+    "DoderTool": {
+      "name": "DoderTool",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 35,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        28
+      ],
+      "crown": 12
     }
   }
 }
