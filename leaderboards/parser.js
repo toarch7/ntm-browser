@@ -56,11 +56,11 @@ function parseDescription(str) {
 				}
 				else ret.subarea = parseInt(b[1]);
 			}
-			else if (b[0].startsWith("HQ") {
+			else if (b[0].startsWith("HQ")) {
 				ret.area = 106;
 				ret.subarea = parseInt(b[1].substring(2));
 			}
-			else if (b[0].startsWith("$$$") {
+			else if (b[0].startsWith("$$$")) {
 				ret.area = 104;
 				ret.subarea = 1;
 			}
