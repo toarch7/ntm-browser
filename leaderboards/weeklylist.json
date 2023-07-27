@@ -2086,6 +2086,83 @@
         21
       ],
       "crown": 12
+    },
+    "lawliett": {
+      "name": "lawliett",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 35,
+      "win": false,
+      "kills": 187,
+      "ultra": 0,
+      "skills": [
+        2,
+        27,
+        3,
+        8,
+        12,
+        4
+      ],
+      "crown": 12
+    },
+    "ERWE": {
+      "name": "ERWE",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "King": {
+      "name": "King",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        3
+      ],
+      "crown": 12
+    },
+    "Kirito777": {
+      "name": "Kirito777",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 69,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        25,
+        7,
+        1
+      ],
+      "crown": 12
     }
   }
 }
