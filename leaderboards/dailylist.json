@@ -954,6 +954,76 @@
         1
       ],
       "crown": 7
+    },
+    "1134123747998191760": {
+      "name": "Seeker391",
+      "char": 9,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 46,
+      "kills": 208,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        16,
+        7,
+        1,
+        14
+      ],
+      "crown": 1
+    },
+    "1134118733800018061": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 1,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1
+    },
+    "1134118549636522085": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 27,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        25,
+        8
+      ],
+      "crown": 1
+    },
+    "1134116935538315477": {
+      "name": "EvilCat",
+      "char": 6,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 17,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1
     }
   }
 }

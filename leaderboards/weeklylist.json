@@ -1776,6 +1776,57 @@
         4
       ],
       "crown": 12
+    },
+    "jesus": {
+      "name": "jesus",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 69,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "Seeker743": {
+      "name": "Seeker743",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 35,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        1,
+        28
+      ],
+      "crown": 12
+    },
+    "Seeker391": {
+      "name": "Seeker391",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 69,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        25,
+        19,
+        4
+      ],
+      "crown": 12
     }
   }
 }
