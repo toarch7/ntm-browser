@@ -1827,6 +1827,56 @@
         4
       ],
       "crown": 12
+    },
+    "SexyBoy": {
+      "name": "SexyBoy",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "Seeker608": {
+      "name": "Seeker608",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        25,
+        4
+      ],
+      "crown": 12
+    },
+    "Scrotum": {
+      "name": "Scrotum",
+      "char": 4,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 35,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        27,
+        28
+      ],
+      "crown": 12
     }
   }
 }
