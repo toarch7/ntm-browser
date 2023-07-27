@@ -34,7 +34,7 @@ function ultraGet(name) {
 }
 
 function parseDescription(str) {
-	let ret = {area: 0, subarea: 1, loops: 0, wep: 0, bwep: 0 };
+	let ret = {area: 0, subarea: 1, loops: 0, wep: 0, bwep: 0, win: false };
 	
 	let desc = str.split("\n");
 	
@@ -55,6 +55,24 @@ function parseDescription(str) {
 				    ret.area += 100;
 				}
 				else ret.subarea = parseInt(b[1]);
+			}
+			else if (b[0].startsWith("HQ") {
+				ret.area = 106;
+				ret.subarea = parseInt(b[1].substring(2));
+			}
+			else if (b[0].startsWith("$$$") {
+				ret.area = 104;
+				ret.subarea = 1;
+			}
+			else if (b[0] == "END1") {
+				ret.area = 7;
+				ret.subarea = 3;
+				ret.win = true;
+			}
+			else if (b[0] == "END2") {
+				ret.area = 106;
+				ret.subarea = 3;
+				ret.win = true;
 			}
 			else ret.area = 100;
 
