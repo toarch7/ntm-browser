@@ -865,6 +865,95 @@
         13
       ],
       "crown": 1
+    },
+    "1134114574329712701": {
+      "name": "Ziga",
+      "char": 5,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 17,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1
+    },
+    "1134111991246639104": {
+      "name": "Throneseeker265",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 36,
+      "kills": 167,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        14
+      ],
+      "crown": 1
+    },
+    "1134111533417373788": {
+      "name": "Спасибо",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1
+    },
+    "1134108756507099196": {
+      "name": "MrHat",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [
+        27,
+        16
+      ],
+      "crown": 1
+    },
+    "1134108104150237204": {
+      "name": "Czimbala",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 64,
+      "bwep": 37,
+      "kills": 555,
+      "ultra": 2,
+      "skills": [
+        27,
+        10,
+        4,
+        13,
+        3,
+        17,
+        1
+      ],
+      "crown": 7
     }
   }
 }
