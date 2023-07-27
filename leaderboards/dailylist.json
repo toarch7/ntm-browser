@@ -1242,6 +1242,76 @@
         6
       ],
       "crown": 1
+    },
+    "1134201597950443590": {
+      "name": "Бяка2206",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 1,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        25,
+        27
+      ],
+      "crown": 1
+    },
+    "1134200925284728892": {
+      "name": "Throneseeker413",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 17,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        6,
+        10
+      ],
+      "crown": 1
+    },
+    "1134196085749981285": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 13,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1
+    },
+    "1134192913669161001": {
+      "name": "Stalker.null",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 15,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1
     }
   }
 }

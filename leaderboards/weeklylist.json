@@ -379,26 +379,26 @@
     },
     "Czimbala": {
       "name": "Czimbala",
-      "char": 1,
-      "skin": true,
+      "char": 4,
+      "skin": false,
       "area": 7,
-      "subarea": 1,
-      "loops": 0,
-      "wep": 53,
-      "bwep": 11,
-      "areaString": "7-1",
-      "kills": 320,
-      "ultra": 0,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 66,
+      "win": false,
+      "kills": 1245,
+      "ultra": 1,
       "skills": [
         25,
-        21,
-        22,
-        13,
-        7,
         27,
-        6
+        3,
+        21,
+        1,
+        7,
+        13
       ],
-      "crown": 10
+      "crown": 12
     },
     "Diego": {
       "name": "Diego",
