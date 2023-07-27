@@ -454,6 +454,45 @@
         1
       ],
       "crown": 1
+    },
+    "1134032737137856613": {
+      "name": "Cockonut",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 27,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        27,
+        10,
+        7
+      ],
+      "crown": 1
+    },
+    "1134027322773741600": {
+      "name": "Throneseeker747",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 116,
+      "kills": 773,
+      "ultra": 1,
+      "skills": [
+        27,
+        1,
+        14,
+        16,
+        3,
+        22
+      ],
+      "crown": 7
     }
   }
 }
