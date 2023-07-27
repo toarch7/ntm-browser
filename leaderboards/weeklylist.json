@@ -863,19 +863,20 @@
       "name": "Sku",
       "char": 4,
       "skin": false,
-      "area": 7,
+      "area": 1,
       "subarea": 1,
-      "loops": 0,
+      "loops": 2,
       "wep": 29,
       "bwep": 35,
-      "kills": 252,
-      "ultra": 0,
+      "win": false,
+      "kills": 1372,
+      "ultra": 1,
       "skills": [
         25,
         27,
         3,
-        21,
         1,
+        22,
         4,
         6
       ],
@@ -1945,6 +1946,50 @@
         1,
         12,
         7
+      ],
+      "crown": 12
+    },
+    "Czimbala,": {
+      "name": "Czimbala,",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 35,
+      "win": false,
+      "kills": 845,
+      "ultra": 1,
+      "skills": [
+        25,
+        27,
+        3,
+        1,
+        22,
+        13,
+        6
+      ],
+      "crown": 12
+    },
+    "Sharashckin": {
+      "name": "Sharashckin",
+      "char": 4,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 35,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        21,
+        12
       ],
       "crown": 12
     }
