@@ -620,17 +620,18 @@
       "name": "Seeker723",
       "char": 4,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
       "wep": 69,
       "bwep": 35,
-      "areaString": "2-1",
-      "kills": 38,
+      "kills": 99,
       "ultra": 0,
       "skills": [
         2,
-        4
+        4,
+        16,
+        6
       ],
       "crown": 12
     },
@@ -1534,6 +1535,47 @@
       "skills": [
         1,
         16
+      ],
+      "crown": 12
+    },
+    "Alexey": {
+      "name": "Alexey",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 9,
+      "kills": 197,
+      "ultra": 0,
+      "skills": [
+        25,
+        7,
+        27,
+        3,
+        1,
+        22,
+        13
+      ],
+      "crown": 12
+    },
+    "skovorodka": {
+      "name": "skovorodka",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        25,
+        7,
+        27,
+        3
       ],
       "crown": 12
     }
