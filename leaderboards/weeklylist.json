@@ -1612,6 +1612,62 @@
         3
       ],
       "crown": 12
+    },
+    "_beJ": {
+      "name": "_beJ",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        25,
+        7,
+        27
+      ],
+      "crown": 12
+    },
+    "MrHat": {
+      "name": "MrHat",
+      "char": 4,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 35,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        28,
+        8,
+        22
+      ],
+      "crown": 12
+    },
+    "Seeker066": {
+      "name": "Seeker066",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 16,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        1,
+        16,
+        6
+      ],
+      "crown": 12
     }
   }
 }
