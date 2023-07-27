@@ -2048,6 +2048,44 @@
         8
       ],
       "crown": 12
+    },
+    "Seeker562": {
+      "name": "Seeker562",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 35,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        1,
+        3
+      ],
+      "crown": 12
+    },
+    "katzefuchs": {
+      "name": "katzefuchs",
+      "char": 4,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 88,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        25,
+        19,
+        28,
+        21
+      ],
+      "crown": 12
     }
   }
 }
