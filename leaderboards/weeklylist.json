@@ -176,21 +176,24 @@
     },
     "Seeker413": {
       "name": "Seeker413",
-      "char": 1,
-      "skin": true,
-      "area": 3,
-      "subarea": 1,
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 81,
-      "bwep": 13,
-      "areaString": "3-1",
-      "kills": 129,
+      "wep": 30,
+      "bwep": 35,
+      "kills": 186,
       "ultra": 0,
       "skills": [
-        8,
-        7
+        25,
+        27,
+        3,
+        21,
+        12,
+        4
       ],
-      "crown": 10
+      "crown": 12
     },
     "Seeker648": {
       "name": "Seeker648",
@@ -631,7 +634,7 @@
       "loops": 0,
       "wep": 69,
       "bwep": 35,
-      "kills": 99,
+      "kills": 105,
       "ultra": 0,
       "skills": [
         2,
@@ -1460,14 +1463,24 @@
     },
     "Main": {
       "name": "Main",
-      "char": 14,
+      "char": 4,
       "skin": false,
-      "area": 6,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
       "wep": 74,
       "bwep": 35,
-      "kills": 251,
+      "kills": 292,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        8,
+        1,
+        13,
+        14
+      ],
       "crown": 12
     },
     "powerdrish": {
@@ -1874,6 +1887,41 @@
       "ultra": 0,
       "skills": [
         27,
+        28
+      ],
+      "crown": 12
+    },
+    "Bizqued": {
+      "name": "Bizqued",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 21,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        8
+      ],
+      "crown": 12
+    },
+    "jhon412": {
+      "name": "jhon412",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 66,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        1,
         28
       ],
       "crown": 12

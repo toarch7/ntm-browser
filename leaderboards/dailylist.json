@@ -1056,6 +1056,74 @@
         27
       ],
       "crown": 1
+    },
+    "1134159769469460522": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "kills": 9,
+      "crown": 1
+    },
+    "1134157851611365447": {
+      "name": "Bizqued",
+      "char": 3,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 44,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        27,
+        7
+      ],
+      "crown": 1
+    },
+    "1134150619800797334": {
+      "name": "sparroW,,",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 37,
+      "bwep": 29,
+      "kills": 499,
+      "ultra": 2,
+      "skills": [
+        27,
+        1,
+        4,
+        13,
+        3,
+        17,
+        22
+      ],
+      "crown": 1
+    },
+    "1134150414120517772": {
+      "name": "Seeker712",
+      "char": 9,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 23,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        27,
+        7
+      ],
+      "crown": 1
     }
   }
 }
