@@ -1462,6 +1462,64 @@
       "bwep": 35,
       "kills": 251,
       "crown": 12
+    },
+    "powerdrish": {
+      "name": "powerdrish",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 11,
+      "kills": 197,
+      "ultra": 0,
+      "skills": [
+        4,
+        3,
+        1,
+        2,
+        7,
+        10,
+        13
+      ],
+      "crown": 12
+    },
+    "georgefloyd": {
+      "name": "georgefloyd",
+      "char": 4,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 69,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        3,
+        26
+      ],
+      "crown": 12
+    },
+    "Seeker848": {
+      "name": "Seeker848",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        1,
+        16
+      ],
+      "crown": 12
     }
   }
 }
