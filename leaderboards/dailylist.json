@@ -626,6 +626,89 @@
         22
       ],
       "crown": 1
+    },
+    "1134084720951558204": {
+      "name": "Seeker413",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 17,
+      "kills": 15,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1
+    },
+    "1134082840624119880": {
+      "name": "Debil",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1
+    },
+    "1134080830860443680": {
+      "name": "seiji000",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        27,
+        10
+      ],
+      "crown": 1
+    },
+    "1134076189779185694": {
+      "name": "Seeker788",
+      "char": 2,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 27,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        27,
+        16,
+        7
+      ],
+      "crown": 1
+    },
+    "1134071854995357736": {
+      "name": "Kevalla",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 17,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1
     }
   }
 }
