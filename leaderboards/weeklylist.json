@@ -1992,6 +1992,25 @@
         12
       ],
       "crown": 12
+    },
+    "Seeker270": {
+      "name": "Seeker270",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 69,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        3
+      ],
+      "crown": 12
     }
   }
 }
