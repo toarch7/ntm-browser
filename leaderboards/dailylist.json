@@ -1142,6 +1142,42 @@
         10
       ],
       "crown": 1
+    },
+    "1134176078995411024": {
+      "name": "Seeker712",
+      "char": 15,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 27,
+      "win": false,
+      "kills": 2,
+      "crown": 1
+    },
+    "1134176053833769020": {
+      "name": "Czimbala,",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 37,
+      "bwep": 11,
+      "win": false,
+      "kills": 627,
+      "ultra": 2,
+      "skills": [
+        27,
+        10,
+        4,
+        13,
+        21,
+        24,
+        22
+      ],
+      "crown": 1
     }
   }
 }
