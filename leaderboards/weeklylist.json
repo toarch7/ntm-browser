@@ -275,20 +275,26 @@
     },
     "Throneseeker413": {
       "name": "Throneseeker413",
-      "char": 1,
-      "skin": true,
-      "area": 3,
-      "subarea": 1,
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 13,
-      "bwep": 81,
-      "areaString": "3-1",
-      "kills": 135,
-      "ultra": 0,
+      "wep": 74,
+      "bwep": 25,
+      "kills": 313,
+      "ultra": 1,
       "skills": [
+        25,
+        27,
+        28,
+        3,
+        12,
+        13,
+        14,
         7
       ],
-      "crown": 10
+      "crown": 12
     },
     "balux": {
       "name": "balux",
@@ -1702,6 +1708,39 @@
       "skills": [
         25,
         1
+      ],
+      "crown": 12
+    },
+    "CrystalGamer": {
+      "name": "CrystalGamer",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 88,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "Providence": {
+      "name": "Providence",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        25,
+        27
       ],
       "crown": 12
     }
