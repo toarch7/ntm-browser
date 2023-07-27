@@ -2011,6 +2011,43 @@
         3
       ],
       "crown": 12
+    },
+    "Seeker379": {
+      "name": "Seeker379",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "joda": {
+      "name": "joda",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        8
+      ],
+      "crown": 12
     }
   }
 }
