@@ -589,10 +589,9 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 35,
-      "areaString": "2-1",
-      "kills": 35,
+      "wep": 35,
+      "bwep": 21,
+      "kills": 43,
       "ultra": 0,
       "skills": [
         25,
@@ -1514,6 +1513,23 @@
       "wep": 69,
       "bwep": 35,
       "kills": 79,
+      "ultra": 0,
+      "skills": [
+        1,
+        16
+      ],
+      "crown": 12
+    },
+    "biba": {
+      "name": "biba",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 35,
+      "kills": 62,
       "ultra": 0,
       "skills": [
         1,
