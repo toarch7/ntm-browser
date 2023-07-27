@@ -1450,6 +1450,18 @@
         3
       ],
       "crown": 12
+    },
+    "Main": {
+      "name": "Main",
+      "char": 14,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 35,
+      "kills": 251,
+      "crown": 12
     }
   }
 }
