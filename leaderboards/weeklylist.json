@@ -2313,22 +2313,25 @@
       "name": "kringe_master,",
       "char": 4,
       "skin": false,
-      "area": 7,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 29,
-      "bwep": 9,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 53,
+      "bwep": 12,
       "win": false,
-      "kills": 299,
-      "ultra": 1,
+      "kills": 659,
+      "ultra": 2,
       "skills": [
         25,
         27,
         3,
         21,
+        22,
+        4,
+        6,
+        14,
         1,
-        7,
-        6
+        13
       ],
       "crown": 12
     },
@@ -2440,6 +2443,27 @@
       "ultra": 0,
       "skills": [
         1
+      ],
+      "crown": 12
+    },
+    "Wint": {
+      "name": "Wint",
+      "char": 4,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 35,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        1,
+        22
       ],
       "crown": 12
     }
