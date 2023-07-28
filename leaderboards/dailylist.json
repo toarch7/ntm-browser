@@ -1199,6 +1199,54 @@
         28
       ],
       "crown": 1
+    },
+    "1134507840267100301": {
+      "name": "Seeker413",
+      "char": 12,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 21,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        14,
+        23
+      ],
+      "crown": 1
+    },
+    "1134502677519278202": {
+      "name": "Toro",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        1,
+        28
+      ],
+      "crown": 1
+    },
+    "1134499555031928952": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": null,
+      "subarea": null,
+      "loops": 1,
+      "wep": 0,
+      "bwep": 0,
+      "win": false,
+      "kills": 10
     }
   }
 }
