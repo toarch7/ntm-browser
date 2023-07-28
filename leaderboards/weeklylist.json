@@ -2594,6 +2594,45 @@
         6
       ],
       "crown": 12
+    },
+    "Seeker722": {
+      "name": "Seeker722",
+      "char": 4,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 35,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        1
+      ],
+      "crown": 12
+    },
+    "IDK": {
+      "name": "IDK",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        2,
+        4,
+        3
+      ],
+      "crown": 12
     }
   }
 }
