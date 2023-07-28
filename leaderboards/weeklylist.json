@@ -2313,21 +2313,21 @@
       "name": "kringe_master,",
       "char": 4,
       "skin": false,
-      "area": 6,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 11,
-      "bwep": 35,
+      "wep": 29,
+      "bwep": 9,
       "win": false,
-      "kills": 238,
-      "ultra": 0,
+      "kills": 299,
+      "ultra": 1,
       "skills": [
         25,
         27,
         3,
+        21,
         1,
-        22,
-        4,
+        7,
         6
       ],
       "crown": 12
@@ -2383,6 +2383,59 @@
       "ultra": 0,
       "skills": [
         24,
+        1
+      ],
+      "crown": 12
+    },
+    "Kringemaster": {
+      "name": "Kringemaster",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        25,
+        27
+      ],
+      "crown": 12
+    },
+    "MAYCLO": {
+      "name": "MAYCLO",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        2,
+        1
+      ],
+      "crown": 12
+    },
+    "Throneseeker471": {
+      "name": "Throneseeker471",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
         1
       ],
       "crown": 12
