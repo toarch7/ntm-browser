@@ -1112,15 +1112,16 @@
       "area": 3,
       "subarea": 3,
       "loops": 0,
-      "wep": 88,
+      "wep": 21,
       "bwep": 35,
-      "kills": 103,
+      "win": false,
+      "kills": 106,
       "ultra": 0,
       "skills": [
-        2,
+        25,
         4,
-        3,
-        8
+        28,
+        1
       ],
       "crown": 12
     },
@@ -2305,6 +2306,84 @@
         1,
         14,
         6
+      ],
+      "crown": 12
+    },
+    "kringe_master,": {
+      "name": "kringe_master,",
+      "char": 4,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 35,
+      "win": false,
+      "kills": 238,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        1,
+        22,
+        4,
+        6
+      ],
+      "crown": 12
+    },
+    "Wimdy": {
+      "name": "Wimdy",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        25,
+        19
+      ],
+      "crown": 12
+    },
+    "Knaiz": {
+      "name": "Knaiz",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 35,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        25,
+        7,
+        27
+      ],
+      "crown": 12
+    },
+    "Throneseeker632": {
+      "name": "Throneseeker632",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 3,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        24,
+        1
       ],
       "crown": 12
     }
