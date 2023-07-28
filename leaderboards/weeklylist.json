@@ -2724,6 +2724,43 @@
         1
       ],
       "crown": 12
+    },
+    "Seeker237": {
+      "name": "Seeker237",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 35,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        25,
+        4
+      ],
+      "crown": 12
+    },
+    "Reitorion": {
+      "name": "Reitorion",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 69,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        3
+      ],
+      "crown": 12
     }
   }
 }
