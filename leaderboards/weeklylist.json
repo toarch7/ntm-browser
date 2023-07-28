@@ -2466,6 +2466,35 @@
         22
       ],
       "crown": 12
+    },
+    "Цимб": {
+      "name": "Цимб",
+      "char": 4,
+      "skin": false,
+      "area": null,
+      "subarea": null,
+      "loops": 1,
+      "wep": 0,
+      "bwep": 0,
+      "win": false,
+      "kills": 13
+    },
+    "doodosa": {
+      "name": "doodosa",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
     }
   }
 }

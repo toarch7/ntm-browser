@@ -880,6 +880,101 @@
         13
       ],
       "crown": 1
+    },
+    "1134447671734698085": {
+      "name": "Throneseeker747",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 9,
+      "win": false,
+      "kills": 344,
+      "ultra": 1,
+      "skills": [
+        1,
+        23,
+        3,
+        25,
+        7,
+        17,
+        14,
+        27
+      ],
+      "crown": 11
+    },
+    "1134442598807912538": {
+      "name": "STRVACT",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 17,
+      "win": false,
+      "kills": 232,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        3,
+        7,
+        17
+      ],
+      "crown": 11
+    },
+    "1134439287832707072": {
+      "name": "Seeker255",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 0,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        1,
+        13,
+        26
+      ],
+      "crown": 8
+    },
+    "1134437934154653706": {
+      "name": "Vetek",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1
+    },
+    "1134434204269154304": {
+      "name": "Gushiloid",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        1,
+        23
+      ],
+      "crown": 1
     }
   }
 }
