@@ -2287,6 +2287,26 @@
         1
       ],
       "crown": 12
+    },
+    "Seeker437": {
+      "name": "Seeker437",
+      "char": 4,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        24,
+        1,
+        14,
+        6
+      ],
+      "crown": 12
     }
   }
 }
