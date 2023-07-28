@@ -2188,6 +2188,47 @@
         22
       ],
       "crown": 12
+    },
+    "Seeker866": {
+      "name": "Seeker866",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 2,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        2,
+        27
+      ],
+      "crown": 12
+    },
+    "HatManSm": {
+      "name": "HatManSm",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 35,
+      "win": false,
+      "kills": 189,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        21,
+        22,
+        4,
+        6
+      ],
+      "crown": 12
     }
   }
 }
