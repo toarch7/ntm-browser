@@ -1247,6 +1247,81 @@
       "bwep": 0,
       "win": false,
       "kills": 10
+    },
+    "1134524845300916355": {
+      "name": "balux",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 30,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        1,
+        23
+      ],
+      "crown": 1
+    },
+    "1134520934284410930": {
+      "name": "Seeker270",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 63,
+      "win": false,
+      "kills": 282,
+      "ultra": 0,
+      "skills": [
+        1,
+        3,
+        25,
+        16,
+        7,
+        4
+      ],
+      "crown": 1
+    },
+    "1134516133815386152": {
+      "name": "Seeker852",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1
+    },
+    "1134515682839646208": {
+      "name": "Kirito777",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        6,
+        28
+      ],
+      "crown": 1
     }
   }
 }
