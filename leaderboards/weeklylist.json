@@ -2636,6 +2636,75 @@
         3
       ],
       "crown": 12
+    },
+    "Pump": {
+      "name": "Pump",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 69,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "Seeker326": {
+      "name": "Seeker326",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "сок": {
+      "name": "сок",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 69,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        2,
+        27
+      ],
+      "crown": 12
+    },
+    "CockSuccer": {
+      "name": "CockSuccer",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 88,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
     }
   }
 }
