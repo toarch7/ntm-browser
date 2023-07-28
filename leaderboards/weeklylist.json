@@ -617,16 +617,19 @@
       "name": "BABA",
       "char": 4,
       "skin": false,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
+      "wep": 23,
       "bwep": 35,
-      "areaString": "2-1",
-      "kills": 33,
+      "win": false,
+      "kills": 116,
       "ultra": 0,
       "skills": [
-        1
+        1,
+        24,
+        8,
+        22
       ],
       "crown": 12
     },
@@ -2493,6 +2496,26 @@
       "ultra": 0,
       "skills": [
         1
+      ],
+      "crown": 12
+    },
+    "Я": {
+      "name": "Я",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        25,
+        7,
+        27,
+        3
       ],
       "crown": 12
     }
