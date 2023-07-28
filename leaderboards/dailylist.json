@@ -255,6 +255,48 @@
         14
       ],
       "crown": 1
+    },
+    "1134337245491495032": {
+      "name": "Seeker712",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 17,
+      "win": false,
+      "kills": 118,
+      "ultra": 0,
+      "skills": [
+        1,
+        23
+      ],
+      "crown": 1
+    },
+    "1134334469352980620": {
+      "name": "GV-CN",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 111,
+      "bwep": 86,
+      "win": false,
+      "kills": 3204,
+      "ultra": 1,
+      "skills": [
+        1,
+        23,
+        13,
+        25,
+        6,
+        7,
+        17,
+        27
+      ],
+      "crown": 7
     }
   }
 }
