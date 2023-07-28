@@ -1858,12 +1858,13 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
+      "wep": 69,
       "bwep": 35,
-      "kills": 37,
+      "win": false,
+      "kills": 44,
       "ultra": 0,
       "skills": [
-        1
+        4
       ],
       "crown": 12
     },
@@ -2554,6 +2555,23 @@
         27,
         3,
         8
+      ],
+      "crown": 12
+    },
+    "C0dem4n": {
+      "name": "C0dem4n",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        1
       ],
       "crown": 12
     }
