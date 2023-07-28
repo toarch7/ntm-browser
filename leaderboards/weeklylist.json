@@ -2231,6 +2231,62 @@
         6
       ],
       "crown": 12
+    },
+    "Nigger": {
+      "name": "Nigger",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 35,
+      "win": false,
+      "kills": 307,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        3,
+        8,
+        22,
+        14
+      ],
+      "crown": 12
+    },
+    "Seeker339": {
+      "name": "Seeker339",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 12
+    },
+    "Criki": {
+      "name": "Criki",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
     }
   }
 }
