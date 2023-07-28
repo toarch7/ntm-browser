@@ -2391,17 +2391,20 @@
       "name": "Kringemaster",
       "char": 4,
       "skin": false,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 35,
+      "wep": 35,
+      "bwep": 89,
       "win": false,
-      "kills": 45,
+      "kills": 124,
       "ultra": 0,
       "skills": [
         25,
-        27
+        27,
+        3,
+        21,
+        1
       ],
       "crown": 12
     },
