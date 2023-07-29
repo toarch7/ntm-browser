@@ -3193,6 +3193,79 @@
         27
       ],
       "crown": 12
+    },
+    "YVFAN$$$": {
+      "name": "YVFAN$$$",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 21,
+      "win": false,
+      "kills": 173,
+      "ultra": 0,
+      "skills": [
+        1,
+        24,
+        8,
+        26,
+        7
+      ],
+      "crown": 12
+    },
+    "hacker123": {
+      "name": "hacker123",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        1,
+        28
+      ],
+      "crown": 12
+    },
+    "Andre": {
+      "name": "Andre",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 35,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 12
+    },
+    "Throneseeker654": {
+      "name": "Throneseeker654",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
     }
   }
 }
