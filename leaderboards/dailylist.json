@@ -1,4 +1,128 @@
 {
   "day": 29,
-  "entries": {}
+  "entries": {
+    "1134671561274703993": {
+      "name": "Seeker718",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        27,
+        14
+      ],
+      "crown": 8
+    },
+    "1134669203073405001": {
+      "name": "GV-CN",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 33,
+      "bwep": 23,
+      "win": false,
+      "kills": 544,
+      "ultra": 2,
+      "skills": [
+        13,
+        27,
+        7,
+        23,
+        3,
+        22
+      ],
+      "crown": 7
+    },
+    "1134663612871495802": {
+      "name": "Diego",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 39,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        22,
+        27,
+        21
+      ],
+      "crown": 11
+    },
+    "1134661935166656593": {
+      "name": "hexsander3",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 35,
+      "win": false,
+      "kills": 236,
+      "ultra": 0,
+      "skills": [
+        21,
+        12,
+        17,
+        29
+      ],
+      "crown": 5
+    },
+    "1134659467259154474": {
+      "name": "Seeker712",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 6,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        21,
+        8,
+        22
+      ],
+      "crown": 1
+    },
+    "1134657924967432262": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 63,
+      "win": false,
+      "kills": 339,
+      "ultra": 0,
+      "skills": [
+        14,
+        8,
+        12,
+        28,
+        19,
+        22,
+        24
+      ],
+      "crown": 1
+    }
+  }
 }
