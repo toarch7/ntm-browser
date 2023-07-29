@@ -123,6 +123,68 @@
         24
       ],
       "crown": 1
+    },
+    "1134686534013042770": {
+      "name": "Aether1509",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1
+    },
+    "1134686480082669608": {
+      "name": "Femboy",
+      "char": 1,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 83,
+      "win": false,
+      "kills": 343,
+      "ultra": 0,
+      "skills": [
+        7,
+        13,
+        27,
+        17,
+        23,
+        3
+      ],
+      "crown": 1
+    },
+    "1134677338496438313": {
+      "name": "bajnmen",
+      "char": 11,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 92,
+      "bwep": 35,
+      "win": false,
+      "kills": 3937,
+      "ultra": 1,
+      "skills": [
+        13,
+        27,
+        7,
+        12,
+        23,
+        3,
+        14
+      ],
+      "crown": 7
     }
   }
 }
