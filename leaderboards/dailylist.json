@@ -645,6 +645,74 @@
       "win": false,
       "kills": 4,
       "crown": 1
+    },
+    "1134805908329873498": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 71,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        8,
+        12,
+        17
+      ],
+      "crown": 8
+    },
+    "1134804899587166239": {
+      "name": "Seeker413",
+      "char": 8,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 23,
+      "win": false,
+      "kills": 293,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        7,
+        28,
+        23
+      ],
+      "crown": 1
+    },
+    "1134803679262806086": {
+      "name": "Gushiloid",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 8,
+      "crown": 1
+    },
+    "1134801138517028936": {
+      "name": "Seeker295",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 21,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1
     }
   }
 }

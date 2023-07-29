@@ -2966,6 +2966,41 @@
         4
       ],
       "crown": 12
+    },
+    "Seeker295": {
+      "name": "Seeker295",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 88,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "Seeker713": {
+      "name": "Seeker713",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        25,
+        4
+      ],
+      "crown": 12
     }
   }
 }
