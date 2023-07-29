@@ -3101,6 +3101,76 @@
         28
       ],
       "crown": 12
+    },
+    "el": {
+      "name": "el",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 69,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        25,
+        7,
+        4
+      ],
+      "crown": 12
+    },
+    "hunter": {
+      "name": "hunter",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 69,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "Seeker016": {
+      "name": "Seeker016",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 12
+    },
+    "dungeon": {
+      "name": "dungeon",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
     }
   }
 }
