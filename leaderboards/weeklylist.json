@@ -2866,6 +2866,84 @@
         1
       ],
       "crown": 12
+    },
+    "gulabatu2314": {
+      "name": "gulabatu2314",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 12
+    },
+    "Lilith": {
+      "name": "Lilith",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 74,
+      "win": false,
+      "kills": 184,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        21,
+        22,
+        13,
+        14
+      ],
+      "crown": 12
+    },
+    "FARHAN": {
+      "name": "FARHAN",
+      "char": 4,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 35,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        1,
+        28
+      ],
+      "crown": 12
+    },
+    "Wewewf3": {
+      "name": "Wewewf3",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 66,
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        3,
+        21
+      ],
+      "crown": 12
     }
   }
 }
