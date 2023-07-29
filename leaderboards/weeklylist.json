@@ -1647,17 +1647,26 @@
       "name": "_beJ",
       "char": 4,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
-      "loops": 0,
-      "wep": 88,
+      "area": 3,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 53,
       "bwep": 35,
-      "kills": 51,
-      "ultra": 0,
+      "win": false,
+      "kills": 567,
+      "ultra": 2,
       "skills": [
         25,
         7,
-        27
+        27,
+        3,
+        8,
+        26,
+        13,
+        14,
+        6,
+        1,
+        17
       ],
       "crown": 12
     },
@@ -2835,6 +2844,25 @@
       "kills": 35,
       "ultra": 0,
       "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "PALERMO": {
+      "name": "PALERMO",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        25,
+        7,
         1
       ],
       "crown": 12

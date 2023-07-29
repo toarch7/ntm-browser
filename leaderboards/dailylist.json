@@ -397,6 +397,49 @@
         27
       ],
       "crown": 1
+    },
+    "1134750170446303262": {
+      "name": "MrHat",
+      "char": 5,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 2,
+      "crown": 1
+    },
+    "1134747423034572862": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1
+    },
+    "1134740546263449642": {
+      "name": "BREAD",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 8,
+      "crown": 1
     }
   }
 }
