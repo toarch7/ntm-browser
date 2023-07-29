@@ -3323,6 +3323,27 @@
         1
       ],
       "crown": 12
+    },
+    "Throneseeker709": {
+      "name": "Throneseeker709",
+      "char": 4,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 69,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        8,
+        1
+      ],
+      "crown": 12
     }
   }
 }
