@@ -589,6 +589,62 @@
       "win": false,
       "kills": 1,
       "crown": 1
+    },
+    "1134795648420556811": {
+      "name": "Спин",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 70,
+      "bwep": 33,
+      "win": false,
+      "kills": 1298,
+      "ultra": 1,
+      "skills": [
+        8,
+        27,
+        7,
+        19,
+        9,
+        3,
+        14
+      ],
+      "crown": 3
+    },
+    "1134787362623332412": {
+      "name": "lolikk",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 121,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        27,
+        28
+      ],
+      "crown": 1
+    },
+    "1134786053753020430": {
+      "name": "reze37",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 4,
+      "crown": 1
     }
   }
 }

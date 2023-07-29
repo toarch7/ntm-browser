@@ -2944,6 +2944,28 @@
         21
       ],
       "crown": 12
+    },
+    "prijrak": {
+      "name": "prijrak",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 35,
+      "win": false,
+      "kills": 184,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        21,
+        1,
+        4
+      ],
+      "crown": 12
     }
   }
 }
