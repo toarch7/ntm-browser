@@ -2761,6 +2761,47 @@
         3
       ],
       "crown": 12
+    },
+    "Seeker430": {
+      "name": "Seeker430",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 29,
+      "win": false,
+      "kills": 294,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        8,
+        1,
+        7,
+        13
+      ],
+      "crown": 12
+    },
+    "agostoremiux": {
+      "name": "agostoremiux",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 69,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        24,
+        1
+      ],
+      "crown": 12
     }
   }
 }
