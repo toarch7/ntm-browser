@@ -762,6 +762,65 @@
         21
       ],
       "crown": 1
+    },
+    "1134840328747225108": {
+      "name": "STRVACT",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 119,
+      "bwep": 113,
+      "win": false,
+      "kills": 419,
+      "ultra": 2,
+      "skills": [
+        14,
+        27,
+        17,
+        21,
+        22,
+        3,
+        23,
+        25,
+        13
+      ],
+      "crown": 11
+    },
+    "1134831710220070932": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1
+    },
+    "1134829724875628605": {
+      "name": "Seeker815",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 90,
+      "win": false,
+      "kills": 231,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        27,
+        14,
+        28
+      ],
+      "crown": 1
     }
   }
 }

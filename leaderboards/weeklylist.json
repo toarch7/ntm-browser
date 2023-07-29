@@ -2037,16 +2037,17 @@
       "name": "Seeker379",
       "char": 4,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
+      "wep": 18,
       "bwep": 35,
       "win": false,
-      "kills": 37,
+      "kills": 79,
       "ultra": 0,
       "skills": [
-        1
+        1,
+        28
       ],
       "crown": 12
     },
