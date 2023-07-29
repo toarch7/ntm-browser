@@ -2739,16 +2739,20 @@
       "name": "Seeker237",
       "char": 4,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 66,
+      "wep": 6,
       "bwep": 35,
       "win": false,
-      "kills": 55,
+      "kills": 175,
       "ultra": 0,
       "skills": [
         25,
+        27,
+        28,
+        21,
+        12,
         4
       ],
       "crown": 12
@@ -3000,6 +3004,43 @@
       "skills": [
         25,
         4
+      ],
+      "crown": 12
+    },
+    "Croos90": {
+      "name": "Croos90",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 88,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        28
+      ],
+      "crown": 12
+    },
+    "soyunpipi5000": {
+      "name": "soyunpipi5000",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        25,
+        27
       ],
       "crown": 12
     }

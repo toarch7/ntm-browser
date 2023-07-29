@@ -821,6 +821,125 @@
         28
       ],
       "crown": 1
+    },
+    "1134855684672979014": {
+      "name": "majesticliver",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 1,
+      "crown": 1
+    },
+    "1134855216206979122": {
+      "name": "Croos90",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1
+    },
+    "1134852777881915431": {
+      "name": "Seeker648",
+      "char": 10,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 73,
+      "win": false,
+      "kills": 289,
+      "ultra": 0,
+      "skills": [
+        8,
+        22,
+        28,
+        19,
+        21,
+        3
+      ],
+      "crown": 11
+    },
+    "1134849949713059860": {
+      "name": "CockSuccer",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        13,
+        27,
+        21
+      ],
+      "crown": 1
+    },
+    "1134845939895500880": {
+      "name": "Br",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 17,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1
+    },
+    "1134843362181120022": {
+      "name": "SSuler",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1
+    },
+    "1134841969294721156": {
+      "name": "Throneseeker654",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 69,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        7,
+        8
+      ],
+      "crown": 1
     }
   }
 }
