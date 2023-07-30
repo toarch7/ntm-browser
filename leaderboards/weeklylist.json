@@ -1278,16 +1278,20 @@
       "name": "Spixic",
       "char": 4,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 69,
+      "wep": 66,
       "bwep": 35,
       "win": false,
-      "kills": 37,
+      "kills": 160,
       "ultra": 0,
       "skills": [
-        1
+        1,
+        28,
+        21,
+        12,
+        4
       ],
       "crown": 12
     },
@@ -3542,14 +3546,14 @@
       "name": "Throneseeker747",
       "char": 4,
       "skin": false,
-      "area": 6,
+      "area": 7,
       "subarea": 1,
-      "loops": 0,
-      "wep": 11,
-      "bwep": 35,
+      "loops": 1,
+      "wep": 93,
+      "bwep": 96,
       "win": false,
-      "kills": 240,
-      "ultra": 0,
+      "kills": 1138,
+      "ultra": 2,
       "skills": [
         25,
         7,
@@ -3558,7 +3562,10 @@
         21,
         12,
         4,
-        6
+        6,
+        14,
+        1,
+        28
       ],
       "crown": 12
     }
