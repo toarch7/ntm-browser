@@ -1260,6 +1260,43 @@
         16
       ],
       "crown": 1
+    },
+    "1135336033345613895": {
+      "name": "Throneseeker413",
+      "char": 2,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 14,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1
+    },
+    "1135331041482117240": {
+      "name": "panquesito",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 15,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        26,
+        1,
+        25,
+        14
+      ],
+      "crown": 1
     }
   }
 }
