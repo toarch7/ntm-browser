@@ -239,6 +239,76 @@
       "win": false,
       "kills": 18,
       "crown": 1
+    },
+    "1135082399726841907": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 6,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        9,
+        10
+      ],
+      "crown": 1
+    },
+    "1135082084944322570": {
+      "name": "Throneseeker055",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 14,
+      "win": false,
+      "kills": 187,
+      "ultra": 0,
+      "skills": [
+        9,
+        10,
+        25,
+        13,
+        4
+      ],
+      "crown": 1
+    },
+    "1135081989012197426": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 6,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        26,
+        1,
+        25
+      ],
+      "crown": 1
+    },
+    "1135081555543457852": {
+      "name": "_beJ",
+      "char": 1,
+      "skin": true,
+      "area": null,
+      "subarea": null,
+      "loops": 1,
+      "wep": 0,
+      "bwep": 0,
+      "win": false,
+      "kills": 15
     }
   }
 }
