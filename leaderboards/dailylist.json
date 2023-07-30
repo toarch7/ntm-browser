@@ -554,6 +554,94 @@
         26
       ],
       "crown": 1
+    },
+    "1135170017357475911": {
+      "name": "Throneseeker530",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 5,
+      "crown": 1
+    },
+    "1135169810884481045": {
+      "name": "Seeker932",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1
+    },
+    "1135166882073301002": {
+      "name": "Senjey,",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 65,
+      "bwep": 76,
+      "win": false,
+      "kills": 854,
+      "ultra": 1,
+      "skills": [
+        13,
+        22,
+        27,
+        23,
+        1,
+        7,
+        17
+      ],
+      "crown": 7
+    },
+    "1135165733219880980": {
+      "name": "STRVACT",
+      "char": 4,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 89,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        13,
+        1,
+        22,
+        27
+      ],
+      "crown": 11
+    },
+    "1135160845563863111": {
+      "name": "Seeker815",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        9,
+        10,
+        3
+      ],
+      "crown": 1
     }
   }
 }
