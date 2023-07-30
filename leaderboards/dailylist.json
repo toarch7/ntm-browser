@@ -340,6 +340,49 @@
         1
       ],
       "crown": 1
+    },
+    "1135109256127983727": {
+      "name": "PEINT.NET",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 7,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1
+    },
+    "1135104653961465906": {
+      "name": "HatManSm",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 111,
+      "win": false,
+      "kills": 1771,
+      "ultra": 2,
+      "skills": [
+        13,
+        1,
+        22,
+        27,
+        3,
+        17,
+        25,
+        23,
+        4,
+        21
+      ],
+      "crown": 7
     }
   }
 }
