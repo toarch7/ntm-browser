@@ -309,6 +309,37 @@
       "bwep": 0,
       "win": false,
       "kills": 15
+    },
+    "1135089887310250115": {
+      "name": "Seeker178",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 8,
+      "crown": 1
+    },
+    "1135083322410811453": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 6,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        9,
+        1
+      ],
+      "crown": 1
     }
   }
 }
