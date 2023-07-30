@@ -3815,6 +3815,42 @@
         1
       ],
       "crown": 12
+    },
+    "Chugun": {
+      "name": "Chugun",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 35,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        2,
+        1
+      ],
+      "crown": 12
+    },
+    "hanzu": {
+      "name": "hanzu",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 35,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        1,
+        3
+      ],
+      "crown": 12
     }
   }
 }
