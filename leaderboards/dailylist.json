@@ -756,6 +756,93 @@
         9
       ],
       "crown": 1
+    },
+    "1135231497893322883": {
+      "name": "kagonizm",
+      "char": 10,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 6,
+      "win": false,
+      "kills": 121,
+      "ultra": 0,
+      "skills": [
+        9,
+        1,
+        22
+      ],
+      "crown": 1
+    },
+    "1135231341298974810": {
+      "name": "Ricardbox",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 1,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        13,
+        1
+      ],
+      "crown": 1
+    },
+    "1135231069315149965": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 8,
+      "crown": 1
+    },
+    "1135222834877173850": {
+      "name": "Seeker413",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 0,
+      "win": false,
+      "kills": 185,
+      "ultra": 0,
+      "skills": [
+        9,
+        1,
+        22,
+        27
+      ],
+      "crown": 1
+    },
+    "1135220408644288584": {
+      "name": "Br",
+      "char": 3,
+      "skin": true,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 16,
+      "ultra": 0,
+      "skills": [
+        26
+      ],
+      "crown": 1
     }
   }
 }
