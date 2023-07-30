@@ -3200,20 +3200,22 @@
       "name": "YVFAN$$$",
       "char": 4,
       "skin": false,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 66,
-      "bwep": 21,
+      "wep": 12,
+      "bwep": 64,
       "win": false,
-      "kills": 173,
+      "kills": 298,
       "ultra": 0,
       "skills": [
         1,
-        24,
+        28,
         8,
-        26,
-        7
+        22,
+        7,
+        4,
+        2
       ],
       "crown": 12
     },
@@ -3349,18 +3351,105 @@
       "name": "jhon",
       "char": 4,
       "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 66,
+      "win": false,
+      "kills": 170,
+      "ultra": 0,
+      "skills": [
+        2,
+        4,
+        3,
+        1,
+        10,
+        14
+      ],
+      "crown": 12
+    },
+    "Y.V.": {
+      "name": "Y.V.",
+      "char": 4,
+      "skin": false,
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 66,
+      "wep": 35,
+      "bwep": 69,
       "win": false,
       "kills": 55,
       "ultra": 0,
       "skills": [
-        2,
-        4
+        1
       ],
+      "crown": 12
+    },
+    "Seeker540": {
+      "name": "Seeker540",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        25,
+        1
+      ],
+      "crown": 12
+    },
+    "SuperIdol": {
+      "name": "SuperIdol",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        24,
+        27
+      ],
+      "crown": 12
+    },
+    "Seeker451": {
+      "name": "Seeker451",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 35,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "RedStar": {
+      "name": "RedStar",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 69,
+      "win": false,
+      "kills": 59,
       "crown": 12
     }
   }
