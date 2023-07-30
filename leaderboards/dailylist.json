@@ -163,6 +163,69 @@
         7
       ],
       "crown": 1
+    },
+    "1135047726527172688": {
+      "name": "Seeker655",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 0,
+      "win": false,
+      "kills": 221,
+      "ultra": 0,
+      "skills": [
+        9,
+        1,
+        22,
+        27,
+        13
+      ],
+      "crown": 11
+    },
+    "1135043182263013427": {
+      "name": "Throneseeker553",
+      "char": 3,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 6,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        9,
+        1,
+        3
+      ],
+      "crown": 1
+    },
+    "1135042722344996976": {
+      "name": "bajnmen",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 2,
+      "wep": 13,
+      "bwep": 111,
+      "win": false,
+      "kills": 3622,
+      "ultra": 1,
+      "skills": [
+        13,
+        1,
+        22,
+        27,
+        6,
+        7,
+        23
+      ],
+      "crown": 7
     }
   }
 }
