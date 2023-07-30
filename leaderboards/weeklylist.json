@@ -3331,7 +3331,7 @@
       "wep": 69,
       "bwep": 35,
       "win": false,
-      "kills": 41,
+      "kills": 42,
       "ultra": 0,
       "skills": [
         1
@@ -3639,6 +3639,24 @@
         1,
         16,
         8
+      ],
+      "crown": 12
+    },
+    "Cogracioush9": {
+      "name": "Cogracioush9",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        1,
+        16
       ],
       "crown": 12
     }

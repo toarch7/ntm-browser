@@ -936,6 +936,56 @@
         24
       ],
       "crown": 1
+    },
+    "1135259021138473051": {
+      "name": "Hueglasik",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 6,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        9,
+        1
+      ],
+      "crown": 1
+    },
+    "1135258141525819503": {
+      "name": "biba",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 8,
+      "crown": 1
+    },
+    "1135254835143389264": {
+      "name": "Пидр228",
+      "char": 2,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 78,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        24,
+        1,
+        22
+      ],
+      "crown": 11
     }
   }
 }
