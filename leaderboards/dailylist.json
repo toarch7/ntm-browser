@@ -845,6 +845,119 @@
         9
       ],
       "crown": 1
+    },
+    "1135589345928155266": {
+      "name": "Koala",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "crown": 1
+    },
+    "1135586783275532308": {
+      "name": "Scrotum",
+      "char": 3,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 10,
+      "win": false,
+      "kills": 208,
+      "ultra": 0,
+      "skills": [
+        14,
+        22,
+        1,
+        17,
+        10
+      ],
+      "crown": 11
+    },
+    "1135586385991041035": {
+      "name": "Seeker575",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 6,
+      "crown": 1
+    },
+    "1135585820510793758": {
+      "name": "Seeker402.51",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 81,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        1,
+        22
+      ],
+      "crown": 4
+    },
+    "1135585656186351617": {
+      "name": "metal",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1
+    },
+    "1135584089869651980": {
+      "name": "Seeker712",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1
+    },
+    "1135581787049967696": {
+      "name": "Throneseeker516",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 1,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        24,
+        6
+      ],
+      "crown": 1
     }
   }
 }
