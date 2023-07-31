@@ -141,6 +141,117 @@
         10
       ],
       "crown": 1
+    },
+    "1135412180662095895": {
+      "name": "BocKySx",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 1,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        13,
+        23,
+        26
+      ],
+      "crown": 1
+    },
+    "1135410048827408454": {
+      "name": "Fake",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 30,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1
+    },
+    "1135409413302276096": {
+      "name": "Raiden",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 39,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        1,
+        22
+      ],
+      "crown": 1
+    },
+    "1135407021265522760": {
+      "name": "Hueglasik",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 1,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        24,
+        1,
+        22
+      ],
+      "crown": 1
+    },
+    "1135406689332502600": {
+      "name": "GV-CN",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 2,
+      "wep": 24,
+      "bwep": 35,
+      "win": false,
+      "kills": 2256,
+      "ultra": 2,
+      "skills": [
+        13,
+        1,
+        23,
+        17,
+        27,
+        4,
+        3
+      ],
+      "crown": 9
+    },
+    "1135402787635732602": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1
     }
   }
 }
