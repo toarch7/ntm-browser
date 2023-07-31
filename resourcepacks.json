@@ -80,6 +80,22 @@
     }
   },
   {
+    "full_name": "Maxwelllink/Black-Robot",
+    "name": "Black-Robot",
+    "owner": "Maxwelllink",
+    "created": 1668381956000,
+    "updated": 1668382010000,
+    "stars": 2,
+    "branch": "main",
+    "malformed": false,
+    "hidden": false,
+    "meta": {
+      "name": "Black Robot",
+      "descriptionShort": "Recolors a grey/red Robot to black/green",
+      "description": "Recolors a Grey/Red Robot to Black/Green. Mmm... will the pack be deleted for racist jokes?"
+    }
+  },
+  {
     "full_name": "Maxwelllink/Sunflower",
     "name": "Sunflower",
     "owner": "Maxwelllink",
@@ -96,19 +112,19 @@
     }
   },
   {
-    "full_name": "Maxwelllink/Black-Robot",
-    "name": "Black-Robot",
-    "owner": "Maxwelllink",
-    "created": 1668381956000,
-    "updated": 1668382010000,
+    "full_name": "poker2408/Pink_Madness",
+    "name": "Pink_Madness",
+    "owner": "poker2408",
+    "created": 1667927233000,
+    "updated": 1667995116000,
     "stars": 2,
     "branch": "main",
     "malformed": false,
-    "hidden": false,
+    "hidden": true,
     "meta": {
-      "name": "Black Robot",
-      "descriptionShort": "Recolors a grey/red Robot to black/green",
-      "description": "Recolors a Grey/Red Robot to Black/Green. Mmm... will the pack be deleted for racist jokes?"
+      "name": "pink madness",
+      "descriptionShort": "various locations, mobs, textures mods pink madness!",
+      "description": "Example resourcepack. locations have changed so much that they cannot be distinguished from the original (before the winter city). Creator of the Sluzik pack! This is pink madness fashion textures, most of the music is changed, enjoy!...."
     }
   },
   {
@@ -141,22 +157,6 @@
       "name": "@rBlaac @wSkinpack Port",
       "descriptionShort": "Port of the @bcool @wskinpack by @mPixelfox",
       "description": "Changes pretty much (original – every, port at this moment – near 8) character's skin. Chicken B may not have headless sprites as both"
-    }
-  },
-  {
-    "full_name": "poker2408/Pink_Madness",
-    "name": "Pink_Madness",
-    "owner": "poker2408",
-    "created": 1667927233000,
-    "updated": 1667995116000,
-    "stars": 2,
-    "branch": "main",
-    "malformed": false,
-    "hidden": true,
-    "meta": {
-      "name": "pink madness",
-      "descriptionShort": "various locations, mobs, textures mods pink madness!",
-      "description": "Example resourcepack. locations have changed so much that they cannot be distinguished from the original (before the winter city). Creator of the Sluzik pack! This is pink madness fashion textures, most of the music is changed, enjoy!...."
     }
   },
   {
@@ -224,6 +224,22 @@
     }
   },
   {
+    "full_name": "Richi4520/backrooms_ntm",
+    "name": "backrooms_ntm",
+    "owner": "Richi4520",
+    "created": 1675964457000,
+    "updated": 1675966827000,
+    "stars": 0,
+    "branch": "main",
+    "malformed": false,
+    "hidden": false,
+    "meta": {
+      "name": "backrooms",
+      "descriptionShort": "Changes desert to backrooms",
+      "description": "Suddenly, in a mysterious way, you appeared in the backrooms."
+    }
+  },
+  {
     "full_name": "fixdude/hot-sauce-pack-port",
     "name": "hot-sauce-pack-port",
     "owner": "fixdude",
@@ -288,22 +304,6 @@
     }
   },
   {
-    "full_name": "Richi4520/backrooms_ntm",
-    "name": "backrooms_ntm",
-    "owner": "Richi4520",
-    "created": 1675964457000,
-    "updated": 1675966827000,
-    "stars": 0,
-    "branch": "main",
-    "malformed": false,
-    "hidden": false,
-    "meta": {
-      "name": "backrooms",
-      "descriptionShort": "Changes desert to backrooms",
-      "description": "Suddenly, in a mysterious way, you appeared in the backrooms."
-    }
-  },
-  {
     "full_name": "poker2408/abobus",
     "name": "abobus",
     "owner": "poker2408",
@@ -336,35 +336,19 @@
     }
   },
   {
-    "full_name": "Czimbala/Brickfish",
-    "name": "Brickfish",
-    "owner": "Czimbala",
-    "created": 1669977872000,
-    "updated": 1670154089000,
+    "full_name": "Fulgore-ex/Pink_blue",
+    "name": "Pink_blue",
+    "owner": "Fulgore-ex",
+    "created": 1680425394000,
+    "updated": 1680425876000,
     "stars": 0,
     "branch": "main",
     "malformed": false,
     "hidden": false,
     "meta": {
-      "name": "@gBRICKFISH",
-      "descriptionShort": "oh no uve been @gbrickfished @wlol",
-      "description": "Replace Fish A skin by Brickfish (B skin in future maybe?)"
-    }
-  },
-  {
-    "full_name": "TheCoolerCatMods/Bsab",
-    "name": "Bsab",
-    "owner": "TheCoolerCatMods",
-    "created": 1685329801000,
-    "updated": 1685329953000,
-    "stars": 0,
-    "branch": "main",
-    "malformed": true,
-    "hidden": false,
-    "meta": {
-      "name": "TheCoolerCatMods/Bsab",
-      "descriptionShort": "NTM Resourcepack",
-      "description": "No description provided"
+      "name": "Pink Blue",
+      "descriptionShort": "Paints @ygolden weapons @wpink and blue",
+      "description": "Changes all golden weapons to pink and blue (this resource pack does change yung venuz big portrait)"
     }
   },
   {
@@ -400,22 +384,6 @@
     }
   },
   {
-    "full_name": "Fulgore-ex/Pink_blue",
-    "name": "Pink_blue",
-    "owner": "Fulgore-ex",
-    "created": 1680425394000,
-    "updated": 1680425876000,
-    "stars": 0,
-    "branch": "main",
-    "malformed": false,
-    "hidden": false,
-    "meta": {
-      "name": "Pink Blue",
-      "descriptionShort": "Paints @ygolden weapons @wpink and blue",
-      "description": "Changes all golden weapons to pink and blue (this resource pack does change yung venuz big portrait)"
-    }
-  },
-  {
     "full_name": "Xendriz15/Deltathrone",
     "name": "Deltathrone",
     "owner": "Xendriz15",
@@ -429,6 +397,38 @@
       "name": "Deltathrone",
       "descriptionShort": "The leader of the Delta warriors.",
       "description": " Kris is the main protagonist of the video game Deltarune , the human Hero of Light and also the leader of the Delta Warriors. He is the character that the player can control, although not fully. "
+    }
+  },
+  {
+    "full_name": "Czimbala/Brickfish",
+    "name": "Brickfish",
+    "owner": "Czimbala",
+    "created": 1669977872000,
+    "updated": 1670154089000,
+    "stars": 0,
+    "branch": "main",
+    "malformed": false,
+    "hidden": false,
+    "meta": {
+      "name": "@gBRICKFISH",
+      "descriptionShort": "oh no uve been @gbrickfished @wlol",
+      "description": "Replace Fish A skin by Brickfish (B skin in future maybe?)"
+    }
+  },
+  {
+    "full_name": "TheCoolerCatMods/Bsab",
+    "name": "Bsab",
+    "owner": "TheCoolerCatMods",
+    "created": 1685329801000,
+    "updated": 1685329953000,
+    "stars": 0,
+    "branch": "main",
+    "malformed": true,
+    "hidden": false,
+    "meta": {
+      "name": "TheCoolerCatMods/Bsab",
+      "descriptionShort": "NTM Resourcepack",
+      "description": "No description provided"
     }
   },
   {
