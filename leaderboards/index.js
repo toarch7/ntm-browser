@@ -117,7 +117,7 @@ let weeklySeed = 123;
 client.once(Events.ClientReady, c => {
 	console.log(`Ready! Logged in as ${c.user.tag}`);
 
-    client.user.setActivity("i be lurkin...");
+    client.user.setActivity("Nuclear Throne Mobile");
 
     let channel;
 
@@ -250,7 +250,6 @@ client.once(Events.ClientReady, c => {
         client.destroy()
 			.catch(() => {
                 console.log("Shutdown failed! I hate Discord.JS");
-                client.user.setActivity("if you're seeing this - everything is bad");
             });
     },
     10000);
