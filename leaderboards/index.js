@@ -243,7 +243,7 @@ client.once(Events.ClientReady, c => {
 
 				setInterval(() => {
 					client.destroy()
-						.catch(() => console.log("Failed again.");
+						.catch(() => console.log("Failed again."));
 				}, 5000);
 			});
     },
