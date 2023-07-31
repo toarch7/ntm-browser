@@ -1384,15 +1384,18 @@
       "name": "Seeker532",
       "char": 4,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 69,
+      "wep": 23,
       "bwep": 35,
-      "kills": 47,
+      "win": false,
+      "kills": 108,
       "ultra": 0,
       "skills": [
-        1
+        1,
+        28,
+        8
       ],
       "crown": 12
     },
@@ -3306,19 +3309,21 @@
       "name": "hexsander3",
       "char": 4,
       "skin": false,
-      "area": 3,
+      "area": 5,
       "subarea": 2,
       "loops": 0,
       "wep": 88,
       "bwep": 35,
       "win": false,
-      "kills": 76,
+      "kills": 148,
       "ultra": 0,
       "skills": [
         25,
         4,
         3,
-        8
+        6,
+        12,
+        13
       ],
       "crown": 12
     },
@@ -4100,6 +4105,76 @@
       "ultra": 0,
       "skills": [
         25,
+        1
+      ],
+      "crown": 12
+    },
+    "MossShade": {
+      "name": "MossShade",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        19,
+        3
+      ],
+      "crown": 12
+    },
+    "FoZ": {
+      "name": "FoZ",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        25,
+        1
+      ],
+      "crown": 12
+    },
+    "Overlok": {
+      "name": "Overlok",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 69,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 12
+    },
+    "Бяка2206": {
+      "name": "Бяка2206",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 69,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
         1
       ],
       "crown": 12
