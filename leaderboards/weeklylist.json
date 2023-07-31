@@ -3912,6 +3912,24 @@
         4
       ],
       "crown": 12
+    },
+    "metal": {
+      "name": "metal",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 69,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        2,
+        1
+      ],
+      "crown": 12
     }
   }
 }

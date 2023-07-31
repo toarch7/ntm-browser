@@ -390,6 +390,54 @@
         9
       ],
       "crown": 1
+    },
+    "1135473113556078713": {
+      "name": "Seeker413",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 7,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1
+    },
+    "1135471091805081641": {
+      "name": "НЕГРЫ",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 7,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        24,
+        1
+      ],
+      "crown": 1
+    },
+    "1135465481462104144": {
+      "name": "Дуботрах",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 6,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1
     }
   }
 }
