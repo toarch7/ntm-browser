@@ -238,7 +238,7 @@ client.once(Events.ClientReady, c => {
     setTimeout(() => {
         console.log("Destroying client.");
         client.destroy()
-			.catch(() => console.log("Failed to shutdown the client.");
+			.catch(() => console.log("Failed to shutdown the client."));
     },
     1000);
     
