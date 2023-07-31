@@ -117,6 +117,8 @@ let weeklySeed = 123;
 client.once(Events.ClientReady, c => {
 	console.log(`Ready! Logged in as ${c.user.tag}`);
 
+    client.user.setActivity("i be lurkin...");
+
     let channel;
 
     //#region Daily
@@ -246,7 +248,10 @@ client.once(Events.ClientReady, c => {
         console.log("Trying to shutdown the client...");
 
         client.destroy()
-			.catch(() => console.log("Shutdown failed! I hate Discord.JS"));
+			.catch(() => {
+                console.log("Shutdown failed! I hate Discord.JS");
+                client.user.setActivity("if you're seeing this - everything is bad");
+            });
     },
     10000);
     
