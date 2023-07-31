@@ -241,7 +241,7 @@ client.once(Events.ClientReady, c => {
     setTimeout(() => {
         console.log("Pushing changes");
 
-        execSync("./push.sh");
+        execSync("chmod +x ./push.sh && bash ./push.sh");
 
         console.log("Trying to shutdown the client...");
 
