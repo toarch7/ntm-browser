@@ -509,6 +509,73 @@
       "ultra": 0,
       "skills": [],
       "crown": 1
+    },
+    "1135515496578551888": {
+      "name": "kykyry3ka",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 81,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1
+    },
+    "1135512501132480522": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 6,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1
+    },
+    "1135507422979567617": {
+      "name": "Спин",
+      "char": 3,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 19,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1
+    },
+    "1135506067753812020": {
+      "name": "Пидр228",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 7,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        24,
+        14
+      ],
+      "crown": 1
     }
   }
 }
