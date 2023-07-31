@@ -37,17 +37,21 @@ jobs:
           DISCORD_API_TOKEN: ${{ secrets.DISCORD_API_TOKEN }}
           WEBHOOK_DAILY: ${{ secrets.WEBHOOK_DAILY }}
           WEBHOOK_WEEKLY: ${{ secrets.WEBHOOK_WEEKLY }}
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+          MAIL: ${{ secrets.MAIL }}
         run: |
           npm i discord.js
           npm run leaderboards
-
-      - name: Push changes
-        run: |
-          ls
-          git config --global user.email "${{ secrets.MAIL }}"
-          git config --global user.name "Actions"
-          git add resourcepacks.json
-          git add ./leaderboards/dailylist.json
-          git add ./leaderboards/weeklylist.json
-          git commit --allow-empty -m "[auto update]"
-          git push https://toarch7:${{ secrets.API_TOKEN_GITHUB }}@github.com/toarch7/ntm-browser
+      
+      ###
+      #- name: Push changes
+      #  run: |
+      #    ls
+      #    git config --global user.email "${{ secrets.MAIL }}"
+      #    git config --global user.name "Actions"
+      #    git add resourcepacks.json
+      #    git add ./leaderboards/dailylist.json
+      #    git add ./leaderboards/weeklylist.json
+      #    git commit --allow-empty -m "[auto update]"
+      #    git push https://toarch7:${{ secrets.API_TOKEN_GITHUB }}@github.com/toarch7/ntm-browser
+      ###

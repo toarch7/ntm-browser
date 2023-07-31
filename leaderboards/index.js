@@ -1,11 +1,14 @@
-const { Client, Events, GatewayIntentBits } = require("discord.js");
+//const { Client, Events, GatewayIntentBits } = require("discord.js");
 const { readFileSync, writeFileSync, existsSync } = require("fs");
 const Emotes = require("./tables/emotes.json");
 const { parse } = require("./parser.js");
+const { execSync } = require("child_process");
 const axios = require("axios");
 
 const params = {
     token: process.env.DISCORD_API_TOKEN,
+    token_github: process.env.API_TOKEN_GITHUB,
+    mail: process.env.MAIL,
 
     webhooks: {
         daily: process.env.WEBHOOK_DAILY,
@@ -236,15 +239,16 @@ client.once(Events.ClientReady, c => {
     //#endregion
 
     setTimeout(() => {
-        console.log("Destroying client.");
-        client.destroy()
-			.catch(() => {
-				console.log("Failed to shutdown the client...");
+        console.log("Pushing changes");
 
-				delete client;
-			});
+        execSync("push.sh");
+
+        console.log("Trying to shutdown the client...");
+
+        client.destroy()
+			.catch(() => console.log("Shutdown failed! I hate Discord.JS"));
     },
-    1000);
+    10000);
     
 });
 
