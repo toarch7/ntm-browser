@@ -1795,16 +1795,18 @@
       "name": "Seeker819",
       "char": 4,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
       "wep": 69,
       "bwep": 88,
-      "kills": 37,
+      "win": false,
+      "kills": 61,
       "ultra": 0,
       "skills": [
         25,
-        4
+        4,
+        28
       ],
       "crown": 12
     },
