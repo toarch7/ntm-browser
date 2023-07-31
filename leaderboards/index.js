@@ -241,10 +241,7 @@ client.once(Events.ClientReady, c => {
 			.catch(() => {
 				console.log("Failed to shutdown the client...");
 
-				setInterval(() => {
-					client.destroy()
-						.catch(() => console.log("Failed again."));
-				}, 5000);
+				delete client;
 			});
     },
     1000);
