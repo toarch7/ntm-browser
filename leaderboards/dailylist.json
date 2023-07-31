@@ -662,6 +662,56 @@
       "bwep": 0,
       "win": false,
       "kills": 16
+    },
+    "1135554535352455268": {
+      "name": "Seeker594",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 10,
+      "win": false,
+      "kills": 170,
+      "ultra": 0,
+      "skills": [
+        1,
+        22,
+        28,
+        24
+      ],
+      "crown": 1
+    },
+    "1135554371409678398": {
+      "name": "DoderTool",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1
+    },
+    "1135550607978147962": {
+      "name": "SeekNdestroy",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 5,
+      "crown": 1
     }
   }
 }
