@@ -1,4 +1,146 @@
 {
   "day": 31,
-  "entries": {}
+  "entries": {
+    "1135401538169344062": {
+      "name": "katzefuchs",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 0,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
+      ],
+      "crown": 1
+    },
+    "1135399471065354280": {
+      "name": "Tuputamadre",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 84,
+      "bwep": 26,
+      "win": false,
+      "kills": 417,
+      "ultra": 0,
+      "skills": [
+        1,
+        26,
+        23,
+        3,
+        9,
+        22,
+        27,
+        4
+      ],
+      "crown": 1
+    },
+    "1135396289966780456": {
+      "name": "Erick",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 17,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
+      ],
+      "crown": 1
+    },
+    "1135394664686571601": {
+      "name": "bajnmen",
+      "char": 9,
+      "skin": true,
+      "area": null,
+      "subarea": null,
+      "loops": 1,
+      "wep": 0,
+      "bwep": 0,
+      "win": false,
+      "kills": 17
+    },
+    "1135390382549647421": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 30,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        24,
+        14,
+        23
+      ],
+      "crown": 1
+    },
+    "1135382751143530578": {
+      "name": "Throneseeker413",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 8,
+      "crown": 1
+    },
+    "1135369674570338534": {
+      "name": "Malignant",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 75,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        13,
+        1,
+        22
+      ],
+      "crown": 1
+    },
+    "1135368355809853481": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 50,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        9,
+        10
+      ],
+      "crown": 1
+    }
+  }
 }

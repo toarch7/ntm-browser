@@ -3746,19 +3746,19 @@
       "name": "nazo",
       "char": 4,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 5,
-      "bwep": 35,
+      "wep": 88,
+      "bwep": 69,
       "win": false,
-      "kills": 62,
+      "kills": 90,
       "ultra": 0,
       "skills": [
         25,
-        19,
+        7,
         1,
-        3
+        28
       ],
       "crown": 12
     },
@@ -3849,6 +3849,23 @@
       "skills": [
         1,
         3
+      ],
+      "crown": 12
+    },
+    "Throneseeker450": {
+      "name": "Throneseeker450",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 35,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        1
       ],
       "crown": 12
     }
