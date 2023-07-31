@@ -2199,18 +2199,20 @@
       "name": "Kirito777",
       "char": 4,
       "skin": false,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
       "wep": 88,
-      "bwep": 69,
+      "bwep": 66,
       "win": false,
-      "kills": 48,
+      "kills": 124,
       "ultra": 0,
       "skills": [
         25,
-        7,
-        1
+        27,
+        3,
+        8,
+        22
       ],
       "crown": 12
     },
@@ -4004,6 +4006,24 @@
         1,
         28,
         21
+      ],
+      "crown": 12
+    },
+    "Seeker890": {
+      "name": "Seeker890",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        2,
+        1
       ],
       "crown": 12
     }
