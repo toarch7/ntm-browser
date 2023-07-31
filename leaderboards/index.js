@@ -1,4 +1,4 @@
-//const { Client, Events, GatewayIntentBits } = require("discord.js");
+const { Client, Events, GatewayIntentBits } = require("discord.js");
 const { readFileSync, writeFileSync, existsSync } = require("fs");
 const Emotes = require("./tables/emotes.json");
 const { parse } = require("./parser.js");
