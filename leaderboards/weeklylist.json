@@ -65,25 +65,23 @@
     },
     "Eileifr": {
       "name": "Eileifr",
-      "char": 4,
-      "skin": false,
+      "char": 8,
+      "skin": true,
       "area": 5,
-      "subarea": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 35,
-      "bwep": 66,
+      "wep": 54,
+      "bwep": 17,
       "win": false,
-      "kills": 170,
+      "kills": 190,
       "ultra": 0,
       "skills": [
-        25,
+        4,
+        7,
         27,
-        28,
-        6,
-        22,
-        4
+        28
       ],
-      "crown": 12
+      "crown": 3
     },
     "ElTormakzXD": {
       "name": "ElTormakzXD",
@@ -1547,9 +1545,9 @@
       "subarea": 3,
       "loops": 0,
       "wep": 76,
-      "bwep": 0,
+      "bwep": 4,
       "win": false,
-      "kills": 160,
+      "kills": 175,
       "ultra": 0,
       "skills": [
         4,
@@ -1575,6 +1573,23 @@
         12,
         1,
         27
+      ],
+      "crown": 3
+    },
+    "Seeker521": {
+      "name": "Seeker521",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 54,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        22
       ],
       "crown": 3
     }
