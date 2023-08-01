@@ -45,19 +45,17 @@
       "name": "Seeker712",
       "char": 8,
       "skin": true,
-      "area": 104,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 15,
-      "bwep": 12,
+      "wep": 22,
+      "bwep": 54,
       "win": false,
-      "kills": 153,
+      "kills": 180,
       "ultra": 0,
       "skills": [
         4,
-        7,
-        28,
-        1
+        7
       ],
       "crown": 3
     },
@@ -439,24 +437,22 @@
     },
     "Seeker480": {
       "name": "Seeker480",
-      "char": 4,
-      "skin": false,
-      "area": 104,
-      "subarea": 1,
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 74,
-      "bwep": 23,
+      "wep": 66,
+      "bwep": 69,
       "win": false,
-      "kills": 120,
+      "kills": 138,
       "ultra": 0,
       "skills": [
-        25,
-        27,
-        28,
-        1,
-        12
+        4,
+        7,
+        28
       ],
-      "crown": 12
+      "crown": 3
     },
     "Seeker402.51": {
       "name": "Seeker402.51",
@@ -520,20 +516,22 @@
     },
     "Seeker655": {
       "name": "Seeker655",
-      "char": 4,
-      "skin": false,
-      "area": 2,
+      "char": 8,
+      "skin": true,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 35,
+      "wep": 15,
+      "bwep": 59,
       "win": false,
-      "kills": 47,
+      "kills": 186,
       "ultra": 0,
       "skills": [
-        1
+        4,
+        28,
+        27
       ],
-      "crown": 12
+      "crown": 3
     },
     "как": {
       "name": "как",
@@ -655,6 +653,88 @@
         4,
         7,
         1
+      ],
+      "crown": 3
+    },
+    "victor": {
+      "name": "victor",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 113,
+      "win": false,
+      "kills": 183,
+      "ultra": 0,
+      "skills": [
+        10,
+        7,
+        1,
+        27
+      ],
+      "crown": 3
+    },
+    "Throneseeker265": {
+      "name": "Throneseeker265",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 0,
+      "win": false,
+      "kills": 239,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        28,
+        1,
+        9,
+        27
+      ],
+      "crown": 3
+    },
+    "seiji000": {
+      "name": "seiji000",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 76,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        22,
+        7,
+        12
+      ],
+      "crown": 3
+    },
+    "Main": {
+      "name": "Main",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 74,
+      "win": false,
+      "kills": 246,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        28,
+        27,
+        23
       ],
       "crown": 3
     }

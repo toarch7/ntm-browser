@@ -179,6 +179,54 @@
         4
       ],
       "crown": 1
+    },
+    "1135788416152379473": {
+      "name": "Seeker060",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1
+    },
+    "1135786616863068292": {
+      "name": "MAQUIAVEL",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 62,
+      "win": false,
+      "kills": 121,
+      "ultra": 0,
+      "skills": [
+        26,
+        19
+      ],
+      "crown": 1
+    },
+    "1135777961975492680": {
+      "name": "Toro",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 31,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1
     }
   }
 }
