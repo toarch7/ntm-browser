@@ -1331,17 +1331,21 @@
       "name": "soyunpipi5000",
       "char": 8,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
       "wep": 54,
-      "bwep": 4,
+      "bwep": 24,
       "win": false,
-      "kills": 77,
+      "kills": 245,
       "ultra": 0,
       "skills": [
         10,
-        7
+        17,
+        28,
+        1,
+        9,
+        27
       ],
       "crown": 3
     },
@@ -1496,6 +1500,42 @@
         1,
         17,
         27
+      ],
+      "crown": 3
+    },
+    "joda": {
+      "name": "joda",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 54,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        10,
+        7
+      ],
+      "crown": 3
+    },
+    "Scrotum": {
+      "name": "Scrotum",
+      "char": 8,
+      "skin": true,
+      "area": 105,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 54,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        10,
+        8
       ],
       "crown": 3
     }
