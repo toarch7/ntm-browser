@@ -619,6 +619,62 @@
         27
       ],
       "crown": 1
+    },
+    "1135909285939908618": {
+      "name": "Koala",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 63,
+      "win": false,
+      "kills": 308,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        4,
+        25,
+        8,
+        6,
+        10
+      ],
+      "crown": 1
+    },
+    "1135901632484356127": {
+      "name": "Enzo",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 10,
+      "crown": 1
+    },
+    "1135899765587062807": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 20,
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        23,
+        28
+      ],
+      "crown": 1
     }
   }
 }
