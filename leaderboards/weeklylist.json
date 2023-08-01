@@ -878,6 +878,81 @@
         28
       ],
       "crown": 3
+    },
+    "kykyry3ka": {
+      "name": "kykyry3ka",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 13,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 3
+    },
+    "Дуботрах": {
+      "name": "Дуботрах",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 17,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        10,
+        7,
+        28
+      ],
+      "crown": 3
+    },
+    "PALERMO": {
+      "name": "PALERMO",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 72,
+      "bwep": 54,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        26,
+        7
+      ],
+      "crown": 3
+    },
+    "Starko": {
+      "name": "Starko",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 113,
+      "win": false,
+      "kills": 225,
+      "ultra": 0,
+      "skills": [
+        10,
+        7,
+        1,
+        27,
+        23
+      ],
+      "crown": 3
     }
   }
 }
