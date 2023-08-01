@@ -49,13 +49,14 @@
       "subarea": 2,
       "loops": 0,
       "wep": 9,
-      "bwep": 0,
+      "bwep": 13,
       "win": false,
-      "kills": 187,
+      "kills": 208,
       "ultra": 0,
       "skills": [
         10,
         7,
+        12,
         1,
         13
       ],
@@ -1049,6 +1050,82 @@
         27,
         7,
         8
+      ],
+      "crown": 3
+    },
+    "Vetek": {
+      "name": "Vetek",
+      "char": 8,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 54,
+      "win": false,
+      "kills": 184,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        28,
+        1
+      ],
+      "crown": 3
+    },
+    "Seeker847": {
+      "name": "Seeker847",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 13,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        22,
+        7
+      ],
+      "crown": 3
+    },
+    "Seeker590": {
+      "name": "Seeker590",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 69,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 3
+    },
+    "ты": {
+      "name": "ты",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 54,
+      "win": false,
+      "kills": 164,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        28,
+        1,
+        27
       ],
       "crown": 3
     }

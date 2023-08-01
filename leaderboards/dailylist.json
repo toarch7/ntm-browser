@@ -524,6 +524,101 @@
       "win": false,
       "kills": 24,
       "crown": 1
+    },
+    "1135894744074031154": {
+      "name": "BREAD",
+      "char": 12,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 55,
+      "win": false,
+      "kills": 189,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        25
+      ],
+      "crown": 1
+    },
+    "1135893994325422130": {
+      "name": "Ziga",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 62,
+      "win": false,
+      "kills": 205,
+      "ultra": 0,
+      "skills": [
+        23,
+        10,
+        26,
+        4
+      ],
+      "crown": 1
+    },
+    "1135889077850345553": {
+      "name": "Ricardbox",
+      "char": 3,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 55,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        1,
+        13,
+        25
+      ],
+      "crown": 1
+    },
+    "1135887214996373585": {
+      "name": "TheMaster",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 27,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        26
+      ],
+      "crown": 1
+    },
+    "1135886792634138735": {
+      "name": "Seeker594",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 71,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        10,
+        27
+      ],
+      "crown": 1
     }
   }
 }
