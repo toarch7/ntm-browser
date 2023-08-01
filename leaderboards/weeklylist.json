@@ -761,17 +761,16 @@
       "name": "Throneseeker450",
       "char": 8,
       "skin": true,
-      "area": 105,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 54,
-      "bwep": 30,
+      "wep": 14,
+      "bwep": 75,
       "win": false,
-      "kills": 68,
+      "kills": 102,
       "ultra": 0,
       "skills": [
-        10,
-        8
+        10
       ],
       "crown": 3
     },
@@ -835,6 +834,48 @@
         13,
         7,
         10
+      ],
+      "crown": 3
+    },
+    "bajnmen": {
+      "name": "bajnmen",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 2,
+      "wep": 24,
+      "bwep": 35,
+      "win": false,
+      "kills": 1405,
+      "ultra": 1,
+      "skills": [
+        4,
+        7,
+        1,
+        13,
+        27,
+        10,
+        17
+      ],
+      "crown": 3
+    },
+    "Iverdigital": {
+      "name": "Iverdigital",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 0,
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        28
       ],
       "crown": 3
     }

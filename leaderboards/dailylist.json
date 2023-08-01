@@ -283,6 +283,79 @@
         27
       ],
       "crown": 1
+    },
+    "1135837444630122577": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 27,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1
+    },
+    "1135833537266847797": {
+      "name": "podjopnik",
+      "char": 6,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 20,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        22,
+        1,
+        25
+      ],
+      "crown": 1
+    },
+    "1135826447123095584": {
+      "name": "Seeker655",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 17,
+      "crown": 1
+    },
+    "1135825003749855363": {
+      "name": "bajnmen",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 20,
+      "bwep": 29,
+      "win": false,
+      "kills": 1104,
+      "ultra": 2,
+      "skills": [
+        1,
+        23,
+        25,
+        27,
+        12,
+        4,
+        10,
+        17
+      ],
+      "crown": 7
     }
   }
 }
