@@ -1580,16 +1580,74 @@
       "name": "Seeker521",
       "char": 8,
       "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 74,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        22,
+        12,
+        16,
+        27,
+        23
+      ],
+      "crown": 3
+    },
+    "V0DKA": {
+      "name": "V0DKA",
+      "char": 8,
+      "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
       "wep": 13,
       "bwep": 54,
       "win": false,
-      "kills": 53,
+      "kills": 72,
       "ultra": 0,
       "skills": [
-        22
+        10
+      ],
+      "crown": 3
+    },
+    "skovorodka": {
+      "name": "skovorodka",
+      "char": 8,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 13,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        4,
+        17
+      ],
+      "crown": 3
+    },
+    "SeekNdestroy": {
+      "name": "SeekNdestroy",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 17,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        28
       ],
       "crown": 3
     }

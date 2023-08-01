@@ -1121,6 +1121,101 @@
       "win": false,
       "kills": 3,
       "crown": 1
+    },
+    "1136031163832619109": {
+      "name": "skovorodka",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1
+    },
+    "1136026756961280154": {
+      "name": "Master",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 46,
+      "win": false,
+      "kills": 121,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 1
+    },
+    "1136024761034625135": {
+      "name": "Seeker413",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1
+    },
+    "1136022569825358016": {
+      "name": "Seeker712",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1
+    },
+    "1136019948523769967": {
+      "name": "Seeker413",
+      "char": 12,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 88,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1
+    },
+    "1136019454690590730": {
+      "name": "Gamzee",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1
     }
   }
 }
