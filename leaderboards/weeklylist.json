@@ -953,6 +953,64 @@
         23
       ],
       "crown": 3
+    },
+    "Doran": {
+      "name": "Doran",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 13,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        4,
+        7
+      ],
+      "crown": 3
+    },
+    "Ziga": {
+      "name": "Ziga",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 75,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        4,
+        7
+      ],
+      "crown": 3
+    },
+    "BABA": {
+      "name": "BABA",
+      "char": 8,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 17,
+      "win": false,
+      "kills": 308,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        28,
+        27,
+        16,
+        10
+      ],
+      "crown": 3
     }
   }
 }
