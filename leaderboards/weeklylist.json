@@ -300,21 +300,23 @@
     },
     "Seeker648": {
       "name": "Seeker648",
-      "char": 4,
-      "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 88,
-      "bwep": 35,
+      "wep": 21,
+      "bwep": 54,
       "win": false,
-      "kills": 58,
+      "kills": 230,
       "ultra": 0,
       "skills": [
-        25,
-        4
+        4,
+        7,
+        9,
+        28
       ],
-      "crown": 12
+      "crown": 3
     },
     "BNRgreatagain": {
       "name": "BNRgreatagain",
@@ -1351,13 +1353,13 @@
       "name": "STRVACT",
       "char": 8,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
-      "bwep": 54,
+      "wep": 54,
+      "bwep": 69,
       "win": false,
-      "kills": 63,
+      "kills": 72,
       "ultra": 0,
       "skills": [
         10,
@@ -1698,6 +1700,45 @@
       "skills": [
         26,
         7
+      ],
+      "crown": 3
+    },
+    "Czimbala": {
+      "name": "Czimbala",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 13,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        22,
+        7
+      ],
+      "crown": 3
+    },
+    "Cilian": {
+      "name": "Cilian",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 54,
+      "win": false,
+      "kills": 211,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        1,
+        27,
+        23
       ],
       "crown": 3
     }
