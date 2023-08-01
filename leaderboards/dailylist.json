@@ -246,6 +246,43 @@
         4
       ],
       "crown": 1
+    },
+    "1135817763512918026": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 39,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1
+    },
+    "1135811155940614264": {
+      "name": "seiji000",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 88,
+      "win": false,
+      "kills": 180,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        7,
+        27
+      ],
+      "crown": 1
     }
   }
 }

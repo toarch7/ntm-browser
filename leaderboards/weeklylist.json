@@ -535,29 +535,25 @@
     },
     "как": {
       "name": "как",
-      "char": 4,
-      "skin": false,
-      "area": 1,
+      "char": 8,
+      "skin": true,
+      "area": 2,
       "subarea": 1,
       "loops": 1,
-      "wep": 35,
-      "bwep": 9,
+      "wep": 86,
+      "bwep": 35,
       "win": false,
-      "kills": 322,
-      "ultra": 2,
+      "kills": 694,
+      "ultra": 1,
       "skills": [
-        25,
-        27,
-        3,
-        6,
-        12,
         4,
-        13,
-        21,
-        1,
-        17
+        7,
+        27,
+        23,
+        10,
+        9
       ],
-      "crown": 12
+      "crown": 3
     },
     "Jzarga": {
       "name": "Jzarga",
@@ -796,6 +792,49 @@
         7,
         27,
         16
+      ],
+      "crown": 3
+    },
+    "Seeker723": {
+      "name": "Seeker723",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 4,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        10,
+        7,
+        12,
+        1
+      ],
+      "crown": 3
+    },
+    "AngelMich": {
+      "name": "AngelMich",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 59,
+      "win": false,
+      "kills": 250,
+      "ultra": 0,
+      "skills": [
+        4,
+        17,
+        12,
+        1,
+        13,
+        7,
+        10
       ],
       "crown": 3
     }
