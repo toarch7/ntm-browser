@@ -1,4 +1,644 @@
 {
   "seed": 445673189,
-  "entries": {}
+  "entries": {
+    "powerdrish": {
+      "name": "powerdrish",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 37,
+      "win": false,
+      "kills": 174,
+      "ultra": 0,
+      "skills": [
+        10,
+        28,
+        1,
+        13
+      ],
+      "crown": 3
+    },
+    "Seeker413": {
+      "name": "Seeker413",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 0,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        10,
+        7,
+        13,
+        27
+      ],
+      "crown": 3
+    },
+    "Seeker712": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 35,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        28,
+        8,
+        3
+      ],
+      "crown": 12
+    },
+    "Eileifr": {
+      "name": "Eileifr",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 66,
+      "win": false,
+      "kills": 170,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        28,
+        6,
+        22,
+        4
+      ],
+      "crown": 12
+    },
+    "ElTormakzXD": {
+      "name": "ElTormakzXD",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "2Pncomes": {
+      "name": "2Pncomes",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 69,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        25,
+        27
+      ],
+      "crown": 12
+    },
+    "Throneseeker413": {
+      "name": "Throneseeker413",
+      "char": 14,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 35,
+      "win": false,
+      "kills": 242,
+      "crown": 12
+    },
+    "Seeker532": {
+      "name": "Seeker532",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 35,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        8
+      ],
+      "crown": 12
+    },
+    "MossShade": {
+      "name": "MossShade",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        19,
+        3
+      ],
+      "crown": 12
+    },
+    "FoZ": {
+      "name": "FoZ",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        25,
+        1
+      ],
+      "crown": 12
+    },
+    "hexsander3": {
+      "name": "hexsander3",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        3,
+        6,
+        12,
+        13
+      ],
+      "crown": 12
+    },
+    "Overlok": {
+      "name": "Overlok",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 69,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 12
+    },
+    "Aaaaaa": {
+      "name": "Aaaaaa",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        25,
+        1
+      ],
+      "crown": 12
+    },
+    "Бяка2206": {
+      "name": "Бяка2206",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 69,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "Erick62Z": {
+      "name": "Erick62Z",
+      "char": 4,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        25,
+        1
+      ],
+      "crown": 12
+    },
+    "Пидр228": {
+      "name": "Пидр228",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 35,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        24,
+        27,
+        14,
+        1
+      ],
+      "crown": 12
+    },
+    "Seeker648": {
+      "name": "Seeker648",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        25,
+        4
+      ],
+      "crown": 12
+    },
+    "BNRgreatagain": {
+      "name": "BNRgreatagain",
+      "char": 4,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        1
+      ],
+      "crown": 12
+    },
+    "Leite": {
+      "name": "Leite",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        3
+      ],
+      "crown": 12
+    },
+    "Mlkwis": {
+      "name": "Mlkwis",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        16,
+        6
+      ],
+      "crown": 12
+    },
+    "Seeker890": {
+      "name": "Seeker890",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        2,
+        1
+      ],
+      "crown": 12
+    },
+    "Kirito777": {
+      "name": "Kirito777",
+      "char": 4,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 66,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        8,
+        22
+      ],
+      "crown": 12
+    },
+    "Seeker722": {
+      "name": "Seeker722",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 35,
+      "win": false,
+      "kills": 194,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        8,
+        1,
+        13,
+        14
+      ],
+      "crown": 12
+    },
+    "Seeker480": {
+      "name": "Seeker480",
+      "char": 4,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 23,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        28,
+        1,
+        12
+      ],
+      "crown": 12
+    },
+    "Seeker402.51": {
+      "name": "Seeker402.51",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 66,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        28,
+        21
+      ],
+      "crown": 12
+    },
+    "Seeker091": {
+      "name": "Seeker091",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 35,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        16
+      ],
+      "crown": 12
+    },
+    "Seeker819": {
+      "name": "Seeker819",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        3,
+        1,
+        2
+      ],
+      "crown": 12
+    },
+    "Seeker655": {
+      "name": "Seeker655",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "как": {
+      "name": "как",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 35,
+      "bwep": 9,
+      "win": false,
+      "kills": 322,
+      "ultra": 2,
+      "skills": [
+        25,
+        27,
+        3,
+        6,
+        12,
+        4,
+        13,
+        21,
+        1,
+        17
+      ],
+      "crown": 12
+    },
+    "Jzarga": {
+      "name": "Jzarga",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 35,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        25,
+        7,
+        1,
+        3
+      ],
+      "crown": 12
+    },
+    "Knaiz": {
+      "name": "Knaiz",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 35,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        25,
+        7,
+        27,
+        3,
+        1,
+        22
+      ],
+      "crown": 12
+    },
+    "Hey": {
+      "name": "Hey",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12
+    },
+    "alan": {
+      "name": "alan",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        3
+      ],
+      "crown": 12
+    }
+  }
 }
