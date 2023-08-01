@@ -1538,6 +1538,45 @@
         8
       ],
       "crown": 3
+    },
+    "Ragt": {
+      "name": "Ragt",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 0,
+      "win": false,
+      "kills": 160,
+      "ultra": 0,
+      "skills": [
+        4,
+        7
+      ],
+      "crown": 3
+    },
+    "Seeker586": {
+      "name": "Seeker586",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 54,
+      "win": false,
+      "kills": 204,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        12,
+        1,
+        27
+      ],
+      "crown": 3
     }
   }
 }

@@ -1031,6 +1031,65 @@
         4
       ],
       "crown": 1
+    },
+    "1136001963595669645": {
+      "name": "nidd",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 50,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        1,
+        19
+      ],
+      "crown": 1
+    },
+    "1135998037202833439": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1
+    },
+    "1135992783149203476": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 11,
+      "crown": 1
+    },
+    "1135992739541037136": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 10,
+      "crown": 1
     }
   }
 }
