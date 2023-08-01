@@ -1243,6 +1243,68 @@
         28
       ],
       "crown": 3
+    },
+    "НЕГРЫ": {
+      "name": "НЕГРЫ",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 54,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        4,
+        7
+      ],
+      "crown": 3
+    },
+    "Оффтоп": {
+      "name": "Оффтоп",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 54,
+      "win": false,
+      "kills": 712,
+      "ultra": 2,
+      "skills": [
+        4,
+        17,
+        27,
+        7,
+        10,
+        1
+      ],
+      "crown": 3
+    },
+    "сникерс": {
+      "name": "сникерс",
+      "char": 8,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 47,
+      "win": false,
+      "kills": 268,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        28,
+        1,
+        9,
+        27
+      ],
+      "crown": 3
     }
   }
 }

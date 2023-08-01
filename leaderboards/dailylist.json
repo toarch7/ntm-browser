@@ -787,6 +787,81 @@
       "win": false,
       "kills": 0,
       "crown": 1
+    },
+    "1135938562152472646": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 1
+    },
+    "1135935587203944518": {
+      "name": "Seeker712",
+      "char": 9,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 55,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        28
+      ],
+      "crown": 1
+    },
+    "1135934126092988487": {
+      "name": "НЕГРЫ",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1
+    },
+    "1135930842867322984": {
+      "name": "lol",
+      "char": 2,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 12,
+      "win": false,
+      "kills": 239,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        4,
+        7,
+        9
+      ],
+      "crown": 11
     }
   }
 }
