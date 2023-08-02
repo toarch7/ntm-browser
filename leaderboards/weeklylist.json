@@ -822,22 +822,23 @@
       "name": "AngelMich",
       "char": 8,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 24,
-      "bwep": 59,
+      "wep": 54,
+      "bwep": 20,
       "win": false,
-      "kills": 250,
+      "kills": 341,
       "ultra": 0,
       "skills": [
         4,
-        17,
+        7,
         12,
         1,
-        13,
-        7,
-        10
+        17,
+        27,
+        10,
+        9
       ],
       "crown": 3
     },
@@ -1991,6 +1992,44 @@
         7,
         28,
         9
+      ],
+      "crown": 3
+    },
+    "Spixic": {
+      "name": "Spixic",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 17,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        12,
+        1
+      ],
+      "crown": 3
+    },
+    "H0TL": {
+      "name": "H0TL",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 54,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        4,
+        17
       ],
       "crown": 3
     }
