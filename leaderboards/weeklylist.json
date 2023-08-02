@@ -498,24 +498,25 @@
     },
     "Seeker819": {
       "name": "Seeker819",
-      "char": 4,
-      "skin": false,
+      "char": 8,
+      "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 5,
-      "bwep": 4,
+      "wep": 2,
+      "bwep": 54,
       "win": false,
-      "kills": 125,
+      "kills": 206,
       "ultra": 0,
       "skills": [
-        25,
         4,
-        3,
+        7,
+        28,
         1,
-        2
+        17,
+        19
       ],
-      "crown": 12
+      "crown": 3
     },
     "Seeker655": {
       "name": "Seeker655",
@@ -2085,6 +2086,25 @@
         1,
         13,
         7
+      ],
+      "crown": 3
+    },
+    "pepito": {
+      "name": "pepito",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 2,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        28
       ],
       "crown": 3
     }
