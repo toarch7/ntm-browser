@@ -1027,6 +1027,29 @@
       "win": false,
       "kills": 7,
       "crown": 1
+    },
+    "1136127985058070608": {
+      "name": "GV-CN",
+      "char": 5,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 16,
+      "bwep": 87,
+      "win": false,
+      "kills": 1134,
+      "ultra": 1,
+      "skills": [
+        7,
+        14,
+        22,
+        1,
+        3,
+        17,
+        27
+      ],
+      "crown": 1
     }
   }
 }
