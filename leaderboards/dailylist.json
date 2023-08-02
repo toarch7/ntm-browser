@@ -1183,6 +1183,54 @@
         25
       ],
       "crown": 1
+    },
+    "1136393581419036803": {
+      "name": "Seeker710",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 6,
+      "crown": 1
+    },
+    "1136389942604464239": {
+      "name": "Seeker712",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1
+    },
+    "1136385473913294989": {
+      "name": "Erick",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 3,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        16,
+        24
+      ],
+      "crown": 1
     }
   }
 }
