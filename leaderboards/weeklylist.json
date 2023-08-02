@@ -228,21 +228,22 @@
     },
     "Aaaaaa": {
       "name": "Aaaaaa",
-      "char": 4,
-      "skin": false,
-      "area": 2,
+      "char": 8,
+      "skin": true,
+      "area": 102,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 35,
+      "wep": 54,
+      "bwep": 69,
       "win": false,
-      "kills": 43,
+      "kills": 79,
       "ultra": 0,
       "skills": [
-        25,
-        1
+        4,
+        2,
+        28
       ],
-      "crown": 12
+      "crown": 3
     },
     "Бяка2206": {
       "name": "Бяка2206",
@@ -2186,6 +2187,23 @@
       "skills": [
         22,
         7
+      ],
+      "crown": 3
+    },
+    "eduardo": {
+      "name": "eduardo",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 75,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        4
       ],
       "crown": 3
     }
