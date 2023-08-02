@@ -32,22 +32,6 @@
     }
   },
   {
-    "full_name": "Maxwelllink/Night_Desert",
-    "name": "Night_Desert",
-    "owner": "Maxwelllink",
-    "created": 1667778392000,
-    "updated": 1667778446000,
-    "stars": 3,
-    "branch": "main",
-    "malformed": false,
-    "hidden": false,
-    "meta": {
-      "name": "Night Desert",
-      "descriptionShort": "Turns the desert into a night desert",
-      "description": "Turns the desert into a night desert. I did not take textures from 0-1 honestly :)"
-    }
-  },
-  {
     "full_name": "Maxwelllink/-",
     "name": "-",
     "owner": "Maxwelllink",
@@ -61,6 +45,22 @@
       "name": "Ты мама",
       "descriptionShort": "Ты мама",
       "description": "Ты мама"
+    }
+  },
+  {
+    "full_name": "Maxwelllink/Night_Desert",
+    "name": "Night_Desert",
+    "owner": "Maxwelllink",
+    "created": 1667778392000,
+    "updated": 1667778446000,
+    "stars": 3,
+    "branch": "main",
+    "malformed": false,
+    "hidden": false,
+    "meta": {
+      "name": "Night Desert",
+      "descriptionShort": "Turns the desert into a night desert",
+      "description": "Turns the desert into a night desert. I did not take textures from 0-1 honestly :)"
     }
   },
   {
