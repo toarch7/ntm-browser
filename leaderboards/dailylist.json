@@ -515,6 +515,57 @@
       "ultra": 0,
       "skills": [],
       "crown": 1
+    },
+    "1136224403584204840": {
+      "name": "Seeker413",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 62,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        14
+      ],
+      "crown": 1
+    },
+    "1136223365603004506": {
+      "name": "Seiji000",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 14,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1
+    },
+    "1136216574961913917": {
+      "name": "seiji000",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 5,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1
     }
   }
 }
