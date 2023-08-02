@@ -2065,6 +2065,28 @@
         1
       ],
       "crown": 3
+    },
+    "Bad": {
+      "name": "Bad",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 107,
+      "win": false,
+      "kills": 908,
+      "ultra": 1,
+      "skills": [
+        4,
+        17,
+        12,
+        1,
+        13,
+        7
+      ],
+      "crown": 3
     }
   }
 }
