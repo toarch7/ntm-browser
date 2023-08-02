@@ -2230,6 +2230,42 @@
         1
       ],
       "crown": 3
+    },
+    "Andre": {
+      "name": "Andre",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 54,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 3
+    },
+    "freeman": {
+      "name": "freeman",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 54,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        28
+      ],
+      "crown": 3
     }
   }
 }
