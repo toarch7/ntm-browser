@@ -389,6 +389,72 @@
       "ultra": 0,
       "skills": [],
       "crown": 1
+    },
+    "1136199396191645726": {
+      "name": "Seeker413",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 38,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        7,
+        14,
+        22
+      ],
+      "crown": 1
+    },
+    "1136194293523038309": {
+      "name": "BREAD",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 1,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1
+    },
+    "1136191522585464862": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1
+    },
+    "1136189845484613652": {
+      "name": "Cockonut",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 27,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1
     }
   }
 }
