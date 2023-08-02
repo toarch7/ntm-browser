@@ -201,6 +201,83 @@
       "bwep": 0,
       "win": false,
       "kills": 33
+    },
+    "1136152976302551122": {
+      "name": "YVFAN$$$",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 26,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        7,
+        24,
+        22
+      ],
+      "crown": 1
+    },
+    "1136149758407352330": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 39,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        7,
+        16
+      ],
+      "crown": 1
+    },
+    "1136143307114807418": {
+      "name": "Gamzee",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 26,
+      "win": false,
+      "kills": 749,
+      "ultra": 2,
+      "skills": [
+        16,
+        27,
+        19,
+        1,
+        3,
+        8,
+        21
+      ],
+      "crown": 7
+    },
+    "1136139930276474900": {
+      "name": "Seeker413",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1
     }
   }
 }
