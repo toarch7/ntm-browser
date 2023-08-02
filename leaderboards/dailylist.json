@@ -566,6 +566,49 @@
         22
       ],
       "crown": 1
+    },
+    "1136237197398384690": {
+      "name": "shiva",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 7,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1
+    },
+    "1136235678242443355": {
+      "name": "Оффтоп",
+      "char": 12,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1
+    },
+    "1136233193578700820": {
+      "name": "Seeker655",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1
     }
   }
 }

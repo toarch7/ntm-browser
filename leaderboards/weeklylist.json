@@ -1832,13 +1832,23 @@
       "name": "Wint",
       "char": 8,
       "skin": true,
-      "area": null,
-      "subarea": null,
+      "area": 1,
+      "subarea": 2,
       "loops": 1,
-      "wep": 0,
+      "wep": 54,
       "bwep": 0,
       "win": false,
-      "kills": 11
+      "kills": 412,
+      "ultra": 1,
+      "skills": [
+        4,
+        17,
+        27,
+        22,
+        10,
+        1
+      ],
+      "crown": 3
     },
     "kimich": {
       "name": "kimich",
@@ -2034,6 +2044,25 @@
       "skills": [
         4,
         17
+      ],
+      "crown": 3
+    },
+    "shiva": {
+      "name": "shiva",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 17,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        1
       ],
       "crown": 3
     }
