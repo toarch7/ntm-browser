@@ -1200,18 +1200,19 @@
       "name": "Proton",
       "char": 8,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 5,
+      "subarea": 1,
       "loops": 0,
-      "wep": 54,
-      "bwep": 69,
+      "wep": 9,
+      "bwep": 54,
       "win": false,
-      "kills": 100,
+      "kills": 113,
       "ultra": 0,
       "skills": [
         10,
         7,
-        28
+        28,
+        1
       ],
       "crown": 3
     },
@@ -1529,17 +1530,18 @@
       "name": "Scrotum",
       "char": 8,
       "skin": true,
-      "area": 105,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
       "wep": 9,
       "bwep": 54,
       "win": false,
-      "kills": 69,
+      "kills": 73,
       "ultra": 0,
       "skills": [
         10,
-        8
+        2,
+        28
       ],
       "crown": 3
     },
