@@ -34,7 +34,7 @@ function ultraGet(name) {
 }
 
 function parseDescription(str) {
-	let ret = {area: 0, subarea: 1, loops: 0, wep: 0, bwep: 0, win: false };
+	let ret = {area: null, subarea: 1, loops: 0, wep: 0, bwep: 0, win: false };
 	
 	let desc = str.split("\n");
 	
@@ -44,7 +44,7 @@ function parseDescription(str) {
 		if(d == "")
 			continue;
 
-		if (!ret.area) {
+		if (ret.area == null) {
 			let a = d.substring(2).split(" ");
 			let b = a[0].split("-");
 
