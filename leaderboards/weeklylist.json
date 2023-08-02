@@ -1874,6 +1874,46 @@
         7
       ],
       "crown": 3
+    },
+    "vaarenik": {
+      "name": "vaarenik",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 69,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        4,
+        7
+      ],
+      "crown": 3
+    },
+    "Seeker796": {
+      "name": "Seeker796",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 12,
+      "win": false,
+      "kills": 315,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        28,
+        1,
+        9,
+        23
+      ],
+      "crown": 3
     }
   }
 }
