@@ -844,6 +844,69 @@
         1
       ],
       "crown": 1
+    },
+    "1136296696096227402": {
+      "name": "Throneseeker413",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 46,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1
+    },
+    "1136292466308419666": {
+      "name": "AngelMich",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 39,
+      "win": false,
+      "kills": 15,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1
+    },
+    "1136291737501978637": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 11,
+      "crown": 1
+    },
+    "1136291607281410088": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 5,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        7,
+        25
+      ],
+      "crown": 1
     }
   }
 }

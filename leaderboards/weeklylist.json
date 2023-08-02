@@ -2128,6 +2128,25 @@
         23
       ],
       "crown": 3
+    },
+    "claymoreroomba": {
+      "name": "claymoreroomba",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 30,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        10,
+        2,
+        28
+      ],
+      "crown": 3
     }
   }
 }
