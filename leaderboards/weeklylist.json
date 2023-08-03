@@ -2366,6 +2366,42 @@
         28
       ],
       "crown": 3
+    },
+    "Seeker657": {
+      "name": "Seeker657",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 0,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        1
+      ],
+      "crown": 3
+    },
+    "Kevalla": {
+      "name": "Kevalla",
+      "char": 8,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 76,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 3
     }
   }
 }
