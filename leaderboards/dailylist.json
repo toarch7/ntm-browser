@@ -215,6 +215,48 @@
         8
       ],
       "crown": 1
+    },
+    "1136528964488282132": {
+      "name": "AngelMich",
+      "char": 9,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 0,
+      "win": false,
+      "kills": 286,
+      "ultra": 0,
+      "skills": [
+        21,
+        13,
+        1,
+        9,
+        7,
+        22,
+        26,
+        2
+      ],
+      "crown": 11
+    },
+    "1136526914115354634": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 71,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        8,
+        24
+      ],
+      "crown": 1
     }
   }
 }
