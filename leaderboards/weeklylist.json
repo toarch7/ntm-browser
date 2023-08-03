@@ -1808,13 +1808,14 @@
       "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 76,
-      "bwep": 54,
+      "wep": 54,
+      "bwep": 76,
       "win": false,
-      "kills": 85,
+      "kills": 111,
       "ultra": 0,
       "skills": [
-        10
+        10,
+        28
       ],
       "crown": 3
     },
