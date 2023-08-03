@@ -891,16 +891,17 @@
       "name": "kykyry3ka",
       "char": 8,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 54,
+      "wep": 57,
       "bwep": 13,
       "win": false,
-      "kills": 33,
+      "kills": 68,
       "ultra": 0,
       "skills": [
-        4
+        4,
+        28
       ],
       "crown": 3
     },
@@ -2472,6 +2473,44 @@
       "skills": [
         4,
         7
+      ],
+      "crown": 3
+    },
+    "lolikk": {
+      "name": "lolikk",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 0,
+      "win": false,
+      "kills": 118,
+      "ultra": 0,
+      "skills": [
+        10,
+        7,
+        28
+      ],
+      "crown": 3
+    },
+    "EvilCat": {
+      "name": "EvilCat",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 54,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        28
       ],
       "crown": 3
     }
