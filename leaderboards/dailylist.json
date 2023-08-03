@@ -257,6 +257,78 @@
         24
       ],
       "crown": 1
+    },
+    "1136535172838342786": {
+      "name": "Seeker655",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 11,
+      "win": false,
+      "kills": 222,
+      "ultra": 0,
+      "skills": [
+        3,
+        13,
+        1,
+        7
+      ],
+      "crown": 11
+    },
+    "1136533730526249091": {
+      "name": "BREAD",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 7,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1
+    },
+    "1136532777840418956": {
+      "name": "MAYCLO",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 16,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        8,
+        3
+      ],
+      "crown": 1
+    },
+    "1136532634722369576": {
+      "name": "Seeker605",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 0,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1
     }
   }
 }
