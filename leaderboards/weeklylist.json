@@ -2438,6 +2438,24 @@
         7
       ],
       "crown": 3
+    },
+    "Pump": {
+      "name": "Pump",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 69,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        10,
+        7
+      ],
+      "crown": 3
     }
   }
 }
