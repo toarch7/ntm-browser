@@ -1,4 +1,102 @@
 {
   "day": 3,
-  "entries": {}
+  "entries": {
+    "1136484171427094538": {
+      "name": "Gamzee",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 39,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        3,
+        13
+      ],
+      "crown": 1
+    },
+    "1136483316116242494": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 3,
+      "crown": 1
+    },
+    "1136482352407793785": {
+      "name": "bajnmen",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 107,
+      "bwep": 11,
+      "win": false,
+      "kills": 289,
+      "ultra": 0,
+      "skills": [
+        3,
+        13,
+        1,
+        23,
+        7,
+        8
+      ],
+      "crown": 1
+    },
+    "1136470442522189915": {
+      "name": "Diego",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 107,
+      "win": false,
+      "kills": 262,
+      "ultra": 0,
+      "skills": [
+        3,
+        28,
+        1,
+        7,
+        21,
+        16
+      ],
+      "crown": 1
+    },
+    "1136453330281959484": {
+      "name": "Seeker413",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 26,
+      "win": false,
+      "kills": 199,
+      "ultra": 0,
+      "skills": [
+        7,
+        28,
+        16,
+        2,
+        1,
+        3
+      ],
+      "crown": 2
+    }
+  }
 }

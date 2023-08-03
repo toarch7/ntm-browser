@@ -2324,6 +2324,26 @@
         9
       ],
       "crown": 3
+    },
+    "nel02": {
+      "name": "nel02",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 0,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        28,
+        1
+      ],
+      "crown": 3
     }
   }
 }
