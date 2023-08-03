@@ -1042,6 +1042,96 @@
       "win": false,
       "kills": 2,
       "crown": 1
+    },
+    "1136742494151901215": {
+      "name": "Throneseeker471",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 114,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        6,
+        3,
+        1
+      ],
+      "crown": 4
+    },
+    "1136732864575189003": {
+      "name": "nidd",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 114,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        16,
+        6,
+        2
+      ],
+      "crown": 8
+    },
+    "1136732175136473298": {
+      "name": "tarek",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 7,
+      "win": false,
+      "kills": 12,
+      "crown": 1
+    },
+    "1136731507394879539": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 39,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        6,
+        13
+      ],
+      "crown": 1
+    },
+    "1136730835702251550": {
+      "name": "Seeker712",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 7,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        8,
+        24,
+        1
+      ],
+      "crown": 1
     }
   }
 }
