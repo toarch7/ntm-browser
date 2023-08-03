@@ -2420,6 +2420,24 @@
         7
       ],
       "crown": 3
+    },
+    "BossGamer_XD": {
+      "name": "BossGamer_XD",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 54,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        4,
+        7
+      ],
+      "crown": 3
     }
   }
 }
