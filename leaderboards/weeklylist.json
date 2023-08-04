@@ -481,22 +481,21 @@
     },
     "Seeker091": {
       "name": "Seeker091",
-      "char": 4,
-      "skin": false,
+      "char": 8,
+      "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 30,
-      "bwep": 35,
+      "wep": 13,
+      "bwep": 54,
       "win": false,
-      "kills": 93,
+      "kills": 122,
       "ultra": 0,
       "skills": [
-        25,
-        1,
-        16
+        4,
+        7
       ],
-      "crown": 12
+      "crown": 3
     },
     "Seeker819": {
       "name": "Seeker819",
@@ -2227,19 +2226,20 @@
       "name": "papa55",
       "char": 8,
       "skin": true,
-      "area": 7,
-      "subarea": 3,
-      "loops": 0,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
       "wep": 54,
       "bwep": 13,
       "win": false,
-      "kills": 166,
+      "kills": 213,
       "ultra": 0,
       "skills": [
         4,
         2,
         28,
         1,
+        13,
         27
       ],
       "crown": 3
@@ -2683,17 +2683,37 @@
       "name": "Kura",
       "char": 8,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 13,
-      "bwep": 54,
+      "wep": 54,
+      "bwep": 17,
       "win": false,
-      "kills": 43,
+      "kills": 94,
       "ultra": 0,
       "skills": [
-        10,
-        7
+        4,
+        7,
+        12,
+        1
+      ],
+      "crown": 3
+    },
+    "Seiji000": {
+      "name": "Seiji000",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 75,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        22,
+        2
       ],
       "crown": 3
     }
