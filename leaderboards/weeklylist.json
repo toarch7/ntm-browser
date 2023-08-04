@@ -2207,17 +2207,19 @@
       "name": "eduardo",
       "char": 8,
       "skin": true,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 69,
-      "bwep": 54,
+      "wep": 72,
+      "bwep": 90,
       "win": false,
-      "kills": 88,
+      "kills": 112,
       "ultra": 0,
       "skills": [
         4,
-        7
+        7,
+        28,
+        1
       ],
       "crown": 3
     },
@@ -2674,6 +2676,24 @@
       "skills": [
         4,
         1
+      ],
+      "crown": 3
+    },
+    "Kura": {
+      "name": "Kura",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 54,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        10,
+        7
       ],
       "crown": 3
     }

@@ -384,6 +384,58 @@
         9
       ],
       "crown": 1
+    },
+    "1136924261001461780": {
+      "name": "Seeker413",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 27,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1
+    },
+    "1136917909675982940": {
+      "name": "BREAD",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 6,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 1
+    },
+    "1136910513918464030": {
+      "name": "Seeker820",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 8,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1
     }
   }
 }
