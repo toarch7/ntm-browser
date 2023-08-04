@@ -2636,6 +2636,26 @@
         7
       ],
       "crown": 3
+    },
+    "Seeker270": {
+      "name": "Seeker270",
+      "char": 8,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 69,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        10,
+        7,
+        1,
+        27
+      ],
+      "crown": 3
     }
   }
 }
