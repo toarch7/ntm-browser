@@ -921,6 +921,92 @@
       "win": false,
       "kills": 0,
       "crown": 1
+    },
+    "1137059773431431310": {
+      "name": "Sku",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 61,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        25
+      ],
+      "crown": 1
+    },
+    "1137057269301911552": {
+      "name": "Seeker760",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1
+    },
+    "1137051348798558308": {
+      "name": "Seeker712",
+      "char": 5,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 1,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 1
+    },
+    "1137049410958803025": {
+      "name": "Sharashckin",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 21,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        13,
+        7
+      ],
+      "crown": 1
+    },
+    "1137047900115968172": {
+      "name": "Kevalla",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 88,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        1,
+        23
+      ],
+      "crown": 1
     }
   }
 }
