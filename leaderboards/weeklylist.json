@@ -2659,6 +2659,24 @@
         27
       ],
       "crown": 3
+    },
+    "lawliett": {
+      "name": "lawliett",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 57,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        4,
+        1
+      ],
+      "crown": 3
     }
   }
 }
