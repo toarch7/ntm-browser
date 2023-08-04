@@ -2721,17 +2721,18 @@
       "name": "Seeker815",
       "char": 8,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 54,
-      "bwep": 4,
+      "wep": 4,
+      "bwep": 66,
       "win": false,
-      "kills": 84,
+      "kills": 118,
       "ultra": 0,
       "skills": [
         10,
-        7
+        7,
+        28
       ],
       "crown": 3
     },
