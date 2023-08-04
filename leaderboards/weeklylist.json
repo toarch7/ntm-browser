@@ -2799,6 +2799,42 @@
         19
       ],
       "crown": 3
+    },
+    "ALPHA50": {
+      "name": "ALPHA50",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 0,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        4,
+        7
+      ],
+      "crown": 3
+    },
+    "sparroW,,": {
+      "name": "sparroW,,",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 33,
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        4,
+        12
+      ],
+      "crown": 3
     }
   }
 }
