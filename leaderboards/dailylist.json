@@ -518,6 +518,149 @@
         27
       ],
       "crown": 1
+    },
+    "1136953431270096926": {
+      "name": "GV-CN",
+      "char": 11,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 111,
+      "win": false,
+      "kills": 1692,
+      "ultra": 2,
+      "skills": [
+        27,
+        7,
+        23,
+        8,
+        25,
+        9,
+        13,
+        3
+      ],
+      "crown": 7
+    },
+    "1136951920142078054": {
+      "name": "Throneseeker386",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1
+    },
+    "1136951085299413025": {
+      "name": "Czimbala",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 118,
+      "bwep": 13,
+      "win": false,
+      "kills": 624,
+      "ultra": 1,
+      "skills": [
+        13,
+        7,
+        23,
+        25,
+        22,
+        9,
+        27,
+        3
+      ],
+      "crown": 1
+    },
+    "1136945267283861555": {
+      "name": "MrPrstchk",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 8,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        23
+      ],
+      "crown": 1
+    },
+    "1136944975033151498": {
+      "name": "Finago",
+      "char": 5,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 44,
+      "bwep": 20,
+      "win": false,
+      "kills": 192,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        23,
+        8
+      ],
+      "crown": 1
+    },
+    "1136943457278099556": {
+      "name": "Seeker815",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 10,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        10,
+        7,
+        9
+      ],
+      "crown": 1
+    },
+    "1136942621198127104": {
+      "name": "AngelMich",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 95,
+      "win": false,
+      "kills": 684,
+      "ultra": 1,
+      "skills": [
+        1,
+        7,
+        23,
+        9,
+        25,
+        22,
+        27,
+        3
+      ],
+      "crown": 3
     }
   }
 }
