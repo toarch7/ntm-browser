@@ -746,6 +746,40 @@
         1
       ],
       "crown": 1
+    },
+    "1137010705762111548": {
+      "name": "Jean",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 0,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1
+    },
+    "1137005756177203371": {
+      "name": "katzefuchs",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 6,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1
     }
   }
 }
