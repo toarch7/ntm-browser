@@ -2066,18 +2066,21 @@
       "name": "shiva",
       "char": 8,
       "skin": true,
-      "area": 4,
+      "area": 1,
       "subarea": 1,
-      "loops": 0,
-      "wep": 47,
-      "bwep": 17,
+      "loops": 1,
+      "wep": 54,
+      "bwep": 74,
       "win": false,
-      "kills": 157,
+      "kills": 181,
       "ultra": 0,
       "skills": [
         4,
         7,
-        1
+        12,
+        1,
+        27,
+        22
       ],
       "crown": 3
     },
