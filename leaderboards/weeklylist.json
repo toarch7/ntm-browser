@@ -248,20 +248,20 @@
     },
     "Бяка2206": {
       "name": "Бяка2206",
-      "char": 4,
-      "skin": false,
-      "area": 2,
+      "char": 8,
+      "skin": true,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 35,
-      "bwep": 69,
+      "wep": 69,
+      "bwep": 75,
       "win": false,
-      "kills": 34,
+      "kills": 90,
       "ultra": 0,
       "skills": [
-        1
+        10
       ],
-      "crown": 12
+      "crown": 3
     },
     "Erick62Z": {
       "name": "Erick62Z",
@@ -2833,6 +2833,63 @@
       "skills": [
         4,
         12
+      ],
+      "crown": 3
+    },
+    "Furretdnguwu": {
+      "name": "Furretdnguwu",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 54,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        28
+      ],
+      "crown": 3
+    },
+    "Seeker230": {
+      "name": "Seeker230",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 54,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        4,
+        2
+      ],
+      "crown": 3
+    },
+    "ElPibe27": {
+      "name": "ElPibe27",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 12,
+      "win": false,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        4,
+        28,
+        8,
+        7
       ],
       "crown": 3
     }
