@@ -2934,6 +2934,25 @@
         1
       ],
       "crown": 3
+    },
+    "Принтер": {
+      "name": "Принтер",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 54,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        28
+      ],
+      "crown": 3
     }
   }
 }
