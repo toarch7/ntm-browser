@@ -2913,6 +2913,27 @@
         7
       ],
       "crown": 3
+    },
+    "Seeker061": {
+      "name": "Seeker061",
+      "char": 8,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 74,
+      "bwep": 111,
+      "win": false,
+      "kills": 1230,
+      "ultra": 1,
+      "skills": [
+        4,
+        7,
+        27,
+        23,
+        1
+      ],
+      "crown": 3
     }
   }
 }
