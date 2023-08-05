@@ -258,6 +258,121 @@
         4
       ],
       "crown": 1
+    },
+    "1137255875946483733": {
+      "name": "Throneseeker413",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 0,
+      "win": false,
+      "kills": 15,
+      "crown": 1
+    },
+    "1137253022800551970": {
+      "name": "seiji000",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 88,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        9,
+        16,
+        4
+      ],
+      "crown": 1
+    },
+    "1137251859598426233": {
+      "name": "Sharashckin",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 61,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        13,
+        7,
+        4
+      ],
+      "crown": 1
+    },
+    "1137237421470269500": {
+      "name": "Cristal",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 46,
+      "win": false,
+      "kills": 15,
+      "crown": 1
+    },
+    "1137232267048140820": {
+      "name": "Fake",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 4,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        6,
+        7
+      ],
+      "crown": 1
+    },
+    "1137231185165160459": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 0,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1
+    },
+    "1137229534945620010": {
+      "name": "Seeker712",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 88,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        16,
+        9
+      ],
+      "crown": 1
     }
   }
 }
