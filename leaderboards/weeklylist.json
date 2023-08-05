@@ -432,22 +432,25 @@
       "name": "Seeker722",
       "char": 8,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 24,
-      "bwep": 54,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 54,
+      "bwep": 70,
       "win": false,
-      "kills": 279,
-      "ultra": 0,
+      "kills": 523,
+      "ultra": 2,
       "skills": [
         4,
         7,
-        1,
+        12,
         27,
-        23
+        23,
+        1
       ],
-      "crown": 3
+      "crown": 3,
+      "version": "v2527",
+      "uid": null
     },
     "Seeker480": {
       "name": "Seeker480",
@@ -2989,21 +2992,24 @@
       "name": "Desolator",
       "char": 8,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 24,
-      "bwep": 54,
+      "wep": 35,
+      "bwep": 37,
       "win": false,
-      "kills": 266,
+      "kills": 348,
       "ultra": 0,
       "skills": [
-        4,
+        10,
         28,
+        13,
         27,
-        23
+        1
       ],
-      "crown": 3
+      "crown": 3,
+      "version": "v2527",
+      "uid": null
     },
     "Throneseeker851": {
       "name": "Throneseeker851",
@@ -3113,6 +3119,27 @@
       "skills": [
         4,
         7
+      ],
+      "crown": 3,
+      "version": "v2527",
+      "uid": null
+    },
+    "kewata": {
+      "name": "kewata",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 4,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        12
       ],
       "crown": 3,
       "version": "v2527",
