@@ -1,3 +1,5 @@
+// this is dumb
+
 const { Client, Events, GatewayIntentBits } = require("discord.js");
 const { readFileSync, writeFileSync, existsSync } = require("fs");
 const Emotes = require("./tables/emotes.json");
@@ -138,15 +140,21 @@ client.once(Events.ClientReady, c => {
         console.log(`(Daily) Received ${messages.size} messages`);
 
         messages.forEach(message => {
-            if (!entries[message.id]) {
+            if (!message.embeds || !message.embeds[0])
+                return;
+
+            let stats = parse(message.embeds[0]);
+            let uid = stats.uid ?? message.id;
+
+            if (!entries[uid]) {
                 let day = new Date(message.createdTimestamp);
         
                 if (date != day.getDate())
                     return;
 
-				let stats = parse(message.embeds[0]);
-				console.log("New entry from", stats.name);
-                entries[message.id] = stats;
+				console.log("New entry from", stats.name + "|" + uid);
+
+                entries[uid] = stats;
             }
         });
 
@@ -198,15 +206,23 @@ client.once(Events.ClientReady, c => {
         console.log(`(Weekly) Received ${messages.size} messages`);
 
         messages.forEach(message => {
+            if (!message.embeds || !message.embeds[0])
+                return;
+
+            if (message.embeds[0].footer.text == "(no score improvement)")
+                return;
+
             let num = getWeekNumber(new Date(message.createdTimestamp));
 
             if (num == weekNumber) {
                 let stats = parse(message.embeds[0]);
-                let entry = entries[stats.name];
+                let uid = stats.uid ?? stats.name;
+
+                let entry = entries[uid];
     
                 if (!entry || (entry && entry.kills < stats.kills)) {
-					console.log("New entry from", stats.name);
-                    entries[stats.name] = stats;
+					console.log("New entry from", stats.name + "|" + uid);
+                    entries[uid] = stats;
                 }
             }
         });

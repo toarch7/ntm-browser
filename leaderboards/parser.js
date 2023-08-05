@@ -1,3 +1,5 @@
+// this is dumb too
+
 const CharNames = require("./tables/characters.json");
 const SkillNames = require("./tables/skills.json");
 const UltraNames = require("./tables/ultras.json");
@@ -8,8 +10,8 @@ let charCurrent = 1;
 
 function parseTitle(str) {
 	let ret = { };
-	
-	ret.name = str.split(" ")[1];
+
+	ret.name = str.replace(/, Windows|, Linux|, iOS/, "").split(" ")[1];
 
 	str = str.toLowerCase();
 
@@ -69,7 +71,7 @@ function parseDescription(str) {
 		if (d.startsWith("**Weapon")) {
 			d = desc[++ i];
 			let a = d.split(", ");
-			// todo weapon id dictionary 
+			
             if (a[0])
 			    ret.wep = Math.max(0, WeaponNames.indexOf(a[0].toUpperCase()));
             
@@ -113,10 +115,16 @@ function parseDescription(str) {
 	return ret;
 }
 
-function parseFooter() {
-    let ret = {};
+function parseFooter(str) {
+    let ret = { version: null, uid: null };
 
+	let parts = str.split(" ");
 
+	if (parts[1] && parts[1] != "Entry")
+		ret.uid = parts[1];
+	
+	if (parts[0] && parts[0] != "(no")
+		ret.version = parts[0].slice(1, parts[0].length - 1);
 
     return ret;
 }
@@ -125,7 +133,7 @@ function doTheThing(embed) {
     let stats = {
         ...parseTitle(embed.title.substring(2)), // char, skin, name
         ...parseDescription(embed.description.replaceAll(Emotes.None, "")),
-        ...parseFooter(embed.footer.text)
+        ...parseFooter(embed.footer.text),
     };
 
     return stats;
