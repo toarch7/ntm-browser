@@ -2954,6 +2954,25 @@
         1
       ],
       "crown": 3
+    },
+    "Xaytox": {
+      "name": "Xaytox",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 54,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        28
+      ],
+      "crown": 3
     }
   }
 }
