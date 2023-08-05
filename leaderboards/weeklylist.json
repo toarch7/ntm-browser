@@ -2992,6 +2992,25 @@
         1
       ],
       "crown": 3
+    },
+    "Throneseeker851": {
+      "name": "Throneseeker851",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 54,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        12
+      ],
+      "crown": 3
     }
   }
 }
