@@ -966,6 +966,85 @@
         23
       ],
       "crown": 1
+    },
+    "1137405666177318943": {
+      "name": "Дуботрах",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1
+    },
+    "1137403902518624348": {
+      "name": "Throneseeker413",
+      "char": 15,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 76,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        7,
+        1
+      ],
+      "crown": 1
+    },
+    "1137402631669690541": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1
+    },
+    "1137402446692487249": {
+      "name": "Seeker930",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 6,
+      "crown": 1
+    },
+    "1137397707531632721": {
+      "name": "Seeker712",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        6,
+        7
+      ],
+      "crown": 1
     }
   }
 }
