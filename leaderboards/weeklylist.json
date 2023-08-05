@@ -1279,14 +1279,14 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 54,
-      "bwep": 58,
+      "wep": 63,
+      "bwep": 54,
       "win": false,
-      "kills": 97,
+      "kills": 110,
       "ultra": 0,
       "skills": [
         4,
-        8
+        7
       ],
       "crown": 3
     },
@@ -3066,13 +3066,15 @@
       "area": 5,
       "subarea": 2,
       "loops": 0,
-      "wep": 2,
-      "bwep": 0,
+      "wep": 90,
+      "bwep": 54,
       "win": false,
-      "kills": 64,
+      "kills": 89,
       "ultra": 0,
       "skills": [
-        10
+        22,
+        7,
+        28
       ],
       "crown": 3
     }
