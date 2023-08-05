@@ -2987,18 +2987,19 @@
       "name": "Desolator",
       "char": 8,
       "skin": true,
-      "area": 104,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 54,
-      "bwep": 2,
+      "wep": 24,
+      "bwep": 54,
       "win": false,
-      "kills": 162,
+      "kills": 266,
       "ultra": 0,
       "skills": [
         4,
-        17,
-        12
+        28,
+        27,
+        23
       ],
       "crown": 3
     },
@@ -3037,6 +3038,24 @@
         4,
         7,
         12
+      ],
+      "crown": 3
+    },
+    "Seeker275": {
+      "name": "Seeker275",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 54,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        4,
+        7
       ],
       "crown": 3
     }
