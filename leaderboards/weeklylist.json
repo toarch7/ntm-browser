@@ -3144,6 +3144,47 @@
       "crown": 3,
       "version": "v2527",
       "uid": null
+    },
+    "Kuro": {
+      "name": "Kuro",
+      "char": 8,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 0,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        10,
+        7
+      ],
+      "crown": 3,
+      "version": "v2527",
+      "uid": null
+    },
+    "pene": {
+      "name": "pene",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 0,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        28
+      ],
+      "crown": 3,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
