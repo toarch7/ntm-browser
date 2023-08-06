@@ -105,6 +105,46 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1137600674440433684": {
+      "name": "Seeker712",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 3,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1137595044589740092": {
+      "name": "Timkaplay",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 19,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
