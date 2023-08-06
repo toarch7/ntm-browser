@@ -1166,6 +1166,78 @@
       "crown": 1,
       "version": "v2523",
       "uid": null
+    },
+    "1137827976008962128": {
+      "name": "ddawud18",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1137824594959544441": {
+      "name": "Br",
+      "char": 2,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 6,
+      "win": false,
+      "kills": 229,
+      "ultra": 0,
+      "skills": [
+        6,
+        23,
+        4,
+        7,
+        8
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1137821454675746997": {
+      "name": "Seeker712",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1137819086924042360": {
+      "name": "IceKiller3000",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
