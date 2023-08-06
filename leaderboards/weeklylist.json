@@ -3297,6 +3297,27 @@
       "crown": 3,
       "version": "v2527",
       "uid": null
+    },
+    "Cleaner": {
+      "name": "Cleaner",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 4,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        10,
+        7,
+        28
+      ],
+      "crown": 3,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
