@@ -2017,20 +2017,23 @@
       "name": "Corruptor",
       "char": 8,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
       "wep": 13,
-      "bwep": 66,
+      "bwep": 76,
       "win": false,
-      "kills": 133,
+      "kills": 171,
       "ultra": 0,
       "skills": [
         4,
-        2,
-        28
+        7,
+        28,
+        13
       ],
-      "crown": 3
+      "crown": 3,
+      "version": "v2602",
+      "uid": null
     },
     "BREAD": {
       "name": "BREAD",
@@ -3269,6 +3272,27 @@
         7,
         28,
         1
+      ],
+      "crown": 3,
+      "version": "v2527",
+      "uid": null
+    },
+    "Folk": {
+      "name": "Folk",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 0,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        10,
+        2,
+        12
       ],
       "crown": 3,
       "version": "v2527",
