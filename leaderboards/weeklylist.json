@@ -314,20 +314,21 @@
       "name": "Seeker648",
       "char": 8,
       "skin": true,
-      "area": 5,
+      "area": 1,
       "subarea": 2,
-      "loops": 0,
+      "loops": 1,
       "wep": 74,
       "bwep": 54,
       "win": false,
-      "kills": 233,
-      "ultra": 0,
+      "kills": 513,
+      "ultra": 1,
       "skills": [
         4,
         7,
         28,
         9,
-        23
+        23,
+        1
       ],
       "crown": 3,
       "version": "v2602",
@@ -3344,6 +3345,26 @@
       ],
       "crown": 3,
       "version": "v2527",
+      "uid": null
+    },
+    "Sosiska52": {
+      "name": "Sosiska52",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 0,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        4,
+        12
+      ],
+      "crown": 3,
+      "version": "v2602",
       "uid": null
     }
   }

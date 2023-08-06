@@ -1238,6 +1238,77 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1137845098160341024": {
+      "name": "Tuputamadre",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 61,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        6,
+        4
+      ],
+      "crown": 4,
+      "version": "v2527",
+      "uid": null
+    },
+    "1137837404888244234": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 27,
+      "crown": 1,
+      "version": "v2522",
+      "uid": null
+    },
+    "1137834496994070580": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 15,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1137831035200090323": {
+      "name": "papa55",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 3,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
