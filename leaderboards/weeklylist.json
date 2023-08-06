@@ -3212,6 +3212,29 @@
       "crown": 3,
       "version": "v2527",
       "uid": null
+    },
+    "Raiden": {
+      "name": "Raiden",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 49,
+      "win": false,
+      "kills": 317,
+      "ultra": 0,
+      "skills": [
+        10,
+        7,
+        28,
+        27,
+        19
+      ],
+      "crown": 3,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
