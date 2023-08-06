@@ -3366,6 +3366,30 @@
       "crown": 3,
       "version": "v2602",
       "uid": null
+    },
+    "AirEnd765": {
+      "name": "AirEnd765",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 35,
+      "win": false,
+      "kills": 909,
+      "ultra": 2,
+      "skills": [
+        4,
+        7,
+        1,
+        27,
+        23,
+        9
+      ],
+      "crown": 3,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
