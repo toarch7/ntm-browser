@@ -2959,21 +2959,26 @@
       "name": "Принтер",
       "char": 8,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 7,
+      "subarea": 1,
       "loops": 0,
       "wep": 54,
-      "bwep": 0,
+      "bwep": 77,
       "win": false,
-      "kills": 151,
+      "kills": 332,
       "ultra": 0,
       "skills": [
         4,
         7,
         12,
-        1
+        1,
+        27,
+        28,
+        10
       ],
-      "crown": 3
+      "crown": 3,
+      "version": "v2527",
+      "uid": null
     },
     "Xaytox": {
       "name": "Xaytox",
