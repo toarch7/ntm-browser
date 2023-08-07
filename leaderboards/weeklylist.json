@@ -3517,6 +3517,26 @@
       "crown": 3,
       "version": "v2602",
       "uid": null
+    },
+    "LisArt10": {
+      "name": "LisArt10",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 70,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        4,
+        17
+      ],
+      "crown": 3,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
