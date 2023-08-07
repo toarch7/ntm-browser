@@ -652,6 +652,80 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1138071190641053696": {
+      "name": "Seeker930",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 69,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1138070770719928390": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 31,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        23
+      ],
+      "crown": 8,
+      "version": "v2527",
+      "uid": null
+    },
+    "1138060555702247494": {
+      "name": "loh",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "HDO8YsVbf052MDi": {
+      "name": "odaxelagnia",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 82,
+      "bwep": 1,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": "v2610",
+      "uid": "HDO8YsVbf052MDi"
     }
   }
 }
