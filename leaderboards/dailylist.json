@@ -406,6 +406,51 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1138011596266930176": {
+      "name": "HatManSm",
+      "char": 11,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 113,
+      "bwep": 53,
+      "win": false,
+      "kills": 1313,
+      "ultra": 2,
+      "skills": [
+        3,
+        27,
+        13,
+        17,
+        1,
+        25,
+        7,
+        10
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "1138003554238468187": {
+      "name": "ультра",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
