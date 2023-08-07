@@ -3437,6 +3437,46 @@
       "crown": 3,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker887": {
+      "name": "Seeker887",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 69,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        4,
+        7
+      ],
+      "crown": 3,
+      "version": "v2527",
+      "uid": null
+    },
+    "arpuzik": {
+      "name": "arpuzik",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 4,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        4,
+        7
+      ],
+      "crown": 3,
+      "version": "v2523",
+      "uid": null
     }
   }
 }
