@@ -606,6 +606,52 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1138047234987020370": {
+      "name": "GV-CN",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 53,
+      "bwep": 55,
+      "win": false,
+      "kills": 1897,
+      "ultra": 2,
+      "skills": [
+        3,
+        27,
+        13,
+        17,
+        1,
+        25,
+        7,
+        8
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "1138045756842979348": {
+      "name": "RK13",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 82,
+      "bwep": 27,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        19,
+        22
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
