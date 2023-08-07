@@ -1160,19 +1160,21 @@
       "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 74,
-      "bwep": 54,
+      "wep": 54,
+      "bwep": 74,
       "win": false,
-      "kills": 164,
+      "kills": 175,
       "ultra": 0,
       "skills": [
         4,
         7,
-        28,
+        12,
         1,
         27
       ],
-      "crown": 3
+      "crown": 3,
+      "version": "v2527",
+      "uid": null
     },
     "lol": {
       "name": "lol",
@@ -2661,16 +2663,17 @@
       "subarea": 1,
       "loops": 0,
       "wep": 4,
-      "bwep": 13,
+      "bwep": 54,
       "win": false,
-      "kills": 48,
+      "kills": 59,
       "ultra": 0,
       "skills": [
         4,
-        7,
-        12
+        7
       ],
-      "crown": 3
+      "crown": 3,
+      "version": "v2523",
+      "uid": null
     },
     "Seeker343": {
       "name": "Seeker343",
@@ -3591,6 +3594,26 @@
       ],
       "crown": 3,
       "version": "v2602",
+      "uid": null
+    },
+    "henry": {
+      "name": "henry",
+      "char": 8,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 75,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        4,
+        7
+      ],
+      "crown": 3,
+      "version": "v2527",
       "uid": null
     }
   }

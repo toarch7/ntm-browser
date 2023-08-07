@@ -1435,6 +1435,83 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1138236674707574854": {
+      "name": "henry",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 16,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1138235784873398272": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 16,
+      "win": false,
+      "kills": 20,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1138235532191744104": {
+      "name": "Master",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 39,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        10,
+        25
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1138227002579619961": {
+      "name": "shiva",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 82,
+      "win": false,
+      "kills": 26,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
