@@ -1024,6 +1024,66 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Gamzee": {
+      "name": "Gamzee",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 86,
+      "bwep": 23,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        27,
+        16
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Throneseeker413": {
+      "name": "Throneseeker413",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 86,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "-Лемон-": {
+      "name": "-Лемон-",
+      "char": 11,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 86,
+      "bwep": 71,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        23
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
