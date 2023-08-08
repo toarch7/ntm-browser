@@ -1055,15 +1055,16 @@
       "subarea": 1,
       "loops": 0,
       "wep": 23,
-      "bwep": 86,
+      "bwep": 71,
       "win": false,
-      "kills": 46,
+      "kills": 72,
       "ultra": 0,
       "skills": [
-        28
+        27,
+        16
       ],
       "crown": 6,
-      "version": "v2527",
+      "version": "v2602",
       "uid": null
     },
     "-Лемон-": {
@@ -1304,6 +1305,45 @@
       ],
       "crown": 6,
       "version": "v2523",
+      "uid": null
+    },
+    "Pixelboi321": {
+      "name": "Pixelboi321",
+      "char": 11,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 71,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        27,
+        23
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker930": {
+      "name": "Seeker930",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 86,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 6,
+      "version": "v2527",
       "uid": null
     }
   }
