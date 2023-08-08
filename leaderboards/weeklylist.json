@@ -1524,6 +1524,27 @@
       "crown": 6,
       "version": "v2610",
       "uid": "HDO8YsVbf052MDi"
+    },
+    "BOOGIEPOP": {
+      "name": "BOOGIEPOP",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 30,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        9,
+        22,
+        16
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
