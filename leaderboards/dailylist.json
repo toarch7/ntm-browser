@@ -544,6 +544,126 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1138433868354027581": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 69,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1138433803220680734": {
+      "name": "AngelMich",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 38,
+      "win": false,
+      "kills": 404,
+      "ultra": 1,
+      "skills": [
+        1,
+        13,
+        21,
+        4,
+        3,
+        14,
+        23
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "HDO8YsVbf052MDi": {
+      "name": "sunsmilesatyou",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 57,
+      "win": false,
+      "kills": 205,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        25,
+        21,
+        3
+      ],
+      "crown": 11,
+      "version": "v2610",
+      "uid": "HDO8YsVbf052MDi"
+    },
+    "1138429015120678932": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1138425242080002072": {
+      "name": "Seeker341",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1138422000864460810": {
+      "name": "Seeker024",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 19,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

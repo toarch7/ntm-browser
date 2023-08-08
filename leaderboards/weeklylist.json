@@ -748,6 +748,149 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "lbhcncbchc": {
+      "name": "lbhcncbchc",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 86,
+      "win": false,
+      "kills": 172,
+      "ultra": 0,
+      "skills": [
+        9,
+        28,
+        22,
+        2,
+        1
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "pene": {
+      "name": "pene",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 86,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Vetek": {
+      "name": "Vetek",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 71,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        27,
+        28
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker722": {
+      "name": "Seeker722",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 86,
+      "bwep": 6,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker341": {
+      "name": "Seeker341",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 86,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker723": {
+      "name": "Seeker723",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 86,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "skovorodka": {
+      "name": "skovorodka",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 86,
+      "win": false,
+      "kills": 210,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        25,
+        10,
+        1,
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
