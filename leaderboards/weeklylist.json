@@ -1437,6 +1437,93 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Throneseeker": {
+      "name": "Throneseeker",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 71,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "LastKalina": {
+      "name": "LastKalina",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 86,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        23,
+        21
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "EvilCat": {
+      "name": "EvilCat",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 63,
+      "bwep": 70,
+      "win": false,
+      "kills": 417,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        1,
+        7,
+        3,
+        9
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "HDO8YsVbf052MDi": {
+      "name": "sunsmilesatyou",
+      "char": 11,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 104,
+      "bwep": 35,
+      "win": false,
+      "kills": 269,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        23,
+        1,
+        17,
+        3
+      ],
+      "crown": 6,
+      "version": "v2610",
+      "uid": "HDO8YsVbf052MDi"
     }
   }
 }
