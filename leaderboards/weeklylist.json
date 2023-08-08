@@ -409,6 +409,25 @@
       "crown": 3,
       "version": "v2602",
       "uid": null
+    },
+    "Dego": {
+      "name": "Dego",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 86,
+      "bwep": 6,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
