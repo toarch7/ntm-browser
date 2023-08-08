@@ -708,6 +708,46 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker640": {
+      "name": "Seeker640",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 86,
+      "bwep": 23,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker157.70": {
+      "name": "Seeker157.70",
+      "char": 11,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 86,
+      "bwep": 30,
+      "win": false,
+      "kills": 154,
+      "ultra": 0,
+      "skills": [
+        9,
+        28,
+        7
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
