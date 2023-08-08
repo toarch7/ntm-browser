@@ -195,24 +195,24 @@
     },
     "ты": {
       "name": "ты",
-      "char": 8,
-      "skin": true,
-      "area": 7,
-      "subarea": 3,
+      "char": 11,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
       "loops": 0,
-      "wep": 54,
-      "bwep": 74,
+      "wep": 22,
+      "bwep": 86,
       "win": false,
-      "kills": 175,
+      "kills": 262,
       "ultra": 0,
       "skills": [
-        4,
+        10,
+        25,
+        27,
         7,
-        12,
-        1,
-        27
+        4
       ],
-      "crown": 3,
+      "crown": 6,
       "version": "v2527",
       "uid": null
     },
@@ -986,6 +986,41 @@
       "skills": [
         9
       ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker655": {
+      "name": "Seeker655",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 86,
+      "bwep": 13,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        27,
+        23
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "Fake": {
+      "name": "Fake",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 86,
+      "win": false,
+      "kills": 72,
       "crown": 6,
       "version": "v2527",
       "uid": null
