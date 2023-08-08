@@ -1418,6 +1418,25 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "BlackKidBoy": {
+      "name": "BlackKidBoy",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 114,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
