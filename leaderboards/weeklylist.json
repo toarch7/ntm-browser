@@ -90,23 +90,25 @@
     },
     "Seeker712": {
       "name": "Seeker712",
-      "char": 8,
-      "skin": true,
-      "area": 5,
+      "char": 11,
+      "skin": false,
+      "area": 7,
       "subarea": 2,
       "loops": 0,
-      "wep": 14,
-      "bwep": 26,
+      "wep": 70,
+      "bwep": 29,
       "win": false,
-      "kills": 221,
+      "kills": 331,
       "ultra": 0,
       "skills": [
-        22,
+        9,
+        21,
         2,
         1,
-        7
+        4,
+        8
       ],
-      "crown": 3,
+      "crown": 6,
       "version": "v2527",
       "uid": null
     },
@@ -1083,6 +1085,44 @@
       ],
       "crown": 6,
       "version": "v2527",
+      "uid": null
+    },
+    "Spixic": {
+      "name": "Spixic",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 86,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker987": {
+      "name": "Seeker987",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 30,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 6,
+      "version": "v2602",
       "uid": null
     }
   }
