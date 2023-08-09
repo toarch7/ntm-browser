@@ -1065,17 +1065,16 @@
       "name": "Throneseeker413",
       "char": 11,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 23,
-      "bwep": 71,
+      "wep": 86,
+      "bwep": 30,
       "win": false,
-      "kills": 72,
+      "kills": 90,
       "ultra": 0,
       "skills": [
-        27,
-        16
+        27
       ],
       "crown": 6,
       "version": "v2602",
@@ -1950,6 +1949,30 @@
       ],
       "crown": 6,
       "version": "v2602",
+      "uid": null
+    },
+    "Оффтоп": {
+      "name": "Оффтоп",
+      "char": 11,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 29,
+      "bwep": 86,
+      "win": false,
+      "kills": 341,
+      "ultra": 0,
+      "skills": [
+        27,
+        16,
+        23,
+        1,
+        4,
+        9
+      ],
+      "crown": 6,
+      "version": "v2527",
       "uid": null
     }
   }
