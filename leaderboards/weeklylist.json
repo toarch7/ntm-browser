@@ -1128,10 +1128,10 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 6,
-      "bwep": 30,
+      "wep": 30,
+      "bwep": 86,
       "win": false,
-      "kills": 44,
+      "kills": 56,
       "ultra": 0,
       "skills": [
         27
@@ -1866,6 +1866,68 @@
       ],
       "crown": 6,
       "version": "v2523",
+      "uid": null
+    },
+    "BlackRabbit228": {
+      "name": "BlackRabbit228",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 86,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        9,
+        16
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "elmorteo": {
+      "name": "elmorteo",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 86,
+      "bwep": 71,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "H0TL": {
+      "name": "H0TL",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 86,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        25,
+        3,
+        7
+      ],
+      "crown": 6,
+      "version": "v2527",
       "uid": null
     }
   }
