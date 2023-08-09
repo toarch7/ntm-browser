@@ -1932,6 +1932,25 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Finago": {
+      "name": "Finago",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 30,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
     }
   }
 }

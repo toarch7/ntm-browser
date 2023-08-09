@@ -905,6 +905,66 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1138840673429225612": {
+      "name": "loh",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1138839417419730954": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        9,
+        28
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1138828988777775235": {
+      "name": "Fran_kx",
+      "char": 8,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 20,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        6,
+        16,
+        19
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
