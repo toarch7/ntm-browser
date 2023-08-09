@@ -436,6 +436,78 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1138726988501225523": {
+      "name": "Hein",
+      "char": 15,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 24,
+      "win": false,
+      "kills": 304,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        14,
+        17,
+        3,
+        13,
+        23
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1138726716689354803": {
+      "name": "",
+      "char": 9,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 57,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        26
+      ],
+      "crown": 8,
+      "version": "v2527",
+      "uid": null
+    },
+    "1138722646373191750": {
+      "name": "bajnmen",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 2,
+      "wep": 24,
+      "bwep": 87,
+      "win": false,
+      "kills": 3634,
+      "ultra": 1,
+      "skills": [
+        7,
+        14,
+        27,
+        25,
+        8,
+        13,
+        23,
+        17
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
