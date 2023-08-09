@@ -2092,6 +2092,45 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "dragonfucker": {
+      "name": "dragonfucker",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 86,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Shao": {
+      "name": "Shao",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 86,
+      "bwep": 30,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        27,
+        22
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
