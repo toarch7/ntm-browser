@@ -1106,6 +1106,82 @@
       "crown": 1,
       "version": "v2522",
       "uid": null
+    },
+    "1138883105814487163": {
+      "name": "Stalker.null",
+      "char": 2,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 17,
+      "win": false,
+      "kills": 121,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1138881808075866296": {
+      "name": "Seeker712",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 43,
+      "bwep": 1,
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        14,
+        8
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1138878660175200336": {
+      "name": "ice_nine",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        7,
+        16
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1138875165032329297": {
+      "name": "papa55",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 21,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
