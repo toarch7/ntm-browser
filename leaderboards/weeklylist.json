@@ -1737,6 +1737,31 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "hexsander3": {
+      "name": "hexsander3",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 60,
+      "bwep": 13,
+      "win": false,
+      "kills": 385,
+      "ultra": 1,
+      "skills": [
+        10,
+        21,
+        23,
+        1,
+        4,
+        9,
+        12
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
