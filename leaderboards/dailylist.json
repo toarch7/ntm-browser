@@ -714,6 +714,130 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1139140576164462683": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        1,
+        24
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139139983949713459": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 7,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139139391432953947": {
+      "name": "Seeker815",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 69,
+      "win": false,
+      "kills": 212,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        10,
+        14,
+        23
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139139373372276786": {
+      "name": "BREAD",
+      "char": 5,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 7,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        1,
+        23
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139131456275349607": {
+      "name": "EPl",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 117,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        7,
+        28
+      ],
+      "crown": 11,
+      "version": "v2602",
+      "uid": null
+    },
+    "score": {
+      "name": "Принтер",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 6,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        21,
+        12
+      ],
+      "crown": 1,
+      "version": null,
+      "uid": "score"
     }
   }
 }
