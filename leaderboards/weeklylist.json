@@ -2269,6 +2269,27 @@
       "crown": 6,
       "version": "v2523",
       "uid": null
+    },
+    "Seeker184": {
+      "name": "Seeker184",
+      "char": 11,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 30,
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        10,
+        2,
+        7
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
