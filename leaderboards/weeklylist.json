@@ -986,16 +986,19 @@
       "name": "Принтер",
       "char": 11,
       "skin": false,
-      "area": 3,
-      "subarea": 2,
+      "area": 6,
+      "subarea": 1,
       "loops": 0,
-      "wep": 19,
+      "wep": 11,
       "bwep": 86,
       "win": false,
-      "kills": 105,
+      "kills": 224,
       "ultra": 0,
       "skills": [
-        9
+        9,
+        25,
+        10,
+        1
       ],
       "crown": 6,
       "version": "v2527",
@@ -2310,6 +2313,25 @@
       ],
       "crown": 6,
       "version": "v2527",
+      "uid": null
+    },
+    "Seeker677": {
+      "name": "Seeker677",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 86,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 6,
+      "version": "v2602",
       "uid": null
     }
   }

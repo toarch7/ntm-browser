@@ -838,6 +838,30 @@
       "crown": 1,
       "version": null,
       "uid": "score"
+    },
+    "1139145154280833114": {
+      "name": "Seeker712",
+      "char": 11,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 65,
+      "win": false,
+      "kills": 270,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        14,
+        25,
+        4,
+        6
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
