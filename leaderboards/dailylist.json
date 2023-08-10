@@ -1114,6 +1114,71 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "HDO8YsVbf052MDi": {
+      "name": "malicious_sun",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 36,
+      "bwep": 84,
+      "win": false,
+      "kills": 580,
+      "ultra": 1,
+      "skills": [
+        1,
+        23,
+        14,
+        27,
+        17,
+        3
+      ],
+      "crown": 7,
+      "version": "v2610",
+      "uid": "HDO8YsVbf052MDi"
+    },
+    "1139220551810961470": {
+      "name": "ofenderdemon",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 7,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139220458118594650": {
+      "name": "Seeker413",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 0,
+      "win": false,
+      "kills": 218,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        28,
+        27
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
