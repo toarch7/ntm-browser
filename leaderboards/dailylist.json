@@ -1444,6 +1444,101 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1139310163266916402": {
+      "name": "Seeker595",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        1,
+        13
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1139309603281178814": {
+      "name": "Federico_RD_",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 29,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139308436182536322": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 16,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139305886188314644": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 69,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        1,
+        12
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139300244132220978": {
+      "name": "Kevalla",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 110,
+      "win": false,
+      "kills": 336,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        27,
+        8,
+        25,
+        28,
+        21
+      ],
+      "crown": 8,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
