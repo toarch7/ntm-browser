@@ -1179,6 +1179,86 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1139242166707818597": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1139242053411287060": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139241354812199022": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 22,
+      "win": false,
+      "kills": 251,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        14,
+        17,
+        6
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139236072186990704": {
+      "name": "makss",
+      "char": 2,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 10,
+      "bwep": 18,
+      "win": false,
+      "kills": 165,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        14,
+        17,
+        6
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
