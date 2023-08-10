@@ -1069,16 +1069,18 @@
       "name": "Throneseeker413",
       "char": 11,
       "skin": false,
-      "area": 3,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 86,
-      "bwep": 30,
+      "wep": 30,
+      "bwep": 71,
       "win": false,
-      "kills": 90,
+      "kills": 139,
       "ultra": 0,
       "skills": [
-        27
+        27,
+        22,
+        16
       ],
       "crown": 6,
       "version": "v2602",
@@ -2220,13 +2222,13 @@
       "name": "Moi",
       "char": 11,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
       "wep": 71,
       "bwep": 86,
       "win": false,
-      "kills": 63,
+      "kills": 115,
       "ultra": 0,
       "skills": [
         23
@@ -2335,6 +2337,51 @@
       ],
       "crown": 6,
       "version": "v2602",
+      "uid": null
+    },
+    "V0DKA": {
+      "name": "V0DKA",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 62,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        2
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "Throneseeker081": {
+      "name": "Throneseeker081",
+      "char": 11,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 86,
+      "win": false,
+      "kills": 335,
+      "ultra": 0,
+      "skills": [
+        27,
+        25,
+        3,
+        7,
+        17,
+        9
+      ],
+      "crown": 6,
+      "version": "v2527",
       "uid": null
     }
   }
