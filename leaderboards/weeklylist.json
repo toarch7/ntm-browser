@@ -2383,6 +2383,25 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker845": {
+      "name": "Seeker845",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 6,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
