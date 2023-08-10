@@ -2152,6 +2152,44 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "Erick": {
+      "name": "Erick",
+      "char": 11,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 13,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Spectrum": {
+      "name": "Spectrum",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 71,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
