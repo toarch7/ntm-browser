@@ -862,6 +862,117 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1139176306559426660": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 10,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        19
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139167617928663191": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 69,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139163717544722493": {
+      "name": "Seeker655",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1139163362312331385": {
+      "name": "Seeker288.45",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1139160783968800870": {
+      "name": "CockSuccer",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 117,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        28
+      ],
+      "crown": 4,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139160351087280219": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 69,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
