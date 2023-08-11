@@ -804,6 +804,60 @@
       "crown": 1,
       "version": "v2523",
       "uid": null
+    },
+    "1139565009509306441": {
+      "name": "Ziga",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139562868908494898": {
+      "name": "HatManSm",
+      "char": 11,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 58,
+      "bwep": 68,
+      "win": false,
+      "kills": 455,
+      "ultra": 0,
+      "skills": [
+        27,
+        21,
+        1,
+        23,
+        25,
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139555316300779693": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
