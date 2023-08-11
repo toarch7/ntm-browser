@@ -2541,6 +2541,26 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker887": {
+      "name": "Seeker887",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 71,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        10,
+        28
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
