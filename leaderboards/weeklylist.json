@@ -2484,6 +2484,63 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "Seeker079": {
+      "name": "Seeker079",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 86,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "plusmoney": {
+      "name": "plusmoney",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 6,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "EndoStriker1": {
+      "name": "EndoStriker1",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 62,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
