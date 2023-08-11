@@ -497,6 +497,104 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1139504128746332310": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 72,
+      "bwep": 17,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        8
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139500277922279505": {
+      "name": "Seeker677",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        9,
+        8
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1139500241813504012": {
+      "name": "Дуботрах",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139500153133355028": {
+      "name": "grin",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139495378513829929": {
+      "name": "skovorodka",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 8,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        27,
+        14,
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
