@@ -1073,6 +1073,46 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1139609113001734275": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        1,
+        14
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1139599588114837504": {
+      "name": "Я",
+      "char": 14,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 16,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        27,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

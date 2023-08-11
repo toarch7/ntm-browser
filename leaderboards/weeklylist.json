@@ -2629,6 +2629,26 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "Я": {
+      "name": "Я",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 86,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        27,
+        25
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
