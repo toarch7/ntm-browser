@@ -2561,6 +2561,29 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Enstain5398": {
+      "name": "Enstain5398",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 6,
+      "win": false,
+      "kills": 173,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        25,
+        10,
+        4
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
