@@ -417,6 +417,48 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1139460314610532415": {
+      "name": "bajnmen",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 119,
+      "bwep": 24,
+      "win": false,
+      "kills": 529,
+      "ultra": 0,
+      "skills": [
+        27,
+        17,
+        8,
+        2,
+        1,
+        25,
+        9,
+        23,
+        7
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139453771555020810": {
+      "name": "Kura",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 21,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
