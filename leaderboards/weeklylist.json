@@ -2673,6 +2673,31 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "soyunpipi5000": {
+      "name": "soyunpipi5000",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 86,
+      "win": false,
+      "kills": 181,
+      "ultra": 0,
+      "skills": [
+        9,
+        28,
+        22,
+        25,
+        10,
+        7,
+        17
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
