@@ -141,9 +141,9 @@ function handlePack(name, item, meta) {
         malformed = true;
     }
     else {
-	if (meta.hidden)
-		return console.info("meta.hidden:", name);
-		
+        if (meta.hidden)
+            return console.info("meta.hidden:", name);
+        
         if (!packsLast[name]) {
             packsNew.push(meta);
         }
@@ -191,6 +191,8 @@ function allDone() {
 
     let diff = packList.length - Object.keys(packsLast).length;
 
+    const removeNTText = str => str.replace(/@./g, "");
+
     if (diff > 0) {
         diff = "(+" + diff + ")";
     }
@@ -226,7 +228,7 @@ function allDone() {
     if (packsNew.length > 0) {
         for(let pack of packsNew) {
             fields.push({
-                name: "🆕 " + pack.name,
+                name: "🆕 " + removeNTText(pack.name),
                 value: pack.descriptionShort
             });
         }
@@ -245,7 +247,7 @@ function allDone() {
     if (packsBlacklisted.length > 0) {
         for(let pack of packsBlacklisted) {
             fields.push({
-                name: "❌ " + pack.name,
+                name: "❌ " + removeNTText(pack.name),
                 value: pack.descriptionShort
             });
         }
@@ -254,7 +256,7 @@ function allDone() {
     if (packsMalformed.length > 0) {
         for(let pack of packsMalformed) {
             fields.push({
-                name: "⚠ " + pack.name,
+                name: "⚠ " + removeNTText(pack.name),
                 value: pack.descriptionShort
             });
         }
