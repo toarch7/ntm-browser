@@ -2659,15 +2659,14 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 13,
+      "wep": 30,
       "bwep": 71,
       "win": false,
-      "kills": 219,
+      "kills": 233,
       "ultra": 0,
       "skills": [
         28,
-        25,
-        3,
+        7,
         4
       ],
       "crown": 6,
@@ -2721,6 +2720,21 @@
         25,
         10
       ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "MELIODAS": {
+      "name": "MELIODAS",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 86,
+      "bwep": 23,
+      "win": false,
+      "kills": 57,
       "crown": 6,
       "version": "v2527",
       "uid": null
