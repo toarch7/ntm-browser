@@ -485,17 +485,21 @@
       "name": "Main",
       "char": 11,
       "skin": false,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 86,
-      "bwep": 30,
+      "wep": 29,
+      "bwep": 86,
       "win": false,
-      "kills": 78,
+      "kills": 207,
       "ultra": 0,
       "skills": [
-        9,
-        22
+        27,
+        22,
+        25,
+        3,
+        1,
+        4
       ],
       "crown": 6,
       "version": "v2527",
@@ -2583,6 +2587,28 @@
       ],
       "crown": 6,
       "version": "v2602",
+      "uid": null
+    },
+    "PALERMO": {
+      "name": "PALERMO",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 60,
+      "win": false,
+      "kills": 225,
+      "ultra": 0,
+      "skills": [
+        10,
+        21,
+        23,
+        7
+      ],
+      "crown": 6,
+      "version": "v2527",
       "uid": null
     }
   }
