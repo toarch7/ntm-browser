@@ -2610,6 +2610,25 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Throneseeker265": {
+      "name": "Throneseeker265",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 30,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
