@@ -858,6 +858,102 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1139580957427507280": {
+      "name": "Seeker712",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 16,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        1,
+        6
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139580365208551606": {
+      "name": "ты",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1139579227616845944": {
+      "name": "Seeker720",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 13,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        1,
+        17,
+        8,
+        10
+      ],
+      "crown": 1,
+      "version": "v2522",
+      "uid": null
+    },
+    "1139577712764256286": {
+      "name": "Throneseeker413",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 70,
+      "win": false,
+      "kills": 207,
+      "ultra": 0,
+      "skills": [
+        1,
+        17,
+        8,
+        14,
+        10,
+        19
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
+    },
+    "HDO8YsVbf052MDi": {
+      "name": "malicious_sun",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": "v2610",
+      "uid": "HDO8YsVbf052MDi"
     }
   }
 }
