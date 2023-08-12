@@ -1491,14 +1491,13 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 30,
+      "wep": 71,
       "bwep": 86,
       "win": false,
-      "kills": 48,
+      "kills": 63,
       "ultra": 0,
       "skills": [
-        23,
-        21
+        23
       ],
       "crown": 6,
       "version": "v2602",
@@ -2863,6 +2862,25 @@
       ],
       "crown": 6,
       "version": "v2602",
+      "uid": null
+    },
+    "DeezNuts": {
+      "name": "DeezNuts",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 86,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 6,
+      "version": "v2527",
       "uid": null
     }
   }
