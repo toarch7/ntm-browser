@@ -2902,6 +2902,26 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker255": {
+      "name": "Seeker255",
+      "char": 11,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 86,
+      "bwep": 0,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        27,
+        28
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
