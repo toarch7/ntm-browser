@@ -3029,6 +3029,45 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker362": {
+      "name": "Seeker362",
+      "char": 11,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 86,
+      "bwep": 71,
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "MASTERCHIEF117": {
+      "name": "MASTERCHIEF117",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 30,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        27,
+        21
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

@@ -1461,6 +1461,105 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1140064521650708611": {
+      "name": "Hein",
+      "char": 15,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 73,
+      "win": false,
+      "kills": 301,
+      "ultra": 0,
+      "skills": [
+        23,
+        8,
+        17,
+        4,
+        25,
+        13,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140062810248843264": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140058483161567272": {
+      "name": "MossShade",
+      "char": 11,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 13,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140056652402397196": {
+      "name": "Erick",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 6,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        21
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "B01PliNlODU2GgK": {
+      "name": "toncho_",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 95,
+      "crown": 1,
+      "version": "v2610",
+      "uid": "B01PliNlODU2GgK"
     }
   }
 }
