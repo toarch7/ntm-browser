@@ -98,18 +98,19 @@
       "area": 7,
       "subarea": 2,
       "loops": 0,
-      "wep": 70,
-      "bwep": 29,
+      "wep": 47,
+      "bwep": 23,
       "win": false,
-      "kills": 331,
+      "kills": 363,
       "ultra": 0,
       "skills": [
-        9,
-        21,
+        10,
         2,
+        25,
+        3,
         1,
-        4,
-        8
+        7,
+        23
       ],
       "crown": 6,
       "version": "v2527",
@@ -2737,6 +2738,25 @@
       "kills": 57,
       "crown": 6,
       "version": "v2527",
+      "uid": null
+    },
+    "Seeker442": {
+      "name": "Seeker442",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 86,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 6,
+      "version": "v2602",
       "uid": null
     }
   }
