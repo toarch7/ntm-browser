@@ -2758,6 +2758,49 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "hanzu": {
+      "name": "hanzu",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 86,
+      "win": false,
+      "kills": 167,
+      "ultra": 0,
+      "skills": [
+        9,
+        22,
+        25,
+        10,
+        1
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "SANDOS": {
+      "name": "SANDOS",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 86,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        28,
+        22
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
