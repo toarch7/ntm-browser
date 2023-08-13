@@ -1175,6 +1175,178 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1140351225863344239": {
+      "name": "Seeker922",
+      "char": 2,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 22,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140350138833961000": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 66,
+      "win": false,
+      "kills": 281,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        14,
+        10,
+        4,
+        27,
+        21
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140349288069734582": {
+      "name": "Ziga",
+      "char": 12,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 62,
+      "bwep": 119,
+      "win": false,
+      "kills": 355,
+      "ultra": 0,
+      "skills": [
+        27,
+        8,
+        14,
+        1,
+        4,
+        3,
+        21,
+        23
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140348333630705774": {
+      "name": "Seeker000",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 55,
+      "win": false,
+      "kills": 173,
+      "ultra": 0,
+      "skills": [
+        4,
+        13,
+        10,
+        8
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1140343481215230023": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 91,
+      "bwep": 50,
+      "win": false,
+      "kills": 250,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        8,
+        16,
+        23,
+        19
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1140340609282998374": {
+      "name": "YD.DRAGON",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140338536130818148": {
+      "name": "feijao23",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 2,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140337818560909312": {
+      "name": "FantonFlare03",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 8,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        1,
+        8
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
