@@ -836,6 +836,83 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1140286723729915987": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 66,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        14
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1140285686583406672": {
+      "name": "Seeker712",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140279670303113226": {
+      "name": "Seeker712",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 66,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        27,
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140277711282118720": {
+      "name": "kekvampir",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 47,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
