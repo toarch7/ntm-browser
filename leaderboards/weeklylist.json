@@ -3135,6 +3135,88 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "AlejoXD": {
+      "name": "AlejoXD",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 75,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        9,
+        28
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "СОСАЛИТИ": {
+      "name": "СОСАЛИТИ",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 30,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        23,
+        22
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Фанжижа": {
+      "name": "Фанжижа",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 86,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        28,
+        2
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "даун": {
+      "name": "даун",
+      "char": 11,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 86,
+      "bwep": 71,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        25,
+        12
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
