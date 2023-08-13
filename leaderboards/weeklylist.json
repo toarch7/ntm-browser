@@ -3070,6 +3070,48 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Ned": {
+      "name": "Ned",
+      "char": 11,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 86,
+      "bwep": 60,
+      "win": false,
+      "kills": 236,
+      "ultra": 0,
+      "skills": [
+        9,
+        22,
+        1,
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Gay": {
+      "name": "Gay",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 86,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        10,
+        28
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
