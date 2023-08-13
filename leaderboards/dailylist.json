@@ -1347,6 +1347,56 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1140364891983712386": {
+      "name": "panquesito",
+      "char": 2,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 66,
+      "win": false,
+      "kills": 231,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        14,
+        16,
+        26,
+        19
+      ],
+      "crown": 4,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140360390367248557": {
+      "name": "Seeker648",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 98,
+      "bwep": 54,
+      "win": false,
+      "kills": 628,
+      "ultra": 1,
+      "skills": [
+        1,
+        8,
+        14,
+        9,
+        4,
+        17,
+        3,
+        23
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
