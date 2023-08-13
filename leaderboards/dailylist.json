@@ -1560,6 +1560,69 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1140409998829162566": {
+      "name": "Seeker712",
+      "char": 7,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 80,
+      "bwep": 20,
+      "win": false,
+      "kills": 171,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        8,
+        26
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140406266942984202": {
+      "name": "EverLoop",
+      "char": 15,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 0,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1140403974760058910": {
+      "name": "prijrak",
+      "char": 7,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 59,
+      "bwep": 62,
+      "win": false,
+      "kills": 319,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        8,
+        6,
+        28,
+        27,
+        3,
+        23
+      ],
+      "crown": 4,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
