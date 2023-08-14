@@ -3483,6 +3483,25 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "VORANKILLER": {
+      "name": "VORANKILLER",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 86,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
