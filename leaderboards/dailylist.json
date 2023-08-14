@@ -330,6 +330,124 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1140561414868705290": {
+      "name": "Xsenoxsogolik",
+      "char": 5,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 15,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1140556764916482048": {
+      "name": "TheLayin23",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        4,
+        28
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140554373240463411": {
+      "name": "",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 66,
+      "win": false,
+      "kills": 206,
+      "ultra": 0,
+      "skills": [
+        4,
+        27,
+        28,
+        23,
+        8
+      ],
+      "crown": 10,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140553300882763820": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": "v2525",
+      "uid": null
+    },
+    "1140550746199302254": {
+      "name": "Throneseeker413",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1140549588915322890": {
+      "name": "Seeker082",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 26,
+      "win": false,
+      "kills": 207,
+      "ultra": 0,
+      "skills": [
+        4,
+        27,
+        28,
+        16
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
