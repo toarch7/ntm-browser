@@ -966,6 +966,71 @@
       "crown": 1,
       "version": "v2610",
       "uid": "8j155aHppK4vVcs"
+    },
+    "1140680611284123802": {
+      "name": "Seeker648",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        4,
+        28,
+        10
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1140678624886935652": {
+      "name": "Polirens3002",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 21,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140673762967158825": {
+      "name": "Kevalla",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 26,
+      "win": false,
+      "kills": 320,
+      "ultra": 0,
+      "skills": [
+        4,
+        27,
+        3,
+        23,
+        8,
+        14,
+        26
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
