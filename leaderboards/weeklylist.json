@@ -2647,16 +2647,16 @@
       "char": 11,
       "skin": false,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 71,
+      "wep": 4,
       "bwep": 86,
       "win": false,
-      "kills": 118,
+      "kills": 138,
       "ultra": 0,
       "skills": [
         27,
-        25
+        23
       ],
       "crown": 6,
       "version": "v2527",
@@ -3415,6 +3415,25 @@
       "bwep": 86,
       "win": false,
       "kills": 41,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "SSuler": {
+      "name": "SSuler",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 86,
+      "bwep": 30,
+      "win": false,
+      "kills": 60,
       "ultra": 0,
       "skills": [
         27
