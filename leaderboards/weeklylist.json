@@ -3502,6 +3502,25 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Kevalla": {
+      "name": "Kevalla",
+      "char": 11,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 86,
+      "bwep": 71,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
