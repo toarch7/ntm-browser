@@ -3343,6 +3343,26 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Criki": {
+      "name": "Criki",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 86,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        27,
+        16
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
