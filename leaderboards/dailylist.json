@@ -236,6 +236,26 @@
       "crown": 1,
       "version": "v2523",
       "uid": null
+    },
+    "1140519318333952033": {
+      "name": "skovorodka",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        4,
+        12
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
