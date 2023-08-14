@@ -256,6 +256,80 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1140547914867945543": {
+      "name": "goldenlord",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 17,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140544856469540864": {
+      "name": "Seeker413",
+      "char": 12,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        4,
+        27
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140543678247600138": {
+      "name": "Vriska",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140543542188593213": {
+      "name": "Fake",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        4,
+        27
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

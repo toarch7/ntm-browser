@@ -3403,6 +3403,25 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Спин": {
+      "name": "Спин",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 86,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
