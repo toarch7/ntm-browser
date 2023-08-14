@@ -54,6 +54,64 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1140472135505166538": {
+      "name": "Seeker712",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 66,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        10,
+        28,
+        1,
+        16
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140468105705963520": {
+      "name": "Shao",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 66,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        21
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1140467250906791997": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
