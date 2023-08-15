@@ -186,6 +186,40 @@
       "crown": 1,
       "version": "v2522",
       "uid": null
+    },
+    "1140874470886744138": {
+      "name": "Seeker230",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1140869914224246885": {
+      "name": "Spectrum",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
