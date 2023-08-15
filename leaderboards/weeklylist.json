@@ -372,20 +372,50 @@
       "name": "victor",
       "char": 1,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 5,
+      "wep": 4,
       "bwep": 35,
       "win": false,
-      "kills": 111,
+      "kills": 277,
       "ultra": 0,
       "skills": [
         27,
-        9
+        9,
+        4,
+        23,
+        8,
+        3
       ],
       "crown": 7,
       "version": "v2523",
+      "uid": null
+    },
+    "Ned": {
+      "name": "Ned",
+      "char": 1,
+      "skin": false,
+      "area": null,
+      "subarea": null,
+      "loops": 1,
+      "wep": 84,
+      "bwep": 35,
+      "win": false,
+      "kills": 716,
+      "ultra": 1,
+      "skills": [
+        14,
+        9,
+        4,
+        23,
+        8,
+        3,
+        7,
+        10
+      ],
+      "crown": 7,
+      "version": "v2527",
       "uid": null
     }
   }
