@@ -641,6 +641,72 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "Ziga": {
+      "name": "Ziga",
+      "char": 1,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 35,
+      "bwep": 63,
+      "win": false,
+      "kills": 565,
+      "ultra": 2,
+      "skills": [
+        27,
+        4,
+        23,
+        8,
+        3,
+        12,
+        21
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Vetek": {
+      "name": "Vetek",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Rift007": {
+      "name": "Rift007",
+      "char": 1,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 35,
+      "win": false,
+      "kills": 217,
+      "ultra": 0,
+      "skills": [
+        27,
+        17,
+        25,
+        13
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
