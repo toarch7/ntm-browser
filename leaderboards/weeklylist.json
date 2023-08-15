@@ -954,6 +954,52 @@
       "crown": 7,
       "version": "v2523",
       "uid": null
+    },
+    "gigachertila": {
+      "name": "gigachertila",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 35,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        27,
+        9
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Shao": {
+      "name": "Shao",
+      "char": 1,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 35,
+      "bwep": 115,
+      "win": false,
+      "kills": 602,
+      "ultra": 2,
+      "skills": [
+        27,
+        23,
+        25,
+        7,
+        22,
+        3,
+        12,
+        10
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
