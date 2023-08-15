@@ -295,20 +295,20 @@
     },
     "Спин": {
       "name": "Спин",
-      "char": 11,
+      "char": 1,
       "skin": false,
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 30,
-      "bwep": 86,
+      "wep": 5,
+      "bwep": 35,
       "win": false,
-      "kills": 41,
+      "kills": 109,
       "ultra": 0,
       "skills": [
         27
       ],
-      "crown": 6,
+      "crown": 7,
       "version": "v2527",
       "uid": null
     },
@@ -539,23 +539,23 @@
       "name": "bajnmen",
       "char": 1,
       "skin": false,
-      "area": 7,
+      "area": 2,
       "subarea": 1,
-      "loops": 1,
+      "loops": 2,
       "wep": 115,
       "bwep": 35,
       "win": false,
-      "kills": 2098,
+      "kills": 3039,
       "ultra": 2,
       "skills": [
         27,
         23,
         25,
         13,
+        22,
         3,
         7,
-        14,
-        10
+        14
       ],
       "crown": 7,
       "version": "v2527",
@@ -578,6 +578,68 @@
       ],
       "crown": 7,
       "version": "v2527",
+      "uid": null
+    },
+    "Seeker157.70": {
+      "name": "Seeker157.70",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 35,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Dhykzard_How": {
+      "name": "Dhykzard_How",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Hello": {
+      "name": "Hello",
+      "char": 1,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 35,
+      "win": false,
+      "kills": 494,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        25,
+        13,
+        7,
+        3
+      ],
+      "crown": 7,
+      "version": "v2602",
       "uid": null
     }
   }
