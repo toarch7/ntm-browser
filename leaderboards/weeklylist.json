@@ -777,6 +777,77 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "MIX'er♥️Rogue": {
+      "name": "MIX'er♥️Rogue",
+      "char": 1,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 35,
+      "win": false,
+      "kills": 429,
+      "ultra": 0,
+      "skills": [
+        27,
+        9,
+        23,
+        25,
+        13,
+        3,
+        7
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Debil": {
+      "name": "Debil",
+      "char": 1,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 115,
+      "bwep": 35,
+      "win": false,
+      "kills": 572,
+      "ultra": 1,
+      "skills": [
+        27,
+        23,
+        25,
+        13,
+        22,
+        3,
+        7,
+        10
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Kura": {
+      "name": "Kura",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        22,
+        23
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
