@@ -417,6 +417,57 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Alanchurka228": {
+      "name": "Alanchurka228",
+      "char": 1,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 35,
+      "win": false,
+      "kills": 567,
+      "ultra": 1,
+      "skills": [
+        27,
+        23,
+        25,
+        13,
+        8,
+        3,
+        7,
+        14
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "silva": {
+      "name": "silva",
+      "char": 1,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 35,
+      "win": false,
+      "kills": 567,
+      "ultra": 2,
+      "skills": [
+        27,
+        9,
+        4,
+        8,
+        3,
+        7,
+        14
+      ],
+      "crown": 7,
+      "version": "v2523",
+      "uid": null
     }
   }
 }
