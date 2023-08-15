@@ -507,16 +507,18 @@
       "name": "Seeker723",
       "char": 1,
       "skin": false,
-      "area": 2,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 19,
+      "wep": 2,
       "bwep": 35,
       "win": false,
-      "kills": 122,
+      "kills": 155,
       "ultra": 0,
       "skills": [
-        27
+        2,
+        16,
+        4
       ],
       "crown": 7,
       "version": "v2527",
@@ -1122,6 +1124,52 @@
       "skills": [
         22,
         4
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Furretdnguwu": {
+      "name": "Furretdnguwu",
+      "char": 1,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        27,
+        9
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "DabeOK": {
+      "name": "DabeOK",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 35,
+      "win": false,
+      "kills": 356,
+      "ultra": 0,
+      "skills": [
+        27,
+        9,
+        23,
+        25,
+        13,
+        8,
+        3,
+        7
       ],
       "crown": 7,
       "version": "v2527",
