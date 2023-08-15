@@ -1,4 +1,41 @@
 {
   "day": 15,
-  "entries": {}
+  "entries": {
+    "d2m6ee81n67ZojW": {
+      "name": "kok",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": "v2610",
+      "uid": "d2m6ee81n67ZojW"
+    },
+    "1140810671148240916": {
+      "name": "Seeker712",
+      "char": 3,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    }
+  }
 }
