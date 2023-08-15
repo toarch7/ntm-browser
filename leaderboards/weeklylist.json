@@ -677,7 +677,7 @@
       "wep": 5,
       "bwep": 35,
       "win": false,
-      "kills": 120,
+      "kills": 128,
       "ultra": 0,
       "skills": [
         27
@@ -703,6 +703,76 @@
         17,
         25,
         13
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "тварь": {
+      "name": "тварь",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        27,
+        9
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Оффтоп": {
+      "name": "Оффтоп",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 35,
+      "win": false,
+      "kills": 1643,
+      "ultra": 2,
+      "skills": [
+        27,
+        23,
+        25,
+        13,
+        22,
+        7,
+        3
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "AirEnd765": {
+      "name": "AirEnd765",
+      "char": 1,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 76,
+      "bwep": 35,
+      "win": false,
+      "kills": 566,
+      "ultra": 2,
+      "skills": [
+        27,
+        23,
+        25,
+        7,
+        8,
+        10,
+        14
       ],
       "crown": 7,
       "version": "v2527",
