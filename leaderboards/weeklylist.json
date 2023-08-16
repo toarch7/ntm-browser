@@ -1659,6 +1659,46 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "soyunpipi5000": {
+      "name": "soyunpipi5000",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        23
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Juaneti": {
+      "name": "Juaneti",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
