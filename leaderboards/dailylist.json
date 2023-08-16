@@ -1289,6 +1289,93 @@
       "crown": 1,
       "version": "v2523",
       "uid": null
+    },
+    "1141512327305371689": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 6,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        21,
+        10,
+        16
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1141511488662679672": {
+      "name": "Sodom",
+      "char": 1,
+      "skin": false,
+      "area": null,
+      "subarea": null,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 47,
+      "win": false,
+      "kills": 1028,
+      "ultra": 2,
+      "skills": [
+        10,
+        14,
+        13,
+        21,
+        29,
+        25,
+        8,
+        4
+      ],
+      "crown": 4,
+      "version": "v2527",
+      "uid": null
+    },
+    "1141507822954221718": {
+      "name": "YZack",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 13,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        8,
+        21,
+        3
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1141504315522043995": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 11,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
