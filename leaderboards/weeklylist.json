@@ -1456,6 +1456,25 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "joda": {
+      "name": "joda",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 35,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
