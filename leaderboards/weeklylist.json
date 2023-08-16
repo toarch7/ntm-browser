@@ -1580,6 +1580,44 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker323": {
+      "name": "Seeker323",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Czimbala": {
+      "name": "Czimbala",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
