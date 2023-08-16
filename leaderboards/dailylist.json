@@ -887,6 +887,110 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1141391194526601309": {
+      "name": "Seeker712",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 6,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        9,
+        21
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1141390659912208515": {
+      "name": "Shao",
+      "char": 9,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 66,
+      "win": false,
+      "kills": 176,
+      "ultra": 0,
+      "skills": [
+        9,
+        13,
+        3,
+        22,
+        12
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1141389271677272175": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 16,
+      "win": false,
+      "kills": 276,
+      "ultra": 0,
+      "skills": [
+        10,
+        21,
+        28,
+        9,
+        19,
+        22,
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1141385405510463620": {
+      "name": "Natisk",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 1,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1141380441190961203": {
+      "name": "Kr4nd0",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 22,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

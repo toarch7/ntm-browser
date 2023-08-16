@@ -1618,6 +1618,47 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "neonomi_666": {
+      "name": "neonomi_666",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 188,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        23
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "даун": {
+      "name": "даун",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
