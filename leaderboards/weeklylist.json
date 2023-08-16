@@ -1720,6 +1720,50 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "MrPrstchk": {
+      "name": "MrPrstchk",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 35,
+      "win": false,
+      "kills": 300,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        23,
+        25,
+        13,
+        10
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "FENRIR": {
+      "name": "FENRIR",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 21,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        27,
+        16
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
