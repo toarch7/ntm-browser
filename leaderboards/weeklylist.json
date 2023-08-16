@@ -1496,6 +1496,26 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "Seeker649": {
+      "name": "Seeker649",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 35,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        27,
+        9
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
