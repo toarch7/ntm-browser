@@ -1,4 +1,63 @@
 {
   "day": 16,
-  "entries": {}
+  "entries": {
+    "1141186691445567508": {
+      "name": "悪GATØ悪",
+      "char": 14,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 56,
+      "bwep": 0,
+      "win": false,
+      "kills": 15,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1141186441305665619": {
+      "name": "Seeker712",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "Tzg4bVfrQTVpZCw": {
+      "name": "Sku",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 29,
+      "win": false,
+      "kills": 275,
+      "ultra": 0,
+      "skills": [
+        13,
+        3,
+        22,
+        12,
+        9,
+        1
+      ],
+      "crown": 1,
+      "version": "v2610",
+      "uid": "Tzg4bVfrQTVpZCw"
+    }
+  }
 }
