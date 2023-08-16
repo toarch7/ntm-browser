@@ -1475,6 +1475,27 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "Seeker625": {
+      "name": "Seeker625",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 5,
+      "win": false,
+      "kills": 174,
+      "ultra": 0,
+      "skills": [
+        2,
+        28,
+        23
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
