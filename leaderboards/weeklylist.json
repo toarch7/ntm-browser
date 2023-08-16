@@ -490,20 +490,24 @@
       "name": "ты",
       "char": 1,
       "skin": false,
-      "area": 5,
+      "area": 7,
       "subarea": 2,
       "loops": 0,
       "wep": 35,
-      "bwep": 47,
+      "bwep": 33,
       "win": false,
-      "kills": 315,
+      "kills": 549,
       "ultra": 0,
       "skills": [
         27,
         9,
-        17,
+        4,
+        25,
+        7,
         8,
-        3
+        10,
+        16,
+        6
       ],
       "crown": 7,
       "version": "v2527",
@@ -1512,6 +1516,66 @@
       "skills": [
         27,
         9
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Mappen": {
+      "name": "Mappen",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "ben": {
+      "name": "ben",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        27,
+        9
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Принтер": {
+      "name": "Принтер",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 35,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        27,
+        9,
+        4
       ],
       "crown": 7,
       "version": "v2527",
