@@ -1915,6 +1915,54 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "User_.906": {
+      "name": "User_.906",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 13,
+      "win": false,
+      "kills": 285,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        25,
+        13,
+        22
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Sharashckin": {
+      "name": "Sharashckin",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 35,
+      "win": false,
+      "kills": 303,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        4,
+        25,
+        13,
+        8,
+        3
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
