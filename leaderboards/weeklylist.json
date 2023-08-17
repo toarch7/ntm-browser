@@ -2069,6 +2069,65 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "LUIS": {
+      "name": "LUIS",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Throneseeker740": {
+      "name": "Throneseeker740",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 5,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        22,
+        23
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Ankii282": {
+      "name": "Ankii282",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
