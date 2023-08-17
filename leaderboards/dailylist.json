@@ -457,6 +457,45 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1141695238159745065": {
+      "name": "Бяка2206",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 21,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1141688830823501924": {
+      "name": "Seeker541",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 0,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
