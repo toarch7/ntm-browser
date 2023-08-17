@@ -1828,6 +1828,45 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "kratos": {
+      "name": "kratos",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 35,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        27,
+        9
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Zl00$_Bnd0$": {
+      "name": "Zl00$_Bnd0$",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 5,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
