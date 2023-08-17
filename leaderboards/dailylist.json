@@ -1,4 +1,62 @@
 {
   "day": 17,
-  "entries": {}
+  "entries": {
+    "1141541382843023533": {
+      "name": "Seeker712",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1141533924300959784": {
+      "name": "kratos",
+      "char": 9,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 13,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        21,
+        13,
+        9
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
+    },
+    "1141527802022199336": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 6,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        28
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    }
+  }
 }
