@@ -2273,6 +2273,25 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "kewata": {
+      "name": "kewata",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 5,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
