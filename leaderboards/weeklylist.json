@@ -2154,6 +2154,44 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "Joemama": {
+      "name": "Joemama",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 27,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Spectral": {
+      "name": "Spectral",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 35,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
