@@ -1193,17 +1193,18 @@
       "name": "eduardo",
       "char": 1,
       "skin": false,
-      "area": 4,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 2,
-      "bwep": 35,
+      "wep": 35,
+      "bwep": 2,
       "win": false,
-      "kills": 70,
+      "kills": 78,
       "ultra": 0,
       "skills": [
         27,
-        16
+        16,
+        4
       ],
       "crown": 7,
       "version": "v2523",
@@ -2074,17 +2075,20 @@
       "name": "LUIS",
       "char": 1,
       "skin": false,
-      "area": 3,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 5,
+      "wep": 69,
       "bwep": 35,
       "win": false,
-      "kills": 145,
+      "kills": 241,
       "ultra": 0,
       "skills": [
         27,
-        4
+        4,
+        25,
+        7,
+        8
       ],
       "crown": 7,
       "version": "v2527",
@@ -2127,6 +2131,25 @@
       ],
       "crown": 7,
       "version": "v2527",
+      "uid": null
+    },
+    "Adm": {
+      "name": "Adm",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 6,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2602",
       "uid": null
     }
   }
