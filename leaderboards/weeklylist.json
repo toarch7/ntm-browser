@@ -1983,6 +1983,32 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Sum": {
+      "name": "Sum",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 35,
+      "bwep": 51,
+      "win": false,
+      "kills": 926,
+      "ultra": 2,
+      "skills": [
+        27,
+        23,
+        25,
+        7,
+        22,
+        3,
+        12,
+        14
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

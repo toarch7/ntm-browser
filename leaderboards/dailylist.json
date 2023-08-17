@@ -248,6 +248,54 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1141650838247460875": {
+      "name": "Seeker413",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 74,
+      "win": false,
+      "kills": 282,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        9,
+        1,
+        2
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1141638488014454834": {
+      "name": "даун",
+      "char": 8,
+      "skin": true,
+      "area": null,
+      "subarea": null,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 28,
+      "win": false,
+      "kills": 663,
+      "ultra": 1,
+      "skills": [
+        3,
+        27,
+        9,
+        1,
+        17,
+        22,
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
