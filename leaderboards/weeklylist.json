@@ -2292,6 +2292,25 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "PussyDestroyer": {
+      "name": "PussyDestroyer",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 5,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
