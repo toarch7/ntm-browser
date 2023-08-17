@@ -296,6 +296,96 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1141664302659539008": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 0,
+      "win": false,
+      "kills": 15,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1141662608689213511": {
+      "name": "Seeker379",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 34,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        23,
+        4,
+        9
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1141660655615758400": {
+      "name": "Оффтоп",
+      "char": 12,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1141656806695895090": {
+      "name": "Arkael",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1141651931807350814": {
+      "name": "Sanya",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 2,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
