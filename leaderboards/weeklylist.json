@@ -1086,17 +1086,17 @@
       "name": "Stefa",
       "char": 1,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 21,
+      "wep": 62,
       "bwep": 35,
       "win": false,
-      "kills": 90,
+      "kills": 150,
       "ultra": 0,
       "skills": [
         14,
-        22
+        23
       ],
       "crown": 7,
       "version": "v2527",
@@ -2463,6 +2463,44 @@
       ],
       "crown": 7,
       "version": "v2527",
+      "uid": null
+    },
+    "DreamWalker": {
+      "name": "DreamWalker",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 35,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "daft": {
+      "name": "daft",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 5,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2602",
       "uid": null
     }
   }
