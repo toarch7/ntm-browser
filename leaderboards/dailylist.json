@@ -1,4 +1,128 @@
 {
   "day": 18,
-  "entries": {}
+  "entries": {
+    "1141907319983198409": {
+      "name": "Seeker712",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 8,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        14,
+        12,
+        19
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1141902146527301693": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 18,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1141900911636140032": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        1,
+        28
+      ],
+      "crown": 1,
+      "version": "v2522",
+      "uid": null
+    },
+    "1141900845823307806": {
+      "name": "ALPHA50",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 41,
+      "bwep": 66,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        14,
+        13
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1141891256985853992": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 3,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1141888101153783858": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 21,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        13,
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    }
+  }
 }
