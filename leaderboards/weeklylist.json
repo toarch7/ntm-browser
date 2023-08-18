@@ -1578,18 +1578,20 @@
       "name": "Принтер",
       "char": 1,
       "skin": false,
-      "area": 3,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
       "wep": 6,
       "bwep": 35,
       "win": false,
-      "kills": 138,
+      "kills": 239,
       "ultra": 0,
       "skills": [
         27,
         9,
-        4
+        4,
+        23,
+        8
       ],
       "crown": 7,
       "version": "v2527",
@@ -2414,6 +2416,25 @@
       "skills": [
         27,
         16
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Vanir": {
+      "name": "Vanir",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 35,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        27
       ],
       "crown": 7,
       "version": "v2527",
