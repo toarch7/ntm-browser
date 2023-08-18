@@ -1222,6 +1222,61 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1142213728578830498": {
+      "name": "Throneseeker772",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 27,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        1,
+        28
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "score": {
+      "name": "Seeker712",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": null,
+      "uid": "score"
+    },
+    "1142211448160923699": {
+      "name": "MikyuXD",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 27,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        4,
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
