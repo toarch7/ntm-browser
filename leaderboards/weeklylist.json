@@ -1199,19 +1199,20 @@
       "name": "eduardo",
       "char": 1,
       "skin": false,
-      "area": 5,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 23,
-      "bwep": 88,
+      "wep": 35,
+      "bwep": 6,
       "win": false,
-      "kills": 104,
+      "kills": 248,
       "ultra": 0,
       "skills": [
         27,
         16,
         4,
-        22
+        25,
+        7
       ],
       "crown": 7,
       "version": "v2523",
@@ -2350,6 +2351,26 @@
       "skills": [
         14,
         22
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "lawliett": {
+      "name": "lawliett",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 35,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        14,
+        9
       ],
       "crown": 7,
       "version": "v2527",
