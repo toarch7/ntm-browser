@@ -1899,14 +1899,14 @@
       "name": "hanzu",
       "char": 1,
       "skin": false,
-      "area": 0,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 1,
-      "wep": 66,
-      "bwep": 35,
+      "wep": 35,
+      "bwep": 60,
       "win": false,
-      "kills": 555,
-      "ultra": 1,
+      "kills": 1820,
+      "ultra": 2,
       "skills": [
         27,
         9,
@@ -1915,7 +1915,7 @@
         7,
         8,
         10,
-        14
+        6
       ],
       "crown": 7,
       "version": "v2602",
@@ -2322,10 +2322,31 @@
       "wep": 5,
       "bwep": 35,
       "win": false,
-      "kills": 102,
+      "kills": 127,
       "ultra": 0,
       "skills": [
-        2
+        22,
+        9
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker719": {
+      "name": "Seeker719",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 35,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        14,
+        22
       ],
       "crown": 7,
       "version": "v2527",
