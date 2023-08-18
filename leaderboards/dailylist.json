@@ -1149,6 +1149,42 @@
       "crown": 8,
       "version": "v2527",
       "uid": null
+    },
+    "1142178889137934387": {
+      "name": "Kevalla",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 1,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        14
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
+    },
+    "1142171597898272788": {
+      "name": "CESAR99",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
