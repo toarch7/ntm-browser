@@ -1485,13 +1485,14 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 27,
-      "bwep": 35,
+      "wep": 35,
+      "bwep": 10,
       "win": false,
-      "kills": 114,
+      "kills": 117,
       "ultra": 0,
       "skills": [
-        27
+        27,
+        16
       ],
       "crown": 7,
       "version": "v2602",
@@ -2872,6 +2873,25 @@
       "skills": [
         2,
         9
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Erick62Z": {
+      "name": "Erick62Z",
+      "char": 1,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 20,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        27
       ],
       "crown": 7,
       "version": "v2602",
