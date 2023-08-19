@@ -354,14 +354,14 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 27,
-      "bwep": 35,
+      "wep": 35,
+      "bwep": 0,
       "win": false,
-      "kills": 80,
+      "kills": 90,
       "ultra": 0,
       "skills": [
         2,
-        9
+        22
       ],
       "crown": 7,
       "version": "v2527",
@@ -1422,16 +1422,18 @@
       "name": "Throneseeker265",
       "char": 1,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
       "wep": 5,
       "bwep": 35,
       "win": false,
-      "kills": 91,
+      "kills": 204,
       "ultra": 0,
       "skills": [
-        27
+        27,
+        17,
+        23
       ],
       "crown": 7,
       "version": "v2602",
@@ -2607,19 +2609,39 @@
       "name": "Sosiska52",
       "char": 1,
       "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 35,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        27,
+        17
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Лёша": {
+      "name": "Лёша",
+      "char": 1,
+      "skin": false,
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 5,
-      "bwep": 35,
+      "wep": 35,
+      "bwep": 5,
       "win": false,
-      "kills": 94,
+      "kills": 89,
       "ultra": 0,
       "skills": [
         27
       ],
       "crown": 7,
-      "version": "v2602",
+      "version": "v2527",
       "uid": null
     }
   }
