@@ -2540,6 +2540,47 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "jesus": {
+      "name": "jesus",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 2,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        27,
+        16,
+        28
+      ],
+      "crown": 7,
+      "version": "v2523",
+      "uid": null
+    },
+    "Seeker275": {
+      "name": "Seeker275",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 27,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        14,
+        16
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
