@@ -748,6 +748,104 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1142444863581851720": {
+      "name": "Throneseeker413",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 6,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1142443715198193806": {
+      "name": "FantonFlare03",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 91,
+      "bwep": 113,
+      "win": false,
+      "kills": 300,
+      "ultra": 0,
+      "skills": [
+        14,
+        7,
+        1,
+        22,
+        21,
+        6
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null
+    },
+    "1142443281955962930": {
+      "name": "hacker123",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 14,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 4,
+      "version": "v2527",
+      "uid": null
+    },
+    "1142441639890137218": {
+      "name": "Seeker712",
+      "char": 10,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1142438816326635531": {
+      "name": "Seeker413",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 72,
+      "bwep": 0,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        1,
+        23
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
