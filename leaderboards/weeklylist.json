@@ -2664,6 +2664,49 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "бскинроги": {
+      "name": "бскинроги",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 35,
+      "win": false,
+      "kills": 299,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        25,
+        13,
+        22,
+        3
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "JohnikS": {
+      "name": "JohnikS",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 5,
+      "win": false,
+      "kills": 121,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }

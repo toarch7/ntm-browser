@@ -621,6 +621,133 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1142438464978174095": {
+      "name": "Seeker413",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 53,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        14,
+        27,
+        1,
+        23
+      ],
+      "crown": 11,
+      "version": "v2602",
+      "uid": null
+    },
+    "1142436797687795813": {
+      "name": "бскинроги",
+      "char": 5,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 113,
+      "win": false,
+      "kills": 225,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        4,
+        13,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1142432528792309841": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 27,
+      "ultra": 0,
+      "skills": [
+        14,
+        27
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1142431158831956059": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 58,
+      "bwep": 47,
+      "win": false,
+      "kills": 552,
+      "ultra": 1,
+      "skills": [
+        1,
+        27,
+        4,
+        14,
+        7,
+        17
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "1142429102792515595": {
+      "name": "JohnikS",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 5,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1142424293666476092": {
+      "name": "даун",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
