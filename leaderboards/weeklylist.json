@@ -2520,6 +2520,26 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "Bizqued": {
+      "name": "Bizqued",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 35,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        2,
+        9
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
