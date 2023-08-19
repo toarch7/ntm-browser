@@ -899,17 +899,17 @@
       "name": "",
       "char": 1,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 21,
-      "bwep": 27,
+      "wep": 13,
+      "bwep": 35,
       "win": false,
-      "kills": 92,
+      "kills": 165,
       "ultra": 0,
       "skills": [
         27,
-        9
+        28
       ],
       "crown": 7,
       "version": "v2527",
@@ -2638,6 +2638,25 @@
       "bwep": 5,
       "win": false,
       "kills": 89,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker939.99": {
+      "name": "Seeker939.99",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 35,
+      "win": false,
+      "kills": 107,
       "ultra": 0,
       "skills": [
         27
