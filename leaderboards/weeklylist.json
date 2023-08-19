@@ -2546,17 +2546,19 @@
       "char": 1,
       "skin": false,
       "area": 5,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 35,
-      "bwep": 2,
+      "wep": 23,
+      "bwep": 35,
       "win": false,
-      "kills": 74,
+      "kills": 158,
       "ultra": 0,
       "skills": [
         27,
         16,
-        28
+        4,
+        25,
+        7
       ],
       "crown": 7,
       "version": "v2523",
@@ -2580,6 +2582,25 @@
       ],
       "crown": 7,
       "version": "v2602",
+      "uid": null
+    },
+    "BlackMan": {
+      "name": "BlackMan",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 35,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
       "uid": null
     }
   }
