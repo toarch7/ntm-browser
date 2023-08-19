@@ -846,6 +846,107 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1142464386666074123": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 1,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": "v2522",
+      "uid": null
+    },
+    "1142462322837831741": {
+      "name": "Seeker712",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1142457337907511306": {
+      "name": "Scrotum",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 19,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        14,
+        23
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1142454335364681819": {
+      "name": "Лика",
+      "char": 1,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 6,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        25,
+        3
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1142453599872487504": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 3,
+      "win": false,
+      "kills": 8,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
