@@ -2836,6 +2836,26 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker547": {
+      "name": "Seeker547",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        2,
+        9
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
