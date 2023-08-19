@@ -981,6 +981,145 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1142495652262203422": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 9,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        25,
+        16,
+        22,
+        24
+      ],
+      "crown": 8,
+      "version": "v2527",
+      "uid": null
+    },
+    "1142494138219114516": {
+      "name": "Throneseeker413",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1142493734039195709": {
+      "name": "Seeker521",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 3,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        1,
+        23
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
+    },
+    "1142493499116245132": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 3,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1142493208299974797": {
+      "name": "Reivax",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 0,
+      "win": false,
+      "kills": 14,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1142491498055749703": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1142489526657364029": {
+      "name": "BREAD",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 9,
+      "win": false,
+      "kills": 199,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        21,
+        14
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
