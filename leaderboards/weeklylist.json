@@ -2846,14 +2846,13 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 5,
-      "bwep": 35,
+      "wep": 35,
+      "bwep": 5,
       "win": false,
-      "kills": 97,
+      "kills": 118,
       "ultra": 0,
       "skills": [
-        2,
-        9
+        22
       ],
       "crown": 7,
       "version": "v2602",
@@ -3207,6 +3206,45 @@
       ],
       "crown": 7,
       "version": "v2602",
+      "uid": null
+    },
+    "Seeker673": {
+      "name": "Seeker673",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 27,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "jeis": {
+      "name": "jeis",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 35,
+      "win": false,
+      "kills": 166,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 7,
+      "version": "v2527",
       "uid": null
     }
   }
