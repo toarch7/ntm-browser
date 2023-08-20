@@ -3169,6 +3169,45 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "Seeker288.45": {
+      "name": "Seeker288.45",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 35,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Secreción": {
+      "name": "Secreción",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        2,
+        4
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
