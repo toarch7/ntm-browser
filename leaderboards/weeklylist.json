@@ -2380,7 +2380,7 @@
       "wep": 21,
       "bwep": 35,
       "win": false,
-      "kills": 71,
+      "kills": 104,
       "ultra": 0,
       "skills": [
         14,
@@ -2883,16 +2883,19 @@
       "name": "Erick62Z",
       "char": 1,
       "skin": false,
-      "area": 104,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 21,
-      "bwep": 20,
+      "wep": 35,
+      "bwep": 62,
       "win": false,
-      "kills": 58,
+      "kills": 286,
       "ultra": 0,
       "skills": [
-        27
+        27,
+        23,
+        8,
+        3
       ],
       "crown": 7,
       "version": "v2602",
@@ -2996,6 +2999,86 @@
       "ultra": 0,
       "skills": [
         27
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "mamali": {
+      "name": "mamali",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        2,
+        16
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Jzarga": {
+      "name": "Jzarga",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 10,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Cockonut": {
+      "name": "Cockonut",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        27,
+        9
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker538": {
+      "name": "Seeker538",
+      "char": 1,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 35,
+      "win": false,
+      "kills": 223,
+      "ultra": 0,
+      "skills": [
+        22,
+        16,
+        4
       ],
       "crown": 7,
       "version": "v2527",
