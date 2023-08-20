@@ -3148,6 +3148,27 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Br": {
+      "name": "Br",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 2,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        27,
+        16,
+        4
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
