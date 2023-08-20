@@ -3107,6 +3107,31 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "BREAD": {
+      "name": "BREAD",
+      "char": 1,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 35,
+      "win": false,
+      "kills": 456,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        25,
+        16,
+        8,
+        10,
+        7
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
