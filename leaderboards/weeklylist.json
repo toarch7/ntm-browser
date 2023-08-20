@@ -3272,6 +3272,26 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "Throneseeker553": {
+      "name": "Throneseeker553",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        14,
+        4
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
