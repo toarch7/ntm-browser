@@ -3247,6 +3247,31 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "pepito": {
+      "name": "pepito",
+      "char": 1,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 2,
+      "win": false,
+      "kills": 525,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        25,
+        7,
+        10,
+        16,
+        6
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
