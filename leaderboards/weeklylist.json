@@ -3083,6 +3083,26 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "rabit": {
+      "name": "rabit",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 5,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        27,
+        22
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
