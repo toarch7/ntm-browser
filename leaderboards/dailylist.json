@@ -1403,6 +1403,107 @@
       "crown": 11,
       "version": "v2527",
       "uid": null
+    },
+    "1142913185184219271": {
+      "name": "Nikoru",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 2,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        3,
+        10
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1142912727665360936": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1142912183756406784": {
+      "name": "Seeker413",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        3,
+        10
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1142911924036702228": {
+      "name": "悪GATØ悪",
+      "char": 12,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 23,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        17,
+        10,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1142904972153983157": {
+      "name": "FOTOSINTESIS",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 3,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        3,
+        22,
+        1
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
