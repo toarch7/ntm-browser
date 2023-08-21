@@ -825,6 +825,68 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1143179624956821676": {
+      "name": "kwazar",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 27,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1143179316616769546": {
+      "name": "Ziga",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 2,
+      "win": false,
+      "kills": 299,
+      "ultra": 0,
+      "skills": [
+        3,
+        16,
+        13,
+        8,
+        23,
+        26
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1143177243552665661": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
