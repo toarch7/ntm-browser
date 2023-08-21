@@ -82,6 +82,53 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1143017254817112136": {
+      "name": "b0cket",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 23,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        14,
+        3,
+        28
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1143016584181465120": {
+      "name": "bajnmen",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 24,
+      "bwep": 96,
+      "win": false,
+      "kills": 1912,
+      "ultra": 2,
+      "skills": [
+        27,
+        13,
+        14,
+        8,
+        23,
+        25,
+        4,
+        17
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
