@@ -509,6 +509,86 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "1143125670143213588": {
+      "name": "Seeker720",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 13,
+      "win": false,
+      "kills": 203,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        13,
+        8,
+        23
+      ],
+      "crown": 1,
+      "version": "v2522",
+      "uid": null
+    },
+    "1143125531827646584": {
+      "name": "Фанжижа",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 20,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        10,
+        14,
+        28
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1143124630681423873": {
+      "name": "акац",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 19,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1143123939426586686": {
+      "name": "Seeker712",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": "v2522",
+      "uid": null
     }
   }
 }
