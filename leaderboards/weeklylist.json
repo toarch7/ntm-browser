@@ -3441,6 +3441,52 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker082": {
+      "name": "Seeker082",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        27,
+        9
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "lolikk": {
+      "name": "lolikk",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 24,
+      "win": false,
+      "kills": 427,
+      "ultra": 0,
+      "skills": [
+        27,
+        16,
+        4,
+        23,
+        8,
+        10,
+        7,
+        12
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
