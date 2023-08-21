@@ -1278,6 +1278,91 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1143263337644298311": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 41,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        10,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1143261119163662446": {
+      "name": "Bryant",
+      "char": 8,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 36,
+      "win": false,
+      "kills": 252,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        13,
+        12,
+        23
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1143256674371653722": {
+      "name": "victor",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 34,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        27,
+        13
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1143251934954913994": {
+      "name": "MELIODAS",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 34,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        3,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
