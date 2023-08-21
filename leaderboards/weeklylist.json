@@ -3553,6 +3553,25 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "xXx": {
+      "name": "xXx",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 35,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
