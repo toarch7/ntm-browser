@@ -3310,6 +3310,26 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "leonid": {
+      "name": "leonid",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 35,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
