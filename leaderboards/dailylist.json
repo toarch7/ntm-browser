@@ -1363,6 +1363,65 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1143281265605345320": {
+      "name": "eduardo",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 16,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1143279268118401054": {
+      "name": "FantonFlare03",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 31,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        10,
+        14
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "1143271551735697543": {
+      "name": "keir",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 88,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        27,
+        13
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
