@@ -1676,16 +1676,16 @@
       "char": 1,
       "skin": false,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
       "wep": 5,
       "bwep": 35,
       "win": false,
-      "kills": 132,
+      "kills": 158,
       "ultra": 0,
       "skills": [
         27,
-        4
+        17
       ],
       "crown": 7,
       "version": "v2527",
@@ -3665,6 +3665,27 @@
         13,
         22,
         3
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "R1ht1r": {
+      "name": "R1ht1r",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 35,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        14,
+        16,
+        17
       ],
       "crown": 7,
       "version": "v2602",
