@@ -217,6 +217,46 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1143431077902434304": {
+      "name": "Принтер",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 17,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1143423433703686204": {
+      "name": "Seeker712",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 17,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        14,
+        12,
+        8
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
