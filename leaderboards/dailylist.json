@@ -716,6 +716,45 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1143563592294215753": {
+      "name": "Camilo",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 17,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1143559531562016848": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        28,
+        24
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
     }
   }
 }
