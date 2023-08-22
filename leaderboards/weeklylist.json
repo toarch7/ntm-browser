@@ -3652,19 +3652,19 @@
       "char": 1,
       "skin": false,
       "area": 7,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
       "wep": 13,
       "bwep": 35,
       "win": false,
-      "kills": 545,
-      "ultra": 0,
+      "kills": 568,
+      "ultra": 2,
       "skills": [
         27,
         23,
         25,
         13,
-        22,
+        8,
         3,
         7,
         14
@@ -3755,6 +3755,31 @@
       ],
       "crown": 7,
       "version": "v2527",
+      "uid": null
+    },
+    "Seeker170": {
+      "name": "Seeker170",
+      "char": 1,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 35,
+      "win": false,
+      "kills": 531,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        25,
+        7,
+        8,
+        24,
+        26
+      ],
+      "crown": 7,
+      "version": "v2602",
       "uid": null
     }
   }
