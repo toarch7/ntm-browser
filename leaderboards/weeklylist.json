@@ -3558,16 +3558,17 @@
       "name": "xXx",
       "char": 1,
       "skin": false,
-      "area": 2,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 21,
+      "wep": 13,
       "bwep": 35,
       "win": false,
-      "kills": 123,
+      "kills": 213,
       "ultra": 0,
       "skills": [
-        27
+        27,
+        4
       ],
       "crown": 7,
       "version": "v2602",

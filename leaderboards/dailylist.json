@@ -75,6 +75,68 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1143378131533713468": {
+      "name": "xXx",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 4,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        26,
+        14,
+        8,
+        2
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1143375326790029423": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 17,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        28,
+        14
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1143374980688642059": {
+      "name": "Выживальщик",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 17,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        28,
+        13
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
