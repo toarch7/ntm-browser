@@ -1721,10 +1721,11 @@
       "wep": 5,
       "bwep": 35,
       "win": false,
-      "kills": 102,
+      "kills": 112,
       "ultra": 0,
       "skills": [
-        22
+        22,
+        9
       ],
       "crown": 7,
       "version": "v2527",
@@ -3649,13 +3650,13 @@
       "name": "Providence",
       "char": 1,
       "skin": false,
-      "area": 6,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
       "wep": 13,
       "bwep": 35,
       "win": false,
-      "kills": 447,
+      "kills": 545,
       "ultra": 0,
       "skills": [
         27,
@@ -3664,7 +3665,8 @@
         13,
         22,
         3,
-        7
+        7,
+        14
       ],
       "crown": 7,
       "version": "v2602",
@@ -3706,6 +3708,26 @@
       "skills": [
         27,
         9
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker590": {
+      "name": "Seeker590",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 13,
+      "win": false,
+      "kills": 165,
+      "ultra": 0,
+      "skills": [
+        27,
+        17
       ],
       "crown": 7,
       "version": "v2527",
