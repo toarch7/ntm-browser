@@ -3617,6 +3617,27 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker578": {
+      "name": "Seeker578",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 35,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        22,
+        16,
+        4
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
