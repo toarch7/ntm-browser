@@ -433,6 +433,32 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "Принтер": {
+      "name": "Принтер",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 84,
+      "win": false,
+      "kills": 306,
+      "ultra": 1,
+      "skills": [
+        28,
+        4,
+        27,
+        1,
+        9,
+        14,
+        8,
+        23
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
