@@ -345,6 +345,29 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "ALPHA50": {
+      "name": "ALPHA50",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 4,
+      "win": false,
+      "kills": 233,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        25,
+        7,
+        12
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
