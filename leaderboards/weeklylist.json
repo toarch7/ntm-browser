@@ -391,6 +391,28 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Main": {
+      "name": "Main",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 10,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        28,
+        8,
+        27,
+        1
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
