@@ -459,6 +459,25 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "ofenderdemon": {
+      "name": "ofenderdemon",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 16,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
