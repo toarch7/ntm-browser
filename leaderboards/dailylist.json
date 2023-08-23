@@ -1319,6 +1319,49 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1144005308172226601": {
+      "name": "Jezodoel",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "8j155aHppK4vVcs": {
+      "name": "EvilCat",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 35,
+      "bwep": 113,
+      "win": false,
+      "kills": 600,
+      "ultra": 0,
+      "skills": [
+        3,
+        21,
+        27,
+        17,
+        8,
+        25
+      ],
+      "crown": 7,
+      "version": "v2610",
+      "uid": "8j155aHppK4vVcs"
     }
   }
 }
