@@ -478,6 +478,56 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Azert": {
+      "name": "Azert",
+      "char": 4,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 23,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        28,
+        2
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "BocKySx": {
+      "name": "BocKySx",
+      "char": 4,
+      "skin": true,
+      "area": null,
+      "subarea": null,
+      "loops": 1,
+      "wep": 76,
+      "bwep": 84,
+      "win": false,
+      "kills": 428,
+      "ultra": 2,
+      "skills": [
+        13,
+        8,
+        27,
+        10,
+        4,
+        14,
+        23,
+        12,
+        6,
+        7
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
