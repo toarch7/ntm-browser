@@ -368,6 +368,29 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "kimich": {
+      "name": "kimich",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 11,
+      "win": false,
+      "kills": 281,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        1,
+        9,
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
