@@ -638,6 +638,27 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Dr.V": {
+      "name": "Dr.V",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 84,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        28,
+        4,
+        27
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
