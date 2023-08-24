@@ -1036,6 +1036,128 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1144321517862273054": {
+      "name": "даун",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 13,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        4,
+        9
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1144320940843483208": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 14,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1144318948427444274": {
+      "name": "pito",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 7,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1144318427037708369": {
+      "name": "Seeker413",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 30,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1144315672780881971": {
+      "name": "Seeker712",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 28,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1144315533005701220": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 27,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1144310121443369092": {
+      "name": "ignacio4313N",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
