@@ -417,6 +417,44 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1144172989471019051": {
+      "name": "Seeker712",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 0,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1144172816401440788": {
+      "name": "Throneseeker413",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
