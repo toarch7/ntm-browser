@@ -702,6 +702,25 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "lobitoazul": {
+      "name": "lobitoazul",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 4,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 6,
+      "version": "v2523",
+      "uid": null
     }
   }
 }
