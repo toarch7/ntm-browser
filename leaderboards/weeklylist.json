@@ -721,6 +721,29 @@
       "crown": 6,
       "version": "v2523",
       "uid": null
+    },
+    "Seeker839": {
+      "name": "Seeker839",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 76,
+      "win": false,
+      "kills": 154,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        4,
+        9,
+        14
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
