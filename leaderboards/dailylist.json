@@ -563,6 +563,80 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1144229934387183616": {
+      "name": "Seeker915",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 3,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1144222521516888154": {
+      "name": "Seeker815",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 30,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        1,
+        16
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1144221681297137664": {
+      "name": "",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 12,
+      "win": false,
+      "kills": 225,
+      "ultra": 0,
+      "skills": [
+        7,
+        16,
+        8,
+        27
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "8j155aHppK4vVcs": {
+      "name": "EvilCat",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 18,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": "v2610",
+      "uid": "8j155aHppK4vVcs"
     }
   }
 }
