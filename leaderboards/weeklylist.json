@@ -681,6 +681,27 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "offenderdemon": {
+      "name": "offenderdemon",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 69,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        13,
+        4,
+        1
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
