@@ -616,6 +616,28 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Kura": {
+      "name": "Kura",
+      "char": 4,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 26,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        10,
+        23
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
