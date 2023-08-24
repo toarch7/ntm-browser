@@ -150,6 +150,60 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1144109554347556864": {
+      "name": "Cloud",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1144102668579651624": {
+      "name": "Seeker413",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 46,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        4,
+        28
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1144097921906782258": {
+      "name": "Bizqued",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 0,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
