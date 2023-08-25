@@ -808,6 +808,101 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1144593510255824906": {
+      "name": "Throneseeker413",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1144590085669531668": {
+      "name": "R1ht1r",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 1,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        22,
+        14,
+        23
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1144588714966798417": {
+      "name": "Azazell",
+      "char": 9,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 0,
+      "win": false,
+      "kills": 26,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1144585994499268730": {
+      "name": "Ziga",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 25,
+      "bwep": 29,
+      "win": false,
+      "kills": 260,
+      "ultra": 0,
+      "skills": [
+        22,
+        14,
+        9,
+        7,
+        12,
+        1,
+        3
+      ],
+      "crown": 8,
+      "version": "v2527",
+      "uid": null
+    },
+    "1144581294458679306": {
+      "name": "Quzex",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 46,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
