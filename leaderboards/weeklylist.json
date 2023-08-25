@@ -855,6 +855,25 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "Quzex": {
+      "name": "Quzex",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 84,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
