@@ -301,6 +301,65 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1144489017325408347": {
+      "name": "Seiji000",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 19,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1144484531911544933": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 1,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1144474844755415061": {
+      "name": "offenderdemon",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 27,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        28,
+        10,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
