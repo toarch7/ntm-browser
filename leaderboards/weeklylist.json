@@ -935,6 +935,27 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Sodom": {
+      "name": "Sodom",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 27,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        28,
+        4,
+        10
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

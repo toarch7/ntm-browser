@@ -1663,6 +1663,88 @@
       "crown": 1,
       "version": "v2523",
       "uid": null
+    },
+    "1144774581740122194": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 21,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        14,
+        26
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1144772088259952670": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1144769318064763002": {
+      "name": "kratos",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 26,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1144766581327540264": {
+      "name": "Sodom",
+      "char": 4,
+      "skin": false,
+      "area": null,
+      "subarea": null,
+      "loops": 1,
+      "wep": 105,
+      "bwep": 28,
+      "win": false,
+      "kills": 541,
+      "ultra": 2,
+      "skills": [
+        14,
+        24,
+        28,
+        17,
+        12,
+        2,
+        25,
+        10,
+        6,
+        19
+      ],
+      "crown": 3,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
