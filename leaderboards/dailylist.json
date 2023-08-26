@@ -1289,6 +1289,40 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1145058333263400960": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1145051016031633550": {
+      "name": "kimich",
+      "char": 15,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 3,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
