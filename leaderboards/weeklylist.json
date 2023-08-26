@@ -1000,6 +1000,25 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "Kivtor": {
+      "name": "Kivtor",
+      "char": 4,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 69,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
