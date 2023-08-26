@@ -914,6 +914,59 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1144973976272126003": {
+      "name": "NuncaNemVi",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1144968859305136199": {
+      "name": "Выживальщик",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 75,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1144959849755594782": {
+      "name": "Gelson64",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 1,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
