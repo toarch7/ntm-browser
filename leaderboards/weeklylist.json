@@ -1044,6 +1044,26 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "Erick": {
+      "name": "Erick",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 4,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        13,
+        8
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
