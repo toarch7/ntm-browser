@@ -1133,6 +1133,27 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "mafiasoul": {
+      "name": "mafiasoul",
+      "char": 4,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 69,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        25
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
