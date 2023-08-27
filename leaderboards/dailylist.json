@@ -1497,6 +1497,109 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1145421092383641711": {
+      "name": "tumami",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 10,
+      "win": false,
+      "kills": 225,
+      "ultra": 0,
+      "skills": [
+        2,
+        4,
+        8,
+        1,
+        12
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1145421035475325059": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 22,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1145420836027773088": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 11,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        14,
+        8
+      ],
+      "crown": 11,
+      "version": "v2523",
+      "uid": null
+    },
+    "1145419884226941048": {
+      "name": "Seeker170",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        14,
+        4
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "Tzg4bVfrQTVpZCw": {
+      "name": "SKU",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 114,
+      "bwep": 74,
+      "win": false,
+      "kills": 395,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        1,
+        9,
+        24,
+        27,
+        8
+      ],
+      "crown": 1,
+      "version": "v2610",
+      "uid": "Tzg4bVfrQTVpZCw"
     }
   }
 }
