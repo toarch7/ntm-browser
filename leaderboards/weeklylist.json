@@ -1064,6 +1064,53 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "scumfucker": {
+      "name": "scumfucker",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 11,
+      "win": false,
+      "kills": 270,
+      "ultra": 0,
+      "skills": [
+        13,
+        8,
+        1,
+        4,
+        9,
+        14
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Hein": {
+      "name": "Hein",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 84,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        13,
+        17,
+        23,
+        1,
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
