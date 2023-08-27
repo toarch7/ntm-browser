@@ -1154,6 +1154,27 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "Seeker825": {
+      "name": "Seeker825",
+      "char": 4,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 4,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        1
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
