@@ -1202,6 +1202,48 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "jhosue": {
+      "name": "jhosue",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 76,
+      "win": false,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        13,
+        8,
+        1,
+        4,
+        9
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "SAYDAXXD": {
+      "name": "SAYDAXXD",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 4,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
