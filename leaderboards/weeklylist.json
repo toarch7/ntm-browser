@@ -1029,12 +1029,12 @@
       "char": 4,
       "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
       "wep": 76,
       "bwep": 4,
       "win": false,
-      "kills": 171,
+      "kills": 222,
       "ultra": 0,
       "skills": [
         4,
@@ -1042,7 +1042,8 @@
         10,
         25,
         7,
-        14
+        14,
+        22
       ],
       "crown": 6,
       "version": "v2602",
