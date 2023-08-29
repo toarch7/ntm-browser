@@ -24,25 +24,24 @@
     },
     "Seeker712": {
       "name": "Seeker712",
-      "char": 4,
+      "char": 9,
       "skin": true,
-      "area": 5,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 57,
-      "bwep": 66,
+      "wep": 30,
+      "bwep": 91,
       "win": false,
-      "kills": 199,
+      "kills": 246,
       "ultra": 0,
       "skills": [
-        4,
         1,
+        2,
         10,
-        23,
-        12
+        27
       ],
-      "crown": 6,
-      "version": "v2523",
+      "crown": 5,
+      "version": "v2527",
       "uid": null
     },
     "kimich": {
