@@ -531,6 +531,48 @@
       "crown": 5,
       "version": "v2527",
       "uid": null
+    },
+    "Throneseeker265": {
+      "name": "Throneseeker265",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 3,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        1,
+        19
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
+    },
+    "Ziga": {
+      "name": "Ziga",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 115,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        4,
+        21,
+        1,
+        23
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
