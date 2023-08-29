@@ -1013,18 +1013,19 @@
       "name": "даун",
       "char": 9,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 2,
-      "bwep": 115,
+      "wep": 115,
+      "bwep": 23,
       "win": false,
-      "kills": 117,
+      "kills": 201,
       "ultra": 0,
       "skills": [
         1,
         21,
-        6
+        26,
+        27
       ],
       "crown": 5,
       "version": "v2527",
@@ -1507,6 +1508,136 @@
       ],
       "crown": 5,
       "version": "v2522",
+      "uid": null
+    },
+    "∆¥_Märløn_¥∆": {
+      "name": "∆¥_Märløn_¥∆",
+      "char": 9,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 119,
+      "bwep": 0,
+      "win": false,
+      "kills": 224,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        28,
+        10,
+        22,
+        9
+      ],
+      "crown": 5,
+      "version": "v2523",
+      "uid": null
+    },
+    "Master": {
+      "name": "Master",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 78,
+      "bwep": 115,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        14
+      ],
+      "crown": 5,
+      "version": "v2523",
+      "uid": null
+    },
+    "Erick": {
+      "name": "Erick",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 6,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        4,
+        21
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "dragonfucker": {
+      "name": "dragonfucker",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 14,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        14,
+        23
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Kevalla": {
+      "name": "Kevalla",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 17,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        1,
+        2
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "alexander": {
+      "name": "alexander",
+      "char": 9,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 24,
+      "win": false,
+      "kills": 219,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        14,
+        10,
+        27
+      ],
+      "crown": 5,
+      "version": "v2602",
       "uid": null
     }
   }
