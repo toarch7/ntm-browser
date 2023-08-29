@@ -983,6 +983,27 @@
       "crown": 5,
       "version": "v2527",
       "uid": null
+    },
+    "Фанжижа": {
+      "name": "Фанжижа",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 0,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        14
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
