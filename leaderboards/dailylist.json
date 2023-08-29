@@ -413,6 +413,67 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1146021377602760765": {
+      "name": "даун",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 71,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "8j155aHppK4vVcs": {
+      "name": "EvilCat",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 35,
+      "win": false,
+      "kills": 213,
+      "ultra": 0,
+      "skills": [
+        14,
+        27,
+        23,
+        3,
+        10
+      ],
+      "crown": 1,
+      "version": "v2610",
+      "uid": "8j155aHppK4vVcs"
+    },
+    "1146016086991589448": {
+      "name": "scumfucker",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 17,
+      "win": false,
+      "kills": 21,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
