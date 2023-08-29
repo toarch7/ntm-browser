@@ -836,6 +836,48 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1146092181732462642": {
+      "name": "yeeeah",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        14,
+        23,
+        10
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1146090980949368902": {
+      "name": "majesticliver",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 70,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        8,
+        23,
+        3
+      ],
+      "crown": 10,
+      "version": "v2602",
+      "uid": null
     }
   }
 }

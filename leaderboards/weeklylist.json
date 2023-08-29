@@ -182,18 +182,19 @@
       "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 115,
-      "bwep": 12,
+      "wep": 24,
+      "bwep": 6,
       "win": false,
-      "kills": 137,
+      "kills": 231,
       "ultra": 0,
       "skills": [
-        1,
-        19,
-        14
+        21,
+        6,
+        23,
+        27
       ],
       "crown": 5,
-      "version": "v2602",
+      "version": "v2527",
       "uid": null
     },
     "MASTERCHIEF117": {
@@ -1044,6 +1045,173 @@
         1,
         2,
         28
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker170": {
+      "name": "Seeker170",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 115,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        14
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
+    },
+    "Azazell": {
+      "name": "Azazell",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 2,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        4,
+        19
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
+    },
+    "Redstiem": {
+      "name": "Redstiem",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 8,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Juaneti": {
+      "name": "Juaneti",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 115,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        4,
+        19
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Throneseeker882": {
+      "name": "Throneseeker882",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 28,
+      "win": false,
+      "kills": 184,
+      "ultra": 0,
+      "skills": [
+        4,
+        19,
+        28,
+        1,
+        26
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker339": {
+      "name": "Seeker339",
+      "char": 9,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 14,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        4,
+        21,
+        14,
+        6
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
+    },
+    "Folk": {
+      "name": "Folk",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 0,
+      "win": false,
+      "kills": 198,
+      "ultra": 0,
+      "skills": [
+        19,
+        14,
+        1,
+        10
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Compromise": {
+      "name": "Compromise",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 6,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
       ],
       "crown": 5,
       "version": "v2527",
