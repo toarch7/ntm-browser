@@ -1279,6 +1279,129 @@
       "crown": 5,
       "version": "v2527",
       "uid": null
+    },
+    "plusmoney": {
+      "name": "plusmoney",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 21,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        4,
+        2
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Throneseeker740": {
+      "name": "Throneseeker740",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 17,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        1,
+        2
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker687": {
+      "name": "Seeker687",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 0,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        4,
+        2
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
+    },
+    "FAKE": {
+      "name": "FAKE",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 69,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        1,
+        2
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Sum": {
+      "name": "Sum",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 50,
+      "win": false,
+      "kills": 201,
+      "ultra": 0,
+      "skills": [
+        21,
+        1,
+        23,
+        27
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Throneseeker471": {
+      "name": "Throneseeker471",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 30,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        16
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
