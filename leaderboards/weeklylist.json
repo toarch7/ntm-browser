@@ -179,19 +179,21 @@
       "name": "Throneseeker413",
       "char": 9,
       "skin": true,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 31,
+      "wep": 5,
       "bwep": 115,
       "win": false,
-      "kills": 72,
+      "kills": 97,
       "ultra": 0,
       "skills": [
-        4
+        1,
+        14,
+        6
       ],
       "crown": 5,
-      "version": "v2602",
+      "version": "v2527",
       "uid": null
     },
     "MASTERCHIEF117": {
@@ -577,17 +579,17 @@
       "name": "",
       "char": 9,
       "skin": true,
-      "area": 105,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
       "wep": 115,
-      "bwep": 21,
+      "bwep": 15,
       "win": false,
-      "kills": 100,
+      "kills": 111,
       "ultra": 0,
       "skills": [
-        21,
-        16
+        19,
+        1
       ],
       "crown": 5,
       "version": "v2527",
@@ -631,6 +633,49 @@
       "crown": 5,
       "version": "v2602",
       "uid": null
+    },
+    "SvinMaxim": {
+      "name": "SvinMaxim",
+      "char": 9,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 63,
+      "win": false,
+      "kills": 292,
+      "ultra": 0,
+      "skills": [
+        4,
+        21,
+        1,
+        23,
+        27
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Tzg4bVfrQTVpZCw": {
+      "name": "SKU",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 115,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
+      ],
+      "crown": 5,
+      "version": "v2610",
+      "uid": "Tzg4bVfrQTVpZCw"
     }
   }
 }
