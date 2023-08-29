@@ -580,17 +580,19 @@
       "name": "",
       "char": 9,
       "skin": true,
-      "area": 6,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
       "wep": 115,
-      "bwep": 15,
+      "bwep": 119,
       "win": false,
-      "kills": 111,
+      "kills": 147,
       "ultra": 0,
       "skills": [
-        19,
-        1
+        1,
+        21,
+        28,
+        9
       ],
       "crown": 5,
       "version": "v2527",
@@ -1000,6 +1002,48 @@
         1,
         2,
         14
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "даун": {
+      "name": "даун",
+      "char": 9,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 115,
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        1,
+        21,
+        6
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "BlackKidBoy": {
+      "name": "BlackKidBoy",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 6,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        28
       ],
       "crown": 5,
       "version": "v2527",
