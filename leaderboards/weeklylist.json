@@ -279,24 +279,23 @@
     },
     "jhosue": {
       "name": "jhosue",
-      "char": 4,
+      "char": 9,
       "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 84,
-      "bwep": 76,
+      "wep": 115,
+      "bwep": 28,
       "win": false,
-      "kills": 177,
+      "kills": 191,
       "ultra": 0,
       "skills": [
-        13,
-        8,
+        21,
+        14,
         1,
-        4,
-        9
+        10
       ],
-      "crown": 6,
+      "crown": 5,
       "version": "v2527",
       "uid": null
     },
