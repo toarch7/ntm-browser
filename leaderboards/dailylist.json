@@ -98,6 +98,27 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1145909234274406471": {
+      "name": "NuncaNemVi",
+      "char": 2,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        8,
+        13,
+        10
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
