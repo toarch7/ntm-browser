@@ -1800,14 +1800,14 @@
       "area": 3,
       "subarea": 3,
       "loops": 0,
-      "wep": 115,
-      "bwep": 5,
+      "wep": 78,
+      "bwep": 0,
       "win": false,
-      "kills": 60,
+      "kills": 107,
       "ultra": 0,
       "skills": [
         1,
-        2
+        19
       ],
       "crown": 5,
       "version": "v2602",
@@ -2231,16 +2231,19 @@
       "name": "Seeker000",
       "char": 9,
       "skin": true,
-      "area": 3,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 6,
-      "bwep": 115,
+      "wep": 24,
+      "bwep": 12,
       "win": false,
-      "kills": 68,
+      "kills": 216,
       "ultra": 0,
       "skills": [
-        21
+        1,
+        21,
+        23,
+        27
       ],
       "crown": 5,
       "version": "v2602",
@@ -2363,6 +2366,27 @@
       "skills": [
         4,
         2
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker158": {
+      "name": "Seeker158",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 14,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        14
       ],
       "crown": 5,
       "version": "v2602",
