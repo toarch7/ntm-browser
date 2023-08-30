@@ -1859,6 +1859,49 @@
       "crown": 5,
       "version": "v2602",
       "uid": null
+    },
+    "Черничка": {
+      "name": "Черничка",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 14,
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        14,
+        28,
+        26
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Dasmonson": {
+      "name": "Dasmonson",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 17,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        1,
+        19
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
