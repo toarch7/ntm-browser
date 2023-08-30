@@ -2015,6 +2015,28 @@
       "crown": 5,
       "version": "v2602",
       "uid": null
+    },
+    "kewata": {
+      "name": "kewata",
+      "char": 9,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 58,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        4,
+        19,
+        14,
+        1
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
