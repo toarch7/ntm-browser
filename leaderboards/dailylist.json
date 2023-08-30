@@ -913,6 +913,117 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1146496710558883960": {
+      "name": "Seeker712",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1146493402121244722": {
+      "name": "Seeker538",
+      "char": 1,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 21,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        16,
+        27,
+        12,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1146491332530028585": {
+      "name": "Черничка",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 4,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1146490073689374834": {
+      "name": "Seeker871",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 4,
+      "win": false,
+      "kills": 21,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1146488933627220132": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        10,
+        25
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1146487341603639296": {
+      "name": "Seeker951",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 4,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        10,
+        27
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
