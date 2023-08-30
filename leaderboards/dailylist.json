@@ -773,6 +773,28 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1146436670569328771": {
+      "name": "FOTOSINTESIS",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 63,
+      "win": false,
+      "kills": 226,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        10,
+        9
+      ],
+      "crown": 4,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
