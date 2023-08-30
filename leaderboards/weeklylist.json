@@ -897,14 +897,16 @@
       "subarea": 1,
       "loops": 0,
       "wep": 115,
-      "bwep": 12,
+      "bwep": 79,
       "win": false,
-      "kills": 109,
+      "kills": 110,
       "ultra": 0,
       "skills": [
         4,
         21,
-        28
+        28,
+        1,
+        10
       ],
       "crown": 5,
       "version": "v2527",
@@ -2033,6 +2035,67 @@
         19,
         14,
         1
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Togbot": {
+      "name": "Togbot",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 115,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        16
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
+    },
+    "LastKalina": {
+      "name": "LastKalina",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 71,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
+    },
+    "DeezNuts": {
+      "name": "DeezNuts",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 8,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        1,
+        19
       ],
       "crown": 5,
       "version": "v2527",
