@@ -871,6 +871,48 @@
       "crown": 1,
       "version": "v2610",
       "uid": "8j155aHppK4vVcs"
+    },
+    "1146481935565209701": {
+      "name": "victor",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 21,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        26,
+        9
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1146475474604798167": {
+      "name": "spacemonkey666",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        10,
+        4
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
