@@ -1654,16 +1654,16 @@
       "char": 9,
       "skin": true,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 115,
-      "bwep": 14,
+      "wep": 14,
+      "bwep": 115,
       "win": false,
-      "kills": 98,
+      "kills": 101,
       "ultra": 0,
       "skills": [
         1,
-        21
+        19
       ],
       "crown": 5,
       "version": "v2527",
@@ -2240,6 +2240,26 @@
       "ultra": 0,
       "skills": [
         21
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker546": {
+      "name": "Seeker546",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 3,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        1,
+        19
       ],
       "crown": 5,
       "version": "v2602",

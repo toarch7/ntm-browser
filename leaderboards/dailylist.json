@@ -1024,6 +1024,77 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1146510696163586118": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1146510361105813594": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 4,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1146508200061972592": {
+      "name": "Seeker712",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 19,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1146501406283538522": {
+      "name": "Kevalla",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 28,
+      "win": false,
+      "kills": 288,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        14,
+        23
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
