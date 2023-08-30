@@ -768,19 +768,19 @@
       "char": 9,
       "skin": true,
       "area": 3,
-      "subarea": 3,
+      "subarea": 1,
       "loops": 0,
-      "wep": 31,
-      "bwep": 115,
+      "wep": 3,
+      "bwep": 71,
       "win": false,
-      "kills": 58,
+      "kills": 65,
       "ultra": 0,
       "skills": [
-        4,
+        1,
         2
       ],
       "crown": 5,
-      "version": "v2527",
+      "version": "v2602",
       "uid": null
     },
     "Vetek": {
@@ -1903,6 +1903,68 @@
       ],
       "crown": 5,
       "version": "v2527",
+      "uid": null
+    },
+    "Dees": {
+      "name": "Dees",
+      "char": 9,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 88,
+      "win": false,
+      "kills": 235,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        14,
+        27
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker529": {
+      "name": "Seeker529",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 30,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
+    },
+    "Zenon": {
+      "name": "Zenon",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 78,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        1,
+        19
+      ],
+      "crown": 5,
+      "version": "v2602",
       "uid": null
     }
   }
