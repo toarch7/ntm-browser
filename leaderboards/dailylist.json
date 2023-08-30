@@ -276,6 +276,65 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1146332116964098101": {
+      "name": "scumfucker",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 3,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        10
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1146330280274169876": {
+      "name": "Seeker720",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 63,
+      "win": false,
+      "kills": 186,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        10,
+        9,
+        23
+      ],
+      "crown": 1,
+      "version": "v2522",
+      "uid": null
+    },
+    "1146320326846857256": {
+      "name": "Дуботрах",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
