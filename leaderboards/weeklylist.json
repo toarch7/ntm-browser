@@ -2264,6 +2264,26 @@
       "crown": 5,
       "version": "v2602",
       "uid": null
+    },
+    "el": {
+      "name": "el",
+      "char": 9,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 3,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        1,
+        2
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
