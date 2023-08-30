@@ -2100,6 +2100,72 @@
       "crown": 5,
       "version": "v2527",
       "uid": null
+    },
+    "sebasito": {
+      "name": "sebasito",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 14,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
+    },
+    "BABA": {
+      "name": "BABA",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 28,
+      "bwep": 115,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        6,
+        10
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "silva": {
+      "name": "silva",
+      "char": 9,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 115,
+      "win": false,
+      "kills": 248,
+      "ultra": 0,
+      "skills": [
+        4,
+        2,
+        14,
+        1,
+        10,
+        27
+      ],
+      "crown": 5,
+      "version": "v2523",
+      "uid": null
     }
   }
 }
