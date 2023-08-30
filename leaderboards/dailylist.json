@@ -498,6 +498,66 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1146375554078081076": {
+      "name": "Lilith",
+      "char": 4,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 116,
+      "bwep": 63,
+      "win": false,
+      "kills": 321,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        14,
+        23,
+        7,
+        3
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
+    },
+    "1146367494966214706": {
+      "name": "",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 8,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        10
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1146363557731123211": {
+      "name": "RolToN",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
