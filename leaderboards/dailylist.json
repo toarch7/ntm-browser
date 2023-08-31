@@ -1078,6 +1078,88 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1146903292765544538": {
+      "name": "Ziga",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 28,
+      "bwep": 89,
+      "win": false,
+      "kills": 263,
+      "ultra": 0,
+      "skills": [
+        23,
+        17,
+        3,
+        4,
+        10,
+        26,
+        22
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1146902137406767247": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 69,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1146899054626873358": {
+      "name": "hacker123",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 4,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1146892352196190238": {
+      "name": "gleb",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 27,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
