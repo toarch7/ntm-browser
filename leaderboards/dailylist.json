@@ -1,4 +1,100 @@
 {
   "day": 31,
-  "entries": {}
+  "entries": {
+    "1146631844306100295": {
+      "name": "Seeker685",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 4,
+      "win": false,
+      "kills": 14,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1146624900258340884": {
+      "name": "Seeker712",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 7,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        23,
+        8,
+        3
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1146613802914304061": {
+      "name": "Enzo",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 66,
+      "win": false,
+      "kills": 245,
+      "ultra": 0,
+      "skills": [
+        23,
+        8,
+        9,
+        22,
+        27
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1146609252333531176": {
+      "name": "Seeker757",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 4,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1146606797801656410": {
+      "name": "fernandoflo",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    }
+  }
 }
