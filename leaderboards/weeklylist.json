@@ -2583,6 +2583,70 @@
       "crown": 5,
       "version": "v2602",
       "uid": null
+    },
+    "LisArt10": {
+      "name": "LisArt10",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 30,
+      "win": false,
+      "kills": 220,
+      "ultra": 0,
+      "skills": [
+        1,
+        21,
+        28,
+        23,
+        27
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "WEWERkot": {
+      "name": "WEWERkot",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 16,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        4,
+        2
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
+    },
+    "niger": {
+      "name": "niger",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 17,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        16
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
