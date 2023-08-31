@@ -117,12 +117,12 @@
       "char": 9,
       "skin": true,
       "area": 7,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
       "wep": 115,
-      "bwep": 77,
+      "bwep": 0,
       "win": false,
-      "kills": 278,
+      "kills": 315,
       "ultra": 0,
       "skills": [
         1,
@@ -2705,6 +2705,71 @@
       "kills": 61,
       "crown": 5,
       "version": "v2602",
+      "uid": null
+    },
+    "Nigger": {
+      "name": "Nigger",
+      "char": 9,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 115,
+      "bwep": 76,
+      "win": false,
+      "kills": 309,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        23,
+        22,
+        9,
+        6
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Vriska": {
+      "name": "Vriska",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 115,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        16,
+        6
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Blyazdets": {
+      "name": "Blyazdets",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 115,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 5,
+      "version": "v2527",
       "uid": null
     }
   }
