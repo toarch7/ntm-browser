@@ -3141,6 +3141,26 @@
       "crown": 5,
       "version": "v2602",
       "uid": null
+    },
+    "ElPibe27": {
+      "name": "ElPibe27",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 115,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
