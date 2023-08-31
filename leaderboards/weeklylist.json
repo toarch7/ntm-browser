@@ -1449,15 +1449,23 @@
       "name": "Seeker413",
       "char": 9,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
       "wep": 115,
-      "bwep": 21,
+      "bwep": 2,
       "win": false,
-      "kills": 61,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        4,
+        19,
+        14,
+        1,
+        23
+      ],
       "crown": 5,
-      "version": "v2523",
+      "version": "v2527",
       "uid": null
     },
     "Спин": {
@@ -2974,6 +2982,25 @@
       ],
       "crown": 5,
       "version": "v2527",
+      "uid": null
+    },
+    "Douuu": {
+      "name": "Douuu",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 17,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 5,
+      "version": "v2523",
       "uid": null
     }
   }
