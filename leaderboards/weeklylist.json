@@ -3040,6 +3040,68 @@
       "crown": 5,
       "version": "v2602",
       "uid": null
+    },
+    "FantonFlare03": {
+      "name": "FantonFlare03",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 72,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        1,
+        21,
+        14,
+        28
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "M3S5ER": {
+      "name": "M3S5ER",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 2,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        1,
+        19
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker628": {
+      "name": "Seeker628",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 115,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        1,
+        2
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
