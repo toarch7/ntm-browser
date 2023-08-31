@@ -587,13 +587,13 @@
       "subarea": 2,
       "loops": 0,
       "wep": 115,
-      "bwep": 17,
+      "bwep": 30,
       "win": false,
-      "kills": 155,
+      "kills": 177,
       "ultra": 0,
       "skills": [
-        1,
         21,
+        1,
         23
       ],
       "crown": 5,
@@ -2807,6 +2807,28 @@
       "skills": [
         4,
         21
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "webber": {
+      "name": "webber",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 58,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        16,
+        6
       ],
       "crown": 5,
       "version": "v2527",
