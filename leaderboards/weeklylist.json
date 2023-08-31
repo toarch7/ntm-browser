@@ -2562,6 +2562,27 @@
       "crown": 5,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker796": {
+      "name": "Seeker796",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 115,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        1,
+        16,
+        28
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
