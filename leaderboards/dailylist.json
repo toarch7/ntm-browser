@@ -1220,6 +1220,106 @@
       "crown": 5,
       "version": "v2602",
       "uid": null
+    },
+    "1147283083658285076": {
+      "name": "Throneseeker474",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        1,
+        10
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1147282200505622528": {
+      "name": "Seeker712",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1147278368174252092": {
+      "name": "voh",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        1,
+        12
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1147276023805792316": {
+      "name": "Seeker712",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1147275011393077358": {
+      "name": "Steve",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1147269961501380618": {
+      "name": "Doumier",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
