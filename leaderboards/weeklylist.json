@@ -3250,6 +3250,27 @@
       "crown": 5,
       "version": "v2602",
       "uid": null
+    },
+    "Hell-games": {
+      "name": "Hell-games",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 8,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        4,
+        19,
+        14
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
