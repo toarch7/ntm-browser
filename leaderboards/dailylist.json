@@ -554,6 +554,61 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1147148479869747250": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1147141465240248362": {
+      "name": "Seeker712",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 7,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        1,
+        19
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1147136565513044069": {
+      "name": "Принтер",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        1,
+        10
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
