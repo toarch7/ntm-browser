@@ -156,6 +156,48 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1147008850608791572": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        9
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1146998758807187538": {
+      "name": "rhoveen",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        9
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
