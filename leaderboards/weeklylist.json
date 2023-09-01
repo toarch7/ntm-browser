@@ -2061,18 +2061,19 @@
       "name": "Togbot",
       "char": 9,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 17,
-      "bwep": 115,
+      "wep": 115,
+      "bwep": 116,
       "win": false,
-      "kills": 105,
+      "kills": 130,
       "ultra": 0,
       "skills": [
         1,
         2,
-        16
+        16,
+        28
       ],
       "crown": 5,
       "version": "v2602",
@@ -3430,6 +3431,26 @@
       "skills": [
         1,
         19
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "prijrak": {
+      "name": "prijrak",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 115,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
       ],
       "crown": 5,
       "version": "v2527",
