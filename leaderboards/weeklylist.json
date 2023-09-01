@@ -3626,6 +3626,46 @@
       "crown": 5,
       "version": "v2527",
       "uid": null
+    },
+    "PinWii": {
+      "name": "PinWii",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 8,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        14
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "balux": {
+      "name": "balux",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 78,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

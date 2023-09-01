@@ -1065,6 +1065,45 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1147248177322393702": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1147239062353235988": {
+      "name": "Marko",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 1,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        1,
+        12
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
