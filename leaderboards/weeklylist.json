@@ -2539,10 +2539,10 @@
       "area": 3,
       "subarea": 3,
       "loops": 0,
-      "wep": 115,
-      "bwep": 21,
+      "wep": 16,
+      "bwep": 115,
       "win": false,
-      "kills": 53,
+      "kills": 107,
       "ultra": 0,
       "skills": [
         1,
@@ -3270,6 +3270,47 @@
       ],
       "crown": 5,
       "version": "v2527",
+      "uid": null
+    },
+    "Throneseeker858": {
+      "name": "Throneseeker858",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 4,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        14
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker436": {
+      "name": "Seeker436",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 0,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        1,
+        2
+      ],
+      "crown": 5,
+      "version": "v2602",
       "uid": null
     }
   }
