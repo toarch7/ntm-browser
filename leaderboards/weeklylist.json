@@ -3312,6 +3312,67 @@
       "crown": 5,
       "version": "v2602",
       "uid": null
+    },
+    "gigachertila": {
+      "name": "gigachertila",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 17,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Thronian2512": {
+      "name": "Thronian2512",
+      "char": 9,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 58,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        6
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker573": {
+      "name": "Seeker573",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 17,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        1,
+        28
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
