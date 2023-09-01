@@ -3148,17 +3148,19 @@
       "name": "ElPibe27",
       "char": 9,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 6,
+      "wep": 14,
       "bwep": 115,
       "win": false,
-      "kills": 93,
+      "kills": 202,
       "ultra": 0,
       "skills": [
         1,
-        21
+        21,
+        23,
+        27
       ],
       "crown": 5,
       "version": "v2527",
@@ -3482,18 +3484,19 @@
       "name": "20drog3r45",
       "char": 9,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 115,
-      "bwep": 30,
+      "wep": 63,
+      "bwep": 115,
       "win": false,
-      "kills": 125,
+      "kills": 168,
       "ultra": 0,
       "skills": [
         4,
         21,
-        1
+        1,
+        23
       ],
       "crown": 5,
       "version": "v2602",
@@ -3578,6 +3581,47 @@
       "skills": [
         1,
         2
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Хайзенбургер": {
+      "name": "Хайзенбургер",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 0,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "-Лемон-": {
+      "name": "-Лемон-",
+      "char": 9,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 116,
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        4,
+        21,
+        1
       ],
       "crown": 5,
       "version": "v2527",

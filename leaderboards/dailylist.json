@@ -931,6 +931,140 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1147238002863644823": {
+      "name": "Seeker712",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1147236900835426385": {
+      "name": "Seeker712",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        1,
+        19
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1147233283579584623": {
+      "name": "Seeker413",
+      "char": 8,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 7,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        7,
+        12,
+        9
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1147229644504957070": {
+      "name": "Seeker082",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        28,
+        3
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1147229019247493181": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 66,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        1,
+        3
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1147228836686221434": {
+      "name": "Throneseeker946",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1147227296441307176": {
+      "name": "NuncaNemVi",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
