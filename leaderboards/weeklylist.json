@@ -3498,6 +3498,70 @@
       "crown": 5,
       "version": "v2602",
       "uid": null
+    },
+    "frostbite": {
+      "name": "frostbite",
+      "char": 9,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 72,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        1,
+        16,
+        6
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "IceKiller3000": {
+      "name": "IceKiller3000",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 16,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        1,
+        2
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
+    },
+    "Mikuo": {
+      "name": "Mikuo",
+      "char": 9,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 26,
+      "win": false,
+      "kills": 254,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        23,
+        27,
+        22
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
