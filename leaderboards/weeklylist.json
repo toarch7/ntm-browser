@@ -2991,13 +2991,13 @@
       "name": "Douuu",
       "char": 9,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 115,
-      "bwep": 17,
+      "wep": 8,
+      "bwep": 6,
       "win": false,
-      "kills": 59,
+      "kills": 63,
       "ultra": 0,
       "skills": [
         19
@@ -3558,6 +3558,26 @@
         23,
         27,
         22
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Main": {
+      "name": "Main",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 7,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        1,
+        2
       ],
       "crown": 5,
       "version": "v2527",
