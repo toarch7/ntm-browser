@@ -243,17 +243,20 @@
       "char": 9,
       "skin": true,
       "area": 5,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 71,
-      "bwep": 115,
+      "wep": 115,
+      "bwep": 17,
       "win": false,
-      "kills": 174,
+      "kills": 211,
       "ultra": 0,
       "skills": [
-        1,
+        4,
         19,
-        14
+        14,
+        6,
+        10,
+        22
       ],
       "crown": 5,
       "version": "v2602",
@@ -4095,6 +4098,26 @@
       ],
       "crown": 5,
       "version": "v2527",
+      "uid": null
+    },
+    "Spectrum": {
+      "name": "Spectrum",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 21,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        1,
+        19
+      ],
+      "crown": 5,
+      "version": "v2602",
       "uid": null
     }
   }
