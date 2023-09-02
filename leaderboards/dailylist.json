@@ -607,6 +607,107 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1147477475262218271": {
+      "name": "Throneseeker413",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 21,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1147476252119273662": {
+      "name": "kwazar",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1147471905469780008": {
+      "name": "Ziga",
+      "char": 9,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 112,
+      "win": false,
+      "kills": 237,
+      "ultra": 0,
+      "skills": [
+        23,
+        6,
+        4,
+        10,
+        7
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null
+    },
+    "1147468388193533993": {
+      "name": "Seeker049",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1147467444663885855": {
+      "name": "Groudon",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 57,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        4
+      ],
+      "crown": 4,
+      "version": "v2523",
+      "uid": null
     }
   }
 }
