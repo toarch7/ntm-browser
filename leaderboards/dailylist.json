@@ -386,6 +386,53 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1147413512851824691": {
+      "name": "User_.906",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 112,
+      "win": false,
+      "kills": 219,
+      "ultra": 0,
+      "skills": [
+        23,
+        27,
+        3,
+        10
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1147407111907721276": {
+      "name": "Принтер",
+      "char": 8,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 53,
+      "bwep": 110,
+      "win": false,
+      "kills": 309,
+      "ultra": 0,
+      "skills": [
+        14,
+        27,
+        4,
+        10,
+        7,
+        1,
+        23
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
