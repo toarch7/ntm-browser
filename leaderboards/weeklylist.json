@@ -628,15 +628,16 @@
       "char": 9,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 115,
-      "bwep": 16,
+      "wep": 16,
+      "bwep": 115,
       "win": false,
-      "kills": 72,
+      "kills": 98,
       "ultra": 0,
       "skills": [
-        1
+        1,
+        19
       ],
       "crown": 5,
       "version": "v2602",
@@ -4118,6 +4119,45 @@
       ],
       "crown": 5,
       "version": "v2602",
+      "uid": null
+    },
+    "Seeker253": {
+      "name": "Seeker253",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 0,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        1,
+        19
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
+    },
+    "METAL": {
+      "name": "METAL",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 0,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 5,
+      "version": "v2527",
       "uid": null
     }
   }
