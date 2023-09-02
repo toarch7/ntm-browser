@@ -3912,6 +3912,48 @@
       "crown": 5,
       "version": "v2602",
       "uid": null
+    },
+    "Деда": {
+      "name": "Деда",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 0,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        14
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Dark": {
+      "name": "Dark",
+      "char": 9,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 17,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        28
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
