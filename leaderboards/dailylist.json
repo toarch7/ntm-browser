@@ -551,6 +551,62 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1147461483177980045": {
+      "name": "Seeker541",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1147460289219014697": {
+      "name": "Lilith",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 57,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        3
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
+    },
+    "1147456942420283463": {
+      "name": "Seeker082",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        14,
+        28
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
