@@ -2480,17 +2480,18 @@
       "name": "Seeker971",
       "char": 9,
       "skin": true,
-      "area": 4,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
       "wep": 115,
-      "bwep": 21,
+      "bwep": 23,
       "win": false,
-      "kills": 30,
+      "kills": 126,
       "ultra": 0,
       "skills": [
-        4,
-        19
+        1,
+        19,
+        28
       ],
       "crown": 5,
       "version": "v2527",
