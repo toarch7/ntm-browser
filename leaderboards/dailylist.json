@@ -275,6 +275,75 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1147776825108463706": {
+      "name": "даун",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 75,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        27,
+        6
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1147768700766793861": {
+      "name": "Принтер",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 11,
+      "win": false,
+      "kills": 283,
+      "ultra": 0,
+      "skills": [
+        27,
+        16,
+        14,
+        10,
+        26,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1147767624827158618": {
+      "name": "Sharashckin",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 26,
+      "win": false,
+      "kills": 278,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        7,
+        25,
+        10,
+        13,
+        8
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }

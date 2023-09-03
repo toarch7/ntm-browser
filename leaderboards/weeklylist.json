@@ -4369,6 +4369,25 @@
       "crown": 5,
       "version": "v2602",
       "uid": null
+    },
+    "ImPolar": {
+      "name": "ImPolar",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 21,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
