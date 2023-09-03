@@ -4466,6 +4466,86 @@
       "crown": 5,
       "version": "v2602",
       "uid": null
+    },
+    "Seeker540": {
+      "name": "Seeker540",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 63,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        26
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
+    },
+    "BREAD": {
+      "name": "BREAD",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 14,
+      "win": false,
+      "kills": 207,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        23,
+        27
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Throneseeker323": {
+      "name": "Throneseeker323",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 115,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        1,
+        19
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker477": {
+      "name": "Seeker477",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 0,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
     }
   }
 }

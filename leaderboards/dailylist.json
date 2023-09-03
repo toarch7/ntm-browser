@@ -685,6 +685,116 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "1147874582779400232": {
+      "name": "BREAD",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 64,
+      "bwep": 54,
+      "win": false,
+      "kills": 468,
+      "ultra": 2,
+      "skills": [
+        27,
+        6,
+        10,
+        12,
+        28,
+        17,
+        1
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
+    },
+    "1147865532394131526": {
+      "name": "Throneseeker323",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 11,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        27,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1147862668284264590": {
+      "name": "Seeker712",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 17,
+      "win": false,
+      "kills": 121,
+      "ultra": 0,
+      "skills": [
+        27,
+        6,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "Tzg4bVfrQTVpZCw": {
+      "name": "SKU",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 95,
+      "win": false,
+      "kills": 1501,
+      "ultra": 1,
+      "skills": [
+        27,
+        22,
+        25,
+        7,
+        13,
+        26,
+        1
+      ],
+      "crown": 7,
+      "version": "v2610",
+      "uid": "Tzg4bVfrQTVpZCw"
+    },
+    "1147860017010180107": {
+      "name": "Seeker477",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
