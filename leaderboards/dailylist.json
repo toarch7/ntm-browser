@@ -642,6 +642,49 @@
       "crown": 1,
       "version": "v2610",
       "uid": "8j155aHppK4vVcs"
+    },
+    "1147832612736467044": {
+      "name": "Throneseeker413",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1147829568514826330": {
+      "name": "Lilith",
+      "char": 3,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 77,
+      "win": false,
+      "kills": 1685,
+      "ultra": 2,
+      "skills": [
+        27,
+        22,
+        25,
+        7,
+        12,
+        8,
+        21,
+        1
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
