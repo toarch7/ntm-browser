@@ -4607,6 +4607,48 @@
       "crown": 5,
       "version": "v2527",
       "uid": null
+    },
+    "nel02": {
+      "name": "nel02",
+      "char": 9,
+      "skin": true,
+      "area": 105,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 2,
+      "win": false,
+      "kills": 196,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        14,
+        23
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Engel": {
+      "name": "Engel",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 16,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        1,
+        2
+      ],
+      "crown": 5,
+      "version": "v2522",
+      "uid": null
     }
   }
 }
