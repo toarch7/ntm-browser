@@ -4374,19 +4374,43 @@
       "name": "ImPolar",
       "char": 9,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 115,
-      "bwep": 21,
+      "wep": 119,
+      "bwep": 9,
       "win": false,
-      "kills": 55,
+      "kills": 183,
       "ultra": 0,
       "skills": [
-        1
+        4,
+        19,
+        1,
+        10,
+        6
       ],
       "crown": 5,
       "version": "v2527",
+      "uid": null
+    },
+    "Seeker654": {
+      "name": "Seeker654",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 0,
+      "bwep": 0,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
+      ],
+      "crown": 5,
+      "version": "v2602",
       "uid": null
     }
   }
