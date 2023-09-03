@@ -2483,16 +2483,10 @@
       "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 115,
-      "bwep": 23,
+      "wep": 55,
+      "bwep": 15,
       "win": false,
-      "kills": 126,
-      "ultra": 0,
-      "skills": [
-        1,
-        19,
-        28
-      ],
+      "kills": 134,
       "crown": 5,
       "version": "v2527",
       "uid": null
@@ -4408,6 +4402,46 @@
       "skills": [
         1,
         21
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
+    },
+    "Drīa": {
+      "name": "Drīa",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 115,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        1,
+        19
+      ],
+      "crown": 5,
+      "version": "v2523",
+      "uid": null
+    },
+    "Seeker326": {
+      "name": "Seeker326",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 115,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        1,
+        19
       ],
       "crown": 5,
       "version": "v2602",
