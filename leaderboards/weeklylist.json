@@ -1237,18 +1237,19 @@
       "name": "joda",
       "char": 9,
       "skin": true,
-      "area": 104,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
       "wep": 115,
-      "bwep": 50,
+      "bwep": 37,
       "win": false,
-      "kills": 125,
+      "kills": 146,
       "ultra": 0,
       "skills": [
-        4,
+        1,
         14,
-        1
+        28,
+        10
       ],
       "crown": 5,
       "version": "v2602",
@@ -4561,6 +4562,26 @@
       "ultra": 0,
       "skills": [
         1,
+        19
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Camilo": {
+      "name": "Camilo",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 14,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        4,
         19
       ],
       "crown": 5,
