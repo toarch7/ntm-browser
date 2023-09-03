@@ -4690,6 +4690,27 @@
       "crown": 5,
       "version": "v2602",
       "uid": null
+    },
+    "/load": {
+      "name": "/load",
+      "char": 9,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 6,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        1,
+        21,
+        28
+      ],
+      "crown": 5,
+      "version": "v2523",
+      "uid": null
     }
   }
 }
