@@ -753,6 +753,99 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1148237855437627402": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 0,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        9,
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148235013930885120": {
+      "name": "Groudon",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 23,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        1,
+        8
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1148230029222883439": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148229300546449500": {
+      "name": "Sharashckin",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 3,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        9,
+        1,
+        17
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1148220788063871026": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
