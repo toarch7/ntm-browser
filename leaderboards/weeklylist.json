@@ -5077,6 +5077,69 @@
       "crown": 5,
       "version": "v2527",
       "uid": null
+    },
+    "кот": {
+      "name": "кот",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 115,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        28
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Scrotum": {
+      "name": "Scrotum",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 19,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        1,
+        2
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Frike": {
+      "name": "Frike",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 15,
+      "win": false,
+      "kills": 188,
+      "ultra": 0,
+      "skills": [
+        4,
+        21,
+        1,
+        10
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

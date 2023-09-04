@@ -1201,6 +1201,87 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1148324063886975006": {
+      "name": "Lilith",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 35,
+      "win": false,
+      "kills": 185,
+      "ultra": 0,
+      "skills": [
+        9,
+        1,
+        17,
+        7
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148313940485476414": {
+      "name": "Faiddy",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 39,
+      "win": false,
+      "kills": 15,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148311212937977946": {
+      "name": "FantonFlare03",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 23,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        19,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148311190829809735": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 13,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        9,
+        1
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
     }
   }
 }
