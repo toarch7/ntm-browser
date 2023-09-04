@@ -2996,10 +2996,10 @@
       "area": 3,
       "subarea": 2,
       "loops": 0,
-      "wep": 0,
-      "bwep": 0,
+      "wep": 69,
+      "bwep": 14,
       "win": false,
-      "kills": 88,
+      "kills": 89,
       "ultra": 0,
       "skills": [
         19
@@ -4752,6 +4752,26 @@
       ],
       "crown": 5,
       "version": "v2602",
+      "uid": null
+    },
+    "kwazar": {
+      "name": "kwazar",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 0,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
+      ],
+      "crown": 5,
+      "version": "v2527",
       "uid": null
     }
   }
