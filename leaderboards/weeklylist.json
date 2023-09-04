@@ -547,15 +547,10 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 115,
-      "bwep": 3,
+      "wep": 17,
+      "bwep": 115,
       "win": false,
-      "kills": 50,
-      "ultra": 0,
-      "skills": [
-        1,
-        19
-      ],
+      "kills": 61,
       "crown": 5,
       "version": "v2602",
       "uid": null
@@ -4852,6 +4847,25 @@
       "ultra": 0,
       "skills": [
         4
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
+    },
+    "elena228uwu": {
+      "name": "elena228uwu",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 17,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        19
       ],
       "crown": 5,
       "version": "v2602",
