@@ -1371,6 +1371,61 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1148350162582900807": {
+      "name": "offenderdemon",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 7,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        19,
+        7,
+        17
+      ],
+      "crown": 4,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148345496507777175": {
+      "name": "juas",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148343588267233490": {
+      "name": "Seeker521",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 52,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
