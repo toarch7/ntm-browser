@@ -4929,6 +4929,47 @@
       "crown": 5,
       "version": "v2527",
       "uid": null
+    },
+    "SpamtonNeo1997": {
+      "name": "SpamtonNeo1997",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 0,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        4,
+        21
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "Hunter": {
+      "name": "Hunter",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 28,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        23
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
