@@ -2973,12 +2973,12 @@
       "char": 9,
       "skin": true,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
       "wep": 14,
       "bwep": 115,
       "win": false,
-      "kills": 93,
+      "kills": 99,
       "ultra": 0,
       "skills": [
         1,
@@ -3985,16 +3985,19 @@
       "name": "dungeon",
       "char": 9,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 3,
       "loops": 0,
       "wep": 115,
       "bwep": 30,
       "win": false,
-      "kills": 104,
+      "kills": 201,
       "ultra": 0,
       "skills": [
-        1
+        1,
+        21,
+        23,
+        27
       ],
       "crown": 5,
       "version": "v2527",
@@ -4969,6 +4972,26 @@
       ],
       "crown": 5,
       "version": "v2527",
+      "uid": null
+    },
+    "Seeker555": {
+      "name": "Seeker555",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 52,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        4,
+        19
+      ],
+      "crown": 5,
+      "version": "v2602",
       "uid": null
     }
   }
