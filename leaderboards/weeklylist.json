@@ -4837,6 +4837,25 @@
       "crown": 5,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker061": {
+      "name": "Seeker061",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 3,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 5,
+      "version": "v2602",
+      "uid": null
     }
   }
 }

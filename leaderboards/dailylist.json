@@ -623,6 +623,85 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1148203039027626004": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 13,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148199944231059456": {
+      "name": "Throneseeker413",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 70,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        9,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148194401873576006": {
+      "name": "имморталсанс",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 39,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        9,
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148192804871352400": {
+      "name": "Throneseeker",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 23,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        9,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
