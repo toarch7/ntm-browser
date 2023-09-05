@@ -309,6 +309,151 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "1148505274018172960": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 27,
+      "win": false,
+      "kills": 21,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148503290900922399": {
+      "name": "Вова",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 1,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        16,
+        19,
+        6
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1148503024822657094": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 52,
+      "bwep": 112,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        8,
+        19,
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148497586160939090": {
+      "name": "Seeker046",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 27,
+      "win": false,
+      "kills": 27,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1148495862213910548": {
+      "name": "Seeker815",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 112,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        8,
+        19,
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148493617581793320": {
+      "name": "Qtaster",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 19,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        25,
+        17,
+        23
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148491277025939456": {
+      "name": "Seeker712",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 19,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        25,
+        9,
+        13
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
     }
   }
 }
