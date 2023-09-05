@@ -1414,17 +1414,20 @@
       "name": "Seeker170",
       "char": 5,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 69,
-      "bwep": 70,
+      "wep": 70,
+      "bwep": 69,
       "win": false,
-      "kills": 56,
+      "kills": 297,
       "ultra": 0,
       "skills": [
+        8,
+        9,
         7,
-        24
+        14,
+        27
       ],
       "crown": 9,
       "version": "v2602",
@@ -1624,6 +1627,27 @@
       "skills": [
         7,
         6
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "ElPibe27": {
+      "name": "ElPibe27",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        10
       ],
       "crown": 9,
       "version": "v2527",
