@@ -1427,6 +1427,118 @@
       "crown": 9,
       "version": "v2602",
       "uid": null
+    },
+    "Luis": {
+      "name": "Luis",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 21,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        14,
+        9,
+        23
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "8j155aHppK4vVcs": {
+      "name": "EvilCat",
+      "char": 5,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 6,
+      "win": false,
+      "kills": 282,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        27,
+        7,
+        4,
+        9
+      ],
+      "crown": 9,
+      "version": "v2610",
+      "uid": "8j155aHppK4vVcs"
+    },
+    "Seeker379": {
+      "name": "Seeker379",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 69,
+      "win": false,
+      "kills": 118,
+      "ultra": 0,
+      "skills": [
+        23,
+        6,
+        12
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
+    },
+    "Выживальщик": {
+      "name": "Выживальщик",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        8,
+        6
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Tzg4bVfrQTVpZCw": {
+      "name": "SKU",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 107,
+      "bwep": 113,
+      "win": false,
+      "kills": 596,
+      "ultra": 2,
+      "skills": [
+        23,
+        25,
+        27,
+        8,
+        7,
+        4,
+        10,
+        3
+      ],
+      "crown": 9,
+      "version": "v2610",
+      "uid": "Tzg4bVfrQTVpZCw"
     }
   }
 }
