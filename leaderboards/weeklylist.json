@@ -1324,20 +1324,88 @@
       "name": "РЫБАЧЛЕНОФИЛ",
       "char": 5,
       "skin": false,
-      "area": 2,
+      "area": 105,
       "subarea": 1,
       "loops": 0,
       "wep": 70,
-      "bwep": 7,
+      "bwep": 0,
       "win": false,
-      "kills": 61,
+      "kills": 168,
       "ultra": 0,
       "skills": [
-        23,
-        25
+        7,
+        25,
+        4,
+        14
       ],
       "crown": 9,
       "version": "v2527",
+      "uid": null
+    },
+    "Toro": {
+      "name": "Toro",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 2,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        12,
+        16
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Throneseeker524": {
+      "name": "Throneseeker524",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 70,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        8,
+        9
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "silva": {
+      "name": "silva",
+      "char": 5,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 70,
+      "win": false,
+      "kills": 316,
+      "ultra": 0,
+      "skills": [
+        8,
+        25,
+        27,
+        4,
+        1,
+        10
+      ],
+      "crown": 9,
+      "version": "v2523",
       "uid": null
     }
   }
