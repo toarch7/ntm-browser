@@ -1407,6 +1407,26 @@
       "crown": 9,
       "version": "v2523",
       "uid": null
+    },
+    "Seeker170": {
+      "name": "Seeker170",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 70,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        7,
+        24
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
