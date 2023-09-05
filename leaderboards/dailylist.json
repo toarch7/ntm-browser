@@ -1218,6 +1218,84 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1148717823661715478": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": "v2522",
+      "uid": null
+    },
+    "1148709949506076752": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 13,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        8,
+        13,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148708029240451092": {
+      "name": "kimich",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 75,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        8,
+        13,
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148707787514331166": {
+      "name": "WolfisKing",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 27,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        8,
+        24
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }

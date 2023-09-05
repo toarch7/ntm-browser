@@ -240,23 +240,25 @@
     },
     "joda": {
       "name": "joda",
-      "char": 9,
-      "skin": true,
+      "char": 5,
+      "skin": false,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 115,
-      "bwep": 37,
+      "wep": 70,
+      "bwep": 7,
       "win": false,
-      "kills": 148,
+      "kills": 224,
       "ultra": 0,
       "skills": [
-        1,
         14,
-        6,
+        25,
+        27,
+        8,
+        7,
         10
       ],
-      "crown": 5,
+      "crown": 9,
       "version": "v2602",
       "uid": null
     },
@@ -1605,6 +1607,26 @@
       ],
       "crown": 9,
       "version": "v2602",
+      "uid": null
+    },
+    "Dante": {
+      "name": "Dante",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 70,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        7,
+        6
+      ],
+      "crown": 9,
+      "version": "v2527",
       "uid": null
     }
   }
