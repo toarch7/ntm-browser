@@ -782,6 +782,96 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1148611793204281384": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 27,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148611439121137855": {
+      "name": "bengamole",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148604050137436252": {
+      "name": "Throneseeker216",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 27,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        25,
+        19
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148602901992845312": {
+      "name": "Pixelboi321",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 5,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        8,
+        13,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148600782090944612": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 21,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
