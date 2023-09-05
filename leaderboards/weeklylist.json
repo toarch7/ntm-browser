@@ -1539,6 +1539,73 @@
       "crown": 9,
       "version": "v2610",
       "uid": "Tzg4bVfrQTVpZCw"
+    },
+    "FantonFlare03": {
+      "name": "FantonFlare03",
+      "char": 5,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 70,
+      "bwep": 21,
+      "win": false,
+      "kills": 318,
+      "ultra": 0,
+      "skills": [
+        8,
+        25,
+        12,
+        7,
+        14,
+        9,
+        10,
+        4
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "snake": {
+      "name": "snake",
+      "char": 5,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        8
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker157.70": {
+      "name": "Seeker157.70",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 5,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        7,
+        6
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
