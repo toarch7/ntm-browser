@@ -1145,6 +1145,70 @@
       "crown": 9,
       "version": "v2527",
       "uid": null
+    },
+    "": {
+      "name": "",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 21,
+      "win": false,
+      "kills": 186,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        10,
+        8,
+        4
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Я": {
+      "name": "Я",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 3,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        8
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Hunter": {
+      "name": "Hunter",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        7,
+        6
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
