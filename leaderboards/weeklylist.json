@@ -1125,6 +1125,26 @@
       "crown": 9,
       "version": "v2527",
       "uid": null
+    },
+    "lolikk": {
+      "name": "lolikk",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        8,
+        24
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
