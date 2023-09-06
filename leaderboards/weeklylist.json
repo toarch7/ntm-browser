@@ -1869,6 +1869,26 @@
       "crown": 9,
       "version": "v2527",
       "uid": null
+    },
+    "ROD": {
+      "name": "ROD",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 69,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        7,
+        6
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
