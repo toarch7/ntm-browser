@@ -1889,6 +1889,27 @@
       "crown": 9,
       "version": "v2527",
       "uid": null
+    },
+    "Mappen": {
+      "name": "Mappen",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 5,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        12
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
