@@ -1910,6 +1910,50 @@
       "crown": 9,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker779": {
+      "name": "Seeker779",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 70,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "mafiasoul": {
+      "name": "mafiasoul",
+      "char": 5,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 70,
+      "win": false,
+      "kills": 303,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        12,
+        16,
+        4,
+        27
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
     }
   }
 }

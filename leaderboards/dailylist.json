@@ -243,6 +243,47 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1148863881385607290": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1148855687921815572": {
+      "name": "Sharashckin",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 39,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        22,
+        9,
+        7,
+        13
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
