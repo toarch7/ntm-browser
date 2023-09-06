@@ -1693,6 +1693,134 @@
       "crown": 9,
       "version": "v2602",
       "uid": null
+    },
+    "javier212": {
+      "name": "javier212",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 70,
+      "win": false,
+      "kills": 192,
+      "ultra": 0,
+      "skills": [
+        7,
+        6,
+        8,
+        12,
+        4
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Br": {
+      "name": "Br",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 70,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        8,
+        25
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
+    },
+    "/load": {
+      "name": "/load",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 70,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        14,
+        9,
+        7
+      ],
+      "crown": 9,
+      "version": "v2523",
+      "uid": null
+    },
+    "seven": {
+      "name": "seven",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 5,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        12,
+        9
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker655": {
+      "name": "Seeker655",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 21,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        8,
+        24,
+        23
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
+    },
+    "CrotyXen9": {
+      "name": "CrotyXen9",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 69,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        14,
+        25,
+        4
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
