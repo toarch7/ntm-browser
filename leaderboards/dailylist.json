@@ -1033,6 +1033,125 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1149049250894852137": {
+      "name": "Seeker712",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 20,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1149049177003798588": {
+      "name": "Scrotum",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 3,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        25,
+        14,
+        2,
+        7,
+        13
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1149048252369469532": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 3,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        3,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1149041844366348288": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 16,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1149039644491653190": {
+      "name": "Seeker932",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 16,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1149035330398334976": {
+      "name": "Neptune",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 15,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
