@@ -947,18 +947,21 @@
       "name": "Dhykzard_How",
       "char": 5,
       "skin": false,
-      "area": 3,
-      "subarea": 2,
+      "area": 5,
+      "subarea": 1,
       "loops": 0,
-      "wep": 70,
-      "bwep": 0,
+      "wep": 38,
+      "bwep": 70,
       "win": false,
-      "kills": 117,
+      "kills": 167,
       "ultra": 0,
       "skills": [
         8,
         25,
-        10
+        27,
+        12,
+        9,
+        14
       ],
       "crown": 9,
       "version": "v2602",
@@ -2031,6 +2034,67 @@
       "skills": [
         23,
         6
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
+    },
+    "kwazar": {
+      "name": "kwazar",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        7,
+        6,
+        8
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker046": {
+      "name": "Seeker046",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 69,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        7,
+        24
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
+    },
+    "peel": {
+      "name": "peel",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 5,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        23,
+        9
       ],
       "crown": 9,
       "version": "v2602",
