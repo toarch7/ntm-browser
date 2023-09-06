@@ -2099,6 +2099,68 @@
       "crown": 9,
       "version": "v2602",
       "uid": null
+    },
+    "Throneseeker452": {
+      "name": "Throneseeker452",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        8,
+        9,
+        12
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "anbu": {
+      "name": "anbu",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        23
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
+    },
+    "Crystalrebel": {
+      "name": "Crystalrebel",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 69,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        14,
+        6
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
