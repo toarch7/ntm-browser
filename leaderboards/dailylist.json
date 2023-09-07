@@ -1311,6 +1311,95 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1149410778798112819": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1149410081386024990": {
+      "name": "offenderdemon",
+      "char": 8,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 27,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1149408764777209868": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 26,
+      "win": false,
+      "kills": 314,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        14,
+        12,
+        16
+      ],
+      "crown": 10,
+      "version": "v2527",
+      "uid": null
+    },
+    "1149404701931077722": {
+      "name": "Groudon",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 10,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1149401036990201996": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 19,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

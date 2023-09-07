@@ -2809,6 +2809,26 @@
       "crown": 9,
       "version": "v2527",
       "uid": null
+    },
+    "josh": {
+      "name": "josh",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 69,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        8,
+        9
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
