@@ -2519,6 +2519,27 @@
       "crown": 9,
       "version": "v2602",
       "uid": null
+    },
+    "HvRctpMF4nukRh9": {
+      "name": "Czimbala",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 6,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        23,
+        6,
+        7
+      ],
+      "crown": 9,
+      "version": "v2610",
+      "uid": "HvRctpMF4nukRh9"
     }
   }
 }
