@@ -1588,6 +1588,104 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1149484696959463594": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 25,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1149484270340026398": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 89,
+      "win": false,
+      "kills": 192,
+      "ultra": 0,
+      "skills": [
+        4,
+        22,
+        8,
+        25,
+        7,
+        12
+      ],
+      "crown": 1,
+      "version": "v2522",
+      "uid": null
+    },
+    "1149480112811675679": {
+      "name": "panquesito",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 21,
+      "win": false,
+      "kills": 298,
+      "ultra": 0,
+      "skills": [
+        3,
+        7,
+        1,
+        25,
+        14,
+        28,
+        16
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1149479317902999652": {
+      "name": "РЫБАЧЛЕНОФИЛ",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1149474182229397536": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 18,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
