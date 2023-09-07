@@ -674,18 +674,19 @@
       "name": "Seeker114",
       "char": 5,
       "skin": false,
-      "area": 3,
-      "subarea": 2,
+      "area": 5,
+      "subarea": 1,
       "loops": 0,
-      "wep": 5,
-      "bwep": 70,
+      "wep": 70,
+      "bwep": 71,
       "win": false,
-      "kills": 96,
+      "kills": 171,
       "ultra": 0,
       "skills": [
         7,
-        25,
-        27
+        6,
+        16,
+        14
       ],
       "crown": 9,
       "version": "v2602",
@@ -2702,6 +2703,67 @@
       ],
       "crown": 9,
       "version": "v2527",
+      "uid": null
+    },
+    "Seeker891": {
+      "name": "Seeker891",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 70,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        8
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
+    },
+    "-Лемон-": {
+      "name": "-Лемон-",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 5,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        8,
+        9
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Bizqued": {
+      "name": "Bizqued",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 70,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        8,
+        9
+      ],
+      "crown": 9,
+      "version": "v2602",
       "uid": null
     }
   }
