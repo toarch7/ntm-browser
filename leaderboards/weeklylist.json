@@ -27,21 +27,23 @@
       "name": "Seeker712",
       "char": 5,
       "skin": false,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 47,
+      "wep": 70,
       "bwep": 71,
       "win": false,
-      "kills": 243,
+      "kills": 313,
       "ultra": 0,
       "skills": [
-        14,
+        7,
         25,
+        27,
+        13,
+        9,
         4,
-        23,
-        12,
-        1
+        10,
+        23
       ],
       "crown": 9,
       "version": "v2527",
@@ -2764,6 +2766,26 @@
       ],
       "crown": 9,
       "version": "v2602",
+      "uid": null
+    },
+    "Yisus": {
+      "name": "Yisus",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        23,
+        9
+      ],
+      "crown": 9,
+      "version": "v2523",
       "uid": null
     }
   }
