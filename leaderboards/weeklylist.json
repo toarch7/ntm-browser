@@ -2642,6 +2642,26 @@
       "crown": 9,
       "version": "v2527",
       "uid": null
+    },
+    "Stinky": {
+      "name": "Stinky",
+      "char": 5,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 27,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        8,
+        6
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

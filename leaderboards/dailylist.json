@@ -853,6 +853,42 @@
       "crown": 1,
       "version": "v2522",
       "uid": null
+    },
+    "1149334356649840681": {
+      "name": "Stinky",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 28,
+      "bwep": 41,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        7,
+        22,
+        8
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1149334159362359346": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 21,
+      "win": false,
+      "kills": 23,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
