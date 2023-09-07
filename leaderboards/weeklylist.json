@@ -51,23 +51,25 @@
       "name": "Throneseeker413",
       "char": 5,
       "skin": false,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 69,
+      "wep": 11,
       "bwep": 70,
       "win": false,
-      "kills": 208,
+      "kills": 305,
       "ultra": 0,
       "skills": [
         8,
         25,
+        27,
+        23,
+        7,
         4,
-        12,
-        16
+        26
       ],
       "crown": 9,
-      "version": "v2527",
+      "version": "v2602",
       "uid": null
     },
     "Franhacker10": {
@@ -2540,6 +2542,26 @@
       "crown": 9,
       "version": "v2610",
       "uid": "HvRctpMF4nukRh9"
+    },
+    "Seeker157": {
+      "name": "Seeker157",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 70,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
