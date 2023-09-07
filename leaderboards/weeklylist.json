@@ -2582,6 +2582,66 @@
       "crown": 9,
       "version": "v2527",
       "uid": null
+    },
+    "YourAss": {
+      "name": "YourAss",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        23,
+        9
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
+    },
+    "DeezNuts": {
+      "name": "DeezNuts",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 70,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        7,
+        6
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "ARES": {
+      "name": "ARES",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 70,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        14,
+        25
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
