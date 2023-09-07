@@ -2662,6 +2662,47 @@
       "crown": 9,
       "version": "v2527",
       "uid": null
+    },
+    "Chris": {
+      "name": "Chris",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 5,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        8
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "ssaniysicker": {
+      "name": "ssaniysicker",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 70,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
