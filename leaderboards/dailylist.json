@@ -269,6 +269,90 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1149200523837313136": {
+      "name": "Вова",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1149199625333518336": {
+      "name": "СПУТНХ",
+      "char": 3,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 89,
+      "win": false,
+      "kills": 307,
+      "ultra": 0,
+      "skills": [
+        12,
+        22,
+        8,
+        14,
+        19,
+        16
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1149196615064760320": {
+      "name": "LisArt10",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 30,
+      "win": false,
+      "kills": 118,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        25
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1149194974185914428": {
+      "name": "diamaflor777",
+      "char": 2,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 30,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        7,
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

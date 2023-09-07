@@ -2478,6 +2478,47 @@
       "crown": 9,
       "version": "v2523",
       "uid": null
+    },
+    "diamaflor777": {
+      "name": "diamaflor777",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        7,
+        25
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker067": {
+      "name": "Seeker067",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 70,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        17
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
