@@ -2562,6 +2562,26 @@
       "crown": 9,
       "version": "v2602",
       "uid": null
+    },
+    "brzxo": {
+      "name": "brzxo",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        8,
+        25
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
