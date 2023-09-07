@@ -2852,6 +2852,47 @@
       "crown": 9,
       "version": "v2527",
       "uid": null
+    },
+    "Neptune": {
+      "name": "Neptune",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 70,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        23,
+        6,
+        12
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker392.69": {
+      "name": "Seeker392.69",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        14,
+        6
+      ],
+      "crown": 9,
+      "version": "v2522",
+      "uid": null
     }
   }
 }
