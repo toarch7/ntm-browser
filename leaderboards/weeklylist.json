@@ -672,16 +672,17 @@
       "char": 5,
       "skin": false,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 70,
-      "bwep": 0,
+      "wep": 5,
+      "bwep": 70,
       "win": false,
-      "kills": 72,
+      "kills": 96,
       "ultra": 0,
       "skills": [
         7,
-        9
+        25,
+        27
       ],
       "crown": 9,
       "version": "v2602",
@@ -2452,6 +2453,29 @@
       ],
       "crown": 9,
       "version": "v2602",
+      "uid": null
+    },
+    "Groudon": {
+      "name": "Groudon",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 71,
+      "win": false,
+      "kills": 205,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        10,
+        8,
+        4
+      ],
+      "crown": 9,
+      "version": "v2523",
       "uid": null
     }
   }
