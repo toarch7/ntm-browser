@@ -352,6 +352,81 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1149591479220715532": {
+      "name": "СПУТНХ",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 39,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        25,
+        10,
+        8,
+        22
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1149590691635286077": {
+      "name": "имморталсанс",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1149590438865547324": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1149581400413044846": {
+      "name": "Seeker046",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
