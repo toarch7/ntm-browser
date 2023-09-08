@@ -1077,17 +1077,18 @@
       "name": "Seeker547",
       "char": 5,
       "skin": false,
-      "area": 3,
-      "subarea": 2,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 70,
-      "bwep": 0,
+      "wep": 38,
+      "bwep": 70,
       "win": false,
-      "kills": 104,
+      "kills": 146,
       "ultra": 0,
       "skills": [
         8,
-        24
+        9,
+        12
       ],
       "crown": 9,
       "version": "v2602",
@@ -3243,6 +3244,49 @@
       ],
       "crown": 9,
       "version": "v2602",
+      "uid": null
+    },
+    "пизда": {
+      "name": "пизда",
+      "char": 5,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 3,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        27,
+        8
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Fabeih": {
+      "name": "Fabeih",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 70,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        4
+      ],
+      "crown": 9,
+      "version": "v2527",
       "uid": null
     }
   }
