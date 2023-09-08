@@ -782,6 +782,42 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1149667922952867861": {
+      "name": "lolikk",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 17,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1149658186517848114": {
+      "name": "LilHunter130",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 17,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
