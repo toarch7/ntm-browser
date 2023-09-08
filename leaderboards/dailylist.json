@@ -1414,6 +1414,44 @@
       "crown": 1,
       "version": "v2522",
       "uid": null
+    },
+    "1149807904640217098": {
+      "name": "Master",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 21,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1149807275796594789": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 0,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
