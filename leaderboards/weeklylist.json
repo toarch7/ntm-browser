@@ -3135,6 +3135,51 @@
       "crown": 9,
       "version": "v2527",
       "uid": null
+    },
+    "Kirito777": {
+      "name": "Kirito777",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 70,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        8,
+        25,
+        4
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Черничка": {
+      "name": "Черничка",
+      "char": 5,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 70,
+      "win": false,
+      "kills": 311,
+      "ultra": 0,
+      "skills": [
+        8,
+        9,
+        12,
+        7,
+        14,
+        27
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

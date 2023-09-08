@@ -880,6 +880,47 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1149710078413394071": {
+      "name": "Seeker138",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        25,
+        10
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1149705897526952039": {
+      "name": "XxDRACOxX",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 21,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        25,
+        10,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
