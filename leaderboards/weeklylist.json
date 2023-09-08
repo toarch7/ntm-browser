@@ -770,19 +770,19 @@
       "char": 5,
       "skin": false,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 37,
+      "wep": 71,
       "bwep": 70,
       "win": false,
-      "kills": 170,
+      "kills": 219,
       "ultra": 0,
       "skills": [
-        7,
-        25,
-        27,
+        23,
         9,
-        4
+        8,
+        7,
+        14
       ],
       "crown": 9,
       "version": "v2527",
@@ -2239,7 +2239,7 @@
       "wep": 70,
       "bwep": 21,
       "win": false,
-      "kills": 80,
+      "kills": 84,
       "ultra": 0,
       "skills": [
         8,
@@ -3220,6 +3220,26 @@
         7,
         9,
         23
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
+    },
+    "hobnar": {
+      "name": "hobnar",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 70,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        23,
+        6
       ],
       "crown": 9,
       "version": "v2602",
