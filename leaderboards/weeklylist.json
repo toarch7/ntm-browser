@@ -2940,6 +2940,26 @@
       "crown": 9,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker436": {
+      "name": "Seeker436",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        23,
+        9
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
