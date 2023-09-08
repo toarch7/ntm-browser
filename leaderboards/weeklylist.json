@@ -3047,6 +3047,26 @@
       "crown": 9,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker652": {
+      "name": "Seeker652",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 70,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        8,
+        9
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
