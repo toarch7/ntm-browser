@@ -3630,6 +3630,46 @@
       "crown": 9,
       "version": "v2527",
       "uid": null
+    },
+    "noob_engineer": {
+      "name": "noob_engineer",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 70,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        7,
+        25
+      ],
+      "crown": 9,
+      "version": "v2523",
+      "uid": null
+    },
+    "Seeker980": {
+      "name": "Seeker980",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 70,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        14,
+        9
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
