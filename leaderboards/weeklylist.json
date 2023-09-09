@@ -3352,6 +3352,46 @@
       "crown": 9,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker906.04": {
+      "name": "Seeker906.04",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 70,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        7,
+        24
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
+    },
+    "Leafy": {
+      "name": "Leafy",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 5,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 9,
+      "version": "v2525",
+      "uid": null
     }
   }
 }
