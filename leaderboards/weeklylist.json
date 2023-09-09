@@ -769,23 +769,23 @@
       "name": "Seeker413",
       "char": 5,
       "skin": false,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 47,
-      "bwep": 2,
+      "wep": 70,
+      "bwep": 38,
       "win": false,
-      "kills": 232,
+      "kills": 289,
       "ultra": 0,
       "skills": [
-        23,
-        6,
-        12,
-        14,
-        1
+        7,
+        25,
+        4,
+        8,
+        23
       ],
       "crown": 9,
-      "version": "v2602",
+      "version": "v2527",
       "uid": null
     },
     "Seeker796": {
@@ -3409,6 +3409,26 @@
       "skills": [
         7,
         6
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "nigga": {
+      "name": "nigga",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        7,
+        25
       ],
       "crown": 9,
       "version": "v2527",
