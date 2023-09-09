@@ -3521,6 +3521,50 @@
       "crown": 9,
       "version": "v2527",
       "uid": null
+    },
+    "yobe": {
+      "name": "yobe",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 70,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        8,
+        24
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker342.99": {
+      "name": "Seeker342.99",
+      "char": 5,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 21,
+      "win": false,
+      "kills": 289,
+      "ultra": 0,
+      "skills": [
+        8,
+        25,
+        10,
+        12,
+        4,
+        27
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
