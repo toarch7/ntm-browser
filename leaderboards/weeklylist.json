@@ -3670,6 +3670,46 @@
       "crown": 9,
       "version": "v2602",
       "uid": null
+    },
+    "PinWii": {
+      "name": "PinWii",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 69,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker628": {
+      "name": "Seeker628",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        8,
+        24
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
