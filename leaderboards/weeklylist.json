@@ -3365,17 +3365,16 @@
       "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 5,
-      "bwep": 70,
+      "wep": 70,
+      "bwep": 0,
       "win": false,
-      "kills": 140,
+      "kills": 144,
       "ultra": 0,
       "skills": [
         7,
-        25,
-        4,
-        23,
-        16
+        24,
+        8,
+        12
       ],
       "crown": 9,
       "version": "v2602",
@@ -3753,6 +3752,26 @@
       ],
       "crown": 9,
       "version": "v2527",
+      "uid": null
+    },
+    "Seeker819": {
+      "name": "Seeker819",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 5,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        7,
+        25
+      ],
+      "crown": 9,
+      "version": "v2602",
       "uid": null
     }
   }

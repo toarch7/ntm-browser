@@ -115,6 +115,88 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1150270117066838036": {
+      "name": "Papunci",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 0,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        7,
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1150269441565794315": {
+      "name": "El",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 50,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1150264432325308586": {
+      "name": "Seeker819",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 78,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        7,
+        14,
+        4
+      ],
+      "crown": 10,
+      "version": "v2602",
+      "uid": null
+    },
+    "1150264175692619829": {
+      "name": "сикер22",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 19,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        16,
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
