@@ -3879,6 +3879,46 @@
       "crown": 9,
       "version": "v2527",
       "uid": null
+    },
+    "AirEnd765": {
+      "name": "AirEnd765",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        23,
+        9
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "DimonInferno": {
+      "name": "DimonInferno",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 70,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        8,
+        9
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
