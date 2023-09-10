@@ -3988,6 +3988,67 @@
       "crown": 9,
       "version": "v2602",
       "uid": null
+    },
+    "Seeker740": {
+      "name": "Seeker740",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        23,
+        9
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
+    },
+    "insano": {
+      "name": "insano",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 3,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        8,
+        9,
+        12
+      ],
+      "crown": 9,
+      "version": "v2523",
+      "uid": null
+    },
+    "Seeker707": {
+      "name": "Seeker707",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 70,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        14,
+        6
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
