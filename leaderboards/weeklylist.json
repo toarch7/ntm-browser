@@ -3773,6 +3773,27 @@
       "crown": 9,
       "version": "v2602",
       "uid": null
+    },
+    "Corruptor": {
+      "name": "Corruptor",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 70,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        8,
+        25,
+        4
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
