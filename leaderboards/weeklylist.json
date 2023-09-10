@@ -3794,6 +3794,50 @@
       "crown": 9,
       "version": "v2602",
       "uid": null
+    },
+    "MIX'er♥️Rogue": {
+      "name": "MIX'er♥️Rogue",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 70,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        27,
+        23,
+        16,
+        13
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker753": {
+      "name": "Seeker753",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        7,
+        24
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
