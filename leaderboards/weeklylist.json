@@ -4256,6 +4256,26 @@
       "crown": 9,
       "version": "v2602",
       "uid": null
+    },
+    "ignata": {
+      "name": "ignata",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        8,
+        24
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
