@@ -234,6 +234,75 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1150644389396365392": {
+      "name": "leon30",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 22,
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1150643256233820241": {
+      "name": "LisArt10",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 51,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1150640650228879461": {
+      "name": "Seeker477",
+      "char": 3,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 13,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        22,
+        14
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1150637368462819428": {
+      "name": "Pixelboi321",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 27,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
