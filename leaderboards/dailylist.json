@@ -908,6 +908,69 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1150807409191825419": {
+      "name": "majesticliver",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 22,
+      "win": false,
+      "kills": 210,
+      "ultra": 0,
+      "skills": [
+        3,
+        10,
+        14,
+        9,
+        4
+      ],
+      "crown": 10,
+      "version": "v2602",
+      "uid": null
+    },
+    "1150806111503519744": {
+      "name": "panquesito",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 10,
+      "win": false,
+      "kills": 312,
+      "ultra": 0,
+      "skills": [
+        3,
+        10,
+        14,
+        9,
+        4,
+        28,
+        23
+      ],
+      "crown": 4,
+      "version": "v2527",
+      "uid": null
+    },
+    "1150805282507739167": {
+      "name": "Seeker712",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
