@@ -863,17 +863,19 @@
       "name": "Qtaster",
       "char": 5,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
       "wep": 70,
       "bwep": 5,
       "win": false,
-      "kills": 62,
+      "kills": 106,
       "ultra": 0,
       "skills": [
         23,
-        25
+        25,
+        27,
+        8
       ],
       "crown": 9,
       "version": "v2527",
