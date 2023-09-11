@@ -4131,6 +4131,47 @@
       "crown": 9,
       "version": "v2523",
       "uid": null
+    },
+    "tumami": {
+      "name": "tumami",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 21,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        12
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "C0dem4n": {
+      "name": "C0dem4n",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        8,
+        6
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
