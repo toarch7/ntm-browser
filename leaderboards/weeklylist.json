@@ -1,6 +1,26 @@
 {
   "seed": 517527522,
   "entries": {
+    "228": {
+      "name": "228",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        23,
+        25
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
     "Seeker000": {
       "name": "Seeker000",
       "char": 5,
@@ -3872,17 +3892,17 @@
       "name": "Senar",
       "char": 5,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 70,
-      "bwep": 0,
+      "wep": 69,
+      "bwep": 70,
       "win": false,
-      "kills": 44,
+      "kills": 118,
       "ultra": 0,
       "skills": [
         7,
-        6
+        9
       ],
       "crown": 9,
       "version": "v2527",
@@ -4357,6 +4377,27 @@
       ],
       "crown": 9,
       "version": "v2527",
+      "uid": null
+    },
+    "klaudi": {
+      "name": "klaudi",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 69,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        23,
+        6,
+        12
+      ],
+      "crown": 9,
+      "version": "v2602",
       "uid": null
     }
   }
