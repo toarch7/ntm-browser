@@ -1320,6 +1320,42 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1150936637077979176": {
+      "name": "Zhubakka_",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1150927808651071488": {
+      "name": "Throneseeker413",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 27,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        3,
+        10,
+        22
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
