@@ -4276,6 +4276,48 @@
       "crown": 9,
       "version": "v2527",
       "uid": null
+    },
+    "AliMarouf": {
+      "name": "AliMarouf",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 5,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        4
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker420": {
+      "name": "Seeker420",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 70,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        23
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
