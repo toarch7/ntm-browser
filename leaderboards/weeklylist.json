@@ -4399,6 +4399,26 @@
       "crown": 9,
       "version": "v2602",
       "uid": null
+    },
+    "Thr": {
+      "name": "Thr",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 69,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
