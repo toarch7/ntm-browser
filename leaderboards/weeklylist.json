@@ -4234,6 +4234,26 @@
       "crown": 9,
       "version": "v2602",
       "uid": null
+    },
+    "Throneseeker107": {
+      "name": "Throneseeker107",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 5,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        7,
+        24
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
