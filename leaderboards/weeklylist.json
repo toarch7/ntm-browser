@@ -1,4 +1,481 @@
 {
   "seed": 690669457,
-  "entries": {}
+  "entries": {
+    "228": {
+      "name": "228",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        23,
+        25
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "nigger": {
+      "name": "nigger",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 5,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Mr.Afton": {
+      "name": "Mr.Afton",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 32,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        27,
+        23
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker712": {
+      "name": "Seeker712",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 7,
+      "win": false,
+      "kills": 174,
+      "ultra": 0,
+      "skills": [
+        8,
+        9,
+        16,
+        12
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
+    },
+    "Throneseeker413": {
+      "name": "Throneseeker413",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 71,
+      "win": false,
+      "kills": 206,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        4,
+        8,
+        12,
+        14
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
+    },
+    "Thr": {
+      "name": "Thr",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 69,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Senar": {
+      "name": "Senar",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 70,
+      "win": false,
+      "kills": 118,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "klaudi": {
+      "name": "klaudi",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 69,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        23,
+        6,
+        12
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
+    },
+    "milordan": {
+      "name": "milordan",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        7,
+        6,
+        23
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Juaneti": {
+      "name": "Juaneti",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 70,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        7,
+        25
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Jesus": {
+      "name": "Jesus",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 5,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        8,
+        9
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "кот": {
+      "name": "кот",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 5,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        7,
+        6
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "AliMarouf": {
+      "name": "AliMarouf",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 5,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        4
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker420": {
+      "name": "Seeker420",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 70,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        23
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker413": {
+      "name": "Seeker413",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 5,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        23,
+        9,
+        12
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "ignata": {
+      "name": "ignata",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        8,
+        24
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Qtaster": {
+      "name": "Qtaster",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 5,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        27,
+        8
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Throneseeker107": {
+      "name": "Throneseeker107",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 5,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        7,
+        24
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker594": {
+      "name": "Seeker594",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        7,
+        6
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
+    },
+    "getfixedboi.": {
+      "name": "getfixedboi.",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker839": {
+      "name": "Seeker839",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 70,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        8,
+        9,
+        23,
+        7
+      ],
+      "crown": 9,
+      "version": "v2602",
+      "uid": null
+    },
+    "tumami": {
+      "name": "tumami",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 21,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        12
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    },
+    "C0dem4n": {
+      "name": "C0dem4n",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        8,
+        6
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null
+    }
+  }
 }
