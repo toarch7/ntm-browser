@@ -1388,6 +1388,67 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "juas": {
+      "name": "juas",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 32,
+      "bwep": 16,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        9,
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "kimich": {
+      "name": "kimich",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 76,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        10
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Neptune": {
+      "name": "Neptune",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 32,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
