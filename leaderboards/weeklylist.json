@@ -293,22 +293,25 @@
     },
     "Seeker413": {
       "name": "Seeker413",
-      "char": 5,
-      "skin": false,
-      "area": 3,
-      "subarea": 2,
+      "char": 6,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
       "loops": 0,
-      "wep": 70,
-      "bwep": 5,
+      "wep": 33,
+      "bwep": 32,
       "win": false,
-      "kills": 100,
+      "kills": 259,
       "ultra": 0,
       "skills": [
+        27,
         23,
-        9,
-        12
+        16,
+        3,
+        1,
+        4
       ],
-      "crown": 9,
+      "crown": 6,
       "version": "v2527",
       "uid": null
     },
@@ -1445,6 +1448,29 @@
       "skills": [
         27,
         4
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "joda": {
+      "name": "joda",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 32,
+      "bwep": 37,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        27,
+        14,
+        25,
+        1,
+        3
       ],
       "crown": 6,
       "version": "v2602",
