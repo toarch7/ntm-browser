@@ -73,6 +73,44 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1150992525969076224": {
+      "name": "Todisen",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 21,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1150985519241629827": {
+      "name": "Seeker712",
+      "char": 12,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 41,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
