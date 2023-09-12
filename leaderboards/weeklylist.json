@@ -870,6 +870,71 @@
       "crown": 6,
       "version": "v2610",
       "uid": "Tzg4bVfrQTVpZCw"
+    },
+    "8j155aHppK4vVcs": {
+      "name": "EvilCat",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 89,
+      "win": false,
+      "kills": 281,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        16,
+        3,
+        1,
+        14
+      ],
+      "crown": 6,
+      "version": "v2610",
+      "uid": "8j155aHppK4vVcs"
+    },
+    "Seeker652": {
+      "name": "Seeker652",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        27,
+        23
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "kewata": {
+      "name": "kewata",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 32,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        27,
+        14,
+        10
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
