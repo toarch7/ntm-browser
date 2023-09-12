@@ -48,14 +48,14 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 17,
+      "wep": 5,
       "bwep": 32,
       "win": false,
-      "kills": 43,
+      "kills": 50,
       "ultra": 0,
       "skills": [
         27,
-        23
+        4
       ],
       "crown": 6,
       "version": "v2527",
@@ -1167,6 +1167,66 @@
       ],
       "crown": 6,
       "version": "v2527",
+      "uid": null
+    },
+    "panquesito": {
+      "name": "panquesito",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 32,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        27,
+        14
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "bruki": {
+      "name": "bruki",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 32,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        27,
+        14
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "Dhykzard_How": {
+      "name": "Dhykzard_How",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 32,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        27,
+        14
+      ],
+      "crown": 6,
+      "version": "v2602",
       "uid": null
     }
   }
