@@ -783,6 +783,93 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "AirEnd765": {
+      "name": "AirEnd765",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 32,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        16
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Sosiska52": {
+      "name": "Sosiska52",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 32,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "Frike": {
+      "name": "Frike",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 32,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        16
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Tzg4bVfrQTVpZCw": {
+      "name": "SKU",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 32,
+      "bwep": 11,
+      "win": false,
+      "kills": 1068,
+      "ultra": 1,
+      "skills": [
+        27,
+        4,
+        25,
+        3,
+        1,
+        21,
+        16,
+        22
+      ],
+      "crown": 6,
+      "version": "v2610",
+      "uid": "Tzg4bVfrQTVpZCw"
     }
   }
 }
