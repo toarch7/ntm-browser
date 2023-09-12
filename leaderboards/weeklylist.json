@@ -1457,24 +1457,109 @@
       "name": "joda",
       "char": 6,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 32,
-      "bwep": 37,
+      "wep": 52,
+      "bwep": 35,
       "win": false,
-      "kills": 98,
+      "kills": 166,
       "ultra": 0,
       "skills": [
         27,
         14,
         25,
         1,
-        3
+        3,
+        17,
+        4
       ],
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "BDSM": {
+      "name": "BDSM",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 32,
+      "bwep": 5,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker114": {
+      "name": "Seeker114",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 16,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        27,
+        14
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "MikyuXD": {
+      "name": "MikyuXD",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 6,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        9,
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "HvRctpMF4nukRh9": {
+      "name": "Czimbala",
+      "char": 6,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 32,
+      "bwep": 37,
+      "win": false,
+      "kills": 1206,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        16,
+        1,
+        4,
+        22
+      ],
+      "crown": 6,
+      "version": "v2610",
+      "uid": "HvRctpMF4nukRh9"
     }
   }
 }
