@@ -1560,6 +1560,69 @@
       "crown": 6,
       "version": "v2610",
       "uid": "HvRctpMF4nukRh9"
+    },
+    "Togbot": {
+      "name": "Togbot",
+      "char": 6,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 32,
+      "bwep": 66,
+      "win": false,
+      "kills": 241,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        16,
+        3,
+        1
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "lawliett": {
+      "name": "lawliett",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 32,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        27,
+        14
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "fireqq": {
+      "name": "fireqq",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 32,
+      "bwep": 16,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
