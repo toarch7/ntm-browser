@@ -1017,6 +1017,92 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "eduardo": {
+      "name": "eduardo",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 32,
+      "bwep": 66,
+      "win": false,
+      "kills": 171,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        16,
+        14,
+        1,
+        28
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "anpa": {
+      "name": "anpa",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 32,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        9,
+        14,
+        10
+      ],
+      "crown": 6,
+      "version": "v2522",
+      "uid": null
+    },
+    "Sombra": {
+      "name": "Sombra",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 32,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        21,
+        4,
+        10
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker329": {
+      "name": "Seeker329",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 32,
+      "bwep": 0,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        9,
+        4
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
