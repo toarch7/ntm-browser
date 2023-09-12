@@ -708,16 +708,57 @@
       "name": "Throneseeker269",
       "char": 6,
       "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 10,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        4,
+        10
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "имморталсанс": {
+      "name": "имморталсанс",
+      "char": 6,
+      "skin": true,
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 5,
+      "wep": 16,
       "bwep": 32,
       "win": false,
-      "kills": 53,
+      "kills": 73,
       "ultra": 0,
       "skills": [
-        4
+        27,
+        23
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker655": {
+      "name": "Seeker655",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 32,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        9,
+        14
       ],
       "crown": 6,
       "version": "v2602",
