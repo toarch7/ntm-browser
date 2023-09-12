@@ -526,13 +526,13 @@
       "name": "leonid",
       "char": 6,
       "skin": true,
-      "area": 6,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
       "wep": 32,
-      "bwep": 35,
+      "bwep": 33,
       "win": false,
-      "kills": 252,
+      "kills": 303,
       "ultra": 0,
       "skills": [
         27,
@@ -540,7 +540,8 @@
         16,
         3,
         1,
-        4
+        4,
+        22
       ],
       "crown": 6,
       "version": "v2527",
@@ -635,6 +636,91 @@
       ],
       "crown": 6,
       "version": "v2527",
+      "uid": null
+    },
+    "Ketchup": {
+      "name": "Ketchup",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 32,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        10,
+        14,
+        1
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "СПУТНХ": {
+      "name": "СПУТНХ",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 32,
+      "bwep": 5,
+      "win": false,
+      "kills": 165,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        25,
+        1,
+        14
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Dplay": {
+      "name": "Dplay",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 32,
+      "bwep": 5,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        27,
+        14
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Throneseeker269": {
+      "name": "Throneseeker269",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 32,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 6,
+      "version": "v2602",
       "uid": null
     }
   }
