@@ -1623,6 +1623,49 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "niger": {
+      "name": "niger",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 32,
+      "bwep": 38,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        16,
+        14
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Pixelboi321": {
+      "name": "Pixelboi321",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 32,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        10
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
