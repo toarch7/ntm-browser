@@ -263,6 +263,85 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1151384115485089852": {
+      "name": "Seeker413",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 4,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        14,
+        7,
+        10
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1151381868659359755": {
+      "name": "Принтер",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 12,
+      "win": false,
+      "kills": 171,
+      "ultra": 0,
+      "skills": [
+        14,
+        10,
+        1,
+        9,
+        12
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1151378053021323274": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 4,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1151377607720439868": {
+      "name": "Raiden",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 38,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        4,
+        10
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
