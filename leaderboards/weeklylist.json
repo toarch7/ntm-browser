@@ -1911,6 +1911,49 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "peel": {
+      "name": "peel",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 10,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        25,
+        1,
+        14
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker339": {
+      "name": "Seeker339",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 32,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
