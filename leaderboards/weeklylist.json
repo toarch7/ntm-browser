@@ -1973,6 +1973,45 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "dennixit": {
+      "name": "dennixit",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 32,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        27,
+        23
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "JIA": {
+      "name": "JIA",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 32,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 6,
+      "version": "v2522",
+      "uid": null
     }
   }
 }
