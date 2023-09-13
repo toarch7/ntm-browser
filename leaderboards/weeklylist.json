@@ -1748,6 +1748,48 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "Seeker589": {
+      "name": "Seeker589",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 69,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        27,
+        14
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker723": {
+      "name": "Seeker723",
+      "char": 6,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 32,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        3,
+        1
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
