@@ -1176,17 +1176,18 @@
       "name": "panquesito",
       "char": 6,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 6,
+      "wep": 16,
       "bwep": 32,
       "win": false,
-      "kills": 43,
+      "kills": 60,
       "ultra": 0,
       "skills": [
-        27,
-        14
+        9,
+        14,
+        25
       ],
       "crown": 6,
       "version": "v2527",
@@ -1775,12 +1776,13 @@
       "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 66,
+      "wep": 33,
       "bwep": 32,
       "win": false,
-      "kills": 156,
+      "kills": 162,
       "ultra": 0,
       "skills": [
+        27,
         4,
         10,
         3,
@@ -2011,6 +2013,47 @@
       ],
       "crown": 6,
       "version": "v2522",
+      "uid": null
+    },
+    "kratos": {
+      "name": "kratos",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 32,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        21,
+        23
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Throneseeker740": {
+      "name": "Throneseeker740",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 32,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        10
+      ],
+      "crown": 6,
+      "version": "v2527",
       "uid": null
     }
   }
