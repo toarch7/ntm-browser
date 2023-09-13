@@ -1832,6 +1832,26 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Aaron": {
+      "name": "Aaron",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 5,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
