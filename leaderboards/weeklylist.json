@@ -2301,6 +2301,48 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Papunci": {
+      "name": "Papunci",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 32,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        9,
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Zamilska": {
+      "name": "Zamilska",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 32,
+      "bwep": 63,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        21,
+        4,
+        10,
+        24
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
