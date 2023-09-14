@@ -2784,6 +2784,27 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "Throneseeker": {
+      "name": "Throneseeker",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 32,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        10
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
