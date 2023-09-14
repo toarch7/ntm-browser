@@ -2676,6 +2676,49 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "marcos13": {
+      "name": "marcos13",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 32,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "Magiasquirrel": {
+      "name": "Magiasquirrel",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 63,
+      "win": false,
+      "kills": 146,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        25,
+        1,
+        21
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
