@@ -862,6 +862,147 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1151884921799987290": {
+      "name": "Chesto",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 7,
+      "win": false,
+      "kills": 26,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "score": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": null,
+      "uid": "score"
+    },
+    "1151883763219963924": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 10,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        25,
+        10,
+        7,
+        22
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1151883613944676355": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 69,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1151883149626834984": {
+      "name": "victor",
+      "char": 2,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 24,
+      "win": false,
+      "kills": 201,
+      "ultra": 0,
+      "skills": [
+        23,
+        22,
+        13,
+        7,
+        10
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1151879289566941214": {
+      "name": "panquesito",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 30,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        9,
+        25,
+        2,
+        7
+      ],
+      "crown": 4,
+      "version": "v2527",
+      "uid": null
+    },
+    "1151877187042037861": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 66,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        9,
+        3,
+        21
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
