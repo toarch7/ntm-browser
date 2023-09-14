@@ -2828,6 +2828,45 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "Seeker315": {
+      "name": "Seeker315",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 69,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        9,
+        14
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "SAYDAXXD": {
+      "name": "SAYDAXXD",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 32,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
