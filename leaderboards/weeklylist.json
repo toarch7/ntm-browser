@@ -63,24 +63,24 @@
     },
     "Seeker712": {
       "name": "Seeker712",
-      "char": 5,
-      "skin": false,
-      "area": 5,
+      "char": 6,
+      "skin": true,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 5,
-      "bwep": 7,
+      "wep": 33,
+      "bwep": 32,
       "win": false,
-      "kills": 174,
+      "kills": 226,
       "ultra": 0,
       "skills": [
-        8,
-        9,
-        16,
-        12
+        27,
+        4,
+        25,
+        1
       ],
-      "crown": 9,
-      "version": "v2602",
+      "crown": 6,
+      "version": "v2527",
       "uid": null
     },
     "Throneseeker413": {
@@ -2489,6 +2489,48 @@
       ],
       "crown": 6,
       "version": "v2602",
+      "uid": null
+    },
+    "Seeker796": {
+      "name": "Seeker796",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 10,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        16
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "prijrak": {
+      "name": "prijrak",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 32,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        10
+      ],
+      "crown": 6,
+      "version": "v2527",
       "uid": null
     }
   }
