@@ -2532,6 +2532,46 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Kura": {
+      "name": "Kura",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 32,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker348": {
+      "name": "Seeker348",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 18,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        9,
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
