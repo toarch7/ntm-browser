@@ -2383,6 +2383,28 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "bruh": {
+      "name": "bruh",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        16,
+        3
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
