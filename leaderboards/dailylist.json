@@ -763,6 +763,45 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1151852273094365236": {
+      "name": "sakai",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 69,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        12,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1151849247847759882": {
+      "name": "Throneseeker188",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 4,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
