@@ -85,6 +85,27 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1152079581528997928": {
+      "name": "peel",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 3,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        25,
+        14,
+        8
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
