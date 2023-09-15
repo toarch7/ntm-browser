@@ -3108,6 +3108,51 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker943": {
+      "name": "Seeker943",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 32,
+      "win": false,
+      "kills": 194,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        10,
+        14,
+        21,
+        4
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "mafiasoul": {
+      "name": "mafiasoul",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 32,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        21,
+        4,
+        16
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
