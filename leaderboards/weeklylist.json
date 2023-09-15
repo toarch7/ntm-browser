@@ -3285,6 +3285,48 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "rodryryuk": {
+      "name": "rodryryuk",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 32,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "BABA": {
+      "name": "BABA",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 32,
+      "win": false,
+      "kills": 176,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        16,
+        14,
+        1
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
