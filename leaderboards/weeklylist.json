@@ -1969,13 +1969,13 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 5,
+      "wep": 6,
       "bwep": 32,
       "win": false,
-      "kills": 52,
+      "kills": 64,
       "ultra": 0,
       "skills": [
-        9,
+        27,
         4
       ],
       "crown": 6,
@@ -2833,16 +2833,18 @@
       "name": "Seeker315",
       "char": 6,
       "skin": true,
-      "area": 2,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 5,
-      "bwep": 69,
+      "wep": 69,
+      "bwep": 66,
       "win": false,
-      "kills": 62,
+      "kills": 77,
       "ultra": 0,
       "skills": [
         9,
+        4,
+        16,
         14
       ],
       "crown": 6,
@@ -2863,6 +2865,28 @@
       "ultra": 0,
       "skills": [
         23
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "plusmoney": {
+      "name": "plusmoney",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 17,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        10,
+        3
       ],
       "crown": 6,
       "version": "v2527",
