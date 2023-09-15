@@ -2914,6 +2914,28 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "GItarHEro": {
+      "name": "GItarHEro",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 32,
+      "bwep": 63,
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        25,
+        1
+      ],
+      "crown": 6,
+      "version": "v2523",
+      "uid": null
     }
   }
 }
