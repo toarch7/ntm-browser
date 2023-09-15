@@ -2958,6 +2958,25 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Nuke": {
+      "name": "Nuke",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 32,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
