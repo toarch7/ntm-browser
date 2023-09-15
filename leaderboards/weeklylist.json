@@ -2977,6 +2977,28 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker763": {
+      "name": "Seeker763",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 69,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        25,
+        1
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
