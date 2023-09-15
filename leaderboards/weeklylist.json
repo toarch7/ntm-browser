@@ -3196,6 +3196,73 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "даун": {
+      "name": "даун",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 32,
+      "bwep": 5,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "DabeOK": {
+      "name": "DabeOK",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 32,
+      "win": false,
+      "kills": 276,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        25,
+        1,
+        14,
+        9,
+        16
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker226": {
+      "name": "Seeker226",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 17,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        25,
+        3
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
