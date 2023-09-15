@@ -127,6 +127,89 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1152111923358351360": {
+      "name": "Throneseeker413",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1152106170740396082": {
+      "name": "BREAD",
+      "char": 12,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 3,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1152105851587403856": {
+      "name": "Принтер",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 118,
+      "bwep": 47,
+      "win": false,
+      "kills": 681,
+      "ultra": 2,
+      "skills": [
+        12,
+        8,
+        14,
+        10,
+        4,
+        27
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1152102979776819270": {
+      "name": "Seeker712",
+      "char": 5,
+      "skin": false,
+      "area": 100,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        25,
+        6,
+        16
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
