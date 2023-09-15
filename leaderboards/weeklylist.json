@@ -2936,6 +2936,27 @@
       "crown": 6,
       "version": "v2523",
       "uid": null
+    },
+    "hollow": {
+      "name": "hollow",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 32,
+      "bwep": 16,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        16
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
