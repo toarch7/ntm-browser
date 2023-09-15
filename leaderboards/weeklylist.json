@@ -3263,6 +3263,28 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Выживальщик": {
+      "name": "Выживальщик",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 88,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        27,
+        14,
+        16,
+        10
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
