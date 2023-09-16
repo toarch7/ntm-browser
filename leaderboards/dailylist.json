@@ -503,6 +503,126 @@
       "crown": 1,
       "version": "v2523",
       "uid": null
+    },
+    "1152500365976158269": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 26,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1152498400508530738": {
+      "name": "Throneseeker265",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 19,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1152497596342997023": {
+      "name": "Seeker712",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1152495257993359440": {
+      "name": "Throneseeker413",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 6,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        7,
+        19
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1152494230665691236": {
+      "name": "вейпы",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 46,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        25,
+        9,
+        8
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1152491410474410055": {
+      "name": "Shura",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1152490819908026448": {
+      "name": "JJelly",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 81,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
