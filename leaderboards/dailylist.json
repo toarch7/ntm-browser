@@ -371,6 +371,138 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1152487450187399238": {
+      "name": "DDD",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 19,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1152481795976212531": {
+      "name": "Throneseeker413",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 0,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1152481716636749855": {
+      "name": "СПУТНХ",
+      "char": 2,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 22,
+      "bwep": 100,
+      "win": false,
+      "kills": 962,
+      "ultra": 2,
+      "skills": [
+        7,
+        2,
+        9,
+        25,
+        27,
+        14,
+        16,
+        1,
+        8
+      ],
+      "crown": 4,
+      "version": "v2527",
+      "uid": null
+    },
+    "1152477247962349638": {
+      "name": "Throneseeker413",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 20,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        10,
+        8,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1152476718070771723": {
+      "name": "Kira",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 6,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1152475174193606676": {
+      "name": "Seeker712",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1152474067203543091": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
     }
   }
 }
