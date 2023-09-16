@@ -3640,6 +3640,69 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "Seeker390": {
+      "name": "Seeker390",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 32,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        21,
+        4,
+        2,
+        3,
+        1
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "hacker123": {
+      "name": "hacker123",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 32,
+      "bwep": 0,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "MELIODAS": {
+      "name": "MELIODAS",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 32,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        27,
+        14
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
