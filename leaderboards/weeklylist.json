@@ -968,20 +968,22 @@
       "name": "Принтер",
       "char": 6,
       "skin": true,
-      "area": 6,
+      "area": 1,
       "subarea": 1,
-      "loops": 0,
-      "wep": 34,
-      "bwep": 32,
+      "loops": 2,
+      "wep": 118,
+      "bwep": 94,
       "win": false,
-      "kills": 253,
-      "ultra": 0,
+      "kills": 1303,
+      "ultra": 1,
       "skills": [
         27,
         4,
-        10,
+        25,
         14,
-        1
+        9,
+        1,
+        8
       ],
       "crown": 6,
       "version": "v2527",
@@ -3576,6 +3578,67 @@
       ],
       "crown": 6,
       "version": "v2527",
+      "uid": null
+    },
+    "Seeker259": {
+      "name": "Seeker259",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 32,
+      "bwep": 16,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        9,
+        19
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker182.31": {
+      "name": "Seeker182.31",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 32,
+      "bwep": 10,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        10
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker685": {
+      "name": "Seeker685",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 32,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        21,
+        4
+      ],
+      "crown": 6,
+      "version": "v2602",
       "uid": null
     }
   }
