@@ -1443,6 +1443,47 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1152720948986904636": {
+      "name": "hacker123",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 69,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        7,
+        28
+      ],
+      "crown": 4,
+      "version": "v2527",
+      "uid": null
+    },
+    "1152719618268467212": {
+      "name": "Seeker461",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 14,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        2
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
