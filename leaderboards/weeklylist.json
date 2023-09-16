@@ -3471,6 +3471,48 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Rift007": {
+      "name": "Rift007",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 32,
+      "bwep": 16,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        16
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Zhubakka_": {
+      "name": "Zhubakka_",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 10,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        25
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
