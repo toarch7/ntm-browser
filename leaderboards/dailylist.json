@@ -1,4 +1,143 @@
 {
   "day": 16,
-  "entries": {}
+  "entries": {
+    "1152428295355375770": {
+      "name": "Groudon",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1152426118490628119": {
+      "name": "Azert",
+      "char": 10,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1152422695724662815": {
+      "name": "victor",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 71,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1152417863177609327": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 71,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1152417684051472524": {
+      "name": "Seeker341",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1152412597862289438": {
+      "name": "bruki",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1152409193173766216": {
+      "name": "Zamilska",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1152400923075805245": {
+      "name": "Cockonut",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 7,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        25,
+        14,
+        8
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    }
+  }
 }
