@@ -4031,6 +4031,26 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "Leks": {
+      "name": "Leks",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 32,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        9,
+        4
+      ],
+      "crown": 6,
+      "version": "v2525",
+      "uid": null
     }
   }
 }
