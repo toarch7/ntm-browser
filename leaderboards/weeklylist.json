@@ -796,18 +796,19 @@
       "name": "AirEnd765",
       "char": 6,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 5,
+      "subarea": 1,
       "loops": 0,
       "wep": 17,
       "bwep": 32,
       "win": false,
-      "kills": 98,
+      "kills": 112,
       "ultra": 0,
       "skills": [
         27,
         23,
-        16
+        16,
+        9
       ],
       "crown": 6,
       "version": "v2527",
@@ -3863,6 +3864,26 @@
         27,
         19,
         16
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker528": {
+      "name": "Seeker528",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 6,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
       ],
       "crown": 6,
       "version": "v2602",
