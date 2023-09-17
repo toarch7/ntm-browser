@@ -770,6 +770,78 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1152982874606280776": {
+      "name": "poto",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 46,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1152973811717771374": {
+      "name": "brzxo",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 114,
+      "bwep": 6,
+      "win": false,
+      "kills": 236,
+      "ultra": 0,
+      "skills": [
+        4,
+        27,
+        7,
+        8,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1152973779371298928": {
+      "name": "Azazel",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1152972910558970038": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
