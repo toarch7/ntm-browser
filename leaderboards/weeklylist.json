@@ -3784,6 +3784,28 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "Acxel": {
+      "name": "Acxel",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 32,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        9,
+        14,
+        16,
+        3
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
