@@ -3826,6 +3826,47 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "pvlon": {
+      "name": "pvlon",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 32,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        9,
+        4
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
+    },
+    "qerrcode": {
+      "name": "qerrcode",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 16,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        27,
+        19,
+        16
+      ],
+      "crown": 6,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
