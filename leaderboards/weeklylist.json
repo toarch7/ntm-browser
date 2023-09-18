@@ -4260,6 +4260,26 @@
       "crown": 6,
       "version": "v2602",
       "uid": null
+    },
+    "Seeker199": {
+      "name": "Seeker199",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 32,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
