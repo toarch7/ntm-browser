@@ -891,6 +891,108 @@
       "crown": 1,
       "version": "v2522",
       "uid": null
+    },
+    "1153365293217882212": {
+      "name": "victor",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 58,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        2,
+        7,
+        27
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1153364247477244047": {
+      "name": "Magiasquirrel",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1153357688101675048": {
+      "name": "panquesito",
+      "char": 2,
+      "skin": true,
+      "area": 100,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 76,
+      "win": false,
+      "kills": 223,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        1,
+        26,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1153352349201485865": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 1,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        12,
+        8
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1153349471829241927": {
+      "name": "AirEnd765",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 8,
+      "bwep": 119,
+      "win": false,
+      "kills": 416,
+      "ultra": 0,
+      "skills": [
+        21,
+        14,
+        27,
+        8,
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
