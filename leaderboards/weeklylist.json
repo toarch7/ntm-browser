@@ -4071,6 +4071,26 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker345": {
+      "name": "Seeker345",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 32,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        9,
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
