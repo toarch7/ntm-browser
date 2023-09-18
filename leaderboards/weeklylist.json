@@ -2821,17 +2821,18 @@
       "name": "Seeker555",
       "char": 6,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 32,
-      "bwep": 5,
+      "wep": 71,
+      "bwep": 30,
       "win": false,
-      "kills": 53,
+      "kills": 80,
       "ultra": 0,
       "skills": [
-        9,
-        4
+        21,
+        4,
+        10
       ],
       "crown": 6,
       "version": "v2602",
@@ -4509,6 +4510,21 @@
       ],
       "crown": 6,
       "version": "v2527",
+      "uid": null
+    },
+    "Seeker586": {
+      "name": "Seeker586",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 32,
+      "win": false,
+      "kills": 55,
+      "crown": 6,
+      "version": "v2602",
       "uid": null
     }
   }
