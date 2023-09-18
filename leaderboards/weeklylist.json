@@ -4424,6 +4424,45 @@
       "crown": 6,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker301": {
+      "name": "Seeker301",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 32,
+      "bwep": 5,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        9,
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Saokikaiser": {
+      "name": "Saokikaiser",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 76,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 6,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
