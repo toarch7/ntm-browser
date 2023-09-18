@@ -1194,6 +1194,55 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1153415007455936542": {
+      "name": "tumami",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 18,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1153410742528249866": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 26,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1153409541938086021": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
