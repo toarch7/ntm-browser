@@ -1290,6 +1290,68 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "Felix0812": {
+      "name": "Felix0812",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 51,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        27,
+        21
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Zhubakka_": {
+      "name": "Zhubakka_",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 51,
+      "win": false,
+      "kills": 280,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        4
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Toro": {
+      "name": "Toro",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 3,
+      "win": false,
+      "kills": 232,
+      "ultra": 0,
+      "skills": [
+        27,
+        10,
+        4
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
