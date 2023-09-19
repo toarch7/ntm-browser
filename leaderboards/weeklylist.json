@@ -1271,6 +1271,25 @@
       "crown": 7,
       "version": "v2523",
       "uid": null
+    },
+    "rojas": {
+      "name": "rojas",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 51,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
