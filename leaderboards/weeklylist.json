@@ -1112,19 +1112,81 @@
       "name": "Seeker420",
       "char": 4,
       "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 69,
+      "win": false,
+      "kills": 283,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        28,
+        4
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "": {
+      "name": "",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 31,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        27,
+        3
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker133": {
+      "name": "Seeker133",
+      "char": 4,
+      "skin": true,
       "area": 3,
       "subarea": 1,
       "loops": 0,
       "wep": 51,
-      "bwep": 69,
+      "bwep": 0,
       "win": false,
-      "kills": 136,
+      "kills": 108,
       "ultra": 0,
       "skills": [
         27
       ],
       "crown": 7,
       "version": "v2602",
+      "uid": null
+    },
+    "kirflash32": {
+      "name": "kirflash32",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 51,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        12,
+        27
+      ],
+      "crown": 7,
+      "version": "v2523",
       "uid": null
     }
   }
