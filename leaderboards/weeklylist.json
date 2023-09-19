@@ -781,9 +781,9 @@
       "subarea": 3,
       "loops": 0,
       "wep": 106,
-      "bwep": 66,
+      "bwep": 33,
       "win": false,
-      "kills": 578,
+      "kills": 579,
       "ultra": 1,
       "skills": [
         27,
@@ -1410,6 +1410,31 @@
       ],
       "crown": 7,
       "version": "v2527",
+      "uid": null
+    },
+    "Reitorion": {
+      "name": "Reitorion",
+      "char": 4,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 59,
+      "win": false,
+      "kills": 473,
+      "ultra": 2,
+      "skills": [
+        27,
+        23,
+        4,
+        14,
+        16,
+        10,
+        7
+      ],
+      "crown": 7,
+      "version": "v2602",
       "uid": null
     }
   }

@@ -1032,6 +1032,43 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1153729927544315944": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 21,
+      "win": false,
+      "kills": 118,
+      "ultra": 0,
+      "skills": [
+        27,
+        10,
+        4,
+        22
+      ],
+      "crown": 4,
+      "version": "v2527",
+      "uid": null
+    },
+    "1153728792565661717": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
