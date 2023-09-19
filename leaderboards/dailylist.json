@@ -602,6 +602,50 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1153645527460749312": {
+      "name": "Принтер",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 23,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        27,
+        10,
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1153642484354777159": {
+      "name": "peel",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 21,
+      "win": false,
+      "kills": 189,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        25,
+        4,
+        23
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
