@@ -775,23 +775,20 @@
       "char": 4,
       "skin": true,
       "area": 7,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 51,
-      "bwep": 58,
+      "wep": 106,
+      "bwep": 66,
       "win": false,
-      "kills": 508,
-      "ultra": 2,
+      "kills": 546,
+      "ultra": 1,
       "skills": [
         27,
         23,
         3,
         4,
         14,
-        6,
-        10,
-        16,
-        26
+        6
       ],
       "crown": 7,
       "version": "v2602",
@@ -997,6 +994,46 @@
       "ultra": 0,
       "skills": [
         27
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "~Doppelsodner~": {
+      "name": "~Doppelsodner~",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 51,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "daft": {
+      "name": "daft",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        12,
+        25,
+        14
       ],
       "crown": 7,
       "version": "v2602",
