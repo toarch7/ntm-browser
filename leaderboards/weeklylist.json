@@ -752,6 +752,66 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker245": {
+      "name": "Seeker245",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 17,
+      "win": false,
+      "kills": 203,
+      "ultra": 0,
+      "skills": [
+        27,
+        23
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "leonid": {
+      "name": "leonid",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 51,
+      "win": false,
+      "kills": 166,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        10
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "ignata": {
+      "name": "ignata",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 19,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
