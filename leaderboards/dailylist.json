@@ -170,6 +170,116 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1153530285372223538": {
+      "name": "victor",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 20,
+      "bwep": 76,
+      "win": false,
+      "kills": 1361,
+      "ultra": 1,
+      "skills": [
+        27,
+        22,
+        4,
+        25,
+        23,
+        7,
+        14
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "1153530198868889612": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 6,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        27,
+        24
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1153529329813307484": {
+      "name": "Miguel",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 16,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        27,
+        10
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1153525185702543432": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 57,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        25,
+        2,
+        23
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1153523419976056873": {
+      "name": "Seeker979.46",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 4,
+      "win": false,
+      "kills": 166,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        19,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

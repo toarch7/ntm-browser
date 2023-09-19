@@ -44,25 +44,28 @@
     },
     "Seeker712": {
       "name": "Seeker712",
-      "char": 6,
+      "char": 4,
       "skin": true,
       "area": 5,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 32,
-      "bwep": 66,
+      "wep": 36,
+      "bwep": 51,
       "win": false,
-      "kills": 162,
-      "ultra": 0,
+      "kills": 400,
+      "ultra": 2,
       "skills": [
         27,
+        3,
+        4,
+        10,
+        19,
         14,
-        25,
-        1,
-        3
+        26,
+        8
       ],
-      "crown": 6,
-      "version": "v2527",
+      "crown": 7,
+      "version": "v2523",
       "uid": null
     },
     "Seeker586": {
@@ -663,6 +666,90 @@
         4
       ],
       "crown": 6,
+      "version": "v2527",
+      "uid": null
+    },
+    "Dhykzard_How": {
+      "name": "Dhykzard_How",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 30,
+      "win": false,
+      "kills": 190,
+      "ultra": 0,
+      "skills": [
+        27,
+        3
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "как": {
+      "name": "как",
+      "char": 4,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 75,
+      "win": false,
+      "kills": 222,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        3
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "lawliett": {
+      "name": "lawliett",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 22,
+      "win": false,
+      "kills": 347,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        4,
+        14
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "CHICHEN": {
+      "name": "CHICHEN",
+      "char": 4,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 51,
+      "win": false,
+      "kills": 210,
+      "ultra": 0,
+      "skills": [
+        12,
+        27,
+        23
+      ],
+      "crown": 7,
       "version": "v2527",
       "uid": null
     }
