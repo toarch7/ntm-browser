@@ -901,6 +901,106 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker723": {
+      "name": "Seeker723",
+      "char": 4,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 51,
+      "win": false,
+      "kills": 205,
+      "ultra": 0,
+      "skills": [
+        7,
+        10,
+        28
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Tzg4bVfrQTVpZCw": {
+      "name": "SKU",
+      "char": 4,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 60,
+      "bwep": 51,
+      "win": false,
+      "kills": 461,
+      "ultra": 1,
+      "skills": [
+        27,
+        23,
+        3,
+        4
+      ],
+      "crown": 7,
+      "version": "v2610",
+      "uid": "Tzg4bVfrQTVpZCw"
+    },
+    "Ketchup": {
+      "name": "Ketchup",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 51,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Черничка": {
+      "name": "Черничка",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 88,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Vetek": {
+      "name": "Vetek",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 51,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
