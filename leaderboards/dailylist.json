@@ -337,6 +337,27 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1153548800498094152": {
+      "name": "Todisen",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 16,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        27,
+        24,
+        25
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
