@@ -1608,6 +1608,27 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "JustCactus": {
+      "name": "JustCactus",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 51,
+      "win": false,
+      "kills": 204,
+      "ultra": 0,
+      "skills": [
+        27,
+        16,
+        28
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }

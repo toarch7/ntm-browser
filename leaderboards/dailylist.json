@@ -1386,6 +1386,71 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1153813703188303962": {
+      "name": "BDSM",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 71,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        10,
+        19
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1153808776042922114": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": "v2522",
+      "uid": null
+    },
+    "1153806747836895332": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1153804461928632413": {
+      "name": "Groudon",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
     }
   }
 }
