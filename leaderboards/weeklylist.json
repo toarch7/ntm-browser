@@ -1158,16 +1158,17 @@
       "name": "Seeker133",
       "char": 4,
       "skin": true,
-      "area": 3,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 51,
-      "bwep": 3,
+      "wep": 75,
+      "bwep": 51,
       "win": false,
-      "kills": 133,
+      "kills": 235,
       "ultra": 0,
       "skills": [
-        27
+        27,
+        3
       ],
       "crown": 7,
       "version": "v2602",
@@ -1581,6 +1582,28 @@
         25,
         14,
         21
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "ALPHA50": {
+      "name": "ALPHA50",
+      "char": 4,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 21,
+      "win": false,
+      "kills": 208,
+      "ultra": 0,
+      "skills": [
+        25,
+        14,
+        10,
+        28
       ],
       "crown": 7,
       "version": "v2527",
