@@ -212,18 +212,20 @@
       "name": "Seeker413",
       "char": 4,
       "skin": true,
-      "area": 5,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 62,
-      "bwep": 51,
+      "wep": 26,
+      "bwep": 35,
       "win": false,
-      "kills": 274,
-      "ultra": 0,
+      "kills": 520,
+      "ultra": 1,
       "skills": [
         27,
         3,
-        4
+        4,
+        14,
+        6
       ],
       "crown": 7,
       "version": "v2527",
@@ -1161,9 +1163,9 @@
       "subarea": 1,
       "loops": 0,
       "wep": 51,
-      "bwep": 0,
+      "bwep": 3,
       "win": false,
-      "kills": 108,
+      "kills": 133,
       "ultra": 0,
       "skills": [
         27
@@ -1298,14 +1300,13 @@
       "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 30,
+      "wep": 17,
       "bwep": 51,
       "win": false,
-      "kills": 115,
+      "kills": 134,
       "ultra": 0,
       "skills": [
-        27,
-        21
+        27
       ],
       "crown": 7,
       "version": "v2602",
@@ -1348,6 +1349,64 @@
         27,
         10,
         4
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Throneseeker265": {
+      "name": "Throneseeker265",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 51,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        23,
+        28
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Ziga": {
+      "name": "Ziga",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 88,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Enzo": {
+      "name": "Enzo",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 21,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        23
       ],
       "crown": 7,
       "version": "v2527",
