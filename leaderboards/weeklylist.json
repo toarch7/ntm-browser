@@ -1734,6 +1734,45 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Nuke": {
+      "name": "Nuke",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 51,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        12,
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Sombra": {
+      "name": "Sombra",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 51,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
