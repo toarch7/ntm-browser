@@ -1774,16 +1774,19 @@
       "name": "Sombra",
       "char": 4,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 17,
+      "wep": 30,
       "bwep": 51,
       "win": false,
-      "kills": 128,
+      "kills": 272,
       "ultra": 0,
       "skills": [
-        7
+        27,
+        10,
+        21,
+        4
       ],
       "crown": 7,
       "version": "v2527",
