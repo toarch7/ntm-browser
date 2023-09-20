@@ -1773,6 +1773,27 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker682": {
+      "name": "Seeker682",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 88,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        12,
+        23,
+        28
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
