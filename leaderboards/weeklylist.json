@@ -2153,6 +2153,45 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker392.69": {
+      "name": "Seeker392.69",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 27,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 7,
+      "version": "v2522",
+      "uid": null
+    },
+    "sebasito": {
+      "name": "sebasito",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 51,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        27,
+        23
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
