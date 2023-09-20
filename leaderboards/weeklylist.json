@@ -357,17 +357,21 @@
       "name": "Throneseeker413",
       "char": 4,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 75,
-      "bwep": 30,
+      "wep": 15,
+      "bwep": 51,
       "win": false,
-      "kills": 212,
-      "ultra": 0,
+      "kills": 498,
+      "ultra": 1,
       "skills": [
+        12,
         27,
-        3
+        10,
+        4,
+        14,
+        6
       ],
       "crown": 7,
       "version": "v2527",
@@ -1889,6 +1893,28 @@
       ],
       "crown": 7,
       "version": "v2602",
+      "uid": null
+    },
+    "LisArt10": {
+      "name": "LisArt10",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 51,
+      "win": false,
+      "kills": 303,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        4,
+        14
+      ],
+      "crown": 7,
+      "version": "v2527",
       "uid": null
     }
   }
