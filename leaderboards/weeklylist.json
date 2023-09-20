@@ -254,20 +254,23 @@
       "name": "Ragt",
       "char": 4,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 11,
-      "bwep": 9,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 118,
+      "bwep": 88,
       "win": false,
-      "kills": 354,
-      "ultra": 0,
+      "kills": 533,
+      "ultra": 2,
       "skills": [
         27,
         23,
         3,
         13,
-        14
+        14,
+        6,
+        16,
+        26
       ],
       "crown": 7,
       "version": "v2602",
@@ -2056,6 +2059,25 @@
       "bwep": 51,
       "win": false,
       "kills": 125,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "вейпы": {
+      "name": "вейпы",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 88,
+      "win": false,
+      "kills": 109,
       "ultra": 0,
       "skills": [
         27
