@@ -1638,10 +1638,10 @@
       "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 51,
-      "bwep": 69,
+      "wep": 69,
+      "bwep": 51,
       "win": false,
-      "kills": 122,
+      "kills": 123,
       "ultra": 0,
       "skills": [
         23,
@@ -1671,6 +1671,66 @@
       ],
       "crown": 7,
       "version": "v2602",
+      "uid": null
+    },
+    "benimaru": {
+      "name": "benimaru",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 69,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        7,
+        19
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker685": {
+      "name": "Seeker685",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 3,
+      "win": false,
+      "kills": 204,
+      "ultra": 0,
+      "skills": [
+        23,
+        10,
+        28
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Dante": {
+      "name": "Dante",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 69,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
       "uid": null
     }
   }
