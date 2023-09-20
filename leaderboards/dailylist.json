@@ -528,6 +528,55 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1153950842370654328": {
+      "name": "Seeker712",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1153940775390937128": {
+      "name": "Gungeoneer",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 81,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "8j155aHppK4vVcs": {
+      "name": "EvilCat",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 4,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": "v2610",
+      "uid": "8j155aHppK4vVcs"
     }
   }
 }

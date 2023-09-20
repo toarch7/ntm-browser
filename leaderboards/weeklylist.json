@@ -1823,22 +1823,47 @@
       "name": "Czimbala",
       "char": 4,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 30,
-      "bwep": 51,
+      "area": 5,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 9,
+      "bwep": 35,
       "win": false,
-      "kills": 189,
-      "ultra": 0,
+      "kills": 1677,
+      "ultra": 1,
       "skills": [
         27,
-        23,
-        3
+        3,
+        16,
+        10,
+        6
       ],
       "crown": 7,
       "version": "v2610",
       "uid": "HvRctpMF4nukRh9"
+    },
+    "8j155aHppK4vVcs": {
+      "name": "EvilCat",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 91,
+      "bwep": 61,
+      "win": false,
+      "kills": 305,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        21,
+        4,
+        14
+      ],
+      "crown": 7,
+      "version": "v2610",
+      "uid": "8j155aHppK4vVcs"
     }
   }
 }
