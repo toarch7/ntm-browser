@@ -2641,6 +2641,67 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Leunam": {
+      "name": "Leunam",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 36,
+      "bwep": 88,
+      "win": false,
+      "kills": 316,
+      "ultra": 0,
+      "skills": [
+        27,
+        10,
+        13,
+        14
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker368": {
+      "name": "Seeker368",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 17,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Aguss": {
+      "name": "Aguss",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 88,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        25,
+        4
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
