@@ -2140,17 +2140,19 @@
       "name": "Выживальщик",
       "char": 4,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 17,
-      "bwep": 51,
+      "wep": 51,
+      "bwep": 75,
       "win": false,
-      "kills": 87,
+      "kills": 379,
       "ultra": 0,
       "skills": [
-        25,
-        4
+        27,
+        3,
+        4,
+        14
       ],
       "crown": 7,
       "version": "v2527",
@@ -2499,6 +2501,44 @@
       ],
       "crown": 7,
       "version": "v2602",
+      "uid": null
+    },
+    "Seeker362": {
+      "name": "Seeker362",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 0,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Throneseeker": {
+      "name": "Throneseeker",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 27,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
       "uid": null
     }
   }
