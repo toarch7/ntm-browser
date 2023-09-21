@@ -834,13 +834,13 @@
       "name": "Принтер",
       "char": 4,
       "skin": true,
-      "area": 1,
+      "area": 4,
       "subarea": 1,
       "loops": 1,
       "wep": 26,
-      "bwep": 11,
+      "bwep": 94,
       "win": false,
-      "kills": 674,
+      "kills": 1412,
       "ultra": 1,
       "skills": [
         27,
@@ -2258,16 +2258,18 @@
       "char": 4,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 17,
+      "wep": 69,
       "bwep": 51,
       "win": false,
-      "kills": 134,
+      "kills": 202,
       "ultra": 0,
       "skills": [
         27,
-        19
+        19,
+        3,
+        28
       ],
       "crown": 7,
       "version": "v2602",
@@ -2287,6 +2289,26 @@
       "ultra": 0,
       "skills": [
         23
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "brzxo": {
+      "name": "brzxo",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 45,
+      "win": false,
+      "kills": 210,
+      "ultra": 0,
+      "skills": [
+        27,
+        3
       ],
       "crown": 7,
       "version": "v2527",
