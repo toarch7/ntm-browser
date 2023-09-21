@@ -2177,13 +2177,33 @@
       "name": "sebasito",
       "char": 4,
       "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 88,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        12,
+        27
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Sundaecakes": {
+      "name": "Sundaecakes",
+      "char": 4,
+      "skin": true,
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 51,
+      "wep": 51,
+      "bwep": 21,
       "win": false,
-      "kills": 89,
+      "kills": 102,
       "ultra": 0,
       "skills": [
         27,
@@ -2191,6 +2211,25 @@
       ],
       "crown": 7,
       "version": "v2602",
+      "uid": null
+    },
+    "plusmoney": {
+      "name": "plusmoney",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 51,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
       "uid": null
     }
   }
