@@ -1613,19 +1613,19 @@
       "name": "ALPHA50",
       "char": 4,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 51,
-      "bwep": 21,
+      "wep": 22,
+      "bwep": 15,
       "win": false,
-      "kills": 208,
+      "kills": 328,
       "ultra": 0,
       "skills": [
         25,
         14,
         10,
-        28
+        4
       ],
       "crown": 7,
       "version": "v2527",
@@ -2248,6 +2248,45 @@
         12,
         27,
         10
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker991": {
+      "name": "Seeker991",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 51,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        27,
+        19
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Hunter": {
+      "name": "Hunter",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 51,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        23
       ],
       "crown": 7,
       "version": "v2527",
