@@ -1,4 +1,105 @@
 {
   "day": 21,
-  "entries": {}
+  "entries": {
+    "1154240812620722186": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 23,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        1,
+        3
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1154235056546644009": {
+      "name": "Seeker902",
+      "char": 6,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 10,
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        21,
+        14,
+        19,
+        17
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1154233749425356871": {
+      "name": "Seeker833",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 18,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1154232263341510696": {
+      "name": "Todisen",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 117,
+      "win": false,
+      "kills": 211,
+      "ultra": 0,
+      "skills": [
+        1,
+        3,
+        21,
+        9,
+        27,
+        14
+      ],
+      "crown": 11,
+      "version": "v2602",
+      "uid": null
+    },
+    "1154221345362673664": {
+      "name": "Seeker917",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    }
+  }
 }
