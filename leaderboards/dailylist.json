@@ -275,6 +275,87 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1154311164075966484": {
+      "name": "Seeker087",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1154309060607356951": {
+      "name": "MaxwellLink",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 11,
+      "win": false,
+      "kills": 279,
+      "ultra": 0,
+      "skills": [
+        1,
+        3,
+        19,
+        8,
+        27,
+        16
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1154308520590721064": {
+      "name": "Seeker815",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 11,
+      "win": false,
+      "kills": 250,
+      "ultra": 0,
+      "skills": [
+        1,
+        16,
+        19,
+        8,
+        27
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1154302990132461578": {
+      "name": "Makcum",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 4,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
