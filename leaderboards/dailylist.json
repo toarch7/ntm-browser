@@ -1383,6 +1383,111 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1154510698236366880": {
+      "name": "Throneseeker413",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        1,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1154506683914133604": {
+      "name": "Jesus",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1154504012528369676": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 80,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        19
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1154502147522703410": {
+      "name": "Piroweon",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 23,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        1,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1154496174485688391": {
+      "name": "Принтер",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 77,
+      "win": false,
+      "kills": 273,
+      "ultra": 0,
+      "skills": [
+        7,
+        14,
+        23,
+        21,
+        8,
+        27,
+        16
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

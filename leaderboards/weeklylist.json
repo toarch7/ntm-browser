@@ -2622,6 +2622,25 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Leite": {
+      "name": "Leite",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 69,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
