@@ -2339,17 +2339,17 @@
       "name": "Seeker538",
       "char": 4,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
       "wep": 51,
-      "bwep": 69,
+      "bwep": 15,
       "win": false,
-      "kills": 190,
+      "kills": 220,
       "ultra": 0,
       "skills": [
         27,
-        10
+        16
       ],
       "crown": 7,
       "version": "v2527",
@@ -2392,6 +2392,26 @@
         27,
         10,
         4
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "DEIMOS": {
+      "name": "DEIMOS",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 51,
+      "win": false,
+      "kills": 175,
+      "ultra": 0,
+      "skills": [
+        27,
+        3
       ],
       "crown": 7,
       "version": "v2602",
