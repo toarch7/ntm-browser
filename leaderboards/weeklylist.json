@@ -1760,17 +1760,18 @@
       "name": "Nuke",
       "char": 4,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 3,
-      "bwep": 51,
+      "wep": 51,
+      "bwep": 3,
       "win": false,
-      "kills": 86,
+      "kills": 105,
       "ultra": 0,
       "skills": [
         12,
-        27
+        27,
+        19
       ],
       "crown": 7,
       "version": "v2527",
@@ -2331,6 +2332,68 @@
       ],
       "crown": 7,
       "version": "v2526",
+      "uid": null
+    },
+    "Seeker538": {
+      "name": "Seeker538",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 69,
+      "win": false,
+      "kills": 190,
+      "ultra": 0,
+      "skills": [
+        27,
+        10
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Bebroid": {
+      "name": "Bebroid",
+      "char": 4,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 51,
+      "win": false,
+      "kills": 209,
+      "ultra": 0,
+      "skills": [
+        27,
+        10,
+        28
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker100": {
+      "name": "Seeker100",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 51,
+      "win": false,
+      "kills": 257,
+      "ultra": 0,
+      "skills": [
+        27,
+        10,
+        4
+      ],
+      "crown": 7,
+      "version": "v2602",
       "uid": null
     }
   }
