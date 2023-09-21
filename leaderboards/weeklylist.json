@@ -2313,6 +2313,25 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Trash": {
+      "name": "Trash",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 51,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2526",
+      "uid": null
     }
   }
 }
