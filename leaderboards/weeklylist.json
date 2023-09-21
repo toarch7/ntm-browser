@@ -599,23 +599,24 @@
     },
     "Seeker979.46": {
       "name": "Seeker979.46",
-      "char": 6,
+      "char": 4,
       "skin": true,
       "area": 5,
       "subarea": 2,
       "loops": 0,
-      "wep": 16,
-      "bwep": 32,
+      "wep": 75,
+      "bwep": 11,
       "win": false,
-      "kills": 168,
+      "kills": 318,
       "ultra": 0,
       "skills": [
         27,
+        3,
+        28,
         4,
-        10,
-        1
+        10
       ],
-      "crown": 6,
+      "crown": 7,
       "version": "v2527",
       "uid": null
     },
@@ -1403,13 +1404,13 @@
       "name": "Ziga",
       "char": 4,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
       "wep": 51,
       "bwep": 88,
       "win": false,
-      "kills": 105,
+      "kills": 114,
       "ultra": 0,
       "skills": [
         23
