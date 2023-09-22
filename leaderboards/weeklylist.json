@@ -2765,6 +2765,26 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "kratos": {
+      "name": "kratos",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 51,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        27,
+        23
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
