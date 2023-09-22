@@ -1391,14 +1391,14 @@
       "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 61,
-      "bwep": 51,
+      "wep": 51,
+      "bwep": 30,
       "win": false,
-      "kills": 131,
+      "kills": 137,
       "ultra": 0,
       "skills": [
-        23,
-        28
+        27,
+        23
       ],
       "crown": 7,
       "version": "v2602",
@@ -3027,17 +3027,58 @@
       "name": "BABA",
       "char": 4,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
       "wep": 51,
-      "bwep": 3,
+      "bwep": 69,
       "win": false,
-      "kills": 198,
+      "kills": 325,
       "ultra": 0,
       "skills": [
         27,
-        10
+        10,
+        4,
+        14
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker943": {
+      "name": "Seeker943",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 30,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        23,
+        3
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Dees": {
+      "name": "Dees",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 51,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        27
       ],
       "crown": 7,
       "version": "v2527",
