@@ -1362,18 +1362,21 @@
       "name": "Toro",
       "char": 4,
       "skin": true,
-      "area": 5,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 21,
-      "bwep": 3,
+      "wep": 3,
+      "bwep": 11,
       "win": false,
-      "kills": 232,
-      "ultra": 0,
+      "kills": 539,
+      "ultra": 1,
       "skills": [
         27,
-        10,
-        4
+        3,
+        21,
+        4,
+        14,
+        6
       ],
       "crown": 7,
       "version": "v2527",
@@ -2698,6 +2701,27 @@
       "skills": [
         25,
         4
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Ryojii": {
+      "name": "Ryojii",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 69,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        3
       ],
       "crown": 7,
       "version": "v2527",
