@@ -1050,17 +1050,17 @@
       "char": 4,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 3,
-      "bwep": 17,
+      "wep": 88,
+      "bwep": 69,
       "win": false,
-      "kills": 112,
+      "kills": 204,
       "ultra": 0,
       "skills": [
         12,
-        25,
-        14
+        27,
+        23
       ],
       "crown": 7,
       "version": "v2602",
@@ -2780,6 +2780,47 @@
       "ultra": 0,
       "skills": [
         27,
+        23
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker329": {
+      "name": "Seeker329",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 50,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        10
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "diamaflor777": {
+      "name": "diamaflor777",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 51,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        7,
         23
       ],
       "crown": 7,
