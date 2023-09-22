@@ -3108,20 +3108,44 @@
       "name": "Seeker873",
       "char": 4,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 5,
+      "subarea": 1,
       "loops": 0,
       "wep": 51,
-      "bwep": 69,
+      "bwep": 65,
       "win": false,
-      "kills": 205,
+      "kills": 291,
       "ultra": 0,
       "skills": [
         27,
-        3
+        3,
+        4,
+        10,
+        6
       ],
       "crown": 7,
       "version": "v2602",
+      "uid": null
+    },
+    "sargo": {
+      "name": "sargo",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 17,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        12,
+        27,
+        19
+      ],
+      "crown": 7,
+      "version": "v2527",
       "uid": null
     }
   }
