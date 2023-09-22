@@ -2429,12 +2429,13 @@
       "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 51,
-      "bwep": 30,
+      "wep": 69,
+      "bwep": 51,
       "win": false,
-      "kills": 126,
+      "kills": 135,
       "ultra": 0,
       "skills": [
+        27,
         23
       ],
       "crown": 7,
@@ -2866,6 +2867,26 @@
       "skills": [
         27,
         21
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Throneseeker153": {
+      "name": "Throneseeker153",
+      "char": 4,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 11,
+      "win": false,
+      "kills": 211,
+      "ultra": 0,
+      "skills": [
+        27,
+        16
       ],
       "crown": 7,
       "version": "v2527",
