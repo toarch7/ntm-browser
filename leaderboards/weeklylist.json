@@ -2960,6 +2960,25 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "Seeker655": {
+      "name": "Seeker655",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 17,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
