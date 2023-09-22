@@ -2745,6 +2745,26 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Doumier": {
+      "name": "Doumier",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 27,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        12,
+        27
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
