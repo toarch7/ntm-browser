@@ -1,4 +1,118 @@
 {
   "day": 22,
-  "entries": {}
+  "entries": {
+    "1154596177589842030": {
+      "name": "Toro",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 80,
+      "win": false,
+      "kills": 192,
+      "ultra": 0,
+      "skills": [
+        9,
+        14,
+        21,
+        3
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1154590244193193994": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1154588204855464037": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        13,
+        7,
+        2
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1154587677681799178": {
+      "name": "Throneseeker413",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        13,
+        7
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1154583058062778408": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 19,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        1,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1154579128436146226": {
+      "name": "Jhoansito",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    }
+  }
 }
