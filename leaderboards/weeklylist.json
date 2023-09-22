@@ -2791,12 +2791,12 @@
       "char": 4,
       "skin": true,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
       "wep": 51,
       "bwep": 50,
       "win": false,
-      "kills": 144,
+      "kills": 183,
       "ultra": 0,
       "skills": [
         25,
@@ -2822,6 +2822,46 @@
       "skills": [
         7,
         23
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "JohnikS": {
+      "name": "JohnikS",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 51,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        26,
+        23
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker869": {
+      "name": "Seeker869",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 51,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        27,
+        21
       ],
       "crown": 7,
       "version": "v2527",
