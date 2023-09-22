@@ -3166,6 +3166,72 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker751": {
+      "name": "Seeker751",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 51,
+      "win": false,
+      "kills": 332,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        4,
+        14
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Fabeih": {
+      "name": "Fabeih",
+      "char": 4,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 88,
+      "win": false,
+      "kills": 214,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        28
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "panquesito": {
+      "name": "panquesito",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 113,
+      "win": false,
+      "kills": 248,
+      "ultra": 0,
+      "skills": [
+        25,
+        14,
+        3,
+        28,
+        13
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
