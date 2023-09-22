@@ -462,6 +462,28 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1154674246996480082": {
+      "name": "MaxwellLink",
+      "char": 6,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 39,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        28,
+        27
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
