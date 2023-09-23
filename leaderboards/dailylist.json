@@ -1131,6 +1131,94 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1155207009013076099": {
+      "name": "Loocoorr",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 25,
+      "win": false,
+      "kills": 211,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        4,
+        3,
+        21,
+        26
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
+    },
+    "1155204073046425670": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1155202031091458200": {
+      "name": "Seeker712",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 7,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1155201155736010842": {
+      "name": "Jesus",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 14,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1155198214035734591": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 20,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

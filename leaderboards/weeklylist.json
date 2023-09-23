@@ -3604,6 +3604,45 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "кот": {
+      "name": "кот",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 44,
+      "bwep": 17,
+      "win": false,
+      "kills": 214,
+      "ultra": 0,
+      "skills": [
+        27,
+        3
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Chesko": {
+      "name": "Chesko",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 0,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2523",
+      "uid": null
     }
   }
 }
