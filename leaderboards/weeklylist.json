@@ -3229,17 +3229,16 @@
       "char": 4,
       "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 3,
-      "bwep": 113,
+      "wep": 88,
+      "bwep": 14,
       "win": false,
-      "kills": 248,
+      "kills": 314,
       "ultra": 0,
       "skills": [
-        25,
-        14,
-        3,
+        27,
+        16,
         28,
         13
       ],
@@ -3658,6 +3657,29 @@
       "ultra": 0,
       "skills": [
         7
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "lbhcncbchc": {
+      "name": "lbhcncbchc",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 51,
+      "win": false,
+      "kills": 285,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        28,
+        24,
+        10
       ],
       "crown": 7,
       "version": "v2527",
