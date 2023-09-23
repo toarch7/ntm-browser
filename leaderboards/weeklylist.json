@@ -3094,17 +3094,23 @@
       "name": "Seeker346",
       "char": 4,
       "skin": true,
-      "area": 104,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
       "wep": 51,
-      "bwep": 14,
+      "bwep": 96,
       "win": false,
-      "kills": 243,
-      "ultra": 0,
+      "kills": 518,
+      "ultra": 2,
       "skills": [
         27,
-        3
+        3,
+        4,
+        14,
+        6,
+        10,
+        26,
+        8
       ],
       "crown": 7,
       "version": "v2602",
@@ -3493,6 +3499,27 @@
       "skills": [
         23,
         3
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Crystalrebel": {
+      "name": "Crystalrebel",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 51,
+      "win": false,
+      "kills": 276,
+      "ultra": 0,
+      "skills": [
+        27,
+        16,
+        4
       ],
       "crown": 7,
       "version": "v2602",
