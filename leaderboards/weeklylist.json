@@ -91,16 +91,18 @@
       "name": "Seeker555",
       "char": 4,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 88,
-      "bwep": 21,
+      "wep": 69,
+      "bwep": 30,
       "win": false,
-      "kills": 90,
+      "kills": 201,
       "ultra": 0,
       "skills": [
-        23
+        7,
+        10,
+        21
       ],
       "crown": 7,
       "version": "v2602",
@@ -3368,6 +3370,26 @@
       "skills": [
         26,
         27
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "DimonInferno": {
+      "name": "DimonInferno",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 88,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        25,
+        14
       ],
       "crown": 7,
       "version": "v2527",
