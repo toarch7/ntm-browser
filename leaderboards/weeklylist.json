@@ -3544,6 +3544,27 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "klaudi": {
+      "name": "klaudi",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 51,
+      "win": false,
+      "kills": 171,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        10
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }

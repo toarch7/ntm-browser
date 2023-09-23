@@ -934,6 +934,71 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1155158867982958672": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1155151978465345536": {
+      "name": "Scrotum",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 27,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        28,
+        8
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "8j155aHppK4vVcs": {
+      "name": "EvilCat",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": "v2610",
+      "uid": "8j155aHppK4vVcs"
+    },
+    "1155145947521765427": {
+      "name": "Seeker550",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
