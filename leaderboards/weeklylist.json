@@ -3643,6 +3643,25 @@
       "crown": 7,
       "version": "v2523",
       "uid": null
+    },
+    "anbu": {
+      "name": "anbu",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 27,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
