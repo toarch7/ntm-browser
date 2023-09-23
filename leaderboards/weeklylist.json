@@ -3416,6 +3416,26 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "Seeker938": {
+      "name": "Seeker938",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 51,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        25,
+        14
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
