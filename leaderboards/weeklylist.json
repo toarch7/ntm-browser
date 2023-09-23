@@ -3352,6 +3352,26 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "SEMPAIGD6": {
+      "name": "SEMPAIGD6",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 51,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        26,
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
