@@ -666,21 +666,22 @@
     },
     "Camilo": {
       "name": "Camilo",
-      "char": 6,
+      "char": 4,
       "skin": true,
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 32,
-      "bwep": 6,
+      "wep": 51,
+      "bwep": 88,
       "win": false,
-      "kills": 35,
+      "kills": 88,
       "ultra": 0,
       "skills": [
-        9,
+        26,
+        25,
         4
       ],
-      "crown": 6,
+      "crown": 7,
       "version": "v2527",
       "uid": null
     },
@@ -3448,13 +3449,13 @@
       "name": "streponator",
       "char": 4,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 51,
+      "wep": 51,
+      "bwep": 88,
       "win": false,
-      "kills": 202,
+      "kills": 219,
       "ultra": 0,
       "skills": [
         12,
@@ -3564,6 +3565,44 @@
       ],
       "crown": 7,
       "version": "v2602",
+      "uid": null
+    },
+    "E.R.A.N.E": {
+      "name": "E.R.A.N.E",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 30,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Sum": {
+      "name": "Sum",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 30,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
       "uid": null
     }
   }
