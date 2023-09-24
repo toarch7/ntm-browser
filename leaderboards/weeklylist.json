@@ -3848,6 +3848,26 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Sanik": {
+      "name": "Sanik",
+      "char": 4,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 69,
+      "win": false,
+      "kills": 219,
+      "ultra": 0,
+      "skills": [
+        27,
+        10
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

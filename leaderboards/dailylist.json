@@ -320,6 +320,47 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1155388083458547844": {
+      "name": "nuc1ear",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 1,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1155377295289233438": {
+      "name": "Throneseeker413",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 90,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        21,
+        13,
+        10,
+        23
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
