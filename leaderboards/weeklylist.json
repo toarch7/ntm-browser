@@ -3414,14 +3414,13 @@
       "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 17,
+      "wep": 19,
       "bwep": 51,
       "win": false,
-      "kills": 109,
+      "kills": 117,
       "ultra": 0,
       "skills": [
-        25,
-        4
+        27
       ],
       "crown": 7,
       "version": "v2602",
@@ -3824,6 +3823,27 @@
         26,
         23,
         10
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "ofenderdemon": {
+      "name": "ofenderdemon",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 51,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        7,
+        19,
+        3
       ],
       "crown": 7,
       "version": "v2527",
