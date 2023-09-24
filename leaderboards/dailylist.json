@@ -361,6 +361,46 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1155394930668212295": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1155392604939243520": {
+      "name": "YAGAMI",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 72,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        25,
+        9,
+        13
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
