@@ -2214,17 +2214,16 @@
       "name": "Sundaecakes",
       "char": 4,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 51,
-      "bwep": 21,
+      "wep": 3,
+      "bwep": 51,
       "win": false,
-      "kills": 102,
+      "kills": 127,
       "ultra": 0,
       "skills": [
-        27,
-        23
+        27
       ],
       "crown": 7,
       "version": "v2602",
