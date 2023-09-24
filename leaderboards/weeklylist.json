@@ -3972,6 +3972,29 @@
       "crown": 7,
       "version": "v2523",
       "uid": null
+    },
+    "Arakyn": {
+      "name": "Arakyn",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 113,
+      "win": false,
+      "kills": 333,
+      "ultra": 0,
+      "skills": [
+        27,
+        10,
+        4,
+        14,
+        6
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
