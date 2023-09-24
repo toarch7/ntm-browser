@@ -3912,6 +3912,45 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "DIO": {
+      "name": "DIO",
+      "char": 4,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 51,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        27,
+        10
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "Throneseeker142": {
+      "name": "Throneseeker142",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 27,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
