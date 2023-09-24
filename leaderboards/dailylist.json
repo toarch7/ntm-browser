@@ -1151,6 +1151,150 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1155552212810993725": {
+      "name": "Seeker712",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 75,
+      "win": false,
+      "kills": 267,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        7,
+        14,
+        3
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1155549221898960946": {
+      "name": "Seeker538",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 49,
+      "bwep": 29,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        25,
+        6,
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1155544727622529094": {
+      "name": "Seeker712",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": "v2522",
+      "uid": null
+    },
+    "1155543780796149850": {
+      "name": "panquesito",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 3,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1155543653469671454": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 1,
+      "win": false,
+      "kills": 14,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "8j155aHppK4vVcs": {
+      "name": "EvilCat",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 119,
+      "win": false,
+      "kills": 187,
+      "ultra": 0,
+      "skills": [
+        21,
+        6,
+        7,
+        23
+      ],
+      "crown": 11,
+      "version": "v2610",
+      "uid": "8j155aHppK4vVcs"
+    },
+    "1155539319902183535": {
+      "name": "kratos",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 29,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        21,
+        24,
+        10,
+        4
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
