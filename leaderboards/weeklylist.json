@@ -4056,6 +4056,45 @@
       "crown": 7,
       "version": "v2523",
       "uid": null
+    },
+    "Jesus": {
+      "name": "Jesus",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 88,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        12,
+        25
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    },
+    "knafte_g": {
+      "name": "knafte_g",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 17,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
