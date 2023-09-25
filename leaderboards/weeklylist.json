@@ -195,6 +195,26 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "": {
+      "name": "",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 16,
+      "win": false,
+      "kills": 118,
+      "ultra": 0,
+      "skills": [
+        10,
+        26
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
