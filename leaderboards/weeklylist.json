@@ -147,6 +147,28 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "Seeker873": {
+      "name": "Seeker873",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 30,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        4,
+        27
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
