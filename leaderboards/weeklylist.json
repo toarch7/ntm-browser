@@ -48,6 +48,29 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Принтер": {
+      "name": "Принтер",
+      "char": 4,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 51,
+      "win": false,
+      "kills": 245,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        27,
+        1,
+        14
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
