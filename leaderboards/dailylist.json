@@ -1005,6 +1005,74 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1155884880895418469": {
+      "name": "Jesus",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 21,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1155884273677643867": {
+      "name": "tumami",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1155882687324770304": {
+      "name": "Throneseeker413",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 25,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1155880193475477514": {
+      "name": "Seeker373",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 21,
+      "win": false,
+      "kills": 26,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
