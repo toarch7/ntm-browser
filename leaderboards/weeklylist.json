@@ -1,4 +1,49 @@
 {
   "seed": 684406990,
-  "entries": {}
+  "entries": {
+    "Neptune": {
+      "name": "Neptune",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 51,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        12,
+        4
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker712": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 25,
+      "win": false,
+      "kills": 538,
+      "ultra": 1,
+      "skills": [
+        8,
+        4,
+        1,
+        14,
+        27,
+        12
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
+    }
+  }
 }
