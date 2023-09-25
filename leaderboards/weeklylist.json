@@ -355,6 +355,26 @@
       "crown": 7,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker072": {
+      "name": "Seeker072",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 17,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        12,
+        6
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
