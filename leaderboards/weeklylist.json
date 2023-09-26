@@ -552,22 +552,25 @@
       "name": "Seeker413",
       "char": 10,
       "skin": false,
-      "area": 6,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 74,
+      "wep": 73,
       "bwep": 22,
       "win": false,
-      "kills": 254,
+      "kills": 309,
       "ultra": 0,
       "skills": [
         8,
+        10,
         4,
         27,
-        1
+        1,
+        14,
+        28
       ],
       "crown": 12,
-      "version": "v2527",
+      "version": "v2602",
       "uid": null
     },
     "Kotoro56": {
@@ -827,6 +830,50 @@
       ],
       "crown": 12,
       "version": "v2527",
+      "uid": null
+    },
+    "Seeker420": {
+      "name": "Seeker420",
+      "char": 10,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 11,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        27
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "daft": {
+      "name": "daft",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 58,
+      "win": false,
+      "kills": 198,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        27,
+        1,
+        14
+      ],
+      "crown": 12,
+      "version": "v2602",
       "uid": null
     }
   }
