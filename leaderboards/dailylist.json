@@ -763,6 +763,106 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1156203958990295040": {
+      "name": "LisArt10",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 52,
+      "bwep": 58,
+      "win": false,
+      "kills": 540,
+      "ultra": 0,
+      "skills": [
+        3,
+        22,
+        9,
+        23,
+        27,
+        14,
+        7
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "1156198939247247462": {
+      "name": "Typhz",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 119,
+      "bwep": 26,
+      "win": false,
+      "kills": 263,
+      "ultra": 0,
+      "skills": [
+        6,
+        22,
+        4,
+        23,
+        16,
+        27
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1156198386911936523": {
+      "name": "Rami",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1156194087490310205": {
+      "name": "Seeker198",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 17,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1156192482485338173": {
+      "name": "Masaddox",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 17,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
