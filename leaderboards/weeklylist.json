@@ -1805,6 +1805,67 @@
       "crown": 12,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker278": {
+      "name": "Seeker278",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "Doumier": {
+      "name": "Doumier",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 11,
+      "win": false,
+      "kills": 187,
+      "ultra": 0,
+      "skills": [
+        12,
+        2,
+        27,
+        1
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "plusmoney": {
+      "name": "plusmoney",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 22,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        8,
+        3
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
