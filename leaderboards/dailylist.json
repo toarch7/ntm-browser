@@ -187,6 +187,40 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1156080497525538856": {
+      "name": "Max.",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 19,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1156071306077425754": {
+      "name": "tizi10",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 7,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

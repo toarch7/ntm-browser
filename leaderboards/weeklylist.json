@@ -526,6 +526,49 @@
       "crown": 12,
       "version": "v2527",
       "uid": null
+    },
+    "Dickey": {
+      "name": "Dickey",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 22,
+      "win": false,
+      "kills": 164,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        27
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker413": {
+      "name": "Seeker413",
+      "char": 10,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 22,
+      "win": false,
+      "kills": 254,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        27,
+        1
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
