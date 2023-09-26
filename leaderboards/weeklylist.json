@@ -375,6 +375,27 @@
       "crown": 7,
       "version": "v2602",
       "uid": null
+    },
+    "Cardoso": {
+      "name": "Cardoso",
+      "char": 4,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 114,
+      "win": false,
+      "kills": 227,
+      "ultra": 0,
+      "skills": [
+        8,
+        12,
+        1
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
