@@ -1439,6 +1439,113 @@
       "crown": 12,
       "version": "v2602",
       "uid": null
+    },
+    "Scrotum": {
+      "name": "Scrotum",
+      "char": 10,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 22,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        8,
+        4
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Felix0812": {
+      "name": "Felix0812",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 17,
+      "win": false,
+      "kills": 285,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        27,
+        14,
+        26
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker787": {
+      "name": "Seeker787",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 22,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Vetek": {
+      "name": "Vetek",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 30,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        8,
+        4
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "rooledreck": {
+      "name": "rooledreck",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 25,
+      "win": false,
+      "kills": 297,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        4,
+        27,
+        1,
+        25,
+        17
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
