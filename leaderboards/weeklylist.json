@@ -577,17 +577,18 @@
       "name": "Kotoro56",
       "char": 10,
       "skin": false,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 57,
-      "bwep": 22,
+      "wep": 72,
+      "bwep": 2,
       "win": false,
-      "kills": 111,
+      "kills": 121,
       "ultra": 0,
       "skills": [
+        16,
         4,
-        12
+        27
       ],
       "crown": 12,
       "version": "v2527",
@@ -874,6 +875,76 @@
       ],
       "crown": 12,
       "version": "v2602",
+      "uid": null
+    },
+    "DEBIL_HUNTER": {
+      "name": "DEBIL_HUNTER",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 22,
+      "win": false,
+      "kills": 309,
+      "ultra": 0,
+      "skills": [
+        8,
+        3,
+        4,
+        27,
+        17,
+        1,
+        25,
+        9
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "Ziga": {
+      "name": "Ziga",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 7,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        12,
+        3
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "AirEnd765": {
+      "name": "AirEnd765",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 22,
+      "win": false,
+      "kills": 285,
+      "ultra": 0,
+      "skills": [
+        12,
+        4,
+        27,
+        9,
+        14,
+        25
+      ],
+      "crown": 12,
+      "version": "v2527",
       "uid": null
     }
   }
