@@ -1698,6 +1698,70 @@
       "crown": 12,
       "version": "v2602",
       "uid": null
+    },
+    "Seeker477": {
+      "name": "Seeker477",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 2,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "HvRctpMF4nukRh9": {
+      "name": "Czimbala",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 9,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        16,
+        3,
+        4,
+        27
+      ],
+      "crown": 12,
+      "version": "v2610",
+      "uid": "HvRctpMF4nukRh9"
+    },
+    "MaxGt13": {
+      "name": "MaxGt13",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 113,
+      "win": false,
+      "kills": 302,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        27,
+        14,
+        28
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
