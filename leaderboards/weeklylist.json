@@ -1040,6 +1040,106 @@
       "crown": 12,
       "version": "v2527",
       "uid": null
+    },
+    "Diccas": {
+      "name": "Diccas",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 2,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        2,
+        26
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "Yolker": {
+      "name": "Yolker",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 11,
+      "win": false,
+      "kills": 285,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        27,
+        1,
+        14,
+        3
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker768": {
+      "name": "Seeker768",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 22,
+      "win": false,
+      "kills": 63,
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "webber": {
+      "name": "webber",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 22,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        8,
+        6
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "gerkules12": {
+      "name": "gerkules12",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 35,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        4,
+        27,
+        1
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
