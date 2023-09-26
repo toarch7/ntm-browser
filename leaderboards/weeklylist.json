@@ -1204,6 +1204,89 @@
       "crown": 12,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker237": {
+      "name": "Seeker237",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 21,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        12,
+        10
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "josh": {
+      "name": "josh",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 74,
+      "win": false,
+      "kills": 292,
+      "ultra": 0,
+      "skills": [
+        8,
+        3,
+        4,
+        27,
+        14,
+        28
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "SAYDAXXD": {
+      "name": "SAYDAXXD",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 69,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        8,
+        10
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Felgo": {
+      "name": "Felgo",
+      "char": 12,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 3,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

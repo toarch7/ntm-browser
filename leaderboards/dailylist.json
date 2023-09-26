@@ -990,6 +990,65 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1156247364999331951": {
+      "name": "giang",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 17,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        7,
+        3
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1156239300053176380": {
+      "name": "Felgo",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 8,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        3,
+        22,
+        4,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1156238005137326210": {
+      "name": "rhoveen",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
