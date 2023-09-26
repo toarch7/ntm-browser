@@ -1259,6 +1259,63 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "Tzg4bVfrQTVpZCw": {
+      "name": "SKU",
+      "char": 9,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 35,
+      "bwep": 74,
+      "win": false,
+      "kills": 1413,
+      "ultra": 1,
+      "skills": [
+        3,
+        22,
+        4,
+        23,
+        27,
+        13,
+        7
+      ],
+      "crown": 7,
+      "version": "v2610",
+      "uid": "Tzg4bVfrQTVpZCw"
+    },
+    "1156318304659570759": {
+      "name": "Throneseeker413",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1156311082000977980": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 7,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
