@@ -629,6 +629,49 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1156161047468716103": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        7,
+        6
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1156159697477435453": {
+      "name": "DEBIL_HUNTER",
+      "char": 2,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 34,
+      "win": false,
+      "kills": 219,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        7,
+        22,
+        17
+      ],
+      "crown": 4,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
