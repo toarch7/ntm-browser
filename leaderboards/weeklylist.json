@@ -1546,6 +1546,72 @@
       "crown": 12,
       "version": "v2602",
       "uid": null
+    },
+    "Seeker242": {
+      "name": "Seeker242",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 58,
+      "win": false,
+      "kills": 192,
+      "ultra": 0,
+      "skills": [
+        4,
+        21,
+        1,
+        8
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Yato": {
+      "name": "Yato",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 22,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Toro": {
+      "name": "Toro",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 11,
+      "win": false,
+      "kills": 321,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        27,
+        1,
+        14,
+        25,
+        21
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
