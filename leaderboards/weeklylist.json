@@ -2592,14 +2592,14 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 2,
-      "bwep": 22,
+      "wep": 22,
+      "bwep": 2,
       "win": false,
-      "kills": 59,
+      "kills": 60,
       "ultra": 0,
       "skills": [
         12,
-        10
+        3
       ],
       "crown": 12,
       "version": "v2527",
@@ -2647,6 +2647,49 @@
       "skills": [
         3,
         4
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker685": {
+      "name": "Seeker685",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 3,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        1
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "Survival461": {
+      "name": "Survival461",
+      "char": 10,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 21,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        4,
+        27
       ],
       "crown": 12,
       "version": "v2527",
