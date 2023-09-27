@@ -944,6 +944,64 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1156606548336988260": {
+      "name": "Seeker413",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 80,
+      "bwep": 11,
+      "win": false,
+      "kills": 202,
+      "ultra": 0,
+      "skills": [
+        23,
+        14,
+        27,
+        3,
+        1
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1156602639228878969": {
+      "name": "Rostik",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 31,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        9,
+        16
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1156598908139618404": {
+      "name": "Felix0812",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 17,
+      "win": false,
+      "kills": 14,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
