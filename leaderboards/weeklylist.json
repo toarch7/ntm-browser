@@ -2483,6 +2483,69 @@
       "crown": 12,
       "version": "v2602",
       "uid": null
+    },
+    "Emmma": {
+      "name": "Emmma",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 22,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "david": {
+      "name": "david",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 16,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        12,
+        4
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "kratos": {
+      "name": "kratos",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 25,
+      "win": false,
+      "kills": 332,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        21,
+        1,
+        16,
+        27
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
