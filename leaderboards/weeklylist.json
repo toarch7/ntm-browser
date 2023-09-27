@@ -2228,13 +2228,14 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 3,
-      "bwep": 22,
+      "wep": 2,
+      "bwep": 3,
       "win": false,
-      "kills": 46,
+      "kills": 57,
       "ultra": 0,
       "skills": [
-        16
+        16,
+        3
       ],
       "crown": 12,
       "version": "v2527",
@@ -2254,6 +2255,77 @@
       "ultra": 0,
       "skills": [
         2
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "integra": {
+      "name": "integra",
+      "char": 10,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 91,
+      "win": false,
+      "kills": 210,
+      "ultra": 0,
+      "skills": [
+        16,
+        2,
+        26,
+        27,
+        1,
+        12
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "KHEVIN": {
+      "name": "KHEVIN",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 3,
+      "win": false,
+      "kills": 199,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        27,
+        1,
+        14
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Rafa": {
+      "name": "Rafa",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 89,
+      "win": false,
+      "kills": 310,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        4,
+        27,
+        14,
+        28
       ],
       "crown": 12,
       "version": "v2527",
