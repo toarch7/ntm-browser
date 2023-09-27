@@ -441,6 +441,98 @@
       "crown": 1,
       "version": "v2523",
       "uid": null
+    },
+    "1156485001848815677": {
+      "name": "Seeker420",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1156484913822965820": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 1,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1156483800520466492": {
+      "name": "rhoveen",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 72,
+      "bwep": 4,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        9,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1156482613066858536": {
+      "name": "Seeker413",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 17,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1156481999486341130": {
+      "name": "СПУТНХ",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 17,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
