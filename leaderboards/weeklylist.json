@@ -2350,6 +2350,94 @@
       "crown": 12,
       "version": "v2527",
       "uid": null
+    },
+    "BocKySx": {
+      "name": "BocKySx",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 22,
+      "win": false,
+      "kills": 511,
+      "ultra": 2,
+      "skills": [
+        8,
+        4,
+        27,
+        1,
+        14,
+        25,
+        3,
+        9
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker933": {
+      "name": "Seeker933",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 57,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        12
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Gushiloid": {
+      "name": "Gushiloid",
+      "char": 10,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 22,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        3,
+        25,
+        17,
+        27
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "panquesito": {
+      "name": "panquesito",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 22,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
