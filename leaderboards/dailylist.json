@@ -1,4 +1,142 @@
 {
   "day": 27,
-  "entries": {}
+  "entries": {
+    "1156415737221615716": {
+      "name": "david",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1156403837943418992": {
+      "name": "ignata",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 1,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        19,
+        9
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1156387508578431047": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1156385550761205810": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1156384728069455942": {
+      "name": "Pixelboi321",
+      "char": 7,
+      "skin": false,
+      "area": 105,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 8,
+      "win": false,
+      "kills": 197,
+      "ultra": 0,
+      "skills": [
+        6,
+        9,
+        23
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1156384573492576286": {
+      "name": "DOrtti",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 17,
+      "win": false,
+      "kills": 60,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1156383890081063023": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": "v2522",
+      "uid": null
+    },
+    "1156380748153094194": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 17,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    }
+  }
 }
