@@ -404,12 +404,13 @@
       "area": 3,
       "subarea": 2,
       "loops": 0,
-      "wep": 17,
-      "bwep": 22,
+      "wep": 22,
+      "bwep": 17,
       "win": false,
-      "kills": 82,
+      "kills": 83,
       "ultra": 0,
       "skills": [
+        10,
         4
       ],
       "crown": 12,
@@ -750,21 +751,24 @@
       "name": "leonid",
       "char": 10,
       "skin": false,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
       "wep": 22,
-      "bwep": 30,
+      "bwep": 113,
       "win": false,
-      "kills": 197,
+      "kills": 290,
       "ultra": 0,
       "skills": [
-        8,
+        16,
         3,
         4,
         27,
         1,
-        21
+        14,
+        25,
+        17,
+        9
       ],
       "crown": 12,
       "version": "v2602",
@@ -2131,6 +2135,90 @@
       ],
       "crown": 12,
       "version": "v2602",
+      "uid": null
+    },
+    "Master": {
+      "name": "Master",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 17,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        4
+      ],
+      "crown": 12,
+      "version": "v2523",
+      "uid": null
+    },
+    "Seeker210": {
+      "name": "Seeker210",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 22,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        16,
+        2,
+        6
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "Throneseeker265": {
+      "name": "Throneseeker265",
+      "char": 10,
+      "skin": false,
+      "area": 105,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 22,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        25
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "Typhz": {
+      "name": "Typhz",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 43,
+      "win": false,
+      "kills": 165,
+      "ultra": 0,
+      "skills": [
+        12,
+        27,
+        1
+      ],
+      "crown": 12,
+      "version": "v2527",
       "uid": null
     }
   }
