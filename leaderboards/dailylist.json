@@ -604,6 +604,46 @@
       "crown": 4,
       "version": "v2527",
       "uid": null
+    },
+    "1156517989290623016": {
+      "name": "Seeker413",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 75,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        9,
+        14,
+        16
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1156506807720747099": {
+      "name": "Pablo",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

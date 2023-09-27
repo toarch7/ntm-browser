@@ -2109,6 +2109,29 @@
       "crown": 12,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker329": {
+      "name": "Seeker329",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 22,
+      "win": false,
+      "kills": 205,
+      "ultra": 0,
+      "skills": [
+        8,
+        2,
+        4,
+        1,
+        12
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
