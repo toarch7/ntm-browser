@@ -1985,6 +1985,45 @@
       "crown": 12,
       "version": "v2527",
       "uid": null
+    },
+    "SEMPAIGD6": {
+      "name": "SEMPAIGD6",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 63,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker757": {
+      "name": "Seeker757",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 31,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        8,
+        10
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
