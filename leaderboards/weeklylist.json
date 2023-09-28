@@ -2900,6 +2900,48 @@
       "crown": 12,
       "version": "v2602",
       "uid": null
+    },
+    "Bad_player": {
+      "name": "Bad_player",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 2,
+      "win": false,
+      "kills": 181,
+      "ultra": 0,
+      "skills": [
+        12,
+        10,
+        27,
+        1
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Russell": {
+      "name": "Russell",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 57,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        8,
+        4
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
