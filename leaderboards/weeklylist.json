@@ -3376,6 +3376,30 @@
       "crown": 12,
       "version": "v2602",
       "uid": null
+    },
+    "Spooky": {
+      "name": "Spooky",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 30,
+      "win": false,
+      "kills": 200,
+      "ultra": 0,
+      "skills": [
+        8,
+        2,
+        4,
+        21,
+        1,
+        27
+      ],
+      "crown": 12,
+      "version": "v2523",
+      "uid": null
     }
   }
 }
