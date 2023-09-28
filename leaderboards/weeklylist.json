@@ -3068,6 +3068,70 @@
       "crown": 12,
       "version": "v2602",
       "uid": null
+    },
+    "Seeker913": {
+      "name": "Seeker913",
+      "char": 10,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 11,
+      "win": false,
+      "kills": 160,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        27
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "LilHunter130": {
+      "name": "LilHunter130",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 37,
+      "win": false,
+      "kills": 169,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        4,
+        27,
+        1
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker538": {
+      "name": "Seeker538",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 17,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        12,
+        10
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
