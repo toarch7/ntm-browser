@@ -1471,17 +1471,18 @@
       "char": 10,
       "skin": false,
       "area": 7,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
       "wep": 22,
-      "bwep": 17,
+      "bwep": 80,
       "win": false,
-      "kills": 285,
+      "kills": 310,
       "ultra": 0,
       "skills": [
         8,
         4,
         27,
+        1,
         14,
         26
       ],
@@ -3175,6 +3176,67 @@
       ],
       "crown": 12,
       "version": "v2527",
+      "uid": null
+    },
+    "Eloy": {
+      "name": "Eloy",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 17,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        8,
+        4
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker198": {
+      "name": "Seeker198",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 7,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        12,
+        3
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker122": {
+      "name": "Seeker122",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 22,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        16,
+        3,
+        4
+      ],
+      "crown": 12,
+      "version": "v2602",
       "uid": null
     }
   }
