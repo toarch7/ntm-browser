@@ -1237,6 +1237,43 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1157077453408317532": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1157064278797455400": {
+      "name": "ofenderdemon",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 66,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        13,
+        22
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
