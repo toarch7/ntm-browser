@@ -1711,13 +1711,14 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 22,
-      "bwep": 2,
+      "wep": 2,
+      "bwep": 22,
       "win": false,
-      "kills": 40,
+      "kills": 61,
       "ultra": 0,
       "skills": [
-        2
+        12,
+        3
       ],
       "crown": 12,
       "version": "v2602",
@@ -2693,6 +2694,109 @@
       ],
       "crown": 12,
       "version": "v2527",
+      "uid": null
+    },
+    "Laucha": {
+      "name": "Laucha",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 22,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        4
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "DJ_PROX": {
+      "name": "DJ_PROX",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 2,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "R1ht1r": {
+      "name": "R1ht1r",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 0,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        10,
+        4
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "РЫБАЧЛЕНОФИЛ": {
+      "name": "РЫБАЧЛЕНОФИЛ",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 11,
+      "win": false,
+      "kills": 194,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        27,
+        1,
+        21
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "marcos13": {
+      "name": "marcos13",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 17,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        16,
+        10
+      ],
+      "crown": 12,
+      "version": "v2602",
       "uid": null
     }
   }
