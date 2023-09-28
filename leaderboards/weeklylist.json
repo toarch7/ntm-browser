@@ -799,13 +799,13 @@
       "name": "Seeker603",
       "char": 10,
       "skin": false,
-      "area": 6,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
       "wep": 74,
-      "bwep": 25,
+      "bwep": 22,
       "win": false,
-      "kills": 238,
+      "kills": 279,
       "ultra": 0,
       "skills": [
         8,
@@ -2837,6 +2837,47 @@
       ],
       "crown": 12,
       "version": "v2602",
+      "uid": null
+    },
+    "JohnikS": {
+      "name": "JohnikS",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 22,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        8,
+        3
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "Throneseeker491": {
+      "name": "Throneseeker491",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 114,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        6
+      ],
+      "crown": 12,
+      "version": "v2523",
       "uid": null
     }
   }
