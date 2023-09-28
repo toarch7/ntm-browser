@@ -2879,6 +2879,27 @@
       "crown": 12,
       "version": "v2523",
       "uid": null
+    },
+    "Folk": {
+      "name": "Folk",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 35,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        4,
+        27,
+        1
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
