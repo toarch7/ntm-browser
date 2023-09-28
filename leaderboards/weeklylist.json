@@ -3243,17 +3243,19 @@
       "name": "Groudon",
       "char": 10,
       "skin": false,
-      "area": 4,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 22,
-      "bwep": 17,
+      "wep": 11,
+      "bwep": 22,
       "win": false,
-      "kills": 74,
+      "kills": 206,
       "ultra": 0,
       "skills": [
         10,
-        4
+        4,
+        27,
+        1
       ],
       "crown": 12,
       "version": "v2523",
@@ -3344,6 +3346,29 @@
       "skills": [
         8,
         4
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "suck": {
+      "name": "suck",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 9,
+      "win": false,
+      "kills": 240,
+      "ultra": 0,
+      "skills": [
+        3,
+        25,
+        17,
+        27,
+        1
       ],
       "crown": 12,
       "version": "v2602",
