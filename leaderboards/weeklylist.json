@@ -3288,19 +3288,65 @@
       "name": "ofenderdemon",
       "char": 10,
       "skin": false,
-      "area": 4,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 22,
-      "bwep": 37,
+      "wep": 113,
+      "bwep": 22,
       "win": false,
-      "kills": 120,
+      "kills": 295,
       "ultra": 0,
       "skills": [
-        6
+        16,
+        10,
+        6,
+        12,
+        1,
+        25,
+        3
       ],
       "crown": 12,
       "version": "v2527",
+      "uid": null
+    },
+    "KIRILLPLAY": {
+      "name": "KIRILLPLAY",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 72,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        8,
+        4
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Muck-et": {
+      "name": "Muck-et",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 2,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        8,
+        4
+      ],
+      "crown": 12,
+      "version": "v2602",
       "uid": null
     }
   }
