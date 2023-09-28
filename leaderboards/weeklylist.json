@@ -2701,17 +2701,16 @@
       "char": 10,
       "skin": false,
       "area": 5,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
       "wep": 17,
-      "bwep": 22,
+      "bwep": 23,
       "win": false,
-      "kills": 71,
+      "kills": 93,
       "ultra": 0,
       "skills": [
         8,
-        10,
-        4
+        27
       ],
       "crown": 12,
       "version": "v2527",
@@ -3049,6 +3048,25 @@
       ],
       "crown": 12,
       "version": "v2527",
+      "uid": null
+    },
+    "Seeker382": {
+      "name": "Seeker382",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 72,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 12,
+      "version": "v2602",
       "uid": null
     }
   }
