@@ -3007,6 +3007,49 @@
       "crown": 12,
       "version": "v2602",
       "uid": null
+    },
+    "Seeker458": {
+      "name": "Seeker458",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 22,
+      "win": false,
+      "kills": 294,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        27,
+        1,
+        21
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "DIO": {
+      "name": "DIO",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 22,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        12,
+        10
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
