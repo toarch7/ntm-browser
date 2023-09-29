@@ -3383,20 +3383,22 @@
       "name": "Spooky",
       "char": 10,
       "skin": false,
-      "area": 6,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
       "wep": 22,
-      "bwep": 2,
+      "bwep": 74,
       "win": false,
-      "kills": 216,
+      "kills": 316,
       "ultra": 0,
       "skills": [
         8,
-        2,
+        10,
         4,
         27,
-        1
+        1,
+        12,
+        25
       ],
       "crown": 12,
       "version": "v2523",
@@ -3967,6 +3969,28 @@
       "skills": [
         8,
         10,
+        4,
+        27
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Furretdnguwu": {
+      "name": "Furretdnguwu",
+      "char": 10,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 17,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        8,
+        3,
         4,
         27
       ],

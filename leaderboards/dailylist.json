@@ -1471,6 +1471,45 @@
       "crown": 1,
       "version": "v2523",
       "uid": null
+    },
+    "1157389759174422610": {
+      "name": "Franhacker10",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 4,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        14,
+        27
+      ],
+      "crown": 1,
+      "version": "v2522",
+      "uid": null
+    },
+    "1157384700961234995": {
+      "name": "Hiajen",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
