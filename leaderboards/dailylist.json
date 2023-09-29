@@ -1712,6 +1712,105 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1157440363498328084": {
+      "name": "Seeker413",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 0,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        4,
+        27
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1157437793983795281": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 20,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        4,
+        12
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1157431007004336229": {
+      "name": "Seeker555",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "HvRctpMF4nukRh9": {
+      "name": "Czimbala",
+      "char": 11,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 63,
+      "bwep": 22,
+      "win": false,
+      "kills": 464,
+      "ultra": 2,
+      "skills": [
+        22,
+        27,
+        14,
+        1,
+        4,
+        17,
+        3
+      ],
+      "crown": 7,
+      "version": "v2610",
+      "uid": "HvRctpMF4nukRh9"
+    },
+    "1157430212225679432": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
     }
   }
 }
