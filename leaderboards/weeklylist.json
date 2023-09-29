@@ -3838,6 +3838,29 @@
       "crown": 12,
       "version": "v2602",
       "uid": null
+    },
+    "DDD": {
+      "name": "DDD",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 89,
+      "win": false,
+      "kills": 189,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        4,
+        1,
+        12
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
