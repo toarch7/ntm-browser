@@ -3678,6 +3678,63 @@
       "crown": 12,
       "version": "v2602",
       "uid": null
+    },
+    "Timoxa": {
+      "name": "Timoxa",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 2,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "Throneseeker153": {
+      "name": "Throneseeker153",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 57,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Bazz": {
+      "name": "Bazz",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 22,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
