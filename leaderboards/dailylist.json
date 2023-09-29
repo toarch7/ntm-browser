@@ -512,6 +512,86 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1157212934133522452": {
+      "name": "TecHHONE",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1157211387551027291": {
+      "name": "Drangou",
+      "char": 11,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 2,
+      "wep": 92,
+      "bwep": 111,
+      "win": false,
+      "kills": 2461,
+      "ultra": 1,
+      "skills": [
+        23,
+        4,
+        27,
+        9,
+        7,
+        17,
+        3
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "1157207152889434173": {
+      "name": "LisArt10",
+      "char": 6,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 63,
+      "win": false,
+      "kills": 236,
+      "ultra": 0,
+      "skills": [
+        14,
+        27,
+        28,
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1157204911122026546": {
+      "name": "UmZeRTM",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 7,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
