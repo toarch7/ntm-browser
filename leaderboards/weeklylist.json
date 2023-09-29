@@ -3540,17 +3540,18 @@
       "name": "Трэш...",
       "char": 10,
       "skin": false,
-      "area": 3,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 17,
-      "bwep": 30,
+      "wep": 11,
+      "bwep": 17,
       "win": false,
-      "kills": 65,
+      "kills": 100,
       "ultra": 0,
       "skills": [
         8,
-        4
+        4,
+        12
       ],
       "crown": 12,
       "version": "v2527",
@@ -3594,6 +3595,26 @@
       ],
       "crown": 12,
       "version": "v2527",
+      "uid": null
+    },
+    "опал": {
+      "name": "опал",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 22,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        8,
+        10
+      ],
+      "crown": 12,
+      "version": "v2602",
       "uid": null
     }
   }
