@@ -2,7 +2,7 @@ const axios = require("axios");
 const fs = require("fs");
 
 const unix = str => (new Date(str)).getTime();
-const removeNTText = str => str.replace(/@r|\@\([^)]*\)/g, "").trim();
+const removeNTText = str => str.replace(/@.|\@\([^)]*\)/g, "").trim();
 const path2repo = path => {
     let p = path.split("/");
     return p[1] + "/" + p[2];
@@ -168,10 +168,8 @@ async function handlePack(name, item, meta) {
     try {
         let icon = await axios.get("https://raw.githubusercontent.com/" + name + "/" + item.default_branch + "/icon.png");
 
-        if (icon.statusCode == 200) {
-            console.log(name, "has an icon!");
-            hasIcon = true;
-        }
+        console.log(name, "has an icon!");
+        hasIcon = true;
     }
     catch(e) {
         console.log(name, "doesn't have an icon.");
