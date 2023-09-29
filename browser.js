@@ -2,6 +2,11 @@ const axios = require("axios");
 const fs = require("fs");
 
 const unix = str => (new Date(str)).getTime();
+const removeNTText = str => str.replace(/@r|\@\([^)]*\)/g, "").trim();
+const path2repo = path => {
+    let p = path.split("/");
+    return p[1] + "/" + p[2];
+}
 
 const params = {
     webhooks: {
@@ -11,11 +16,6 @@ const params = {
 
     token: process.env.API_TOKEN,
 };
-
-const path2repo = path => {
-    let p = path.split("/");
-    return p[1] + "/" + p[2];
-}
 
 const perpage = 30;
 
@@ -35,7 +35,7 @@ let requestList = [];
 let failureWait = 45;
 let page = 1;
 
-function gather() {
+async function gather() {
     const request = {
         url: "https://api.github.com/search/repositories",
         method: "GET",
@@ -46,6 +46,19 @@ function gather() {
             "page": page
         }
     };
+
+    const checkFailed = (then, caught) => {
+        return function(responses) {
+            responses.forEach(response => {
+                if (!response || response?.error)
+                    return caught(response);
+                
+                return then(response);
+            });
+        }
+    }
+    
+    const reduce = () => (!(-- packCount)) ? allDone() : null;
 
     axios.request(request)
         .then((response) => {
@@ -72,22 +85,27 @@ function gather() {
         }
 
         if ((page ++) >= maxPages) {
-            console.log("Fetch complete.");
-            console.log("Collecting pack meta.");
+            console.log("Gathering complete.");
+            console.log("Collecting metafiles...");
 
+            
             axios.all(requestList)
                 .then(
                     checkFailed(
                         (response) => {
                             let name = path2repo(response.request.path);
-                            handlePack(name, packsRaw[name], response.data);
                             
-                            if (!(-- packCount))
-                                allDone();
+                            handlePack(name, packsRaw[name], response.data)
+                                .then(reduce)
+                                .catch((err) => {
+                                    console.error(err);
+                                    reduce();
+                                });
                         },
+
                         (error) => {
                             console.log(error);
-                            console.log("ERROR");
+                            reduce();
                         }
                     )
                 )
@@ -105,25 +123,16 @@ function gather() {
     });
 }
 
-function checkFailed(then, caught) {
-    return function(responses) {
-        responses.forEach(response => {
-            if (!response || response?.error)
-                return caught(response);
-            
-            return then(response);
-        });
-    }
-}
-
-function handlePack(name, item, meta) {
+async function handlePack(name, item, meta) {
 	var last = packsLast[name];
 	
 	let updated = last && last.updated != unix(item.pushed_at);
     
 	let malformed = false;
 	let hidden = false;
-    
+
+    let hasIcon = false;
+
     if (blacklist.indexOf(name) != -1 || blacklist.indexOf("user:" + item.owner.login) != -1) {
         if (!last || (last && !last.hidden))
 			packsMalformed.push({ name: name, descriptionShort: "blacklisted" });
@@ -144,12 +153,28 @@ function handlePack(name, item, meta) {
         if (meta.hidden)
             return console.info("meta.hidden:", name);
         
+        if (typeof meta.name != "string" || typeof meta.description != "string" || typeof meta.descriptionShort != "string")
+            return console.info("Invalid meta fields");
+        
         if (!packsLast[name]) {
             packsNew.push(meta);
         }
         else if (updated) {
             packsUpdated.push(meta);
         }
+    }
+
+    
+    try {
+        let icon = await axios.get("https://raw.githubusercontent.com/" + name + "/" + item.default_branch + "/icon.png");
+
+        if (icon.statusCode == 200) {
+            console.log(name, "has an icon!");
+            hasIcon = true;
+        }
+    }
+    catch(e) {
+        console.log(name, "doesn't have an icon.");
     }
     
     packs[name] = {
@@ -160,14 +185,15 @@ function handlePack(name, item, meta) {
         updated: unix(item.pushed_at),
         stars: item.stargazers_count,
         branch: item.default_branch,
+        hasIcon: hasIcon,
 
         malformed: malformed,
         hidden: hidden,
 
         meta: {
-            name: meta.name ?? name,
-            descriptionShort: meta.descriptionShort ?? "NTM Resourcepack",
-            description: meta.description ?? "No description provided"
+            name: removeNTText(meta.name ?? name),
+            descriptionShort: removeNTText(meta.descriptionShort ?? "NTM Resourcepack"),
+            description: removeNTText(meta.description ?? "No description provided")
         }
     };
 	
@@ -175,23 +201,25 @@ function handlePack(name, item, meta) {
 		console.info("Pack added!", name);
 }
 
-function sendEmbed(kind, embeds) {
-    let url = params.webhooks[kind];
-
-    if (!url)
-        return;
-
-    axios.post(url, { content: "", embeds: embeds });
-}
-
 function allDone() {
     let today = new Date();
     let packList = Object.values(packs);
     let time = today.getHours() + ":" + today.getMinutes() + " " + today.getDate() + "/" + (today.getMonth() + 1) + "/" + today.getFullYear();
 
-    let diff = packList.length - Object.keys(packsLast).length;
+    console.log("All done.");
 
-    const removeNTText = str => str.replace(/@./g, "");
+    console.log(packsNew, "NEW");
+
+    const sendEmbed = (kind, embeds) => {
+        let url = params.webhooks[kind];
+    
+        if (!url)
+            return;
+    
+        axios.post(url, { content: "", embeds: embeds });
+    }
+
+    let diff = packList.length - Object.keys(packsLast).length;
 
     if (diff > 0) {
         diff = "(+" + diff + ")";
@@ -277,34 +305,42 @@ function allDone() {
 
 // beware the pipeline
 
-function start() {
-    axios.get("https://raw.githubusercontent.com/toarch7/ntm-browser/main/resourcepack-blacklist.json")
-        .then((response) => {
-            let data = response.data;
-            blacklist = data;
-            
-            gather();
-        })
-        .catch(() => {
-            console.warn("Was unable to fetch pack blacklist, proceeding anyway.");
+async function getResourcepacks() {
+    console.log("Fetch last list");
 
-            gather();
-        });
+    try {
+        let packs = (await axios.get("https://raw.githubusercontent.com/toarch7/ntm-browser/main/resourcepacks.json")).data;
+
+        if (!Array.isArray(blacklist))
+            throw new TypeError("Invalid `resourcepacks`. Expected Array, got " + (typeof blacklist));
+
+        for(let i of packs)
+            packsLast[i.full_name] = i;
+
+        await getBlacklist();
+    }
+    catch(e) {
+        console.error(e);
+        console.error("Was unable to fetch resourcepack list.");
+    }
 }
 
-axios.get("https://raw.githubusercontent.com/toarch7/ntm-browser/main/resourcepacks.json")
-    .then((response) => {
-        let data = response.data;
+async function getBlacklist() {
+    console.log("Fetch blacklist");
 
-        for(let i of data)
-            packsLast[i.full_name] = i;
-        
-        console.log("Previous count:", data.length);
-        
-        start();
-    })
-    .catch((ex) => {
-        console.log("Was unable to fetch previous list but oh well.");
+    try {
+        blacklist = (await axios.get("https://raw.githubusercontent.com/toarch7/ntm-browser/main/resourcepack-blacklist.json")).data;
 
-        start();
-    });
+        if (!Array.isArray(blacklist))
+            throw new TypeError("Invalid `blacklist`. Expected Array, got " + (typeof blacklist));
+
+        await gather();
+    }
+    catch(e) {
+        console.error(e);
+
+        console.error("Was unable to fetch pack blacklist.");
+    }
+}
+
+getResourcepacks();
