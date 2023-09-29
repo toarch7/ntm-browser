@@ -1,3 +1,4 @@
+git pull
 git config --global user.email "$MAIL"
 git config --global user.name "Actions"
 git add resourcepacks.json
