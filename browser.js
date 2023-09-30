@@ -175,9 +175,9 @@ async function handlePack(name, item, meta) {
 
         let pattern = /^(screenshot|Screenshot)[1-3]\.(png|jpg|jpeg)$/;
 
-        for(let item of contents) {
-            if (pattern.test(item.name)) {
-                screenshots.push(item.download_url);
+        for(let repoItem of contents) {
+            if (pattern.test(repoItem.name)) {
+                screenshots.push(repoItem.download_url);
 
                 if (screenshots.length >= 3)
                     break;
@@ -197,7 +197,7 @@ async function handlePack(name, item, meta) {
         stars: item.stargazers_count,
         branch: item.default_branch,
         hasIcon: hasIcon,
-        screenshots: screnshoots,
+        screenshots: screenshots,
 
         malformed: malformed,
         hidden: hidden,
@@ -208,7 +208,7 @@ async function handlePack(name, item, meta) {
             description: removeNTText(meta.description ?? "No description provided")
         }
     };
-	
+
 	if (!malformed && !hidden)
 		console.info("Pack added!", name);
 }
