@@ -140,6 +140,49 @@
       "crown": 1,
       "version": "v2523",
       "uid": null
+    },
+    "1157506205904814172": {
+      "name": "Seeker501",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 4,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        16
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1157505642957910059": {
+      "name": "Drangou",
+      "char": 4,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 14,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        22,
+        23
+      ],
+      "crown": 11,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
