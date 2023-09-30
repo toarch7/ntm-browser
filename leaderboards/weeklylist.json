@@ -4513,6 +4513,72 @@
       "crown": 12,
       "version": "v2527",
       "uid": null
+    },
+    "Kevalla": {
+      "name": "Kevalla",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 17,
+      "win": false,
+      "kills": 297,
+      "ultra": 0,
+      "skills": [
+        8,
+        3,
+        4,
+        27,
+        1,
+        14,
+        25
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker854": {
+      "name": "Seeker854",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 22,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        10,
+        4
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "Crystal": {
+      "name": "Crystal",
+      "char": 10,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 22,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        8,
+        2,
+        27
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
