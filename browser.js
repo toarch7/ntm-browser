@@ -176,8 +176,6 @@ async function handlePack(name, item, meta) {
         let pattern = /^(screenshot|Screenshot)[1-3]\.(png|jpg|jpeg)$/;
 
         for(let item of contents) {
-            console.log(item.name, pattern.test(item.name));
-
             if (pattern.test(item.name)) {
                 screenshots.push(item.download_url);
 
