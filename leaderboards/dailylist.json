@@ -183,6 +183,82 @@
       "crown": 11,
       "version": "v2602",
       "uid": null
+    },
+    "1157528152768266300": {
+      "name": "JJelly",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 57,
+      "win": false,
+      "kills": 236,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1157526236759859300": {
+      "name": "tumami",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 23,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        1,
+        22,
+        7,
+        6
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1157525957083660390": {
+      "name": "Seeker712",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 3,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        1,
+        12
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "1157525347462565958": {
+      "name": "Aurora",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 18,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
