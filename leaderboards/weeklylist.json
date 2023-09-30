@@ -4147,6 +4147,48 @@
       "crown": 12,
       "version": "v2602",
       "uid": null
+    },
+    "Throneman": {
+      "name": "Throneman",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 22,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        8,
+        3,
+        26
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "User_.906": {
+      "name": "User_.906",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 114,
+      "bwep": 59,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        1
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
