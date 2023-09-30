@@ -1382,6 +1382,63 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1157706835273457806": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 3,
+      "win": false,
+      "kills": 198,
+      "ultra": 0,
+      "skills": [
+        1,
+        22,
+        7,
+        23,
+        28
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null
+    },
+    "1157704967910588437": {
+      "name": "Seeker712",
+      "char": 12,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 81,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1157704645934858331": {
+      "name": "Скелетон",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
