@@ -3664,19 +3664,22 @@
       "name": "Seeker153",
       "char": 10,
       "skin": false,
-      "area": 104,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 22,
-      "bwep": 63,
+      "wep": 31,
+      "bwep": 35,
       "win": false,
-      "kills": 123,
+      "kills": 304,
       "ultra": 0,
       "skills": [
         16,
         2,
         6,
-        21
+        27,
+        17,
+        1,
+        26
       ],
       "crown": 12,
       "version": "v2602",
@@ -4488,6 +4491,27 @@
       ],
       "crown": 12,
       "version": "v2602",
+      "uid": null
+    },
+    "Seeker134": {
+      "name": "Seeker134",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 57,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        12,
+        2,
+        4
+      ],
+      "crown": 12,
+      "version": "v2527",
       "uid": null
     }
   }
