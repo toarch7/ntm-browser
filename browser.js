@@ -35,6 +35,17 @@ let requestList = [];
 let failureWait = 45;
 let page = 1;
 
+const checkFailed = (then, caught) => {
+    return function(responses) {
+        responses.forEach(response => {
+            if (!response || response?.error)
+                return caught(response);
+            
+            return then(response);
+        });
+    }
+}
+
 async function gather() {
     const request = {
         url: "https://api.github.com/search/repositories",
@@ -46,17 +57,6 @@ async function gather() {
             "page": page
         }
     };
-
-    const checkFailed = (then, caught) => {
-        return function(responses) {
-            responses.forEach(response => {
-                if (!response || response?.error)
-                    return caught(response);
-                
-                return then(response);
-            });
-        }
-    }
     
     const reduce = () => (!(-- packCount)) ? allDone() : null;
 
@@ -97,27 +97,23 @@ async function gather() {
                             
                             handlePack(name, packsRaw[name], response.data)
                                 .then(reduce)
-                                .catch((err) => {
-                                    console.error(err);
+                                .catch(() => {
                                     reduce();
                                 });
                         },
 
                         (error) => {
-                            console.log(error);
                             reduce();
                         }
                     )
                 )
                 .catch((e) => {
-                    console.log(e);
                     console.log("axios.all Failed.");
                 });
         }
         else setTimeout(() => gather(), 1000);
     })
     .catch((e) => {
-        console.log(e);
         console.log("Something went wrong - likely due to rate limit. Retrying in " + failureWait + "s.");
         setTimeout(() => gather(), failureWait * 1000);
     });
@@ -164,15 +160,34 @@ async function handlePack(name, item, meta) {
         }
     }
 
-    
-    try {
-        let icon = await axios.get("https://raw.githubusercontent.com/" + name + "/" + item.default_branch + "/icon.png");
+    const cdn = "https://raw.githubusercontent.com";
+    const screenshots = [];
 
-        console.log(name, "has an icon!");
+    try {
+        await axios.get(`${cdn}/${name}/${item.default_branch}/icon.png`);
         hasIcon = true;
     }
+    catch(e) { }
+
+    try {
+        let res = await axios.get(`https://api.github.com/repos/${name}/contents/`);
+        let contents = res.data;
+
+        let pattern = /^(screenshot|Screenshot)[1-3]\.(png|jpg|jpeg)$/;
+
+        for(let item of contents) {
+            console.log(item.name, pattern.test(item.name));
+
+            if (pattern.test(item.name)) {
+                screenshots.push(item.download_url);
+
+                if (screenshots.length >= 3)
+                    break;
+            }
+        }
+    }
     catch(e) {
-        console.log(name, "doesn't have an icon.");
+        console.log(name, "failed to get repo contents.");
     }
     
     packs[name] = {
@@ -184,6 +199,7 @@ async function handlePack(name, item, meta) {
         stars: item.stargazers_count,
         branch: item.default_branch,
         hasIcon: hasIcon,
+        screenshots: screnshoots,
 
         malformed: malformed,
         hidden: hidden,
@@ -205,8 +221,6 @@ function allDone() {
     let time = today.getHours() + ":" + today.getMinutes() + " " + today.getDate() + "/" + (today.getMonth() + 1) + "/" + today.getFullYear();
 
     console.log("All done.");
-
-    console.log(packsNew, "NEW");
 
     const sendEmbed = (kind, embeds) => {
         let url = params.webhooks[kind];
@@ -318,7 +332,6 @@ async function getResourcepacks() {
         await getBlacklist();
     }
     catch(e) {
-        console.error(e);
         console.error("Was unable to fetch resourcepack list.");
     }
 }
@@ -335,8 +348,6 @@ async function getBlacklist() {
         await gather();
     }
     catch(e) {
-        console.error(e);
-
         console.error("Was unable to fetch pack blacklist.");
     }
 }
