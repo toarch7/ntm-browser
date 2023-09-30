@@ -4260,18 +4260,19 @@
       "name": "Бяка2206",
       "char": 10,
       "skin": false,
-      "area": 4,
+      "area": 105,
       "subarea": 1,
       "loops": 0,
-      "wep": 58,
-      "bwep": 22,
+      "wep": 22,
+      "bwep": 16,
       "win": false,
-      "kills": 132,
+      "kills": 212,
       "ultra": 0,
       "skills": [
         8,
         10,
-        27
+        27,
+        4
       ],
       "crown": 12,
       "version": "v2527",
@@ -4297,6 +4298,26 @@
       ],
       "crown": 12,
       "version": "v2527",
+      "uid": null
+    },
+    "Seeker868": {
+      "name": "Seeker868",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 22,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        8,
+        4
+      ],
+      "crown": 12,
+      "version": "v2602",
       "uid": null
     }
   }
