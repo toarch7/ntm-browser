@@ -161,32 +161,12 @@ async function handlePack(name, item, meta) {
     }
 
     const cdn = "https://raw.githubusercontent.com";
-    const screenshots = [];
 
     try {
         await axios.get(`${cdn}/${name}/${item.default_branch}/icon.png`);
         hasIcon = true;
     }
     catch(e) { }
-
-    try {
-        let res = await axios.get(`https://api.github.com/repos/${name}/contents/`);
-        let contents = res.data;
-
-        let pattern = /^(screenshot|Screenshot)[1-3]\.(png|jpg|jpeg)$/;
-
-        for(let repoItem of contents) {
-            if (pattern.test(repoItem.name)) {
-                screenshots.push(repoItem.download_url);
-
-                if (screenshots.length >= 3)
-                    break;
-            }
-        }
-    }
-    catch(e) {
-        console.log(name, "failed to get repo contents.");
-    }
     
     packs[name] = {
         full_name: name,
@@ -197,7 +177,6 @@ async function handlePack(name, item, meta) {
         stars: item.stargazers_count,
         branch: item.default_branch,
         hasIcon: hasIcon,
-        screenshots: screenshots,
 
         malformed: malformed,
         hidden: hidden,
