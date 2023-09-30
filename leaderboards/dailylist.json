@@ -858,6 +858,46 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1157615933033037864": {
+      "name": "ARES",
+      "char": 7,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        1,
+        22
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1157612984663806002": {
+      "name": "DEBIL_HUNTER",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 57,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        1,
+        22
+      ],
+      "crown": 4,
+      "version": "v2602",
+      "uid": null
     }
   }
 }

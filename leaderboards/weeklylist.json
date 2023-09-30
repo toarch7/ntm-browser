@@ -4255,6 +4255,49 @@
       "crown": 12,
       "version": "v2602",
       "uid": null
+    },
+    "Бяка2206": {
+      "name": "Бяка2206",
+      "char": 10,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 22,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        27
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "DeezNuts": {
+      "name": "DeezNuts",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 114,
+      "bwep": 30,
+      "win": false,
+      "kills": 176,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        27,
+        1
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
