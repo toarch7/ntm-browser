@@ -632,6 +632,96 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1157590969785532486": {
+      "name": "Seeker712",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        7,
+        17
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1157589587577810954": {
+      "name": "PAALIX",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 39,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1157585385375944774": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 78,
+      "bwep": 112,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        1,
+        17,
+        10
+      ],
+      "crown": 10,
+      "version": "v2527",
+      "uid": null
+    },
+    "1157583309744902264": {
+      "name": "Seeker422.62",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 3,
+      "win": false,
+      "kills": 15,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1157577227362377802": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }

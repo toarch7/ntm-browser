@@ -4189,6 +4189,52 @@
       "crown": 12,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker422.62": {
+      "name": "Seeker422.62",
+      "char": 10,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 30,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        4,
+        21
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
+    },
+    "дима": {
+      "name": "дима",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 25,
+      "win": false,
+      "kills": 319,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        4,
+        27,
+        1,
+        16,
+        25,
+        28
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
