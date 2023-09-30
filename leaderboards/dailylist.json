@@ -1070,6 +1070,139 @@
       "crown": 1,
       "version": "v2523",
       "uid": null
+    },
+    "1157679996505169970": {
+      "name": "Ompendin",
+      "char": 10,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 57,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        7,
+        22,
+        23,
+        17
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1157675997328584745": {
+      "name": "victor",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 57,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        1,
+        22,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1157674358983118939": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": "v2522",
+      "uid": null
+    },
+    "1157673604679467078": {
+      "name": "Seeker047",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1157671023177650226": {
+      "name": "cristal907",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 4,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        10
+      ],
+      "crown": 1,
+      "version": "v2522",
+      "uid": null
+    },
+    "1157669505967849533": {
+      "name": "Typhz",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 39,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        10,
+        12
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1157668248880414824": {
+      "name": "Groudon",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 19,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
     }
   }
 }
