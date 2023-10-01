@@ -5169,6 +5169,46 @@
       "crown": 12,
       "version": "v2527",
       "uid": null
+    },
+    "pity": {
+      "name": "pity",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 2,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 12,
+      "version": "v2525",
+      "uid": null
+    },
+    "Seeker100": {
+      "name": "Seeker100",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 72,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        16,
+        2,
+        6
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
