@@ -1027,6 +1027,26 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1158062834706567178": {
+      "name": "FAKE",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 14,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        1,
+        9
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
