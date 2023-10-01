@@ -4540,7 +4540,7 @@
       "wep": 22,
       "bwep": 17,
       "win": false,
-      "kills": 297,
+      "kills": 318,
       "ultra": 0,
       "skills": [
         8,
@@ -4846,6 +4846,47 @@
         12,
         1,
         27
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker281": {
+      "name": "Seeker281",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 30,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        4
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "CockSuccer": {
+      "name": "CockSuccer",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 22,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        16,
+        10
       ],
       "crown": 12,
       "version": "v2527",
