@@ -1172,6 +1172,123 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1158131147746852975": {
+      "name": "Throneseeker413",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 88,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        1,
+        9
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1158127054328447046": {
+      "name": "Seeker712",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": "v2523",
+      "uid": null
+    },
+    "HvRctpMF4nukRh9": {
+      "name": "Czimbala",
+      "char": 11,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 26,
+      "win": false,
+      "kills": 277,
+      "ultra": 0,
+      "skills": [
+        23,
+        7,
+        13,
+        27,
+        25,
+        6
+      ],
+      "crown": 1,
+      "version": "v2610",
+      "uid": "HvRctpMF4nukRh9"
+    },
+    "1158121733937713262": {
+      "name": "Jefferson",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1158121586394677348": {
+      "name": "Seeker589",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 7,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        1,
+        9
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1158119863676588193": {
+      "name": "cristal907",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 24,
+      "win": false,
+      "kills": 295,
+      "ultra": 0,
+      "skills": [
+        9,
+        10,
+        27,
+        6,
+        12
+      ],
+      "crown": 1,
+      "version": "v2522",
+      "uid": null
     }
   }
 }
