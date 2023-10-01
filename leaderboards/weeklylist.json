@@ -4762,6 +4762,26 @@
       "crown": 12,
       "version": "v2602",
       "uid": null
+    },
+    "Seeker410": {
+      "name": "Seeker410",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        8,
+        10
+      ],
+      "crown": 12,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
