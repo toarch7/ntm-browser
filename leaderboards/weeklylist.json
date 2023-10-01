@@ -1968,13 +1968,19 @@
       "name": "Camilo",
       "char": 10,
       "skin": false,
-      "area": 3,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 30,
-      "bwep": 22,
+      "wep": 22,
+      "bwep": 23,
       "win": false,
-      "kills": 78,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        12,
+        2,
+        27
+      ],
       "crown": 12,
       "version": "v2527",
       "uid": null
@@ -2238,17 +2244,20 @@
       "name": "mutante",
       "char": 10,
       "skin": false,
-      "area": 2,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 2,
+      "wep": 91,
       "bwep": 3,
       "win": false,
-      "kills": 57,
+      "kills": 130,
       "ultra": 0,
       "skills": [
         16,
-        3
+        10,
+        4,
+        27,
+        1
       ],
       "crown": 12,
       "version": "v2527",
@@ -4979,6 +4988,25 @@
       ],
       "crown": 12,
       "version": "v2522",
+      "uid": null
+    },
+    "Geimer": {
+      "name": "Geimer",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 22,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 12,
+      "version": "v2527",
       "uid": null
     }
   }
