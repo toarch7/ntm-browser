@@ -51,26 +51,26 @@
     },
     "Принтер": {
       "name": "Принтер",
-      "char": 4,
-      "skin": true,
-      "area": 7,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 23,
-      "bwep": 74,
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 94,
       "win": false,
-      "kills": 599,
+      "kills": 973,
       "ultra": 1,
       "skills": [
         8,
+        10,
         4,
         27,
-        1,
         14,
-        10,
-        26
+        25,
+        12
       ],
-      "crown": 7,
+      "crown": 12,
       "version": "v2527",
       "uid": null
     },
@@ -5340,6 +5340,27 @@
       ],
       "crown": 12,
       "version": "v2602",
+      "uid": null
+    },
+    "Fabeih": {
+      "name": "Fabeih",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 30,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        4
+      ],
+      "crown": 12,
+      "version": "v2527",
       "uid": null
     }
   }
