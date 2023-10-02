@@ -3381,20 +3381,21 @@
       "name": "suck",
       "char": 10,
       "skin": false,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 24,
-      "bwep": 9,
+      "wep": 74,
+      "bwep": 35,
       "win": false,
-      "kills": 240,
+      "kills": 320,
       "ultra": 0,
       "skills": [
         3,
         25,
         17,
         27,
-        1
+        1,
+        23
       ],
       "crown": 12,
       "version": "v2602",
@@ -5230,6 +5231,25 @@
       "ultra": 0,
       "skills": [
         10
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
+    },
+    "Black.Yar": {
+      "name": "Black.Yar",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 30,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        12
       ],
       "crown": 12,
       "version": "v2527",
