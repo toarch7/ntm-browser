@@ -1354,15 +1354,15 @@
       "char": 10,
       "skin": false,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
       "wep": 22,
-      "bwep": 17,
+      "bwep": 30,
       "win": false,
-      "kills": 96,
+      "kills": 109,
       "ultra": 0,
       "skills": [
-        16,
+        8,
         4
       ],
       "crown": 12,
@@ -5253,6 +5253,26 @@
       ],
       "crown": 12,
       "version": "v2527",
+      "uid": null
+    },
+    "Seeker271": {
+      "name": "Seeker271",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 2,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        12,
+        3
+      ],
+      "crown": 12,
+      "version": "v2602",
       "uid": null
     }
   }
