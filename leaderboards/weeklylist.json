@@ -3854,17 +3854,21 @@
       "name": "Gungeoneer",
       "char": 10,
       "skin": false,
-      "area": 3,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 22,
-      "bwep": 30,
+      "wep": 23,
+      "bwep": 74,
       "win": false,
-      "kills": 104,
+      "kills": 297,
       "ultra": 0,
       "skills": [
-        12,
-        4
+        8,
+        3,
+        4,
+        27,
+        14,
+        28
       ],
       "crown": 12,
       "version": "v2602",
@@ -5210,6 +5214,25 @@
       ],
       "crown": 12,
       "version": "v2602",
+      "uid": null
+    },
+    "Throneseeker471": {
+      "name": "Throneseeker471",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 22,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 12,
+      "version": "v2527",
       "uid": null
     }
   }
