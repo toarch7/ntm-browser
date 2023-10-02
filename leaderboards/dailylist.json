@@ -333,6 +333,150 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1158288136598716438": {
+      "name": "Seeker420",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 15,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1158287385977684020": {
+      "name": "Seeker712",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 27,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        7,
+        6
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1158280858994737162": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 16,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        7,
+        6,
+        19
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1158280558862929950": {
+      "name": "Seeker712",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 1,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        13,
+        16,
+        24,
+        17
+      ],
+      "crown": 11,
+      "version": "v2602",
+      "uid": null
+    },
+    "1158278360833740810": {
+      "name": "Seeker712",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        13,
+        16
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null
+    },
+    "1158273124505235519": {
+      "name": "Seeker712",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 19,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        7,
+        6
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1158273087188512768": {
+      "name": "bajnmen",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 2,
+      "wep": 35,
+      "bwep": 92,
+      "win": false,
+      "kills": 3593,
+      "ultra": 1,
+      "skills": [
+        27,
+        13,
+        22,
+        7,
+        17,
+        23,
+        4,
+        3
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
