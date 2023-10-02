@@ -5274,6 +5274,26 @@
       "crown": 12,
       "version": "v2602",
       "uid": null
+    },
+    "violent": {
+      "name": "violent",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 22,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        16,
+        4
+      ],
+      "crown": 12,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
