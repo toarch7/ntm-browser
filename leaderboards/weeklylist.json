@@ -1019,16 +1019,17 @@
       "name": "Throneseeker269",
       "char": 3,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
       "wep": 59,
-      "bwep": 7,
+      "bwep": 66,
       "win": false,
-      "kills": 47,
+      "kills": 97,
       "ultra": 0,
       "skills": [
-        4
+        4,
+        22
       ],
       "crown": 11,
       "version": "v2602",
@@ -1052,6 +1053,26 @@
       ],
       "crown": 11,
       "version": "v2602",
+      "uid": null
+    },
+    "LilHunter130": {
+      "name": "LilHunter130",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 75,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        4,
+        8
+      ],
+      "crown": 11,
+      "version": "v2527",
       "uid": null
     }
   }
