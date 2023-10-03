@@ -591,13 +591,13 @@
       "name": "Sosiska52",
       "char": 3,
       "skin": true,
-      "area": 3,
+      "area": 102,
       "subarea": 1,
       "loops": 0,
       "wep": 59,
-      "bwep": 7,
+      "bwep": 15,
       "win": false,
-      "kills": 76,
+      "kills": 86,
       "ultra": 0,
       "skills": [
         4,
@@ -627,6 +627,69 @@
       ],
       "crown": 11,
       "version": "v2527",
+      "uid": null
+    },
+    "Seeker767": {
+      "name": "Seeker767",
+      "char": 3,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 11,
+      "win": false,
+      "kills": 319,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        27,
+        23,
+        7,
+        14
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
+    },
+    "Dplay": {
+      "name": "Dplay",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 59,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        6,
+        4
+      ],
+      "crown": 11,
+      "version": "v2602",
+      "uid": null
+    },
+    "suck": {
+      "name": "suck",
+      "char": 3,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 15,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 11,
+      "version": "v2602",
       "uid": null
     }
   }

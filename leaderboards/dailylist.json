@@ -279,6 +279,88 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1158661704188702811": {
+      "name": "Gushiloid",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 12,
+      "win": false,
+      "kills": 1118,
+      "ultra": 1,
+      "skills": [
+        3,
+        17,
+        13,
+        23,
+        9,
+        6
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null
+    },
+    "1158659782182440980": {
+      "name": "Seeker712",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1158654547573612554": {
+      "name": "Принтер",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 12,
+      "win": false,
+      "kills": 224,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        27,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1158650892103467138": {
+      "name": "glist",
+      "char": 15,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 5,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
