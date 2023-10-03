@@ -528,6 +528,61 @@
       "crown": 1,
       "version": "v2527",
       "uid": null
+    },
+    "1158743379820163153": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": "v2522",
+      "uid": null
+    },
+    "1158738153268596827": {
+      "name": "Throneseeker085",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 4,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1158733441941118986": {
+      "name": "Dortti",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 71,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
