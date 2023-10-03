@@ -677,18 +677,22 @@
       "name": "suck",
       "char": 3,
       "skin": true,
-      "area": 104,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 59,
-      "bwep": 11,
+      "wep": 114,
+      "bwep": 68,
       "win": false,
-      "kills": 164,
+      "kills": 320,
       "ultra": 0,
       "skills": [
         22,
         13,
-        23
+        23,
+        7,
+        24,
+        1,
+        3
       ],
       "crown": 11,
       "version": "v2602",
@@ -823,6 +827,52 @@
       ],
       "crown": 11,
       "version": "v2527",
+      "uid": null
+    },
+    "Seeker932": {
+      "name": "Seeker932",
+      "char": 3,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 26,
+      "win": false,
+      "kills": 154,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        27
+      ],
+      "crown": 11,
+      "version": "v2602",
+      "uid": null
+    },
+    "Throneseeker265": {
+      "name": "Throneseeker265",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 59,
+      "win": false,
+      "kills": 240,
+      "ultra": 0,
+      "skills": [
+        22,
+        4,
+        10,
+        27,
+        9,
+        7,
+        14
+      ],
+      "crown": 11,
+      "version": "v2602",
       "uid": null
     }
   }
