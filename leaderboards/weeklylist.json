@@ -230,25 +230,26 @@
       "name": "Throneseeker413",
       "char": 3,
       "skin": true,
-      "area": 1,
+      "area": 3,
       "subarea": 3,
       "loops": 1,
-      "wep": 106,
-      "bwep": 25,
+      "wep": 59,
+      "bwep": 88,
       "win": false,
-      "kills": 638,
+      "kills": 837,
       "ultra": 2,
       "skills": [
         4,
-        8,
+        26,
+        10,
         27,
         23,
-        7,
         9,
-        1
+        12,
+        7
       ],
       "crown": 11,
-      "version": "v2602",
+      "version": "v2527",
       "uid": null
     },
     "pepito": {
@@ -873,6 +874,96 @@
       ],
       "crown": 11,
       "version": "v2602",
+      "uid": null
+    },
+    "Kura": {
+      "name": "Kura",
+      "char": 3,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 26,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        27,
+        23
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
+    },
+    "mutante": {
+      "name": "mutante",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 15,
+      "bwep": 26,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        4,
+        24,
+        10
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
+    },
+    "DEBIL_HUNTER": {
+      "name": "DEBIL_HUNTER",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 15,
+      "bwep": 59,
+      "win": false,
+      "kills": 224,
+      "ultra": 0,
+      "skills": [
+        4,
+        24,
+        8,
+        27,
+        23,
+        9
+      ],
+      "crown": 11,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker723": {
+      "name": "Seeker723",
+      "char": 3,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 30,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        10,
+        1,
+        24
+      ],
+      "crown": 11,
+      "version": "v2527",
       "uid": null
     }
   }

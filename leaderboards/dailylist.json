@@ -468,6 +468,66 @@
       "crown": 1,
       "version": "v2602",
       "uid": null
+    },
+    "1158719741859483788": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 31,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        3,
+        17,
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1158718546495414302": {
+      "name": "СПУТНХ",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 23,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        8,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
+    },
+    "1158710887109107722": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
