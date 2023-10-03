@@ -775,16 +775,19 @@
       "name": "joda",
       "char": 3,
       "skin": true,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
+      "wep": 15,
       "bwep": 59,
       "win": false,
-      "kills": 72,
+      "kills": 145,
       "ultra": 0,
       "skills": [
-        4
+        4,
+        8,
+        27,
+        23
       ],
       "crown": 11,
       "version": "v2602",
