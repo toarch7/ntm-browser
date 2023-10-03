@@ -566,13 +566,13 @@
       "name": "LisArt10",
       "char": 3,
       "skin": true,
-      "area": 1,
-      "subarea": 3,
+      "area": 2,
+      "subarea": 1,
       "loops": 1,
-      "wep": 118,
-      "bwep": 11,
+      "wep": 88,
+      "bwep": 68,
       "win": false,
-      "kills": 549,
+      "kills": 646,
       "ultra": 2,
       "skills": [
         4,
@@ -737,6 +737,92 @@
       ],
       "crown": 11,
       "version": "v2602",
+      "uid": null
+    },
+    "Seeker603": {
+      "name": "Seeker603",
+      "char": 3,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 12,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        27,
+        23
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
+    },
+    "joda": {
+      "name": "joda",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 59,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 11,
+      "version": "v2602",
+      "uid": null
+    },
+    "Gungeoneer": {
+      "name": "Gungeoneer",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 15,
+      "bwep": 59,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        4,
+        24,
+        8,
+        27
+      ],
+      "crown": 11,
+      "version": "v2602",
+      "uid": null
+    },
+    "Ziga": {
+      "name": "Ziga",
+      "char": 3,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 59,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        4,
+        26,
+        10,
+        13,
+        23
+      ],
+      "crown": 11,
+      "version": "v2527",
       "uid": null
     }
   }
