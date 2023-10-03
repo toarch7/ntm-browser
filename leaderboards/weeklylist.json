@@ -1125,6 +1125,138 @@
       "crown": 11,
       "version": "v2610",
       "uid": "Tzg4bVfrQTVpZCw"
+    },
+    "Seeker566": {
+      "name": "Seeker566",
+      "char": 3,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 68,
+      "bwep": 11,
+      "win": false,
+      "kills": 294,
+      "ultra": 0,
+      "skills": [
+        4,
+        24,
+        10,
+        27,
+        19,
+        7,
+        12
+      ],
+      "crown": 11,
+      "version": "v2602",
+      "uid": null
+    },
+    "victor": {
+      "name": "victor",
+      "char": 3,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 59,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        4,
+        26,
+        10
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
+    },
+    "сикер22": {
+      "name": "сикер22",
+      "char": 3,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 15,
+      "bwep": 59,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        4,
+        24
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
+    },
+    "KHEVIN": {
+      "name": "KHEVIN",
+      "char": 3,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 3,
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        23
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
+    },
+    "Seeker501": {
+      "name": "Seeker501",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 25,
+      "win": false,
+      "kills": 207,
+      "ultra": 0,
+      "skills": [
+        4,
+        24,
+        8,
+        10,
+        19,
+        7
+      ],
+      "crown": 11,
+      "version": "v2602",
+      "uid": null
+    },
+    "Seeker382": {
+      "name": "Seeker382",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 59,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        22,
+        19,
+        8
+      ],
+      "crown": 11,
+      "version": "v2602",
+      "uid": null
     }
   }
 }
