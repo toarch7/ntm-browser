@@ -137,14 +137,22 @@ function parseDescription(str) {
 }
 
 function parseFooter(str) {
-    let ret = { version: null, uid: null };
+    let ret = { version: null, uid: null, runId: null };
 
 	let parts = str.split(" ");
 
-	if (parts[1] && parts[1] != "Entry")
-		ret.uid = parts[1];
+	if (parts[1] && parts[1] != "Entry") {
+		let info = parts[1];
+
+		if (info) {
+			info = info.split(";");
+
+			ret.uid = parts[0];
+			ret.runId = parseInt(parts[1], 16);
+		}
+	}
 	
-	if (parts[0] && parts[0] != "(no")
+	if (parts[0] && !parts[0].startsWith("(no"))
 		ret.version = parts[0].slice(1, parts[0].length - 1);
 
     return ret;

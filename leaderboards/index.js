@@ -7,6 +7,8 @@ const { parse } = require("./parser.js");
 const { execSync } = require("child_process");
 const axios = require("axios");
 
+let weeklySeed, dailySeed;
+
 const params = {
     token: process.env.DISCORD_API_TOKEN,
     token_github: process.env.API_TOKEN_GITHUB,
@@ -114,10 +116,13 @@ function areaGetString(area, subarea, loops) {
     return _area + _subarea + _loop;
 }
 
-let weeklySeed = 123;
+
 
 client.once(Events.ClientReady, c => {
+    const test = process.argv.indexOf("--test");
 	console.log(`Ready! Logged in as ${c.user.tag}`);
+
+    const checkSeed = (stat, seed) => (Number.isInteger(stat.runId) && stat.runId == seed);
 
     client.user.setActivity("Nuclear Throne Mobile");
 
@@ -154,12 +159,10 @@ client.once(Events.ClientReady, c => {
             if (!entries[uid]) {
                 let day = new Date(message.createdTimestamp);
         
-                if (date != day.getDate())
-                    return;
-
-				console.log("New entry from", stats.name + "|" + uid);
-
-                entries[uid] = stats;
+                if (checkSeed(stats, dailySeed) || (stats.version[2] == "5" && day.getDate() == date)) {
+                    console.log("New entry from", stats.name + "|" + uid);
+                    entries[uid] = stats;
+                }
             }
         });
 
@@ -217,16 +220,16 @@ client.once(Events.ClientReady, c => {
             if (message.embeds[0].footer.text == "(no score improvement)")
                 return;
 
+            let stats = parse(message.embeds[0]);
+            let uid = stats.uid ?? stats.name;
+    
             let num = getWeekNumber(new Date(message.createdTimestamp));
 
-            if (num == weekNumber) {
-                let stats = parse(message.embeds[0]);
-                let uid = stats.uid ?? stats.name;
-
+            if (checkSeed(stats, weeklySeed) || (stats.version[2] == "5" && num == weekNumber)) {
                 let entry = entries[uid];
     
                 if (!entry || (entry && entry.kills < stats.kills)) {
-					console.log("New entry from", stats.name + "|" + uid);
+                    console.log("New entry from", stats.name + "|" + uid);
                     entries[uid] = stats;
                 }
             }
@@ -257,9 +260,10 @@ client.once(Events.ClientReady, c => {
     //#endregion
 
     setTimeout(() => {
-        console.log("Pushing changes");
-
-        execSync("chmod +x ./push.sh && bash ./push.sh");
+        if (!test) {
+            console.log("Pushing changes");
+            execSync("chmod +x ./push.sh && bash ./push.sh");
+        }
 
         console.log("Trying to shutdown the client...");
 
@@ -272,13 +276,18 @@ client.once(Events.ClientReady, c => {
     
 });
 
-axios.get("https://raw.githubusercontent.com/toarch7/torcherdev/main/weeklydata.json")
-    .then(res => {
-        weeklySeed = res.data.seed;
+async function start() {
+    let dailydata = await (axios.get("https://raw.githubusercontent.com/toarch7/torcherdev/main/dailydata.json"));
+    let weeklydata = await (axios.get("https://raw.githubusercontent.com/toarch7/torcherdev/main/weeklydata.json"));
 
-        console.log("Weekly seed:", weeklySeed);
-        client.login(params.token);
-    })
+    dailySeed = dailydata.seed;
+    weeklySeed = weeklydata.seed;
 
-    .catch();
+    client.login(params.token);
+}
 
+start()
+.catch((err) => {
+    console.log(err);
+    console.error("Something went wrong...");
+});
