@@ -1523,6 +1523,54 @@
       "crown": 11,
       "version": "v2602",
       "uid": null
+    },
+    "PAALIX": {
+      "name": "PAALIX",
+      "char": 3,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 92,
+      "bwep": 118,
+      "win": false,
+      "kills": 978,
+      "ultra": 2,
+      "skills": [
+        4,
+        22,
+        27,
+        23,
+        9,
+        7,
+        1,
+        3
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
+    },
+    "yosmar": {
+      "name": "yosmar",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 59,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        4,
+        24,
+        8,
+        27
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
     }
   }
 }
