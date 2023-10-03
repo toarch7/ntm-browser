@@ -119,7 +119,7 @@ function areaGetString(area, subarea, loops) {
 
 
 client.once(Events.ClientReady, c => {
-    const test = process.argv.indexOf("--test");
+    const test = false;//process.argv.indexOf("--test");
 	console.log(`Ready! Logged in as ${c.user.tag}`);
 
     const checkSeed = (stat, seed) => (Number.isInteger(stat.runId) && stat.runId == seed);
