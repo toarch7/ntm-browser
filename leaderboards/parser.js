@@ -50,6 +50,9 @@ function parseDescription(str) {
 			let a = d.substring(2).split(" ");
 			let b = a[0].split("-");
 
+			if (a[0].startsWith("HQ"))
+				b = [ "HQ", a[0].substring(2) ];
+
 			if (b[0] != "???") {
 				ret.area = parseInt(b[0]);
 
