@@ -1,4 +1,41 @@
 {
-  "day": 3,
-  "entries": {}
+  "day": 4,
+  "entries": {
+    "1158875935211266058": {
+      "name": "Throneseeker413",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1158875711986204682": {
+      "name": "Xena0364",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    }
+  }
 }

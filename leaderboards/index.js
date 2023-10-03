@@ -119,7 +119,7 @@ function areaGetString(area, subarea, loops) {
 
 
 client.once(Events.ClientReady, c => {
-    const test = false;//process.argv.indexOf("--test");
+    const test = process.argv.indexOf("--test");
 	console.log(`Ready! Logged in as ${c.user.tag}`);
 
     const checkSeed = (stat, seed) => (Number.isInteger(stat.runId) && stat.runId == seed);
@@ -280,8 +280,8 @@ async function start() {
     let dailydata = await (axios.get("https://raw.githubusercontent.com/toarch7/torcherdev/main/dailydata.json"));
     let weeklydata = await (axios.get("https://raw.githubusercontent.com/toarch7/torcherdev/main/weeklydata.json"));
 
-    dailySeed = dailydata.seed;
-    weeklySeed = weeklydata.seed;
+    dailySeed = dailydata.data.seed;
+    weeklySeed = weeklydata.data.seed;
 
     client.login(params.token);
 }
