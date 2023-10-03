@@ -6,6 +6,8 @@ const Emotes = require("./tables/emotes.json");
 const { parse } = require("./parser.js");
 const { execSync } = require("child_process");
 const axios = require("axios");
+const { exit } = require("process");
+const test = process.argv.indexOf("--test");
 
 let weeklySeed, dailySeed;
 
@@ -41,6 +43,9 @@ function getCurrentDate() {
 }
 
 function sendLeaderboards(kind, list) {
+    if (test)
+        return;
+
     let url = params.webhooks[kind];
 
     if (!url)
@@ -119,7 +124,6 @@ function areaGetString(area, subarea, loops) {
 
 
 client.once(Events.ClientReady, c => {
-    const test = process.argv.indexOf("--test");
 	console.log(`Ready! Logged in as ${c.user.tag}`);
 
     const checkSeed = (stat, seed) => (Number.isInteger(stat.runId) && stat.runId == seed);
