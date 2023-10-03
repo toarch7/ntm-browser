@@ -1019,17 +1019,19 @@
       "name": "Throneseeker269",
       "char": 3,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 59,
-      "bwep": 66,
+      "wep": 9,
+      "bwep": 59,
       "win": false,
-      "kills": 97,
+      "kills": 186,
       "ultra": 0,
       "skills": [
         4,
-        22
+        10,
+        27,
+        23
       ],
       "crown": 11,
       "version": "v2602",
@@ -1074,6 +1076,55 @@
       "crown": 11,
       "version": "v2527",
       "uid": null
+    },
+    "Seeker996": {
+      "name": "Seeker996",
+      "char": 3,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 114,
+      "bwep": 9,
+      "win": false,
+      "kills": 332,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        27,
+        23,
+        7,
+        14
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null
+    },
+    "Tzg4bVfrQTVpZCw": {
+      "name": "SKU",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 111,
+      "win": false,
+      "kills": 563,
+      "ultra": 2,
+      "skills": [
+        22,
+        4,
+        27,
+        23,
+        7,
+        13,
+        1
+      ],
+      "crown": 11,
+      "version": "v2610",
+      "uid": "Tzg4bVfrQTVpZCw"
     }
   }
 }
