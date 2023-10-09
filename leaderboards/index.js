@@ -163,7 +163,7 @@ client.once(Events.ClientReady, c => {
             if (!entries[uid]) {
                 let day = new Date(message.createdTimestamp);
         
-                if (checkSeed(stats, dailySeed) || (stats.version[2] == "5" && day.getDate() == date)) {
+                if (checkSeed(stats, dailySeed) || (stats.version && stats.version[2] == "5" && day.getDate() == date)) {
                     console.log("New entry from", stats.name + "|" + uid);
                     entries[uid] = stats;
                 }
