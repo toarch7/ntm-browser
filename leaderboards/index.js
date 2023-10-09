@@ -287,6 +287,9 @@ async function start() {
     dailySeed = dailydata.data.seed;
     weeklySeed = weeklydata.data.seed;
 
+    console.log("Daily seed", dailySeed);
+    console.log("Weekly seed", weeklySeed);
+
     client.login(params.token);
 }
 

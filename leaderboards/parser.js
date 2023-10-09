@@ -53,17 +53,9 @@ function parseDescription(str) {
 			if (a[0].startsWith("HQ"))
 				b = [ "HQ", a[0].substring(2) ];
 
-			if (b[0] != "???") {
-				ret.area = parseInt(b[0]);
-
-				if (b[1] == "?") {
-				    ret.area += 100;
-				}
-				else ret.subarea = parseInt(b[1]);
-			}
-			else if (b[0].startsWith("HQ")) {
+			if (b[0] == "HQ") {
 				ret.area = 106;
-				ret.subarea = parseInt(b[1].substring(2));
+				ret.subarea = parseInt(b[1]);
 			}
 			else if (b[0].startsWith("$$$")) {
 				ret.area = 104;
@@ -79,7 +71,17 @@ function parseDescription(str) {
 				ret.subarea = 3;
 				ret.win = true;
 			}
+			else if (b[0] != "???") {
+				ret.area = parseInt(b[0]);
+
+				if (b[1] == "?") {
+				    ret.area += 100;
+				}
+				else ret.subarea = parseInt(b[1]);
+			}
 			else ret.area = 100;
+
+			console.log(ret);
 
 			if (a[1] && a[1][0] == "L")
 				ret.loops = parseInt(a[1].substring(1));
