@@ -7,7 +7,8 @@ const { parse } = require("./parser.js");
 const { execSync } = require("child_process");
 const axios = require("axios");
 const { exit } = require("process");
-const test = process.argv.indexOf("--test");
+
+const test = false;
 
 let weeklySeed, dailySeed;
 
