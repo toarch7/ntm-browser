@@ -266,6 +266,20 @@ client.once(Events.ClientReady, c => {
     });
 
     //#endregion
+    
+});
+
+async function start() {
+    let dailydata = await (axios.get("https://raw.githubusercontent.com/toarch7/torcherdev/main/dailydata.json"));
+    let weeklydata = await (axios.get("https://raw.githubusercontent.com/toarch7/torcherdev/main/weeklydata.json"));
+
+    dailySeed = dailydata.data.seed;
+    weeklySeed = weeklydata.data.seed;
+
+    console.log("Daily seed", dailySeed);
+    console.log("Weekly seed", weeklySeed);
+
+    client.login(params.token);
 
     setTimeout(() => {
         if (!test) {
@@ -281,20 +295,6 @@ client.once(Events.ClientReady, c => {
             });
     },
     10000);
-    
-});
-
-async function start() {
-    let dailydata = await (axios.get("https://raw.githubusercontent.com/toarch7/torcherdev/main/dailydata.json"));
-    let weeklydata = await (axios.get("https://raw.githubusercontent.com/toarch7/torcherdev/main/weeklydata.json"));
-
-    dailySeed = dailydata.data.seed;
-    weeklySeed = weeklydata.data.seed;
-
-    console.log("Daily seed", dailySeed);
-    console.log("Weekly seed", weeklySeed);
-
-    client.login(params.token);
 }
 
 start()
