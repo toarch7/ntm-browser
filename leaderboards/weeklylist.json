@@ -1436,6 +1436,28 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "Dhykzard_How": {
+      "name": "Dhykzard_How",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 12,
+      "win": false,
+      "kills": 190,
+      "ultra": 0,
+      "skills": [
+        16,
+        27,
+        1
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
