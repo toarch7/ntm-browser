@@ -605,16 +605,19 @@
       "name": "дима",
       "char": 8,
       "skin": false,
-      "area": 3,
-      "subarea": 2,
+      "area": 7,
+      "subarea": 1,
       "loops": 0,
-      "wep": 75,
-      "bwep": 13,
+      "wep": 9,
+      "bwep": 12,
       "win": false,
-      "kills": 111,
+      "kills": 324,
       "ultra": 0,
       "skills": [
-        1
+        1,
+        25,
+        8,
+        26
       ],
       "crown": 2,
       "version": "v2527",
@@ -766,6 +769,53 @@
       "crown": 2,
       "version": "v2527",
       "uid": null,
+      "runId": null
+    },
+    "UnCaballeroMas": {
+      "name": "UnCaballeroMas",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 0,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        2,
+        8
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "(v2610)": {
+      "name": "SKU",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 9,
+      "win": false,
+      "kills": 313,
+      "ultra": 0,
+      "skills": [
+        22,
+        27,
+        25,
+        10,
+        7,
+        1,
+        23
+      ],
+      "crown": 2,
+      "version": "v2610",
+      "uid": "(v2610)",
       "runId": null
     }
   }
