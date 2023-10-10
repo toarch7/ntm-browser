@@ -81,8 +81,6 @@ function parseDescription(str) {
 			}
 			else ret.area = 100;
 
-			console.log(ret);
-
 			if (a[1] && a[1][0] == "L")
 				ret.loops = parseInt(a[1].substring(1));
 

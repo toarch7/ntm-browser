@@ -162,6 +162,8 @@ client.once(Events.ClientReady, c => {
 
             if (!entries[uid]) {
                 let day = new Date(message.createdTimestamp);
+
+                console.log(stats.name, "day:", day.getDate(), date);
         
                 if (day.getDate() == date) {//(checkSeed(stats, dailySeed) || (stats.version && stats.version[2] == "5" && day.getDate() == date)) {
                     console.log("New entry from", stats.name + "|" + uid);
@@ -228,6 +230,8 @@ client.once(Events.ClientReady, c => {
             let uid = stats.uid ?? stats.name;
     
             let num = getWeekNumber(new Date(message.createdTimestamp));
+
+            console.log(stats.name, "week:", num, weekNumber);
 
             if (num == weekNumber) {//(checkSeed(stats, weeklySeed) || (stats.version[2] == "5" && num == weekNumber)) {
                 let entry = entries[uid];
