@@ -1415,6 +1415,27 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Ketchup": {
+      "name": "Ketchup",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 76,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        2,
+        8
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
