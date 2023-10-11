@@ -416,6 +416,68 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "1161545096810995744": {
+      "name": "pashtetcros",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        1,
+        22
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "(no": {
+      "name": "Spartan845",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 39,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": null,
+      "uid": "(no",
+      "runId": null
+    },
+    "1161537629435727912": {
+      "name": "СПУТНХ",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 89,
+      "win": false,
+      "kills": 224,
+      "ultra": 0,
+      "skills": [
+        14,
+        22,
+        24,
+        19,
+        3,
+        6
+      ],
+      "crown": 8,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
