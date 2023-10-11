@@ -1550,6 +1550,68 @@
       "version": "v2523",
       "uid": null,
       "runId": null
+    },
+    "Ice": {
+      "name": "Ice",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 62,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Maiki": {
+      "name": "Maiki",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 14,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        16,
+        4,
+        25
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "Seeker655": {
+      "name": "Seeker655",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 75,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
