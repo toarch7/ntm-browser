@@ -2016,6 +2016,27 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "LIS4ND3R": {
+      "name": "LIS4ND3R",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 75,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        1,
+        25
+      ],
+      "crown": 2,
+      "version": "v2522",
+      "uid": null,
+      "runId": null
     }
   }
 }
