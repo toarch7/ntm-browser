@@ -1750,6 +1750,71 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Throneseeker771": {
+      "name": "Throneseeker771",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 69,
+      "win": false,
+      "kills": 164,
+      "ultra": 0,
+      "skills": [
+        16,
+        1,
+        25,
+        10,
+        7
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "Groudon": {
+      "name": "Groudon",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 7,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        16,
+        1
+      ],
+      "crown": 2,
+      "version": "v2523",
+      "uid": null,
+      "runId": null
+    },
+    "Throneseeker265": {
+      "name": "Throneseeker265",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 0,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
