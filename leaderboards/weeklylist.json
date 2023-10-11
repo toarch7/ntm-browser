@@ -2331,6 +2331,46 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "Seeker015": {
+      "name": "Seeker015",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 116,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "Br": {
+      "name": "Br",
+      "char": 8,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 75,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
