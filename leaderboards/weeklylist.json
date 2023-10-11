@@ -1729,6 +1729,27 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "чел": {
+      "name": "чел",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 13,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        2,
+        8
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
