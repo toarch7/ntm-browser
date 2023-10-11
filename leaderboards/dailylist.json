@@ -1692,6 +1692,54 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "1161801842922111028": {
+      "name": "Felix0812",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 20,
+      "win": false,
+      "kills": 290,
+      "ultra": 0,
+      "skills": [
+        14,
+        25,
+        24,
+        27,
+        4,
+        6,
+        19
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1161791325612544081": {
+      "name": "Groudon",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        23
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null,
+      "runId": null
     }
   }
 }
