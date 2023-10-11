@@ -1903,6 +1903,51 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "СолеваяНяшка": {
+      "name": "СолеваяНяшка",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 13,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        22,
+        4
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "DEBIL_HUNTER": {
+      "name": "DEBIL_HUNTER",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 75,
+      "win": false,
+      "kills": 204,
+      "ultra": 0,
+      "skills": [
+        22,
+        8,
+        27,
+        10,
+        1
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
