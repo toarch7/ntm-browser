@@ -2453,6 +2453,27 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "John": {
+      "name": "John",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 13,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        8,
+        27
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
