@@ -554,16 +554,16 @@
       "name": "daft",
       "char": 8,
       "skin": false,
-      "area": 5,
+      "area": 2,
       "subarea": 1,
       "loops": 0,
       "wep": 13,
       "bwep": 75,
       "win": false,
-      "kills": 54,
+      "kills": 56,
       "ultra": 0,
       "skills": [
-        2,
+        22,
         8
       ],
       "crown": 2,
@@ -2756,6 +2756,30 @@
       ],
       "crown": 2,
       "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Throneseeker106": {
+      "name": "Throneseeker106",
+      "char": 8,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 0,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        16,
+        4,
+        25,
+        14,
+        10
+      ],
+      "crown": 2,
+      "version": "v2602",
       "uid": null,
       "runId": null
     }
