@@ -795,6 +795,63 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "1161982634335928390": {
+      "name": "Beeretr0",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1161981753506938980": {
+      "name": "DEBIL_HUNTER",
+      "char": 2,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 90,
+      "bwep": 34,
+      "win": false,
+      "kills": 353,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        4,
+        16,
+        8,
+        1
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1161973439641440256": {
+      "name": "Shikk",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
