@@ -1300,16 +1300,17 @@
       "name": "mamaco69",
       "char": 8,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 6,
-      "bwep": 75,
+      "wep": 75,
+      "bwep": 0,
       "win": false,
-      "kills": 64,
+      "kills": 82,
       "ultra": 0,
       "skills": [
-        16
+        16,
+        8
       ],
       "crown": 2,
       "version": "v2602",
@@ -2970,6 +2971,26 @@
       ],
       "crown": 2,
       "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Seeker650": {
+      "name": "Seeker650",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 0,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 2,
+      "version": "v2602",
       "uid": null,
       "runId": null
     }
