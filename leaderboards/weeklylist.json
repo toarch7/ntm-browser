@@ -2715,6 +2715,49 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Dees": {
+      "name": "Dees",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 75,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Frike": {
+      "name": "Frike",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 12,
+      "win": false,
+      "kills": 213,
+      "ultra": 0,
+      "skills": [
+        4,
+        27,
+        10,
+        1
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
