@@ -1,4 +1,91 @@
 {
   "day": 12,
-  "entries": {}
+  "entries": {
+    "1161850305038778388": {
+      "name": "EmpyDark",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 71,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1161831841813241896": {
+      "name": "Seeker757",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 4,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1161823852305850368": {
+      "name": "даун",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 60,
+      "win": false,
+      "kills": 586,
+      "ultra": 1,
+      "skills": [
+        1,
+        25,
+        23,
+        27,
+        4,
+        6,
+        10
+      ],
+      "crown": 9,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1161818716053458974": {
+      "name": "Kzuuyazinho",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 6,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    }
+  }
 }
