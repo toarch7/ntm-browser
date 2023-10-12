@@ -2273,14 +2273,14 @@
       "area": 3,
       "subarea": 2,
       "loops": 0,
-      "wep": 76,
-      "bwep": 116,
+      "wep": 12,
+      "bwep": 0,
       "win": false,
-      "kills": 106,
+      "kills": 114,
       "ultra": 0,
       "skills": [
         2,
-        4
+        1
       ],
       "crown": 2,
       "version": "v2602",
@@ -2904,6 +2904,69 @@
         14,
         10,
         1
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Seeker757": {
+      "name": "Seeker757",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 13,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Stinky": {
+      "name": "Stinky",
+      "char": 8,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 114,
+      "bwep": 62,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        22,
+        8,
+        27,
+        24
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Geimer": {
+      "name": "Geimer",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 75,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        22
       ],
       "crown": 2,
       "version": "v2527",
