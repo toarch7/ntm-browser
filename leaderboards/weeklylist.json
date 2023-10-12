@@ -1085,10 +1085,10 @@
       "area": 3,
       "subarea": 2,
       "loops": 0,
-      "wep": 62,
-      "bwep": 75,
+      "wep": 76,
+      "bwep": 16,
       "win": false,
-      "kills": 96,
+      "kills": 114,
       "ultra": 0,
       "skills": [
         22,
@@ -2672,6 +2672,47 @@
       ],
       "crown": 2,
       "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "Seeker088": {
+      "name": "Seeker088",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 16,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        16,
+        8
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "mutante": {
+      "name": "mutante",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 16,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 2,
+      "version": "v2527",
       "uid": null,
       "runId": null
     }
