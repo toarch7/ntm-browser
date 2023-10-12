@@ -2516,6 +2516,31 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Zhubakka_": {
+      "name": "Zhubakka_",
+      "char": 8,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 116,
+      "bwep": 12,
+      "win": false,
+      "kills": 330,
+      "ultra": 0,
+      "skills": [
+        27,
+        25,
+        9,
+        1,
+        23,
+        7
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
