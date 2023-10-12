@@ -2371,6 +2371,26 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "Seeker103": {
+      "name": "Seeker103",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 16,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
