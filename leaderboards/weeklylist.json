@@ -2474,6 +2474,48 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "SANDOS": {
+      "name": "SANDOS",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 13,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Pablo": {
+      "name": "Pablo",
+      "char": 8,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 0,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        16,
+        23,
+        10
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
