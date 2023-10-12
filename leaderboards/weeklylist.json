@@ -1301,16 +1301,17 @@
       "char": 8,
       "skin": false,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 75,
-      "bwep": 0,
+      "wep": 13,
+      "bwep": 75,
       "win": false,
-      "kills": 82,
+      "kills": 125,
       "ultra": 0,
       "skills": [
         16,
-        8
+        8,
+        23
       ],
       "crown": 2,
       "version": "v2602",
@@ -2991,6 +2992,54 @@
       ],
       "crown": 2,
       "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "BABA": {
+      "name": "BABA",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 65,
+      "win": false,
+      "kills": 320,
+      "ultra": 0,
+      "skills": [
+        16,
+        27,
+        10,
+        4,
+        1,
+        22
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Seeker307.82": {
+      "name": "Seeker307.82",
+      "char": 8,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 0,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        2,
+        1,
+        27,
+        10
+      ],
+      "crown": 2,
+      "version": "v2527",
       "uid": null,
       "runId": null
     }
