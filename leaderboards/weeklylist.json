@@ -3391,6 +3391,27 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Seeker382": {
+      "name": "Seeker382",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 12,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        22,
+        1
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
