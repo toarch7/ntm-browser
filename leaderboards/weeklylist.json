@@ -3069,6 +3069,69 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "SEMPAIGD6": {
+      "name": "SEMPAIGD6",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 75,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        2,
+        8
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Pene": {
+      "name": "Pene",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 13,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        16,
+        1
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "HoracioGame": {
+      "name": "HoracioGame",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 13,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        22,
+        8
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
