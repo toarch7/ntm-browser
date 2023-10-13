@@ -3075,15 +3075,14 @@
       "char": 8,
       "skin": false,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 13,
-      "bwep": 75,
+      "wep": 75,
+      "bwep": 62,
       "win": false,
-      "kills": 77,
+      "kills": 106,
       "ultra": 0,
       "skills": [
-        2,
         8
       ],
       "crown": 2,
@@ -3130,6 +3129,32 @@
       ],
       "crown": 2,
       "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Leandersito777": {
+      "name": "Leandersito777",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 75,
+      "win": false,
+      "kills": 328,
+      "ultra": 0,
+      "skills": [
+        22,
+        4,
+        27,
+        10,
+        1,
+        26,
+        23
+      ],
+      "crown": 2,
+      "version": "v2523",
       "uid": null,
       "runId": null
     }
