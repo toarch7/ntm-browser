@@ -3278,6 +3278,44 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "Hasky": {
+      "name": "Hasky",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 0,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "твоя": {
+      "name": "твоя",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 16,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
