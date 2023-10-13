@@ -363,6 +363,140 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "1162302626952658964": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 17,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null,
+      "runId": null
+    },
+    "1162297321674002462": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1162296827471724584": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 17,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1162296720537952316": {
+      "name": "Throneseeker269",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 6,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1162294962222813185": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1162290768145297449": {
+      "name": "Seeker057",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1162290238673145947": {
+      "name": "lpshkaaaaaa",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        13
+      ],
+      "crown": 11,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }

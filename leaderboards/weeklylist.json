@@ -3237,6 +3237,47 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "lol": {
+      "name": "lol",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 75,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Muck-et": {
+      "name": "Muck-et",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 76,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        2,
+        8
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
