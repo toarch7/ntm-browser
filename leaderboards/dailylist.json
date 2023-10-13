@@ -1265,6 +1265,107 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "1162498054428037232": {
+      "name": "Quiusko",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 6,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1162494020971401337": {
+      "name": "Estilerpropio",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 19,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1162491852876959854": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1162491414215663666": {
+      "name": "Maiki",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        16,
+        28
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1162488629059407913": {
+      "name": "я",
+      "char": 3,
+      "skin": false,
+      "area": 100,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 117,
+      "win": false,
+      "kills": 208,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        13,
+        7,
+        27
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
