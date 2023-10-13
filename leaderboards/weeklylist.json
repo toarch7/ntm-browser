@@ -3216,6 +3216,27 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Seeker081": {
+      "name": "Seeker081",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 62,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        16,
+        4
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
