@@ -3157,6 +3157,65 @@
       "version": "v2523",
       "uid": null,
       "runId": null
+    },
+    "_ADAN_": {
+      "name": "_ADAN_",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 62,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 2,
+      "version": "v2523",
+      "uid": null,
+      "runId": null
+    },
+    "stronk": {
+      "name": "stronk",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 6,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Minino": {
+      "name": "Minino",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 13,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        16,
+        1
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
