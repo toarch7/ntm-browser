@@ -3506,6 +3506,26 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "Seeker016": {
+      "name": "Seeker016",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 17,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }

@@ -1145,6 +1145,50 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "1162463252056395786": {
+      "name": "Принтер",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 14,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1162462661510967337": {
+      "name": "scumfucker",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 14,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
