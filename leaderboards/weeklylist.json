@@ -3339,6 +3339,58 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Негр": {
+      "name": "Негр",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 68,
+      "win": false,
+      "kills": 333,
+      "ultra": 0,
+      "skills": [
+        22,
+        27,
+        10,
+        1,
+        6,
+        23
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Main": {
+      "name": "Main",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 12,
+      "win": false,
+      "kills": 320,
+      "ultra": 0,
+      "skills": [
+        22,
+        8,
+        27,
+        25,
+        9,
+        1,
+        13,
+        21
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
