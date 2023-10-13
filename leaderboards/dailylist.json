@@ -537,6 +537,107 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "1162329669966757930": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1162329250611855454": {
+      "name": "Throneseeker771",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 13,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1162325831100665866": {
+      "name": "LisArt10",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 2,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        17
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1162324268646932500": {
+      "name": "Throneseeker413",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 12,
+      "win": false,
+      "kills": 276,
+      "ultra": 0,
+      "skills": [
+        8,
+        7,
+        22,
+        10
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1162319470077952000": {
+      "name": "Seeker440",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
