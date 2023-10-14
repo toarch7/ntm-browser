@@ -249,6 +249,69 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "1162627494155915355": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 34,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        16,
+        19
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1162627429471363112": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1162620785479929976": {
+      "name": "Maiki",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 1,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        16,
+        28,
+        4
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
