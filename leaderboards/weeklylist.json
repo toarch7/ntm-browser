@@ -3587,6 +3587,27 @@
       "version": "v2523",
       "uid": null,
       "runId": null
+    },
+    "Throneseeker524": {
+      "name": "Throneseeker524",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 72,
+      "bwep": 13,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        16,
+        8
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
