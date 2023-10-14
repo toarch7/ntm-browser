@@ -131,6 +131,49 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "1162603353751162910": {
+      "name": "Throneseeker413",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 69,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1162602363123679312": {
+      "name": "snake",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 16,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        4
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }

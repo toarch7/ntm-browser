@@ -3630,6 +3630,30 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Ale": {
+      "name": "Ale",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 112,
+      "win": false,
+      "kills": 160,
+      "ultra": 0,
+      "skills": [
+        2,
+        4,
+        27,
+        10,
+        7
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
