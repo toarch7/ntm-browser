@@ -4103,6 +4103,28 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "Killer777": {
+      "name": "Killer777",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 75,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        2,
+        1,
+        16
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
