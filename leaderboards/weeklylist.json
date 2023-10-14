@@ -3608,6 +3608,28 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Niglas": {
+      "name": "Niglas",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 12,
+      "win": false,
+      "kills": 206,
+      "ultra": 0,
+      "skills": [
+        8,
+        24,
+        7
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
