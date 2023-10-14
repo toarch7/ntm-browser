@@ -3920,6 +3920,59 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Seeker122": {
+      "name": "Seeker122",
+      "char": 8,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 3,
+      "bwep": 110,
+      "win": false,
+      "kills": 326,
+      "ultra": 0,
+      "skills": [
+        22,
+        1,
+        27,
+        25,
+        10,
+        4,
+        13,
+        23,
+        7
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "David777": {
+      "name": "David777",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 88,
+      "win": false,
+      "kills": 214,
+      "ultra": 0,
+      "skills": [
+        22,
+        4,
+        27,
+        10,
+        1,
+        13
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
