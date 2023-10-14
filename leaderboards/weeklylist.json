@@ -3544,6 +3544,49 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Arakyn": {
+      "name": "Arakyn",
+      "char": 8,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 12,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        10
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Seeker511": {
+      "name": "Seeker511",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 0,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        16,
+        8
+      ],
+      "crown": 2,
+      "version": "v2523",
+      "uid": null,
+      "runId": null
     }
   }
 }
