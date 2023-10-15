@@ -1442,6 +1442,59 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "1163222169334075503": {
+      "name": "just",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 40,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1163217876610723952": {
+      "name": "Hycairio",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1163211125832290404": {
+      "name": "Laucha",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 6,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        1,
+        17
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
