@@ -3487,14 +3487,13 @@
       "wep": 12,
       "bwep": 13,
       "win": false,
-      "kills": 198,
+      "kills": 213,
       "ultra": 0,
       "skills": [
-        22,
         8,
         25,
         14,
-        10,
+        2,
         7
       ],
       "crown": 2,
@@ -4472,6 +4471,26 @@
       "skills": [
         2,
         1
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Toro": {
+      "name": "Toro",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 75,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        2
       ],
       "crown": 2,
       "version": "v2527",
