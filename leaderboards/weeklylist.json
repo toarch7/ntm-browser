@@ -2940,14 +2940,12 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 75,
-      "bwep": 13,
+      "wep": 13,
+      "bwep": 75,
       "win": false,
-      "kills": 57,
+      "kills": 61,
       "ultra": 0,
-      "skills": [
-        2
-      ],
+      "skills": [],
       "crown": 2,
       "version": "v2527",
       "uid": null,
@@ -4517,6 +4515,28 @@
         9,
         4,
         6
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "": {
+      "name": "",
+      "char": 8,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 9,
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        16,
+        4,
+        25
       ],
       "crown": 2,
       "version": "v2602",
