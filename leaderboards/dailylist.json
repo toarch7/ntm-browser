@@ -1221,6 +1221,123 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "1163191879932858408": {
+      "name": "даун",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 39,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1163191098357854380": {
+      "name": "Kuchigamer",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        1,
+        25
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1163185314538471535": {
+      "name": "MisterBlue",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1163183003804110888": {
+      "name": "Throneseeker174",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 6,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1163181435113439292": {
+      "name": "Enzo",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 3,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1163180979465228329": {
+      "name": "Seeker712",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
