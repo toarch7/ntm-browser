@@ -287,6 +287,73 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "1162998016525991976": {
+      "name": "ElCrisis",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 31,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        1,
+        28
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1162990054654869505": {
+      "name": "Принтер",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 62,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        1,
+        27
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1162989353916698694": {
+      "name": "Seeker413",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 57,
+      "win": false,
+      "kills": 280,
+      "ultra": 0,
+      "skills": [
+        1,
+        17,
+        27,
+        13,
+        6,
+        7
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
