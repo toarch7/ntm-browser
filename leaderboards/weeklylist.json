@@ -4281,6 +4281,54 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Marid": {
+      "name": "Marid",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 0,
+      "win": false,
+      "kills": 204,
+      "ultra": 0,
+      "skills": [
+        22,
+        1,
+        10,
+        7
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "RYUUKO": {
+      "name": "RYUUKO",
+      "char": 8,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 110,
+      "bwep": 0,
+      "win": false,
+      "kills": 319,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        10,
+        7,
+        1,
+        22
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
