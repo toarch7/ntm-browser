@@ -4850,6 +4850,49 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "enersososon": {
+      "name": "enersososon",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 69,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        2,
+        1,
+        27,
+        10
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "DeezNuts": {
+      "name": "DeezNuts",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 75,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
