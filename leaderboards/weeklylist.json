@@ -4655,16 +4655,17 @@
       "name": "Seeker871",
       "char": 8,
       "skin": false,
-      "area": 102,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 75,
-      "bwep": 7,
+      "wep": 117,
+      "bwep": 75,
       "win": false,
-      "kills": 70,
+      "kills": 164,
       "ultra": 0,
       "skills": [
-        22
+        27,
+        10
       ],
       "crown": 2,
       "version": "v2602",
@@ -4686,6 +4687,30 @@
       "skills": [],
       "crown": 2,
       "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Seeker742": {
+      "name": "Seeker742",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 26,
+      "win": false,
+      "kills": 256,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        1,
+        10,
+        13
+      ],
+      "crown": 2,
+      "version": "v2602",
       "uid": null,
       "runId": null
     }
