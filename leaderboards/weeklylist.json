@@ -4713,6 +4713,29 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "jhoynner": {
+      "name": "jhoynner",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 24,
+      "win": false,
+      "kills": 250,
+      "ultra": 0,
+      "skills": [
+        2,
+        1,
+        27,
+        7
+      ],
+      "crown": 2,
+      "version": "v2523",
+      "uid": null,
+      "runId": null
     }
   }
 }
