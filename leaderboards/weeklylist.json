@@ -4807,6 +4807,29 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Felix0812": {
+      "name": "Felix0812",
+      "char": 8,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 0,
+      "win": false,
+      "kills": 230,
+      "ultra": 0,
+      "skills": [
+        27,
+        25,
+        14,
+        1
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }

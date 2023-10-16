@@ -1634,6 +1634,27 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "1163547637950185524": {
+      "name": "Throneseeker413",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 4,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        10,
+        25
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
