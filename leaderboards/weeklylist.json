@@ -4830,6 +4830,26 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "Seeker002": {
+      "name": "Seeker002",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 0,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
