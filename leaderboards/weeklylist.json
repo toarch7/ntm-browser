@@ -4650,6 +4650,44 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Seeker871": {
+      "name": "Seeker871",
+      "char": 8,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 7,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 2,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "huhidr_guider": {
+      "name": "huhidr_guider",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 0,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
