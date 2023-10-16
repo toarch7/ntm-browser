@@ -4893,6 +4893,27 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Seeker431.51": {
+      "name": "Seeker431.51",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 75,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        22,
+        1
+      ],
+      "crown": 2,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
