@@ -1538,6 +1538,102 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "1163540405288177756": {
+      "name": "edsecrslf",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 37,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1163534231377555538": {
+      "name": "rem",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1163529648773288037": {
+      "name": "Throneseeker413",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 4,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": "v2523",
+      "uid": null,
+      "runId": null
+    },
+    "1163529304144101526": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 6,
+      "win": false,
+      "kills": 13,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1163528491636109434": {
+      "name": "PAALIX",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 7,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
