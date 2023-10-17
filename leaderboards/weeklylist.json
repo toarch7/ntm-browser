@@ -1724,6 +1724,114 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "Josepo": {
+      "name": "Josepo",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 17,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        6,
+        22
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "FantonFlare03": {
+      "name": "FantonFlare03",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 24,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        10,
+        22
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "joda": {
+      "name": "joda",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 24,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        10,
+        6
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "Thesan01": {
+      "name": "Thesan01",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 88,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        6,
+        16
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Seeker000": {
+      "name": "Seeker000",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 24,
+      "win": false,
+      "kills": 240,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        8,
+        13,
+        27
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
