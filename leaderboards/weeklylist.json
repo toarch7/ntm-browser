@@ -1777,10 +1777,9 @@
       "wep": 7,
       "bwep": 24,
       "win": false,
-      "kills": 101,
+      "kills": 122,
       "ultra": 0,
       "skills": [
-        10,
         6
       ],
       "crown": 7,
@@ -1830,6 +1829,48 @@
       ],
       "crown": 7,
       "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "tumami": {
+      "name": "tumami",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 27,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        10,
+        6
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Seeker218": {
+      "name": "Seeker218",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 17,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        10,
+        6
+      ],
+      "crown": 7,
+      "version": "v2602",
       "uid": null,
       "runId": null
     }
