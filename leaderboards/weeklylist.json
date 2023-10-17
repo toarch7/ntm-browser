@@ -1147,6 +1147,27 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "Huesos": {
+      "name": "Huesos",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 0,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        10,
+        16
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
