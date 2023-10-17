@@ -315,14 +315,14 @@
       "subarea": 1,
       "loops": 0,
       "wep": 24,
-      "bwep": 37,
+      "bwep": 21,
       "win": false,
-      "kills": 146,
+      "kills": 156,
       "ultra": 0,
       "skills": [
-        10,
-        16,
-        7
+        23,
+        6,
+        8
       ],
       "crown": 7,
       "version": "v2527",
@@ -526,6 +526,28 @@
       ],
       "crown": 7,
       "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "кот": {
+      "name": "кот",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 24,
+      "win": false,
+      "kills": 172,
+      "ultra": 0,
+      "skills": [
+        10,
+        22,
+        3
+      ],
+      "crown": 7,
+      "version": "v2527",
       "uid": null,
       "runId": null
     }

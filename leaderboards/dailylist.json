@@ -361,6 +361,110 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "1163706051787505704": {
+      "name": "LisArt10",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 39,
+      "win": false,
+      "kills": 18,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1163700915442827264": {
+      "name": "Seeker712",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 26,
+      "crown": 1,
+      "version": "v2523",
+      "uid": null,
+      "runId": null
+    },
+    "1163700485400825886": {
+      "name": "rhoveen",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        9,
+        25,
+        2,
+        3
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1163699580739792906": {
+      "name": "Seeker712",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1163693833901580398": {
+      "name": "Throneseeker413",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 59,
+      "win": false,
+      "kills": 178,
+      "ultra": 0,
+      "skills": [
+        9,
+        25,
+        17,
+        3,
+        28,
+        4
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
