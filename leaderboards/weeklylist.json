@@ -1682,6 +1682,48 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Nikoru": {
+      "name": "Nikoru",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 72,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        10,
+        6
+      ],
+      "crown": 7,
+      "version": "v2523",
+      "uid": null,
+      "runId": null
+    },
+    "Ketchup": {
+      "name": "Ketchup",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 7,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        10,
+        6
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
