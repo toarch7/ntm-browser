@@ -631,6 +631,22 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "(v2610)": {
+      "name": "EvilCat",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": "v2610",
+      "uid": "(v2610)",
+      "runId": null
     }
   }
 }
