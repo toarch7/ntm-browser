@@ -742,6 +742,69 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "1163782421255307314": {
+      "name": "Readysalmon344",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1163776776577749104": {
+      "name": "Hiajen",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1163776381960863785": {
+      "name": "Throneseeker771",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        10,
+        25,
+        16,
+        3
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
