@@ -2334,6 +2334,52 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "bajnmen": {
+      "name": "bajnmen",
+      "char": 6,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 35,
+      "win": false,
+      "kills": 422,
+      "ultra": 0,
+      "skills": [
+        23,
+        6,
+        7,
+        13,
+        27,
+        3
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "prijrak": {
+      "name": "prijrak",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 6,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        23,
+        6
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
