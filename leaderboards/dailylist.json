@@ -559,6 +559,132 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "1164099196132012082": {
+      "name": "Digl",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        25,
+        9,
+        28
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1164098918326485012": {
+      "name": "MUR",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 6,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        19,
+        28
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1164098578860486736": {
+      "name": "Seeker420",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1164091368398921728": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 6,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1164088237678145617": {
+      "name": "Принтер",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 6,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        26,
+        23
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1164087273629950023": {
+      "name": "Throneseeker771",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 66,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        25,
+        9,
+        16,
+        8,
+        4,
+        17,
+        24
+      ],
+      "crown": 8,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }

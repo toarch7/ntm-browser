@@ -2200,6 +2200,48 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "JoJo": {
+      "name": "JoJo",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 6,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        23,
+        6
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Лох": {
+      "name": "Лох",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 3,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        6,
+        16
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
