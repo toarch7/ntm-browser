@@ -2607,6 +2607,49 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Seeker133": {
+      "name": "Seeker133",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 8,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        23,
+        24,
+        3
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "Seeker796": {
+      "name": "Seeker796",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 24,
+      "win": false,
+      "kills": 121,
+      "ultra": 0,
+      "skills": [
+        6,
+        16
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
