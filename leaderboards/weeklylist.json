@@ -1841,10 +1841,10 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
-      "bwep": 27,
+      "wep": 27,
+      "bwep": 24,
       "win": false,
-      "kills": 104,
+      "kills": 105,
       "ultra": 0,
       "skills": [
         10,
@@ -2004,6 +2004,71 @@
       ],
       "crown": 7,
       "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "Groudon": {
+      "name": "Groudon",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 17,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        10,
+        16,
+        8
+      ],
+      "crown": 7,
+      "version": "v2523",
+      "uid": null,
+      "runId": null
+    },
+    "RGB": {
+      "name": "RGB",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 24,
+      "win": false,
+      "kills": 165,
+      "ultra": 0,
+      "skills": [
+        10,
+        22,
+        8
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "Acxel": {
+      "name": "Acxel",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 0,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        23,
+        22
+      ],
+      "crown": 7,
+      "version": "v2527",
       "uid": null,
       "runId": null
     }
