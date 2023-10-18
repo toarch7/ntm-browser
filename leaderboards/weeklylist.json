@@ -92,21 +92,21 @@
     },
     "Seeker431.51": {
       "name": "Seeker431.51",
-      "char": 8,
-      "skin": false,
-      "area": 5,
+      "char": 6,
+      "skin": true,
+      "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 11,
-      "bwep": 75,
+      "wep": 4,
+      "bwep": 24,
       "win": false,
-      "kills": 58,
+      "kills": 107,
       "ultra": 0,
       "skills": [
-        22,
-        1
+        6,
+        22
       ],
-      "crown": 2,
+      "crown": 7,
       "version": "v2527",
       "uid": null,
       "runId": null
