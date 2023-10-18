@@ -2740,6 +2740,49 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "DND": {
+      "name": "DND",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 17,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        23,
+        22
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "Хайзенбургер": {
+      "name": "Хайзенбургер",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 17,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        23,
+        6,
+        3
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
