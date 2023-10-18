@@ -1406,6 +1406,30 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "1164234581130625148": {
+      "name": "Seeker860",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 47,
+      "win": false,
+      "kills": 268,
+      "ultra": 0,
+      "skills": [
+        19,
+        23,
+        9,
+        4,
+        8
+      ],
+      "crown": 5,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
