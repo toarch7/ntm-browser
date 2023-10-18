@@ -1231,6 +1231,50 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "1164185215716044850": {
+      "name": "Seeker712",
+      "char": 8,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 66,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        17,
+        23,
+        21,
+        4,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1164185161131372564": {
+      "name": "Scrotum",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 18,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }

@@ -2454,6 +2454,28 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "just": {
+      "name": "just",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 24,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        23,
+        16,
+        7
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
