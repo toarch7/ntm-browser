@@ -862,18 +862,17 @@
       "name": "Seeker420",
       "char": 6,
       "skin": true,
-      "area": 5,
+      "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 24,
-      "bwep": 63,
+      "wep": 17,
+      "bwep": 24,
       "win": false,
-      "kills": 90,
+      "kills": 107,
       "ultra": 0,
       "skills": [
         23,
-        16,
-        7
+        16
       ],
       "crown": 7,
       "version": "v2602",
@@ -2154,6 +2153,48 @@
       "skills": [
         23,
         6
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "FiSt_": {
+      "name": "FiSt_",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 18,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        23,
+        16
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Dr.V": {
+      "name": "Dr.V",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 27,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        23,
+        22
       ],
       "crown": 7,
       "version": "v2527",
