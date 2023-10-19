@@ -3418,17 +3418,39 @@
       "name": "Seeker054",
       "char": 6,
       "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 198,
+      "ultra": 0,
+      "skills": [
+        23,
+        22,
+        3
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "luis": {
+      "name": "luis",
+      "char": 6,
+      "skin": true,
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 27,
-      "bwep": 24,
+      "wep": 24,
+      "bwep": 17,
       "win": false,
       "kills": 113,
       "ultra": 0,
       "skills": [
-        23,
-        6
+        10,
+        16
       ],
       "crown": 7,
       "version": "v2602",
