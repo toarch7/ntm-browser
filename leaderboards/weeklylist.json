@@ -3366,6 +3366,27 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "Xena0364": {
+      "name": "Xena0364",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 21,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        10,
+        6
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
