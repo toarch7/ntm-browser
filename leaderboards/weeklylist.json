@@ -2853,6 +2853,28 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Dasmon": {
+      "name": "Dasmon",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 8,
+      "win": false,
+      "kills": 211,
+      "ultra": 0,
+      "skills": [
+        10,
+        22,
+        3
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
