@@ -588,6 +588,52 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "1164467033321254932": {
+      "name": "JJelly",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        23,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1164463540627845123": {
+      "name": "СПУТНХ",
+      "char": 9,
+      "skin": true,
+      "area": 100,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 119,
+      "bwep": 0,
+      "win": false,
+      "kills": 232,
+      "ultra": 0,
+      "skills": [
+        7,
+        24,
+        9,
+        3,
+        23,
+        22
+      ],
+      "crown": 11,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
