@@ -2981,6 +2981,27 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "koljasius": {
+      "name": "koljasius",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 24,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        23,
+        6
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }

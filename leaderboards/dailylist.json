@@ -541,6 +541,53 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "1164461350597181440": {
+      "name": "Throneseeker771",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 0,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        10,
+        14,
+        1,
+        3,
+        2
+      ],
+      "crown": 8,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1164453082235674715": {
+      "name": "Sosiska52",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 88,
+      "win": false,
+      "kills": 161,
+      "ultra": 0,
+      "skills": [
+        10,
+        1,
+        3,
+        23
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
