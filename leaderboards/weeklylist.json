@@ -2241,17 +2241,18 @@
       "name": "Лох",
       "char": 6,
       "skin": true,
-      "area": 4,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
       "wep": 24,
-      "bwep": 3,
+      "bwep": 6,
       "win": false,
-      "kills": 43,
+      "kills": 70,
       "ultra": 0,
       "skills": [
-        6,
-        16
+        10,
+        16,
+        7
       ],
       "crown": 7,
       "version": "v2527",
@@ -2870,6 +2871,27 @@
         10,
         22,
         3
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "STANLEY": {
+      "name": "STANLEY",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 27,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        21,
+        6
       ],
       "crown": 7,
       "version": "v2527",
