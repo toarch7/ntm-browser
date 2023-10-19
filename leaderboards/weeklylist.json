@@ -2897,6 +2897,27 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Zamilska": {
+      "name": "Zamilska",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 19,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        10,
+        22
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
