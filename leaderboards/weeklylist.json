@@ -3097,6 +3097,48 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "Vanir": {
+      "name": "Vanir",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 17,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        23,
+        6
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "TeniFlame": {
+      "name": "TeniFlame",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 24,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        23,
+        22
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
