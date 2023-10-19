@@ -3102,17 +3102,19 @@
       "name": "Vanir",
       "char": 6,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
       "wep": 24,
       "bwep": 17,
       "win": false,
-      "kills": 132,
+      "kills": 201,
       "ultra": 0,
       "skills": [
         23,
-        6
+        6,
+        3,
+        13
       ],
       "crown": 7,
       "version": "v2527",
@@ -3134,6 +3136,73 @@
       "skills": [
         23,
         22
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "кулёк": {
+      "name": "кулёк",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 72,
+      "win": false,
+      "kills": 195,
+      "ultra": 0,
+      "skills": [
+        10,
+        22,
+        3,
+        13
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Toro": {
+      "name": "Toro",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 38,
+      "win": false,
+      "kills": 241,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        7,
+        23
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "DARKMEDO": {
+      "name": "DARKMEDO",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 72,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        10,
+        6
       ],
       "crown": 7,
       "version": "v2527",
