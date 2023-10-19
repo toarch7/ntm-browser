@@ -1192,6 +1192,55 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "1164567410523787316": {
+      "name": "EmpyDark",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 112,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        8
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "(v2610)": {
+      "name": "SKU",
+      "char": 11,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 86,
+      "win": false,
+      "kills": 1573,
+      "ultra": 2,
+      "skills": [
+        25,
+        10,
+        4,
+        3,
+        27,
+        13,
+        23,
+        7
+      ],
+      "crown": 7,
+      "version": "v2610",
+      "uid": "(v2610)",
+      "runId": 115
     }
   }
 }
