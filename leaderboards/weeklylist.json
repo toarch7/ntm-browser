@@ -1716,17 +1716,22 @@
       "name": "Ketchup",
       "char": 6,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 24,
-      "bwep": 7,
+      "wep": 25,
+      "bwep": 35,
       "win": false,
-      "kills": 120,
+      "kills": 418,
       "ultra": 0,
       "skills": [
         10,
-        6
+        6,
+        8,
+        13,
+        27,
+        3,
+        4
       ],
       "crown": 7,
       "version": "v2602",
@@ -3382,6 +3387,27 @@
       "skills": [
         10,
         6
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "atuncyto": {
+      "name": "atuncyto",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 17,
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        6,
+        16
       ],
       "crown": 7,
       "version": "v2527",
