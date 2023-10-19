@@ -1909,6 +1909,51 @@
       "version": "v2522",
       "uid": null,
       "runId": null
+    },
+    "1164702649132789800": {
+      "name": "Deivis",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        7,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1164695677608136715": {
+      "name": "Seeker712",
+      "char": 6,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 113,
+      "win": false,
+      "kills": 172,
+      "ultra": 0,
+      "skills": [
+        10,
+        14,
+        27,
+        3,
+        1
+      ],
+      "crown": 8,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
