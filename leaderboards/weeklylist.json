@@ -2918,6 +2918,69 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "Seeker547": {
+      "name": "Seeker547",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 24,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        6,
+        16
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Seeker574": {
+      "name": "Seeker574",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 72,
+      "win": false,
+      "kills": 118,
+      "ultra": 0,
+      "skills": [
+        23,
+        22
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "KORN26K": {
+      "name": "KORN26K",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 24,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        21,
+        6
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
