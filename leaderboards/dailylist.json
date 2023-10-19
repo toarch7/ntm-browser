@@ -634,6 +634,141 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "1164488691473973299": {
+      "name": "E.G.G.M.A.N.",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        23,
+        24
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1164487214047174757": {
+      "name": "PigEater",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 72,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        7,
+        14
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1164483374551937075": {
+      "name": "Seeker712",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 50,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        14,
+        27,
+        8,
+        23
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1164482199454744628": {
+      "name": "Zhubakka_",
+      "char": 15,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 113,
+      "win": false,
+      "kills": 214,
+      "ultra": 0,
+      "skills": [
+        23,
+        27,
+        3,
+        7,
+        9
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1164481084969455640": {
+      "name": "DND",
+      "char": 14,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 113,
+      "win": false,
+      "kills": 260,
+      "ultra": 0,
+      "skills": [
+        10,
+        14,
+        1,
+        3,
+        23,
+        9,
+        22
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1164480548836749393": {
+      "name": "марк",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
