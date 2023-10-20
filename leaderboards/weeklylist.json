@@ -3244,16 +3244,17 @@
       "char": 6,
       "skin": true,
       "area": 3,
-      "subarea": 3,
+      "subarea": 1,
       "loops": 0,
       "wep": 24,
-      "bwep": 0,
+      "bwep": 8,
       "win": false,
-      "kills": 92,
+      "kills": 135,
       "ultra": 0,
       "skills": [
-        23,
-        22
+        6,
+        22,
+        8
       ],
       "crown": 7,
       "version": "v2527",
