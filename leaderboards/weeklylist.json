@@ -3764,6 +3764,27 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "User_.906": {
+      "name": "User_.906",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 72,
+      "bwep": 24,
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        23,
+        6
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
