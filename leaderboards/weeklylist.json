@@ -4137,6 +4137,53 @@
       "version": 2610,
       "uid": "Ony9IBE8s5xt5KI",
       "runId": 567310014
+    },
+    "1fx35W4I06bkYH1": {
+      "name": "Rin",
+      "char": 6,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 35,
+      "win": false,
+      "kills": 583,
+      "ultra": 1,
+      "skills": [
+        13,
+        17,
+        22,
+        14,
+        27,
+        3,
+        1
+      ],
+      "crown": 7,
+      "version": 2610,
+      "uid": "1fx35W4I06bkYH1",
+      "runId": 567310014
+    },
+    "RCrp4a4UfRB93TR": {
+      "name": "angelo",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 17,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        9,
+        1
+      ],
+      "crown": 7,
+      "version": 2612,
+      "uid": "RCrp4a4UfRB93TR",
+      "runId": 567310014
     }
   }
 }
