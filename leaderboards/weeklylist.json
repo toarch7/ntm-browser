@@ -3832,6 +3832,28 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "Seeker491": {
+      "name": "Seeker491",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 8,
+      "win": false,
+      "kills": 202,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        7
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
