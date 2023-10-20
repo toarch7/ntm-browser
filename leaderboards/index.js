@@ -159,17 +159,11 @@ client.once(Events.ClientReady, c => {
                 return;
 
             let stats = parse(message.embeds[0]);
-            let uid = stats.uid ?? message.id;
+            let uid = stats.uid;
 
-            if (!entries[uid]) {
-                let day = new Date(message.createdTimestamp);
-
-                console.log(stats.name, "day:", day.getDate(), date);
-        
-                if (day.getDate() == date) {//(checkSeed(stats, dailySeed) || (stats.version && stats.version[2] == "5" && day.getDate() == date)) {
-                    console.log("New entry from", stats.name + "|" + uid);
-                    entries[uid] = stats;
-                }
+            if (!entries[uid] && checkSeed(stats, dailySeed)) {
+                console.log("New entry from", stats.name + "|" + uid);
+                entries[uid] = stats;
             }
         });
 
@@ -205,8 +199,6 @@ client.once(Events.ClientReady, c => {
         let weeklylist = {};
         let entries = {};
 
-        let weekNumber = getWeekNumber(new Date());
-
         let reset = false;
 
         if (existsSync("./leaderboards/weeklylist.json")) {
@@ -230,15 +222,11 @@ client.once(Events.ClientReady, c => {
             let stats = parse(message.embeds[0]);
             let uid = stats.uid ?? stats.name;
     
-            let num = getWeekNumber(new Date(message.createdTimestamp));
-
-            console.log(stats.name, "week:", num, weekNumber);
-
-            if (num == weekNumber) {//(checkSeed(stats, weeklySeed) || (stats.version[2] == "5" && num == weekNumber)) {
+            if (checkSeed(stats, weeklySeed)) {
                 let entry = entries[uid];
     
                 if (!entry || (entry && entry.kills < stats.kills)) {
-                    console.log("New entry from", stats.name + "|" + uid);
+                    console.log("New entry from", stats.name + "|" + stats.uid);
                     entries[uid] = stats;
                 }
             }
@@ -274,11 +262,8 @@ async function start() {
     let dailydata = await (axios.get("https://raw.githubusercontent.com/toarch7/torcherdev/main/dailydata.json"));
     let weeklydata = await (axios.get("https://raw.githubusercontent.com/toarch7/torcherdev/main/weeklydata.json"));
 
-    dailySeed = dailydata.data.seed;
-    weeklySeed = weeklydata.data.seed;
-
-    console.log("Daily seed", dailySeed);
-    console.log("Weekly seed", weeklySeed);
+    dailySeed = parseInt(dailydata.data.seed);
+    weeklySeed = parseInt(weeklydata.data.seed);
 
     client.login(params.token);
 
