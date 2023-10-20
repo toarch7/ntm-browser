@@ -3456,6 +3456,113 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "dsans": {
+      "name": "dsans",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 24,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        23,
+        22
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Secreción": {
+      "name": "Secreción",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 7,
+      "win": false,
+      "kills": 160,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        7
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "RYUUKO": {
+      "name": "RYUUKO",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 6,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        23,
+        22
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Double": {
+      "name": "Double",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 24,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        6,
+        16,
+        7
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "Kzuuyazinho": {
+      "name": "Kzuuyazinho",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 71,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        23,
+        6
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
