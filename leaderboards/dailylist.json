@@ -1827,6 +1827,55 @@
       "version": 2612,
       "uid": "RCrp4a4UfRB93TR",
       "runId": 39100591
+    },
+    "7xiWhY24Sj21L5u": {
+      "name": "Skeleton",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 9,
+      "win": false,
+      "kills": 258,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        12,
+        3,
+        8,
+        25,
+        27
+      ],
+      "crown": 1,
+      "version": 2612,
+      "uid": "7xiWhY24Sj21L5u",
+      "runId": 39100591
+    },
+    "23bm9bw0jT0ccXM": {
+      "name": "lenin",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 34,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        3,
+        16
+      ],
+      "crown": 1,
+      "version": 2611,
+      "uid": "23bm9bw0jT0ccXM",
+      "runId": 39100591
     }
   }
 }
