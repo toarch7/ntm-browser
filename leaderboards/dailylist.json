@@ -1616,6 +1616,96 @@
       "version": 2611,
       "uid": "vDiSTVj8l4907fa",
       "runId": 39100591
+    },
+    "w2bLRXrOwB8Ta6v": {
+      "name": "Folk",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 36,
+      "win": false,
+      "kills": 257,
+      "ultra": 0,
+      "skills": [
+        19,
+        4,
+        16,
+        8,
+        25,
+        13
+      ],
+      "crown": 10,
+      "version": 2610,
+      "uid": "w2bLRXrOwB8Ta6v",
+      "runId": 39100591
+    },
+    "57YJcQTHDrSOhZ0": {
+      "name": "Seeker673.03",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 20,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2611,
+      "uid": "57YJcQTHDrSOhZ0",
+      "runId": 39100591
+    },
+    "Irc1H0wN796sl4J": {
+      "name": "еблан",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 2,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        4,
+        19,
+        3
+      ],
+      "crown": 1,
+      "version": 2610,
+      "uid": "Irc1H0wN796sl4J",
+      "runId": 39100591
+    },
+    "xw59uFZY2Fyw2H8": {
+      "name": "katze",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 17,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        13,
+        12
+      ],
+      "crown": 1,
+      "version": 2611,
+      "uid": "xw59uFZY2Fyw2H8",
+      "runId": 39100591
     }
   }
 }

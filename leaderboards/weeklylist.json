@@ -4007,6 +4007,48 @@
       "version": null,
       "uid": "r75UW49N3s0x1TH",
       "runId": 567310014
+    },
+    "alvXoQqPM5Eyeap": {
+      "name": "claymoreroomba",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 17,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        13,
+        17
+      ],
+      "crown": 7,
+      "version": 2610,
+      "uid": "alvXoQqPM5Eyeap",
+      "runId": 567310014
+    },
+    "w2bLRXrOwB8Ta6v": {
+      "name": "Folk",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 24,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        13,
+        4
+      ],
+      "crown": 7,
+      "version": 2610,
+      "uid": "w2bLRXrOwB8Ta6v",
+      "runId": 567310014
     }
   }
 }
