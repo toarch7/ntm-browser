@@ -776,6 +776,116 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "1164835330051031103": {
+      "name": "Digl",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 17,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        6,
+        25
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1164834199950348409": {
+      "name": "Beater",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 17,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        12,
+        22
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1164833836564217876": {
+      "name": "Trash",
+      "char": 7,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 55,
+      "win": false,
+      "kills": 233,
+      "ultra": 0,
+      "skills": [
+        16,
+        7,
+        6,
+        23
+      ],
+      "crown": 4,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1164832760830103573": {
+      "name": "LisArt10",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 55,
+      "win": false,
+      "kills": 280,
+      "ultra": 0,
+      "skills": [
+        12,
+        25,
+        23,
+        27,
+        21,
+        14
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1164828328692305941": {
+      "name": "Franz",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
