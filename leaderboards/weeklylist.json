@@ -3564,6 +3564,27 @@
       "version": "v2602",
       "uid": null,
       "runId": null
+    },
+    "Throneseeker180": {
+      "name": "Throneseeker180",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 24,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        10,
+        16
+      ],
+      "crown": 7,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }
