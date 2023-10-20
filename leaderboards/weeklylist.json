@@ -3811,6 +3811,27 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "peperyutee": {
+      "name": "peperyutee",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 24,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        23,
+        22
+      ],
+      "crown": 7,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
     }
   }
 }
