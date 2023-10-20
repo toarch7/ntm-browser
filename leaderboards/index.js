@@ -8,7 +8,7 @@ const { execSync } = require("child_process");
 const axios = require("axios");
 const { exit } = require("process");
 
-const test = false;
+const test = process.argv.indexOf("--test") != -1;
 
 let weeklySeed, dailySeed;
 
@@ -127,7 +127,10 @@ function areaGetString(area, subarea, loops) {
 client.once(Events.ClientReady, c => {
 	console.log(`Ready! Logged in as ${c.user.tag}`);
 
-    const checkSeed = (stat, seed) => (Number.isInteger(stat.runId) && stat.runId == seed);
+    const checkSeed = (stat, seed) => {
+        console.log("Compare seeds", stat.runId, seed);
+        return Number.isInteger(stat.runId) && stat.runId == seed;
+    }
 
     client.user.setActivity("Nuclear Throne Mobile");
 
@@ -159,6 +162,10 @@ client.once(Events.ClientReady, c => {
                 return;
 
             let stats = parse(message.embeds[0]);
+            
+            if (stats.version < 2610)
+                return;
+
             let uid = stats.uid;
 
             if (!entries[uid] && checkSeed(stats, dailySeed)) {
@@ -220,9 +227,13 @@ client.once(Events.ClientReady, c => {
                 return;
 
             let stats = parse(message.embeds[0]);
-            let uid = stats.uid ?? stats.name;
+
+            if (stats.version < 2610)
+                return;
+
+            let uid = stats.uid;
     
-            if (checkSeed(stats, weeklySeed)) {
+            if (uid && checkSeed(stats, weeklySeed)) {
                 let entry = entries[uid];
     
                 if (!entry || (entry && entry.kills < stats.kills)) {
@@ -264,6 +275,9 @@ async function start() {
 
     dailySeed = parseInt(dailydata.data.seed);
     weeklySeed = parseInt(weeklydata.data.seed);
+
+    console.log("Daily seed", dailySeed);
+    console.log("Weekly seed", weeklySeed);
 
     client.login(params.token);
 

@@ -140,20 +140,17 @@ function parseFooter(str) {
     let ret = { version: null, uid: null, runId: null };
 
 	let parts = str.split(" ");
+	let identification = parts[1].split(";");
 
-	if (parts[1] && parts[1] != "Entry") {
-		let info = parts[1];
+	if (identification[0] == "Entry")
+		return ret;
 
-		if (info) {
-			info = info.split(";");
+	ret.version = parseInt(parts[0].slice(2, parts[0].length - 1));
 
-			ret.uid = parts[0];
-			ret.runId = parseInt(parts[1], 16);
-		}
-	}
-	
-	if (parts[0] && !parts[0].startsWith("(no"))
-		ret.version = parts[0].slice(1, parts[0].length - 1);
+	ret.uid = identification[0];
+	ret.runId = parseInt(identification[1], 16);
+
+	console.log(identification)
 
     return ret;
 }
