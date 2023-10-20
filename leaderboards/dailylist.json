@@ -689,6 +689,93 @@
       "version": "v2527",
       "uid": null,
       "runId": null
+    },
+    "1164821749012119652": {
+      "name": "FiSt_",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 16,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1164820436907991091": {
+      "name": "Choas",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 39,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        6,
+        25,
+        7
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "1164818204540018779": {
+      "name": "Throneseeker413",
+      "char": 1,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 28,
+      "bwep": 26,
+      "win": false,
+      "kills": 247,
+      "ultra": 0,
+      "skills": [
+        12,
+        22,
+        27,
+        1,
+        6,
+        23
+      ],
+      "crown": 1,
+      "version": "v2527",
+      "uid": null,
+      "runId": null
+    },
+    "1164818179239985163": {
+      "name": "Zhubakka_2.0",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 16,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": "v2602",
+      "uid": null,
+      "runId": null
     }
   }
 }

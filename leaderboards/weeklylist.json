@@ -159,20 +159,21 @@
       "char": 6,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
       "wep": 24,
-      "bwep": 17,
+      "bwep": 7,
       "win": false,
-      "kills": 142,
+      "kills": 208,
       "ultra": 0,
       "skills": [
-        23,
-        16,
-        8
+        10,
+        22,
+        7,
+        23
       ],
       "crown": 7,
-      "version": "v2602",
+      "version": "v2527",
       "uid": null,
       "runId": null
     },
@@ -2188,9 +2189,9 @@
       "subarea": 1,
       "loops": 0,
       "wep": 88,
-      "bwep": 18,
+      "bwep": 4,
       "win": false,
-      "kills": 112,
+      "kills": 113,
       "ultra": 0,
       "skills": [
         23,
@@ -3674,6 +3675,28 @@
       ],
       "crown": 7,
       "version": "v2602",
+      "uid": null,
+      "runId": null
+    },
+    "xuy": {
+      "name": "xuy",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 17,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        23,
+        6,
+        3
+      ],
+      "crown": 7,
+      "version": "v2527",
       "uid": null,
       "runId": null
     }
