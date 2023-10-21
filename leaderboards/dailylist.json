@@ -594,6 +594,86 @@
       "version": 2614,
       "uid": "f6a6CEhAM0908vi",
       "runId": 1382617953
+    },
+    "CAlzyNqBuF21WRX": {
+      "name": "sosovich",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2614,
+      "uid": "CAlzyNqBuF21WRX",
+      "runId": 1382617953
+    },
+    "89z78iqj1qf14vB": {
+      "name": "Habibas",
+      "char": 15,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 21,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2614,
+      "uid": "89z78iqj1qf14vB",
+      "runId": 1382617953
+    },
+    "1fx35W4I06bkYH1": {
+      "name": "Rin",
+      "char": 4,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 112,
+      "win": false,
+      "kills": 277,
+      "ultra": 0,
+      "skills": [
+        1,
+        3,
+        12,
+        23,
+        4,
+        17
+      ],
+      "crown": 1,
+      "version": 2610,
+      "uid": "1fx35W4I06bkYH1",
+      "runId": 1382617953
+    },
+    "YX7F2MH0N03Kuq6": {
+      "name": "MereToad",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        27,
+        16
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "YX7F2MH0N03Kuq6",
+      "runId": 1382617953
     }
   }
 }
