@@ -3925,21 +3925,21 @@
       "name": "iuH",
       "char": 6,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 24,
-      "bwep": 6,
+      "wep": 9,
+      "bwep": 24,
       "win": false,
-      "kills": 136,
+      "kills": 174,
       "ultra": 0,
       "skills": [
         23,
-        17,
-        22
+        27,
+        8
       ],
       "crown": 7,
-      "version": null,
+      "version": 2610,
       "uid": "l8301Obu36fRb0M",
       "runId": 567310014
     },
