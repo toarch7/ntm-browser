@@ -326,6 +326,86 @@
       "version": 2612,
       "uid": "73P82Qr3GC028eL",
       "runId": 1382617953
+    },
+    "Lz8T654RIIjnFi9": {
+      "name": "NoobManPerson",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2611,
+      "uid": "Lz8T654RIIjnFi9",
+      "runId": 1382617953
+    },
+    "Sx94y8B6dYfYTCB": {
+      "name": "peel",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 3,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2612,
+      "uid": "Sx94y8B6dYfYTCB",
+      "runId": 1382617953
+    },
+    "J2cr7u3GS1Yrs4K": {
+      "name": "EvilCat",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        3,
+        14
+      ],
+      "crown": 1,
+      "version": 2612,
+      "uid": "J2cr7u3GS1Yrs4K",
+      "runId": 1382617953
+    },
+    "Z6m3zvv19K8Ni1F": {
+      "name": "Черничка",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 76,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        29,
+        8,
+        14,
+        4
+      ],
+      "crown": 1,
+      "version": 2612,
+      "uid": "Z6m3zvv19K8Ni1F",
+      "runId": 1382617953
     }
   }
 }
