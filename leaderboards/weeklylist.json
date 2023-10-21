@@ -4649,6 +4649,28 @@
       "version": 2614,
       "uid": "Ok1SVHs31PtpyMZ",
       "runId": 567310014
+    },
+    "HH1cwm1k3C9hpmn": {
+      "name": "Providence",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 24,
+      "win": false,
+      "kills": 175,
+      "ultra": 0,
+      "skills": [
+        13,
+        27,
+        23
+      ],
+      "crown": 7,
+      "version": 2612,
+      "uid": "HH1cwm1k3C9hpmn",
+      "runId": 567310014
     }
   }
 }
