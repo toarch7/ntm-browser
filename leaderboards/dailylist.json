@@ -239,6 +239,93 @@
       "version": 2612,
       "uid": "Nml6Mnv18U1816G",
       "runId": 1382617953
+    },
+    "G98Cn3m413ViARM": {
+      "name": "Ernad",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 35,
+      "bwep": 9,
+      "win": false,
+      "kills": 1096,
+      "ultra": 2,
+      "skills": [
+        27,
+        4,
+        9,
+        1,
+        7,
+        14
+      ],
+      "crown": 7,
+      "version": 2612,
+      "uid": "G98Cn3m413ViARM",
+      "runId": 1382617953
+    },
+    "L6MTNuNc8vAV15U": {
+      "name": "Infrimo",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        29,
+        1
+      ],
+      "crown": 1,
+      "version": 2612,
+      "uid": "L6MTNuNc8vAV15U",
+      "runId": 1382617953
+    },
+    "w9QX6Xo4l0hhZRV": {
+      "name": "Ketchup",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        27,
+        1
+      ],
+      "crown": 1,
+      "version": 2612,
+      "uid": "w9QX6Xo4l0hhZRV",
+      "runId": 1382617953
+    },
+    "73P82Qr3GC028eL": {
+      "name": "SKU",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2612,
+      "uid": "73P82Qr3GC028eL",
+      "runId": 1382617953
     }
   }
 }
