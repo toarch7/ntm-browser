@@ -4449,17 +4449,18 @@
       "name": "sosovich",
       "char": 6,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 18,
+      "wep": 2,
       "bwep": 24,
       "win": false,
-      "kills": 155,
+      "kills": 189,
       "ultra": 0,
       "skills": [
+        17,
         23,
-        17
+        4
       ],
       "crown": 7,
       "version": 2614,
@@ -4486,6 +4487,98 @@
       "crown": 7,
       "version": 2614,
       "uid": "89z78iqj1qf14vB",
+      "runId": 567310014
+    },
+    "b6Q7Bwga9Vn4z98": {
+      "name": "FrostByte",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 6,
+      "win": false,
+      "kills": 280,
+      "ultra": 0,
+      "skills": [
+        12,
+        1,
+        8,
+        27
+      ],
+      "crown": 7,
+      "version": 2613,
+      "uid": "b6Q7Bwga9Vn4z98",
+      "runId": 567310014
+    },
+    "9daYe0Zt1H68GLn": {
+      "name": "DND",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 24,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        13,
+        17,
+        4
+      ],
+      "crown": 7,
+      "version": 2614,
+      "uid": "9daYe0Zt1H68GLn",
+      "runId": 567310014
+    },
+    "35px7517TSggANK": {
+      "name": "BrMan",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 24,
+      "win": false,
+      "kills": 286,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        25,
+        10,
+        6
+      ],
+      "crown": 7,
+      "version": 2612,
+      "uid": "35px7517TSggANK",
+      "runId": 567310014
+    },
+    "TkuJ947FM6rGH2k": {
+      "name": "Yomo",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 6,
+      "win": false,
+      "kills": 170,
+      "ultra": 0,
+      "skills": [
+        14,
+        8,
+        1,
+        13
+      ],
+      "crown": 7,
+      "version": 2610,
+      "uid": "TkuJ947FM6rGH2k",
       "runId": 567310014
     }
   }
