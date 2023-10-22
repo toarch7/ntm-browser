@@ -4675,6 +4675,31 @@
       "version": 2612,
       "uid": "HH1cwm1k3C9hpmn",
       "runId": 567310014
+    },
+    "m9ZRl2p7D4R067r": {
+      "name": "Tired_Mutant",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 111,
+      "win": false,
+      "kills": 1503,
+      "ultra": 1,
+      "skills": [
+        13,
+        17,
+        22,
+        27,
+        23,
+        1
+      ],
+      "crown": 7,
+      "version": 2614,
+      "uid": "m9ZRl2p7D4R067r",
+      "runId": 567310014
     }
   }
 }
