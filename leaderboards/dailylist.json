@@ -1,4 +1,45 @@
 {
   "day": 22,
-  "entries": {}
+  "entries": {
+    "Q6OGL77XrfP2Dt5": {
+      "name": "Pasitotuntun",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "Q6OGL77XrfP2Dt5",
+      "runId": 2141324511
+    },
+    "56il8stzopM44OR": {
+      "name": "bajnmen",
+      "char": 14,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 56,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "56il8stzopM44OR",
+      "runId": 2141324511
+    }
+  }
 }
