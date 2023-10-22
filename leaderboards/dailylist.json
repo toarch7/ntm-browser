@@ -782,6 +782,44 @@
       "version": 2612,
       "uid": "R7hzAn6JSI1tUaz",
       "runId": 2141324511
+    },
+    "q503UQU8U7gn622": {
+      "name": "Choas",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        4
+      ],
+      "crown": 1,
+      "version": 2610,
+      "uid": "q503UQU8U7gn622",
+      "runId": 2141324511
+    },
+    "AmeK3e59tL446lh": {
+      "name": "dibalada",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 17,
+      "win": false,
+      "kills": 29,
+      "crown": 1,
+      "version": 2614,
+      "uid": "AmeK3e59tL446lh",
+      "runId": 2141324511
     }
   }
 }
