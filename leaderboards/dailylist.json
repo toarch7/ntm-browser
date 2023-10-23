@@ -777,6 +777,43 @@
       "version": 2611,
       "uid": "AOIaPG0Yv4A5cr5",
       "runId": 204796167
+    },
+    "u7a0b07A2v14V5y": {
+      "name": "Readysalmon344",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 6,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        1,
+        27
+      ],
+      "crown": 1,
+      "version": 2612,
+      "uid": "u7a0b07A2v14V5y",
+      "runId": 204796167
+    },
+    "AzYzSdvYwYgFZuc": {
+      "name": "Throneseeker2",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2614,
+      "uid": "AzYzSdvYwYgFZuc",
+      "runId": 204796167
     }
   }
 }
