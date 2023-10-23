@@ -4926,6 +4926,71 @@
       "version": 2612,
       "uid": "R7hzAn6JSI1tUaz",
       "runId": 567310014
+    },
+    "1hC7Ont36csLs5O": {
+      "name": "артём",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 0,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        13,
+        17
+      ],
+      "crown": 7,
+      "version": 2614,
+      "uid": "1hC7Ont36csLs5O",
+      "runId": 567310014
+    },
+    "98bAd1bR8MLYkgz": {
+      "name": "опал",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 0,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        13,
+        17,
+        22
+      ],
+      "crown": 7,
+      "version": 2612,
+      "uid": "98bAd1bR8MLYkgz",
+      "runId": 567310014
+    },
+    "2L7UznMs8ctq4CD": {
+      "name": "balls",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 0,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        13,
+        17,
+        24
+      ],
+      "crown": 7,
+      "version": 2614,
+      "uid": "2L7UznMs8ctq4CD",
+      "runId": 567310014
     }
   }
 }
