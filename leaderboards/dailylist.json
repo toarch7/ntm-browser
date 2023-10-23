@@ -389,6 +389,124 @@
       "version": 2610,
       "uid": "pvd7XcFv50lywkE",
       "runId": 204796167
+    },
+    "kO5fHE9w89ub0u9": {
+      "name": "cuc",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        23,
+        3,
+        12
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "kO5fHE9w89ub0u9",
+      "runId": 204796167
+    },
+    "tY9Cn38Ny0HS10K": {
+      "name": "%%%%%",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 4,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        1,
+        25
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "tY9Cn38Ny0HS10K",
+      "runId": 204796167
+    },
+    "X2NxupI3v3tJ6Wc": {
+      "name": "Zhubakka_2.0",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 26,
+      "win": false,
+      "kills": 218,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        23,
+        3,
+        7,
+        17
+      ],
+      "crown": 4,
+      "version": 2614,
+      "uid": "X2NxupI3v3tJ6Wc",
+      "runId": 204796167
+    },
+    "0d36GiUjNGXT7ZN": {
+      "name": "roronoa",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        2
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "0d36GiUjNGXT7ZN",
+      "runId": 204796167
+    },
+    "5d1xD1U19rSQNh6": {
+      "name": "Czimbala",
+      "char": 11,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 92,
+      "bwep": 111,
+      "win": false,
+      "kills": 1879,
+      "ultra": 1,
+      "skills": [
+        23,
+        27,
+        22,
+        13,
+        7,
+        17,
+        14,
+        25,
+        1
+      ],
+      "crown": 7,
+      "version": 2614,
+      "uid": "5d1xD1U19rSQNh6",
+      "runId": 204796167
     }
   }
 }
