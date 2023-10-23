@@ -5044,10 +5044,10 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 24,
-      "bwep": 9,
+      "wep": 61,
+      "bwep": 24,
       "win": false,
-      "kills": 119,
+      "kills": 146,
       "ultra": 0,
       "skills": [
         13,
@@ -5057,6 +5057,27 @@
       "crown": 7,
       "version": 2612,
       "uid": "u7a0b07A2v14V5y",
+      "runId": 567310014
+    },
+    "J8pPb2VR30218p3": {
+      "name": "Felix0812",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 6,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        9,
+        4
+      ],
+      "crown": 7,
+      "version": 2614,
+      "uid": "J8pPb2VR30218p3",
       "runId": 567310014
     }
   }
