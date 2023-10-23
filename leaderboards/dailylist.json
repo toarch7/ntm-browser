@@ -733,6 +733,50 @@
       "version": 2614,
       "uid": "945y0z784KbBh4i",
       "runId": 204796167
+    },
+    "w2bLRXrOwB8Ta6v": {
+      "name": "Folk",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 4,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        23,
+        3,
+        12
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "w2bLRXrOwB8Ta6v",
+      "runId": 204796167
+    },
+    "AOIaPG0Yv4A5cr5": {
+      "name": "SiHoR",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        2
+      ],
+      "crown": 1,
+      "version": 2611,
+      "uid": "AOIaPG0Yv4A5cr5",
+      "runId": 204796167
     }
   }
 }
