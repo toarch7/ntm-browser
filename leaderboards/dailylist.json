@@ -688,6 +688,51 @@
       "version": 2614,
       "uid": "F8nXsFdzexhI1vt",
       "runId": 204796167
+    },
+    "1fx35W4I06bkYH1": {
+      "name": "Rin",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 23,
+      "win": false,
+      "kills": 196,
+      "ultra": 0,
+      "skills": [
+        23,
+        3,
+        12,
+        13,
+        7
+      ],
+      "crown": 11,
+      "version": 2614,
+      "uid": "1fx35W4I06bkYH1",
+      "runId": 204796167
+    },
+    "945y0z784KbBh4i": {
+      "name": "Typhz",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 31,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        12,
+        6
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "945y0z784KbBh4i",
+      "runId": 204796167
     }
   }
 }
