@@ -707,6 +707,91 @@
       "version": 2615,
       "uid": "Nml6Mnv18U1816G",
       "runId": 2014743348
+    },
+    "t3UnYX7b12UWpl6": {
+      "name": "Proton",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        2,
+        9,
+        27
+      ],
+      "crown": 1,
+      "version": 2610,
+      "uid": "t3UnYX7b12UWpl6",
+      "runId": 2014743348
+    },
+    "73P82Qr3GC028eL": {
+      "name": "SKU",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 33,
+      "win": false,
+      "kills": 291,
+      "ultra": 0,
+      "skills": [
+        22,
+        27,
+        21,
+        1
+      ],
+      "crown": 11,
+      "version": 2615,
+      "uid": "73P82Qr3GC028eL",
+      "runId": 2014743348
+    },
+    "5LKVe8i3KhH2KPx": {
+      "name": "nokato",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 88,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        27
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "5LKVe8i3KhH2KPx",
+      "runId": 2014743348
+    },
+    "5aT8m8i4q16cUk1": {
+      "name": "hehe",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2614,
+      "uid": "5aT8m8i4q16cUk1",
+      "runId": 2014743348
     }
   }
 }
