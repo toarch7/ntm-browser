@@ -508,6 +508,94 @@
       "version": 2614,
       "uid": "945y0z784KbBh4i",
       "runId": 2014743348
+    },
+    "t0o5lbYsKp82d2N": {
+      "name": "Rhythm",
+      "char": 2,
+      "skin": true,
+      "area": 106,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 57,
+      "bwep": 2,
+      "win": false,
+      "kills": 699,
+      "ultra": 2,
+      "skills": [
+        8,
+        27,
+        10,
+        4,
+        6
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "t0o5lbYsKp82d2N",
+      "runId": 2014743348
+    },
+    "EQVzKWeuwU8yhX4": {
+      "name": "thisgamesucks",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2614,
+      "uid": "EQVzKWeuwU8yhX4",
+      "runId": 2014743348
+    },
+    "5DZ77K80hrBkfkT": {
+      "name": "SLAUGHTER",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 74,
+      "win": false,
+      "kills": 362,
+      "ultra": 1,
+      "skills": [
+        8,
+        27,
+        10,
+        22,
+        3,
+        1,
+        23
+      ],
+      "crown": 11,
+      "version": 2614,
+      "uid": "5DZ77K80hrBkfkT",
+      "runId": 2014743348
+    },
+    "O76qvL27II34pR0": {
+      "name": "Enzo",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2610,
+      "uid": "O76qvL27II34pR0",
+      "runId": 2014743348
     }
   }
 }
