@@ -1,4 +1,81 @@
 {
   "seed": 886840816,
-  "entries": {}
+  "entries": {
+    "b6Q7Bwga9Vn4z98": {
+      "name": "FrostByte",
+      "char": 2,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 35,
+      "win": false,
+      "kills": 394,
+      "ultra": 2,
+      "skills": [
+        25,
+        4,
+        24,
+        16,
+        17,
+        21,
+        29,
+        27,
+        19
+      ],
+      "crown": 8,
+      "version": 2614,
+      "uid": "b6Q7Bwga9Vn4z98",
+      "runId": 886840816
+    },
+    "R7hzAn6JSI1tUaz": {
+      "name": "mrfish",
+      "char": 2,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 124,
+      "win": false,
+      "kills": 184,
+      "ultra": 0,
+      "skills": [
+        25,
+        24,
+        4,
+        16,
+        17,
+        21
+      ],
+      "crown": 8,
+      "version": 2614,
+      "uid": "R7hzAn6JSI1tUaz",
+      "runId": 886840816
+    },
+    "2a257bUr81GFvzm": {
+      "name": "Gleb",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 24,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        24,
+        16
+      ],
+      "crown": 8,
+      "version": 2612,
+      "uid": "2a257bUr81GFvzm",
+      "runId": 886840816
+    }
+  }
 }
