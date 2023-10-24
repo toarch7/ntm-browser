@@ -105,13 +105,13 @@
       "name": "Throneseeker41",
       "char": 2,
       "skin": false,
-      "area": 103,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 30,
-      "bwep": 69,
+      "wep": 66,
+      "bwep": 9,
       "win": false,
-      "kills": 137,
+      "kills": 172,
       "ultra": 0,
       "skills": [
         25,
@@ -147,6 +147,31 @@
       "crown": 8,
       "version": 2614,
       "uid": "283nK2ew694rM62",
+      "runId": 886840816
+    },
+    "a9IB45kIm5G8OQB": {
+      "name": "Asbel",
+      "char": 2,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 9,
+      "win": false,
+      "kills": 190,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        24,
+        16,
+        17,
+        21
+      ],
+      "crown": 8,
+      "version": 2610,
+      "uid": "a9IB45kIm5G8OQB",
       "runId": 886840816
     }
   }
