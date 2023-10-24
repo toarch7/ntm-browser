@@ -348,6 +348,79 @@
       "version": 2614,
       "uid": "G2wJx6885OYm4S9",
       "runId": 2014743348
+    },
+    "xAHSc7iOB326N4S": {
+      "name": "Stayendmanx",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 3,
+      "wep": 94,
+      "bwep": 105,
+      "win": false,
+      "kills": 6680,
+      "ultra": 2,
+      "skills": [
+        8,
+        27,
+        21,
+        3,
+        10,
+        23,
+        1,
+        4
+      ],
+      "crown": 7,
+      "version": 2614,
+      "uid": "xAHSc7iOB326N4S",
+      "runId": 2014743348
+    },
+    "5d1xD1U19rSQNh6": {
+      "name": "Czimbala",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 3,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "5d1xD1U19rSQNh6",
+      "runId": 2014743348
+    },
+    "98bAd1bR8MLYkgz": {
+      "name": "опал",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 96,
+      "bwep": 11,
+      "win": false,
+      "kills": 346,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        21,
+        22,
+        3,
+        1,
+        4
+      ],
+      "crown": 4,
+      "version": 2612,
+      "uid": "98bAd1bR8MLYkgz",
+      "runId": 2014743348
     }
   }
 }
