@@ -808,6 +808,44 @@
       "version": 2615,
       "uid": "9daYe0Zt1H68GLn",
       "runId": 2014743348
+    },
+    "2a257bUr81GFvzm": {
+      "name": "Gleb",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2612,
+      "uid": "2a257bUr81GFvzm",
+      "runId": 2014743348
+    },
+    "b6Q7Bwga9Vn4z98": {
+      "name": "FrostByte",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 21,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        22,
+        27,
+        13
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "b6Q7Bwga9Vn4z98",
+      "runId": 2014743348
     }
   }
 }
