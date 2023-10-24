@@ -758,13 +758,13 @@
       "name": "RGB",
       "char": 2,
       "skin": false,
-      "area": 3,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 17,
-      "bwep": 66,
+      "wep": 88,
+      "bwep": 9,
       "win": false,
-      "kills": 108,
+      "kills": 191,
       "ultra": 0,
       "skills": [
         25,
@@ -900,6 +900,30 @@
       "crown": 8,
       "version": 2611,
       "uid": "uP51Tr64SIN7sz3",
+      "runId": 886840816
+    },
+    "35px7517TSggANK": {
+      "name": "BrMan",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 66,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        24,
+        16,
+        17
+      ],
+      "crown": 8,
+      "version": 2615,
+      "uid": "35px7517TSggANK",
       "runId": 886840816
     }
   }
