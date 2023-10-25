@@ -559,6 +559,77 @@
       "version": 2615,
       "uid": "kO5fHE9w89ub0u9",
       "runId": 1115939434
+    },
+    "i23b9x5RM3oexWx": {
+      "name": "Seeker89",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 26,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "i23b9x5RM3oexWx",
+      "runId": 1115939434
+    },
+    "a9IB45kIm5G8OQB": {
+      "name": "Asbel",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 20,
+      "win": false,
+      "kills": 154,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        7,
+        9,
+        3
+      ],
+      "crown": 1,
+      "version": 2610,
+      "uid": "a9IB45kIm5G8OQB",
+      "runId": 1115939434
+    },
+    "xAHSc7iOB326N4S": {
+      "name": "Stayendmanx",
+      "char": 4,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 3,
+      "wep": 54,
+      "bwep": 93,
+      "win": false,
+      "kills": 4483,
+      "ultra": 2,
+      "skills": [
+        25,
+        14,
+        7,
+        27,
+        3,
+        8,
+        12,
+        1
+      ],
+      "crown": 7,
+      "version": 2615,
+      "uid": "xAHSc7iOB326N4S",
+      "runId": 1115939434
     }
   }
 }
