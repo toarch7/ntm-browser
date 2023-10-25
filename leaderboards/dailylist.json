@@ -1,4 +1,50 @@
 {
   "day": 25,
-  "entries": {}
+  "entries": {
+    "vDiSTVj8l4907fa": {
+      "name": "duckdivinity",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 114,
+      "win": false,
+      "kills": 178,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        7,
+        9,
+        27
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "vDiSTVj8l4907fa",
+      "runId": 1115939434
+    },
+    "R7hzAn6JSI1tUaz": {
+      "name": "mrfish",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 7,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        25,
+        1
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "R7hzAn6JSI1tUaz",
+      "runId": 1115939434
+    }
+  }
 }
