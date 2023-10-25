@@ -81,13 +81,13 @@
       "name": "ravine",
       "char": 2,
       "skin": false,
-      "area": 3,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 17,
-      "bwep": 66,
+      "wep": 66,
+      "bwep": 17,
       "win": false,
-      "kills": 158,
+      "kills": 164,
       "ultra": 0,
       "skills": [
         25,
@@ -1018,6 +1018,29 @@
       "crown": 8,
       "version": 2615,
       "uid": "7805M0KiY2W1317",
+      "runId": 886840816
+    },
+    "SC3MxzVzs9jLM17": {
+      "name": "SWEETY",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 5,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        25,
+        24,
+        4,
+        16
+      ],
+      "crown": 8,
+      "version": 2614,
+      "uid": "SC3MxzVzs9jLM17",
       "runId": 886840816
     }
   }
