@@ -953,13 +953,13 @@
       "name": "NuclearOne",
       "char": 2,
       "skin": false,
-      "area": 104,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 66,
-      "bwep": 71,
+      "wep": 13,
+      "bwep": 66,
       "win": false,
-      "kills": 102,
+      "kills": 120,
       "ultra": 0,
       "skills": [
         25,
@@ -994,6 +994,30 @@
       "crown": 8,
       "version": 2615,
       "uid": "64072u8Bh2DLBew",
+      "runId": 886840816
+    },
+    "7805M0KiY2W1317": {
+      "name": "Jhonny",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        24,
+        16,
+        17
+      ],
+      "crown": 8,
+      "version": 2615,
+      "uid": "7805M0KiY2W1317",
       "runId": 886840816
     }
   }
