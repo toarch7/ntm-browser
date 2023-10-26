@@ -716,6 +716,33 @@
       "version": 2610,
       "uid": "YCCdlT31Y82f0kF",
       "runId": 722382847
+    },
+    "nkLLzxo21zbcd7f": {
+      "name": "DEBIL_HUNTER",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 76,
+      "bwep": 26,
+      "win": false,
+      "kills": 438,
+      "ultra": 1,
+      "skills": [
+        8,
+        22,
+        3,
+        1,
+        19,
+        25,
+        7,
+        9
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "nkLLzxo21zbcd7f",
+      "runId": 722382847
     }
   }
 }
