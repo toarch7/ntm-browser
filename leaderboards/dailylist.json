@@ -378,6 +378,47 @@
       "version": 2615,
       "uid": "78ZI9vS61e2OJ70",
       "runId": 722382847
+    },
+    "5DZ77K80hrBkfkT": {
+      "name": "SLAUGHTER",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 4,
+      "win": false,
+      "kills": 197,
+      "ultra": 0,
+      "skills": [
+        22,
+        3,
+        1,
+        23
+      ],
+      "crown": 11,
+      "version": 2615,
+      "uid": "5DZ77K80hrBkfkT",
+      "runId": 722382847
+    },
+    "dsN150V924Mwznz": {
+      "name": "MrHat",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 13,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2615,
+      "uid": "dsN150V924Mwznz",
+      "runId": 722382847
     }
   }
 }
