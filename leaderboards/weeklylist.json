@@ -1680,6 +1680,53 @@
       "version": 2614,
       "uid": "Q39jK3Q28XfJ2a5",
       "runId": 886840816
+    },
+    "f56XHzL15N536l8": {
+      "name": "patatasPc1",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 5,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        24,
+        16,
+        17
+      ],
+      "crown": 8,
+      "version": 2615,
+      "uid": "f56XHzL15N536l8",
+      "runId": 886840816
+    },
+    "cEUA99XpUu1sB3l": {
+      "name": "mickey11",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 66,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        24,
+        16
+      ],
+      "crown": 8,
+      "version": 2614,
+      "uid": "cEUA99XpUu1sB3l",
+      "runId": 886840816
     }
   }
 }
