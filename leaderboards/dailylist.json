@@ -383,6 +383,43 @@
       "version": 2615,
       "uid": "nkLLzxo21zbcd7f",
       "runId": 242760766
+    },
+    "G2wJx6885OYm4S9": {
+      "name": "Seeker3690",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2615,
+      "uid": "G2wJx6885OYm4S9",
+      "runId": 242760766
+    },
+    "HH1cwm1k3C9hpmn": {
+      "name": "Providence",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 7,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        27,
+        23
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "HH1cwm1k3C9hpmn",
+      "runId": 242760766
     }
   }
 }
