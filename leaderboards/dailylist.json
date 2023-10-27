@@ -608,6 +608,69 @@
       "version": 2614,
       "uid": "AzYzSdvYwYgFZuc",
       "runId": 242760766
+    },
+    "5d1xD1U19rSQNh6": {
+      "name": "Czimbala",
+      "char": 11,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 111,
+      "bwep": 13,
+      "win": false,
+      "kills": 1297,
+      "ultra": 3,
+      "skills": [
+        27,
+        23,
+        17,
+        13,
+        7,
+        3,
+        14
+      ],
+      "crown": 8,
+      "version": 2614,
+      "uid": "5d1xD1U19rSQNh6",
+      "runId": 242760766
+    },
+    "1fx35W4I06bkYH1": {
+      "name": "Rin",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2615,
+      "uid": "1fx35W4I06bkYH1",
+      "runId": 242760766
+    },
+    "d771a4R7ZNT1K52": {
+      "name": "Den",
+      "char": 10,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 27,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "d771a4R7ZNT1K52",
+      "runId": 242760766
     }
   }
 }
