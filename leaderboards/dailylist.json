@@ -1,4 +1,42 @@
 {
   "day": 27,
-  "entries": {}
+  "entries": {
+    "56il8stzopM44OR": {
+      "name": "bajnmen",
+      "char": 9,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 3,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        27,
+        23
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "56il8stzopM44OR",
+      "runId": 242760766
+    },
+    "loEn2loO9L1fh42": {
+      "name": "Fatieh",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 6,
+      "win": false,
+      "kills": 26,
+      "crown": 1,
+      "version": 2614,
+      "uid": "loEn2loO9L1fh42",
+      "runId": 242760766
+    }
+  }
 }
