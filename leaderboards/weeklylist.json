@@ -1199,20 +1199,22 @@
       "name": "CapSatSuckBlood",
       "char": 2,
       "skin": false,
-      "area": 3,
+      "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 5,
-      "bwep": 69,
+      "wep": 6,
+      "bwep": 66,
       "win": false,
-      "kills": 165,
+      "kills": 275,
       "ultra": 0,
       "skills": [
         25,
         4,
         24,
         16,
-        17
+        17,
+        21,
+        29
       ],
       "crown": 8,
       "version": 2614,
@@ -2113,6 +2115,29 @@
       "crown": 8,
       "version": 2614,
       "uid": "49o9cP31Rx78Q1f",
+      "runId": 886840816
+    },
+    "5OxYAbS334PjsaV": {
+      "name": "mamastrosado",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 4,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        24,
+        16
+      ],
+      "crown": 8,
+      "version": 2615,
+      "uid": "5OxYAbS334PjsaV",
       "runId": 886840816
     }
   }
