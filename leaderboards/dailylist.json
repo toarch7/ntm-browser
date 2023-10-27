@@ -100,6 +100,43 @@
       "version": 2615,
       "uid": "b6Q7Bwga9Vn4z98",
       "runId": 242760766
+    },
+    "56Y7eF5whNtU46F": {
+      "name": "Dplay",
+      "char": 4,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 43,
+      "bwep": 27,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        3,
+        8
+      ],
+      "crown": 1,
+      "version": 2610,
+      "uid": "56Y7eF5whNtU46F",
+      "runId": 242760766
+    },
+    "Nml6Mnv18U1816G": {
+      "name": "Принтер",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2615,
+      "uid": "Nml6Mnv18U1816G",
+      "runId": 242760766
     }
   }
 }
