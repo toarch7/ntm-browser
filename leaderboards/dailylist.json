@@ -725,6 +725,47 @@
       "version": 2615,
       "uid": "0O448j3bADBFZfS",
       "runId": 276866497
+    },
+    "2Q236PLB4CAxcw3": {
+      "name": "ZEN",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 6,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2615,
+      "uid": "2Q236PLB4CAxcw3",
+      "runId": 276866497
+    },
+    "1MQ0ub52hP714po": {
+      "name": "CapSatSuckBlood",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 6,
+      "win": false,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        23,
+        14
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "1MQ0ub52hP714po",
+      "runId": 276866497
     }
   }
 }
