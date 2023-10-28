@@ -486,6 +486,65 @@
       "version": 2615,
       "uid": "0d36GiUjNGXT7ZN",
       "runId": 276866497
+    },
+    "K5a013WSen9p5s3": {
+      "name": "Maiki07",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 16,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        1,
+        22
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "K5a013WSen9p5s3",
+      "runId": 276866497
+    },
+    "bt7doa460trHb58": {
+      "name": "DoderTool",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        12
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "bt7doa460trHb58",
+      "runId": 276866497
+    },
+    "1fx35W4I06bkYH1": {
+      "name": "Rin",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2615,
+      "uid": "1fx35W4I06bkYH1",
+      "runId": 276866497
     }
   }
 }
