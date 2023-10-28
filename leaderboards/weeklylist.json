@@ -2219,22 +2219,26 @@
       "name": "Seeke",
       "char": 2,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 4,
-      "bwep": 5,
+      "wep": 72,
+      "bwep": 38,
       "win": false,
-      "kills": 84,
+      "kills": 275,
       "ultra": 0,
       "skills": [
         25,
-        24,
         4,
-        16
+        24,
+        16,
+        17,
+        21,
+        29,
+        27
       ],
       "crown": 8,
-      "version": 2614,
+      "version": 2615,
       "uid": "m4c80jE0p1OReQ1",
       "runId": 886840816
     },
@@ -2261,6 +2265,30 @@
       "crown": 8,
       "version": 2614,
       "uid": "662VZM67wm3Cz1e",
+      "runId": 886840816
+    },
+    "15bj6b969CV93ak": {
+      "name": "СолеваяНяшка",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 69,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        24,
+        16,
+        17
+      ],
+      "crown": 8,
+      "version": 2615,
+      "uid": "15bj6b969CV93ak",
       "runId": 886840816
     }
   }
