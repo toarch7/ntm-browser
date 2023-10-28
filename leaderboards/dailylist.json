@@ -239,6 +239,71 @@
       "version": 2615,
       "uid": "R7hzAn6JSI1tUaz",
       "runId": 276866497
+    },
+    "t3UnYX7b12UWpl6": {
+      "name": "Proton",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2610,
+      "uid": "t3UnYX7b12UWpl6",
+      "runId": 276866497
+    },
+    "Nml6Mnv18U1816G": {
+      "name": "Принтер",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 21,
+      "win": false,
+      "kills": 269,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        10,
+        14,
+        25,
+        13,
+        27
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "Nml6Mnv18U1816G",
+      "runId": 276866497
+    },
+    "7m584nFA3iC55YN": {
+      "name": "ggjuice",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 23,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        8,
+        24,
+        23,
+        6
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "7m584nFA3iC55YN",
+      "runId": 276866497
     }
   }
 }
