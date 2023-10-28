@@ -1,4 +1,71 @@
 {
   "day": 28,
-  "entries": {}
+  "entries": {
+    "ZGo9SOrUZ4tpy3Q": {
+      "name": "Ethan.",
+      "char": 15,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 117,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        22,
+        23,
+        13
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "ZGo9SOrUZ4tpy3Q",
+      "runId": 276866497
+    },
+    "XErFcZwTSiYcHce": {
+      "name": "Reck",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2615,
+      "uid": "XErFcZwTSiYcHce",
+      "runId": 276866497
+    },
+    "Q6OGL77XrfP2Dt5": {
+      "name": "Pasitotuntun",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 6,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        23,
+        21,
+        7
+      ],
+      "crown": 8,
+      "version": 2615,
+      "uid": "Q6OGL77XrfP2Dt5",
+      "runId": 276866497
+    }
+  }
 }
