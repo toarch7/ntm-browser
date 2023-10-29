@@ -743,6 +743,77 @@
       "version": 2615,
       "uid": "dWmzAF189S2tI40",
       "runId": 1564763820
+    },
+    "t3UnYX7b12UWpl6": {
+      "name": "Proton",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2610,
+      "uid": "t3UnYX7b12UWpl6",
+      "runId": 1564763820
+    },
+    "35px7517TSggANK": {
+      "name": "BrMan",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 73,
+      "bwep": 49,
+      "win": false,
+      "kills": 514,
+      "ultra": 1,
+      "skills": [
+        16,
+        7,
+        25,
+        4,
+        21,
+        27,
+        8,
+        1
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "35px7517TSggANK",
+      "runId": 1564763820
+    },
+    "w2bLRXrOwB8Ta6v": {
+      "name": "Folk",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 10,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        16,
+        25,
+        4,
+        13,
+        19
+      ],
+      "crown": 11,
+      "version": 2615,
+      "uid": "w2bLRXrOwB8Ta6v",
+      "runId": 1564763820
     }
   }
 }
