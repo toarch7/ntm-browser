@@ -792,13 +792,13 @@
       "name": "Infrimo",
       "char": 2,
       "skin": false,
-      "area": 3,
+      "area": 102,
       "subarea": 1,
       "loops": 0,
-      "wep": 50,
+      "wep": 3,
       "bwep": 66,
       "win": false,
-      "kills": 90,
+      "kills": 92,
       "ultra": 0,
       "skills": [
         25,
@@ -808,7 +808,7 @@
         17
       ],
       "crown": 8,
-      "version": 2614,
+      "version": 2615,
       "uid": "L6MTNuNc8vAV15U",
       "runId": 886840816
     },
@@ -2655,6 +2655,54 @@
       "crown": 8,
       "version": 2614,
       "uid": "vlF1BsO5ZYCrB3n",
+      "runId": 886840816
+    },
+    "hkyZ2w3MpF3i6YC": {
+      "name": "Abigail223",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 69,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        24,
+        16
+      ],
+      "crown": 8,
+      "version": 2615,
+      "uid": "hkyZ2w3MpF3i6YC",
+      "runId": 886840816
+    },
+    "8iZ0qj8LZ4k6UOG": {
+      "name": "Маньякич",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 66,
+      "win": false,
+      "kills": 191,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        24,
+        16,
+        17,
+        21
+      ],
+      "crown": 8,
+      "version": 2615,
+      "uid": "8iZ0qj8LZ4k6UOG",
       "runId": 886840816
     }
   }
