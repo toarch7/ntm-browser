@@ -1060,19 +1060,20 @@
       "name": "underbody",
       "char": 2,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 71,
-      "bwep": 21,
+      "wep": 66,
+      "bwep": 17,
       "win": false,
-      "kills": 64,
+      "kills": 93,
       "ultra": 0,
       "skills": [
         25,
         4,
         24,
-        16
+        16,
+        17
       ],
       "crown": 8,
       "version": 2615,
@@ -2802,6 +2803,30 @@
       "crown": 8,
       "version": 2615,
       "uid": "iHHEe9qC112JaiM",
+      "runId": 886840816
+    },
+    "k1LrW0UT7WqGtuU": {
+      "name": "Gorno2288",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 8,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        24,
+        16,
+        17
+      ],
+      "crown": 8,
+      "version": 2615,
+      "uid": "k1LrW0UT7WqGtuU",
       "runId": 886840816
     }
   }
