@@ -562,6 +562,45 @@
       "version": 2615,
       "uid": "qtL19Ti0554J6t8",
       "runId": 1818520806
+    },
+    "uMx4L7EGWz4r9om": {
+      "name": "BrownTown010110",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 6,
+      "win": false,
+      "kills": 26,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2615,
+      "uid": "uMx4L7EGWz4r9om",
+      "runId": 1818520806
+    },
+    "98bAd1bR8MLYkgz": {
+      "name": "опал",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 7,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        23,
+        4
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "98bAd1bR8MLYkgz",
+      "runId": 1818520806
     }
   }
 }
