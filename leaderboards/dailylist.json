@@ -478,6 +478,27 @@
       "version": 2615,
       "uid": "Nml6Mnv18U1816G",
       "runId": 1818520806
+    },
+    "bIdg18KD5oE8J7L": {
+      "name": "ice_nine",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        16,
+        4
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "bIdg18KD5oE8J7L",
+      "runId": 1818520806
     }
   }
 }
