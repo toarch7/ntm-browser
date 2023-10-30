@@ -2615,19 +2615,20 @@
       "name": "pronin82",
       "char": 2,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 5,
-      "bwep": 66,
+      "wep": 6,
+      "bwep": 5,
       "win": false,
-      "kills": 84,
+      "kills": 93,
       "ultra": 0,
       "skills": [
         25,
         4,
         24,
-        16
+        16,
+        17
       ],
       "crown": 8,
       "version": 2615,
@@ -2727,6 +2728,30 @@
       "crown": 8,
       "version": 2610,
       "uid": "YCCdlT31Y82f0kF",
+      "runId": 886840816
+    },
+    "fNp531c7U0o967E": {
+      "name": "Nidhoggr",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 66,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        24,
+        16,
+        17
+      ],
+      "crown": 8,
+      "version": 2615,
+      "uid": "fNp531c7U0o967E",
       "runId": 886840816
     }
   }
