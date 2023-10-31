@@ -1,4 +1,66 @@
 {
   "day": 31,
-  "entries": {}
+  "entries": {
+    "fNp531c7U0o967E": {
+      "name": "Nidhoggr",
+      "char": 10,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 37,
+      "win": false,
+      "kills": 205,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        9,
+        12,
+        14
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "fNp531c7U0o967E",
+      "runId": 383548256
+    },
+    "as8vtgiHxYTmdS8": {
+      "name": "QUIRO",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2615,
+      "uid": "as8vtgiHxYTmdS8",
+      "runId": 383548256
+    },
+    "Q6k8dUoKw026pcO": {
+      "name": "pronin82",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 19,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "Q6k8dUoKw026pcO",
+      "runId": 383548256
+    }
+  }
 }
