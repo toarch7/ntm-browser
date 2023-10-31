@@ -380,6 +380,77 @@
       "version": 2615,
       "uid": "o07PuGZHlHeg206",
       "runId": 383548256
+    },
+    "wo3C92071nzqw3d": {
+      "name": "TwinkiePie",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 35,
+      "bwep": 74,
+      "win": false,
+      "kills": 538,
+      "ultra": 1,
+      "skills": [
+        27,
+        10,
+        9,
+        14,
+        1,
+        17
+      ],
+      "crown": 5,
+      "version": 2615,
+      "uid": "wo3C92071nzqw3d",
+      "runId": 383548256
+    },
+    "t3UnYX7b12UWpl6": {
+      "name": "Proton",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2610,
+      "uid": "t3UnYX7b12UWpl6",
+      "runId": 383548256
+    },
+    "8iZ0qj8LZ4k6UOG": {
+      "name": "Маньякич",
+      "char": 7,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 97,
+      "bwep": 77,
+      "win": false,
+      "kills": 410,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        9,
+        14,
+        16,
+        8,
+        25
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "8iZ0qj8LZ4k6UOG",
+      "runId": 383548256
     }
   }
 }
