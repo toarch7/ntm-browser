@@ -241,21 +241,22 @@
       "name": "Seekershotgun",
       "char": 12,
       "skin": false,
-      "area": 0,
+      "area": 3,
       "subarea": 1,
       "loops": 1,
       "wep": 115,
-      "bwep": 68,
+      "bwep": 106,
       "win": false,
-      "kills": 412,
+      "kills": 808,
       "ultra": 2,
       "skills": [
         13,
         27,
-        7,
+        23,
         3,
+        7,
         4,
-        19
+        10
       ],
       "crown": 6,
       "version": 2615,
@@ -376,6 +377,28 @@
       "crown": 6,
       "version": 2615,
       "uid": "vBcaEYsBXnwEzMy",
+      "runId": 593879654
+    },
+    "5DZ77K80hrBkfkT": {
+      "name": "ChocolateLover",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 4,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        13,
+        27,
+        7
+      ],
+      "crown": 6,
+      "version": 2615,
+      "uid": "5DZ77K80hrBkfkT",
       "runId": 593879654
     }
   }
