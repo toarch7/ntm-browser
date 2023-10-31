@@ -236,6 +236,53 @@
       "version": 2615,
       "uid": "o07PuGZHlHeg206",
       "runId": 593879654
+    },
+    "LamCwBiHrU1XU0I": {
+      "name": "Seekershotgun",
+      "char": 12,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 115,
+      "bwep": 68,
+      "win": false,
+      "kills": 412,
+      "ultra": 2,
+      "skills": [
+        13,
+        27,
+        7,
+        3,
+        4,
+        19
+      ],
+      "crown": 6,
+      "version": 2615,
+      "uid": "LamCwBiHrU1XU0I",
+      "runId": 593879654
+    },
+    "35px7517TSggANK": {
+      "name": "BrMan",
+      "char": 12,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 115,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        13,
+        6,
+        7
+      ],
+      "crown": 6,
+      "version": 2615,
+      "uid": "35px7517TSggANK",
+      "runId": 593879654
     }
   }
 }
