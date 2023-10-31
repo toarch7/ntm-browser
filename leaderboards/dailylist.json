@@ -890,6 +890,42 @@
       "version": 2610,
       "uid": "l8301Obu36fRb0M",
       "runId": 383548256
+    },
+    "XS0gL12TjOTC9Is": {
+      "name": "mrgames",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2615,
+      "uid": "XS0gL12TjOTC9Is",
+      "runId": 383548256
+    },
+    "5a6T0OvYuHZS7KO": {
+      "name": "ACED_TABZ",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "5a6T0OvYuHZS7KO",
+      "runId": 383548256
     }
   }
 }
