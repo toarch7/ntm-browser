@@ -956,6 +956,45 @@
       "version": 2614,
       "uid": "f6b778gF336Yq9A",
       "runId": 845229934
+    },
+    "8iZ0qj8LZ4k6UOG": {
+      "name": "Маньякич",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        25,
+        10,
+        8,
+        1
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "8iZ0qj8LZ4k6UOG",
+      "runId": 845229934
+    },
+    "F8nXsFdzexhI1vt": {
+      "name": "zequer",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2614,
+      "uid": "F8nXsFdzexhI1vt",
+      "runId": 845229934
     }
   }
 }
