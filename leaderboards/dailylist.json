@@ -176,6 +176,92 @@
       "version": 2615,
       "uid": "OHmT39guKLV1UTH",
       "runId": 845229934
+    },
+    "eF8RsUL9D2V5U9l": {
+      "name": "HuAn",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2615,
+      "uid": "eF8RsUL9D2V5U9l",
+      "runId": 845229934
+    },
+    "39Nm2aEQblfnxL8": {
+      "name": "виталий",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        1
+      ],
+      "crown": 1,
+      "version": 2612,
+      "uid": "39Nm2aEQblfnxL8",
+      "runId": 845229934
+    },
+    "56il8stzopM44OR": {
+      "name": "bajnmen",
+      "char": 11,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 25,
+      "win": false,
+      "kills": 327,
+      "ultra": 0,
+      "skills": [
+        13,
+        17,
+        1,
+        10,
+        12,
+        7
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "56il8stzopM44OR",
+      "runId": 845229934
+    },
+    "vDiSTVj8l4907fa": {
+      "name": "duckdivinity",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 21,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        1,
+        9
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "vDiSTVj8l4907fa",
+      "runId": 845229934
     }
   }
 }
