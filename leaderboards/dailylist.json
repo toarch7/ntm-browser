@@ -636,6 +636,51 @@
       "version": 2615,
       "uid": "uUWDZz3MBf2mvtP",
       "runId": 845229934
+    },
+    "K5a013WSen9p5s3": {
+      "name": "Maiki",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 114,
+      "bwep": 9,
+      "win": false,
+      "kills": 212,
+      "ultra": 0,
+      "skills": [
+        7,
+        16,
+        14,
+        9,
+        4,
+        26
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "K5a013WSen9p5s3",
+      "runId": 845229934
+    },
+    "9E1AM9MDV2wCKV9": {
+      "name": "SvinMaxim",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 17,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "9E1AM9MDV2wCKV9",
+      "runId": 845229934
     }
   }
 }
