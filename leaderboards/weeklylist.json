@@ -337,20 +337,21 @@
       "name": "Pasitotuntun",
       "char": 12,
       "skin": false,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
       "wep": 115,
-      "bwep": 66,
+      "bwep": 26,
       "win": false,
-      "kills": 176,
+      "kills": 259,
       "ultra": 0,
       "skills": [
         13,
         27,
         7,
-        25,
-        22
+        3,
+        9,
+        4
       ],
       "crown": 6,
       "version": 2615,
@@ -445,6 +446,28 @@
       "crown": 6,
       "version": 2615,
       "uid": "9E1AM9MDV2wCKV9",
+      "runId": 593879654
+    },
+    "2R90wsgk2R91f9Z": {
+      "name": "eyes",
+      "char": 12,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 21,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        13,
+        6,
+        7
+      ],
+      "crown": 6,
+      "version": 2615,
+      "uid": "2R90wsgk2R91f9Z",
       "runId": 593879654
     }
   }

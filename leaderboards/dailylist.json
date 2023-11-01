@@ -1,4 +1,88 @@
 {
   "day": 1,
-  "entries": {}
+  "entries": {
+    "NcbqebuN80fij3z": {
+      "name": "RAYNAR",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "NcbqebuN80fij3z",
+      "runId": 845229934
+    },
+    "cv95H3RA6DN6g6a": {
+      "name": "CamiToka",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "cv95H3RA6DN6g6a",
+      "runId": 845229934
+    },
+    "k1LrW0UT7WqGtuU": {
+      "name": "Gorno2288",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        25,
+        10,
+        8,
+        21
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "k1LrW0UT7WqGtuU",
+      "runId": 845229934
+    },
+    "XS0gL12TjOTC9Is": {
+      "name": "mrgames",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 26,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "XS0gL12TjOTC9Is",
+      "runId": 845229934
+    }
+  }
 }
