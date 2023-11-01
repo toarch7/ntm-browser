@@ -262,6 +262,75 @@
       "version": 2614,
       "uid": "vDiSTVj8l4907fa",
       "runId": 845229934
+    },
+    "X2NxupI3v3tJ6Wc": {
+      "name": "Zhubakka_2.0",
+      "char": 5,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 118,
+      "win": false,
+      "kills": 398,
+      "ultra": 0,
+      "skills": [
+        7,
+        21,
+        1,
+        9,
+        10,
+        6,
+        17,
+        14,
+        29
+      ],
+      "crown": 8,
+      "version": 2615,
+      "uid": "X2NxupI3v3tJ6Wc",
+      "runId": 845229934
+    },
+    "J96sPTCT7dt6h51": {
+      "name": "GarlicBread",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 17,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2615,
+      "uid": "J96sPTCT7dt6h51",
+      "runId": 845229934
+    },
+    "b6Q7Bwga9Vn4z98": {
+      "name": "FrostByte",
+      "char": 5,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 26,
+      "win": false,
+      "kills": 298,
+      "ultra": 0,
+      "skills": [
+        13,
+        8,
+        1,
+        14,
+        21,
+        4
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "b6Q7Bwga9Vn4z98",
+      "runId": 845229934
     }
   }
 }
