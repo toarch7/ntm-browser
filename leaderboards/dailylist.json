@@ -783,6 +783,42 @@
       "version": 2615,
       "uid": "BcR2sv9IZQs5QF6",
       "runId": 845229934
+    },
+    "DQv6tT4aXjRWAyH": {
+      "name": "пукер",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2615,
+      "uid": "DQv6tT4aXjRWAyH",
+      "runId": 845229934
+    },
+    "x11D7g9A5J8vg0F": {
+      "name": "mamaco69",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 5,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "x11D7g9A5J8vg0F",
+      "runId": 845229934
     }
   }
 }
