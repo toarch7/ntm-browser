@@ -488,6 +488,85 @@
       "version": 2615,
       "uid": "R7hzAn6JSI1tUaz",
       "runId": 806484009
+    },
+    "X6g9rfX2v1xI9LP": {
+      "name": "Лягушонок",
+      "char": 15,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 19,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        6,
+        14
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "X6g9rfX2v1xI9LP",
+      "runId": 806484009
+    },
+    "vFH4Ig40Gl4ZCx7": {
+      "name": "Low_Rise",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2615,
+      "uid": "vFH4Ig40Gl4ZCx7",
+      "runId": 806484009
+    },
+    "nkLLzxo21zbcd7f": {
+      "name": "DEBIL_HUNTER",
+      "char": 2,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 111,
+      "bwep": 26,
+      "win": false,
+      "kills": 921,
+      "ultra": 1,
+      "skills": [
+        6,
+        14,
+        4,
+        1,
+        17,
+        3,
+        10
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "nkLLzxo21zbcd7f",
+      "runId": 806484009
+    },
+    "R6B9f6f4VTZ9ytQ": {
+      "name": "rimmened",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 19,
+      "win": false,
+      "kills": 18,
+      "crown": 1,
+      "version": 2615,
+      "uid": "R6B9f6f4VTZ9ytQ",
+      "runId": 806484009
     }
   }
 }
