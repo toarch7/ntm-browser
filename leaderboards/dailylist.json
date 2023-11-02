@@ -48,6 +48,105 @@
       "version": 2615,
       "uid": "k1LrW0UT7WqGtuU",
       "runId": 806484009
+    },
+    "X2NxupI3v3tJ6Wc": {
+      "name": "Zhubakka_2.0",
+      "char": 9,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 0,
+      "win": false,
+      "kills": 492,
+      "ultra": 2,
+      "skills": [
+        13,
+        21,
+        4,
+        1,
+        9,
+        3,
+        23
+      ],
+      "crown": 8,
+      "version": 2615,
+      "uid": "X2NxupI3v3tJ6Wc",
+      "runId": 806484009
+    },
+    "Nml6Mnv18U1816G": {
+      "name": "Принтер",
+      "char": 4,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 60,
+      "bwep": 88,
+      "win": false,
+      "kills": 451,
+      "ultra": 2,
+      "skills": [
+        13,
+        14,
+        4,
+        1,
+        7,
+        3,
+        10,
+        27
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "Nml6Mnv18U1816G",
+      "runId": 806484009
+    },
+    "15bj6b969CV93ak": {
+      "name": "СолеваяНяшка",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 4,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        6,
+        14
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "15bj6b969CV93ak",
+      "runId": 806484009
+    },
+    "ZGo9SOrUZ4tpy3Q": {
+      "name": "Ethan.",
+      "char": 15,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 12,
+      "win": false,
+      "kills": 368,
+      "ultra": 0,
+      "skills": [
+        22,
+        14,
+        4,
+        1,
+        9,
+        7
+      ],
+      "crown": 4,
+      "version": 2615,
+      "uid": "ZGo9SOrUZ4tpy3Q",
+      "runId": 806484009
     }
   }
 }
