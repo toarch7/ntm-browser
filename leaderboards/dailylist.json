@@ -300,6 +300,100 @@
       "version": 2615,
       "uid": "8iZ0qj8LZ4k6UOG",
       "runId": 806484009
+    },
+    "56il8stzopM44OR": {
+      "name": "bajnmen",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 95,
+      "bwep": 13,
+      "win": false,
+      "kills": 600,
+      "ultra": 1,
+      "skills": [
+        13,
+        14,
+        4,
+        1,
+        9,
+        3
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "56il8stzopM44OR",
+      "runId": 806484009
+    },
+    "9sfALvS0dNKz0YB": {
+      "name": "Lunky34",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        22,
+        26
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "9sfALvS0dNKz0YB",
+      "runId": 806484009
+    },
+    "hr3chy1VUrr4DNl": {
+      "name": "gusmano",
+      "char": 6,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 27,
+      "win": false,
+      "kills": 189,
+      "ultra": 0,
+      "skills": [
+        13,
+        14,
+        4
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "hr3chy1VUrr4DNl",
+      "runId": 806484009
+    },
+    "9E1AM9MDV2wCKV9": {
+      "name": "SvinMaxim",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 60,
+      "bwep": 62,
+      "win": false,
+      "kills": 616,
+      "ultra": 1,
+      "skills": [
+        6,
+        14,
+        4,
+        1,
+        21,
+        7,
+        3
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "9E1AM9MDV2wCKV9",
+      "runId": 806484009
     }
   }
 }
