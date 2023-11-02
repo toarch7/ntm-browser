@@ -671,6 +671,28 @@
       "version": 2611,
       "uid": "lG873979OwArZBc",
       "runId": 806484009
+    },
+    "2R90wsgk2R91f9Z": {
+      "name": "eyes",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 5,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        22,
+        14,
+        8
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "2R90wsgk2R91f9Z",
+      "runId": 806484009
     }
   }
 }
