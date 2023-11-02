@@ -730,6 +730,50 @@
       "version": 2615,
       "uid": "GlYj97ETS22g9J6",
       "runId": 806484009
+    },
+    "vDiSTVj8l4907fa": {
+      "name": "duckdivinity",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        13,
+        21,
+        4
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "vDiSTVj8l4907fa",
+      "runId": 806484009
+    },
+    "cTjk4BezOn4mk8D": {
+      "name": "Skulve",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 69,
+      "win": false,
+      "kills": 118,
+      "ultra": 0,
+      "skills": [
+        13,
+        14,
+        4
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "cTjk4BezOn4mk8D",
+      "runId": 806484009
     }
   }
 }
