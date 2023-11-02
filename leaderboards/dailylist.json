@@ -693,6 +693,43 @@
       "version": 2615,
       "uid": "2R90wsgk2R91f9Z",
       "runId": 806484009
+    },
+    "0UoI3tR1qes867U": {
+      "name": "concak",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2615,
+      "uid": "0UoI3tR1qes867U",
+      "runId": 806484009
+    },
+    "GlYj97ETS22g9J6": {
+      "name": "AlwaysZel",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        6,
+        14
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "GlYj97ETS22g9J6",
+      "runId": 806484009
     }
   }
 }
