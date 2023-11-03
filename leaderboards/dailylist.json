@@ -750,6 +750,84 @@
       "version": 2615,
       "uid": "nIHV6jfPHAZk0IM",
       "runId": 922126932
+    },
+    "EYx4SkhZ8du0845": {
+      "name": "Shima",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2615,
+      "uid": "EYx4SkhZ8du0845",
+      "runId": 922126932
+    },
+    "KVn5bA40XvyIOZD": {
+      "name": "klaus",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        10,
+        12
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "KVn5bA40XvyIOZD",
+      "runId": 922126932
+    },
+    "zR80EDa4ZP9nslI": {
+      "name": "Xag803",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        10,
+        14
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "zR80EDa4ZP9nslI",
+      "runId": 922126932
+    },
+    "kO5fHE9w89ub0u9": {
+      "name": "cuc",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 17,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "kO5fHE9w89ub0u9",
+      "runId": 922126932
     }
   }
 }
