@@ -515,6 +515,52 @@
       "version": 2615,
       "uid": "wo3C92071nzqw3d",
       "runId": 922126932
+    },
+    "R7hzAn6JSI1tUaz": {
+      "name": "mrfish",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        10,
+        14,
+        25
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "R7hzAn6JSI1tUaz",
+      "runId": 922126932
+    },
+    "73P82Qr3GC028eL": {
+      "name": "SKU",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 167,
+      "ultra": 0,
+      "skills": [
+        17,
+        21,
+        25,
+        24,
+        22
+      ],
+      "crown": 11,
+      "version": 2615,
+      "uid": "73P82Qr3GC028eL",
+      "runId": 922126932
     }
   }
 }
