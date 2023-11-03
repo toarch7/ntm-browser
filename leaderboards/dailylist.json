@@ -1,4 +1,78 @@
 {
   "day": 3,
-  "entries": {}
+  "entries": {
+    "X6g9rfX2v1xI9LP": {
+      "name": "Лягушонок",
+      "char": 15,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 7,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        10,
+        8
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "X6g9rfX2v1xI9LP",
+      "runId": 922126932
+    },
+    "m4c80jE0p1OReQ1": {
+      "name": "Seeke",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 15,
+      "crown": 1,
+      "version": 2615,
+      "uid": "m4c80jE0p1OReQ1",
+      "runId": 922126932
+    },
+    "K5a013WSen9p5s3": {
+      "name": "Maiki",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 39,
+      "win": false,
+      "kills": 29,
+      "crown": 1,
+      "version": 2615,
+      "uid": "K5a013WSen9p5s3",
+      "runId": 922126932
+    },
+    "74E9t9C32Gk3po9": {
+      "name": "jalyjaly009",
+      "char": 7,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 10,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "74E9t9C32Gk3po9",
+      "runId": 922126932
+    }
+  }
 }
