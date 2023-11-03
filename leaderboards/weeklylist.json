@@ -856,6 +856,27 @@
       "version": 2615,
       "uid": "5a6T0OvYuHZS7KO",
       "runId": 593879654
+    },
+    "vFH4Ig40Gl4ZCx7": {
+      "name": "Low_Rise",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 115,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        13,
+        27
+      ],
+      "crown": 6,
+      "version": 2615,
+      "uid": "vFH4Ig40Gl4ZCx7",
+      "runId": 593879654
     }
   }
 }
