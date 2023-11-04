@@ -1035,6 +1035,52 @@
       "version": 2615,
       "uid": "jepUNA5yM9u33Wt",
       "runId": 593879654
+    },
+    "1MQ0ub52hP714po": {
+      "name": "CapSatSuckBlood",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 66,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        13,
+        27,
+        7
+      ],
+      "crown": 6,
+      "version": 2614,
+      "uid": "1MQ0ub52hP714po",
+      "runId": 593879654
+    },
+    "lOT26uibyK27Yf5": {
+      "name": "",
+      "char": 12,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 66,
+      "win": false,
+      "kills": 208,
+      "ultra": 0,
+      "skills": [
+        13,
+        27,
+        7,
+        14,
+        19
+      ],
+      "crown": 6,
+      "version": 2615,
+      "uid": "lOT26uibyK27Yf5",
+      "runId": 593879654
     }
   }
 }
