@@ -1086,20 +1086,23 @@
       "name": "OMEGAZERO",
       "char": 12,
       "skin": false,
-      "area": 4,
+      "area": 2,
       "subarea": 1,
-      "loops": 0,
+      "loops": 1,
       "wep": 115,
-      "bwep": 76,
+      "bwep": 107,
       "win": false,
-      "kills": 166,
-      "ultra": 0,
+      "kills": 652,
+      "ultra": 2,
       "skills": [
         13,
         27,
         7,
         25,
-        19
+        19,
+        9,
+        4,
+        12
       ],
       "crown": 6,
       "version": 2615,
@@ -1127,6 +1130,31 @@
       "crown": 6,
       "version": 2615,
       "uid": "HNd97ThvycoXX6K",
+      "runId": 593879654
+    },
+    "0d36GiUjNGXT7ZN": {
+      "name": "roronoa",
+      "char": 12,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 66,
+      "win": false,
+      "kills": 261,
+      "ultra": 0,
+      "skills": [
+        13,
+        3,
+        7,
+        14,
+        9,
+        8
+      ],
+      "crown": 6,
+      "version": 2615,
+      "uid": "0d36GiUjNGXT7ZN",
       "runId": 593879654
     }
   }
