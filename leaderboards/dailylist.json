@@ -341,6 +341,46 @@
       "version": 2612,
       "uid": "39Nm2aEQblfnxL8",
       "runId": 1760994178
+    },
+    "L6MTNuNc8vAV15U": {
+      "name": "Infrimo",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2615,
+      "uid": "L6MTNuNc8vAV15U",
+      "runId": 1760994178
+    },
+    "J2cr7u3GS1Yrs4K": {
+      "name": "EvilCat",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 11,
+      "win": false,
+      "kills": 289,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        13,
+        7,
+        17
+      ],
+      "crown": 11,
+      "version": 2615,
+      "uid": "J2cr7u3GS1Yrs4K",
+      "runId": 1760994178
     }
   }
 }
