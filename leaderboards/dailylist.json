@@ -475,6 +475,51 @@
       "version": 2615,
       "uid": "lOT26uibyK27Yf5",
       "runId": 1204747392
+    },
+    "RmIRZ6rQEg5epTz": {
+      "name": "Vessler",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "RmIRZ6rQEg5epTz",
+      "runId": 1204747392
+    },
+    "5DZ77K80hrBkfkT": {
+      "name": "Chocolatenjoyer",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 4,
+      "win": false,
+      "kills": 267,
+      "ultra": 0,
+      "skills": [
+        3,
+        27,
+        4,
+        1,
+        7,
+        12
+      ],
+      "crown": 11,
+      "version": 2615,
+      "uid": "5DZ77K80hrBkfkT",
+      "runId": 1204747392
     }
   }
 }
