@@ -536,6 +536,72 @@
       "version": 2615,
       "uid": "8iZ0qj8LZ4k6UOG",
       "runId": 1204747392
+    },
+    "2RD82brecLtJ9X5": {
+      "name": "List",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "2RD82brecLtJ9X5",
+      "runId": 1204747392
+    },
+    "15bj6b969CV93ak": {
+      "name": "СолеваяНяшка",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 66,
+      "win": false,
+      "kills": 220,
+      "ultra": 0,
+      "skills": [
+        6,
+        23,
+        4,
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "15bj6b969CV93ak",
+      "runId": 1204747392
+    },
+    "k1LrW0UT7WqGtuU": {
+      "name": "ERTINE",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 69,
+      "win": false,
+      "kills": 176,
+      "ultra": 0,
+      "skills": [
+        6,
+        27,
+        4
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "k1LrW0UT7WqGtuU",
+      "runId": 1204747392
     }
   }
 }
