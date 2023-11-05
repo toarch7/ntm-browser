@@ -479,18 +479,21 @@
       "name": "FrostByte",
       "char": 12,
       "skin": false,
-      "area": 102,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 115,
-      "bwep": 14,
+      "wep": 66,
+      "bwep": 115,
       "win": false,
-      "kills": 93,
+      "kills": 248,
       "ultra": 0,
       "skills": [
         13,
         27,
-        23
+        23,
+        14,
+        7,
+        4
       ],
       "crown": 6,
       "version": 2615,
@@ -1206,6 +1209,53 @@
       "crown": 6,
       "version": 2614,
       "uid": "4l62UXT9f9Kb5v7",
+      "runId": 593879654
+    },
+    "F0MBAJROPGi572v": {
+      "name": "El",
+      "char": 12,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 0,
+      "win": false,
+      "kills": 263,
+      "ultra": 0,
+      "skills": [
+        13,
+        3,
+        7,
+        2,
+        9,
+        4
+      ],
+      "crown": 6,
+      "version": 2615,
+      "uid": "F0MBAJROPGi572v",
+      "runId": 593879654
+    },
+    "2SNS2ykdDrz4106": {
+      "name": "Andersony",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 69,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        13,
+        3,
+        23
+      ],
+      "crown": 6,
+      "version": 2615,
+      "uid": "2SNS2ykdDrz4106",
       "runId": 593879654
     }
   }
