@@ -762,6 +762,31 @@
       "version": 2615,
       "uid": "qAC8PH93N9H3Yqo",
       "runId": 871848365
+    },
+    "tL21RN66ZCeXP53": {
+      "name": "LisArt10",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 55,
+      "win": false,
+      "kills": 562,
+      "ultra": 1,
+      "skills": [
+        17,
+        9,
+        13,
+        14,
+        27,
+        4
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "tL21RN66ZCeXP53",
+      "runId": 871848365
     }
   }
 }
