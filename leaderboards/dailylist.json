@@ -497,6 +497,43 @@
       "version": 2615,
       "uid": "4DP5jytMgTjwnj3",
       "runId": 871848365
+    },
+    "5OxYAbS334PjsaV": {
+      "name": "mamastrosado",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2615,
+      "uid": "5OxYAbS334PjsaV",
+      "runId": 871848365
+    },
+    "hr3chy1VUrr4DNl": {
+      "name": "gusmano",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 88,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        14,
+        9
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "hr3chy1VUrr4DNl",
+      "runId": 871848365
     }
   }
 }
