@@ -742,14 +742,15 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
-      "bwep": 115,
+      "wep": 115,
+      "bwep": 69,
       "win": false,
-      "kills": 65,
+      "kills": 72,
       "ultra": 0,
       "skills": [
         13,
-        27
+        27,
+        7
       ],
       "crown": 6,
       "version": 2615,
