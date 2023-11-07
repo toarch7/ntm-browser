@@ -550,6 +550,55 @@
       "version": 2610,
       "uid": "O76qvL27II34pR0",
       "runId": 1542942112
+    },
+    "Nml6Mnv18U1816G": {
+      "name": "Принтер",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 105,
+      "win": false,
+      "kills": 1360,
+      "ultra": 1,
+      "skills": [
+        1,
+        9,
+        27,
+        23,
+        8,
+        7,
+        10
+      ],
+      "crown": 7,
+      "version": 2615,
+      "uid": "Nml6Mnv18U1816G",
+      "runId": 1542942112
+    },
+    "dJ6Xd4YKhOzY0k5": {
+      "name": "Thunderwise",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 2,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        13,
+        9,
+        4,
+        23
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "dJ6Xd4YKhOzY0k5",
+      "runId": 1542942112
     }
   }
 }
