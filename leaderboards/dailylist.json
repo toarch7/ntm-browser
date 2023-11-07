@@ -710,6 +710,73 @@
       "version": 2615,
       "uid": "5DZ77K80hrBkfkT",
       "runId": 1542942112
+    },
+    "wo3C92071nzqw3d": {
+      "name": "TwinkiePie",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        13,
+        22,
+        27
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "wo3C92071nzqw3d",
+      "runId": 1542942112
+    },
+    "qAC8PH93N9H3Yqo": {
+      "name": "kanti",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "qAC8PH93N9H3Yqo",
+      "runId": 1542942112
+    },
+    "1fx35W4I06bkYH1": {
+      "name": "Rin",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 60,
+      "bwep": 30,
+      "win": false,
+      "kills": 453,
+      "ultra": 1,
+      "skills": [
+        1,
+        3,
+        27,
+        23,
+        13,
+        21
+      ],
+      "crown": 11,
+      "version": 2615,
+      "uid": "1fx35W4I06bkYH1",
+      "runId": 1542942112
     }
   }
 }
