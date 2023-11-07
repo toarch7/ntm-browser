@@ -301,6 +301,52 @@
       "version": 2615,
       "uid": "SAAa57qwkWW4py3",
       "runId": 1542942112
+    },
+    "tL21RN66ZCeXP53": {
+      "name": "LisArt10",
+      "char": 6,
+      "skin": true,
+      "area": 100,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 116,
+      "win": false,
+      "kills": 243,
+      "ultra": 0,
+      "skills": [
+        1,
+        9,
+        27,
+        23,
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "tL21RN66ZCeXP53",
+      "runId": 1542942112
+    },
+    "xOm9Rh22YjWE6zs": {
+      "name": "Seeker",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        1,
+        2
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "xOm9Rh22YjWE6zs",
+      "runId": 1542942112
     }
   }
 }

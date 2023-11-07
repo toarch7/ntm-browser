@@ -99,18 +99,19 @@
       "name": "Throneseeker41",
       "char": 1,
       "skin": true,
-      "area": 3,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 23,
-      "bwep": 55,
+      "wep": 16,
+      "bwep": 23,
       "win": false,
-      "kills": 84,
+      "kills": 156,
       "ultra": 0,
       "skills": [
         16,
         7,
-        17
+        19,
+        6
       ],
       "crown": 13,
       "version": 2615,
@@ -260,6 +261,50 @@
       "crown": 13,
       "version": 2612,
       "uid": "w9QX6Xo4l0hhZRV",
+      "runId": 543531716
+    },
+    "9E1AM9MDV2wCKV9": {
+      "name": "SvinMaxim",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 55,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        17
+      ],
+      "crown": 13,
+      "version": 2615,
+      "uid": "9E1AM9MDV2wCKV9",
+      "runId": 543531716
+    },
+    "tL21RN66ZCeXP53": {
+      "name": "LisArt10",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 55,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        17
+      ],
+      "crown": 13,
+      "version": 2615,
+      "uid": "tL21RN66ZCeXP53",
       "runId": 543531716
     }
   }
