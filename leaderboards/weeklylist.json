@@ -351,6 +351,52 @@
       "version": 2615,
       "uid": "7S4ax4V0T22i3FI",
       "runId": 543531716
+    },
+    "4iO5ymM0cgyFH8t": {
+      "name": "Robot62",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 58,
+      "win": false,
+      "kills": 195,
+      "ultra": 0,
+      "skills": [
+        24,
+        27,
+        17,
+        26,
+        6
+      ],
+      "crown": 13,
+      "version": 2614,
+      "uid": "4iO5ymM0cgyFH8t",
+      "runId": 543531716
+    },
+    "L6MTNuNc8vAV15U": {
+      "name": "Infrimo",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 55,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        25
+      ],
+      "crown": 13,
+      "version": 2615,
+      "uid": "L6MTNuNc8vAV15U",
+      "runId": 543531716
     }
   }
 }
