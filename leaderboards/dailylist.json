@@ -664,6 +664,29 @@
       "version": 2614,
       "uid": "f6b778gF336Yq9A",
       "runId": 1542942112
+    },
+    "L8AyNCH7786XIxx": {
+      "name": "eyes",
+      "char": 2,
+      "skin": false,
+      "area": 105,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 57,
+      "win": false,
+      "kills": 262,
+      "ultra": 0,
+      "skills": [
+        9,
+        7,
+        2,
+        14
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "L8AyNCH7786XIxx",
+      "runId": 1542942112
     }
   }
 }
