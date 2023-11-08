@@ -245,18 +245,20 @@
       "name": "Ketchup",
       "char": 1,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 55,
-      "bwep": 7,
+      "wep": 38,
+      "bwep": 55,
       "win": false,
-      "kills": 64,
+      "kills": 235,
       "ultra": 0,
       "skills": [
         10,
         27,
-        25
+        17,
+        4,
+        3
       ],
       "crown": 13,
       "version": 2612,
@@ -909,6 +911,29 @@
       "crown": 13,
       "version": 2615,
       "uid": "ZchRGA0o9j14Un0",
+      "runId": 543531716
+    },
+    "MW6eS33m61v6fOg": {
+      "name": "EvilCat",
+      "char": 1,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 72,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        3,
+        27,
+        23,
+        17
+      ],
+      "crown": 13,
+      "version": 2615,
+      "uid": "MW6eS33m61v6fOg",
       "runId": 543531716
     }
   }

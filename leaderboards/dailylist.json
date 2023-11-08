@@ -734,6 +734,82 @@
       "version": 2615,
       "uid": "cI37rC2PUsR1m77",
       "runId": 177899336
+    },
+    "1cct6N7La9YPc3n": {
+      "name": "ZeroX",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 13,
+      "win": false,
+      "kills": 259,
+      "ultra": 0,
+      "skills": [
+        9,
+        27,
+        22,
+        7,
+        16,
+        4
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "1cct6N7La9YPc3n",
+      "runId": 177899336
+    },
+    "bh4bRsnVP61HqWo": {
+      "name": "baseline2",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 9,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        6,
+        23,
+        12
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "bh4bRsnVP61HqWo",
+      "runId": 177899336
+    },
+    "xAHSc7iOB326N4S": {
+      "name": "Stayendmanx",
+      "char": 4,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 6,
+      "wep": 111,
+      "bwep": 92,
+      "win": false,
+      "kills": 15989,
+      "ultra": 2,
+      "skills": [
+        13,
+        23,
+        3,
+        22,
+        17,
+        27,
+        7,
+        1,
+        10,
+        4
+      ],
+      "crown": 7,
+      "version": 2615,
+      "uid": "xAHSc7iOB326N4S",
+      "runId": 177899336
     }
   }
 }
