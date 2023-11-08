@@ -740,17 +740,19 @@
       "char": 1,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 23,
+      "wep": 75,
       "bwep": 55,
       "win": false,
-      "kills": 85,
+      "kills": 143,
       "ultra": 0,
       "skills": [
-        16,
-        27,
-        19
+        24,
+        7,
+        25,
+        19,
+        26
       ],
       "crown": 13,
       "version": 2615,
@@ -779,6 +781,32 @@
       "crown": 13,
       "version": 2614,
       "uid": "662VZM67wm3Cz1e",
+      "runId": 543531716
+    },
+    "wo3C92071nzqw3d": {
+      "name": "TwinkiePie",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 21,
+      "win": false,
+      "kills": 282,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        25,
+        13,
+        22,
+        4,
+        3
+      ],
+      "crown": 13,
+      "version": 2615,
+      "uid": "wo3C92071nzqw3d",
       "runId": 543531716
     }
   }
