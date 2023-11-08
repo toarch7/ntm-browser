@@ -839,6 +839,54 @@
       "version": 2615,
       "uid": "J8i115AkW9mCKQu",
       "runId": 543531716
+    },
+    "qAC8PH93N9H3Yqo": {
+      "name": "kanti",
+      "char": 1,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 23,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        16,
+        7,
+        22,
+        4
+      ],
+      "crown": 13,
+      "version": 2615,
+      "uid": "qAC8PH93N9H3Yqo",
+      "runId": 543531716
+    },
+    "RCrp4a4UfRB93TR": {
+      "name": "angelo",
+      "char": 1,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 88,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        16,
+        27,
+        25,
+        1,
+        22,
+        4
+      ],
+      "crown": 13,
+      "version": 2612,
+      "uid": "RCrp4a4UfRB93TR",
+      "runId": 543531716
     }
   }
 }
