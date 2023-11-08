@@ -810,6 +810,42 @@
       "version": 2615,
       "uid": "xAHSc7iOB326N4S",
       "runId": 177899336
+    },
+    "435ynJtrqV5GgMU": {
+      "name": "dude_man_123",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2615,
+      "uid": "435ynJtrqV5GgMU",
+      "runId": 177899336
+    },
+    "78ZI9vS61e2OJ70": {
+      "name": "Hiajen",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 13,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "78ZI9vS61e2OJ70",
+      "runId": 177899336
     }
   }
 }
