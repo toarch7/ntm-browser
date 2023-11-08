@@ -1,4 +1,93 @@
 {
   "day": 8,
-  "entries": {}
+  "entries": {
+    "d6z5FbYjkeqK116": {
+      "name": "Kling7",
+      "char": 8,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 35,
+      "win": false,
+      "kills": 313,
+      "ultra": 0,
+      "skills": [
+        17,
+        13,
+        23,
+        3,
+        25,
+        21,
+        29
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "d6z5FbYjkeqK116",
+      "runId": 177899336
+    },
+    "k1LrW0UT7WqGtuU": {
+      "name": "ERTINE",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 17,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        9,
+        26,
+        3
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "k1LrW0UT7WqGtuU",
+      "runId": 177899336
+    },
+    "I440APy9u6W3gYR": {
+      "name": "JonathanM",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "I440APy9u6W3gYR",
+      "runId": 177899336
+    },
+    "5OxYAbS334PjsaV": {
+      "name": "mamastrosado",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "5OxYAbS334PjsaV",
+      "runId": 177899336
+    }
+  }
 }
