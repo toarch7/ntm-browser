@@ -299,6 +299,49 @@
       "version": 2615,
       "uid": "hr3chy1VUrr4DNl",
       "runId": 177899336
+    },
+    "Nml6Mnv18U1816G": {
+      "name": "Принтер",
+      "char": 4,
+      "skin": true,
+      "area": 100,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 75,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        13,
+        23,
+        12,
+        10
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "Nml6Mnv18U1816G",
+      "runId": 177899336
+    },
+    "X2NxupI3v3tJ6Wc": {
+      "name": "Zhubakka_2.0",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 7,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "X2NxupI3v3tJ6Wc",
+      "runId": 177899336
     }
   }
 }
