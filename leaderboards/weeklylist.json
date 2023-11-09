@@ -341,18 +341,19 @@
       "name": "C0dem4n",
       "char": 1,
       "skin": true,
-      "area": 2,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 55,
-      "bwep": 23,
+      "wep": 19,
+      "bwep": 38,
       "win": false,
-      "kills": 57,
+      "kills": 187,
       "ultra": 0,
       "skills": [
         24,
-        7,
-        17
+        27,
+        17,
+        2
       ],
       "crown": 13,
       "version": 2615,
@@ -934,6 +935,28 @@
       "crown": 13,
       "version": 2615,
       "uid": "MW6eS33m61v6fOg",
+      "runId": 543531716
+    },
+    "35px7517TSggANK": {
+      "name": "BrMan",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 16,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        24,
+        21,
+        25
+      ],
+      "crown": 13,
+      "version": 2615,
+      "uid": "35px7517TSggANK",
       "runId": 543531716
     }
   }
