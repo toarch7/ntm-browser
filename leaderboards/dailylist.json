@@ -300,6 +300,69 @@
       "version": 2615,
       "uid": "9E1AM9MDV2wCKV9",
       "runId": 352856816
+    },
+    "78ZI9vS61e2OJ70": {
+      "name": "Hiajen",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 66,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "78ZI9vS61e2OJ70",
+      "runId": 352856816
+    },
+    "5Jx0mZmj5KVW2J2": {
+      "name": "Liemol",
+      "char": 5,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        27
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "5Jx0mZmj5KVW2J2",
+      "runId": 352856816
+    },
+    "qAC8PH93N9H3Yqo": {
+      "name": "kanti",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 1,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        24,
+        9
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "qAC8PH93N9H3Yqo",
+      "runId": 352856816
     }
   }
 }
