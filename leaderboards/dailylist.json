@@ -254,6 +254,52 @@
       "version": 2615,
       "uid": "J8i115AkW9mCKQu",
       "runId": 352856816
+    },
+    "Nml6Mnv18U1816G": {
+      "name": "Принтер",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 14,
+      "win": false,
+      "kills": 226,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        27,
+        10,
+        21,
+        7
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "Nml6Mnv18U1816G",
+      "runId": 352856816
+    },
+    "9E1AM9MDV2wCKV9": {
+      "name": "SvinMaxim",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 69,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        23,
+        17
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "9E1AM9MDV2wCKV9",
+      "runId": 352856816
     }
   }
 }
