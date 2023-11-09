@@ -363,6 +363,52 @@
       "version": 2615,
       "uid": "qAC8PH93N9H3Yqo",
       "runId": 352856816
+    },
+    "24297eU15W833f8": {
+      "name": "Ney",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 19,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "24297eU15W833f8",
+      "runId": 352856816
+    },
+    "wo3C92071nzqw3d": {
+      "name": "TwinkiePie",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 22,
+      "win": false,
+      "kills": 255,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        27,
+        13,
+        1,
+        3,
+        22
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "wo3C92071nzqw3d",
+      "runId": 352856816
     }
   }
 }
