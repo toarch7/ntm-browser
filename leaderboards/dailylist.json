@@ -205,6 +205,55 @@
       "version": 2615,
       "uid": "T5rQdRp07913469",
       "runId": 352856816
+    },
+    "X6g9rfX2v1xI9LP": {
+      "name": "Лягушонок",
+      "char": 15,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 11,
+      "win": false,
+      "kills": 253,
+      "ultra": 0,
+      "skills": [
+        23,
+        26,
+        1,
+        8,
+        3,
+        6
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "X6g9rfX2v1xI9LP",
+      "runId": 352856816
+    },
+    "J8i115AkW9mCKQu": {
+      "name": "чел",
+      "char": 8,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 24,
+      "win": false,
+      "kills": 307,
+      "ultra": 0,
+      "skills": [
+        23,
+        17,
+        1,
+        21,
+        6
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "J8i115AkW9mCKQu",
+      "runId": 352856816
     }
   }
 }
