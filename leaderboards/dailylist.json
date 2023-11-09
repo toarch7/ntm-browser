@@ -43,6 +43,65 @@
       "version": 2615,
       "uid": "435ynJtrqV5GgMU",
       "runId": 352856816
+    },
+    "6pB29p4IOy05Y3B": {
+      "name": "PanTostado",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 14,
+      "win": false,
+      "kills": 200,
+      "ultra": 0,
+      "skills": [
+        9,
+        10,
+        21
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "6pB29p4IOy05Y3B",
+      "runId": 352856816
+    },
+    "loEn2loO9L1fh42": {
+      "name": "Fatieh",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 88,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        23,
+        9
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "loEn2loO9L1fh42",
+      "runId": 352856816
+    },
+    "dsN150V924Mwznz": {
+      "name": "MrHat",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2615,
+      "uid": "dsN150V924Mwznz",
+      "runId": 352856816
     }
   }
 }
