@@ -855,6 +855,27 @@
       "version": 2615,
       "uid": "MW6eS33m61v6fOg",
       "runId": 352856816
+    },
+    "cI37rC2PUsR1m77": {
+      "name": "Strive",
+      "char": 9,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 46,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        24,
+        26
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "cI37rC2PUsR1m77",
+      "runId": 352856816
     }
   }
 }
