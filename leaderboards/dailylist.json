@@ -876,6 +876,66 @@
       "version": 2615,
       "uid": "cI37rC2PUsR1m77",
       "runId": 352856816
+    },
+    "FSeU17z7TrubDGo": {
+      "name": "mortadela",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 20,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "FSeU17z7TrubDGo",
+      "runId": 352856816
+    },
+    "YDoxjVE1t740pF9": {
+      "name": "MemeCat",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 5,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "YDoxjVE1t740pF9",
+      "runId": 352856816
+    },
+    "4l62UXT9f9Kb5v7": {
+      "name": "pollotom",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 1,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "4l62UXT9f9Kb5v7",
+      "runId": 352856816
     }
   }
 }
