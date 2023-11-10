@@ -1385,6 +1385,56 @@
       "version": 2610,
       "uid": "l8301Obu36fRb0M",
       "runId": 543531716
+    },
+    "Npj71R7BVPOg1aU": {
+      "name": "Shadow",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 96,
+      "win": false,
+      "kills": 402,
+      "ultra": 2,
+      "skills": [
+        12,
+        9,
+        25,
+        27,
+        22,
+        4,
+        8,
+        1,
+        16
+      ],
+      "crown": 13,
+      "version": 2615,
+      "uid": "Npj71R7BVPOg1aU",
+      "runId": 543531716
+    },
+    "1MQ0ub52hP714po": {
+      "name": "CapSatSuckBlood",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 6,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        12,
+        21,
+        17
+      ],
+      "crown": 13,
+      "version": 2614,
+      "uid": "1MQ0ub52hP714po",
+      "runId": 543531716
     }
   }
 }
