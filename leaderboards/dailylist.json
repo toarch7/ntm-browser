@@ -753,6 +753,89 @@
       "version": 2615,
       "uid": "nIHV6jfPHAZk0IM",
       "runId": 866228610
+    },
+    "1RQp0cZ7tL6f06H": {
+      "name": "Android13",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 27,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "1RQp0cZ7tL6f06H",
+      "runId": 866228610
+    },
+    "z49s2bYt15A9p8g": {
+      "name": "happytube",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 7,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "z49s2bYt15A9p8g",
+      "runId": 866228610
+    },
+    "X6g9rfX2v1xI9LP": {
+      "name": "Лягушонок",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 27,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        19,
+        14
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "X6g9rfX2v1xI9LP",
+      "runId": 866228610
+    },
+    "l8301Obu36fRb0M": {
+      "name": "iuH",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 62,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        14,
+        17,
+        22
+      ],
+      "crown": 1,
+      "version": 2610,
+      "uid": "l8301Obu36fRb0M",
+      "runId": 866228610
     }
   }
 }
