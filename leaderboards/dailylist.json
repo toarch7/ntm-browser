@@ -604,6 +604,55 @@
       "version": 2615,
       "uid": "5DZ77K80hrBkfkT",
       "runId": 866228610
+    },
+    "o07PuGZHlHeg206": {
+      "name": "IiIiIiI",
+      "char": 1,
+      "skin": false,
+      "area": 100,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 35,
+      "bwep": 60,
+      "win": false,
+      "kills": 507,
+      "ultra": 2,
+      "skills": [
+        22,
+        27,
+        4,
+        9,
+        10,
+        23,
+        3
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "o07PuGZHlHeg206",
+      "runId": 866228610
+    },
+    "Nml6Mnv18U1816G": {
+      "name": "Принтер",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 6,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        10,
+        13,
+        27,
+        4
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "Nml6Mnv18U1816G",
+      "runId": 866228610
     }
   }
 }
