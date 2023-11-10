@@ -703,19 +703,20 @@
       "name": "Reck",
       "char": 1,
       "skin": true,
-      "area": 103,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 7,
-      "bwep": 27,
+      "wep": 13,
+      "bwep": 16,
       "win": false,
-      "kills": 126,
+      "kills": 155,
       "ultra": 0,
       "skills": [
         10,
-        27,
-        25,
-        1
+        9,
+        19,
+        22,
+        4
       ],
       "crown": 13,
       "version": 2615,
@@ -1197,6 +1198,28 @@
       "crown": 13,
       "version": 2615,
       "uid": "V0VKw53l8M8n3N1",
+      "runId": 543531716
+    },
+    "74E9t9C32Gk3po9": {
+      "name": "jalyjaly009",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 23,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        24,
+        9,
+        19
+      ],
+      "crown": 13,
+      "version": 2615,
+      "uid": "74E9t9C32Gk3po9",
       "runId": 543531716
     }
   }
