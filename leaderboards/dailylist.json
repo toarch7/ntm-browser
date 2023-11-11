@@ -27,6 +27,47 @@
       "version": 2615,
       "uid": "56il8stzopM44OR",
       "runId": 1903565431
+    },
+    "vDiSTVj8l4907fa": {
+      "name": "duckdivinity",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "vDiSTVj8l4907fa",
+      "runId": 1903565431
+    },
+    "1UD0O8sR5qsME02": {
+      "name": "Seeker",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 62,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        7,
+        12
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "1UD0O8sR5qsME02",
+      "runId": 1903565431
     }
   }
 }
