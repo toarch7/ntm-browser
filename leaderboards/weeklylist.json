@@ -303,10 +303,10 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 23,
+      "wep": 7,
       "bwep": 55,
       "win": false,
-      "kills": 64,
+      "kills": 75,
       "ultra": 0,
       "skills": [
         10,
@@ -1502,6 +1502,28 @@
       "crown": 13,
       "version": 2615,
       "uid": "9F6Tr88N3O9RQQ3",
+      "runId": 543531716
+    },
+    "tB8UxbFKIS0720U": {
+      "name": "Flafik019",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 27,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        12,
+        7,
+        17
+      ],
+      "crown": 13,
+      "version": 2614,
+      "uid": "tB8UxbFKIS0720U",
       "runId": 543531716
     }
   }
