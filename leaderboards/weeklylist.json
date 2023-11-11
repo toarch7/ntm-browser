@@ -1435,6 +1435,30 @@
       "version": 2614,
       "uid": "1MQ0ub52hP714po",
       "runId": 543531716
+    },
+    "nIHV6jfPHAZk0IM": {
+      "name": "cafe",
+      "char": 1,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 91,
+      "bwep": 17,
+      "win": false,
+      "kills": 178,
+      "ultra": 0,
+      "skills": [
+        12,
+        9,
+        25,
+        27,
+        22
+      ],
+      "crown": 13,
+      "version": 2615,
+      "uid": "nIHV6jfPHAZk0IM",
+      "runId": 543531716
     }
   }
 }
