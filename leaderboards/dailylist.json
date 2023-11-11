@@ -906,6 +906,31 @@
       "version": 2615,
       "uid": "kX7oMs3AeM1g4x1",
       "runId": 1903565431
+    },
+    "uUWDZz3MBf2mvtP": {
+      "name": "Nuclear_Fish",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 9,
+      "win": false,
+      "kills": 1480,
+      "ultra": 1,
+      "skills": [
+        7,
+        27,
+        21,
+        26,
+        17,
+        10
+      ],
+      "crown": 7,
+      "version": 2615,
+      "uid": "uUWDZz3MBf2mvtP",
+      "runId": 1903565431
     }
   }
 }
