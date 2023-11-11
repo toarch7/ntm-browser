@@ -68,6 +68,47 @@
       "version": 2615,
       "uid": "1UD0O8sR5qsME02",
       "runId": 1903565431
+    },
+    "9F6Tr88N3O9RQQ3": {
+      "name": "blastlight",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 21,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        7,
+        25
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "9F6Tr88N3O9RQQ3",
+      "runId": 1903565431
+    },
+    "2c3jKMo1omwb13L": {
+      "name": "Rads",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "2c3jKMo1omwb13L",
+      "runId": 1903565431
     }
   }
 }
