@@ -380,6 +380,64 @@
       "version": 2615,
       "uid": "ZGo9SOrUZ4tpy3Q",
       "runId": 1903565431
+    },
+    "sbM0OGzH6EO85s8": {
+      "name": "InSaNe",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2615,
+      "uid": "sbM0OGzH6EO85s8",
+      "runId": 1903565431
+    },
+    "tze04L0Fr85J0T6": {
+      "name": "Pokr(tonch_unb)",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 13,
+      "bwep": 70,
+      "win": false,
+      "kills": 1387,
+      "ultra": 2,
+      "skills": [
+        7,
+        27,
+        17,
+        13,
+        3
+      ],
+      "crown": 7,
+      "version": 2615,
+      "uid": "tze04L0Fr85J0T6",
+      "runId": 1903565431
+    },
+    "Eeo4Q5GJvjYzE8U": {
+      "name": "Eeo4Q5GJvjYzE8U",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 18,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2615,
+      "uid": "Eeo4Q5GJvjYzE8U",
+      "runId": 1903565431
     }
   }
 }
