@@ -579,6 +579,57 @@
       "version": 2615,
       "uid": "dsN150V924Mwznz",
       "runId": 1903565431
+    },
+    "1fx35W4I06bkYH1": {
+      "name": "Rin",
+      "char": 4,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 113,
+      "win": false,
+      "kills": 373,
+      "ultra": 0,
+      "skills": [
+        13,
+        27,
+        14,
+        17,
+        10
+      ],
+      "crown": 11,
+      "version": 2615,
+      "uid": "1fx35W4I06bkYH1",
+      "runId": 1903565431
+    },
+    "aIMiaI2EkHVu6g0": {
+      "name": "Ms",
+      "char": 2,
+      "skin": true,
+      "area": 106,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 77,
+      "bwep": 113,
+      "win": false,
+      "kills": 985,
+      "ultra": 2,
+      "skills": [
+        7,
+        27,
+        2,
+        25,
+        14,
+        26,
+        10,
+        9
+      ],
+      "crown": 3,
+      "version": 2615,
+      "uid": "aIMiaI2EkHVu6g0",
+      "runId": 1903565431
     }
   }
 }
