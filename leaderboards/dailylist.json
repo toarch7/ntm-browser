@@ -130,6 +130,105 @@
       "version": 2614,
       "uid": "74ncp33N6n8pVBD",
       "runId": 1903565431
+    },
+    "tL21RN66ZCeXP53": {
+      "name": "LisArt10",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 30,
+      "win": false,
+      "kills": 198,
+      "ultra": 0,
+      "skills": [
+        7,
+        27,
+        17
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "tL21RN66ZCeXP53",
+      "runId": 1903565431
+    },
+    "Nml6Mnv18U1816G": {
+      "name": "Принтер",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 11,
+      "win": false,
+      "kills": 427,
+      "ultra": 2,
+      "skills": [
+        13,
+        27,
+        14,
+        17,
+        10,
+        9,
+        4,
+        23,
+        22
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "Nml6Mnv18U1816G",
+      "runId": 1903565431
+    },
+    "XErFcZwTSiYcHce": {
+      "name": "Reck",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 25,
+      "win": false,
+      "kills": 437,
+      "ultra": 0,
+      "skills": [
+        7,
+        27,
+        21,
+        2,
+        10,
+        19
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "XErFcZwTSiYcHce",
+      "runId": 1903565431
+    },
+    "2CVDI5028gLke2q": {
+      "name": "werewolf",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 53,
+      "win": false,
+      "kills": 254,
+      "ultra": 0,
+      "skills": [
+        13,
+        7,
+        27,
+        25,
+        3
+      ],
+      "crown": 11,
+      "version": 2615,
+      "uid": "2CVDI5028gLke2q",
+      "runId": 1903565431
     }
   }
 }
