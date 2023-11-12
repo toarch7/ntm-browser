@@ -369,6 +369,79 @@
       "version": 2615,
       "uid": "2A3WiOn4o4e5u3a",
       "runId": 1150240140
+    },
+    "XErFcZwTSiYcHce": {
+      "name": "Reck",
+      "char": 9,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 79,
+      "win": false,
+      "kills": 400,
+      "ultra": 0,
+      "skills": [
+        8,
+        13,
+        4,
+        23,
+        27,
+        9,
+        1
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "XErFcZwTSiYcHce",
+      "runId": 1150240140
+    },
+    "uUWDZz3MBf2mvtP": {
+      "name": "SKILL_ISSUE",
+      "char": 3,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 30,
+      "bwep": 55,
+      "win": false,
+      "kills": 447,
+      "ultra": 2,
+      "skills": [
+        8,
+        7,
+        23,
+        17,
+        21,
+        27,
+        12
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "uUWDZz3MBf2mvtP",
+      "runId": 1150240140
+    },
+    "hr3chy1VUrr4DNl": {
+      "name": "gusmano",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 7,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        8,
+        7
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "hr3chy1VUrr4DNl",
+      "runId": 1150240140
     }
   }
 }
