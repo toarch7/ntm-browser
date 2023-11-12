@@ -442,6 +442,53 @@
       "version": 2615,
       "uid": "hr3chy1VUrr4DNl",
       "runId": 1150240140
+    },
+    "MW6eS33m61v6fOg": {
+      "name": "EvilCat",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 76,
+      "win": false,
+      "kills": 236,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        17,
+        25,
+        13,
+        10
+      ],
+      "crown": 11,
+      "version": 2615,
+      "uid": "MW6eS33m61v6fOg",
+      "runId": 1150240140
+    },
+    "03BDu66Sa0LfMg9": {
+      "name": "Пидорок",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        7,
+        13,
+        4
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "03BDu66Sa0LfMg9",
+      "runId": 1150240140
     }
   }
 }
