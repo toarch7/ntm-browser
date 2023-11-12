@@ -1711,6 +1711,30 @@
       "version": 2614,
       "uid": "UXv7HTlU40dJt6R",
       "runId": 543531716
+    },
+    "uE35yaJg84UeirU": {
+      "name": "Slizne_grad",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 50,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        12,
+        27,
+        25,
+        1,
+        22
+      ],
+      "crown": 13,
+      "version": 2615,
+      "uid": "uE35yaJg84UeirU",
+      "runId": 543531716
     }
   }
 }
