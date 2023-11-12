@@ -243,6 +243,47 @@
       "version": 2612,
       "uid": "39Nm2aEQblfnxL8",
       "runId": 1150240140
+    },
+    "kX7oMs3AeM1g4x1": {
+      "name": "CreePex23",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2615,
+      "uid": "kX7oMs3AeM1g4x1",
+      "runId": 1150240140
+    },
+    "Nml6Mnv18U1816G": {
+      "name": "Принтер",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 53,
+      "win": false,
+      "kills": 318,
+      "ultra": 0,
+      "skills": [
+        8,
+        13,
+        23,
+        4,
+        27,
+        10
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "Nml6Mnv18U1816G",
+      "runId": 1150240140
     }
   }
 }
