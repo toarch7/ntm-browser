@@ -895,6 +895,48 @@
       "version": 2615,
       "uid": "mn6RrsNT3G19BA3",
       "runId": 1150240140
+    },
+    "Npj71R7BVPOg1aU": {
+      "name": "Shadow",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 17,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        8,
+        25,
+        22
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "Npj71R7BVPOg1aU",
+      "runId": 1150240140
+    },
+    "I440APy9u6W3gYR": {
+      "name": "JonathanM",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 6,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "I440APy9u6W3gYR",
+      "runId": 1150240140
     }
   }
 }
