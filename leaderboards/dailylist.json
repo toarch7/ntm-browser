@@ -129,6 +129,50 @@
       "version": 2615,
       "uid": "56il8stzopM44OR",
       "runId": 1150240140
+    },
+    "tze04L0Fr85J0T6": {
+      "name": "Poker(unban_pls",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        7,
+        13,
+        23
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "tze04L0Fr85J0T6",
+      "runId": 1150240140
+    },
+    "Ai1Jm4IHMnOUf01": {
+      "name": "q",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 16,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        7,
+        13,
+        4
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "Ai1Jm4IHMnOUf01",
+      "runId": 1150240140
     }
   }
 }
