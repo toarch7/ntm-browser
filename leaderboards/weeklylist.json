@@ -1760,6 +1760,29 @@
       "version": 2615,
       "uid": "G2wJx6885OYm4S9",
       "runId": 543531716
+    },
+    "Nml6Mnv18U1816G": {
+      "name": "Принтер",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 75,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        25,
+        23
+      ],
+      "crown": 13,
+      "version": 2615,
+      "uid": "Nml6Mnv18U1816G",
+      "runId": 543531716
     }
   }
 }
