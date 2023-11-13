@@ -1,4 +1,95 @@
 {
   "day": 13,
-  "entries": {}
+  "entries": {
+    "i2bVYIgVIW9X9y8": {
+      "name": "MrDrago",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 2,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        6
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "i2bVYIgVIW9X9y8",
+      "runId": 771214293
+    },
+    "9F6Tr88N3O9RQQ3": {
+      "name": "blastlight",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 112,
+      "win": false,
+      "kills": 271,
+      "ultra": 0,
+      "skills": [
+        1,
+        25,
+        22,
+        8,
+        19,
+        10
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "9F6Tr88N3O9RQQ3",
+      "runId": 771214293
+    },
+    "56il8stzopM44OR": {
+      "name": "bajnmen",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 35,
+      "win": false,
+      "kills": 797,
+      "ultra": 1,
+      "skills": [
+        1,
+        7,
+        27,
+        13,
+        25,
+        22,
+        8,
+        21
+      ],
+      "crown": 7,
+      "version": 2615,
+      "uid": "56il8stzopM44OR",
+      "runId": 771214293
+    },
+    "1fx35W4I06bkYH1": {
+      "name": "Rin",
+      "char": 14,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 60,
+      "bwep": 13,
+      "win": false,
+      "kills": 324,
+      "crown": 8,
+      "version": 2615,
+      "uid": "1fx35W4I06bkYH1",
+      "runId": 771214293
+    }
+  }
 }
