@@ -1277,20 +1277,21 @@
       "name": "Atumalaca",
       "char": 1,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 112,
+      "wep": 55,
       "bwep": 23,
       "win": false,
-      "kills": 139,
+      "kills": 152,
       "ultra": 0,
       "skills": [
         10,
         9,
         25,
         27,
-        22
+        22,
+        4
       ],
       "crown": 13,
       "version": 2615,
@@ -1835,6 +1836,28 @@
       "crown": 13,
       "version": 2615,
       "uid": "v9d5oanQhhNgE1o",
+      "runId": 543531716
+    },
+    "L6pb68s1gq0rB4N": {
+      "name": "wdwasdsa",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 75,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        12,
+        7,
+        19
+      ],
+      "crown": 13,
+      "version": 2615,
+      "uid": "L6pb68s1gq0rB4N",
       "runId": 543531716
     }
   }

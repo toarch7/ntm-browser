@@ -642,6 +642,70 @@
       "version": 2615,
       "uid": "uUWDZz3MBf2mvtP",
       "runId": 771214293
+    },
+    "9A9DZ2WB5YlOwmB": {
+      "name": "RavenD",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 19,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "9A9DZ2WB5YlOwmB",
+      "runId": 771214293
+    },
+    "BcR2sv9IZQs5QF6": {
+      "name": "Sombdyusetoknw",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 10,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        8,
+        6
+      ],
+      "crown": 4,
+      "version": 2615,
+      "uid": "BcR2sv9IZQs5QF6",
+      "runId": 771214293
+    },
+    "lG873979OwArZBc": {
+      "name": "majesticliver",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 19,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2611,
+      "uid": "lG873979OwArZBc",
+      "runId": 771214293
     }
   }
 }
