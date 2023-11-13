@@ -439,6 +439,51 @@
       "version": 2615,
       "uid": "78ZI9vS61e2OJ70",
       "runId": 771214293
+    },
+    "9E1AM9MDV2wCKV9": {
+      "name": "SvinMaxim",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 124,
+      "win": false,
+      "kills": 257,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        27,
+        6,
+        14
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "9E1AM9MDV2wCKV9",
+      "runId": 771214293
+    },
+    "5DZ77K80hrBkfkT": {
+      "name": "Chocolatenjoyer",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 1,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "5DZ77K80hrBkfkT",
+      "runId": 771214293
     }
   }
 }
