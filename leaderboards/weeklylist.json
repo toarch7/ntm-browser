@@ -1887,25 +1887,48 @@
       "name": "SKILL_ISSUE",
       "char": 1,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 11,
-      "bwep": 9,
+      "wep": 22,
+      "bwep": 64,
       "win": false,
-      "kills": 287,
+      "kills": 394,
       "ultra": 0,
       "skills": [
-        16,
-        27,
-        19,
         10,
+        27,
+        25,
+        1,
         4,
-        3
+        3,
+        16
       ],
       "crown": 13,
       "version": 2615,
       "uid": "uUWDZz3MBf2mvtP",
+      "runId": 543531716
+    },
+    "78ZI9vS61e2OJ70": {
+      "name": "Hiajen",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 55,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        16,
+        7,
+        17
+      ],
+      "crown": 13,
+      "version": 2615,
+      "uid": "78ZI9vS61e2OJ70",
       "runId": 543531716
     }
   }
