@@ -1859,6 +1859,53 @@
       "version": 2615,
       "uid": "L6pb68s1gq0rB4N",
       "runId": 543531716
+    },
+    "lG873979OwArZBc": {
+      "name": "majesticliver",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 55,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        16,
+        9,
+        17
+      ],
+      "crown": 13,
+      "version": 2611,
+      "uid": "lG873979OwArZBc",
+      "runId": 543531716
+    },
+    "uUWDZz3MBf2mvtP": {
+      "name": "SKILL_ISSUE",
+      "char": 1,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 7,
+      "win": false,
+      "kills": 171,
+      "ultra": 0,
+      "skills": [
+        16,
+        27,
+        25,
+        23,
+        10,
+        4
+      ],
+      "crown": 13,
+      "version": 2615,
+      "uid": "uUWDZz3MBf2mvtP",
+      "runId": 543531716
     }
   }
 }
