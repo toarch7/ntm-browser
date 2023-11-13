@@ -183,6 +183,79 @@
       "version": 2615,
       "uid": "tL21RN66ZCeXP53",
       "runId": 771214293
+    },
+    "dbbwy46exhb8N73": {
+      "name": "Nazkom",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "dbbwy46exhb8N73",
+      "runId": 771214293
+    },
+    "2CVDI5028gLke2q": {
+      "name": "неономизация",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 13,
+      "bwep": 35,
+      "win": false,
+      "kills": 1070,
+      "ultra": 1,
+      "skills": [
+        1,
+        7,
+        23,
+        13,
+        25,
+        27,
+        22,
+        10,
+        14
+      ],
+      "crown": 7,
+      "version": 2615,
+      "uid": "2CVDI5028gLke2q",
+      "runId": 771214293
+    },
+    "wo6r8ls85697zDz": {
+      "name": "Throneseeker41",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 66,
+      "win": false,
+      "kills": 251,
+      "ultra": 0,
+      "skills": [
+        8,
+        7,
+        23,
+        24,
+        21,
+        9
+      ],
+      "crown": 8,
+      "version": 2615,
+      "uid": "wo6r8ls85697zDz",
+      "runId": 771214293
     }
   }
 }
