@@ -1,4 +1,31 @@
 {
   "day": 14,
-  "entries": {}
+  "entries": {
+    "56il8stzopM44OR": {
+      "name": "bajnmen",
+      "char": 9,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 95,
+      "bwep": 111,
+      "win": false,
+      "kills": 2241,
+      "ultra": 2,
+      "skills": [
+        22,
+        1,
+        7,
+        23,
+        27,
+        17,
+        14
+      ],
+      "crown": 7,
+      "version": 2615,
+      "uid": "56il8stzopM44OR",
+      "runId": 1807452056
+    }
+  }
 }

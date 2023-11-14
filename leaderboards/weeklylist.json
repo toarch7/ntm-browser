@@ -1,4 +1,28 @@
 {
   "seed": 965476316,
-  "entries": {}
+  "entries": {
+    "56il8stzopM44OR": {
+      "name": "bajnmen",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 124,
+      "win": false,
+      "kills": 219,
+      "ultra": 0,
+      "skills": [
+        17,
+        3,
+        23,
+        27
+      ],
+      "crown": 9,
+      "version": 2615,
+      "uid": "56il8stzopM44OR",
+      "runId": 965476316
+    }
+  }
 }
