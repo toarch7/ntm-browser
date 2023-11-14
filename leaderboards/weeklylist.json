@@ -346,6 +346,46 @@
       "version": 2615,
       "uid": "wo6r8ls85697zDz",
       "runId": 965476316
+    },
+    "1MQ0ub52hP714po": {
+      "name": "CapSatSuckBlood",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 61,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 9,
+      "version": 2614,
+      "uid": "1MQ0ub52hP714po",
+      "runId": 965476316
+    },
+    "iq87LX2109Ow18E": {
+      "name": "sadra",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 1,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 9,
+      "version": 2614,
+      "uid": "iq87LX2109Ow18E",
+      "runId": 965476316
     }
   }
 }
