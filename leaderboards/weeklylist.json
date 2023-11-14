@@ -259,6 +259,50 @@
       "version": 2615,
       "uid": "2SNS2ykdDrz4106",
       "runId": 965476316
+    },
+    "Npj71R7BVPOg1aU": {
+      "name": "Shadow",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 1,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        9,
+        14
+      ],
+      "crown": 9,
+      "version": 2615,
+      "uid": "Npj71R7BVPOg1aU",
+      "runId": 965476316
+    },
+    "hr3chy1VUrr4DNl": {
+      "name": "gusmano",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 38,
+      "win": false,
+      "kills": 212,
+      "ultra": 0,
+      "skills": [
+        9,
+        12,
+        23,
+        27
+      ],
+      "crown": 9,
+      "version": 2615,
+      "uid": "hr3chy1VUrr4DNl",
+      "runId": 965476316
     }
   }
 }
