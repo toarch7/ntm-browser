@@ -214,6 +214,79 @@
       "version": 2615,
       "uid": "uE35yaJg84UeirU",
       "runId": 1807452056
+    },
+    "9F6Tr88N3O9RQQ3": {
+      "name": "blastlight",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 88,
+      "win": false,
+      "kills": 411,
+      "ultra": 0,
+      "skills": [
+        19,
+        8,
+        10,
+        1,
+        2,
+        4,
+        14
+      ],
+      "crown": 10,
+      "version": 2615,
+      "uid": "9F6Tr88N3O9RQQ3",
+      "runId": 1807452056
+    },
+    "2CVDI5028gLke2q": {
+      "name": "неономизация",
+      "char": 2,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 25,
+      "win": false,
+      "kills": 377,
+      "ultra": 0,
+      "skills": [
+        22,
+        9,
+        10,
+        23,
+        27,
+        3
+      ],
+      "crown": 11,
+      "version": 2615,
+      "uid": "2CVDI5028gLke2q",
+      "runId": 1807452056
+    },
+    "hr3chy1VUrr4DNl": {
+      "name": "gusmano",
+      "char": 12,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 66,
+      "win": false,
+      "kills": 121,
+      "ultra": 0,
+      "skills": [
+        22,
+        8,
+        7
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "hr3chy1VUrr4DNl",
+      "runId": 1807452056
     }
   }
 }
