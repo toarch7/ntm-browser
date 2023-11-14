@@ -451,6 +451,69 @@
       "version": 2615,
       "uid": "iJlsU7EH6i4lwx3",
       "runId": 965476316
+    },
+    "bvS8dk2N422Lo4Y": {
+      "name": "Seeker71",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 1,
+      "win": false,
+      "kills": 166,
+      "ultra": 0,
+      "skills": [
+        12,
+        19
+      ],
+      "crown": 9,
+      "version": 2615,
+      "uid": "bvS8dk2N422Lo4Y",
+      "runId": 965476316
+    },
+    "78ZI9vS61e2OJ70": {
+      "name": "Hiajen",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 61,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        12,
+        3
+      ],
+      "crown": 9,
+      "version": 2615,
+      "uid": "78ZI9vS61e2OJ70",
+      "runId": 965476316
+    },
+    "ncZ8Dq8c9xTU4MS": {
+      "name": "Chromosome",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 1,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        9,
+        12
+      ],
+      "crown": 9,
+      "version": 2615,
+      "uid": "ncZ8Dq8c9xTU4MS",
+      "runId": 965476316
     }
   }
 }
