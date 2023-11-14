@@ -630,6 +630,49 @@
       "version": 2615,
       "uid": "cSg5kvx57H3HJxQ",
       "runId": 1807452056
+    },
+    "5OxYAbS334PjsaV": {
+      "name": "mamastrosado",
+      "char": 9,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 71,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        22,
+        1,
+        8,
+        14
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "5OxYAbS334PjsaV",
+      "runId": 1807452056
+    },
+    "1fx35W4I06bkYH1": {
+      "name": "Rin",
+      "char": 11,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 5,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "1fx35W4I06bkYH1",
+      "runId": 1807452056
     }
   }
 }
