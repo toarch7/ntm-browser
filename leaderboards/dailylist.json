@@ -524,6 +524,42 @@
       "version": 2615,
       "uid": "78ZI9vS61e2OJ70",
       "runId": 1807452056
+    },
+    "tA760M3WggNYLB9": {
+      "name": "Seekла",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2615,
+      "uid": "tA760M3WggNYLB9",
+      "runId": 1807452056
+    },
+    "j5oSPp6VuxdQu8Z": {
+      "name": "Gabo",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 81,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "j5oSPp6VuxdQu8Z",
+      "runId": 1807452056
     }
   }
 }
