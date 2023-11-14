@@ -462,6 +462,28 @@
       "version": 2614,
       "uid": "1MQ0ub52hP714po",
       "runId": 1807452056
+    },
+    "lb11EL7ZTR5267E": {
+      "name": "RaptoR",
+      "char": 1,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 27,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        17,
+        10,
+        7
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "lb11EL7ZTR5267E",
+      "runId": 1807452056
     }
   }
 }
