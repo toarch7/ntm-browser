@@ -154,6 +154,70 @@
       "version": 2615,
       "uid": "yO0E6I8f3gDh639",
       "runId": 965476316
+    },
+    "74ncp33N6n8pVBD": {
+      "name": "ravine",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 61,
+      "win": false,
+      "kills": 175,
+      "ultra": 0,
+      "skills": [
+        24,
+        22,
+        6
+      ],
+      "crown": 9,
+      "version": 2614,
+      "uid": "74ncp33N6n8pVBD",
+      "runId": 965476316
+    },
+    "f6b778gF336Yq9A": {
+      "name": "asan",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 1,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 9,
+      "version": 2614,
+      "uid": "f6b778gF336Yq9A",
+      "runId": 965476316
+    },
+    "X6g9rfX2v1xI9LP": {
+      "name": "Скелетик",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 61,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        9,
+        3,
+        19
+      ],
+      "crown": 9,
+      "version": 2615,
+      "uid": "X6g9rfX2v1xI9LP",
+      "runId": 965476316
     }
   }
 }
