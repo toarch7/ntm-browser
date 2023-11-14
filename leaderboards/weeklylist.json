@@ -265,16 +265,17 @@
       "char": 7,
       "skin": true,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
       "wep": 61,
       "bwep": 1,
       "win": false,
-      "kills": 129,
+      "kills": 168,
       "ultra": 0,
       "skills": [
-        9,
-        14
+        12,
+        14,
+        6
       ],
       "crown": 9,
       "version": 2615,
@@ -302,6 +303,48 @@
       "crown": 9,
       "version": 2615,
       "uid": "hr3chy1VUrr4DNl",
+      "runId": 965476316
+    },
+    "cho287OM9o41wSI": {
+      "name": "сикер",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 61,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        24,
+        16
+      ],
+      "crown": 9,
+      "version": 2615,
+      "uid": "cho287OM9o41wSI",
+      "runId": 965476316
+    },
+    "wo6r8ls85697zDz": {
+      "name": "Throneseeker41",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 1,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        12,
+        6
+      ],
+      "crown": 9,
+      "version": 2615,
+      "uid": "wo6r8ls85697zDz",
       "runId": 965476316
     }
   }
