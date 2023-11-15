@@ -779,6 +779,47 @@
       "version": 2615,
       "uid": "LamCwBiHrU1XU0I",
       "runId": 965476316
+    },
+    "35px7517TSggANK": {
+      "name": "BrMan",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 1,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        9,
+        16
+      ],
+      "crown": 9,
+      "version": 2615,
+      "uid": "35px7517TSggANK",
+      "runId": 965476316
+    },
+    "N01SuSFs8XGYyC0": {
+      "name": "Jexer",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 1,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 9,
+      "version": 2614,
+      "uid": "N01SuSFs8XGYyC0",
+      "runId": 965476316
     }
   }
 }
