@@ -1,4 +1,89 @@
 {
   "day": 15,
-  "entries": {}
+  "entries": {
+    "j5oSPp6VuxdQu8Z": {
+      "name": "Gabo",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 175,
+      "ultra": 0,
+      "skills": [
+        8,
+        12,
+        14,
+        4,
+        10
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "j5oSPp6VuxdQu8Z",
+      "runId": 1132325015
+    },
+    "k1LrW0UT7WqGtuU": {
+      "name": "ERTINE",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 34,
+      "win": false,
+      "kills": 225,
+      "ultra": 0,
+      "skills": [
+        8,
+        16,
+        4,
+        9,
+        25
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "k1LrW0UT7WqGtuU",
+      "runId": 1132325015
+    },
+    "MZ0i6aKM97wfT41": {
+      "name": "kazuma",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 3,
+      "win": false,
+      "kills": 27,
+      "crown": 1,
+      "version": 2615,
+      "uid": "MZ0i6aKM97wfT41",
+      "runId": 1132325015
+    },
+    "5OxYAbS334PjsaV": {
+      "name": "mamastrosado",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "5OxYAbS334PjsaV",
+      "runId": 1132325015
+    }
+  }
 }
