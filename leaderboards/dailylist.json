@@ -450,6 +450,50 @@
       "version": 2615,
       "uid": "1fx35W4I06bkYH1",
       "runId": 100075362
+    },
+    "74ncp33N6n8pVBD": {
+      "name": "ravine",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        3,
+        19
+      ],
+      "crown": 1,
+      "version": 2614,
+      "uid": "74ncp33N6n8pVBD",
+      "runId": 100075362
+    },
+    "JtKT8Toy5837DU0": {
+      "name": "ikar_gold",
+      "char": 6,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 27,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        3,
+        27,
+        7,
+        21
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "JtKT8Toy5837DU0",
+      "runId": 100075362
     }
   }
 }
