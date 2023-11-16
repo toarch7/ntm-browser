@@ -1,4 +1,48 @@
 {
   "day": 16,
-  "entries": {}
+  "entries": {
+    "I440APy9u6W3gYR": {
+      "name": "JonathanM",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 43,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        3,
+        27,
+        7
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "I440APy9u6W3gYR",
+      "runId": 100075362
+    },
+    "XErFcZwTSiYcHce": {
+      "name": "Reck",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 21,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        3,
+        19
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "XErFcZwTSiYcHce",
+      "runId": 100075362
+    }
+  }
 }
