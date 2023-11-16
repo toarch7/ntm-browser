@@ -701,6 +701,61 @@
       "version": 2615,
       "uid": "a6s8DyTSa5J5X9L",
       "runId": 100075362
+    },
+    "uE35yaJg84UeirU": {
+      "name": "Slizne_grad",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 20,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2615,
+      "uid": "uE35yaJg84UeirU",
+      "runId": 100075362
+    },
+    "Npj71R7BVPOg1aU": {
+      "name": "Shadow",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 46,
+      "win": false,
+      "kills": 15,
+      "crown": 1,
+      "version": 2615,
+      "uid": "Npj71R7BVPOg1aU",
+      "runId": 100075362
+    },
+    "78ZI9vS61e2OJ70": {
+      "name": "Hiajen",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 20,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        3,
+        6
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "78ZI9vS61e2OJ70",
+      "runId": 100075362
     }
   }
 }
