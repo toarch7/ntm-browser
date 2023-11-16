@@ -244,6 +244,73 @@
       "version": 2615,
       "uid": "cho287OM9o41wSI",
       "runId": 100075362
+    },
+    "2CVDI5028gLke2q": {
+      "name": "неономизация",
+      "char": 2,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 78,
+      "win": false,
+      "kills": 217,
+      "ultra": 0,
+      "skills": [
+        3,
+        27,
+        7,
+        1
+      ],
+      "crown": 11,
+      "version": 2615,
+      "uid": "2CVDI5028gLke2q",
+      "runId": 100075362
+    },
+    "56Y7eF5whNtU46F": {
+      "name": "отец_узбеков",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 3,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2615,
+      "uid": "56Y7eF5whNtU46F",
+      "runId": 100075362
+    },
+    "Nml6Mnv18U1816G": {
+      "name": "Принтер",
+      "char": 4,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 95,
+      "win": false,
+      "kills": 1341,
+      "ultra": 1,
+      "skills": [
+        27,
+        7,
+        10,
+        1,
+        13,
+        23,
+        17
+      ],
+      "crown": 7,
+      "version": 2615,
+      "uid": "Nml6Mnv18U1816G",
+      "runId": 100075362
     }
   }
 }
