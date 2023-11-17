@@ -507,6 +507,27 @@
       "version": 2615,
       "uid": "E216sBBnrKjGL8h",
       "runId": 429138579
+    },
+    "Bul0OOlfGiW02oV": {
+      "name": "Seeker288.45",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 1,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        1,
+        10
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "Bul0OOlfGiW02oV",
+      "runId": 429138579
     }
   }
 }
