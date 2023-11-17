@@ -1034,6 +1034,72 @@
       "version": 2615,
       "uid": "dfpagl6DR3Nw24J",
       "runId": 965476316
+    },
+    "Z939A8Xn8TUuYbY": {
+      "name": "Breaken",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 61,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        9,
+        16,
+        3
+      ],
+      "crown": 9,
+      "version": 2612,
+      "uid": "Z939A8Xn8TUuYbY",
+      "runId": 965476316
+    },
+    "p2A0NJopTX3UUJ6": {
+      "name": "J190q",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 61,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        9,
+        22
+      ],
+      "crown": 9,
+      "version": 2615,
+      "uid": "p2A0NJopTX3UUJ6",
+      "runId": 965476316
+    },
+    "MZ0i6aKM97wfT41": {
+      "name": "kazuma",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 1,
+      "win": false,
+      "kills": 169,
+      "ultra": 0,
+      "skills": [
+        9,
+        12,
+        14,
+        6
+      ],
+      "crown": 9,
+      "version": 2615,
+      "uid": "MZ0i6aKM97wfT41",
+      "runId": 965476316
     }
   }
 }
