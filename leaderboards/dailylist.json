@@ -238,6 +238,137 @@
       "version": 2615,
       "uid": "XWMy9MvLIto1V4h",
       "runId": 429138579
+    },
+    "tL21RN66ZCeXP53": {
+      "name": "LisArt10",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 105,
+      "bwep": 55,
+      "win": false,
+      "kills": 689,
+      "ultra": 1,
+      "skills": [
+        27,
+        10,
+        7,
+        14,
+        1,
+        17,
+        4
+      ],
+      "crown": 7,
+      "version": 2615,
+      "uid": "tL21RN66ZCeXP53",
+      "runId": 429138579
+    },
+    "hr3chy1VUrr4DNl": {
+      "name": "gusmano",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 1,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "hr3chy1VUrr4DNl",
+      "runId": 429138579
+    },
+    "a6s8DyTSa5J5X9L": {
+      "name": "lpshkaaaaaa",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 39,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "a6s8DyTSa5J5X9L",
+      "runId": 429138579
+    },
+    "JtKT8Toy5837DU0": {
+      "name": "ikar_gold",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 97,
+      "bwep": 89,
+      "win": false,
+      "kills": 457,
+      "ultra": 1,
+      "skills": [
+        27,
+        6,
+        7,
+        3,
+        1,
+        25,
+        13
+      ],
+      "crown": 11,
+      "version": 2615,
+      "uid": "JtKT8Toy5837DU0",
+      "runId": 429138579
+    },
+    "X6g9rfX2v1xI9LP": {
+      "name": "Capybara",
+      "char": 6,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 76,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        27,
+        19,
+        7,
+        3
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "X6g9rfX2v1xI9LP",
+      "runId": 429138579
+    },
+    "bh4bRsnVP61HqWo": {
+      "name": "baseline2",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 39,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2615,
+      "uid": "bh4bRsnVP61HqWo",
+      "runId": 429138579
     }
   }
 }
