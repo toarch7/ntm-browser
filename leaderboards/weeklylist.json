@@ -1039,18 +1039,19 @@
       "name": "Breaken",
       "char": 7,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 5,
+      "subarea": 1,
       "loops": 0,
-      "wep": 1,
-      "bwep": 61,
+      "wep": 20,
+      "bwep": 7,
       "win": false,
-      "kills": 123,
+      "kills": 215,
       "ultra": 0,
       "skills": [
         9,
         16,
-        3
+        3,
+        6
       ],
       "crown": 9,
       "version": 2612,
@@ -1099,6 +1100,27 @@
       "crown": 9,
       "version": 2615,
       "uid": "MZ0i6aKM97wfT41",
+      "runId": 965476316
+    },
+    "5OxYAbS334PjsaV": {
+      "name": "mamastrofico",
+      "char": 7,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 1,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        12,
+        14
+      ],
+      "crown": 9,
+      "version": 2615,
+      "uid": "5OxYAbS334PjsaV",
       "runId": 965476316
     }
   }
