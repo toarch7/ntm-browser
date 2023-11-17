@@ -610,6 +610,49 @@
       "version": 2615,
       "uid": "MZ0i6aKM97wfT41",
       "runId": 429138579
+    },
+    "jn5U3Bw0vktI5k6": {
+      "name": "Method",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": 2615,
+      "uid": "jn5U3Bw0vktI5k6",
+      "runId": 429138579
+    },
+    "1fx35W4I06bkYH1": {
+      "name": "Rin",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 36,
+      "win": false,
+      "kills": 281,
+      "ultra": 0,
+      "skills": [
+        27,
+        12,
+        21,
+        3,
+        17,
+        25,
+        14,
+        4
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "1fx35W4I06bkYH1",
+      "runId": 429138579
     }
   }
 }
