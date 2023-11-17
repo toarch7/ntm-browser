@@ -1122,6 +1122,46 @@
       "version": 2615,
       "uid": "5OxYAbS334PjsaV",
       "runId": 965476316
+    },
+    "1VyLY501l0pz5hj": {
+      "name": "jentai",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 61,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 9,
+      "version": 2615,
+      "uid": "1VyLY501l0pz5hj",
+      "runId": 965476316
+    },
+    "XWMy9MvLIto1V4h": {
+      "name": "Lancer",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 1,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 9,
+      "version": 2615,
+      "uid": "XWMy9MvLIto1V4h",
+      "runId": 965476316
     }
   }
 }
