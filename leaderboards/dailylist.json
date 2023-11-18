@@ -662,6 +662,31 @@
       "version": 2616,
       "uid": "Z6hO1a10I2abuJ9",
       "runId": 430435014
+    },
+    "h8sHiX34isDPi5l": {
+      "name": "SKILL_ISSUE",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 66,
+      "win": false,
+      "kills": 241,
+      "ultra": 0,
+      "skills": [
+        27,
+        21,
+        23,
+        4,
+        19,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h8sHiX34isDPi5l",
+      "runId": 430435014
     }
   }
 }
