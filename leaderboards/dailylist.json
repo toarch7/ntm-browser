@@ -616,6 +616,52 @@
       "version": 2616,
       "uid": "MGzXFhbIy8MI2qO",
       "runId": 430435014
+    },
+    "94XE1O4y12I8NfM": {
+      "name": "SvinMaxim",
+      "char": 11,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 25,
+      "win": false,
+      "kills": 521,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        21,
+        17,
+        14,
+        9
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "94XE1O4y12I8NfM",
+      "runId": 430435014
+    },
+    "Z6hO1a10I2abuJ9": {
+      "name": "kawasaki",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 21,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        27,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Z6hO1a10I2abuJ9",
+      "runId": 430435014
     }
   }
 }
