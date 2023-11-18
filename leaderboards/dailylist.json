@@ -570,6 +570,27 @@
       "version": 2615,
       "uid": "1fx35W4I06bkYH1",
       "runId": 430435014
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        16,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 430435014
     }
   }
 }
