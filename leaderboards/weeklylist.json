@@ -1308,20 +1308,45 @@
       "name": "EvilCat",
       "char": 7,
       "skin": true,
-      "area": 3,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 61,
-      "bwep": 5,
+      "wep": 55,
+      "bwep": 61,
       "win": false,
-      "kills": 81,
+      "kills": 335,
       "ultra": 0,
       "skills": [
-        25
+        25,
+        4,
+        3,
+        1,
+        10
       ],
       "crown": 9,
       "version": 2616,
       "uid": "MW6eS33m61v6fOg",
+      "runId": 965476316
+    },
+    "79DXbcF9bFg9Vrd": {
+      "name": "sp8der",
+      "char": 7,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 124,
+      "win": false,
+      "kills": 194,
+      "ultra": 0,
+      "skills": [
+        9,
+        6
+      ],
+      "crown": 9,
+      "version": 2615,
+      "uid": "79DXbcF9bFg9Vrd",
       "runId": 965476316
     }
   }
