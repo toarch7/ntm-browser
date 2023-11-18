@@ -177,6 +177,52 @@
       "version": 2615,
       "uid": "v9d5oanQhhNgE1o",
       "runId": 430435014
+    },
+    "2CVDI5028gLke2q": {
+      "name": "неономизация",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 74,
+      "win": false,
+      "kills": 293,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        22,
+        27,
+        8,
+        21
+      ],
+      "crown": 11,
+      "version": 2615,
+      "uid": "2CVDI5028gLke2q",
+      "runId": 430435014
+    },
+    "0H3g4ypMKO79zw3": {
+      "name": "guaxinito",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 27,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        16,
+        12
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "0H3g4ypMKO79zw3",
+      "runId": 430435014
     }
   }
 }
