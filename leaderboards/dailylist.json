@@ -64,6 +64,74 @@
       "version": 2615,
       "uid": "O3xpRVfhA2wp8dw",
       "runId": 430435014
+    },
+    "9F6Tr88N3O9RQQ3": {
+      "name": "blastlight",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 21,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "9F6Tr88N3O9RQQ3",
+      "runId": 430435014
+    },
+    "w9QX6Xo4l0hhZRV": {
+      "name": "Ketchup",
+      "char": 1,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2612,
+      "uid": "w9QX6Xo4l0hhZRV",
+      "runId": 430435014
+    },
+    "5LDyH0gC9bpH4h5": {
+      "name": "bajnmen",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 63,
+      "bwep": 97,
+      "win": false,
+      "kills": 1641,
+      "ultra": 1,
+      "skills": [
+        27,
+        21,
+        23,
+        4,
+        25,
+        17,
+        3,
+        6,
+        8
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "5LDyH0gC9bpH4h5",
+      "runId": 430435014
     }
   }
 }
