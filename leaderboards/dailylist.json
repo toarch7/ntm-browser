@@ -1,4 +1,69 @@
 {
   "day": 18,
-  "entries": {}
+  "entries": {
+    "dBCw7TTiMUQR394": {
+      "name": "Uxie",
+      "char": 2,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 27,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        23,
+        19,
+        25,
+        22
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "dBCw7TTiMUQR394",
+      "runId": 430435014
+    },
+    "WV3lC4q6z4r56YX": {
+      "name": "Smx",
+      "char": 10,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        9,
+        27
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "WV3lC4q6z4r56YX",
+      "runId": 430435014
+    },
+    "O3xpRVfhA2wp8dw": {
+      "name": "Myamsar2",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 27,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2615,
+      "uid": "O3xpRVfhA2wp8dw",
+      "runId": 430435014
+    }
+  }
 }
