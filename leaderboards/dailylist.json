@@ -166,6 +166,91 @@
       "version": 2616,
       "uid": "x6Uslf98H97W04S",
       "runId": 2139733291
+    },
+    "ns3v0y2tRLj06Vr": {
+      "name": "Ms",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 75,
+      "bwep": 63,
+      "win": false,
+      "kills": 531,
+      "ultra": 2,
+      "skills": [
+        3,
+        21,
+        14,
+        1,
+        4,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ns3v0y2tRLj06Vr",
+      "runId": 2139733291
+    },
+    "40z5Xi3T0O441Zq": {
+      "name": "BroomHoster",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 46,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "40z5Xi3T0O441Zq",
+      "runId": 2139733291
+    },
+    "R936t1iSzYZX1Hk": {
+      "name": "Принтер",
+      "char": 12,
+      "skin": true,
+      "area": 105,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 34,
+      "win": false,
+      "kills": 257,
+      "ultra": 0,
+      "skills": [
+        23,
+        13,
+        10,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "R936t1iSzYZX1Hk",
+      "runId": 2139733291
+    },
+    "MGzXFhbIy8MI2qO": {
+      "name": "ikar_gold",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 6,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        3,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MGzXFhbIy8MI2qO",
+      "runId": 2139733291
     }
   }
 }
