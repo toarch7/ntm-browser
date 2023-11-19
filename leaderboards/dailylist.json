@@ -313,6 +313,69 @@
       "version": 2616,
       "uid": "CM50Yrp2nbR68JK",
       "runId": 2139733291
+    },
+    "94XE1O4y12I8NfM": {
+      "name": "SvinMaxim",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 116,
+      "win": false,
+      "kills": 230,
+      "ultra": 0,
+      "skills": [
+        17,
+        23,
+        14,
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "94XE1O4y12I8NfM",
+      "runId": 2139733291
+    },
+    "uXF63D38Iz9kF5C": {
+      "name": "CLPotatoMan",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "uXF63D38Iz9kF5C",
+      "runId": 2139733291
+    },
+    "MW6eS33m61v6fOg": {
+      "name": "EvilCat",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 116,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        3,
+        23,
+        14,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MW6eS33m61v6fOg",
+      "runId": 2139733291
     }
   }
 }

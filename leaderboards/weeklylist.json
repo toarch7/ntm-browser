@@ -1538,6 +1538,46 @@
       "version": 2616,
       "uid": "40z5Xi3T0O441Zq",
       "runId": 965476316
+    },
+    "93DLDFJlDR8bL3O": {
+      "name": "Banana",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 61,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "93DLDFJlDR8bL3O",
+      "runId": 965476316
+    },
+    "5yFCx2VWA422eAf": {
+      "name": "mamastrofico",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 61,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "5yFCx2VWA422eAf",
+      "runId": 965476316
     }
   }
 }
