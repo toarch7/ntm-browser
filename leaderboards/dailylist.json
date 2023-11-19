@@ -1,4 +1,41 @@
 {
   "day": 19,
-  "entries": {}
+  "entries": {
+    "Z6hO1a10I2abuJ9": {
+      "name": "kawasaki",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 6,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Z6hO1a10I2abuJ9",
+      "runId": 2139733291
+    },
+    "dQ6T9Ro21DV6s9Q": {
+      "name": "Darien",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "dQ6T9Ro21DV6s9Q",
+      "runId": 2139733291
+    }
+  }
 }
