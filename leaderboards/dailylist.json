@@ -506,6 +506,47 @@
       "version": 2616,
       "uid": "Rd683Ob4BIeO60v",
       "runId": 2139733291
+    },
+    "W68sW4lY78dczdw": {
+      "name": "pupochek",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 19,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W68sW4lY78dczdw",
+      "runId": 2139733291
+    },
+    "I8T21n8eWgXFtjL": {
+      "name": "elxir",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 4,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        3,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "I8T21n8eWgXFtjL",
+      "runId": 2139733291
     }
   }
 }
