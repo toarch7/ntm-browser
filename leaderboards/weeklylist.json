@@ -1394,17 +1394,20 @@
       "name": "TheMagicDragon",
       "char": 7,
       "skin": true,
-      "area": 3,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
       "wep": 61,
-      "bwep": 4,
+      "bwep": 69,
       "win": false,
-      "kills": 100,
+      "kills": 156,
       "ultra": 0,
       "skills": [
-        22,
-        2
+        19,
+        2,
+        25,
+        4,
+        12
       ],
       "crown": 9,
       "version": 2616,
@@ -1445,6 +1448,27 @@
       "crown": 9,
       "version": 2616,
       "uid": "NoW5674V7hClR08",
+      "runId": 965476316
+    },
+    "C86Y8W7rUhvI9Nr": {
+      "name": "virusxdtopro",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 61,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        22,
+        24
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "C86Y8W7rUhvI9Nr",
       "runId": 965476316
     }
   }
