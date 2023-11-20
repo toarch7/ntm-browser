@@ -355,6 +355,59 @@
       "version": 2616,
       "uid": "4CtZ2e5I0Z99IqO",
       "runId": 994347895
+    },
+    "oe0tJOOaYb9gNdq": {
+      "name": "ice_nine",
+      "char": 7,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 17,
+      "win": false,
+      "kills": 341,
+      "ultra": 0,
+      "skills": [
+        9,
+        27,
+        1,
+        16,
+        10,
+        26,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oe0tJOOaYb9gNdq",
+      "runId": 994347895
+    },
+    "2gc1fF0klt0YrI4": {
+      "name": "неономизация",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 51,
+      "bwep": 92,
+      "win": false,
+      "kills": 1149,
+      "ultra": 1,
+      "skills": [
+        27,
+        1,
+        8,
+        7,
+        25,
+        13,
+        14,
+        28
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "2gc1fF0klt0YrI4",
+      "runId": 994347895
     }
   }
 }

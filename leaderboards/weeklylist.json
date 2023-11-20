@@ -1797,6 +1797,44 @@
       "version": 2616,
       "uid": "jOj98LKx540NkkY",
       "runId": 965476316
+    },
+    "E880bax9wvoE28n": {
+      "name": "Seeker288.45",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 21,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [],
+      "crown": 9,
+      "version": 2616,
+      "uid": "E880bax9wvoE28n",
+      "runId": 965476316
+    },
+    "5scKT209siY575I": {
+      "name": "Darko",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 5,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "5scKT209siY575I",
+      "runId": 965476316
     }
   }
 }
