@@ -162,6 +162,67 @@
       "version": 2616,
       "uid": "A60o53LhAG54nOm",
       "runId": 994347895
+    },
+    "I8T21n8eWgXFtjL": {
+      "name": "elxir",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "I8T21n8eWgXFtjL",
+      "runId": 994347895
+    },
+    "9P8BCCDQYLNv806": {
+      "name": "DND",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 80,
+      "win": false,
+      "kills": 294,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        1,
+        16,
+        7,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9P8BCCDQYLNv806",
+      "runId": 994347895
+    },
+    "p319i3Cw451fcbt": {
+      "name": "him45r",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "p319i3Cw451fcbt",
+      "runId": 994347895
     }
   }
 }
