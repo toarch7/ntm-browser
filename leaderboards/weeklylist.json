@@ -1679,6 +1679,48 @@
       "version": 2616,
       "uid": "GeiB1xoKF5U1frs",
       "runId": 965476316
+    },
+    "GN7j3qCq3iQtk9p": {
+      "name": "NRTS",
+      "char": 7,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 21,
+      "win": false,
+      "kills": 171,
+      "ultra": 0,
+      "skills": [
+        10,
+        14
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "GN7j3qCq3iQtk9p",
+      "runId": 965476316
+    },
+    "lqUfxSBMP5nRcPZ": {
+      "name": "happytube",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 4,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        19,
+        25
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "lqUfxSBMP5nRcPZ",
+      "runId": 965476316
     }
   }
 }
