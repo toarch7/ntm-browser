@@ -1721,6 +1721,26 @@
       "version": 2616,
       "uid": "lqUfxSBMP5nRcPZ",
       "runId": 965476316
+    },
+    "A8skX2ighgIRYL0": {
+      "name": "Lancer",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 4,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "A8skX2ighgIRYL0",
+      "runId": 965476316
     }
   }
 }
