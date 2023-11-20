@@ -104,6 +104,64 @@
       "version": 2616,
       "uid": "A8skX2ighgIRYL0",
       "runId": 994347895
+    },
+    "5vXh2f2nqPo35VD": {
+      "name": "паштет",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 21,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5vXh2f2nqPo35VD",
+      "runId": 994347895
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "пердун402",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 30,
+      "win": false,
+      "kills": 194,
+      "ultra": 0,
+      "skills": [
+        6,
+        27,
+        1,
+        8,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 994347895
+    },
+    "A60o53LhAG54nOm": {
+      "name": "CugoZado",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "A60o53LhAG54nOm",
+      "runId": 994347895
     }
   }
 }
