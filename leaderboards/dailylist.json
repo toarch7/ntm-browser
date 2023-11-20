@@ -292,6 +292,49 @@
       "version": 2616,
       "uid": "7A2LaIWONrUqNwC",
       "runId": 994347895
+    },
+    "5ak7Lp8CJetFsSi": {
+      "name": "Chara",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 37,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5ak7Lp8CJetFsSi",
+      "runId": 994347895
+    },
+    "wQEVbE6j8k6xhS7": {
+      "name": "Gabo",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 17,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        10,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wQEVbE6j8k6xhS7",
+      "runId": 994347895
     }
   }
 }
