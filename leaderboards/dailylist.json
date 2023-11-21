@@ -119,6 +119,75 @@
       "version": 2616,
       "uid": "9P8BCCDQYLNv806",
       "runId": 712243012
+    },
+    "MW6eS33m61v6fOg": {
+      "name": "EvilCat",
+      "char": 11,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 22,
+      "win": false,
+      "kills": 182,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        1,
+        25
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "MW6eS33m61v6fOg",
+      "runId": 712243012
+    },
+    "7A2LaIWONrUqNwC": {
+      "name": "Hiajen",
+      "char": 8,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 30,
+      "win": false,
+      "kills": 160,
+      "ultra": 0,
+      "skills": [
+        4,
+        28,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7A2LaIWONrUqNwC",
+      "runId": 712243012
+    },
+    "R936t1iSzYZX1Hk": {
+      "name": "Принтер",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 70,
+      "win": false,
+      "kills": 244,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        14,
+        13,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "R936t1iSzYZX1Hk",
+      "runId": 712243012
     }
   }
 }
