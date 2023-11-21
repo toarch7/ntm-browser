@@ -349,6 +349,46 @@
       "version": 2616,
       "uid": "S75WERQ4sP0JYaa",
       "runId": 712243012
+    },
+    "5yFCx2VWA422eAf": {
+      "name": "mamastrofico",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "5yFCx2VWA422eAf",
+      "runId": 712243012
+    },
+    "2gc1fF0klt0YrI4": {
+      "name": "неономизация",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 91,
+      "bwep": 16,
+      "win": false,
+      "kills": 146,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        1,
+        25,
+        14
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "2gc1fF0klt0YrI4",
+      "runId": 712243012
     }
   }
 }
