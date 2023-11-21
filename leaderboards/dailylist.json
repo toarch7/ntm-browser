@@ -389,6 +389,43 @@
       "version": 2616,
       "uid": "2gc1fF0klt0YrI4",
       "runId": 712243012
+    },
+    "C8GX5N79fic8tF7": {
+      "name": "Gufo",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        4,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "C8GX5N79fic8tF7",
+      "runId": 712243012
+    },
+    "CM50Yrp2nbR68JK": {
+      "name": "Виктор",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "CM50Yrp2nbR68JK",
+      "runId": 712243012
     }
   }
 }
