@@ -148,6 +148,142 @@
       "version": 2616,
       "uid": "9P8BCCDQYLNv806",
       "runId": 219317130
+    },
+    "BGlj46My038e60S": {
+      "name": "Zhubakka_2.0",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 25,
+      "win": false,
+      "kills": 387,
+      "ultra": 1,
+      "skills": [
+        25,
+        6,
+        27,
+        1,
+        4,
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "BGlj46My038e60S",
+      "runId": 219317130
+    },
+    "o04fyYckT5AC2o9": {
+      "name": "Seeker113.02",
+      "char": 4,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 16,
+      "win": false,
+      "kills": 187,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        27,
+        1,
+        16
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "o04fyYckT5AC2o9",
+      "runId": 219317130
+    },
+    "5scKT209siY575I": {
+      "name": "Darko",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 65,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        17
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "5scKT209siY575I",
+      "runId": 219317130
+    },
+    "RGDd572P6MfWctg": {
+      "name": "Dany",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 65,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        25,
+        8
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "RGDd572P6MfWctg",
+      "runId": 219317130
+    },
+    "d2OI8nF48A5k208": {
+      "name": "Bubun0id",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 23,
+      "win": false,
+      "kills": 171,
+      "ultra": 0,
+      "skills": [
+        25,
+        12,
+        2
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "d2OI8nF48A5k208",
+      "runId": 219317130
+    },
+    "wQEVbE6j8k6xhS7": {
+      "name": "Gabo",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 0,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        19,
+        8,
+        27
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "wQEVbE6j8k6xhS7",
+      "runId": 219317130
     }
   }
 }
