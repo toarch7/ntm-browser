@@ -292,18 +292,18 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 13,
+      "wep": 30,
       "bwep": 65,
       "win": false,
-      "kills": 267,
+      "kills": 280,
       "ultra": 0,
       "skills": [
-        26,
+        24,
         8,
         27,
         1,
-        4,
-        2
+        21,
+        16
       ],
       "crown": 13,
       "version": 2616,
@@ -353,6 +353,28 @@
       "crown": 13,
       "version": 2616,
       "uid": "94XE1O4y12I8NfM",
+      "runId": 219317130
+    },
+    "2f5WY6xUqe0X1YO": {
+      "name": "Andersony",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 3,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        12
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "2f5WY6xUqe0X1YO",
       "runId": 219317130
     }
   }
