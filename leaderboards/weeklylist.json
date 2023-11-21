@@ -1,4 +1,56 @@
 {
   "seed": 219317130,
-  "entries": {}
+  "entries": {
+    "9tnXEMgmoRHkUnO": {
+      "name": "blastlight",
+      "char": 4,
+      "skin": false,
+      "area": 106,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 64,
+      "bwep": 9,
+      "win": false,
+      "kills": 1086,
+      "ultra": 1,
+      "skills": [
+        25,
+        8,
+        17,
+        27,
+        1,
+        4,
+        22
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "9tnXEMgmoRHkUnO",
+      "runId": 219317130
+    },
+    "5LDyH0gC9bpH4h5": {
+      "name": "bajnmen",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 23,
+      "win": false,
+      "kills": 279,
+      "ultra": 0,
+      "skills": [
+        25,
+        12,
+        8,
+        27,
+        7,
+        17
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "5LDyH0gC9bpH4h5",
+      "runId": 219317130
+    }
+  }
 }

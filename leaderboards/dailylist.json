@@ -1,4 +1,31 @@
 {
   "day": 21,
-  "entries": {}
+  "entries": {
+    "5LDyH0gC9bpH4h5": {
+      "name": "bajnmen",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 10,
+      "bwep": 113,
+      "win": false,
+      "kills": 578,
+      "ultra": 2,
+      "skills": [
+        27,
+        14,
+        25,
+        7,
+        21,
+        1,
+        4
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "5LDyH0gC9bpH4h5",
+      "runId": 712243012
+    }
+  }
 }
