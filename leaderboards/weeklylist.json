@@ -593,6 +593,78 @@
       "version": 2616,
       "uid": "91EDX5ZW42N1eO7",
       "runId": 219317130
+    },
+    "7A2LaIWONrUqNwC": {
+      "name": "Hiajen",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 65,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        25,
+        12,
+        19,
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "7A2LaIWONrUqNwC",
+      "runId": 219317130
+    },
+    "N257VyyyHaE6o3p": {
+      "name": "Atumalaca",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 65,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        17,
+        9
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "N257VyyyHaE6o3p",
+      "runId": 219317130
+    },
+    "h8sHiX34isDPi5l": {
+      "name": "SKILL_ISSUE",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 35,
+      "win": false,
+      "kills": 460,
+      "ultra": 1,
+      "skills": [
+        25,
+        8,
+        17,
+        27,
+        1,
+        4,
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "h8sHiX34isDPi5l",
+      "runId": 219317130
     }
   }
 }
