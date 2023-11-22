@@ -289,24 +289,23 @@
       "runId": 219317130
     },
     "pH6jSZRtBbGFjs0": {
-      "name": "пердун402",
+      "name": "ультрапердун402",
       "char": 4,
       "skin": false,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 30,
-      "bwep": 65,
+      "wep": 65,
+      "bwep": 35,
       "win": false,
-      "kills": 280,
-      "ultra": 0,
+      "kills": 393,
+      "ultra": 1,
       "skills": [
-        24,
-        8,
-        27,
+        19,
         1,
-        21,
-        16
+        17,
+        27,
+        7
       ],
       "crown": 13,
       "version": 2616,
@@ -664,6 +663,27 @@
       "crown": 13,
       "version": 2616,
       "uid": "h8sHiX34isDPi5l",
+      "runId": 219317130
+    },
+    "yG8Ns8aQx48Q2F9": {
+      "name": "zxc_kakulя",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 3,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        25,
+        12
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "yG8Ns8aQx48Q2F9",
       "runId": 219317130
     }
   }
