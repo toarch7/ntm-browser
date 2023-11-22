@@ -524,6 +524,52 @@
       "version": 2616,
       "uid": "yG8Ns8aQx48Q2F9",
       "runId": 1068660886
+    },
+    "h8sHiX34isDPi5l": {
+      "name": "SKILL_ISSUE",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 25,
+      "bwep": 111,
+      "win": false,
+      "kills": 1108,
+      "ultra": 2,
+      "skills": [
+        27,
+        4,
+        23,
+        10,
+        9,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h8sHiX34isDPi5l",
+      "runId": 1068660886
+    },
+    "ZEhP7EFYI4KbuRZ": {
+      "name": "Capitancry",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 0,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        27,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ZEhP7EFYI4KbuRZ",
+      "runId": 1068660886
     }
   }
 }

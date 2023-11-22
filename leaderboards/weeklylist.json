@@ -267,13 +267,13 @@
       "name": "Gabo",
       "char": 4,
       "skin": false,
-      "area": 7,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 65,
-      "bwep": 35,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 25,
       "win": false,
-      "kills": 391,
+      "kills": 395,
       "ultra": 1,
       "skills": [
         19,
@@ -684,6 +684,28 @@
       "crown": 13,
       "version": 2616,
       "uid": "yG8Ns8aQx48Q2F9",
+      "runId": 219317130
+    },
+    "7rjn3IYRr2tR337": {
+      "name": "C0dem4n",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 65,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        26,
+        6,
+        27
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "7rjn3IYRr2tR337",
       "runId": 219317130
     }
   }
