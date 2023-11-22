@@ -441,6 +441,69 @@
       "version": 2616,
       "uid": "7ZHIoN1EHC4gz7s",
       "runId": 1068660886
+    },
+    "i1jbWjl06X71wfz": {
+      "name": "lobomall",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 4,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "i1jbWjl06X71wfz",
+      "runId": 1068660886
+    },
+    "wQEVbE6j8k6xhS7": {
+      "name": "Gabo",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 66,
+      "win": false,
+      "kills": 195,
+      "ultra": 0,
+      "skills": [
+        27,
+        14,
+        28,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wQEVbE6j8k6xhS7",
+      "runId": 1068660886
+    },
+    "x6Uslf98H97W04S": {
+      "name": "cuc",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 18,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "x6Uslf98H97W04S",
+      "runId": 1068660886
     }
   }
 }
