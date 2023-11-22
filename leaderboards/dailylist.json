@@ -381,6 +381,46 @@
       "version": 2616,
       "uid": "Gl28I3w5z4m2E7O",
       "runId": 1068660886
+    },
+    "5ak7Lp8CJetFsSi": {
+      "name": "Chara",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 21,
+      "win": false,
+      "kills": 178,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        14,
+        28,
+        10
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "5ak7Lp8CJetFsSi",
+      "runId": 1068660886
+    },
+    "BF4fK0k627js99r": {
+      "name": "opps",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "BF4fK0k627js99r",
+      "runId": 1068660886
     }
   }
 }
