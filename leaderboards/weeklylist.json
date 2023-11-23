@@ -780,6 +780,56 @@
       "version": 2616,
       "uid": "hG1hn8Z8McdODRE",
       "runId": 219317130
+    },
+    "WoxUmfP37M78eln": {
+      "name": "lobo:(solitario",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 25,
+      "bwep": 35,
+      "win": false,
+      "kills": 906,
+      "ultra": 1,
+      "skills": [
+        25,
+        8,
+        27,
+        1,
+        4,
+        14
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "WoxUmfP37M78eln",
+      "runId": 219317130
+    },
+    "O81F41vv3XF8YAe": {
+      "name": "Seekershotgun",
+      "char": 4,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 60,
+      "bwep": 68,
+      "win": false,
+      "kills": 1377,
+      "ultra": 1,
+      "skills": [
+        25,
+        6,
+        27,
+        1,
+        4,
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "O81F41vv3XF8YAe",
+      "runId": 219317130
     }
   }
 }
