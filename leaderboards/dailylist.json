@@ -409,6 +409,67 @@
       "version": 2616,
       "uid": "A9XJN5jfsvp6L10",
       "runId": 141187789
+    },
+    "Z8ODOgdSq23HDE3": {
+      "name": "Dobitto",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Z8ODOgdSq23HDE3",
+      "runId": 141187789
+    },
+    "dDp8T4R1sE8Ty18": {
+      "name": "yahir",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 16,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        9,
+        19,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "dDp8T4R1sE8Ty18",
+      "runId": 141187789
+    },
+    "1IGjZgUIX90P8CM": {
+      "name": "оволэро",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        3,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1IGjZgUIX90P8CM",
+      "runId": 141187789
     }
   }
 }
