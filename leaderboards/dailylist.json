@@ -267,6 +267,67 @@
       "version": 2616,
       "uid": "LJt7zvbg42DaWeP",
       "runId": 141187789
+    },
+    "h88xgq47X08sltA": {
+      "name": "Qtra",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 22,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h88xgq47X08sltA",
+      "runId": 141187789
+    },
+    "MW6eS33m61v6fOg": {
+      "name": "EvilCat",
+      "char": 11,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 113,
+      "win": false,
+      "kills": 262,
+      "ultra": 0,
+      "skills": [
+        1,
+        3,
+        17,
+        13,
+        23,
+        7
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "MW6eS33m61v6fOg",
+      "runId": 141187789
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 5,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 141187789
     }
   }
 }
