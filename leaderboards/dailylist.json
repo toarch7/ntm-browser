@@ -1,4 +1,45 @@
 {
   "day": 24,
-  "entries": {}
+  "entries": {
+    "JO6iZGlh8xA843P": {
+      "name": "shira24",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "JO6iZGlh8xA843P",
+      "runId": 141187789
+    },
+    "WoxUmfP37M78eln": {
+      "name": "lobo:(solitario",
+      "char": 7,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 12,
+      "win": false,
+      "kills": 308,
+      "ultra": 0,
+      "skills": [
+        9,
+        14,
+        21,
+        25,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "WoxUmfP37M78eln",
+      "runId": 141187789
+    }
+  }
 }
