@@ -40,6 +40,98 @@
       "version": 2616,
       "uid": "WoxUmfP37M78eln",
       "runId": 141187789
+    },
+    "5LDyH0gC9bpH4h5": {
+      "name": "bajnmen",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 37,
+      "bwep": 35,
+      "win": false,
+      "kills": 1099,
+      "ultra": 2,
+      "skills": [
+        10,
+        3,
+        13,
+        7,
+        25,
+        8,
+        14
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "5LDyH0gC9bpH4h5",
+      "runId": 141187789
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 11,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 2,
+      "wep": 92,
+      "bwep": 35,
+      "win": false,
+      "kills": 2234,
+      "ultra": 1,
+      "skills": [
+        1,
+        3,
+        13,
+        14,
+        7,
+        23,
+        25,
+        17,
+        4
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 141187789
+    },
+    "3C40S01y1zi2Je3": {
+      "name": "Chutzpah",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3C40S01y1zi2Je3",
+      "runId": 141187789
+    },
+    "GeiB1xoKF5U1frs": {
+      "name": "DrCore",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 0,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GeiB1xoKF5U1frs",
+      "runId": 141187789
     }
   }
 }
