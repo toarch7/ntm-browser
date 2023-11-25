@@ -326,6 +326,106 @@
       "version": 2616,
       "uid": "13P3br4eB648BtR",
       "runId": 221509921
+    },
+    "SdC518PR8HWUIp6": {
+      "name": "nosok",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "SdC518PR8HWUIp6",
+      "runId": 221509921
+    },
+    "dDp8T4R1sE8Ty18": {
+      "name": "yahir",
+      "char": 14,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        25,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "dDp8T4R1sE8Ty18",
+      "runId": 221509921
+    },
+    "5RJV7mF6x5L3JZW": {
+      "name": "StiizZy",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        25,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5RJV7mF6x5L3JZW",
+      "runId": 221509921
+    },
+    "kfDJsxEpYcLGnMk": {
+      "name": "dark0glitch",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "kfDJsxEpYcLGnMk",
+      "runId": 221509921
+    },
+    "g2Q1du6j6F1tSqS": {
+      "name": "LisArt10",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 96,
+      "win": false,
+      "kills": 334,
+      "ultra": 0,
+      "skills": [
+        25,
+        17,
+        22,
+        27,
+        14,
+        1,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g2Q1du6j6F1tSqS",
+      "runId": 221509921
     }
   }
 }
