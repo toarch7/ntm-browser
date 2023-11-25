@@ -1141,6 +1141,52 @@
       "version": 2616,
       "uid": "CM50Yrp2nbR68JK",
       "runId": 219317130
+    },
+    "A8skX2ighgIRYL0": {
+      "name": "Lancer",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 23,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        25,
+        12
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "A8skX2ighgIRYL0",
+      "runId": 219317130
+    },
+    "6KdwhI240xOAZ7G": {
+      "name": "Sum",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 94,
+      "bwep": 35,
+      "win": false,
+      "kills": 1291,
+      "ultra": 1,
+      "skills": [
+        25,
+        8,
+        27,
+        1,
+        21,
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "6KdwhI240xOAZ7G",
+      "runId": 219317130
     }
   }
 }

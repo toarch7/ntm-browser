@@ -426,6 +426,110 @@
       "version": 2616,
       "uid": "g2Q1du6j6F1tSqS",
       "runId": 221509921
+    },
+    "x6Uslf98H97W04S": {
+      "name": "cuc",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "x6Uslf98H97W04S",
+      "runId": 221509921
+    },
+    "5ak7Lp8CJetFsSi": {
+      "name": "Chara",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 112,
+      "win": false,
+      "kills": 241,
+      "ultra": 0,
+      "skills": [
+        3,
+        8,
+        2,
+        27,
+        4,
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "5ak7Lp8CJetFsSi",
+      "runId": 221509921
+    },
+    "A8skX2ighgIRYL0": {
+      "name": "Lancer",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "A8skX2ighgIRYL0",
+      "runId": 221509921
+    },
+    "Z8ODOgdSq23HDE3": {
+      "name": "Dobitto",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 5,
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        13,
+        27
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "Z8ODOgdSq23HDE3",
+      "runId": 221509921
+    },
+    "ZEhP7EFYI4KbuRZ": {
+      "name": "Capitancry",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ZEhP7EFYI4KbuRZ",
+      "runId": 221509921
     }
   }
 }
