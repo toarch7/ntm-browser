@@ -190,6 +190,50 @@
       "version": 2616,
       "uid": "2gc1fF0klt0YrI4",
       "runId": 221509921
+    },
+    "MW6eS33m61v6fOg": {
+      "name": "EvilCat",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 17,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        3,
+        13,
+        27
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "MW6eS33m61v6fOg",
+      "runId": 221509921
+    },
+    "R936t1iSzYZX1Hk": {
+      "name": "Принтер",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        25,
+        17,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "R936t1iSzYZX1Hk",
+      "runId": 221509921
     }
   }
 }
