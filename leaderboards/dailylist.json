@@ -621,6 +621,26 @@
       "version": 2616,
       "uid": "054A9C97v4GFO42",
       "runId": 221509921
+    },
+    "AC7960AE6195rel": {
+      "name": "Скелетон",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 39,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "AC7960AE6195rel",
+      "runId": 221509921
     }
   }
 }
