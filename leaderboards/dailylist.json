@@ -463,6 +463,42 @@
       "version": 2616,
       "uid": "07G6h6Y87K3t72h",
       "runId": 1196377003
+    },
+    "gpi4rs1d11G3EFA": {
+      "name": "jam",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 17,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gpi4rs1d11G3EFA",
+      "runId": 1196377003
+    },
+    "zFGVY5RmPKTSFsC": {
+      "name": "PMDmovie",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2616,
+      "uid": "zFGVY5RmPKTSFsC",
+      "runId": 1196377003
     }
   }
 }
