@@ -320,6 +320,76 @@
       "version": 2616,
       "uid": "R936t1iSzYZX1Hk",
       "runId": 1196377003
+    },
+    "T7A7lNI3tT44BS8": {
+      "name": "M3MO",
+      "char": 8,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 11,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        27,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "T7A7lNI3tT44BS8",
+      "runId": 1196377003
+    },
+    "A8skX2ighgIRYL0": {
+      "name": "Lancer",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 20,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        27,
+        12,
+        25
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "A8skX2ighgIRYL0",
+      "runId": 1196377003
+    },
+    "1HWv2qhzjT7VU7S": {
+      "name": "DOBYSH",
+      "char": 1,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 115,
+      "bwep": 35,
+      "win": false,
+      "kills": 310,
+      "ultra": 0,
+      "skills": [
+        27,
+        7,
+        6,
+        13,
+        23,
+        22,
+        28,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1HWv2qhzjT7VU7S",
+      "runId": 1196377003
     }
   }
 }
