@@ -1618,6 +1618,52 @@
       "version": 2616,
       "uid": "xe04jGs6TXUT5kx",
       "runId": 219317130
+    },
+    "Rs5cfys0z209826": {
+      "name": "Myamsar2",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 16,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "Rs5cfys0z209826",
+      "runId": 219317130
+    },
+    "92vj5G6WVj21Fy7": {
+      "name": "CMoon",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 3,
+      "win": false,
+      "kills": 384,
+      "ultra": 1,
+      "skills": [
+        25,
+        8,
+        6,
+        27,
+        1,
+        4,
+        2
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "92vj5G6WVj21Fy7",
+      "runId": 219317130
     }
   }
 }
