@@ -532,6 +532,47 @@
       "version": 2616,
       "uid": "5ak7Lp8CJetFsSi",
       "runId": 240038387
+    },
+    "T7A7lNI3tT44BS8": {
+      "name": "M3MO",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 0,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "T7A7lNI3tT44BS8",
+      "runId": 240038387
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 57,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        12,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 240038387
     }
   }
 }
