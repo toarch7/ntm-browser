@@ -439,17 +439,18 @@
       "char": 4,
       "skin": false,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 21,
-      "bwep": 65,
+      "wep": 65,
+      "bwep": 30,
       "win": false,
-      "kills": 106,
+      "kills": 162,
       "ultra": 0,
       "skills": [
         26,
-        6,
-        9
+        19,
+        1,
+        16
       ],
       "crown": 13,
       "version": 2616,
@@ -1519,6 +1520,32 @@
       "crown": 13,
       "version": 2616,
       "uid": "3f9PjvXDFz3cKia",
+      "runId": 219317130
+    },
+    "W5rnxqd90ZdVc7B": {
+      "name": "Mikuo",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 66,
+      "win": false,
+      "kills": 393,
+      "ultra": 1,
+      "skills": [
+        25,
+        8,
+        17,
+        27,
+        1,
+        4,
+        22
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "W5rnxqd90ZdVc7B",
       "runId": 219317130
     }
   }
