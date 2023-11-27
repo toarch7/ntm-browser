@@ -1270,19 +1270,19 @@
       "name": "g.s",
       "char": 4,
       "skin": false,
-      "area": 3,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 61,
-      "bwep": 66,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 35,
+      "bwep": 9,
       "win": false,
-      "kills": 157,
-      "ultra": 0,
+      "kills": 409,
+      "ultra": 1,
       "skills": [
-        26,
-        8,
         19,
-        7
+        7,
+        4,
+        2
       ],
       "crown": 13,
       "version": 2616,
@@ -1377,6 +1377,30 @@
       "crown": 13,
       "version": 2616,
       "uid": "g76z78LjOTdhCfi",
+      "runId": 219317130
+    },
+    "UMuKuC7f9rqOG8F": {
+      "name": "Pasitotuntun",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 20,
+      "win": false,
+      "kills": 121,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        6,
+        27,
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "UMuKuC7f9rqOG8F",
       "runId": 219317130
     }
   }
