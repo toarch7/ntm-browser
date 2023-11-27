@@ -692,6 +692,79 @@
       "version": 2616,
       "uid": "ZEhP7EFYI4KbuRZ",
       "runId": 240038387
+    },
+    "5F07InPX0eZ7zqA": {
+      "name": "HUNTER",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        12,
+        9,
+        28,
+        3,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5F07InPX0eZ7zqA",
+      "runId": 240038387
+    },
+    "JD894N8YSRh24yQ": {
+      "name": "Seeker3690",
+      "char": 1,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 74,
+      "win": false,
+      "kills": 370,
+      "ultra": 0,
+      "skills": [
+        12,
+        1,
+        23,
+        19,
+        3,
+        4,
+        27,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "JD894N8YSRh24yQ",
+      "runId": 240038387
+    },
+    "AC7960AE6195rel": {
+      "name": "Скелетон",
+      "char": 7,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        28,
+        19,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "AC7960AE6195rel",
+      "runId": 240038387
     }
   }
 }
