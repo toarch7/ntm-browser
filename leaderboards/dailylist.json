@@ -573,6 +573,109 @@
       "version": 2616,
       "uid": "13P3br4eB648BtR",
       "runId": 240038387
+    },
+    "Vtt8uLuD9LV0zU0": {
+      "name": "Koi",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Vtt8uLuD9LV0zU0",
+      "runId": 240038387
+    },
+    "29VczXsp1E23jDo": {
+      "name": "Fukme",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "29VczXsp1E23jDo",
+      "runId": 240038387
+    },
+    "3PLFz9213qa6x93": {
+      "name": "pantano100",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 3,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3PLFz9213qa6x93",
+      "runId": 240038387
+    },
+    "g76z78LjOTdhCfi": {
+      "name": "Stal",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 3,
+      "win": false,
+      "kills": 26,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g76z78LjOTdhCfi",
+      "runId": 240038387
+    },
+    "Z8ODOgdSq23HDE3": {
+      "name": "Dobitto",
+      "char": 3,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 89,
+      "win": false,
+      "kills": 400,
+      "ultra": 0,
+      "skills": [
+        12,
+        23,
+        25,
+        27,
+        8,
+        17,
+        6,
+        28
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "Z8ODOgdSq23HDE3",
+      "runId": 240038387
     }
   }
 }
