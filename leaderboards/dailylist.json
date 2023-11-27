@@ -506,6 +506,32 @@
       "version": 2616,
       "uid": "dDp8T4R1sE8Ty18",
       "runId": 240038387
+    },
+    "5ak7Lp8CJetFsSi": {
+      "name": "Chara",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 74,
+      "win": false,
+      "kills": 349,
+      "ultra": 0,
+      "skills": [
+        28,
+        1,
+        9,
+        17,
+        8,
+        2,
+        27
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "5ak7Lp8CJetFsSi",
+      "runId": 240038387
     }
   }
 }
