@@ -121,17 +121,18 @@
       "name": "ультрапердун402",
       "char": 3,
       "skin": false,
-      "area": 3,
-      "subarea": 2,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 9,
-      "bwep": 94,
+      "wep": 31,
+      "bwep": 28,
       "win": false,
-      "kills": 141,
+      "kills": 176,
       "ultra": 0,
       "skills": [
-        8,
-        6
+        27,
+        28,
+        7
       ],
       "crown": 11,
       "version": 2616,
@@ -529,6 +530,74 @@
       "crown": 11,
       "version": 2616,
       "uid": "MHC1lZEEd9KbN24",
+      "runId": 6589731
+    },
+    "7rjn3IYRr2tR337": {
+      "name": "C0dem4n",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 23,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        7
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "7rjn3IYRr2tR337",
+      "runId": 6589731
+    },
+    "94XE1O4y12I8NfM": {
+      "name": "SvinMaxim",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 94,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        27,
+        6,
+        4
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "94XE1O4y12I8NfM",
+      "runId": 6589731
+    },
+    "CM50Yrp2nbR68JK": {
+      "name": "Виктор",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 28,
+      "bwep": 94,
+      "win": false,
+      "kills": 222,
+      "ultra": 0,
+      "skills": [
+        27,
+        6,
+        4,
+        23,
+        17
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "CM50Yrp2nbR68JK",
       "runId": 6589731
     }
   }
