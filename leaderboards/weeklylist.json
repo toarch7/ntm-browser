@@ -229,6 +229,80 @@
       "version": 2616,
       "uid": "E8IM0cIHUeDCUJ4",
       "runId": 6589731
+    },
+    "7jgL17JN5t43BVj": {
+      "name": "AyatoALK",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 72,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        19
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "7jgL17JN5t43BVj",
+      "runId": 6589731
+    },
+    "MW6eS33m61v6fOg": {
+      "name": "EvilCat",
+      "char": 3,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 84,
+      "bwep": 74,
+      "win": false,
+      "kills": 793,
+      "ultra": 2,
+      "skills": [
+        27,
+        6,
+        25,
+        3,
+        23,
+        17,
+        13,
+        22,
+        14
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "MW6eS33m61v6fOg",
+      "runId": 6589731
+    },
+    "R936t1iSzYZX1Hk": {
+      "name": "Принтер",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 94,
+      "win": false,
+      "kills": 275,
+      "ultra": 0,
+      "skills": [
+        27,
+        28,
+        4,
+        23,
+        17
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "R936t1iSzYZX1Hk",
+      "runId": 6589731
     }
   }
 }

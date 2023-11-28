@@ -324,6 +324,46 @@
       "version": 2616,
       "uid": "7A2LaIWONrUqNwC",
       "runId": 1713081868
+    },
+    "g7nTeU9lpy5rupK": {
+      "name": "g.s",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 17,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g7nTeU9lpy5rupK",
+      "runId": 1713081868
+    },
+    "R936t1iSzYZX1Hk": {
+      "name": "Принтер",
+      "char": 15,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 4,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "R936t1iSzYZX1Hk",
+      "runId": 1713081868
     }
   }
 }
