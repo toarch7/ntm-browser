@@ -329,6 +329,53 @@
       "version": 2616,
       "uid": "6mKywl868n01T5V",
       "runId": 6589731
+    },
+    "wuoe1dYuTZ42gRo": {
+      "name": "ERTINE",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 33,
+      "win": false,
+      "kills": 517,
+      "ultra": 2,
+      "skills": [
+        8,
+        27,
+        4,
+        3,
+        28,
+        9
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "wuoe1dYuTZ42gRo",
+      "runId": 6589731
+    },
+    "u3RpEO1a8e5UGt8": {
+      "name": "gusmano",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 94,
+      "bwep": 76,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        4
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "u3RpEO1a8e5UGt8",
+      "runId": 6589731
     }
   }
 }
