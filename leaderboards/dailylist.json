@@ -182,6 +182,66 @@
       "version": 2616,
       "uid": "gpi4rs1d11G3EFA",
       "runId": 1713081868
+    },
+    "2gc1fF0klt0YrI4": {
+      "name": "неономизация",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2gc1fF0klt0YrI4",
+      "runId": 1713081868
+    },
+    "u3RpEO1a8e5UGt8": {
+      "name": "gusmano",
+      "char": 9,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 28,
+      "win": false,
+      "kills": 195,
+      "ultra": 0,
+      "skills": [
+        13,
+        9,
+        4,
+        14,
+        27
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "u3RpEO1a8e5UGt8",
+      "runId": 1713081868
+    },
+    "MW6eS33m61v6fOg": {
+      "name": "EvilCat",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 17,
+      "win": false,
+      "kills": 15,
+      "crown": 1,
+      "version": 2616,
+      "uid": "MW6eS33m61v6fOg",
+      "runId": 1713081868
     }
   }
 }
