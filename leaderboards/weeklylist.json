@@ -604,16 +604,20 @@
       "name": "DrCore",
       "char": 3,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 8,
-      "bwep": 69,
+      "wep": 76,
+      "bwep": 28,
       "win": false,
-      "kills": 75,
+      "kills": 259,
       "ultra": 0,
       "skills": [
-        27,
+        8,
+        7,
+        12,
+        10,
+        2,
         28
       ],
       "crown": 11,
@@ -641,6 +645,27 @@
       "crown": 11,
       "version": 2616,
       "uid": "9R946eON457fdH3",
+      "runId": 6589731
+    },
+    "6o9Cs6T1bSEbu4F": {
+      "name": "justRalyx",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 8,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        27,
+        28
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "6o9Cs6T1bSEbu4F",
       "runId": 6589731
     }
   }
