@@ -1,4 +1,72 @@
 {
   "day": 29,
-  "entries": {}
+  "entries": {
+    "26n8S7eZFO7q91F": {
+      "name": "List",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 17,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        6,
+        1,
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "26n8S7eZFO7q91F",
+      "runId": 1048623408
+    },
+    "wuoe1dYuTZ42gRo": {
+      "name": "ERTINE",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        23,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wuoe1dYuTZ42gRo",
+      "runId": 1048623408
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 57,
+      "win": false,
+      "kills": 266,
+      "ultra": 0,
+      "skills": [
+        23,
+        14,
+        7,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1048623408
+    }
+  }
 }
