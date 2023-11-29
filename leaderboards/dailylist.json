@@ -743,6 +743,59 @@
       "version": 2616,
       "uid": "1HWv2qhzjT7VU7S",
       "runId": 1048623408
+    },
+    "6o9Cs6T1bSEbu4F": {
+      "name": "justRalyx",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 17,
+      "win": false,
+      "kills": 26,
+      "crown": 1,
+      "version": 2616,
+      "uid": "6o9Cs6T1bSEbu4F",
+      "runId": 1048623408
+    },
+    "9tnXEMgmoRHkUnO": {
+      "name": "blastlight",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 13,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        22,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9tnXEMgmoRHkUnO",
+      "runId": 1048623408
+    },
+    "w7ST0MX64OZ87J7": {
+      "name": "Leopold",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "w7ST0MX64OZ87J7",
+      "runId": 1048623408
     }
   }
 }
