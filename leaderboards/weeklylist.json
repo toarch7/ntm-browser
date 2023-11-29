@@ -121,18 +121,21 @@
       "name": "ультрапердун402",
       "char": 3,
       "skin": false,
-      "area": 104,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 31,
-      "bwep": 28,
+      "wep": 13,
+      "bwep": 51,
       "win": false,
-      "kills": 176,
+      "kills": 192,
       "ultra": 0,
       "skills": [
+        8,
         27,
-        28,
-        7
+        25,
+        3,
+        2,
+        13
       ],
       "crown": 11,
       "version": 2616,
@@ -1019,6 +1022,27 @@
       "crown": 11,
       "version": 2616,
       "uid": "87QK66Xwo7HgM83",
+      "runId": 6589731
+    },
+    "E880bax9wvoE28n": {
+      "name": "Seeker288.45",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 34,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        27,
+        16
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "E880bax9wvoE28n",
       "runId": 6589731
     }
   }
