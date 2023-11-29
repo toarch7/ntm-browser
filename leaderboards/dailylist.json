@@ -697,6 +697,52 @@
       "version": 2616,
       "uid": "1GPzSL2NG0iC5W1",
       "runId": 1048623408
+    },
+    "d2OI8nF48A5k208": {
+      "name": "Bubun0id",
+      "char": 11,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 13,
+      "bwep": 20,
+      "win": false,
+      "kills": 394,
+      "ultra": 3,
+      "skills": [
+        23,
+        1,
+        4,
+        3,
+        27,
+        13,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "d2OI8nF48A5k208",
+      "runId": 1048623408
+    },
+    "1HWv2qhzjT7VU7S": {
+      "name": "DOBYSH",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1HWv2qhzjT7VU7S",
+      "runId": 1048623408
     }
   }
 }
