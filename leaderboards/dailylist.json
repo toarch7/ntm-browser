@@ -639,6 +639,44 @@
       "version": 2616,
       "uid": "dDp8T4R1sE8Ty18",
       "runId": 1048623408
+    },
+    "1syRsUo7G30OuK3": {
+      "name": "ValoRent0s",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 0,
+      "win": false,
+      "kills": 23,
+      "crown": 1,
+      "version": 2616,
+      "uid": "1syRsUo7G30OuK3",
+      "runId": 1048623408
+    },
+    "RGDd572P6MfWctg": {
+      "name": "Dany",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 30,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        22,
+        1,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RGDd572P6MfWctg",
+      "runId": 1048623408
     }
   }
 }
