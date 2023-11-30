@@ -596,6 +596,51 @@
       "version": 2616,
       "uid": "9D8Eg5WhUQ8X01f",
       "runId": 2007662884
+    },
+    "RGDd572P6MfWctg": {
+      "name": "Dany",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 117,
+      "win": false,
+      "kills": 231,
+      "ultra": 0,
+      "skills": [
+        2,
+        9,
+        22,
+        8,
+        26
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "RGDd572P6MfWctg",
+      "runId": 2007662884
+    },
+    "MW6eS33m61v6fOg": {
+      "name": "EvilCat",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        3,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MW6eS33m61v6fOg",
+      "runId": 2007662884
     }
   }
 }
