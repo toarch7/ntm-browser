@@ -1377,6 +1377,72 @@
       "version": 2616,
       "uid": "RGDd572P6MfWctg",
       "runId": 6589731
+    },
+    "aDrlGmJ9F4GRkKh": {
+      "name": "Kitczu",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 38,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        7,
+        12
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "aDrlGmJ9F4GRkKh",
+      "runId": 6589731
+    },
+    "rIc5PjwcmN6P4CI": {
+      "name": "Seeke",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 8,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        27,
+        6
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "rIc5PjwcmN6P4CI",
+      "runId": 6589731
+    },
+    "07G6h6Y87K3t72h": {
+      "name": "roronoa",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 94,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        8,
+        28,
+        4
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "07G6h6Y87K3t72h",
+      "runId": 6589731
     }
   }
 }

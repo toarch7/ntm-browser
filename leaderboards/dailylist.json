@@ -708,6 +708,49 @@
       "version": 2616,
       "uid": "qJ29VMho2gFcI9p",
       "runId": 2007662884
+    },
+    "aDrlGmJ9F4GRkKh": {
+      "name": "Kitczu",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 16,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        2,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aDrlGmJ9F4GRkKh",
+      "runId": 2007662884
+    },
+    "dDp8T4R1sE8Ty18": {
+      "name": "yahir",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 21,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        25,
+        6,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "dDp8T4R1sE8Ty18",
+      "runId": 2007662884
     }
   }
 }
