@@ -1029,13 +1029,13 @@
       "name": "Seeker288.45",
       "char": 3,
       "skin": false,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 69,
-      "bwep": 23,
+      "wep": 5,
+      "bwep": 69,
       "win": false,
-      "kills": 102,
+      "kills": 103,
       "ultra": 0,
       "skills": [
         27,
@@ -1559,6 +1559,31 @@
       "crown": 11,
       "version": 2616,
       "uid": "P48as3Q3rUCnIk5",
+      "runId": 6589731
+    },
+    "g2Q1du6j6F1tSqS": {
+      "name": "LisArt10",
+      "char": 3,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 22,
+      "win": false,
+      "kills": 347,
+      "ultra": 0,
+      "skills": [
+        27,
+        28,
+        4,
+        17,
+        13,
+        14
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "g2Q1du6j6F1tSqS",
       "runId": 6589731
     }
   }
