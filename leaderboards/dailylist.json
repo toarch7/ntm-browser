@@ -586,6 +586,52 @@
       "version": 2616,
       "uid": "qk0l051AbVC0LvG",
       "runId": 87903490
+    },
+    "g76z78LjOTdhCfi": {
+      "name": "Stal",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 88,
+      "win": false,
+      "kills": 365,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        10,
+        27,
+        21,
+        4,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g76z78LjOTdhCfi",
+      "runId": 87903490
+    },
+    "aDrlGmJ9F4GRkKh": {
+      "name": "Kitczu",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 46,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aDrlGmJ9F4GRkKh",
+      "runId": 87903490
     }
   }
 }
