@@ -370,6 +370,52 @@
       "version": 2616,
       "uid": "CM50Yrp2nbR68JK",
       "runId": 87903490
+    },
+    "d2OI8nF48A5k208": {
+      "name": "Bubun0id",
+      "char": 11,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 10,
+      "win": false,
+      "kills": 588,
+      "ultra": 3,
+      "skills": [
+        25,
+        27,
+        21,
+        14,
+        4,
+        3,
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "d2OI8nF48A5k208",
+      "runId": 87903490
+    },
+    "5L1T3QQyOsK5DA2": {
+      "name": "Rasuki",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5L1T3QQyOsK5DA2",
+      "runId": 87903490
     }
   }
 }
