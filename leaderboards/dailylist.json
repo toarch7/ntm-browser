@@ -84,6 +84,51 @@
       "version": 2616,
       "uid": "m1WuElt2bxVi1R3",
       "runId": 87903490
+    },
+    "5LDyH0gC9bpH4h5": {
+      "name": "bajnmen",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 37,
+      "bwep": 26,
+      "win": false,
+      "kills": 553,
+      "ultra": 2,
+      "skills": [
+        7,
+        25,
+        27,
+        13,
+        4,
+        1
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "5LDyH0gC9bpH4h5",
+      "runId": 87903490
+    },
+    "hmM3z1Gvg9Gm2d0": {
+      "name": "Apostol",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 66,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "hmM3z1Gvg9Gm2d0",
+      "runId": 87903490
     }
   }
 }
