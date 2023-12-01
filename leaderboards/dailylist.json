@@ -632,6 +632,48 @@
       "version": 2616,
       "uid": "aDrlGmJ9F4GRkKh",
       "runId": 87903490
+    },
+    "RGDd572P6MfWctg": {
+      "name": "Dany",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 21,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        7,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RGDd572P6MfWctg",
+      "runId": 87903490
+    },
+    "u3RpEO1a8e5UGt8": {
+      "name": "gusmano",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 21,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        7,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "u3RpEO1a8e5UGt8",
+      "runId": 87903490
     }
   }
 }
