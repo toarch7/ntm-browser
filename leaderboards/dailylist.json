@@ -674,6 +674,67 @@
       "version": 2616,
       "uid": "u3RpEO1a8e5UGt8",
       "runId": 87903490
+    },
+    "oe6xKlvJ58kHAGe": {
+      "name": "Tawagoto",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "oe6xKlvJ58kHAGe",
+      "runId": 87903490
+    },
+    "5ak7Lp8CJetFsSi": {
+      "name": "Chara",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 52,
+      "bwep": 4,
+      "win": false,
+      "kills": 169,
+      "ultra": 0,
+      "skills": [
+        7,
+        2,
+        28,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5ak7Lp8CJetFsSi",
+      "runId": 87903490
+    },
+    "hpZ5Y6M9A401v39": {
+      "name": "Slizne_grad",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 4,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "hpZ5Y6M9A401v39",
+      "runId": 87903490
     }
   }
 }
