@@ -197,6 +197,49 @@
       "version": 2616,
       "uid": "PtZ8Mep4fTrS7K9",
       "runId": 87903490
+    },
+    "2f5WY6xUqe0X1YO": {
+      "name": "Andersony",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        25,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2f5WY6xUqe0X1YO",
+      "runId": 87903490
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 87903490
     }
   }
 }
