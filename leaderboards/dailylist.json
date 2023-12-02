@@ -332,6 +332,128 @@
       "version": 2616,
       "uid": "1HWv2qhzjT7VU7S",
       "runId": 1077685492
+    },
+    "E3gI7quBH9qA245": {
+      "name": "Fake",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 17,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        27,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "E3gI7quBH9qA245",
+      "runId": 1077685492
+    },
+    "0QK13hm2lB74Sbh": {
+      "name": "Seeker712eu2iwi",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "0QK13hm2lB74Sbh",
+      "runId": 1077685492
+    },
+    "sMt0JLXAyN4cz45": {
+      "name": "Ditch",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        24,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sMt0JLXAyN4cz45",
+      "runId": 1077685492
+    },
+    "p7d9wPxfmUj21L2": {
+      "name": "SFDPX",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 13,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        8,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "p7d9wPxfmUj21L2",
+      "runId": 1077685492
+    },
+    "MW6eS33m61v6fOg": {
+      "name": "EvilCat",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 7,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MW6eS33m61v6fOg",
+      "runId": 1077685492
+    },
+    "CM50Yrp2nbR68JK": {
+      "name": "Виктор",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 6,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        27,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CM50Yrp2nbR68JK",
+      "runId": 1077685492
     }
   }
 }
