@@ -794,6 +794,50 @@
       "version": 2616,
       "uid": "cF06gu43YY6vdNs",
       "runId": 1077685492
+    },
+    "GeiB1xoKF5U1frs": {
+      "name": "DrCore",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 88,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GeiB1xoKF5U1frs",
+      "runId": 1077685492
+    },
+    "dDp8T4R1sE8Ty18": {
+      "name": "yahir",
+      "char": 5,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 47,
+      "win": false,
+      "kills": 245,
+      "ultra": 0,
+      "skills": [
+        27,
+        6,
+        8,
+        7,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "dDp8T4R1sE8Ty18",
+      "runId": 1077685492
     }
   }
 }
