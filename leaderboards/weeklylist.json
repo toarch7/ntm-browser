@@ -1545,16 +1545,22 @@
       "name": "Cruzadosxd111",
       "char": 3,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 69,
-      "bwep": 23,
+      "wep": 110,
+      "bwep": 94,
       "win": false,
-      "kills": 91,
+      "kills": 351,
       "ultra": 0,
       "skills": [
-        27
+        8,
+        28,
+        4,
+        17,
+        13,
+        10,
+        14
       ],
       "crown": 11,
       "version": 2616,
@@ -1783,6 +1789,27 @@
       "crown": 11,
       "version": 2616,
       "uid": "BBQ6o8B029Q01rW",
+      "runId": 6589731
+    },
+    "577XU1bfc196PO3": {
+      "name": "Angelwaza01",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 69,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        8,
+        28
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "577XU1bfc196PO3",
       "runId": 6589731
     }
   }
