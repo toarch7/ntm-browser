@@ -389,6 +389,64 @@
       "version": 2616,
       "uid": "o3TA6T4ibf10nHM",
       "runId": 22965614
+    },
+    "T7A7lNI3tT44BS8": {
+      "name": "M3MO",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 0,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        25,
+        14,
+        26
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "T7A7lNI3tT44BS8",
+      "runId": 22965614
+    },
+    "CM50Yrp2nbR68JK": {
+      "name": "Виктор",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "CM50Yrp2nbR68JK",
+      "runId": 22965614
+    },
+    "2sZa3J4PXtUdkgx": {
+      "name": "kafei",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 5,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2sZa3J4PXtUdkgx",
+      "runId": 22965614
     }
   }
 }
