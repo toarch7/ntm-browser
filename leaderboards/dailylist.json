@@ -510,6 +510,56 @@
       "version": 2617,
       "uid": "R936t1iSzYZX1Hk",
       "runId": 22965614
+    },
+    "oQi7iYt5CY2smuT": {
+      "name": "FrostByte",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 90,
+      "win": false,
+      "kills": 200,
+      "ultra": 0,
+      "skills": [
+        22,
+        4,
+        25,
+        14,
+        28,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oQi7iYt5CY2smuT",
+      "runId": 22965614
+    },
+    "g7nTeU9lpy5rupK": {
+      "name": "g.s",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 70,
+      "win": false,
+      "kills": 267,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        28,
+        1,
+        6,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g7nTeU9lpy5rupK",
+      "runId": 22965614
     }
   }
 }
