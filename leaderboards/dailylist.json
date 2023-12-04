@@ -132,6 +132,53 @@
       "version": 2617,
       "uid": "MW6eS33m61v6fOg",
       "runId": 1506405632
+    },
+    "o3TA6T4ibf10nHM": {
+      "name": "DoderTool",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 88,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        13
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "o3TA6T4ibf10nHM",
+      "runId": 1506405632
+    },
+    "xe04jGs6TXUT5kx": {
+      "name": "hobobazaar",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 70,
+      "bwep": 107,
+      "win": false,
+      "kills": 617,
+      "ultra": 1,
+      "skills": [
+        1,
+        27,
+        3,
+        4,
+        17,
+        10
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "xe04jGs6TXUT5kx",
+      "runId": 1506405632
     }
   }
 }
