@@ -1,4 +1,52 @@
 {
   "day": 4,
-  "entries": {}
+  "entries": {
+    "g7nTeU9lpy5rupK": {
+      "name": "g.s",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 91,
+      "win": false,
+      "kills": 315,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        7,
+        9,
+        8,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g7nTeU9lpy5rupK",
+      "runId": 1506405632
+    },
+    "wuoe1dYuTZ42gRo": {
+      "name": "ERTINE",
+      "char": 9,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 30,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        9,
+        28,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wuoe1dYuTZ42gRo",
+      "runId": 1506405632
+    }
+  }
 }
