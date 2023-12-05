@@ -292,22 +292,22 @@
       "name": "Виктор",
       "char": 8,
       "skin": true,
-      "area": 7,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 11,
-      "bwep": 110,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 110,
+      "bwep": 68,
       "win": false,
-      "kills": 565,
+      "kills": 694,
       "ultra": 2,
       "skills": [
         1,
         27,
         3,
         4,
-        17,
         23,
-        16
+        17,
+        7
       ],
       "crown": 7,
       "version": 2616,
@@ -435,6 +435,29 @@
       "crown": 7,
       "version": 2616,
       "uid": "UIM5T982W3BFZ7o",
+      "runId": 621230677
+    },
+    "wuoe1dYuTZ42gRo": {
+      "name": "ERTINE",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 38,
+      "win": false,
+      "kills": 252,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        3,
+        13
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "wuoe1dYuTZ42gRo",
       "runId": 621230677
     }
   }
