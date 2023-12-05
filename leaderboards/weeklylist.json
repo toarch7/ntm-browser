@@ -679,17 +679,17 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 11,
-      "bwep": 110,
+      "wep": 110,
+      "bwep": 6,
       "win": false,
-      "kills": 182,
+      "kills": 189,
       "ultra": 0,
       "skills": [
+        4,
         16,
         10,
-        4,
         6,
-        28
+        1
       ],
       "crown": 7,
       "version": 2616,
@@ -789,6 +789,33 @@
       "crown": 7,
       "version": 2616,
       "uid": "wd91ehDE8r7zbUz",
+      "runId": 621230677
+    },
+    "AiWxaCdP64Hk6gu": {
+      "name": "Smx",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 13,
+      "bwep": 110,
+      "win": false,
+      "kills": 905,
+      "ultra": 1,
+      "skills": [
+        27,
+        8,
+        23,
+        13,
+        4,
+        22,
+        25,
+        10
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "AiWxaCdP64Hk6gu",
       "runId": 621230677
     }
   }
