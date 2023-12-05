@@ -598,6 +598,59 @@
       "version": 2616,
       "uid": "6o9Cs6T1bSEbu4F",
       "runId": 822295740
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 107,
+      "win": false,
+      "kills": 1012,
+      "ultra": 2,
+      "skills": [
+        3,
+        1,
+        23,
+        4,
+        27,
+        13,
+        22,
+        17
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 822295740
+    },
+    "xe04jGs6TXUT5kx": {
+      "name": "hobobazaar",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 118,
+      "bwep": 70,
+      "win": false,
+      "kills": 1827,
+      "ultra": 1,
+      "skills": [
+        1,
+        3,
+        4,
+        10,
+        17,
+        27,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xe04jGs6TXUT5kx",
+      "runId": 822295740
     }
   }
 }
