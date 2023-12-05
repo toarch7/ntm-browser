@@ -481,6 +481,51 @@
       "version": 2616,
       "uid": "g76z78LjOTdhCfi",
       "runId": 621230677
+    },
+    "UMuKuC7f9rqOG8F": {
+      "name": "Pasitotuntun",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 110,
+      "win": false,
+      "kills": 267,
+      "ultra": 0,
+      "skills": [
+        4,
+        29,
+        1,
+        8
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "UMuKuC7f9rqOG8F",
+      "runId": 621230677
+    },
+    "Z8ODOgdSq23HDE3": {
+      "name": "Dobitto",
+      "char": 8,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 110,
+      "win": false,
+      "kills": 272,
+      "ultra": 0,
+      "skills": [
+        4,
+        16,
+        1
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "Z8ODOgdSq23HDE3",
+      "runId": 621230677
     }
   }
 }
