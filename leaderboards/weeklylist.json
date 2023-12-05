@@ -286,6 +286,80 @@
       "version": 2616,
       "uid": "tfu4ws7wgoca38a",
       "runId": 621230677
+    },
+    "CM50Yrp2nbR68JK": {
+      "name": "Виктор",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 110,
+      "win": false,
+      "kills": 565,
+      "ultra": 2,
+      "skills": [
+        1,
+        27,
+        3,
+        4,
+        17,
+        23,
+        16
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "CM50Yrp2nbR68JK",
+      "runId": 621230677
+    },
+    "WoxUmfP37M78eln": {
+      "name": "lobo:(solitario",
+      "char": 8,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 22,
+      "win": false,
+      "kills": 289,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        13
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "WoxUmfP37M78eln",
+      "runId": 621230677
+    },
+    "BGlj46My038e60S": {
+      "name": "Zhubakka_2.0",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 110,
+      "bwep": 111,
+      "win": false,
+      "kills": 1026,
+      "ultra": 2,
+      "skills": [
+        27,
+        29,
+        1,
+        4,
+        3,
+        23,
+        17
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "BGlj46My038e60S",
+      "runId": 621230677
     }
   }
 }
