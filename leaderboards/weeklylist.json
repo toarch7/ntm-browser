@@ -194,6 +194,56 @@
       "version": 2616,
       "uid": "5LDyH0gC9bpH4h5",
       "runId": 621230677
+    },
+    "g7nTeU9lpy5rupK": {
+      "name": "g.s",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 110,
+      "bwep": 15,
+      "win": false,
+      "kills": 306,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        6,
+        28,
+        8
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "g7nTeU9lpy5rupK",
+      "runId": 621230677
+    },
+    "xe04jGs6TXUT5kx": {
+      "name": "hobobazaar",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 118,
+      "bwep": 97,
+      "win": false,
+      "kills": 1161,
+      "ultra": 1,
+      "skills": [
+        1,
+        4,
+        3,
+        10,
+        27,
+        9,
+        17
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "xe04jGs6TXUT5kx",
+      "runId": 621230677
     }
   }
 }

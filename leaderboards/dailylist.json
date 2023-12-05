@@ -1,4 +1,58 @@
 {
   "day": 5,
-  "entries": {}
+  "entries": {
+    "892Y5ozZ0h8r0Kq": {
+      "name": "Natsume",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 5,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "892Y5ozZ0h8r0Kq",
+      "runId": 822295740
+    },
+    "m1WuElt2bxVi1R3": {
+      "name": "Mordekaid",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "m1WuElt2bxVi1R3",
+      "runId": 822295740
+    },
+    "KC634kAkCP4e31R": {
+      "name": "calibre3443",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "KC634kAkCP4e31R",
+      "runId": 822295740
+    }
+  }
 }
