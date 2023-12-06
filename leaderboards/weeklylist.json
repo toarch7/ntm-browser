@@ -990,6 +990,27 @@
       "version": 2616,
       "uid": "u3RpEO1a8e5UGt8",
       "runId": 621230677
+    },
+    "A9Ge5MQV8RW6xEP": {
+      "name": "Gloomy",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 110,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        12,
+        10
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "A9Ge5MQV8RW6xEP",
+      "runId": 621230677
     }
   }
 }

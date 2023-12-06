@@ -538,6 +538,69 @@
       "version": 2616,
       "uid": "u3RpEO1a8e5UGt8",
       "runId": 406184137
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 33,
+      "win": false,
+      "kills": 397,
+      "ultra": 0,
+      "skills": [
+        3,
+        10,
+        4,
+        1,
+        23,
+        7,
+        27
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 406184137
+    },
+    "T7A7lNI3tT44BS8": {
+      "name": "M3MO",
+      "char": 8,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 4,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        8,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "T7A7lNI3tT44BS8",
+      "runId": 406184137
+    },
+    "A9Ge5MQV8RW6xEP": {
+      "name": "Gloomy",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "A9Ge5MQV8RW6xEP",
+      "runId": 406184137
     }
   }
 }
