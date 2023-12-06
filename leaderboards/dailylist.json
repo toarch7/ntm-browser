@@ -755,6 +755,46 @@
       "version": 2616,
       "uid": "ln7c9VWP1ZbRoNo",
       "runId": 406184137
+    },
+    "JB2OheX1tC9q29j": {
+      "name": "лох",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 39,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "JB2OheX1tC9q29j",
+      "runId": 406184137
+    },
+    "MW6eS33m61v6fOg": {
+      "name": "EvilCat",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2617,
+      "uid": "MW6eS33m61v6fOg",
+      "runId": 406184137
     }
   }
 }
