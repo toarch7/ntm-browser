@@ -890,6 +890,29 @@
       "version": 2616,
       "uid": "4N3nLcqx43V3Ta1",
       "runId": 621230677
+    },
+    "OpzMp1qAU13kdHB": {
+      "name": "Seeker22",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 110,
+      "bwep": 75,
+      "win": false,
+      "kills": 234,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        29,
+        28
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "OpzMp1qAU13kdHB",
+      "runId": 621230677
     }
   }
 }

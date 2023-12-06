@@ -185,6 +185,53 @@
       "version": 2616,
       "uid": "jHRw1v7MkJXG3ry",
       "runId": 406184137
+    },
+    "C8GX5N79fic8tF7": {
+      "name": "Gufo",
+      "char": 9,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 46,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        8,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "C8GX5N79fic8tF7",
+      "runId": 406184137
+    },
+    "Q3An8fn5Wyc5pXq": {
+      "name": "azyz",
+      "char": 2,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 83,
+      "bwep": 103,
+      "win": false,
+      "kills": 1341,
+      "ultra": 2,
+      "skills": [
+        8,
+        4,
+        29,
+        10,
+        9,
+        1,
+        27
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "Q3An8fn5Wyc5pXq",
+      "runId": 406184137
     }
   }
 }
