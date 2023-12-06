@@ -1,4 +1,76 @@
 {
   "day": 6,
-  "entries": {}
+  "entries": {
+    "xe04jGs6TXUT5kx": {
+      "name": "hobobazaar",
+      "char": 9,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 100,
+      "bwep": 28,
+      "win": false,
+      "kills": 1205,
+      "ultra": 1,
+      "skills": [
+        1,
+        3,
+        4,
+        27,
+        9,
+        10,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xe04jGs6TXUT5kx",
+      "runId": 406184137
+    },
+    "BBQ6o8B029Q01rW": {
+      "name": "Bakurama1234",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 16,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        7,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BBQ6o8B029Q01rW",
+      "runId": 406184137
+    },
+    "4N3nLcqx43V3Ta1": {
+      "name": "Seeker41",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 2,
+      "win": false,
+      "kills": 185,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        1,
+        14,
+        29
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4N3nLcqx43V3Ta1",
+      "runId": 406184137
+    }
+  }
 }
