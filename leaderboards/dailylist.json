@@ -647,6 +647,98 @@
       "version": 2616,
       "uid": "7iFA0ksqdr55yfT",
       "runId": 406184137
+    },
+    "6o9Cs6T1bSEbu4F": {
+      "name": "justRalyx",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6o9Cs6T1bSEbu4F",
+      "runId": 406184137
+    },
+    "3SJGpTwgDBf95VC": {
+      "name": "Zedans",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 3,
+      "win": false,
+      "kills": 209,
+      "ultra": 0,
+      "skills": [
+        13,
+        16,
+        29,
+        22,
+        2,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3SJGpTwgDBf95VC",
+      "runId": 406184137
+    },
+    "j736i02D8Jf1j7i": {
+      "name": "zar",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        7,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "j736i02D8Jf1j7i",
+      "runId": 406184137
+    },
+    "aDrlGmJ9F4GRkKh": {
+      "name": "Kitczu",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 16,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        12,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aDrlGmJ9F4GRkKh",
+      "runId": 406184137
     }
   }
 }
