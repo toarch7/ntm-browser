@@ -296,6 +296,43 @@
       "version": 2616,
       "uid": "892Y5ozZ0h8r0Kq",
       "runId": 406184137
+    },
+    "E880bax9wvoE28n": {
+      "name": "Seeker288.45",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "E880bax9wvoE28n",
+      "runId": 406184137
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 16,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        7,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 406184137
     }
   }
 }
