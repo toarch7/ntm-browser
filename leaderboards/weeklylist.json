@@ -1283,6 +1283,77 @@
       "version": 2616,
       "uid": "O81F41vv3XF8YAe",
       "runId": 621230677
+    },
+    "WUG2iLp5VphHo12": {
+      "name": "абоба",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 110,
+      "bwep": 28,
+      "win": false,
+      "kills": 208,
+      "ultra": 0,
+      "skills": [
+        4,
+        12
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "WUG2iLp5VphHo12",
+      "runId": 621230677
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 3,
+      "win": false,
+      "kills": 373,
+      "ultra": 0,
+      "skills": [
+        8,
+        7,
+        27,
+        13,
+        1,
+        14
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 621230677
+    },
+    "ab25r4ETlL2Myj6": {
+      "name": "ElBabax",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 118,
+      "bwep": 35,
+      "win": false,
+      "kills": 681,
+      "ultra": 1,
+      "skills": [
+        4,
+        21,
+        27,
+        23,
+        1,
+        17
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "ab25r4ETlL2Myj6",
+      "runId": 621230677
     }
   }
 }
