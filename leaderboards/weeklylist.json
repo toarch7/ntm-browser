@@ -735,18 +735,18 @@
       "char": 8,
       "skin": true,
       "area": 1,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 1,
       "wep": 110,
-      "bwep": 0,
+      "bwep": 103,
       "win": false,
-      "kills": 810,
-      "ultra": 2,
+      "kills": 1131,
+      "ultra": 1,
       "skills": [
+        8,
         4,
         29,
         10,
-        8,
         1,
         9,
         27
@@ -1137,6 +1137,27 @@
       "crown": 7,
       "version": 2616,
       "uid": "5j6iFVsPX5Ygg56",
+      "runId": 621230677
+    },
+    "g2Q1du6j6F1tSqS": {
+      "name": "LisArt10",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 110,
+      "bwep": 6,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        7,
+        23
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "g2Q1du6j6F1tSqS",
       "runId": 621230677
     }
   }
