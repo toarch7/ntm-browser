@@ -1,4 +1,113 @@
 {
   "day": 7,
-  "entries": {}
+  "entries": {
+    "GeiB1xoKF5U1frs": {
+      "name": "DrCore",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 22,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GeiB1xoKF5U1frs",
+      "runId": 1312011923
+    },
+    "RGDd572P6MfWctg": {
+      "name": "Dany",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "RGDd572P6MfWctg",
+      "runId": 1312011923
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 35,
+      "bwep": 60,
+      "win": false,
+      "kills": 2117,
+      "ultra": 0,
+      "skills": [
+        3,
+        23,
+        1,
+        27,
+        10,
+        4,
+        17
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1312011923
+    },
+    "5LDyH0gC9bpH4h5": {
+      "name": "bajnmen",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 13,
+      "win": false,
+      "kills": 304,
+      "ultra": 0,
+      "skills": [
+        3,
+        27,
+        23,
+        13,
+        22,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5LDyH0gC9bpH4h5",
+      "runId": 1312011923
+    },
+    "Rs5cfys0z209826": {
+      "name": "Myamsar2",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Rs5cfys0z209826",
+      "runId": 1312011923
+    }
+  }
 }
