@@ -1074,22 +1074,22 @@
       "name": "DaRELFinklDnkle",
       "char": 8,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
       "wep": 13,
       "bwep": 110,
       "win": false,
-      "kills": 482,
-      "ultra": 0,
+      "kills": 609,
+      "ultra": 1,
       "skills": [
-        16,
+        29,
         13,
-        23,
         27,
-        17,
+        23,
         1,
-        7
+        7,
+        17
       ],
       "crown": 7,
       "version": 2616,
@@ -1403,6 +1403,30 @@
       "crown": 7,
       "version": 2616,
       "uid": "7oWUDto9Q5o0WrJ",
+      "runId": 621230677
+    },
+    "5K55B5rK96XBtGw": {
+      "name": "FetusArm",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 0,
+      "win": false,
+      "kills": 576,
+      "ultra": 1,
+      "skills": [
+        4,
+        10,
+        1,
+        27,
+        14
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "5K55B5rK96XBtGw",
       "runId": 621230677
     }
   }
