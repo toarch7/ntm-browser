@@ -324,6 +324,75 @@
       "version": 2616,
       "uid": "wuoe1dYuTZ42gRo",
       "runId": 1999903588
+    },
+    "hpZ5Y6M9A401v39": {
+      "name": "Slizne_grad",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 50,
+      "win": false,
+      "kills": 118,
+      "ultra": 0,
+      "skills": [
+        4,
+        27,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "hpZ5Y6M9A401v39",
+      "runId": 1999903588
+    },
+    "2gc1fF0klt0YrI4": {
+      "name": "неономизация",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 17,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        17
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "2gc1fF0klt0YrI4",
+      "runId": 1999903588
+    },
+    "WoxUmfP37M78eln": {
+      "name": "lobo:(solitario",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 12,
+      "win": false,
+      "kills": 289,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        23,
+        4,
+        27,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "WoxUmfP37M78eln",
+      "runId": 1999903588
     }
   }
 }
