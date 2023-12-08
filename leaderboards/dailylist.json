@@ -500,6 +500,38 @@
       "version": 2616,
       "uid": "1D4xYReFxE6xyc7",
       "runId": 1999903588
+    },
+    "LSTmL366K5hhjpG": {
+      "name": "хзвроденик",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 29,
+      "crown": 1,
+      "version": 2616,
+      "uid": "LSTmL366K5hhjpG",
+      "runId": 1999903588
+    },
+    "2YX5MRhNhDzkpTt": {
+      "name": "ant_greedy",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 15,
+      "crown": 1,
+      "version": 2616,
+      "uid": "2YX5MRhNhDzkpTt",
+      "runId": 1999903588
     }
   }
 }
