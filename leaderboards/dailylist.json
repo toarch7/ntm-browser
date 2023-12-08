@@ -223,6 +223,89 @@
       "version": 2616,
       "uid": "4N3nLcqx43V3Ta1",
       "runId": 1999903588
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        7,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 1999903588
+    },
+    "26Xp3vM9QPm5NE5": {
+      "name": "Spaguettiven",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 3,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        8,
+        7
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "26Xp3vM9QPm5NE5",
+      "runId": 1999903588
+    },
+    "E3gI7quBH9qA245": {
+      "name": "Fake",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 17,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        27,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "E3gI7quBH9qA245",
+      "runId": 1999903588
+    },
+    "5j6iFVsPX5Ygg56": {
+      "name": "Bandit",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 5,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5j6iFVsPX5Ygg56",
+      "runId": 1999903588
     }
   }
 }
