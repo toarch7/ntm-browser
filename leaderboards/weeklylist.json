@@ -1385,20 +1385,20 @@
       "name": "adriandgel",
       "char": 8,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 110,
-      "bwep": 0,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 12,
+      "bwep": 9,
       "win": false,
-      "kills": 406,
-      "ultra": 0,
+      "kills": 563,
+      "ultra": 1,
       "skills": [
         10,
         8,
         1,
+        4,
         14,
-        29,
         9
       ],
       "crown": 7,
@@ -1497,6 +1497,27 @@
       "crown": 7,
       "version": 2616,
       "uid": "Ej591VGr78TF1Z9",
+      "runId": 621230677
+    },
+    "fw5S1UfnhkI086O": {
+      "name": "Brzxo",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 17,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "fw5S1UfnhkI086O",
       "runId": 621230677
     }
   }
