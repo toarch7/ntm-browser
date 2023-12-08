@@ -551,17 +551,18 @@
       "char": 8,
       "skin": true,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 28,
-      "bwep": 3,
+      "wep": 88,
+      "bwep": 110,
       "win": false,
-      "kills": 199,
+      "kills": 244,
       "ultra": 0,
       "skills": [
-        13,
         8,
-        1
+        13,
+        1,
+        7
       ],
       "crown": 7,
       "version": 2616,
@@ -1427,6 +1428,50 @@
       "crown": 7,
       "version": 2616,
       "uid": "5K55B5rK96XBtGw",
+      "runId": 621230677
+    },
+    "9D8Eg5WhUQ8X01f": {
+      "name": "Lunky34",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 110,
+      "bwep": 14,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        4,
+        10
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "9D8Eg5WhUQ8X01f",
+      "runId": 621230677
+    },
+    "xzd1fF0WacV2Ub5": {
+      "name": "dayyyo",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 28,
+      "bwep": 110,
+      "win": false,
+      "kills": 225,
+      "ultra": 0,
+      "skills": [
+        21,
+        6,
+        7,
+        4
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "xzd1fF0WacV2Ub5",
       "runId": 621230677
     }
   }
