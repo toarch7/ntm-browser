@@ -3,22 +3,25 @@
   "entries": {
     "P48as3Q3rUCnIk5": {
       "name": "Cruzadosxd111",
-      "char": 3,
-      "skin": false,
-      "area": 104,
+      "char": 8,
+      "skin": true,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 8,
-      "bwep": 41,
+      "wep": 13,
+      "bwep": 110,
       "win": false,
-      "kills": 160,
+      "kills": 541,
       "ultra": 0,
       "skills": [
-        1,
+        13,
         27,
-        7
+        10,
+        23,
+        7,
+        17
       ],
-      "crown": 11,
+      "crown": 7,
       "version": 2616,
       "uid": "P48as3Q3rUCnIk5",
       "runId": 621230677
@@ -1741,6 +1744,31 @@
       "crown": 7,
       "version": 2616,
       "uid": "6KdwhI240xOAZ7G",
+      "runId": 621230677
+    },
+    "4P9oAQ7ePb4w41y": {
+      "name": "dragonfucker",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 110,
+      "bwep": 23,
+      "win": false,
+      "kills": 370,
+      "ultra": 0,
+      "skills": [
+        16,
+        10,
+        23,
+        7,
+        8,
+        14
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "4P9oAQ7ePb4w41y",
       "runId": 621230677
     }
   }
