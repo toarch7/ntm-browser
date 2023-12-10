@@ -1533,18 +1533,21 @@
       "name": "Sharashckin",
       "char": 8,
       "skin": true,
-      "area": 2,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
       "wep": 110,
-      "bwep": 0,
+      "bwep": 60,
       "win": false,
-      "kills": 122,
-      "ultra": 0,
+      "kills": 541,
+      "ultra": 1,
       "skills": [
         1,
+        4,
+        13,
         7,
-        13
+        12,
+        9
       ],
       "crown": 7,
       "version": 2616,
@@ -1815,6 +1818,27 @@
       "crown": 7,
       "version": 2616,
       "uid": "CrJF4R7i3XGo7io",
+      "runId": 621230677
+    },
+    "shQl9VT5MJtg2F4": {
+      "name": "Postushonok",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 3,
+      "win": false,
+      "kills": 173,
+      "ultra": 0,
+      "skills": [
+        7,
+        8
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "shQl9VT5MJtg2F4",
       "runId": 621230677
     }
   }
