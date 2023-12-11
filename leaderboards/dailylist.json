@@ -289,6 +289,79 @@
       "version": 2616,
       "uid": "32s05rGF0vJlrF3",
       "runId": 503859091
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 28,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        16
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 503859091
+    },
+    "2gc1fF0klt0YrI4": {
+      "name": "неономизация",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 77,
+      "win": false,
+      "kills": 253,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        22,
+        17,
+        7,
+        23
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "2gc1fF0klt0YrI4",
+      "runId": 503859091
+    },
+    "wuoe1dYuTZ42gRo": {
+      "name": "ERTINE",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 52,
+      "bwep": 91,
+      "win": false,
+      "kills": 884,
+      "ultra": 1,
+      "skills": [
+        8,
+        4,
+        27,
+        3,
+        17,
+        23,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wuoe1dYuTZ42gRo",
+      "runId": 503859091
     }
   }
 }
