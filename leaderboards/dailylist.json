@@ -768,6 +768,58 @@
       "version": 2616,
       "uid": "xzd1fF0WacV2Ub5",
       "runId": 503859091
+    },
+    "T5b2x8wYvo546e4": {
+      "name": "AngelMich",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 54,
+      "bwep": 11,
+      "win": false,
+      "kills": 760,
+      "ultra": 1,
+      "skills": [
+        4,
+        1,
+        3,
+        13,
+        23,
+        27,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "T5b2x8wYvo546e4",
+      "runId": 503859091
+    },
+    "x6Uslf98H97W04S": {
+      "name": "cuc",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 74,
+      "win": false,
+      "kills": 306,
+      "ultra": 0,
+      "skills": [
+        3,
+        17,
+        23,
+        22,
+        6,
+        27,
+        1
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "x6Uslf98H97W04S",
+      "runId": 503859091
     }
   }
 }
