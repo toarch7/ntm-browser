@@ -143,6 +143,53 @@
       "version": 2616,
       "uid": "GeiB1xoKF5U1frs",
       "runId": 503859091
+    },
+    "AiWxaCdP64Hk6gu": {
+      "name": "Smx",
+      "char": 12,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 35,
+      "win": false,
+      "kills": 1005,
+      "ultra": 1,
+      "skills": [
+        27,
+        8,
+        4,
+        12,
+        13,
+        23,
+        22
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "AiWxaCdP64Hk6gu",
+      "runId": 503859091
+    },
+    "j736i02D8Jf1j7i": {
+      "name": "zar",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 16,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "j736i02D8Jf1j7i",
+      "runId": 503859091
     }
   }
 }
