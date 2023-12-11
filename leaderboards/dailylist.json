@@ -891,6 +891,43 @@
       "version": 2616,
       "uid": "juew3tXt5jSp0yU",
       "runId": 503859091
+    },
+    "Rs5cfys0z209826": {
+      "name": "Myamsar2",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Rs5cfys0z209826",
+      "runId": 503859091
+    },
+    "g76z78LjOTdhCfi": {
+      "name": "Stal",
+      "char": 12,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 81,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        1,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g76z78LjOTdhCfi",
+      "runId": 503859091
     }
   }
 }
