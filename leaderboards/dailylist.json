@@ -928,6 +928,70 @@
       "version": 2616,
       "uid": "g76z78LjOTdhCfi",
       "runId": 503859091
+    },
+    "3f9PjvXDFz3cKia": {
+      "name": "eyes903",
+      "char": 9,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 46,
+      "win": false,
+      "kills": 258,
+      "ultra": 0,
+      "skills": [
+        8,
+        7,
+        1,
+        10,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3f9PjvXDFz3cKia",
+      "runId": 503859091
+    },
+    "duf8hW91lc6r07T": {
+      "name": "amongus50",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 73,
+      "bwep": 66,
+      "win": false,
+      "kills": 289,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7,
+        14,
+        21
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "duf8hW91lc6r07T",
+      "runId": 503859091
+    },
+    "m6LA0Y3Sbik4kOG": {
+      "name": "mariano",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 21,
+      "crown": 1,
+      "version": 2616,
+      "uid": "m6LA0Y3Sbik4kOG",
+      "runId": 503859091
     }
   }
 }
