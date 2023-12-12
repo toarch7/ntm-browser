@@ -47,6 +47,76 @@
       "version": 2616,
       "uid": "9DR7O8k7CM77tS4",
       "runId": 1886093752
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 94,
+      "bwep": 35,
+      "win": false,
+      "kills": 1926,
+      "ultra": 1,
+      "skills": [
+        3,
+        27,
+        1,
+        21,
+        23,
+        6,
+        4
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1886093752
+    },
+    "jfWhDvf41JRnFV9": {
+      "name": "Eblan",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 4,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "jfWhDvf41JRnFV9",
+      "runId": 1886093752
+    },
+    "UMuKuC7f9rqOG8F": {
+      "name": "Pasitotuntun",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 5,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "UMuKuC7f9rqOG8F",
+      "runId": 1886093752
     }
   }
 }
