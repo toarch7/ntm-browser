@@ -796,6 +796,55 @@
       "version": 2616,
       "uid": "5XmhVU3Jt2ym8X4",
       "runId": 90648994
+    },
+    "g1KX3WLbSy3t5k5": {
+      "name": "NuclearDeathp0",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 26,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        12,
+        28,
+        1,
+        14
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "g1KX3WLbSy3t5k5",
+      "runId": 90648994
+    },
+    "W5rnxqd90ZdVc7B": {
+      "name": "Mikuo",
+      "char": 4,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 107,
+      "win": false,
+      "kills": 319,
+      "ultra": 1,
+      "skills": [
+        10,
+        13,
+        1,
+        17,
+        4,
+        25,
+        28
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "W5rnxqd90ZdVc7B",
+      "runId": 90648994
     }
   }
 }
