@@ -695,6 +695,103 @@
       "version": 2616,
       "uid": "JjfQUzHIi5Cdi1h",
       "runId": 90648994
+    },
+    "2gc1fF0klt0YrI4": {
+      "name": "неономизация",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 3,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        12,
+        26,
+        22,
+        14
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "2gc1fF0klt0YrI4",
+      "runId": 90648994
+    },
+    "g76z78LjOTdhCfi": {
+      "name": "Stal",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 27,
+      "win": false,
+      "kills": 230,
+      "ultra": 0,
+      "skills": [
+        10,
+        13,
+        4,
+        12,
+        6
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "g76z78LjOTdhCfi",
+      "runId": 90648994
+    },
+    "MW6eS33m61v6fOg": {
+      "name": "EvilCat",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 107,
+      "win": false,
+      "kills": 308,
+      "ultra": 0,
+      "skills": [
+        10,
+        17,
+        4,
+        14,
+        12,
+        25,
+        2
+      ],
+      "crown": 9,
+      "version": 2617,
+      "uid": "MW6eS33m61v6fOg",
+      "runId": 90648994
+    },
+    "5XmhVU3Jt2ym8X4": {
+      "name": "LoxDomashniy",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 26,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        7,
+        28,
+        1,
+        12,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "5XmhVU3Jt2ym8X4",
+      "runId": 90648994
     }
   }
 }
