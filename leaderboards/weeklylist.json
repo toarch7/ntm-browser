@@ -1062,6 +1062,51 @@
       "version": 2616,
       "uid": "BBQ6o8B029Q01rW",
       "runId": 90648994
+    },
+    "O3hdzc5XTfxGgE6": {
+      "name": "Samisplay",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 6,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        10,
+        17,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "O3hdzc5XTfxGgE6",
+      "runId": 90648994
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 4,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        10,
+        13,
+        1,
+        17
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 90648994
     }
   }
 }
