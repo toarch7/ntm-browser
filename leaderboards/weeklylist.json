@@ -870,6 +870,76 @@
       "version": 2616,
       "uid": "Z8ODOgdSq23HDE3",
       "runId": 90648994
+    },
+    "RGDd572P6MfWctg": {
+      "name": "Dany",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 27,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        10,
+        26,
+        1,
+        14
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "RGDd572P6MfWctg",
+      "runId": 90648994
+    },
+    "5ak7Lp8CJetFsSi": {
+      "name": "Chara",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 5,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        10,
+        28,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "5ak7Lp8CJetFsSi",
+      "runId": 90648994
+    },
+    "CrJF4R7i3XGo7io": {
+      "name": "kimmich",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 26,
+      "win": false,
+      "kills": 233,
+      "ultra": 0,
+      "skills": [
+        7,
+        28,
+        1,
+        14,
+        8,
+        10
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "CrJF4R7i3XGo7io",
+      "runId": 90648994
     }
   }
 }
