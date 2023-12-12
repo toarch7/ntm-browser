@@ -1,4 +1,128 @@
 {
   "seed": 90648994,
-  "entries": {}
+  "entries": {
+    "g7nTeU9lpy5rupK": {
+      "name": "g.s",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 26,
+      "win": false,
+      "kills": 238,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        14,
+        8
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "g7nTeU9lpy5rupK",
+      "runId": 90648994
+    },
+    "8rAm6d4nGT7ghHs": {
+      "name": "chubi",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 26,
+      "win": false,
+      "kills": 221,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        13,
+        7,
+        10
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "8rAm6d4nGT7ghHs",
+      "runId": 90648994
+    },
+    "AiWxaCdP64Hk6gu": {
+      "name": "Smx",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 83,
+      "bwep": 111,
+      "win": false,
+      "kills": 796,
+      "ultra": 2,
+      "skills": [
+        27,
+        8,
+        12,
+        13,
+        23,
+        10,
+        1,
+        14,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "AiWxaCdP64Hk6gu",
+      "runId": 90648994
+    },
+    "OG6oUWfDQdLREP4": {
+      "name": "wdwasdsa",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 3,
+      "win": false,
+      "kills": 220,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        12,
+        13,
+        2,
+        19
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
+      "runId": 90648994
+    },
+    "qJ29VMho2gFcI9p": {
+      "name": "sebas2382",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 26,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        10,
+        7
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "qJ29VMho2gFcI9p",
+      "runId": 90648994
+    }
+  }
 }
