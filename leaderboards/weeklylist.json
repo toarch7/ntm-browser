@@ -123,6 +123,53 @@
       "version": 2616,
       "uid": "qJ29VMho2gFcI9p",
       "runId": 90648994
+    },
+    "UMuKuC7f9rqOG8F": {
+      "name": "Pasitotuntun",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 26,
+      "win": false,
+      "kills": 229,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        16,
+        8
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "UMuKuC7f9rqOG8F",
+      "runId": 90648994
+    },
+    "1483bQyz2b2g4gG": {
+      "name": "MONSTER",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 0,
+      "win": false,
+      "kills": 233,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        8,
+        14,
+        26
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "1483bQyz2b2g4gG",
+      "runId": 90648994
     }
   }
 }
