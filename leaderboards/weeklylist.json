@@ -1611,6 +1611,27 @@
       "version": 2616,
       "uid": "07G6h6Y87K3t72h",
       "runId": 90648994
+    },
+    "Z615sm73xiiQb4r": {
+      "name": "FOTOSINTESIS",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 27,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        10,
+        28
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "Z615sm73xiiQb4r",
+      "runId": 90648994
     }
   }
 }
