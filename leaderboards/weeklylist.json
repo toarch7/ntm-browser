@@ -1320,6 +1320,52 @@
       "version": 2616,
       "uid": "D5gfcsIM34FdA0B",
       "runId": 90648994
+    },
+    "C5NK0x36H7C06FF": {
+      "name": "Соплежуй",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 26,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        10,
+        13,
+        1,
+        12
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "C5NK0x36H7C06FF",
+      "runId": 90648994
+    },
+    "HzYh5z9LZ4U329H": {
+      "name": "pisyn",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 20,
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        7,
+        28,
+        1,
+        14
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "HzYh5z9LZ4U329H",
+      "runId": 90648994
     }
   }
 }
