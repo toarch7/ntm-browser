@@ -982,18 +982,19 @@
       "name": "Kitczu",
       "char": 4,
       "skin": false,
-      "area": 2,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 4,
-      "bwep": 21,
+      "wep": 3,
+      "bwep": 69,
       "win": false,
-      "kills": 65,
+      "kills": 166,
       "ultra": 0,
       "skills": [
         12,
-        17,
-        1
+        13,
+        1,
+        8
       ],
       "crown": 9,
       "version": 2616,
@@ -1586,6 +1587,29 @@
       "crown": 9,
       "version": 2616,
       "uid": "E8IM0cIHUeDCUJ4",
+      "runId": 90648994
+    },
+    "07G6h6Y87K3t72h": {
+      "name": "roronoa",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 26,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        10,
+        13,
+        1,
+        14
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "07G6h6Y87K3t72h",
       "runId": 90648994
     }
   }
