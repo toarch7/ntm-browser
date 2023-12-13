@@ -1391,6 +1391,52 @@
       "version": 2616,
       "uid": "hG1hn8Z8McdODRE",
       "runId": 90648994
+    },
+    "383EB796148L66W": {
+      "name": "Fas",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 12,
+      "win": false,
+      "kills": 222,
+      "ultra": 0,
+      "skills": [
+        10,
+        28,
+        1,
+        14,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "383EB796148L66W",
+      "runId": 90648994
+    },
+    "2pEX4MP6Go56449": {
+      "name": "balls",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 26,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        13,
+        28,
+        17
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "2pEX4MP6Go56449",
+      "runId": 90648994
     }
   }
 }
