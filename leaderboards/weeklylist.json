@@ -1029,20 +1029,21 @@
       "name": "УльтраДед",
       "char": 4,
       "skin": false,
-      "area": 5,
-      "subarea": 2,
+      "area": 6,
+      "subarea": 1,
       "loops": 0,
-      "wep": 26,
-      "bwep": 20,
+      "wep": 30,
+      "bwep": 26,
       "win": false,
-      "kills": 210,
+      "kills": 272,
       "ultra": 0,
       "skills": [
         10,
         17,
         1,
         14,
-        4
+        4,
+        25
       ],
       "crown": 9,
       "version": 2616,
@@ -1405,9 +1406,9 @@
       "subarea": 3,
       "loops": 0,
       "wep": 26,
-      "bwep": 12,
+      "bwep": 20,
       "win": false,
-      "kills": 222,
+      "kills": 234,
       "ultra": 0,
       "skills": [
         10,
@@ -1560,6 +1561,30 @@
       "crown": 9,
       "version": 2616,
       "uid": "Mm83ACk93iM2155",
+      "runId": 90648994
+    },
+    "E8IM0cIHUeDCUJ4": {
+      "name": "бскинроги",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 79,
+      "win": false,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        13,
+        7,
+        1,
+        14,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "E8IM0cIHUeDCUJ4",
       "runId": 90648994
     }
   }
