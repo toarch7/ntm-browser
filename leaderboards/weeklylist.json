@@ -781,19 +781,20 @@
       "name": "LoxDomashniy",
       "char": 4,
       "skin": false,
-      "area": 5,
-      "subarea": 2,
+      "area": 7,
+      "subarea": 1,
       "loops": 0,
-      "wep": 6,
+      "wep": 20,
       "bwep": 26,
       "win": false,
-      "kills": 179,
+      "kills": 290,
       "ultra": 0,
       "skills": [
         7,
         28,
         1,
         12,
+        17,
         4
       ],
       "crown": 9,
@@ -1365,6 +1366,30 @@
       "crown": 9,
       "version": 2616,
       "uid": "HzYh5z9LZ4U329H",
+      "runId": 90648994
+    },
+    "hG1hn8Z8McdODRE": {
+      "name": "Vite225",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 26,
+      "win": false,
+      "kills": 190,
+      "ultra": 0,
+      "skills": [
+        10,
+        28,
+        1,
+        12,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "hG1hn8Z8McdODRE",
       "runId": 90648994
     }
   }
