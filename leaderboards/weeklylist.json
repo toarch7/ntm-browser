@@ -1332,20 +1332,21 @@
       "name": "Соплежуй",
       "char": 4,
       "skin": false,
-      "area": 5,
-      "subarea": 2,
+      "area": 7,
+      "subarea": 1,
       "loops": 0,
       "wep": 26,
       "bwep": 3,
       "win": false,
-      "kills": 194,
+      "kills": 291,
       "ultra": 0,
       "skills": [
         10,
         13,
         1,
         14,
-        4
+        4,
+        7
       ],
       "crown": 9,
       "version": 2616,
@@ -1680,6 +1681,29 @@
       "crown": 9,
       "version": 2616,
       "uid": "7oWUDto9Q5o0WrJ",
+      "runId": 90648994
+    },
+    "sR57FHtdL3Evdz2": {
+      "name": "asan",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 3,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        12,
+        13,
+        1,
+        8
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "sR57FHtdL3Evdz2",
       "runId": 90648994
     }
   }
