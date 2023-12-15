@@ -308,6 +308,72 @@
       "version": 2616,
       "uid": "Q3An8fn5Wyc5pXq",
       "runId": 1277320093
+    },
+    "dY9wf58UQp5Y0M3": {
+      "name": "savage",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "dY9wf58UQp5Y0M3",
+      "runId": 1277320093
+    },
+    "jfWhDvf41JRnFV9": {
+      "name": "Eblan",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "jfWhDvf41JRnFV9",
+      "runId": 1277320093
+    },
+    "2gc1fF0klt0YrI4": {
+      "name": "неономизация",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 37,
+      "bwep": 60,
+      "win": false,
+      "kills": 575,
+      "ultra": 2,
+      "skills": [
+        27,
+        23,
+        4,
+        3,
+        1,
+        24,
+        8,
+        25,
+        17
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "2gc1fF0klt0YrI4",
+      "runId": 1277320093
     }
   }
 }
