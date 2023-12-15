@@ -820,6 +820,52 @@
       "version": 2616,
       "uid": "kN8a1gB6t4B3p1c",
       "runId": 1277320093
+    },
+    "CM50Yrp2nbR68JK": {
+      "name": "Виктор",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 0,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CM50Yrp2nbR68JK",
+      "runId": 1277320093
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 37,
+      "win": false,
+      "kills": 348,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        6,
+        1,
+        4,
+        3,
+        17
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1277320093
     }
   }
 }
