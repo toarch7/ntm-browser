@@ -1899,6 +1899,54 @@
       "version": 2616,
       "uid": "0TGnFo9fBWzl7lI",
       "runId": 90648994
+    },
+    "m2WUtrHB0iOjVCA": {
+      "name": "See",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 26,
+      "win": false,
+      "kills": 219,
+      "ultra": 0,
+      "skills": [
+        13,
+        17,
+        1,
+        14,
+        8,
+        10,
+        7
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "m2WUtrHB0iOjVCA",
+      "runId": 90648994
+    },
+    "R0H7R5EV7hkJ9M4": {
+      "name": "ckavert",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 0,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        10,
+        28,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "R0H7R5EV7hkJ9M4",
+      "runId": 90648994
     }
   }
 }
