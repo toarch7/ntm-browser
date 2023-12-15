@@ -356,16 +356,17 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 63,
-      "bwep": 26,
+      "wep": 26,
+      "bwep": 63,
       "win": false,
-      "kills": 209,
+      "kills": 216,
       "ultra": 0,
       "skills": [
+        10,
+        17,
         1,
-        27,
-        7,
-        14
+        14,
+        4
       ],
       "crown": 9,
       "version": 2616,
