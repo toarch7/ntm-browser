@@ -418,6 +418,48 @@
       "version": 2616,
       "uid": "t5YbY6MBl3YMRHM",
       "runId": 80855857
+    },
+    "6KdwhI240xOAZ7G": {
+      "name": "Sum",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 3,
+      "win": false,
+      "kills": 118,
+      "ultra": 0,
+      "skills": [
+        23,
+        27,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6KdwhI240xOAZ7G",
+      "runId": 80855857
+    },
+    "wuoe1dYuTZ42gRo": {
+      "name": "Адскийсосун",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wuoe1dYuTZ42gRo",
+      "runId": 80855857
     }
   }
 }
