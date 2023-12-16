@@ -270,6 +270,113 @@
       "version": 2616,
       "uid": "GNBvF84rQF7zOu2",
       "runId": 80855857
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 80855857
+    },
+    "5ak7Lp8CJetFsSi": {
+      "name": "Chara",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 3,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        10,
+        8,
+        22,
+        7
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "5ak7Lp8CJetFsSi",
+      "runId": 80855857
+    },
+    "T7A7lNI3tT44BS8": {
+      "name": "M3MO",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 3,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        23,
+        14,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "T7A7lNI3tT44BS8",
+      "runId": 80855857
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 55,
+      "win": false,
+      "kills": 336,
+      "ultra": 0,
+      "skills": [
+        23,
+        27,
+        13,
+        7,
+        17,
+        4,
+        8
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 80855857
+    },
+    "BBQ6o8B029Q01rW": {
+      "name": "Bakurama1234",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 27,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BBQ6o8B029Q01rW",
+      "runId": 80855857
     }
   }
 }
