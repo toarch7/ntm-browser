@@ -2433,6 +2433,53 @@
       "version": 2616,
       "uid": "3yQwe4G8fw4VU5A",
       "runId": 90648994
+    },
+    "LaZhxpO2v2R8i40": {
+      "name": "Fast",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 26,
+      "win": false,
+      "kills": 228,
+      "ultra": 0,
+      "skills": [
+        10,
+        13,
+        1,
+        14,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "LaZhxpO2v2R8i40",
+      "runId": 90648994
+    },
+    "gk1fKmp8fDB6o3l": {
+      "name": "DeDoc",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 26,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        10,
+        28,
+        1,
+        12
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "gk1fKmp8fDB6o3l",
+      "runId": 90648994
     }
   }
 }
