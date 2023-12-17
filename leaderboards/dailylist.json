@@ -468,6 +468,58 @@
       "version": 2616,
       "uid": "6JkvKN4bw94KHoT",
       "runId": 342177456
+    },
+    "2gCbMwZ7nQTbq3h": {
+      "name": "BATMAN",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 23,
+      "crown": 1,
+      "version": 2616,
+      "uid": "2gCbMwZ7nQTbq3h",
+      "runId": 342177456
+    },
+    "B4w4XCxp175F40D": {
+      "name": "Seeker90",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": 2616,
+      "uid": "B4w4XCxp175F40D",
+      "runId": 342177456
+    },
+    "BEqpwyHu5NO79O5": {
+      "name": "AlI'RezA",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 3,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BEqpwyHu5NO79O5",
+      "runId": 342177456
     }
   }
 }
