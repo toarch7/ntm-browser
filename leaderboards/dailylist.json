@@ -541,6 +541,52 @@
       "version": 2616,
       "uid": "CCxmje7n5Q1909j",
       "runId": 342177456
+    },
+    "wuoe1dYuTZ42gRo": {
+      "name": "Адскийсосун",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wuoe1dYuTZ42gRo",
+      "runId": 342177456
+    },
+    "kN8a1gB6t4B3p1c": {
+      "name": "Seekeer",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 12,
+      "win": false,
+      "kills": 281,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        1,
+        21,
+        17,
+        7,
+        3
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "kN8a1gB6t4B3p1c",
+      "runId": 342177456
     }
   }
 }
