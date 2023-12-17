@@ -315,6 +315,85 @@
       "version": 2616,
       "uid": "E3gI7quBH9qA245",
       "runId": 342177456
+    },
+    "x6Uslf98H97W04S": {
+      "name": "cuc",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 6,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        23,
+        1,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "x6Uslf98H97W04S",
+      "runId": 342177456
+    },
+    "g2Q1du6j6F1tSqS": {
+      "name": "LisArt10",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 6,
+      "win": false,
+      "kills": 197,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        1,
+        21,
+        17,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g2Q1du6j6F1tSqS",
+      "runId": 342177456
+    },
+    "D2BjvNVL4913h84": {
+      "name": "King.ragnar",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 16,
+      "crown": 1,
+      "version": 2616,
+      "uid": "D2BjvNVL4913h84",
+      "runId": 342177456
+    },
+    "3yQwe4G8fw4VU5A": {
+      "name": "Habil",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "3yQwe4G8fw4VU5A",
+      "runId": 342177456
     }
   }
 }
