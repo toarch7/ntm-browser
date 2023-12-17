@@ -649,6 +649,85 @@
       "version": 2616,
       "uid": "fw5S1UfnhkI086O",
       "runId": 342177456
+    },
+    "a9M5594CmAoqpsY": {
+      "name": "Luka",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 18,
+      "crown": 1,
+      "version": 2616,
+      "uid": "a9M5594CmAoqpsY",
+      "runId": 342177456
+    },
+    "O3hdzc5XTfxGgE6": {
+      "name": "Samisplay",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 34,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "O3hdzc5XTfxGgE6",
+      "runId": 342177456
+    },
+    "f622zVMML42thF7": {
+      "name": "GoD",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 3,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        17,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f622zVMML42thF7",
+      "runId": 342177456
+    },
+    "0H6M2irDo3cuMBA": {
+      "name": "Vann",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0H6M2irDo3cuMBA",
+      "runId": 342177456
     }
   }
 }
