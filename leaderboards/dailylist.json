@@ -953,6 +953,47 @@
       "version": 2616,
       "uid": "w1U15hJk5aXvz5u",
       "runId": 1522350033
+    },
+    "oe6xKlvJ58kHAGe": {
+      "name": "Tawagoto",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 16,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        3,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oe6xKlvJ58kHAGe",
+      "runId": 1522350033
+    },
+    "ql9yk49JAj2NY89": {
+      "name": "Сэйко",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 17,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ql9yk49JAj2NY89",
+      "runId": 1522350033
     }
   }
 }
