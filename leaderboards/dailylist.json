@@ -1,4 +1,94 @@
 {
   "day": 18,
-  "entries": {}
+  "entries": {
+    "BEqpwyHu5NO79O5": {
+      "name": "AlI'RezA",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 16,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BEqpwyHu5NO79O5",
+      "runId": 1522350033
+    },
+    "xzd1fF0WacV2Ub5": {
+      "name": "dayyyo",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 30,
+      "win": false,
+      "kills": 220,
+      "ultra": 0,
+      "skills": [
+        3,
+        1,
+        4,
+        21,
+        8,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xzd1fF0WacV2Ub5",
+      "runId": 1522350033
+    },
+    "Sy66SKO15sWowe3": {
+      "name": "Roto",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 1,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Sy66SKO15sWowe3",
+      "runId": 1522350033
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 26,
+      "win": false,
+      "kills": 252,
+      "ultra": 0,
+      "skills": [
+        3,
+        1,
+        4,
+        17,
+        22,
+        13,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1522350033
+    }
+  }
 }
