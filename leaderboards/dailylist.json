@@ -330,6 +330,47 @@
       "version": 2616,
       "uid": "9D8Eg5WhUQ8X01f",
       "runId": 1522350033
+    },
+    "x6Uslf98H97W04S": {
+      "name": "cuc",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 14,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        3,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "x6Uslf98H97W04S",
+      "runId": 1522350033
+    },
+    "g2Q1du6j6F1tSqS": {
+      "name": "LisArt10",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 71,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g2Q1du6j6F1tSqS",
+      "runId": 1522350033
     }
   }
 }
