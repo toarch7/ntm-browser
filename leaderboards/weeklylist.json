@@ -405,10 +405,10 @@
       "area": 7,
       "subarea": 2,
       "loops": 0,
-      "wep": 34,
-      "bwep": 26,
+      "wep": 26,
+      "bwep": 8,
       "win": false,
-      "kills": 313,
+      "kills": 314,
       "ultra": 0,
       "skills": [
         1,
@@ -444,6 +444,53 @@
       "crown": 9,
       "version": 2616,
       "uid": "6JkvKN4bw94KHoT",
+      "runId": 89727441
+    },
+    "C6HPtu9bPcjWXbA": {
+      "name": "UncleGohst",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 0,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "C6HPtu9bPcjWXbA",
+      "runId": 89727441
+    },
+    "CM50Yrp2nbR68JK": {
+      "name": "Виктор",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 44,
+      "bwep": 26,
+      "win": false,
+      "kills": 638,
+      "ultra": 1,
+      "skills": [
+        1,
+        16,
+        14,
+        6,
+        25,
+        3,
+        4,
+        19
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "CM50Yrp2nbR68JK",
       "runId": 89727441
     }
   }

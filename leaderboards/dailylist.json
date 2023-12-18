@@ -652,6 +652,46 @@
       "version": 2616,
       "uid": "6JkvKN4bw94KHoT",
       "runId": 1522350033
+    },
+    "2gc1fF0klt0YrI4": {
+      "name": "неономизация",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 1,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2gc1fF0klt0YrI4",
+      "runId": 1522350033
+    },
+    "C6HPtu9bPcjWXbA": {
+      "name": "UncleGohst",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 27,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "C6HPtu9bPcjWXbA",
+      "runId": 1522350033
     }
   }
 }
