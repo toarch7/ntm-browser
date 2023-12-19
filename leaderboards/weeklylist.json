@@ -873,22 +873,49 @@
       "name": "MS",
       "char": 4,
       "skin": false,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 26,
-      "bwep": 27,
+      "wep": 75,
+      "bwep": 26,
       "win": false,
-      "kills": 111,
+      "kills": 174,
       "ultra": 0,
       "skills": [
         16,
         8,
-        14
+        14,
+        12
       ],
       "crown": 9,
       "version": 2616,
       "uid": "ns3v0y2tRLj06Vr",
+      "runId": 89727441
+    },
+    "W5rnxqd90ZdVc7B": {
+      "name": "Mikuo",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 25,
+      "win": false,
+      "kills": 1024,
+      "ultra": 1,
+      "skills": [
+        1,
+        8,
+        14,
+        16,
+        13,
+        4,
+        27
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "W5rnxqd90ZdVc7B",
       "runId": 89727441
     }
   }
