@@ -794,6 +794,76 @@
       "version": 2616,
       "uid": "P48as3Q3rUCnIk5",
       "runId": 94041371
+    },
+    "Z8ODOgdSq23HDE3": {
+      "name": "Dobitto",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 90,
+      "bwep": 24,
+      "win": false,
+      "kills": 734,
+      "ultra": 1,
+      "skills": [
+        27,
+        13,
+        17,
+        1,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Z8ODOgdSq23HDE3",
+      "runId": 94041371
+    },
+    "RGDd572P6MfWctg": {
+      "name": "Dany",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        27,
+        26,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RGDd572P6MfWctg",
+      "runId": 94041371
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 60,
+      "win": false,
+      "kills": 403,
+      "ultra": 1,
+      "skills": [
+        1,
+        13,
+        17,
+        3,
+        23
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 94041371
     }
   }
 }
