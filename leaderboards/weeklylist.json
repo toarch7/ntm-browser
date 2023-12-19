@@ -1145,6 +1145,74 @@
       "version": 2616,
       "uid": "93DLDFJlDR8bL3O",
       "runId": 89727441
+    },
+    "1Vlw0289tN3q3UT": {
+      "name": "chicanos",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 26,
+      "win": false,
+      "kills": 215,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        12,
+        16,
+        25
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "1Vlw0289tN3q3UT",
+      "runId": 89727441
+    },
+    "RXAvZacH9I1ibOr": {
+      "name": "darkegox",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 0,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "RXAvZacH9I1ibOr",
+      "runId": 89727441
+    },
+    "s81uWds2GqL84AW": {
+      "name": "Simba",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 0,
+      "win": false,
+      "kills": 194,
+      "ultra": 0,
+      "skills": [
+        1,
+        9,
+        16,
+        7,
+        28
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "s81uWds2GqL84AW",
+      "runId": 89727441
     }
   }
 }
