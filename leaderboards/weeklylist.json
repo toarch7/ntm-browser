@@ -992,18 +992,39 @@
       "subarea": 1,
       "loops": 0,
       "wep": 26,
-      "bwep": 0,
+      "bwep": 27,
       "win": false,
-      "kills": 77,
+      "kills": 85,
       "ultra": 0,
       "skills": [
         1,
         22,
-        21
+        8
       ],
       "crown": 9,
       "version": 2616,
       "uid": "3yQwe4G8fw4VU5A",
+      "runId": 89727441
+    },
+    "9tzJ6lj6x1ebKf1": {
+      "name": "perchiSeeker800",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 0,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        1,
+        16
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "9tzJ6lj6x1ebKf1",
       "runId": 89727441
     }
   }
