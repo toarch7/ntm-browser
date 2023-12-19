@@ -1,4 +1,93 @@
 {
   "day": 19,
-  "entries": {}
+  "entries": {
+    "RKEzobJ87SJ8EN2": {
+      "name": "LissyLBJ",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RKEzobJ87SJ8EN2",
+      "runId": 94041371
+    },
+    "Mm83ACk93iM2155": {
+      "name": "Piku",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 3,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        6,
+        27,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Mm83ACk93iM2155",
+      "runId": 94041371
+    },
+    "wuoe1dYuTZ42gRo": {
+      "name": "Адскийсосун",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 25,
+      "win": false,
+      "kills": 258,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        9,
+        17,
+        3
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "wuoe1dYuTZ42gRo",
+      "runId": 94041371
+    },
+    "892Y5ozZ0h8r0Kq": {
+      "name": "Natsume",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 66,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "892Y5ozZ0h8r0Kq",
+      "runId": 94041371
+    }
+  }
 }
