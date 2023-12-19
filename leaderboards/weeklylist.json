@@ -1120,6 +1120,31 @@
       "version": 2616,
       "uid": "w1U15hJk5aXvz5u",
       "runId": 89727441
+    },
+    "93DLDFJlDR8bL3O": {
+      "name": "Banana",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 73,
+      "win": false,
+      "kills": 300,
+      "ultra": 0,
+      "skills": [
+        1,
+        16,
+        7,
+        12,
+        25,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "93DLDFJlDR8bL3O",
+      "runId": 89727441
     }
   }
 }
