@@ -697,6 +697,48 @@
       "version": 2616,
       "uid": "oe6xKlvJ58kHAGe",
       "runId": 1560567544
+    },
+    "NoCBR0jCuDp74DU": {
+      "name": "eclipselunar3",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 6,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        14,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "NoCBR0jCuDp74DU",
+      "runId": 1560567544
+    },
+    "2gCbMwZ7nQTbq3h": {
+      "name": "BATMAN",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 1,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        14,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2gCbMwZ7nQTbq3h",
+      "runId": 1560567544
     }
   }
 }

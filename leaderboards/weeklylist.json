@@ -1592,6 +1592,27 @@
       "version": 2616,
       "uid": "mRHUBEN7CC7ng39",
       "runId": 89727441
+    },
+    "ognaocspm65eY9h": {
+      "name": "DLM",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 1,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        1,
+        8
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "ognaocspm65eY9h",
+      "runId": 89727441
     }
   }
 }
