@@ -1455,6 +1455,52 @@
       "version": 2616,
       "uid": "WoxUmfP37M78eln",
       "runId": 89727441
+    },
+    "5ak7Lp8CJetFsSi": {
+      "name": "Chara",
+      "char": 7,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 54,
+      "bwep": 4,
+      "win": false,
+      "kills": 440,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        14,
+        12,
+        25,
+        4,
+        19
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "5ak7Lp8CJetFsSi",
+      "runId": 89727441
+    },
+    "HzYh5z9LZ4U329H": {
+      "name": "pisyn",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 13,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "HzYh5z9LZ4U329H",
+      "runId": 89727441
     }
   }
 }
