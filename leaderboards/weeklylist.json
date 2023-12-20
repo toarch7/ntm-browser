@@ -1613,6 +1613,59 @@
       "version": 2616,
       "uid": "ognaocspm65eY9h",
       "runId": 89727441
+    },
+    "g76z78LjOTdhCfi": {
+      "name": "Stal",
+      "char": 7,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 90,
+      "bwep": 68,
+      "win": false,
+      "kills": 429,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        14,
+        12,
+        13,
+        4,
+        27
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "g76z78LjOTdhCfi",
+      "runId": 89727441
+    },
+    "07G6h6Y87K3t72h": {
+      "name": "roronoa",
+      "char": 7,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 54,
+      "win": false,
+      "kills": 331,
+      "ultra": 0,
+      "skills": [
+        13,
+        9,
+        8,
+        14,
+        12,
+        1,
+        4,
+        19
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "07G6h6Y87K3t72h",
+      "runId": 89727441
     }
   }
 }
