@@ -3,15 +3,15 @@
   "entries": {
     "RGDd572P6MfWctg": {
       "name": "Dany",
-      "char": 4,
-      "skin": false,
+      "char": 7,
+      "skin": true,
       "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 11,
-      "bwep": 124,
+      "wep": 35,
+      "bwep": 54,
       "win": false,
-      "kills": 322,
+      "kills": 375,
       "ultra": 0,
       "skills": [
         1,
@@ -19,10 +19,10 @@
         14,
         28,
         25,
-        4,
-        23
+        9,
+        19
       ],
-      "crown": 9,
+      "crown": 3,
       "version": 2616,
       "uid": "RGDd572P6MfWctg",
       "runId": 89727441
@@ -1500,6 +1500,72 @@
       "crown": 3,
       "version": 2616,
       "uid": "HzYh5z9LZ4U329H",
+      "runId": 89727441
+    },
+    "10sSLb2l6h420U3": {
+      "name": "Egg",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 54,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "10sSLb2l6h420U3",
+      "runId": 89727441
+    },
+    "uv1usKIO5d73uNy": {
+      "name": "Mittens",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 54,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "uv1usKIO5d73uNy",
+      "runId": 89727441
+    },
+    "4eyR1817y2PA4a6": {
+      "name": "Luiscba",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 28,
+      "win": false,
+      "kills": 246,
+      "ultra": 0,
+      "skills": [
+        1,
+        16,
+        7,
+        14,
+        25,
+        9
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "4eyR1817y2PA4a6",
       "runId": 89727441
     }
   }
