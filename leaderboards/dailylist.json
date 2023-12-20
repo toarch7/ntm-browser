@@ -361,6 +361,28 @@
       "version": 2616,
       "uid": "GNBvF84rQF7zOu2",
       "runId": 1560567544
+    },
+    "BGlj46My038e60S": {
+      "name": "Zhubakka_2.0",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BGlj46My038e60S",
+      "runId": 1560567544
     }
   }
 }
