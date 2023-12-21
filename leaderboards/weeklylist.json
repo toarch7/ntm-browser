@@ -307,20 +307,21 @@
     },
     "9x27I4l83Gc3Gvc": {
       "name": "MRX",
-      "char": 4,
-      "skin": false,
+      "char": 7,
+      "skin": true,
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 26,
-      "bwep": 0,
+      "wep": 20,
+      "bwep": 6,
       "win": false,
-      "kills": 59,
+      "kills": 70,
       "ultra": 0,
       "skills": [
-        16
+        1,
+        9
       ],
-      "crown": 9,
+      "crown": 3,
       "version": 2616,
       "uid": "9x27I4l83Gc3Gvc",
       "runId": 89727441
