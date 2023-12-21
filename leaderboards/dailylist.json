@@ -608,6 +608,54 @@
       "version": 2616,
       "uid": "CCxmje7n5Q1909j",
       "runId": 1800945833
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        13,
+        26,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 1800945833
+    },
+    "g7nTeU9lpy5rupK": {
+      "name": "g.s",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 25,
+      "bwep": 54,
+      "win": false,
+      "kills": 391,
+      "ultra": 1,
+      "skills": [
+        1,
+        26,
+        9,
+        8,
+        10,
+        14,
+        7
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "g7nTeU9lpy5rupK",
+      "runId": 1800945833
     }
   }
 }
