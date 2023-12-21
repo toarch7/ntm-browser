@@ -603,24 +603,26 @@
     },
     "NoCBR0jCuDp74DU": {
       "name": "eclipselunar3",
-      "char": 4,
-      "skin": false,
-      "area": 5,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 26,
-      "bwep": 124,
+      "char": 7,
+      "skin": true,
+      "area": 106,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 96,
+      "bwep": 74,
       "win": false,
-      "kills": 234,
+      "kills": 302,
       "ultra": 0,
       "skills": [
         1,
         8,
         14,
-        16,
-        25
+        28,
+        13,
+        4,
+        27
       ],
-      "crown": 9,
+      "crown": 3,
       "version": 2616,
       "uid": "NoCBR0jCuDp74DU",
       "runId": 89727441
@@ -1691,6 +1693,49 @@
       "crown": 3,
       "version": 2616,
       "uid": "M4463L5j78lwMa2",
+      "runId": 89727441
+    },
+    "GeiB1xoKF5U1frs": {
+      "name": "DrCore",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 54,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        28,
+        22
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "GeiB1xoKF5U1frs",
+      "runId": 89727441
+    },
+    "AiWxaCdP64Hk6gu": {
+      "name": "Smx",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 54,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        13,
+        22,
+        8
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "AiWxaCdP64Hk6gu",
       "runId": 89727441
     }
   }
