@@ -1895,6 +1895,32 @@
       "version": 2616,
       "uid": "Bb2o17mM9vaNb8Q",
       "runId": 89727441
+    },
+    "O81F41vv3XF8YAe": {
+      "name": "Seekershotgun",
+      "char": 7,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 90,
+      "bwep": 9,
+      "win": false,
+      "kills": 593,
+      "ultra": 2,
+      "skills": [
+        1,
+        16,
+        14,
+        6,
+        25,
+        4,
+        19
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "O81F41vv3XF8YAe",
+      "runId": 89727441
     }
   }
 }
