@@ -1,4 +1,47 @@
 {
   "day": 21,
-  "entries": {}
+  "entries": {
+    "AiWxaCdP64Hk6gu": {
+      "name": "Smx",
+      "char": 12,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 81,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        4,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "AiWxaCdP64Hk6gu",
+      "runId": 1800945833
+    },
+    "A9Ge5MQV8RW6xEP": {
+      "name": "gl00my",
+      "char": 7,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 27,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        1,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "A9Ge5MQV8RW6xEP",
+      "runId": 1800945833
+    }
+  }
 }
