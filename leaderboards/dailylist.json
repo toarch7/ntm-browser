@@ -176,6 +176,142 @@
       "version": 2616,
       "uid": "R0H7R5EV7hkJ9M4",
       "runId": 1800945833
+    },
+    "NoCBR0jCuDp74DU": {
+      "name": "eclipselunar3",
+      "char": 9,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 70,
+      "win": false,
+      "kills": 342,
+      "ultra": 1,
+      "skills": [
+        1,
+        7,
+        8,
+        25,
+        10,
+        14,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "NoCBR0jCuDp74DU",
+      "runId": 1800945833
+    },
+    "ZbG3GHR7foxo0M0": {
+      "name": "Сасунок",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ZbG3GHR7foxo0M0",
+      "runId": 1800945833
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 3,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        10,
+        7,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 1800945833
+    },
+    "sR57FHtdL3Evdz2": {
+      "name": "asan",
+      "char": 2,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 62,
+      "win": false,
+      "kills": 291,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        23,
+        27,
+        7
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "sR57FHtdL3Evdz2",
+      "runId": 1800945833
+    },
+    "R26KENIgE7ilEeX": {
+      "name": "Acetoner",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        4,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "R26KENIgE7ilEeX",
+      "runId": 1800945833
+    },
+    "BGlj46My038e60S": {
+      "name": "Zhubakka_2.0",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 195,
+      "ultra": 0,
+      "skills": [
+        1,
+        9,
+        27,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BGlj46My038e60S",
+      "runId": 1800945833
     }
   }
 }
