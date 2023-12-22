@@ -524,6 +524,45 @@
       "version": 2616,
       "uid": "9x27I4l83Gc3Gvc",
       "runId": 644068122
+    },
+    "T7A7lNI3tT44BS8": {
+      "name": "M3MO",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "T7A7lNI3tT44BS8",
+      "runId": 644068122
+    },
+    "5ak7Lp8CJetFsSi": {
+      "name": "Chara",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 17,
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        8,
+        7,
+        13,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5ak7Lp8CJetFsSi",
+      "runId": 644068122
     }
   }
 }
