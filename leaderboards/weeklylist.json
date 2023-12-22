@@ -309,16 +309,17 @@
       "name": "MRX",
       "char": 7,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 8,
-      "bwep": 16,
+      "wep": 23,
+      "bwep": 8,
       "win": false,
-      "kills": 87,
+      "kills": 99,
       "ultra": 0,
       "skills": [
-        1
+        1,
+        16
       ],
       "crown": 3,
       "version": 2616,
