@@ -1987,6 +1987,54 @@
       "version": 2616,
       "uid": "CrJF4R7i3XGo7io",
       "runId": 89727441
+    },
+    "G906QzNd5i0m2y1": {
+      "name": "Malik",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 54,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        7
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "G906QzNd5i0m2y1",
+      "runId": 89727441
+    },
+    "4N3nLcqx43V3Ta1": {
+      "name": "Seeker41",
+      "char": 7,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 119,
+      "win": false,
+      "kills": 325,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        7,
+        28,
+        25,
+        4,
+        19
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "4N3nLcqx43V3Ta1",
+      "runId": 89727441
     }
   }
 }
