@@ -679,14 +679,14 @@
       "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 20,
+      "wep": 1,
+      "bwep": 23,
       "win": false,
-      "kills": 111,
+      "kills": 113,
       "ultra": 0,
       "skills": [
         1,
-        21
+        8
       ],
       "crown": 3,
       "version": 2616,
@@ -2081,6 +2081,33 @@
       "crown": 3,
       "version": 2616,
       "uid": "7kS2p7VnVgfwLZn",
+      "runId": 89727441
+    },
+    "5LDyH0gC9bpH4h5": {
+      "name": "bajnmen",
+      "char": 7,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 106,
+      "bwep": 54,
+      "win": false,
+      "kills": 428,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        14,
+        12,
+        25,
+        3,
+        4,
+        23
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "5LDyH0gC9bpH4h5",
       "runId": 89727441
     }
   }
