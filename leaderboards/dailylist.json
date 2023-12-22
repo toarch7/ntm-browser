@@ -293,6 +293,96 @@
       "version": 2616,
       "uid": "xzd1fF0WacV2Ub5",
       "runId": 644068122
+    },
+    "WdNrU32z5yoS02S": {
+      "name": "Tranzistor",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 5,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "WdNrU32z5yoS02S",
+      "runId": 644068122
+    },
+    "R26KENIgE7ilEeX": {
+      "name": "Acetoner",
+      "char": 3,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 84,
+      "win": false,
+      "kills": 325,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        17,
+        14,
+        27,
+        13,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "R26KENIgE7ilEeX",
+      "runId": 644068122
+    },
+    "Voa7rW2N2L0j1l5": {
+      "name": "Folvat",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        8,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Voa7rW2N2L0j1l5",
+      "runId": 644068122
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 27,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        16,
+        7,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 644068122
     }
   }
 }

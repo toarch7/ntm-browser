@@ -2109,6 +2109,47 @@
       "version": 2616,
       "uid": "5LDyH0gC9bpH4h5",
       "runId": 89727441
+    },
+    "WdNrU32z5yoS02S": {
+      "name": "Tranzistor",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 31,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        1,
+        22
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "WdNrU32z5yoS02S",
+      "runId": 89727441
+    },
+    "EV91EGxmht7hWGt": {
+      "name": "Fast",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 54,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "EV91EGxmht7hWGt",
+      "runId": 89727441
     }
   }
 }
