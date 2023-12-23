@@ -1702,14 +1702,13 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 71,
+      "wep": 8,
       "bwep": 54,
       "win": false,
-      "kills": 84,
+      "kills": 94,
       "ultra": 0,
       "skills": [
-        28,
-        22
+        1
       ],
       "crown": 3,
       "version": 2616,
@@ -2354,6 +2353,33 @@
       "crown": 3,
       "version": 2616,
       "uid": "84C6npfy7OVJcZN",
+      "runId": 89727441
+    },
+    "f1Lf8jAH6K636zl": {
+      "name": ".A.L.E.K.O.",
+      "char": 7,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 106,
+      "win": false,
+      "kills": 363,
+      "ultra": 0,
+      "skills": [
+        28,
+        17,
+        8,
+        14,
+        6,
+        25,
+        10,
+        19
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "f1Lf8jAH6K636zl",
       "runId": 89727441
     }
   }
