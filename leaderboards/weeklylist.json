@@ -1062,18 +1062,19 @@
       "name": "УльтраДед",
       "char": 7,
       "skin": true,
-      "area": 0,
-      "subarea": 1,
+      "area": 1,
+      "subarea": 3,
       "loops": 1,
-      "wep": 60,
-      "bwep": 54,
+      "wep": 9,
+      "bwep": 9,
       "win": false,
-      "kills": 380,
+      "kills": 633,
       "ultra": 0,
       "skills": [
         1,
         8,
         14,
+        16,
         25,
         4,
         23
@@ -2537,6 +2538,27 @@
       "crown": 3,
       "version": 2616,
       "uid": "40z5Xi3T0O441Zq",
+      "runId": 89727441
+    },
+    "L0koh1a0g6ExcqF": {
+      "name": "baseline2",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 1,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        1,
+        16
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "L0koh1a0g6ExcqF",
       "runId": 89727441
     }
   }
