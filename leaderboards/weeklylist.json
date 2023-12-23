@@ -2432,6 +2432,70 @@
       "version": 2616,
       "uid": "WcwJ1kPyBtDHYKa",
       "runId": 89727441
+    },
+    "2gCbMwZ7nQTbq3h": {
+      "name": "BATMAN",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 23,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "2gCbMwZ7nQTbq3h",
+      "runId": 89727441
+    },
+    "gk1fKmp8fDB6o3l": {
+      "name": "DeDoc",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 1,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        1,
+        9,
+        16
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "gk1fKmp8fDB6o3l",
+      "runId": 89727441
+    },
+    "6L3JiwRaa2RlQCA": {
+      "name": "Seeker90",
+      "char": 7,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 69,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        1,
+        9
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "6L3JiwRaa2RlQCA",
+      "runId": 89727441
     }
   }
 }
