@@ -505,6 +505,76 @@
       "version": 2616,
       "uid": "SdC518PR8HWUIp6",
       "runId": 1042299076
+    },
+    "aDrlGmJ9F4GRkKh": {
+      "name": "Kitczu",
+      "char": 9,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 52,
+      "bwep": 46,
+      "win": false,
+      "kills": 289,
+      "ultra": 0,
+      "skills": [
+        22,
+        1,
+        8,
+        13,
+        12,
+        2,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aDrlGmJ9F4GRkKh",
+      "runId": 1042299076
+    },
+    "dDp8T4R1sE8Ty18": {
+      "name": "yahir",
+      "char": 10,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 71,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "dDp8T4R1sE8Ty18",
+      "runId": 1042299076
+    },
+    "MAs40GQA5JSTlN1": {
+      "name": "luis",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MAs40GQA5JSTlN1",
+      "runId": 1042299076
     }
   }
 }
