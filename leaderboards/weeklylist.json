@@ -2670,6 +2670,29 @@
       "version": 2616,
       "uid": "I4740s1I7E5tqc0",
       "runId": 89727441
+    },
+    "t8zyu32ZR6vBjNd": {
+      "name": "Sushi",
+      "char": 7,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 114,
+      "bwep": 54,
+      "win": false,
+      "kills": 189,
+      "ultra": 0,
+      "skills": [
+        28,
+        8,
+        14,
+        16
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "t8zyu32ZR6vBjNd",
+      "runId": 89727441
     }
   }
 }
