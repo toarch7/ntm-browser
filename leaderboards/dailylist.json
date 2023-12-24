@@ -803,6 +803,30 @@
       "version": 2616,
       "uid": "aDrlGmJ9F4GRkKh",
       "runId": 914323406
+    },
+    "5ak7Lp8CJetFsSi": {
+      "name": "Chara",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 11,
+      "win": false,
+      "kills": 165,
+      "ultra": 0,
+      "skills": [
+        8,
+        13,
+        7,
+        1,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5ak7Lp8CJetFsSi",
+      "runId": 914323406
     }
   }
 }
