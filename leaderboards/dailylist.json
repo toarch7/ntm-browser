@@ -320,6 +320,49 @@
       "version": 2616,
       "uid": "T7A7lNI3tT44BS8",
       "runId": 914323406
+    },
+    "7c78RgVbdGYA80c": {
+      "name": "SKU",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 33,
+      "win": false,
+      "kills": 243,
+      "ultra": 0,
+      "skills": [
+        22,
+        7,
+        1,
+        23
+      ],
+      "crown": 11,
+      "version": 2617,
+      "uid": "7c78RgVbdGYA80c",
+      "runId": 914323406
+    },
+    "1GTdhZYa73840qq": {
+      "name": "Nuclir",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1GTdhZYa73840qq",
+      "runId": 914323406
     }
   }
 }
