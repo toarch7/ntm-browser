@@ -40,6 +40,48 @@
       "version": 2616,
       "uid": "Voa7rW2N2L0j1l5",
       "runId": 1774748589
+    },
+    "E3gI7quBH9qA245": {
+      "name": "Fake",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 20,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        7
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "E3gI7quBH9qA245",
+      "runId": 1774748589
+    },
+    "R26KENIgE7ilEeX": {
+      "name": "Acetoner",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 2,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "R26KENIgE7ilEeX",
+      "runId": 1774748589
     }
   }
 }
