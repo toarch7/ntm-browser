@@ -82,6 +82,44 @@
       "version": 2616,
       "uid": "R26KENIgE7ilEeX",
       "runId": 1774748589
+    },
+    "g7nTeU9lpy5rupK": {
+      "name": "g.s",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g7nTeU9lpy5rupK",
+      "runId": 1774748589
+    },
+    "07G6h6Y87K3t72h": {
+      "name": "roronoa",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 75,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "07G6h6Y87K3t72h",
+      "runId": 1774748589
     }
   }
 }
