@@ -262,6 +262,49 @@
       "version": 2616,
       "uid": "T7A7lNI3tT44BS8",
       "runId": 1774748589
+    },
+    "hG1hn8Z8McdODRE": {
+      "name": "Vite225",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 2,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        3,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "hG1hn8Z8McdODRE",
+      "runId": 1774748589
+    },
+    "1GTdhZYa73840qq": {
+      "name": "Nuclir",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 39,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        3,
+        16,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1GTdhZYa73840qq",
+      "runId": 1774748589
     }
   }
 }
