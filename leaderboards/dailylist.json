@@ -1,4 +1,83 @@
 {
   "day": 26,
-  "entries": {}
+  "entries": {
+    "5scKT209siY575I": {
+      "name": "ItsDarko",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 39,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "5scKT209siY575I",
+      "runId": 808277631
+    },
+    "AiWxaCdP64Hk6gu": {
+      "name": "Smx",
+      "char": 12,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 13,
+      "win": false,
+      "kills": 257,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        22,
+        17,
+        9,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "AiWxaCdP64Hk6gu",
+      "runId": 808277631
+    },
+    "kF0Z9FifQllKnPl": {
+      "name": "Boomario2019",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "kF0Z9FifQllKnPl",
+      "runId": 808277631
+    },
+    "4N3nLcqx43V3Ta1": {
+      "name": "Seeker41",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 27,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        4,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4N3nLcqx43V3Ta1",
+      "runId": 808277631
+    }
+  }
 }
