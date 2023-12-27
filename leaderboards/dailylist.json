@@ -503,6 +503,51 @@
       "version": 2616,
       "uid": "6JkvKN4bw94KHoT",
       "runId": 1029928215
+    },
+    "WoxUmfP37M78eln": {
+      "name": "lobo:(solitario",
+      "char": 1,
+      "skin": true,
+      "area": 100,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 62,
+      "win": false,
+      "kills": 224,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        17,
+        13,
+        9,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "WoxUmfP37M78eln",
+      "runId": 1029928215
+    },
+    "MHC1lZEEd9KbN24": {
+      "name": "null",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 2,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MHC1lZEEd9KbN24",
+      "runId": 1029928215
     }
   }
 }
