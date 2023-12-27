@@ -564,6 +564,53 @@
       "version": 2616,
       "uid": "6s727I9gp7b9wli",
       "runId": 1029928215
+    },
+    "p7d9wPxfmUj21L2": {
+      "name": "NTikCSF:SFDPX",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 25,
+      "bwep": 11,
+      "win": false,
+      "kills": 225,
+      "ultra": 0,
+      "skills": [
+        17,
+        1,
+        7,
+        3
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "p7d9wPxfmUj21L2",
+      "runId": 1029928215
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 25,
+      "win": false,
+      "kills": 357,
+      "ultra": 1,
+      "skills": [
+        17,
+        1,
+        7,
+        3,
+        6
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1029928215
     }
   }
 }
