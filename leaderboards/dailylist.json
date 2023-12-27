@@ -1,4 +1,70 @@
 {
   "day": 27,
-  "entries": {}
+  "entries": {
+    "L0YY02fR230vg2J": {
+      "name": "Chimerah",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 77,
+      "win": false,
+      "kills": 227,
+      "ultra": 0,
+      "skills": [
+        16,
+        1,
+        7,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L0YY02fR230vg2J",
+      "runId": 1029928215
+    },
+    "bHIxdKcMRN01RhE": {
+      "name": "golosa69pro",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 21,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bHIxdKcMRN01RhE",
+      "runId": 1029928215
+    },
+    "g76z78LjOTdhCfi": {
+      "name": "Stal",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 124,
+      "win": false,
+      "kills": 187,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        1,
+        10,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g76z78LjOTdhCfi",
+      "runId": 1029928215
+    }
+  }
 }
