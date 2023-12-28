@@ -1,4 +1,89 @@
 {
   "day": 28,
-  "entries": {}
+  "entries": {
+    "qc4ziQo4R1KPPkE": {
+      "name": "pollo",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 16,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        22,
+        17,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qc4ziQo4R1KPPkE",
+      "runId": 941441319
+    },
+    "bHIxdKcMRN01RhE": {
+      "name": "golosa69pro",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 69,
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        2,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bHIxdKcMRN01RhE",
+      "runId": 941441319
+    },
+    "S7BDTs7JQz9a0rQ": {
+      "name": "VAL",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "S7BDTs7JQz9a0rQ",
+      "runId": 941441319
+    },
+    "5scKT209siY575I": {
+      "name": "ItsDarko",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 49,
+      "bwep": 76,
+      "win": false,
+      "kills": 305,
+      "ultra": 0,
+      "skills": [
+        22,
+        1,
+        3,
+        8,
+        27,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5scKT209siY575I",
+      "runId": 941441319
+    }
+  }
 }
