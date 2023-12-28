@@ -656,6 +656,47 @@
       "version": 2616,
       "uid": "5XmhVU3Jt2ym8X4",
       "runId": 941441319
+    },
+    "pJuyz6i4TiuvTlo": {
+      "name": "BombaCat",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 39,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        21,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pJuyz6i4TiuvTlo",
+      "runId": 941441319
+    },
+    "ToRsR0L8u7rBA60": {
+      "name": "Рыба;)",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 7,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ToRsR0L8u7rBA60",
+      "runId": 941441319
     }
   }
 }
