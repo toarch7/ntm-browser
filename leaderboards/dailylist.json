@@ -389,6 +389,77 @@
       "version": 2616,
       "uid": "6s727I9gp7b9wli",
       "runId": 941441319
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 7,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        16,
+        1,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 941441319
+    },
+    "2gc1fF0klt0YrI4": {
+      "name": "неономизация",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 114,
+      "win": false,
+      "kills": 241,
+      "ultra": 0,
+      "skills": [
+        22,
+        1,
+        3,
+        13
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "2gc1fF0klt0YrI4",
+      "runId": 941441319
+    },
+    "BmHUB93ALbN0Yg6": {
+      "name": "bajnmen",
+      "char": 5,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 29,
+      "bwep": 12,
+      "win": false,
+      "kills": 686,
+      "ultra": 1,
+      "skills": [
+        1,
+        3,
+        8,
+        23,
+        21,
+        13,
+        27
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "BmHUB93ALbN0Yg6",
+      "runId": 941441319
     }
   }
 }
