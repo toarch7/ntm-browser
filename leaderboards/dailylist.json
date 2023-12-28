@@ -84,6 +84,111 @@
       "version": 2616,
       "uid": "5scKT209siY575I",
       "runId": 941441319
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        16,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 941441319
+    },
+    "AiWxaCdP64Hk6gu": {
+      "name": "Smx",
+      "char": 12,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 116,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        22,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "AiWxaCdP64Hk6gu",
+      "runId": 941441319
+    },
+    "Voa7rW2N2L0j1l5": {
+      "name": "Folvat",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 3,
+      "win": false,
+      "kills": 15,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Voa7rW2N2L0j1l5",
+      "runId": 941441319
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": true,
+      "area": 106,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 37,
+      "bwep": 105,
+      "win": false,
+      "kills": 957,
+      "ultra": 1,
+      "skills": [
+        22,
+        1,
+        3,
+        23,
+        13,
+        27
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 941441319
+    },
+    "I6o9Clz6Y0yfM5m": {
+      "name": "neko",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "I6o9Clz6Y0yfM5m",
+      "runId": 941441319
     }
   }
 }
