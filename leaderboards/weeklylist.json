@@ -2593,13 +2593,13 @@
       "name": "Seeker89",
       "char": 7,
       "skin": true,
-      "area": 0,
-      "subarea": 1,
-      "loops": 1,
-      "wep": 54,
-      "bwep": 73,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 73,
+      "bwep": 60,
       "win": false,
-      "kills": 369,
+      "kills": 371,
       "ultra": 0,
       "skills": [
         1,
@@ -2608,7 +2608,8 @@
         14,
         16,
         25,
-        4
+        17,
+        29
       ],
       "crown": 3,
       "version": 2616,
@@ -3039,6 +3040,49 @@
       "crown": 3,
       "version": 2616,
       "uid": "LxKp6M19HGk0cB6",
+      "runId": 89727441
+    },
+    "186qH6RjM2hLxD4": {
+      "name": "Seeker48",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 6,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        16,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "186qH6RjM2hLxD4",
+      "runId": 89727441
+    },
+    "2h6rGX9LL6e3C46": {
+      "name": "Seeker75",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 16,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        12
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "2h6rGX9LL6e3C46",
       "runId": 89727441
     }
   }
