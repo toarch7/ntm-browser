@@ -413,6 +413,47 @@
       "version": 2616,
       "uid": "7B57yWsb95pT73S",
       "runId": 1496589439
+    },
+    "sR57FHtdL3Evdz2": {
+      "name": "asan",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 16,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        3,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sR57FHtdL3Evdz2",
+      "runId": 1496589439
+    },
+    "W5rnxqd90ZdVc7B": {
+      "name": "Mikuo",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 88,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W5rnxqd90ZdVc7B",
+      "runId": 1496589439
     }
   }
 }
