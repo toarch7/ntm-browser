@@ -1,4 +1,92 @@
 {
   "day": 29,
-  "entries": {}
+  "entries": {
+    "Sy66SKO15sWowe3": {
+      "name": "Roto",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 20,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Sy66SKO15sWowe3",
+      "runId": 1496589439
+    },
+    "BmHUB93ALbN0Yg6": {
+      "name": "bajnmen",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 2,
+      "wep": 94,
+      "bwep": 111,
+      "win": false,
+      "kills": 2266,
+      "ultra": 1,
+      "skills": [
+        3,
+        23,
+        27,
+        7,
+        1,
+        6,
+        13
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "BmHUB93ALbN0Yg6",
+      "runId": 1496589439
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1496589439
+    },
+    "kF0Z9FifQllKnPl": {
+      "name": "Boomario2019",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 13,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        3,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kF0Z9FifQllKnPl",
+      "runId": 1496589439
+    }
+  }
 }
