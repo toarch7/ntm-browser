@@ -837,6 +837,49 @@
       "version": 2616,
       "uid": "EVl3A0wZ9bTFs7w",
       "runId": 1791820742
+    },
+    "RGDd572P6MfWctg": {
+      "name": "Dany",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RGDd572P6MfWctg",
+      "runId": 1791820742
+    },
+    "Ij70P0LdP1Dhcy9": {
+      "name": "arz",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 37,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        25,
+        7,
+        19,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ij70P0LdP1Dhcy9",
+      "runId": 1791820742
     }
   }
 }

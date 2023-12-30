@@ -528,16 +528,16 @@
       "name": "arz",
       "char": 11,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 31,
-      "bwep": 69,
+      "wep": 3,
+      "bwep": 38,
       "win": false,
-      "kills": 90,
+      "kills": 165,
       "ultra": 0,
       "skills": [
-        12,
+        2,
         6,
         7
       ],
@@ -615,6 +615,30 @@
       "crown": 8,
       "version": 2616,
       "uid": "O81F41vv3XF8YAe",
+      "runId": 794213732
+    },
+    "RGDd572P6MfWctg": {
+      "name": "Dany",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 34,
+      "win": false,
+      "kills": 199,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        7,
+        17,
+        27
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "RGDd572P6MfWctg",
       "runId": 794213732
     }
   }
