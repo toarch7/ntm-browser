@@ -246,6 +246,95 @@
       "version": 2616,
       "uid": "GNBvF84rQF7zOu2",
       "runId": 1791820742
+    },
+    "WoxUmfP37M78eln": {
+      "name": "lobo:(solitario",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 118,
+      "bwep": 92,
+      "win": false,
+      "kills": 482,
+      "ultra": 0,
+      "skills": [
+        9,
+        14,
+        4,
+        17,
+        27,
+        8,
+        22
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "WoxUmfP37M78eln",
+      "runId": 1791820742
+    },
+    "9x27I4l83Gc3Gvc": {
+      "name": "MR.X",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        9,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9x27I4l83Gc3Gvc",
+      "runId": 1791820742
+    },
+    "djTmyjX99l7p91d": {
+      "name": "Tae",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 81,
+      "win": false,
+      "kills": 35,
+      "crown": 1,
+      "version": 2616,
+      "uid": "djTmyjX99l7p91d",
+      "runId": 1791820742
+    },
+    "2gc1fF0klt0YrI4": {
+      "name": "неономизация",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 92,
+      "bwep": 111,
+      "win": false,
+      "kills": 969,
+      "ultra": 1,
+      "skills": [
+        13,
+        14,
+        4,
+        3,
+        17,
+        27,
+        1
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "2gc1fF0klt0YrI4",
+      "runId": 1791820742
     }
   }
 }
