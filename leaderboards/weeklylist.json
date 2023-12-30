@@ -1,4 +1,55 @@
 {
   "seed": 794213732,
-  "entries": {}
+  "entries": {
+    "I6o9Clz6Y0yfM5m": {
+      "name": "neko",
+      "char": 11,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 58,
+      "win": false,
+      "kills": 378,
+      "ultra": 3,
+      "skills": [
+        12,
+        14,
+        7,
+        17,
+        27,
+        21,
+        4,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "I6o9Clz6Y0yfM5m",
+      "runId": 794213732
+    },
+    "g7nTeU9lpy5rupK": {
+      "name": "g.s",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 50,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        12,
+        14,
+        10,
+        27
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "g7nTeU9lpy5rupK",
+      "runId": 794213732
+    }
+  }
 }
