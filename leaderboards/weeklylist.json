@@ -523,6 +523,99 @@
       "version": 2616,
       "uid": "pH6jSZRtBbGFjs0",
       "runId": 794213732
+    },
+    "Ij70P0LdP1Dhcy9": {
+      "name": "arz",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 69,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        12,
+        6,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "Ij70P0LdP1Dhcy9",
+      "runId": 794213732
+    },
+    "L0YY02fR230vg2J": {
+      "name": "Chimerah",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 34,
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        12,
+        6,
+        7,
+        17
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "L0YY02fR230vg2J",
+      "runId": 794213732
+    },
+    "oe6xKlvJ58kHAGe": {
+      "name": "Tawagoto",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 31,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        2,
+        6,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "oe6xKlvJ58kHAGe",
+      "runId": 794213732
+    },
+    "O81F41vv3XF8YAe": {
+      "name": "Seekershotgun",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 117,
+      "bwep": 35,
+      "win": false,
+      "kills": 1097,
+      "ultra": 3,
+      "skills": [
+        12,
+        14,
+        7,
+        17,
+        27,
+        4,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "O81F41vv3XF8YAe",
+      "runId": 794213732
     }
   }
 }
