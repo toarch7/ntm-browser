@@ -662,6 +662,55 @@
       "version": 2616,
       "uid": "2h6rGX9LL6e3C46",
       "runId": 794213732
+    },
+    "EXOVnMmd76P7yM9": {
+      "name": "BigodeXp",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 31,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        12,
+        6,
+        10,
+        27
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "EXOVnMmd76P7yM9",
+      "runId": 794213732
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 11,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 3,
+      "wep": 74,
+      "bwep": 106,
+      "win": false,
+      "kills": 2954,
+      "ultra": 2,
+      "skills": [
+        12,
+        14,
+        7,
+        27,
+        4,
+        10,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 794213732
     }
   }
 }
