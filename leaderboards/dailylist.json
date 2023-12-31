@@ -620,6 +620,46 @@
       "version": 2616,
       "uid": "Q3An8fn5Wyc5pXq",
       "runId": 1727263450
+    },
+    "MW6eS33m61v6fOg": {
+      "name": "EvilCat",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2620,
+      "uid": "MW6eS33m61v6fOg",
+      "runId": 1727263450
+    },
+    "TKF8iro43lw2795": {
+      "name": "brunous",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 57,
+      "win": false,
+      "kills": 235,
+      "ultra": 0,
+      "skills": [
+        16,
+        28,
+        1,
+        26,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "TKF8iro43lw2795",
+      "runId": 1727263450
     }
   }
 }
