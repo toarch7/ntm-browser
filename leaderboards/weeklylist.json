@@ -921,6 +921,73 @@
       "version": 2616,
       "uid": "9x27I4l83Gc3Gvc",
       "runId": 794213732
+    },
+    "rIc5PjwcmN6P4CI": {
+      "name": "Seeke",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 82,
+      "bwep": 16,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        12,
+        6
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "rIc5PjwcmN6P4CI",
+      "runId": 794213732
+    },
+    "5ak7Lp8CJetFsSi": {
+      "name": "Chara",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 82,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "5ak7Lp8CJetFsSi",
+      "runId": 794213732
+    },
+    "5XmhVU3Jt2ym8X4": {
+      "name": "LoxDomashniy",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 49,
+      "bwep": 19,
+      "win": false,
+      "kills": 236,
+      "ultra": 0,
+      "skills": [
+        2,
+        6,
+        7,
+        17,
+        27
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "5XmhVU3Jt2ym8X4",
+      "runId": 794213732
     }
   }
 }
