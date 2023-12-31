@@ -788,6 +788,26 @@
       "version": 2616,
       "uid": "u4D2S68IlAOt2Yd",
       "runId": 794213732
+    },
+    "2gCbMwZ7nQTbq3h": {
+      "name": "BATMAN",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 82,
+      "bwep": 11,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "2gCbMwZ7nQTbq3h",
+      "runId": 794213732
     }
   }
 }
