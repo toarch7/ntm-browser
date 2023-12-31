@@ -916,6 +916,52 @@
       "version": 2616,
       "uid": "S2iO9L3072Pm5J8",
       "runId": 1727263450
+    },
+    "7JTHji4E1lvkDaQ": {
+      "name": "Azert",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 35,
+      "win": false,
+      "kills": 381,
+      "ultra": 0,
+      "skills": [
+        16,
+        28,
+        1,
+        3,
+        27,
+        22,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7JTHji4E1lvkDaQ",
+      "runId": 1727263450
+    },
+    "g76z78LjOTdhCfi": {
+      "name": "Stal",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 88,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g76z78LjOTdhCfi",
+      "runId": 1727263450
     }
   }
 }
