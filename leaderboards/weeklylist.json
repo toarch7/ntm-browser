@@ -1034,6 +1034,29 @@
       "version": 2616,
       "uid": "o5hN6f312C2t9QN",
       "runId": 794213732
+    },
+    "5rt4qLa1b4Q88gJ": {
+      "name": "wolf",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        10,
+        26
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "5rt4qLa1b4Q88gJ",
+      "runId": 794213732
     }
   }
 }
