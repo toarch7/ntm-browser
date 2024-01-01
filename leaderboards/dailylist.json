@@ -76,6 +76,29 @@
       "version": 2616,
       "uid": "NoCBR0jCuDp74DU",
       "runId": 936133569
+    },
+    "U9Xj7SUuD3qhKh7": {
+      "name": "Gunslinger",
+      "char": 6,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 40,
+      "win": false,
+      "kills": 170,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        1,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "U9Xj7SUuD3qhKh7",
+      "runId": 936133569
     }
   }
 }
