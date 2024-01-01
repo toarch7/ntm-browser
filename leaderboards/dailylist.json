@@ -393,6 +393,72 @@
       "version": 2616,
       "uid": "oOeWIg7s3b0S8d1",
       "runId": 936133569
+    },
+    "2gCbMwZ7nQTbq3h": {
+      "name": "BATMAN",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 16,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        12,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2gCbMwZ7nQTbq3h",
+      "runId": 936133569
+    },
+    "5mdvWT1s40h11oc": {
+      "name": "BlckStl",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 21,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        25,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5mdvWT1s40h11oc",
+      "runId": 936133569
+    },
+    "xE4ptJ0DJYS5168": {
+      "name": "chaos.",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 116,
+      "win": false,
+      "kills": 249,
+      "ultra": 0,
+      "skills": [
+        7,
+        4,
+        1,
+        27,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xE4ptJ0DJYS5168",
+      "runId": 936133569
     }
   }
 }
