@@ -437,19 +437,22 @@
       "name": "chubi",
       "char": 11,
       "skin": true,
-      "area": 104,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 4,
+      "wep": 57,
+      "bwep": 88,
       "win": false,
-      "kills": 136,
+      "kills": 302,
       "ultra": 0,
       "skills": [
         12,
         14,
         10,
-        27
+        17,
+        27,
+        21,
+        4
       ],
       "crown": 8,
       "version": 2616,
@@ -1126,6 +1129,30 @@
       "crown": 8,
       "version": 2616,
       "uid": "Z8ODOgdSq23HDE3",
+      "runId": 794213732
+    },
+    "EV91EGxmht7hWGt": {
+      "name": "Fast",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 65,
+      "win": false,
+      "kills": 256,
+      "ultra": 0,
+      "skills": [
+        2,
+        6,
+        7,
+        27,
+        14
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "EV91EGxmht7hWGt",
       "runId": 794213732
     }
   }
