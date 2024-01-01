@@ -1,4 +1,57 @@
 {
   "day": 1,
-  "entries": {}
+  "entries": {
+    "WoxUmfP37M78eln": {
+      "name": "lobo:(solitario",
+      "char": 7,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 118,
+      "bwep": 24,
+      "win": false,
+      "kills": 547,
+      "ultra": 2,
+      "skills": [
+        25,
+        9,
+        4,
+        1,
+        27,
+        10,
+        23
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "WoxUmfP37M78eln",
+      "runId": 936133569
+    },
+    "BmHUB93ALbN0Yg6": {
+      "name": "bajnmen",
+      "char": 9,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 10,
+      "bwep": 121,
+      "win": false,
+      "kills": 493,
+      "ultra": 2,
+      "skills": [
+        3,
+        4,
+        1,
+        13,
+        27,
+        8,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BmHUB93ALbN0Yg6",
+      "runId": 936133569
+    }
+  }
 }
