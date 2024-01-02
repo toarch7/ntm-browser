@@ -169,13 +169,13 @@
       "name": "Seeker89",
       "char": 8,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 84,
-      "bwep": 74,
+      "wep": 74,
+      "bwep": 96,
       "win": false,
-      "kills": 308,
+      "kills": 395,
       "ultra": 0,
       "skills": [
         2,
@@ -183,7 +183,8 @@
         4,
         13,
         14,
-        17
+        17,
+        1
       ],
       "crown": 13,
       "version": 2616,
