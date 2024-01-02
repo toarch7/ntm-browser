@@ -700,6 +700,56 @@
       "version": 2616,
       "uid": "UMuKuC7f9rqOG8F",
       "runId": 827673489
+    },
+    "I6o9Clz6Y0yfM5m": {
+      "name": "neko",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 0,
+      "win": false,
+      "kills": 211,
+      "ultra": 0,
+      "skills": [
+        27,
+        12,
+        4,
+        14,
+        17
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "I6o9Clz6Y0yfM5m",
+      "runId": 827673489
+    },
+    "EV91EGxmht7hWGt": {
+      "name": "Fast",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 60,
+      "win": false,
+      "kills": 420,
+      "ultra": 0,
+      "skills": [
+        23,
+        2,
+        9,
+        28,
+        17,
+        27,
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "EV91EGxmht7hWGt",
+      "runId": 827673489
     }
   }
 }
