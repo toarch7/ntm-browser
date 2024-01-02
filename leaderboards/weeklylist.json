@@ -1,4 +1,25 @@
 {
   "seed": 827673489,
-  "entries": {}
+  "entries": {
+    "oe6xKlvJ58kHAGe": {
+      "name": "Tawagoto",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 69,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "oe6xKlvJ58kHAGe",
+      "runId": 827673489
+    }
+  }
 }
