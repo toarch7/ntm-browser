@@ -533,6 +533,68 @@
       "version": 2616,
       "uid": "WcwJ1kPyBtDHYKa",
       "runId": 439224799
+    },
+    "76x83A9Jz40uwkf": {
+      "name": "Chatterbøx",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 0,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        14,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "76x83A9Jz40uwkf",
+      "runId": 439224799
+    },
+    "2M3D8HP9Qz17Fxb": {
+      "name": "SKUM",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "2M3D8HP9Qz17Fxb",
+      "runId": 439224799
+    },
+    "WoxUmfP37M78eln": {
+      "name": "lobo:(solitario",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 89,
+      "win": false,
+      "kills": 263,
+      "ultra": 0,
+      "skills": [
+        14,
+        8,
+        10,
+        4,
+        7,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "WoxUmfP37M78eln",
+      "runId": 439224799
     }
   }
 }

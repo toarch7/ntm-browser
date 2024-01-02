@@ -437,6 +437,53 @@
       "version": 2616,
       "uid": "Ij70P0LdP1Dhcy9",
       "runId": 827673489
+    },
+    "U9Xj7SUuD3qhKh7": {
+      "name": "Gunslinger",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 40,
+      "win": false,
+      "kills": 427,
+      "ultra": 0,
+      "skills": [
+        23,
+        4,
+        13,
+        14,
+        9,
+        27,
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "U9Xj7SUuD3qhKh7",
+      "runId": 827673489
+    },
+    "2M3D8HP9Qz17Fxb": {
+      "name": "SKUM",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 0,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        2,
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "2M3D8HP9Qz17Fxb",
+      "runId": 827673489
     }
   }
 }
