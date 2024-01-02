@@ -301,6 +301,75 @@
       "version": 2616,
       "uid": "A9Ge5MQV8RW6xEP",
       "runId": 827673489
+    },
+    "7c78RgVbdGYA80c": {
+      "name": "SKU",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 74,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 13,
+      "version": 2620,
+      "uid": "7c78RgVbdGYA80c",
+      "runId": 827673489
+    },
+    "93DLDFJlDR8bL3O": {
+      "name": "Banana",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 66,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        13
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "93DLDFJlDR8bL3O",
+      "runId": 827673489
+    },
+    "WcwJ1kPyBtDHYKa": {
+      "name": "MS",
+      "char": 8,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 35,
+      "win": false,
+      "kills": 397,
+      "ultra": 1,
+      "skills": [
+        27,
+        4,
+        13,
+        21,
+        17,
+        29,
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "WcwJ1kPyBtDHYKa",
+      "runId": 827673489
     }
   }
 }
