@@ -204,6 +204,31 @@
       "version": 2616,
       "uid": "QL1AoY90pG6aVCc",
       "runId": 439224799
+    },
+    "E3gI7quBH9qA245": {
+      "name": "Fake",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 116,
+      "win": false,
+      "kills": 231,
+      "ultra": 0,
+      "skills": [
+        12,
+        10,
+        1,
+        21,
+        3,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "E3gI7quBH9qA245",
+      "runId": 439224799
     }
   }
 }
