@@ -328,18 +328,20 @@
       "name": "Banana",
       "char": 8,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 3,
       "loops": 0,
       "wep": 74,
       "bwep": 66,
       "win": false,
-      "kills": 179,
+      "kills": 315,
       "ultra": 0,
       "skills": [
         27,
         4,
-        13
+        16,
+        28,
+        7
       ],
       "crown": 13,
       "version": 2616,
@@ -843,6 +845,49 @@
       "crown": 13,
       "version": 2616,
       "uid": "5ak7Lp8CJetFsSi",
+      "runId": 827673489
+    },
+    "zIpMjkLEZOB036P": {
+      "name": "BrMan",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 57,
+      "win": false,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        23,
+        4,
+        13
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "zIpMjkLEZOB036P",
+      "runId": 827673489
+    },
+    "9rmZsK60xc3AQcU": {
+      "name": "Seeker",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 71,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        22,
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "9rmZsK60xc3AQcU",
       "runId": 827673489
     }
   }
