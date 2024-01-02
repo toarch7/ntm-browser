@@ -733,6 +733,56 @@
       "version": 2616,
       "uid": "f622zVMML42thF7",
       "runId": 439224799
+    },
+    "TggxQ6bAO69Y1GN": {
+      "name": "jere",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 36,
+      "win": false,
+      "kills": 250,
+      "ultra": 0,
+      "skills": [
+        12,
+        8,
+        1,
+        4,
+        7,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "TggxQ6bAO69Y1GN",
+      "runId": 439224799
+    },
+    "Em98H2jXOjvMwZ8": {
+      "name": "Osiris",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 58,
+      "win": false,
+      "kills": 279,
+      "ultra": 0,
+      "skills": [
+        19,
+        10,
+        1,
+        4,
+        7,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Em98H2jXOjvMwZ8",
+      "runId": 439224799
     }
   }
 }
