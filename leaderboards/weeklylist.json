@@ -750,6 +750,100 @@
       "version": 2616,
       "uid": "EV91EGxmht7hWGt",
       "runId": 827673489
+    },
+    "2gCbMwZ7nQTbq3h": {
+      "name": "BATMAN",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 37,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "2gCbMwZ7nQTbq3h",
+      "runId": 827673489
+    },
+    "MAs40GQA5JSTlN1": {
+      "name": "luis",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 69,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        23,
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "MAs40GQA5JSTlN1",
+      "runId": 827673489
+    },
+    "g7nTeU9lpy5rupK": {
+      "name": "g.s",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 107,
+      "bwep": 74,
+      "win": false,
+      "kills": 504,
+      "ultra": 1,
+      "skills": [
+        27,
+        13,
+        28,
+        9,
+        17,
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "g7nTeU9lpy5rupK",
+      "runId": 827673489
+    },
+    "5ak7Lp8CJetFsSi": {
+      "name": "Chara",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 74,
+      "win": false,
+      "kills": 424,
+      "ultra": 0,
+      "skills": [
+        2,
+        27,
+        23,
+        4,
+        14,
+        7,
+        17,
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "5ak7Lp8CJetFsSi",
+      "runId": 827673489
     }
   }
 }
