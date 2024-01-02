@@ -229,6 +229,52 @@
       "version": 2616,
       "uid": "E3gI7quBH9qA245",
       "runId": 439224799
+    },
+    "xE4ptJ0DJYS5168": {
+      "name": "chaos.",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 89,
+      "win": false,
+      "kills": 353,
+      "ultra": 0,
+      "skills": [
+        14,
+        16,
+        24,
+        4,
+        7,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xE4ptJ0DJYS5168",
+      "runId": 439224799
+    },
+    "T7A7lNI3tT44BS8": {
+      "name": "M3MO",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        14,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "T7A7lNI3tT44BS8",
+      "runId": 439224799
     }
   }
 }
