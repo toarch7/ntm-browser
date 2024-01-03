@@ -660,16 +660,17 @@
       "name": "Osiris",
       "char": 8,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 5,
-      "bwep": 74,
+      "wep": 66,
+      "bwep": 0,
       "win": false,
-      "kills": 103,
+      "kills": 135,
       "ultra": 0,
       "skills": [
-        7
+        7,
+        4
       ],
       "crown": 13,
       "version": 2616,
@@ -1356,14 +1357,15 @@
       "char": 8,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 71,
-      "bwep": 66,
+      "wep": 74,
+      "bwep": 37,
       "win": false,
-      "kills": 134,
+      "kills": 137,
       "ultra": 0,
       "skills": [
+        2,
         7,
         4
       ],
@@ -1393,6 +1395,26 @@
       "crown": 13,
       "version": 2616,
       "uid": "WoxUmfP37M78eln",
+      "runId": 827673489
+    },
+    "C6HPtu9bPcjWXbA": {
+      "name": "UncleGohst",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 52,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "C6HPtu9bPcjWXbA",
       "runId": 827673489
     }
   }
