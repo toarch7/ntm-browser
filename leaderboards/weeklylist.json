@@ -941,14 +941,14 @@
       "name": "chubi",
       "char": 8,
       "skin": true,
-      "area": 0,
-      "subarea": 1,
-      "loops": 1,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
       "wep": 74,
-      "bwep": 124,
+      "bwep": 0,
       "win": false,
-      "kills": 398,
-      "ultra": 2,
+      "kills": 427,
+      "ultra": 0,
       "skills": [
         27,
         12,
@@ -1108,11 +1108,12 @@
       "wep": 74,
       "bwep": 0,
       "win": false,
-      "kills": 120,
+      "kills": 154,
       "ultra": 0,
       "skills": [
         23,
-        4
+        4,
+        13
       ],
       "crown": 13,
       "version": 2616,
@@ -1162,6 +1163,48 @@
       "crown": 13,
       "version": 2616,
       "uid": "ZW9lq5E1j55Dhux",
+      "runId": 827673489
+    },
+    "WjBy9T0GzFm89qU": {
+      "name": "hQCK",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 0,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        7,
+        12,
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "WjBy9T0GzFm89qU",
+      "runId": 827673489
+    },
+    "UIM5T982W3BFZ7o": {
+      "name": "Шлоебень",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 7,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "UIM5T982W3BFZ7o",
       "runId": 827673489
     }
   }

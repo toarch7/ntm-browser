@@ -411,6 +411,134 @@
       "version": 2616,
       "uid": "xE4ptJ0DJYS5168",
       "runId": 741612886
+    },
+    "g76z78LjOTdhCfi": {
+      "name": "Stal",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 13,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        23,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g76z78LjOTdhCfi",
+      "runId": 741612886
+    },
+    "CM50Yrp2nbR68JK": {
+      "name": "Виктор",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 13,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CM50Yrp2nbR68JK",
+      "runId": 741612886
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        19,
+        7,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 741612886
+    },
+    "8rAm6d4nGT7ghHs": {
+      "name": "chubi",
+      "char": 10,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8rAm6d4nGT7ghHs",
+      "runId": 741612886
+    },
+    "FBT9ViR6SFCj8yZ": {
+      "name": "elias656513",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "FBT9ViR6SFCj8yZ",
+      "runId": 741612886
+    },
+    "2gc1fF0klt0YrI4": {
+      "name": "неономизация",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 37,
+      "win": false,
+      "kills": 253,
+      "ultra": 0,
+      "skills": [
+        23,
+        7,
+        17,
+        1,
+        13,
+        4
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "2gc1fF0klt0YrI4",
+      "runId": 741612886
     }
   }
 }
