@@ -1213,17 +1213,17 @@
       "name": "Guntrrxhub",
       "char": 8,
       "skin": true,
-      "area": 3,
+      "area": 103,
       "subarea": 1,
       "loops": 0,
-      "wep": 74,
-      "bwep": 0,
+      "wep": 40,
+      "bwep": 74,
       "win": false,
-      "kills": 135,
+      "kills": 140,
       "ultra": 0,
       "skills": [
-        7,
-        4
+        23,
+        12
       ],
       "crown": 13,
       "version": 2616,
@@ -1268,6 +1268,68 @@
       "crown": 13,
       "version": 2616,
       "uid": "L00577m815ab3l6",
+      "runId": 827673489
+    },
+    "E41B0t8dwT0O8rD": {
+      "name": "Seeker903355",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 69,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "E41B0t8dwT0O8rD",
+      "runId": 827673489
+    },
+    "xzd1fF0WacV2Ub5": {
+      "name": "dayyyo",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 34,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        28,
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "xzd1fF0WacV2Ub5",
+      "runId": 827673489
+    },
+    "AbdmdFG2w5yF6kL": {
+      "name": "Jesus",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 117,
+      "win": false,
+      "kills": 121,
+      "ultra": 0,
+      "skills": [
+        7,
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "AbdmdFG2w5yF6kL",
       "runId": 827673489
     }
   }
