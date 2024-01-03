@@ -237,6 +237,69 @@
       "version": 2616,
       "uid": "E3gI7quBH9qA245",
       "runId": 741612886
+    },
+    "Ol7U0kp7oNJ8Ly0": {
+      "name": "Eilen",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ol7U0kp7oNJ8Ly0",
+      "runId": 741612886
+    },
+    "26n8S7eZFO7q91F": {
+      "name": "List",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 4,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        12,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "26n8S7eZFO7q91F",
+      "runId": 741612886
+    },
+    "EV91EGxmht7hWGt": {
+      "name": "Fast",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 4,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        23,
+        8,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EV91EGxmht7hWGt",
+      "runId": 741612886
     }
   }
 }
