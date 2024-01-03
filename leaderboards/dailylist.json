@@ -559,6 +559,47 @@
       "version": 2616,
       "uid": "oOeWIg7s3b0S8d1",
       "runId": 741612886
+    },
+    "yKwO9MEr4Wu641m": {
+      "name": "Siktir",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 16,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        12,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "yKwO9MEr4Wu641m",
+      "runId": 741612886
+    },
+    "C6HPtu9bPcjWXbA": {
+      "name": "UncleGohst",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "C6HPtu9bPcjWXbA",
+      "runId": 741612886
     }
   }
 }
