@@ -404,17 +404,16 @@
       "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 10,
-      "bwep": 0,
+      "wep": 74,
+      "bwep": 66,
       "win": false,
-      "kills": 203,
+      "kills": 225,
       "ultra": 0,
       "skills": [
         23,
         4,
         13,
-        14,
-        7
+        14
       ],
       "crown": 13,
       "version": 2616,
@@ -1330,6 +1329,47 @@
       "crown": 13,
       "version": 2616,
       "uid": "AbdmdFG2w5yF6kL",
+      "runId": 827673489
+    },
+    "2keHsD304o3TSXW": {
+      "name": "carlosyung",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 7,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "2keHsD304o3TSXW",
+      "runId": 827673489
+    },
+    "9x27I4l83Gc3Gvc": {
+      "name": "MR.X",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 66,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        7,
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "9x27I4l83Gc3Gvc",
       "runId": 827673489
     }
   }
