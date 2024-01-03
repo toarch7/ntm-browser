@@ -1,4 +1,68 @@
 {
   "day": 3,
-  "entries": {}
+  "entries": {
+    "90cnT135q0TE0q2": {
+      "name": "General827",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 5,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        9,
+        7,
+        23,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "90cnT135q0TE0q2",
+      "runId": 741612886
+    },
+    "76N1MQbn172078K": {
+      "name": "Orpheus",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "76N1MQbn172078K",
+      "runId": 741612886
+    },
+    "6JB2X8mq8l7307C": {
+      "name": "Junior",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6JB2X8mq8l7307C",
+      "runId": 741612886
+    }
+  }
 }
