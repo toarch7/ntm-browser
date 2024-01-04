@@ -1590,16 +1590,17 @@
       "name": "herecomestheboi",
       "char": 8,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
       "wep": 74,
-      "bwep": 0,
+      "bwep": 5,
       "win": false,
-      "kills": 77,
+      "kills": 128,
       "ultra": 0,
       "skills": [
-        7
+        7,
+        4
       ],
       "crown": 13,
       "version": 2616,
