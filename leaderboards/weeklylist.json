@@ -1605,6 +1605,53 @@
       "version": 2616,
       "uid": "ARf7mW1B8iPBwSM",
       "runId": 827673489
+    },
+    "1GTdhZYa73840qq": {
+      "name": "Nuclir",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 5,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        23,
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "1GTdhZYa73840qq",
+      "runId": 827673489
+    },
+    "O81F41vv3XF8YAe": {
+      "name": "Seekershotgun",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 24,
+      "bwep": 60,
+      "win": false,
+      "kills": 1549,
+      "ultra": 1,
+      "skills": [
+        27,
+        4,
+        13,
+        6,
+        17,
+        1,
+        23
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "O81F41vv3XF8YAe",
+      "runId": 827673489
     }
   }
 }
