@@ -1436,20 +1436,22 @@
       "name": "хуй678",
       "char": 8,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
       "wep": 74,
-      "bwep": 66,
+      "bwep": 23,
       "win": false,
-      "kills": 294,
+      "kills": 416,
       "ultra": 0,
       "skills": [
         7,
         4,
         9,
-        28,
-        17
+        14,
+        17,
+        27,
+        1
       ],
       "crown": 13,
       "version": 2616,
@@ -1517,6 +1519,88 @@
       "crown": 13,
       "version": 2616,
       "uid": "DUPM1ML5eafpsXC",
+      "runId": 827673489
+    },
+    "x7s1dw7847lqoKP": {
+      "name": "Zayad",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 7,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "x7s1dw7847lqoKP",
+      "runId": 827673489
+    },
+    "LxKp6M19HGk0cB6": {
+      "name": "Providence",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 0,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        23,
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "LxKp6M19HGk0cB6",
+      "runId": 827673489
+    },
+    "ke4r3j1386ycCff": {
+      "name": "NINGAKO",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 66,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        23,
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "ke4r3j1386ycCff",
+      "runId": 827673489
+    },
+    "ARf7mW1B8iPBwSM": {
+      "name": "herecomestheboi",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 0,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "ARf7mW1B8iPBwSM",
       "runId": 827673489
     }
   }
