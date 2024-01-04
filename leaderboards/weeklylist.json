@@ -1657,13 +1657,13 @@
       "name": "ЕбалЖаб...",
       "char": 8,
       "skin": true,
-      "area": 1,
-      "subarea": 2,
+      "area": 2,
+      "subarea": 1,
       "loops": 1,
       "wep": 74,
-      "bwep": 35,
+      "bwep": 111,
       "win": false,
-      "kills": 611,
+      "kills": 781,
       "ultra": 1,
       "skills": [
         23,
@@ -1671,8 +1671,8 @@
         13,
         14,
         17,
-        25,
-        27
+        29,
+        1
       ],
       "crown": 13,
       "version": 2616,
