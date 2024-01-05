@@ -1685,17 +1685,20 @@
       "name": "golosa69pro",
       "char": 8,
       "skin": true,
-      "area": 4,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
       "wep": 74,
       "bwep": 10,
       "win": false,
-      "kills": 173,
+      "kills": 221,
       "ultra": 0,
       "skills": [
         23,
-        13
+        4,
+        13,
+        28,
+        17
       ],
       "crown": 13,
       "version": 2616,
