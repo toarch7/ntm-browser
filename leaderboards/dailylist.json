@@ -1,4 +1,65 @@
 {
   "day": 5,
-  "entries": {}
+  "entries": {
+    "186qH6RjM2hLxD4": {
+      "name": "Seeker48",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 21,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "186qH6RjM2hLxD4",
+      "runId": 348647347
+    },
+    "g76z78LjOTdhCfi": {
+      "name": "Stal",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 81,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g76z78LjOTdhCfi",
+      "runId": 348647347
+    },
+    "bHIxdKcMRN01RhE": {
+      "name": "golosa69pro",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 38,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bHIxdKcMRN01RhE",
+      "runId": 348647347
+    }
+  }
 }
