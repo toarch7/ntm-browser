@@ -1,4 +1,66 @@
 {
   "day": 6,
-  "entries": {}
+  "entries": {
+    "bHIxdKcMRN01RhE": {
+      "name": "golosa69pro",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 4,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bHIxdKcMRN01RhE",
+      "runId": 1815414623
+    },
+    "jnBa762acUhOLVG": {
+      "name": "elpandaYT",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "jnBa762acUhOLVG",
+      "runId": 1815414623
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 31,
+      "win": false,
+      "kills": 161,
+      "ultra": 0,
+      "skills": [
+        3,
+        25,
+        27,
+        17
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1815414623
+    }
+  }
 }
