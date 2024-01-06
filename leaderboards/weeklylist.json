@@ -5,16 +5,17 @@
       "name": "Tawagoto",
       "char": 8,
       "skin": true,
-      "area": 2,
+      "area": 103,
       "subarea": 1,
       "loops": 0,
       "wep": 74,
-      "bwep": 69,
+      "bwep": 0,
       "win": false,
-      "kills": 80,
+      "kills": 129,
       "ultra": 0,
       "skills": [
-        7
+        7,
+        4
       ],
       "crown": 13,
       "version": 2616,
