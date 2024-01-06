@@ -149,20 +149,19 @@
       "char": 8,
       "skin": true,
       "area": 7,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
       "wep": 74,
-      "bwep": 112,
+      "bwep": 124,
       "win": false,
-      "kills": 349,
-      "ultra": 0,
+      "kills": 401,
+      "ultra": 2,
       "skills": [
         23,
-        2,
-        16,
-        14,
+        4,
+        13,
+        28,
         17,
-        29,
         1
       ],
       "crown": 13,
@@ -1969,6 +1968,27 @@
       "crown": 13,
       "version": 2616,
       "uid": "E6n4l0VaFeYsYK5",
+      "runId": 827673489
+    },
+    "9kQ8COcXOB4GTL0": {
+      "name": "julliannoseque",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 7,
+      "win": false,
+      "kills": 171,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "9kQ8COcXOB4GTL0",
       "runId": 827673489
     }
   }
