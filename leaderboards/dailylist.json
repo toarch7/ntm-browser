@@ -142,6 +142,69 @@
       "version": 2616,
       "uid": "2SP0dkXGtBbRn0o",
       "runId": 1815414623
+    },
+    "C6HPtu9bPcjWXbA": {
+      "name": "UncleGohst",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 16,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        3,
+        25,
+        8,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "C6HPtu9bPcjWXbA",
+      "runId": 1815414623
+    },
+    "E3gI7quBH9qA245": {
+      "name": "Fake",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 30,
+      "win": false,
+      "kills": 232,
+      "ultra": 0,
+      "skills": [
+        3,
+        6,
+        27,
+        4,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "E3gI7quBH9qA245",
+      "runId": 1815414623
+    },
+    "Nx50VRZ82aj558H": {
+      "name": "Maiki",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 26,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Nx50VRZ82aj558H",
+      "runId": 1815414623
     }
   }
 }
