@@ -2292,20 +2292,43 @@
       "name": "error_andlive",
       "char": 8,
       "skin": true,
-      "area": 103,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 27,
+      "wep": 74,
       "bwep": 0,
       "win": false,
-      "kills": 125,
+      "kills": 156,
       "ultra": 0,
       "skills": [
-        27
+        28,
+        4
       ],
       "crown": 13,
       "version": 2616,
       "uid": "Io6460xC8w6dH79",
+      "runId": 827673489
+    },
+    "C5NK0x36H7C06FF": {
+      "name": "Соплежуй",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 74,
+      "win": false,
+      "kills": 146,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        9
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "C5NK0x36H7C06FF",
       "runId": 827673489
     }
   }
