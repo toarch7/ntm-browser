@@ -291,17 +291,17 @@
       "name": "gl00my",
       "char": 8,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 74,
+      "wep": 124,
       "bwep": 0,
       "win": false,
-      "kills": 64,
+      "kills": 137,
       "ultra": 0,
       "skills": [
-        2,
-        23
+        23,
+        4
       ],
       "crown": 13,
       "version": 2616,
@@ -2242,6 +2242,50 @@
       "crown": 13,
       "version": 2616,
       "uid": "AC7960AE6195rel",
+      "runId": 827673489
+    },
+    "4P9oAQ7ePb4w41y": {
+      "name": "dragonfucker",
+      "char": 8,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 11,
+      "win": false,
+      "kills": 334,
+      "ultra": 0,
+      "skills": [
+        7,
+        4,
+        13,
+        14,
+        17
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "4P9oAQ7ePb4w41y",
+      "runId": 827673489
+    },
+    "cMyp2vQG29hJ887": {
+      "name": "Fraudkuna",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 5,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "cMyp2vQG29hJ887",
       "runId": 827673489
     }
   }
