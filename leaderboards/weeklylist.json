@@ -2157,20 +2157,22 @@
       "name": "wdwasdsa",
       "char": 8,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
       "wep": 74,
-      "bwep": 66,
+      "bwep": 76,
       "win": false,
-      "kills": 305,
+      "kills": 360,
       "ultra": 0,
       "skills": [
         23,
         2,
         4,
-        28,
-        17
+        6,
+        17,
+        13,
+        1
       ],
       "crown": 13,
       "version": 2616,
@@ -2329,6 +2331,28 @@
       "crown": 13,
       "version": 2616,
       "uid": "C5NK0x36H7C06FF",
+      "runId": 827673489
+    },
+    "h64q12c4cyBQsT2": {
+      "name": "だいすこ",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 66,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        2,
+        27,
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "h64q12c4cyBQsT2",
       "runId": 827673489
     }
   }
