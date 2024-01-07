@@ -592,6 +592,75 @@
       "version": 2616,
       "uid": "Nx50VRZ82aj558H",
       "runId": 1643722901
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 49,
+      "bwep": 35,
+      "win": false,
+      "kills": 539,
+      "ultra": 1,
+      "skills": [
+        3,
+        16,
+        4,
+        10,
+        23,
+        1,
+        14,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1643722901
+    },
+    "Tb6QJ6SNtcQrB86": {
+      "name": "peak",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 2,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        3,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Tb6QJ6SNtcQrB86",
+      "runId": 1643722901
+    },
+    "Mm83ACk93iM2155": {
+      "name": "Piku",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        3,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Mm83ACk93iM2155",
+      "runId": 1643722901
     }
   }
 }
