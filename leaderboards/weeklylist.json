@@ -2160,18 +2160,17 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 7,
-      "bwep": 74,
+      "wep": 74,
+      "bwep": 66,
       "win": false,
-      "kills": 257,
+      "kills": 305,
       "ultra": 0,
       "skills": [
-        2,
         23,
-        12,
+        2,
         4,
         28,
-        7
+        17
       ],
       "crown": 13,
       "version": 2616,
@@ -2223,6 +2222,26 @@
       "crown": 13,
       "version": 2616,
       "uid": "6mKywl868n01T5V",
+      "runId": 827673489
+    },
+    "AC7960AE6195rel": {
+      "name": "Скелетон",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 0,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "AC7960AE6195rel",
       "runId": 827673489
     }
   }
