@@ -291,6 +291,53 @@
       "version": 2616,
       "uid": "9x27I4l83Gc3Gvc",
       "runId": 1643722901
+    },
+    "oOeWIg7s3b0S8d1": {
+      "name": "Zwillsad",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 14,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        3,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oOeWIg7s3b0S8d1",
+      "runId": 1643722901
+    },
+    "WoxUmfP37M78eln": {
+      "name": "lobo:(solitario",
+      "char": 3,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 89,
+      "bwep": 35,
+      "win": false,
+      "kills": 337,
+      "ultra": 0,
+      "skills": [
+        22,
+        4,
+        10,
+        23,
+        14,
+        7,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "WoxUmfP37M78eln",
+      "runId": 1643722901
     }
   }
 }
