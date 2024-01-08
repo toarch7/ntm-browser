@@ -394,6 +394,65 @@
       "version": 2616,
       "uid": "04ct3zf04YNZ1Ln",
       "runId": 1854600058
+    },
+    "WoxUmfP37M78eln": {
+      "name": "lobo:(solitario",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 84,
+      "bwep": 93,
+      "win": false,
+      "kills": 1957,
+      "ultra": 1,
+      "skills": [
+        14,
+        1,
+        27,
+        9,
+        4,
+        25
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "WoxUmfP37M78eln",
+      "runId": 1854600058
+    },
+    "djTmyjX99l7p91d": {
+      "name": "Tae",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 7,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "djTmyjX99l7p91d",
+      "runId": 1854600058
+    },
+    "CM50Yrp2nbR68JK": {
+      "name": "Виктор",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 0,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "CM50Yrp2nbR68JK",
+      "runId": 1854600058
     }
   }
 }
