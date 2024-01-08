@@ -433,17 +433,20 @@
       "name": "arz",
       "char": 8,
       "skin": true,
-      "area": 103,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 74,
-      "bwep": 0,
+      "wep": 34,
+      "bwep": 74,
       "win": false,
-      "kills": 138,
+      "kills": 292,
       "ultra": 0,
       "skills": [
         22,
-        23
+        23,
+        4,
+        14,
+        17
       ],
       "crown": 13,
       "version": 2616,
@@ -2479,6 +2482,32 @@
       "crown": 13,
       "version": 2616,
       "uid": "U4aHPOpnSrZS560",
+      "runId": 827673489
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 40,
+      "win": false,
+      "kills": 419,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        13,
+        14,
+        21,
+        29,
+        23
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
       "runId": 827673489
     }
   }
