@@ -183,6 +183,53 @@
       "version": 2616,
       "uid": "oOeWIg7s3b0S8d1",
       "runId": 1854600058
+    },
+    "EV91EGxmht7hWGt": {
+      "name": "Fast",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 7,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EV91EGxmht7hWGt",
+      "runId": 1854600058
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 25,
+      "bwep": 24,
+      "win": false,
+      "kills": 445,
+      "ultra": 1,
+      "skills": [
+        17,
+        23,
+        1,
+        27,
+        14,
+        13,
+        25,
+        4
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1854600058
     }
   }
 }
