@@ -1,4 +1,42 @@
 {
   "day": 8,
-  "entries": {}
+  "entries": {
+    "f0797m8QrqbqY2d": {
+      "name": "Guntrrxhub",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "f0797m8QrqbqY2d",
+      "runId": 1854600058
+    },
+    "90cnT135q0TE0q2": {
+      "name": "General827",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 16,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        17,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "90cnT135q0TE0q2",
+      "runId": 1854600058
+    }
+  }
 }
