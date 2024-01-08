@@ -433,13 +433,13 @@
       "name": "arz",
       "char": 8,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 103,
+      "subarea": 1,
       "loops": 0,
       "wep": 74,
       "bwep": 0,
       "win": false,
-      "kills": 136,
+      "kills": 138,
       "ultra": 0,
       "skills": [
         22,
@@ -2353,6 +2353,26 @@
       "crown": 13,
       "version": 2616,
       "uid": "h64q12c4cyBQsT2",
+      "runId": 827673489
+    },
+    "26Xp3vM9QPm5NE5": {
+      "name": "Spaguettiven",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 0,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "26Xp3vM9QPm5NE5",
       "runId": 827673489
     }
   }
