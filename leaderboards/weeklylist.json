@@ -291,20 +291,21 @@
       "name": "Виктор",
       "char": 5,
       "skin": false,
-      "area": 5,
-      "subarea": 1,
-      "loops": 0,
-      "wep": 23,
-      "bwep": 66,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 106,
+      "bwep": 35,
       "win": false,
-      "kills": 338,
-      "ultra": 0,
+      "kills": 1001,
+      "ultra": 2,
       "skills": [
+        16,
         1,
         27,
-        23,
+        4,
         3,
-        4
+        7
       ],
       "crown": 7,
       "version": 2616,
@@ -378,6 +379,52 @@
       "crown": 7,
       "version": 2616,
       "uid": "YKDiraz38Smh4qX",
+      "runId": 968622345
+    },
+    "ho23T0xLTjxOZvc": {
+      "name": "Seeker",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        8,
+        7,
+        16
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "ho23T0xLTjxOZvc",
+      "runId": 968622345
+    },
+    "07G6h6Y87K3t72h": {
+      "name": "roronoa",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 88,
+      "win": false,
+      "kills": 272,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        27,
+        4,
+        7
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "07G6h6Y87K3t72h",
       "runId": 968622345
     }
   }
