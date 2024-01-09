@@ -380,6 +380,118 @@
       "version": 2616,
       "uid": "9x27I4l83Gc3Gvc",
       "runId": 44627113
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 44627113
+    },
+    "3zz5IAW518Knh5n": {
+      "name": "soma666",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 1,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        4,
+        27,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3zz5IAW518Knh5n",
+      "runId": 44627113
+    },
+    "WoxUmfP37M78eln": {
+      "name": "lobo:(solitario",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 11,
+      "win": false,
+      "kills": 329,
+      "ultra": 0,
+      "skills": [
+        4,
+        22,
+        25,
+        8,
+        6,
+        14,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "WoxUmfP37M78eln",
+      "runId": 44627113
+    },
+    "E3gI7quBH9qA245": {
+      "name": "Fake",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 26,
+      "win": false,
+      "kills": 456,
+      "ultra": 2,
+      "skills": [
+        4,
+        27,
+        22,
+        8,
+        6,
+        16,
+        25,
+        1,
+        9
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "E3gI7quBH9qA245",
+      "runId": 44627113
+    },
+    "2gCbMwZ7nQTbq3h": {
+      "name": "BATMAN",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "2gCbMwZ7nQTbq3h",
+      "runId": 44627113
     }
   }
 }
