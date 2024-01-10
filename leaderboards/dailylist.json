@@ -756,6 +756,48 @@
       "version": 2616,
       "uid": "EGEV4G5ca78htbW",
       "runId": 1958435238
+    },
+    "e085DK3c3Xf5gue": {
+      "name": "santiago",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "e085DK3c3Xf5gue",
+      "runId": 1958435238
+    },
+    "ho23T0xLTjxOZvc": {
+      "name": "Seeker",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 17,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        8,
+        13,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ho23T0xLTjxOZvc",
+      "runId": 1958435238
     }
   }
 }
