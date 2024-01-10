@@ -475,6 +475,49 @@
       "version": 2616,
       "uid": "GNBvF84rQF7zOu2",
       "runId": 1958435238
+    },
+    "2gCbMwZ7nQTbq3h": {
+      "name": "BATMAN",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "2gCbMwZ7nQTbq3h",
+      "runId": 1958435238
+    },
+    "BmHUB93ALbN0Yg6": {
+      "name": "bajnmen",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 70,
+      "bwep": 26,
+      "win": false,
+      "kills": 792,
+      "ultra": 2,
+      "skills": [
+        23,
+        27,
+        13,
+        1,
+        7,
+        17,
+        3,
+        22
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "BmHUB93ALbN0Yg6",
+      "runId": 1958435238
     }
   }
 }
