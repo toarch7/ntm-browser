@@ -905,6 +905,84 @@
       "version": 2616,
       "uid": "f0797m8QrqbqY2d",
       "runId": 1958435238
+    },
+    "Nx50VRZ82aj558H": {
+      "name": "Maiki",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Nx50VRZ82aj558H",
+      "runId": 1958435238
+    },
+    "XP16shqQ4U47G54": {
+      "name": "Samlii",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "XP16shqQ4U47G54",
+      "runId": 1958435238
+    },
+    "qxH19QVNqRpqNKZ": {
+      "name": "Дэн",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 27,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qxH19QVNqRpqNKZ",
+      "runId": 1958435238
+    },
+    "9x27I4l83Gc3Gvc": {
+      "name": "MR.X",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 34,
+      "win": false,
+      "kills": 219,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        4,
+        10
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "9x27I4l83Gc3Gvc",
+      "runId": 1958435238
     }
   }
 }
