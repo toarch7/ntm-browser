@@ -649,6 +649,47 @@
       "version": 2616,
       "uid": "LR4Z0Y51PeF9C72",
       "runId": 968622345
+    },
+    "7azZP8ff82q5Uql": {
+      "name": "INeedStars",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 17,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "7azZP8ff82q5Uql",
+      "runId": 968622345
+    },
+    "wuoe1dYuTZ42gRo": {
+      "name": "Адскийсосун",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 18,
+      "win": false,
+      "kills": 174,
+      "ultra": 0,
+      "skills": [
+        8,
+        27
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "wuoe1dYuTZ42gRo",
+      "runId": 968622345
     }
   }
 }
