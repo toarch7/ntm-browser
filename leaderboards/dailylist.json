@@ -669,6 +669,48 @@
       "version": 2616,
       "uid": "RGDd572P6MfWctg",
       "runId": 1958435238
+    },
+    "8rAm6d4nGT7ghHs": {
+      "name": "chubi",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8rAm6d4nGT7ghHs",
+      "runId": 1958435238
+    },
+    "1byD705LbSArxaP": {
+      "name": "Se",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 44,
+      "win": false,
+      "kills": 167,
+      "ultra": 0,
+      "skills": [
+        23,
+        14,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1byD705LbSArxaP",
+      "runId": 1958435238
     }
   }
 }
