@@ -600,6 +600,32 @@
       "version": 2616,
       "uid": "XP16shqQ4U47G54",
       "runId": 968622345
+    },
+    "BGlj46My038e60S": {
+      "name": "Zhubakka_2.0",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 118,
+      "win": false,
+      "kills": 848,
+      "ultra": 1,
+      "skills": [
+        27,
+        1,
+        23,
+        17,
+        4,
+        3,
+        13
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "BGlj46My038e60S",
+      "runId": 968622345
     }
   }
 }
