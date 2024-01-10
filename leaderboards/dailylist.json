@@ -518,6 +518,94 @@
       "version": 2616,
       "uid": "BmHUB93ALbN0Yg6",
       "runId": 1958435238
+    },
+    "892Y5ozZ0h8r0Kq": {
+      "name": "Natsume",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "892Y5ozZ0h8r0Kq",
+      "runId": 1958435238
+    },
+    "94XE1O4y12I8NfM": {
+      "name": "SvinMaxim",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 59,
+      "win": false,
+      "kills": 481,
+      "ultra": 1,
+      "skills": [
+        27,
+        14,
+        23,
+        13,
+        4,
+        9,
+        17,
+        6
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "94XE1O4y12I8NfM",
+      "runId": 1958435238
+    },
+    "316QNl3ACEA87zy": {
+      "name": "VALE",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "316QNl3ACEA87zy",
+      "runId": 1958435238
+    },
+    "EV91EGxmht7hWGt": {
+      "name": "Fast",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        29
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EV91EGxmht7hWGt",
+      "runId": 1958435238
     }
   }
 }
