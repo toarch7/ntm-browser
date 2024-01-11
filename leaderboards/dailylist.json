@@ -437,6 +437,45 @@
       "version": 2616,
       "uid": "2gCbMwZ7nQTbq3h",
       "runId": 2028809591
+    },
+    "8b79yvoYJPB9R85": {
+      "name": "AstolFluffy",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "8b79yvoYJPB9R85",
+      "runId": 2028809591
+    },
+    "EV91EGxmht7hWGt": {
+      "name": "Fast",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 13,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        4,
+        29,
+        13,
+        23
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "EV91EGxmht7hWGt",
+      "runId": 2028809591
     }
   }
 }
