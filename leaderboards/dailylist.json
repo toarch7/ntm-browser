@@ -446,6 +446,51 @@
       "version": 2616,
       "uid": "fw5S1UfnhkI086O",
       "runId": 130964814
+    },
+    "oe0tJOOaYb9gNdq": {
+      "name": "ice_nine",
+      "char": 7,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 331,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        16,
+        9,
+        10,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oe0tJOOaYb9gNdq",
+      "runId": 130964814
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 130964814
     }
   }
 }
