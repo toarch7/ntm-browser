@@ -739,6 +739,30 @@
       "version": 2616,
       "uid": "7iFA0ksqdr55yfT",
       "runId": 130964814
+    },
+    "aDrlGmJ9F4GRkKh": {
+      "name": "Kitczu",
+      "char": 9,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 80,
+      "bwep": 46,
+      "win": false,
+      "kills": 196,
+      "ultra": 0,
+      "skills": [
+        8,
+        9,
+        1,
+        2,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aDrlGmJ9F4GRkKh",
+      "runId": 130964814
     }
   }
 }
