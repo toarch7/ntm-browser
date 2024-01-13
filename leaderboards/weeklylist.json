@@ -1278,24 +1278,51 @@
       "name": "FadeScratch",
       "char": 5,
       "skin": false,
-      "area": 4,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 20,
+      "wep": 13,
+      "bwep": 10,
       "win": false,
-      "kills": 310,
+      "kills": 350,
       "ultra": 0,
       "skills": [
         27,
         23,
-        1,
         13,
-        17
+        14,
+        3
       ],
       "crown": 7,
       "version": 2616,
       "uid": "dgwaFELz35C5ry9",
+      "runId": 968622345
+    },
+    "O81F41vv3XF8YAe": {
+      "name": "Seekershotgun",
+      "char": 5,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 2,
+      "win": false,
+      "kills": 616,
+      "ultra": 2,
+      "skills": [
+        1,
+        4,
+        27,
+        3,
+        23,
+        25,
+        16,
+        19
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "O81F41vv3XF8YAe",
       "runId": 968622345
     }
   }
