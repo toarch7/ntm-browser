@@ -1373,6 +1373,54 @@
       "version": 2616,
       "uid": "HJ7G87oXRypnPMd",
       "runId": 968622345
+    },
+    "W68sW4lY78dczdw": {
+      "name": "pupochek",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 3,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        6,
+        7,
+        8
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "W68sW4lY78dczdw",
+      "runId": 968622345
+    },
+    "00HdYo5vEM08ikN": {
+      "name": "Togbot",
+      "char": 5,
+      "skin": false,
+      "area": 106,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 2,
+      "win": false,
+      "kills": 808,
+      "ultra": 1,
+      "skills": [
+        4,
+        1,
+        8,
+        7,
+        10,
+        16,
+        22
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "00HdYo5vEM08ikN",
+      "runId": 968622345
     }
   }
 }
