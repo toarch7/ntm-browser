@@ -420,6 +420,27 @@
       "version": 2616,
       "uid": "O81F41vv3XF8YAe",
       "runId": 1403056762
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        7,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 1403056762
     }
   }
 }
