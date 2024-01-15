@@ -657,6 +657,42 @@
       "version": 2616,
       "uid": "26n8S7eZFO7q91F",
       "runId": 1163073347
+    },
+    "sR57FHtdL3Evdz2": {
+      "name": "asan",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "sR57FHtdL3Evdz2",
+      "runId": 1163073347
+    },
+    "23Wrkwe5f74WqK5": {
+      "name": "KATONEKO",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 14,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "23Wrkwe5f74WqK5",
+      "runId": 1163073347
     }
   }
 }
