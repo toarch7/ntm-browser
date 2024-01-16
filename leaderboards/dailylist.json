@@ -344,6 +344,66 @@
       "version": 2616,
       "uid": "OBun4mz99I00V4I",
       "runId": 1350116076
+    },
+    "892Y5ozZ0h8r0Kq": {
+      "name": "Natsume",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 4,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "892Y5ozZ0h8r0Kq",
+      "runId": 1350116076
+    },
+    "djTmyjX99l7p91d": {
+      "name": "Tae",
+      "char": 7,
+      "skin": false,
+      "area": 105,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 23,
+      "win": false,
+      "kills": 243,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        4,
+        3,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "djTmyjX99l7p91d",
+      "runId": 1350116076
+    },
+    "s208x04d6qw12fO": {
+      "name": "Seeker09",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "s208x04d6qw12fO",
+      "runId": 1350116076
     }
   }
 }

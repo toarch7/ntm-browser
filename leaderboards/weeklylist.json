@@ -469,6 +469,74 @@
       "version": 2616,
       "uid": "OBun4mz99I00V4I",
       "runId": 187476731
+    },
+    "dgwaFELz35C5ry9": {
+      "name": "FadeScratch",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 80,
+      "bwep": 60,
+      "win": false,
+      "kills": 184,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        3,
+        14,
+        1
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "dgwaFELz35C5ry9",
+      "runId": 187476731
+    },
+    "djTmyjX99l7p91d": {
+      "name": "Tae",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 80,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        3
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "djTmyjX99l7p91d",
+      "runId": 187476731
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "tsarismyname",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 57,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        17
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
+      "runId": 187476731
     }
   }
 }
