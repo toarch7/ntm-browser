@@ -743,6 +743,53 @@
       "version": 2616,
       "uid": "xzd1fF0WacV2Ub5",
       "runId": 1350116076
+    },
+    "aDrlGmJ9F4GRkKh": {
+      "name": "Kitczu",
+      "char": 9,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 46,
+      "win": false,
+      "kills": 298,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        7,
+        12,
+        13,
+        8,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aDrlGmJ9F4GRkKh",
+      "runId": 1350116076
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 19,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        3,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1350116076
     }
   }
 }
