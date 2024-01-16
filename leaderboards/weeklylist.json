@@ -156,6 +156,48 @@
       "version": 2616,
       "uid": "O82eCuRSbf655d3",
       "runId": 187476731
+    },
+    "I4740s1I7E5tqc0": {
+      "name": "Seeke",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 76,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "I4740s1I7E5tqc0",
+      "runId": 187476731
+    },
+    "QHp1i9471GhLn77": {
+      "name": "romeo",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 69,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        29
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "QHp1i9471GhLn77",
+      "runId": 187476731
     }
   }
 }
