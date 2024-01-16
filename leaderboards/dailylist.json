@@ -1,4 +1,47 @@
 {
   "day": 16,
-  "entries": {}
+  "entries": {
+    "EyivYO7HV1WHL1v": {
+      "name": "lol8",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2616,
+      "uid": "EyivYO7HV1WHL1v",
+      "runId": 1350116076
+    },
+    "4N3nLcqx43V3Ta1": {
+      "name": "Seeker41",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 10,
+      "win": false,
+      "kills": 342,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        14,
+        10,
+        8,
+        25,
+        9
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "4N3nLcqx43V3Ta1",
+      "runId": 1350116076
+    }
+  }
 }

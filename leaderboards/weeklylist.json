@@ -1,4 +1,96 @@
 {
   "seed": 187476731,
-  "entries": {}
+  "entries": {
+    "A9Ge5MQV8RW6xEP": {
+      "name": "gl00my",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 79,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        12
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "A9Ge5MQV8RW6xEP",
+      "runId": 187476731
+    },
+    "Io6460xC8w6dH79": {
+      "name": "error_andlive",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 76,
+      "win": false,
+      "kills": 229,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        13,
+        27
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "Io6460xC8w6dH79",
+      "runId": 187476731
+    },
+    "4N3nLcqx43V3Ta1": {
+      "name": "Seeker41",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 11,
+      "win": false,
+      "kills": 282,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        14,
+        27,
+        10,
+        9
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "4N3nLcqx43V3Ta1",
+      "runId": 187476731
+    },
+    "EyivYO7HV1WHL1v": {
+      "name": "lol8",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 80,
+      "bwep": 69,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        8,
+        1
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "EyivYO7HV1WHL1v",
+      "runId": 187476731
+    }
+  }
 }
