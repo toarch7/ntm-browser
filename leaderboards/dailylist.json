@@ -234,6 +234,73 @@
       "version": 2616,
       "uid": "WoxUmfP37M78eln",
       "runId": 1350116076
+    },
+    "EV91EGxmht7hWGt": {
+      "name": "Fast",
+      "char": 4,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 17,
+      "win": false,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        17
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "EV91EGxmht7hWGt",
+      "runId": 1350116076
+    },
+    "7B57yWsb95pT73S": {
+      "name": "Blas7hatVGA",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7B57yWsb95pT73S",
+      "runId": 1350116076
+    },
+    "HuGhz9pIQXBA1VU": {
+      "name": "LCS",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 14,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        14,
+        8,
+        7,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HuGhz9pIQXBA1VU",
+      "runId": 1350116076
     }
   }
 }

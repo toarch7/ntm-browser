@@ -272,13 +272,13 @@
       "name": "Seeker90",
       "char": 6,
       "skin": true,
-      "area": 103,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 79,
+      "wep": 80,
       "bwep": 8,
       "win": false,
-      "kills": 85,
+      "kills": 121,
       "ultra": 0,
       "skills": [
         1,
@@ -383,6 +383,50 @@
       "crown": 2,
       "version": 2616,
       "uid": "W0DMuE7i7698LT1",
+      "runId": 187476731
+    },
+    "fr2MY4VoxpnRMg9": {
+      "name": "hmmm",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 69,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        22
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "fr2MY4VoxpnRMg9",
+      "runId": 187476731
+    },
+    "I6o9Clz6Y0yfM5m": {
+      "name": "neko",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 30,
+      "win": false,
+      "kills": 206,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        22
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "I6o9Clz6Y0yfM5m",
       "runId": 187476731
     }
   }
