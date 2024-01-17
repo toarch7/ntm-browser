@@ -667,6 +667,73 @@
       "version": 2616,
       "uid": "HJ7G87oXRypnPMd",
       "runId": 978272039
+    },
+    "Nx50VRZ82aj558H": {
+      "name": "null",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 5,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Nx50VRZ82aj558H",
+      "runId": 978272039
+    },
+    "2gCbMwZ7nQTbq3h": {
+      "name": "BATMAN",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 7,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2gCbMwZ7nQTbq3h",
+      "runId": 978272039
+    },
+    "9x27I4l83Gc3Gvc": {
+      "name": "MR.X",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 26,
+      "win": false,
+      "kills": 372,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        9,
+        4,
+        8,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9x27I4l83Gc3Gvc",
+      "runId": 978272039
     }
   }
 }
