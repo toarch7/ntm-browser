@@ -1036,6 +1036,47 @@
       "version": 2616,
       "uid": "OG6oUWfDQdLREP4",
       "runId": 187476731
+    },
+    "kF0Z9FifQllKnPl": {
+      "name": "Boomario2019",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 117,
+      "win": false,
+      "kills": 210,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        14,
+        12
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "kF0Z9FifQllKnPl",
+      "runId": 187476731
+    },
+    "FBT9ViR6SFCj8yZ": {
+      "name": "user",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 8,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [],
+      "crown": 2,
+      "version": 2616,
+      "uid": "FBT9ViR6SFCj8yZ",
+      "runId": 187476731
     }
   }
 }
