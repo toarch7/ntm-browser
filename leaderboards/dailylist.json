@@ -165,6 +165,112 @@
       "version": 2616,
       "uid": "E3gI7quBH9qA245",
       "runId": 978272039
+    },
+    "90cnT135q0TE0q2": {
+      "name": "General827",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "90cnT135q0TE0q2",
+      "runId": 978272039
+    },
+    "6HKf0x9YJ3VJG3N": {
+      "name": "Merrych",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        1,
+        25,
+        16,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6HKf0x9YJ3VJG3N",
+      "runId": 978272039
+    },
+    "7azZP8ff82q5Uql": {
+      "name": "INeedStars",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 63,
+      "win": false,
+      "kills": 284,
+      "ultra": 0,
+      "skills": [
+        4,
+        6,
+        16,
+        27,
+        28
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "7azZP8ff82q5Uql",
+      "runId": 978272039
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 7,
+      "win": false,
+      "kills": 218,
+      "ultra": 0,
+      "skills": [
+        4,
+        25,
+        23,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 978272039
+    },
+    "071fFB1qEr6Im1L": {
+      "name": "Saverun",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 20,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "071fFB1qEr6Im1L",
+      "runId": 978272039
     }
   }
 }
