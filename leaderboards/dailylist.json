@@ -757,6 +757,27 @@
       "version": 2616,
       "uid": "aDrlGmJ9F4GRkKh",
       "runId": 978272039
+    },
+    "cDS511PIE77388u": {
+      "name": "Seeker",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        4,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cDS511PIE77388u",
+      "runId": 978272039
     }
   }
 }
