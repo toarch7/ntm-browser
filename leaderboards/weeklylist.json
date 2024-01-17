@@ -1423,6 +1423,50 @@
       "version": 2616,
       "uid": "zIpMjkLEZOB036P",
       "runId": 187476731
+    },
+    "I5lNsIIzy0L524r": {
+      "name": "M.L.A",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 26,
+      "win": false,
+      "kills": 219,
+      "ultra": 0,
+      "skills": [
+        14,
+        8,
+        9,
+        10
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "I5lNsIIzy0L524r",
+      "runId": 187476731
+    },
+    "CM50Yrp2nbR68JK": {
+      "name": "Виктор",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 34,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        23,
+        17
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "CM50Yrp2nbR68JK",
+      "runId": 187476731
     }
   }
 }
