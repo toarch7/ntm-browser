@@ -1085,18 +1085,43 @@
       "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 8,
-      "bwep": 80,
+      "wep": 6,
+      "bwep": 34,
       "win": false,
-      "kills": 128,
+      "kills": 133,
       "ultra": 0,
       "skills": [
         4,
-        14
+        14,
+        28,
+        24
       ],
       "crown": 2,
       "version": 2616,
       "uid": "2lJ2YMZrzyJGmI6",
+      "runId": 187476731
+    },
+    "BGlj46My038e60S": {
+      "name": "Zhubakka_2.0",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 117,
+      "win": false,
+      "kills": 230,
+      "ultra": 0,
+      "skills": [
+        23,
+        17,
+        22,
+        9
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "BGlj46My038e60S",
       "runId": 187476731
     }
   }
