@@ -283,6 +283,49 @@
       "version": 2616,
       "uid": "o3TA6T4ibf10nHM",
       "runId": 123667862
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        8,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 123667862
+    },
+    "0cXmTbeL6mPa22q": {
+      "name": "LadaKonina",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 19,
+      "win": false,
+      "kills": 154,
+      "ultra": 0,
+      "skills": [
+        1,
+        17,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0cXmTbeL6mPa22q",
+      "runId": 123667862
     }
   }
 }
