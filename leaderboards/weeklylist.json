@@ -1046,16 +1046,15 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 14,
+      "wep": 72,
       "bwep": 117,
       "win": false,
-      "kills": 210,
+      "kills": 218,
       "ultra": 0,
       "skills": [
-        4,
-        23,
         14,
-        12
+        12,
+        3
       ],
       "crown": 2,
       "version": 2616,
@@ -1560,6 +1559,30 @@
       "crown": 2,
       "version": 2616,
       "uid": "R0H7R5EV7hkJ9M4",
+      "runId": 187476731
+    },
+    "o3TA6T4ibf10nHM": {
+      "name": "DoderTool",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 104,
+      "win": false,
+      "kills": 234,
+      "ultra": 0,
+      "skills": [
+        4,
+        14,
+        17,
+        8,
+        23
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "o3TA6T4ibf10nHM",
       "runId": 187476731
     }
   }
