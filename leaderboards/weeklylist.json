@@ -1735,6 +1735,27 @@
       "version": 2616,
       "uid": "JD894N8YSRh24yQ",
       "runId": 187476731
+    },
+    "mfk7Cx28UX4ep1U": {
+      "name": "corona",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 80,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        4,
+        14
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "mfk7Cx28UX4ep1U",
+      "runId": 187476731
     }
   }
 }
