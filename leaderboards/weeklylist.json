@@ -499,17 +499,17 @@
       "name": "Tae",
       "char": 6,
       "skin": true,
-      "area": 104,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 8,
-      "bwep": 80,
+      "wep": 10,
+      "bwep": 62,
       "win": false,
-      "kills": 139,
+      "kills": 164,
       "ultra": 0,
       "skills": [
-        4,
-        23,
+        14,
+        8,
         3
       ],
       "crown": 2,
@@ -2005,6 +2005,24 @@
       "crown": 2,
       "version": 2616,
       "uid": "9186FOO81QHhLmE",
+      "runId": 187476731
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 15,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [],
+      "crown": 2,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
       "runId": 187476731
     }
   }
