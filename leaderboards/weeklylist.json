@@ -1455,17 +1455,18 @@
       "name": "Виктор",
       "char": 6,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 8,
-      "bwep": 34,
+      "wep": 55,
+      "bwep": 10,
       "win": false,
-      "kills": 107,
+      "kills": 123,
       "ultra": 0,
       "skills": [
         23,
-        17
+        17,
+        22
       ],
       "crown": 2,
       "version": 2616,
