@@ -410,6 +410,68 @@
       "version": 2616,
       "uid": "9x27I4l83Gc3Gvc",
       "runId": 1854748708
+    },
+    "dgwaFELz35C5ry9": {
+      "name": "FadeScratch",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 23,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "dgwaFELz35C5ry9",
+      "runId": 1854748708
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 1854748708
+    },
+    "hpZ5Y6M9A401v39": {
+      "name": "Slizne_grad",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "hpZ5Y6M9A401v39",
+      "runId": 1854748708
     }
   }
 }
