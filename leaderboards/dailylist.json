@@ -48,6 +48,55 @@
       "version": 2616,
       "uid": "m96PH9ISC2JCNsw",
       "runId": 1854748708
+    },
+    "g76z78LjOTdhCfi": {
+      "name": "Stal",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 110,
+      "bwep": 13,
+      "win": false,
+      "kills": 1567,
+      "ultra": 1,
+      "skills": [
+        1,
+        23,
+        10,
+        27,
+        13,
+        8
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "g76z78LjOTdhCfi",
+      "runId": 1854748708
+    },
+    "341Nes4GDXGa2mA": {
+      "name": "MadMaxine76",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 124,
+      "win": false,
+      "kills": 231,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        10,
+        27,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "341Nes4GDXGa2mA",
+      "runId": 1854748708
     }
   }
 }
