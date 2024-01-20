@@ -97,6 +97,52 @@
       "version": 2616,
       "uid": "341Nes4GDXGa2mA",
       "runId": 1854748708
+    },
+    "h9416Onkgy10Ptp": {
+      "name": "Agnis",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 68,
+      "bwep": 23,
+      "win": false,
+      "kills": 339,
+      "ultra": 0,
+      "skills": [
+        7,
+        23,
+        12,
+        24,
+        6,
+        22
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "h9416Onkgy10Ptp",
+      "runId": 1854748708
+    },
+    "4N3nLcqx43V3Ta1": {
+      "name": "Seeker41",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        1,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4N3nLcqx43V3Ta1",
+      "runId": 1854748708
     }
   }
 }
