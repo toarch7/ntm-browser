@@ -662,6 +662,52 @@
       "version": 2616,
       "uid": "07G6h6Y87K3t72h",
       "runId": 1854748708
+    },
+    "lqUfxSBMP5nRcPZ": {
+      "name": "happytube",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 5,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        27,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "lqUfxSBMP5nRcPZ",
+      "runId": 1854748708
+    },
+    "1pg0055Q4SHZ44T": {
+      "name": "CapSatSuckBlood",
+      "char": 10,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 23,
+      "bwep": 70,
+      "win": false,
+      "kills": 341,
+      "ultra": 1,
+      "skills": [
+        1,
+        23,
+        12,
+        27,
+        10,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1pg0055Q4SHZ44T",
+      "runId": 1854748708
     }
   }
 }
