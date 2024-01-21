@@ -296,6 +296,69 @@
       "version": 2616,
       "uid": "HJ7G87oXRypnPMd",
       "runId": 1620561648
+    },
+    "9x27I4l83Gc3Gvc": {
+      "name": "MR.X",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 20,
+      "win": false,
+      "kills": 243,
+      "ultra": 0,
+      "skills": [
+        7,
+        10,
+        4,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9x27I4l83Gc3Gvc",
+      "runId": 1620561648
+    },
+    "dgwaFELz35C5ry9": {
+      "name": "FadeScratch",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 5,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "dgwaFELz35C5ry9",
+      "runId": 1620561648
+    },
+    "oOeWIg7s3b0S8d1": {
+      "name": "Zwillsad",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 71,
+      "win": false,
+      "kills": 198,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "oOeWIg7s3b0S8d1",
+      "runId": 1620561648
     }
   }
 }
