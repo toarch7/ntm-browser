@@ -54,6 +54,44 @@
       "version": 2616,
       "uid": "4PKi3Zf107ae7G1",
       "runId": 1620561648
+    },
+    "tO6Vk9C6rbiumCc": {
+      "name": "Masichach",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 34,
+      "crown": 1,
+      "version": 2616,
+      "uid": "tO6Vk9C6rbiumCc",
+      "runId": 1620561648
+    },
+    "AbdmdFG2w5yF6kL": {
+      "name": "Jesus",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 69,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "AbdmdFG2w5yF6kL",
+      "runId": 1620561648
     }
   }
 }
