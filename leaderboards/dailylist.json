@@ -508,6 +508,85 @@
       "version": 2616,
       "uid": "90cnT135q0TE0q2",
       "runId": 1593891845
+    },
+    "2gCbMwZ7nQTbq3h": {
+      "name": "BATMAN",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "2gCbMwZ7nQTbq3h",
+      "runId": 1593891845
+    },
+    "9x27I4l83Gc3Gvc": {
+      "name": "MR.X",
+      "char": 2,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 38,
+      "win": false,
+      "kills": 329,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        28,
+        1,
+        19,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9x27I4l83Gc3Gvc",
+      "runId": 1593891845
+    },
+    "Thr68537bCe44bk": {
+      "name": "Seeke",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Thr68537bCe44bk",
+      "runId": 1593891845
+    },
+    "66IUZgp74iEfD4p": {
+      "name": "Sccc",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 27,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "66IUZgp74iEfD4p",
+      "runId": 1593891845
     }
   }
 }
