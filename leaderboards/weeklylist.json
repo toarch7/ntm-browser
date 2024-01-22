@@ -2796,6 +2796,50 @@
       "version": 2616,
       "uid": "9AbltC7UWO9huH2",
       "runId": 187476731
+    },
+    "gY08Uv8PY4W195i": {
+      "name": "apeludo",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 12,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "gY08Uv8PY4W195i",
+      "runId": 187476731
+    },
+    "8rAm6d4nGT7ghHs": {
+      "name": "chubi",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 8,
+      "win": false,
+      "kills": 290,
+      "ultra": 0,
+      "skills": [
+        14,
+        17,
+        8,
+        23,
+        1
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "8rAm6d4nGT7ghHs",
+      "runId": 187476731
     }
   }
 }
