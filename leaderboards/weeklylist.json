@@ -2476,12 +2476,14 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
-      "bwep": 8,
+      "wep": 8,
+      "bwep": 15,
       "win": false,
-      "kills": 49,
+      "kills": 62,
       "ultra": 0,
-      "skills": [],
+      "skills": [
+        4
+      ],
       "crown": 2,
       "version": 2616,
       "uid": "7rpl6NnODtq45P3",
@@ -3005,6 +3007,48 @@
       "crown": 2,
       "version": 2616,
       "uid": "4P9oAQ7ePb4w41y",
+      "runId": 187476731
+    },
+    "HmBwnRbNRiknN5j": {
+      "name": "GiveMeMyAcc",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 69,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "HmBwnRbNRiknN5j",
+      "runId": 187476731
+    },
+    "7A2LaIWONrUqNwC": {
+      "name": "Hiajen",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 80,
+      "bwep": 69,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        4,
+        2,
+        12
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "7A2LaIWONrUqNwC",
       "runId": 187476731
     }
   }
