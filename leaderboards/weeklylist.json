@@ -2801,16 +2801,17 @@
       "name": "apeludo",
       "char": 6,
       "skin": true,
-      "area": 104,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 13,
-      "bwep": 12,
+      "wep": 75,
+      "bwep": 116,
       "win": false,
-      "kills": 133,
+      "kills": 158,
       "ultra": 0,
       "skills": [
-        2
+        2,
+        8
       ],
       "crown": 2,
       "version": 2616,
