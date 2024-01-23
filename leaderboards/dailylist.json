@@ -305,6 +305,44 @@
       "version": 2616,
       "uid": "HmBwnRbNRiknN5j",
       "runId": 2009455813
+    },
+    "ZycUxvL4H8ri9M4": {
+      "name": "тест",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "ZycUxvL4H8ri9M4",
+      "runId": 2009455813
+    },
+    "90cnT135q0TE0q2": {
+      "name": "General827",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 58,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        9,
+        14,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "90cnT135q0TE0q2",
+      "runId": 2009455813
     }
   }
 }
