@@ -133,6 +133,49 @@
       "version": 2616,
       "uid": "R0H7R5EV7hkJ9M4",
       "runId": 2009455813
+    },
+    "4z9fPaRCT46bjVa": {
+      "name": "StarsTV",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 19,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4z9fPaRCT46bjVa",
+      "runId": 2009455813
+    },
+    "xUh409VehuY6n9y": {
+      "name": "bombasta",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 0,
+      "win": false,
+      "kills": 188,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        7,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xUh409VehuY6n9y",
+      "runId": 2009455813
     }
   }
 }
