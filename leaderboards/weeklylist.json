@@ -574,6 +574,49 @@
       "version": 2616,
       "uid": "9x27I4l83Gc3Gvc",
       "runId": 3353675
+    },
+    "Kf4WGzco8UtYk7t": {
+      "name": "trollface",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 121,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        22,
+        10
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "Kf4WGzco8UtYk7t",
+      "runId": 3353675
+    },
+    "07G6h6Y87K3t72h": {
+      "name": "roronoa",
+      "char": 3,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 121,
+      "bwep": 20,
+      "win": false,
+      "kills": 164,
+      "ultra": 0,
+      "skills": [
+        22,
+        2,
+        14
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "07G6h6Y87K3t72h",
+      "runId": 3353675
     }
   }
 }
