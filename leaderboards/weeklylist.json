@@ -1,4 +1,48 @@
 {
   "seed": 3353675,
-  "entries": {}
+  "entries": {
+    "y9lA4tAT6PIi57T": {
+      "name": "Qwert",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 121,
+      "bwep": 20,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        17,
+        10,
+        26
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "y9lA4tAT6PIi57T",
+      "runId": 3353675
+    },
+    "PMQlYcaD202tZmI": {
+      "name": "tsun444",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 121,
+      "bwep": 7,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        22,
+        16
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "PMQlYcaD202tZmI",
+      "runId": 3353675
+    }
+  }
 }
