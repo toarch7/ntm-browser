@@ -154,6 +154,27 @@
       "version": 2616,
       "uid": "0L5QZ6G8duaw51l",
       "runId": 3353675
+    },
+    "dgwaFELz35C5ry9": {
+      "name": "FadeScratch",
+      "char": 3,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 20,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        17,
+        10
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "dgwaFELz35C5ry9",
+      "runId": 3353675
     }
   }
 }
