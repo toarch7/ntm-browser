@@ -267,6 +267,48 @@
       "version": 2616,
       "uid": "ozsB3MFc8L31CUy",
       "runId": 3353675
+    },
+    "4v7rT4u4CDnG0yf": {
+      "name": "Polyphemus",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 121,
+      "bwep": 7,
+      "win": false,
+      "kills": 121,
+      "ultra": 0,
+      "skills": [
+        22,
+        10
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "4v7rT4u4CDnG0yf",
+      "runId": 3353675
+    },
+    "CM50Yrp2nbR68JK": {
+      "name": "Виктор",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 121,
+      "bwep": 66,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        22,
+        10
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "CM50Yrp2nbR68JK",
+      "runId": 3353675
     }
   }
 }

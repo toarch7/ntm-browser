@@ -385,6 +385,95 @@
       "version": 2616,
       "uid": "26n8S7eZFO7q91F",
       "runId": 66791804
+    },
+    "xUh409VehuY6n9y": {
+      "name": "bombasta",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 69,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        27,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xUh409VehuY6n9y",
+      "runId": 66791804
+    },
+    "4v7rT4u4CDnG0yf": {
+      "name": "Polyphemus",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        14,
+        21,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4v7rT4u4CDnG0yf",
+      "runId": 66791804
+    },
+    "CM50Yrp2nbR68JK": {
+      "name": "Виктор",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 20,
+      "win": false,
+      "kills": 381,
+      "ultra": 0,
+      "skills": [
+        27,
+        17,
+        1,
+        25,
+        23,
+        22,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CM50Yrp2nbR68JK",
+      "runId": 66791804
+    },
+    "a3O2OjGRe74sk9D": {
+      "name": "yabo",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a3O2OjGRe74sk9D",
+      "runId": 66791804
     }
   }
 }
