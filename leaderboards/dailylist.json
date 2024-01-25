@@ -1124,6 +1124,66 @@
       "version": 2616,
       "uid": "4PKi3Zf107ae7G1",
       "runId": 929604650
+    },
+    "7rpl6NnODtq45P3": {
+      "name": "Juli",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7rpl6NnODtq45P3",
+      "runId": 929604650
+    },
+    "nY5raFbaO7N0KX3": {
+      "name": "kira",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 27,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "nY5raFbaO7N0KX3",
+      "runId": 929604650
+    },
+    "21CAx7WUe6WQ710": {
+      "name": "barrelguy",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "21CAx7WUe6WQ710",
+      "runId": 929604650
     }
   }
 }
