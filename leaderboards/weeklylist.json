@@ -863,6 +863,27 @@
       "version": 2616,
       "uid": "1GTdhZYa73840qq",
       "runId": 3353675
+    },
+    "o5hN6f312C2t9QN": {
+      "name": "Grim_bot",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 121,
+      "bwep": 16,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        22,
+        2
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "o5hN6f312C2t9QN",
+      "runId": 3353675
     }
   }
 }
