@@ -1200,6 +1200,51 @@
       "version": 2616,
       "uid": "NoCBR0jCuDp74DU",
       "runId": 3353675
+    },
+    "8uaO8Y35RPw63mY": {
+      "name": "efekalaka",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 121,
+      "bwep": 6,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        22,
+        2,
+        23
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "8uaO8Y35RPw63mY",
+      "runId": 3353675
+    },
+    "E8z5331FzEKFZRC": {
+      "name": "Gungeoneer",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 121,
+      "win": false,
+      "kills": 192,
+      "ultra": 0,
+      "skills": [
+        22,
+        2,
+        23,
+        8
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "E8z5331FzEKFZRC",
+      "runId": 3353675
     }
   }
 }
