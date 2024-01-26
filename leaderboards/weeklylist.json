@@ -272,20 +272,21 @@
       "runId": 3353675
     },
     "4v7rT4u4CDnG0yf": {
-      "name": "Polyphemus",
+      "name": "polyphemus",
       "char": 3,
       "skin": false,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 121,
-      "bwep": 7,
+      "wep": 30,
+      "bwep": 121,
       "win": false,
-      "kills": 121,
+      "kills": 135,
       "ultra": 0,
       "skills": [
         22,
-        10
+        2,
+        3
       ],
       "crown": 6,
       "version": 2616,
@@ -347,17 +348,17 @@
       "name": "tsarismyname",
       "char": 3,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
       "wep": 121,
-      "bwep": 17,
+      "bwep": 7,
       "win": false,
-      "kills": 78,
+      "kills": 123,
       "ultra": 0,
       "skills": [
         22,
-        21
+        2
       ],
       "crown": 6,
       "version": 2616,
@@ -1072,20 +1073,21 @@
       "name": "Seekershotgun",
       "char": 3,
       "skin": false,
-      "area": 5,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 117,
-      "bwep": 121,
+      "wep": 121,
+      "bwep": 35,
       "win": false,
-      "kills": 227,
+      "kills": 310,
       "ultra": 0,
       "skills": [
-        22,
-        21,
-        3,
+        17,
+        10,
         23,
-        25
+        25,
+        9,
+        6
       ],
       "crown": 6,
       "version": 2616,
@@ -1111,6 +1113,27 @@
       "crown": 6,
       "version": 2616,
       "uid": "w8uVW71S7344Lv4",
+      "runId": 3353675
+    },
+    "So46QCJIg1TKGKZ": {
+      "name": "Xmakuil",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 121,
+      "bwep": 71,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        22,
+        16
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "So46QCJIg1TKGKZ",
       "runId": 3353675
     }
   }
