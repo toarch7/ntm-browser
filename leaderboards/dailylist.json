@@ -402,6 +402,73 @@
       "version": 2616,
       "uid": "21CAx7WUe6WQ710",
       "runId": 1210693310
+    },
+    "76N1MQbn172078K": {
+      "name": "Orpheus",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 21,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "76N1MQbn172078K",
+      "runId": 1210693310
+    },
+    "2zlg1i63VCq09B8": {
+      "name": "cesar",
+      "char": 6,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 69,
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        1,
+        26,
+        4,
+        16
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "2zlg1i63VCq09B8",
+      "runId": 1210693310
+    },
+    "L00577m815ab3l6": {
+      "name": "kazak777",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 2,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L00577m815ab3l6",
+      "runId": 1210693310
     }
   }
 }
