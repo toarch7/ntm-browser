@@ -1299,6 +1299,53 @@
       "version": 2616,
       "uid": "wekEUc4e88zViwg",
       "runId": 1969008568
+    },
+    "ArlqVCRJxydkXE4": {
+      "name": "INeedStars",
+      "char": 1,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 78,
+      "bwep": 17,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        9,
+        14,
+        21,
+        4
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "ArlqVCRJxydkXE4",
+      "runId": 1969008568
+    },
+    "EV91EGxmht7hWGt": {
+      "name": "Fast",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 12,
+      "win": false,
+      "kills": 215,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        16,
+        23,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "EV91EGxmht7hWGt",
+      "runId": 1969008568
     }
   }
 }
