@@ -1381,6 +1381,28 @@
       "version": 2616,
       "uid": "5ANl65e2Rz49VL3",
       "runId": 3353675
+    },
+    "e62vZXskWCw7f5q": {
+      "name": "MITON",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 16,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        22,
+        16,
+        10
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "e62vZXskWCw7f5q",
+      "runId": 3353675
     }
   }
 }
