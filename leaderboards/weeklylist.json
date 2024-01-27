@@ -571,18 +571,19 @@
       "char": 3,
       "skin": false,
       "area": 5,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 121,
-      "bwep": 38,
+      "wep": 124,
+      "bwep": 28,
       "win": false,
-      "kills": 210,
+      "kills": 232,
       "ultra": 0,
       "skills": [
-        17,
         10,
-        3,
-        13
+        26,
+        28,
+        25,
+        12
       ],
       "crown": 6,
       "version": 2616,
@@ -1314,6 +1315,48 @@
       "crown": 6,
       "version": 2616,
       "uid": "YKDiraz38Smh4qX",
+      "runId": 3353675
+    },
+    "4PKi3Zf107ae7G1": {
+      "name": "Fatass8171",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 2,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        28,
+        16
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "4PKi3Zf107ae7G1",
+      "runId": 3353675
+    },
+    "9D8Eg5WhUQ8X01f": {
+      "name": "Lunky34",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 121,
+      "bwep": 66,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        22,
+        2
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "9D8Eg5WhUQ8X01f",
       "runId": 3353675
     }
   }
