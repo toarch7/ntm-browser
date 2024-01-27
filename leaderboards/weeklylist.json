@@ -1278,20 +1278,21 @@
       "runId": 3353675
     },
     "9QW33A5X25T00G4": {
-      "name": "Bentley",
+      "name": "bentley",
       "char": 3,
       "skin": false,
-      "area": 103,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 8,
-      "bwep": 27,
+      "wep": 80,
+      "bwep": 16,
       "win": false,
-      "kills": 138,
+      "kills": 195,
       "ultra": 0,
       "skills": [
-        22,
-        10
+        28,
+        10,
+        27
       ],
       "crown": 6,
       "version": 2616,
