@@ -275,6 +275,74 @@
       "version": 2616,
       "uid": "4PKi3Zf107ae7G1",
       "runId": 1969008568
+    },
+    "L99Ww0kO4hzVU8l": {
+      "name": "Edix",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 34,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "L99Ww0kO4hzVU8l",
+      "runId": 1969008568
+    },
+    "E3gI7quBH9qA245": {
+      "name": "Fake",
+      "char": 3,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 38,
+      "win": false,
+      "kills": 374,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        4,
+        16,
+        1,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "E3gI7quBH9qA245",
+      "runId": 1969008568
+    },
+    "Y72ewz3kv6rMdnU": {
+      "name": "Gauna",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y72ewz3kv6rMdnU",
+      "runId": 1969008568
     }
   }
 }
