@@ -1677,22 +1677,45 @@
       "name": "Stal",
       "char": 3,
       "skin": false,
-      "area": 104,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
       "wep": 121,
-      "bwep": 117,
+      "bwep": 16,
       "win": false,
-      "kills": 177,
+      "kills": 218,
       "ultra": 0,
       "skills": [
         22,
         16,
-        23
+        23,
+        8,
+        25
       ],
       "crown": 6,
       "version": 2616,
       "uid": "g76z78LjOTdhCfi",
+      "runId": 3353675
+    },
+    "783ioysb609tpGb": {
+      "name": "pepe",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 121,
+      "bwep": 16,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        22,
+        10
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "783ioysb609tpGb",
       "runId": 3353675
     }
   }
