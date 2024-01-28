@@ -1,4 +1,69 @@
 {
   "day": 28,
-  "entries": {}
+  "entries": {
+    "9QW33A5X25T00G4": {
+      "name": "bentley",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 25,
+      "win": false,
+      "kills": 210,
+      "ultra": 0,
+      "skills": [
+        7,
+        17,
+        8,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9QW33A5X25T00G4",
+      "runId": 792162856
+    },
+    "4unMm7TB4CP6kmC": {
+      "name": "Shako",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 24,
+      "crown": 1,
+      "version": 2616,
+      "uid": "4unMm7TB4CP6kmC",
+      "runId": 792162856
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 11,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 33,
+      "win": false,
+      "kills": 351,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        22,
+        8,
+        14,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 792162856
+    }
+  }
 }
