@@ -137,6 +137,43 @@
       "version": 2616,
       "uid": "0oeGYU36ThzMnKA",
       "runId": 792162856
+    },
+    "zs6HVGW7bh828Wq": {
+      "name": "Арина666",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "zs6HVGW7bh828Wq",
+      "runId": 792162856
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        7,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 792162856
     }
   }
 }
