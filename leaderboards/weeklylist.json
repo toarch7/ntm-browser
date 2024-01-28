@@ -1579,6 +1579,29 @@
       "version": 2616,
       "uid": "R0H7R5EV7hkJ9M4",
       "runId": 3353675
+    },
+    "22HPXI7IsJupI0L": {
+      "name": "Seeker422.62",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 20,
+      "win": false,
+      "kills": 200,
+      "ultra": 0,
+      "skills": [
+        22,
+        16,
+        12,
+        17
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "22HPXI7IsJupI0L",
+      "runId": 3353675
     }
   }
 }
