@@ -407,6 +407,76 @@
       "version": 2616,
       "uid": "892Y5ozZ0h8r0Kq",
       "runId": 746007514
+    },
+    "2zlg1i63VCq09B8": {
+      "name": "cesar",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        25,
+        3,
+        19,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2zlg1i63VCq09B8",
+      "runId": 746007514
+    },
+    "E3gI7quBH9qA245": {
+      "name": "Fake",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 35,
+      "win": false,
+      "kills": 207,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        3,
+        17,
+        22,
+        4
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "E3gI7quBH9qA245",
+      "runId": 746007514
+    },
+    "CM50Yrp2nbR68JK": {
+      "name": "Виктор",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CM50Yrp2nbR68JK",
+      "runId": 746007514
     }
   }
 }
