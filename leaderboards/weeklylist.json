@@ -1784,6 +1784,71 @@
       "version": 2616,
       "uid": "r3H6cCR53NROG76",
       "runId": 3353675
+    },
+    "v9WqG9E1U93yRex": {
+      "name": "Huesos",
+      "char": 3,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 121,
+      "bwep": 0,
+      "win": false,
+      "kills": 176,
+      "ultra": 0,
+      "skills": [
+        22,
+        2,
+        3
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "v9WqG9E1U93yRex",
+      "runId": 3353675
+    },
+    "B05RuW68j136B5e": {
+      "name": "UwU",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 121,
+      "bwep": 31,
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        22,
+        10,
+        26
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "B05RuW68j136B5e",
+      "runId": 3353675
+    },
+    "892Y5ozZ0h8r0Kq": {
+      "name": "Natsume",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 121,
+      "bwep": 0,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        22,
+        2
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "892Y5ozZ0h8r0Kq",
+      "runId": 3353675
     }
   }
 }
