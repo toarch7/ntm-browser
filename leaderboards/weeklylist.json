@@ -5,21 +5,48 @@
       "name": "tsun444",
       "char": 9,
       "skin": true,
-      "area": 2,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
       "wep": 115,
-      "bwep": 21,
+      "bwep": 58,
       "win": false,
-      "kills": 163,
+      "kills": 310,
       "ultra": 0,
       "skills": [
         4,
-        7
+        7,
+        27
       ],
       "crown": 7,
       "version": 2616,
       "uid": "PMQlYcaD202tZmI",
+      "runId": 777159318
+    },
+    "AiWxaCdP64Hk6gu": {
+      "name": "Smx",
+      "char": 9,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 28,
+      "bwep": 115,
+      "win": false,
+      "kills": 556,
+      "ultra": 1,
+      "skills": [
+        4,
+        23,
+        7,
+        12,
+        27,
+        8,
+        22
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "AiWxaCdP64Hk6gu",
       "runId": 777159318
     }
   }
