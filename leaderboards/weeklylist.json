@@ -5,18 +5,21 @@
       "name": "tsun444",
       "char": 9,
       "skin": true,
-      "area": 4,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 115,
-      "bwep": 58,
+      "wep": 124,
+      "bwep": 115,
       "win": false,
-      "kills": 310,
-      "ultra": 0,
+      "kills": 564,
+      "ultra": 2,
       "skills": [
         4,
         7,
-        27
+        27,
+        12,
+        1,
+        8
       ],
       "crown": 7,
       "version": 2616,
@@ -975,6 +978,32 @@
       "crown": 7,
       "version": 2616,
       "uid": "vELAgQetJhqt73Z",
+      "runId": 777159318
+    },
+    "120R179jq4kNhyf": {
+      "name": "David777",
+      "char": 9,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 36,
+      "bwep": 25,
+      "win": false,
+      "kills": 946,
+      "ultra": 2,
+      "skills": [
+        4,
+        23,
+        14,
+        10,
+        17,
+        8,
+        12
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "120R179jq4kNhyf",
       "runId": 777159318
     }
   }
