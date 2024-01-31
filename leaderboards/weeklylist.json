@@ -1005,6 +1005,58 @@
       "version": 2616,
       "uid": "120R179jq4kNhyf",
       "runId": 777159318
+    },
+    "qzGX47f81XH7PvF": {
+      "name": "Barion",
+      "char": 9,
+      "skin": true,
+      "area": 106,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 9,
+      "bwep": 24,
+      "win": false,
+      "kills": 3096,
+      "ultra": 1,
+      "skills": [
+        4,
+        9,
+        10,
+        17,
+        8,
+        1,
+        12
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "qzGX47f81XH7PvF",
+      "runId": 777159318
+    },
+    "029sh9tkmzzi03M": {
+      "name": "Mahmood454",
+      "char": 9,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 119,
+      "win": false,
+      "kills": 592,
+      "ultra": 1,
+      "skills": [
+        4,
+        23,
+        14,
+        27,
+        8,
+        9,
+        22
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "029sh9tkmzzi03M",
+      "runId": 777159318
     }
   }
 }
