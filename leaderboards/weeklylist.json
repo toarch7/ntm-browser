@@ -1083,17 +1083,20 @@
       "name": "tsarismyname",
       "char": 9,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 7,
+      "wep": 116,
       "bwep": 115,
       "win": false,
-      "kills": 113,
+      "kills": 295,
       "ultra": 0,
       "skills": [
         4,
-        23
+        23,
+        7,
+        21,
+        9
       ],
       "crown": 7,
       "version": 2616,
@@ -1140,6 +1143,28 @@
       "crown": 7,
       "version": 2616,
       "uid": "n5BA29aG845IhTO",
+      "runId": 777159318
+    },
+    "BVYQJZ0Aa5C2Y2V": {
+      "name": "Nightmare",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 34,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        14
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "BVYQJZ0Aa5C2Y2V",
       "runId": 777159318
     }
   }
