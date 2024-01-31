@@ -55,16 +55,16 @@
       "skin": true,
       "area": 5,
       "subarea": 1,
-      "loops": 0,
-      "wep": 115,
-      "bwep": 8,
+      "loops": 1,
+      "wep": 47,
+      "bwep": 115,
       "win": false,
-      "kills": 351,
-      "ultra": 0,
+      "kills": 1371,
+      "ultra": 1,
       "skills": [
         4,
         23,
-        7,
+        14,
         27,
         8,
         1,
@@ -862,6 +862,28 @@
       "crown": 7,
       "version": 2616,
       "uid": "y9lA4tAT6PIi57T",
+      "runId": 777159318
+    },
+    "EyivYO7HV1WHL1v": {
+      "name": "lol8",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 0,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        9
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "EyivYO7HV1WHL1v",
       "runId": 777159318
     }
   }
