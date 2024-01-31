@@ -832,6 +832,48 @@
       "version": 2616,
       "uid": "EVl3A0wZ9bTFs7w",
       "runId": 585558600
+    },
+    "56DjVWsm9u01B6p": {
+      "name": "MrPenis",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 27,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        7,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "56DjVWsm9u01B6p",
+      "runId": 585558600
+    },
+    "YKDiraz38Smh4qX": {
+      "name": "DOOM",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        7,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "YKDiraz38Smh4qX",
+      "runId": 585558600
     }
   }
 }
