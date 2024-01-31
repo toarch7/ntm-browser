@@ -847,16 +847,15 @@
       "char": 9,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
       "wep": 115,
-      "bwep": 69,
+      "bwep": 37,
       "win": false,
-      "kills": 198,
+      "kills": 228,
       "ultra": 0,
       "skills": [
         4,
-        23,
         7
       ],
       "crown": 7,
@@ -884,6 +883,53 @@
       "crown": 7,
       "version": 2616,
       "uid": "EyivYO7HV1WHL1v",
+      "runId": 777159318
+    },
+    "bHIxdKcMRN01RhE": {
+      "name": "golosa69pro",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 115,
+      "win": false,
+      "kills": 267,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "bHIxdKcMRN01RhE",
+      "runId": 777159318
+    },
+    "OG6oUWfDQdLREP4": {
+      "name": "wdwasdsa",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 58,
+      "win": false,
+      "kills": 376,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        7,
+        12,
+        27,
+        8,
+        1
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
       "runId": 777159318
     }
   }
