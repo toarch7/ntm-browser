@@ -108,6 +108,42 @@
       "version": 2616,
       "uid": "9QW33A5X25T00G4",
       "runId": 585558600
+    },
+    "89nC1v6X8rIYR1k": {
+      "name": "Civyer",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "89nC1v6X8rIYR1k",
+      "runId": 585558600
+    },
+    "d4fGS8B2VFU6YFB": {
+      "name": "yes",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "d4fGS8B2VFU6YFB",
+      "runId": 585558600
     }
   }
 }
