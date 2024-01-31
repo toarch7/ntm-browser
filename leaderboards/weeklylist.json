@@ -1193,6 +1193,59 @@
       "version": 2616,
       "uid": "9np2sP6DW37bkVK",
       "runId": 777159318
+    },
+    "8uaO8Y35RPw63mY": {
+      "name": "efekalaka",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 119,
+      "win": false,
+      "kills": 1107,
+      "ultra": 1,
+      "skills": [
+        4,
+        23,
+        7,
+        12,
+        27,
+        8,
+        1,
+        9
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "8uaO8Y35RPw63mY",
+      "runId": 777159318
+    },
+    "d9T8dCC39U5a39i": {
+      "name": "McRazor",
+      "char": 9,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 11,
+      "win": false,
+      "kills": 592,
+      "ultra": 1,
+      "skills": [
+        4,
+        9,
+        21,
+        27,
+        12,
+        1,
+        2
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "d9T8dCC39U5a39i",
+      "runId": 777159318
     }
   }
 }
