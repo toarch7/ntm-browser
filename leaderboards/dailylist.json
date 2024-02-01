@@ -514,6 +514,63 @@
       "version": 2616,
       "uid": "BZ81CSMpi39PXZ8",
       "runId": 1145789311
+    },
+    "2gCbMwZ7nQTbq3h": {
+      "name": "BATMAN",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "2gCbMwZ7nQTbq3h",
+      "runId": 1145789311
+    },
+    "2zlg1i63VCq09B8": {
+      "name": "cesar",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 116,
+      "win": false,
+      "kills": 262,
+      "ultra": 0,
+      "skills": [
+        28,
+        4,
+        7,
+        3,
+        12,
+        14
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "2zlg1i63VCq09B8",
+      "runId": 1145789311
+    },
+    "33Er01Vg931VnMX": {
+      "name": "Tecnuz",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "33Er01Vg931VnMX",
+      "runId": 1145789311
     }
   }
 }
