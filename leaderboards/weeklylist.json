@@ -203,21 +203,22 @@
       "name": "SvinMaxim",
       "char": 9,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 113,
-      "bwep": 115,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 119,
+      "bwep": 22,
       "win": false,
-      "kills": 431,
-      "ultra": 0,
+      "kills": 795,
+      "ultra": 1,
       "skills": [
         4,
         23,
-        9,
+        14,
         27,
-        24,
-        1
+        8,
+        1,
+        9
       ],
       "crown": 7,
       "version": 2616,
@@ -1310,6 +1311,50 @@
       "crown": 7,
       "version": 2616,
       "uid": "ZXpU0K219RlWRml",
+      "runId": 777159318
+    },
+    "U1G7LpCu51DtMUc": {
+      "name": "Seek",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 17,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        7
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "U1G7LpCu51DtMUc",
+      "runId": 777159318
+    },
+    "1GTdhZYa73840qq": {
+      "name": "Nuclir",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 19,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        7
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "1GTdhZYa73840qq",
       "runId": 777159318
     }
   }
