@@ -1430,21 +1430,45 @@
       "name": "NuclearGamer",
       "char": 9,
       "skin": true,
-      "area": 2,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
       "wep": 115,
-      "bwep": 17,
+      "bwep": 76,
       "win": false,
-      "kills": 151,
+      "kills": 298,
       "ultra": 0,
       "skills": [
         4,
-        7
+        23,
+        7,
+        27
       ],
       "crown": 7,
       "version": 2616,
       "uid": "dRD40Af88ptn6d5",
+      "runId": 777159318
+    },
+    "WcwJ1kPyBtDHYKa": {
+      "name": "MS",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 115,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        4,
+        17,
+        14
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "WcwJ1kPyBtDHYKa",
       "runId": 777159318
     }
   }
