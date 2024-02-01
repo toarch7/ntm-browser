@@ -1088,20 +1088,22 @@
       "name": "tsarismyname",
       "char": 9,
       "skin": true,
-      "area": 3,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 116,
-      "bwep": 115,
+      "wep": 22,
+      "bwep": 74,
       "win": false,
-      "kills": 295,
-      "ultra": 0,
+      "kills": 622,
+      "ultra": 1,
       "skills": [
         4,
         23,
         7,
-        21,
-        9
+        9,
+        8,
+        17,
+        2
       ],
       "crown": 7,
       "version": 2616,
@@ -1377,6 +1379,48 @@
       "crown": 7,
       "version": 2616,
       "uid": "Iu3m93xy144MCTB",
+      "runId": 777159318
+    },
+    "ho23T0xLTjxOZvc": {
+      "name": "Seeker",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 7,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "ho23T0xLTjxOZvc",
+      "runId": 777159318
+    },
+    "04zPBswid860FXQ": {
+      "name": "ẻa",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 21,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        7
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "04zPBswid860FXQ",
       "runId": 777159318
     }
   }
