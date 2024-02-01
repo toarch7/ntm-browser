@@ -1117,17 +1117,21 @@
       "name": "Bakurama1234",
       "char": 9,
       "skin": true,
-      "area": 2,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
       "wep": 115,
-      "bwep": 21,
+      "bwep": 23,
       "win": false,
-      "kills": 156,
-      "ultra": 0,
+      "kills": 560,
+      "ultra": 1,
       "skills": [
         4,
-        9
+        7,
+        27,
+        8,
+        1,
+        2
       ],
       "crown": 7,
       "version": 2616,
@@ -1517,6 +1521,33 @@
       "crown": 7,
       "version": 2616,
       "uid": "JmSonruS6k1bcfm",
+      "runId": 777159318
+    },
+    "Oc8litarQi7gX4f": {
+      "name": "GV-CN",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 115,
+      "bwep": 86,
+      "win": false,
+      "kills": 1966,
+      "ultra": 2,
+      "skills": [
+        4,
+        23,
+        7,
+        21,
+        27,
+        8,
+        1,
+        9
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "Oc8litarQi7gX4f",
       "runId": 777159318
     }
   }
