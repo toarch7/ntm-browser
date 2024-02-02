@@ -1225,6 +1225,69 @@
       "version": 2616,
       "uid": "r0wSTCx5ktMu48m",
       "runId": 1176765266
+    },
+    "us0z9JU682X5Zad": {
+      "name": "Morth",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        23,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "us0z9JU682X5Zad",
+      "runId": 1176765266
+    },
+    "7rpl6NnODtq45P3": {
+      "name": "Juli",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 5,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        4,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7rpl6NnODtq45P3",
+      "runId": 1176765266
+    },
+    "DSBWGP6S0awJZ5S": {
+      "name": "SuperSloth",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        4,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "DSBWGP6S0awJZ5S",
+      "runId": 1176765266
     }
   }
 }
