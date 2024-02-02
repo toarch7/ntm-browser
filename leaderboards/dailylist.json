@@ -1072,6 +1072,65 @@
       "version": 2616,
       "uid": "7A2LaIWONrUqNwC",
       "runId": 1176765266
+    },
+    "YKDiraz38Smh4qX": {
+      "name": "DOOM",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "YKDiraz38Smh4qX",
+      "runId": 1176765266
+    },
+    "76N1MQbn172078K": {
+      "name": "Orpheus",
+      "char": 15,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 66,
+      "win": false,
+      "kills": 185,
+      "ultra": 0,
+      "skills": [
+        2,
+        3,
+        16,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "76N1MQbn172078K",
+      "runId": 1176765266
+    },
+    "2gCbMwZ7nQTbq3h": {
+      "name": "BATMAN",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2gCbMwZ7nQTbq3h",
+      "runId": 1176765266
     }
   }
 }
