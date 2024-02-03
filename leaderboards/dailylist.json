@@ -300,6 +300,70 @@
       "version": 2616,
       "uid": "dRD40Af88ptn6d5",
       "runId": 79723289
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        19,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 79723289
+    },
+    "04ct3zf04YNZ1Ln": {
+      "name": "Абщхда",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 19,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        10,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "04ct3zf04YNZ1Ln",
+      "runId": 79723289
+    },
+    "4p8xa7AyX8rLK3e": {
+      "name": "GACIXD",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 10,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4p8xa7AyX8rLK3e",
+      "runId": 79723289
     }
   }
 }
