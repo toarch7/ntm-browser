@@ -457,6 +457,79 @@
       "version": 2616,
       "uid": "WoxUmfP37M78eln",
       "runId": 79723289
+    },
+    "Oc8litarQi7gX4f": {
+      "name": "GV-CN",
+      "char": 11,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 23,
+      "win": false,
+      "kills": 306,
+      "ultra": 0,
+      "skills": [
+        23,
+        1,
+        17,
+        13,
+        27,
+        3
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "Oc8litarQi7gX4f",
+      "runId": 79723289
+    },
+    "oOeWIg7s3b0S8d1": {
+      "name": "Zwillsad",
+      "char": 1,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 105,
+      "bwep": 35,
+      "win": false,
+      "kills": 331,
+      "ultra": 0,
+      "skills": [
+        23,
+        1,
+        21,
+        27,
+        3,
+        9,
+        7
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "oOeWIg7s3b0S8d1",
+      "runId": 79723289
+    },
+    "djTmyjX99l7p91d": {
+      "name": "Tae",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 4,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        23,
+        1,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "djTmyjX99l7p91d",
+      "runId": 79723289
     }
   }
 }
