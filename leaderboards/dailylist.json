@@ -190,6 +190,49 @@
       "version": 2616,
       "uid": "HJ7G87oXRypnPMd",
       "runId": 79723289
+    },
+    "YKDiraz38Smh4qX": {
+      "name": "DOOM",
+      "char": 2,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 66,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "YKDiraz38Smh4qX",
+      "runId": 79723289
+    },
+    "3YT13ERUbwFBrCu": {
+      "name": "Gena.V",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        19,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3YT13ERUbwFBrCu",
+      "runId": 79723289
     }
   }
 }
