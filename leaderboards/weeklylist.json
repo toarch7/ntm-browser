@@ -431,15 +431,14 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 115,
-      "bwep": 6,
+      "wep": 0,
+      "bwep": 0,
       "win": false,
-      "kills": 130,
+      "kills": 154,
       "ultra": 0,
       "skills": [
         4,
-        23,
-        9
+        7
       ],
       "crown": 7,
       "version": 2616,
@@ -1937,6 +1936,33 @@
       "crown": 7,
       "version": 2616,
       "uid": "q528rguB79GPi7T",
+      "runId": 777159318
+    },
+    "gY08Uv8PY4W195i": {
+      "name": "apeludo",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 117,
+      "win": false,
+      "kills": 446,
+      "ultra": 2,
+      "skills": [
+        21,
+        17,
+        7,
+        10,
+        6,
+        8,
+        1,
+        2
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "gY08Uv8PY4W195i",
       "runId": 777159318
     }
   }
