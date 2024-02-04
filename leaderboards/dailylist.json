@@ -425,6 +425,55 @@
       "version": 2616,
       "uid": "L00577m815ab3l6",
       "runId": 203488900
+    },
+    "BmHUB93ALbN0Yg6": {
+      "name": "bajnmen",
+      "char": 3,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 11,
+      "win": false,
+      "kills": 318,
+      "ultra": 0,
+      "skills": [
+        23,
+        13,
+        1,
+        7,
+        25,
+        2,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BmHUB93ALbN0Yg6",
+      "runId": 203488900
+    },
+    "5pen9aPCntXtdi1": {
+      "name": "guisard",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 20,
+      "win": false,
+      "kills": 170,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        24,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5pen9aPCntXtdi1",
+      "runId": 203488900
     }
   }
 }
