@@ -131,6 +131,51 @@
       "version": 2616,
       "uid": "FsVoYz336JEM26v",
       "runId": 203488900
+    },
+    "WoxUmfP37M78eln": {
+      "name": "lobo:(solitario",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "WoxUmfP37M78eln",
+      "runId": 203488900
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 10,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 12,
+      "win": false,
+      "kills": 366,
+      "ultra": 1,
+      "skills": [
+        13,
+        1,
+        22,
+        14,
+        25,
+        24,
+        7,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 203488900
     }
   }
 }
