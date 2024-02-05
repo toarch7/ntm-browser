@@ -1,4 +1,90 @@
 {
   "day": 5,
-  "entries": {}
+  "entries": {
+    "9lI6dU8smGT0IR1": {
+      "name": "apg117",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 66,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        1,
+        9,
+        7,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9lI6dU8smGT0IR1",
+      "runId": 1621856602
+    },
+    "NEr8B99h1CTBJS7": {
+      "name": "Fyurx",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 21,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        13,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "NEr8B99h1CTBJS7",
+      "runId": 1621856602
+    },
+    "7rpl6NnODtq45P3": {
+      "name": "Juli",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 5,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        1,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7rpl6NnODtq45P3",
+      "runId": 1621856602
+    },
+    "zs6HVGW7bh828Wq": {
+      "name": "Арина666",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 5,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "zs6HVGW7bh828Wq",
+      "runId": 1621856602
+    }
+  }
 }
