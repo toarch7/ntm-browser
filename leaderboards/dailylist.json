@@ -293,6 +293,68 @@
       "version": 2616,
       "uid": "a20aNnRO26Xc942",
       "runId": 1621856602
+    },
+    "6kHvV8m8I4GUb02": {
+      "name": "Hazard",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "win": false,
+      "kills": 24,
+      "crown": 1,
+      "version": 2616,
+      "uid": "6kHvV8m8I4GUb02",
+      "runId": 1621856602
+    },
+    "D1nCX17ImfA0296": {
+      "name": "selikspb",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 23,
+      "win": false,
+      "kills": 244,
+      "ultra": 0,
+      "skills": [
+        1,
+        3,
+        10,
+        16,
+        4,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "D1nCX17ImfA0296",
+      "runId": 1621856602
+    },
+    "4TL5ezFPFb52LHZ": {
+      "name": "MaxRisat",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 69,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        1,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4TL5ezFPFb52LHZ",
+      "runId": 1621856602
     }
   }
 }
