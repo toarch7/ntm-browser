@@ -2220,6 +2220,27 @@
       "version": 2616,
       "uid": "B05RuW68j136B5e",
       "runId": 777159318
+    },
+    "YKDiraz38Smh4qX": {
+      "name": "DOOM",
+      "char": 9,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 8,
+      "win": false,
+      "kills": 276,
+      "ultra": 0,
+      "skills": [
+        7,
+        27
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "YKDiraz38Smh4qX",
+      "runId": 777159318
     }
   }
 }
