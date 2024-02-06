@@ -1,4 +1,49 @@
 {
   "seed": 589302729,
-  "entries": {}
+  "entries": {
+    "y9lA4tAT6PIi57T": {
+      "name": "Qwert",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 67,
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        16,
+        21
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "y9lA4tAT6PIi57T",
+      "runId": 589302729
+    },
+    "5kdye8CK8I1FzUF": {
+      "name": "Jalyzaza",
+      "char": 4,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 31,
+      "win": false,
+      "kills": 184,
+      "ultra": 0,
+      "skills": [
+        2,
+        25,
+        8,
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "5kdye8CK8I1FzUF",
+      "runId": 589302729
+    }
+  }
 }
