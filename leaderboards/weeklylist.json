@@ -49,17 +49,20 @@
       "name": "Fyurx",
       "char": 4,
       "skin": true,
-      "area": 2,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 50,
-      "bwep": 67,
+      "wep": 67,
+      "bwep": 75,
       "win": false,
-      "kills": 90,
+      "kills": 213,
       "ultra": 0,
       "skills": [
         2,
-        25
+        25,
+        13,
+        3,
+        27
       ],
       "crown": 3,
       "version": 2616,
@@ -86,6 +89,31 @@
       "crown": 3,
       "version": 2616,
       "uid": "d4fGS8B2VFU6YFB",
+      "runId": 589302729
+    },
+    "EV91EGxmht7hWGt": {
+      "name": "Fast",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 75,
+      "win": false,
+      "kills": 290,
+      "ultra": 0,
+      "skills": [
+        16,
+        25,
+        2,
+        27,
+        3,
+        10
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "EV91EGxmht7hWGt",
       "runId": 589302729
     }
   }
