@@ -189,21 +189,47 @@
       "name": "Fatih",
       "char": 4,
       "skin": true,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 17,
-      "bwep": 6,
+      "wep": 11,
+      "bwep": 17,
       "win": false,
-      "kills": 111,
+      "kills": 194,
       "ultra": 0,
       "skills": [
-        16,
-        25
+        2,
+        28,
+        27,
+        3
       ],
       "crown": 3,
       "version": 2616,
       "uid": "ln7g5U8diwCxXZ5",
+      "runId": 589302729
+    },
+    "E8z5331FzEKFZRC": {
+      "name": "Gungeoneer",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 69,
+      "win": false,
+      "kills": 178,
+      "ultra": 0,
+      "skills": [
+        2,
+        25,
+        23,
+        27,
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "E8z5331FzEKFZRC",
       "runId": 589302729
     }
   }
