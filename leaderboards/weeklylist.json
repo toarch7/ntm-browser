@@ -251,6 +251,52 @@
       "version": 2616,
       "uid": "GGF4Fs2RC3o9vSy",
       "runId": 589302729
+    },
+    "94XE1O4y12I8NfM": {
+      "name": "SvinMaxim",
+      "char": 4,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 37,
+      "win": false,
+      "kills": 198,
+      "ultra": 0,
+      "skills": [
+        16,
+        14,
+        25,
+        23,
+        27,
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "94XE1O4y12I8NfM",
+      "runId": 589302729
+    },
+    "00A0jJ1Gi3978v2": {
+      "name": "CheeseConsumer",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 21,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        2,
+        10
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "00A0jJ1Gi3978v2",
+      "runId": 589302729
     }
   }
 }
