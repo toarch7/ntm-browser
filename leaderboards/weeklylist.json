@@ -734,21 +734,44 @@
       "name": "bentley",
       "char": 4,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 75,
-      "bwep": 17,
+      "wep": 30,
+      "bwep": 52,
       "win": false,
-      "kills": 194,
+      "kills": 254,
       "ultra": 0,
       "skills": [
+        2,
+        10,
         16,
-        10
+        19
       ],
       "crown": 3,
       "version": 2616,
       "uid": "9QW33A5X25T00G4",
+      "runId": 589302729
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 17,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        7,
+        25
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
       "runId": 589302729
     }
   }
