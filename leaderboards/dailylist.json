@@ -345,6 +345,56 @@
       "version": 2616,
       "uid": "PqW0RJ1c6Op0AMH",
       "runId": 1554876102
+    },
+    "oOeWIg7s3b0S8d1": {
+      "name": "Zwillsad",
+      "char": 6,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 62,
+      "win": false,
+      "kills": 280,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        23,
+        3,
+        1,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oOeWIg7s3b0S8d1",
+      "runId": 1554876102
+    },
+    "94XE1O4y12I8NfM": {
+      "name": "SvinMaxim",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 22,
+      "bwep": 22,
+      "win": false,
+      "kills": 548,
+      "ultra": 2,
+      "skills": [
+        21,
+        6,
+        23,
+        27,
+        7,
+        9
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "94XE1O4y12I8NfM",
+      "runId": 1554876102
     }
   }
 }
