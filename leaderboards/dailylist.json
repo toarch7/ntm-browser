@@ -650,6 +650,44 @@
       "version": 2616,
       "uid": "r6uS7ZxhCAhGFJQ",
       "runId": 1554876102
+    },
+    "z0H6xHZ8GWa4qo3": {
+      "name": "Max",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "win": false,
+      "kills": 21,
+      "crown": 1,
+      "version": 2616,
+      "uid": "z0H6xHZ8GWa4qo3",
+      "runId": 1554876102
+    },
+    "i4tiS4QO7XeN3c9": {
+      "name": "VDR",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        14,
+        7,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "i4tiS4QO7XeN3c9",
+      "runId": 1554876102
     }
   }
 }
