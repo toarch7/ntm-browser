@@ -839,6 +839,61 @@
       "version": 2616,
       "uid": "722Y0Z9J3TJ1W1f",
       "runId": 589302729
+    },
+    "BmHUB93ALbN0Yg6": {
+      "name": "bajnmen",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 26,
+      "win": false,
+      "kills": 448,
+      "ultra": 2,
+      "skills": [
+        7,
+        25,
+        13,
+        27,
+        3,
+        10,
+        14,
+        28,
+        21,
+        17
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "BmHUB93ALbN0Yg6",
+      "runId": 589302729
+    },
+    "Oc8litarQi7gX4f": {
+      "name": "GV-CN",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 67,
+      "win": false,
+      "kills": 277,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        13,
+        27,
+        3,
+        10,
+        14
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "Oc8litarQi7gX4f",
+      "runId": 589302729
     }
   }
 }
