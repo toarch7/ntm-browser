@@ -323,6 +323,43 @@
       "version": 2616,
       "uid": "7B57yWsb95pT73S",
       "runId": 2131403634
+    },
+    "8GK4wiR760oijk5": {
+      "name": "Arsenic",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        21,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8GK4wiR760oijk5",
+      "runId": 2131403634
+    },
+    "DD7m6SP308H58Nd": {
+      "name": "дада",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "DD7m6SP308H58Nd",
+      "runId": 2131403634
     }
   }
 }
