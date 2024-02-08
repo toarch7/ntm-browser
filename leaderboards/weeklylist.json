@@ -818,6 +818,27 @@
       "version": 2616,
       "uid": "h8sHiX34isDPi5l",
       "runId": 589302729
+    },
+    "722Y0Z9J3TJ1W1f": {
+      "name": "Throneseeke",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 17,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        2,
+        25
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "722Y0Z9J3TJ1W1f",
+      "runId": 589302729
     }
   }
 }
