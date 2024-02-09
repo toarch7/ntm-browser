@@ -194,15 +194,17 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 6,
-      "bwep": 8,
+      "wep": 22,
+      "bwep": 66,
       "win": false,
-      "kills": 292,
+      "kills": 295,
       "ultra": 0,
       "skills": [
         16,
+        25,
+        23,
         27,
-        3
+        2
       ],
       "crown": 3,
       "version": 2616,
@@ -1051,6 +1053,26 @@
       "crown": 3,
       "version": 2616,
       "uid": "5NXn94sI2jpM51T",
+      "runId": 589302729
+    },
+    "ZXpU0K219RlWRml": {
+      "name": "1ml0g4n",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 17,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "ZXpU0K219RlWRml",
       "runId": 589302729
     }
   }
