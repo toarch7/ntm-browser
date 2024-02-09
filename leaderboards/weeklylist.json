@@ -538,18 +538,20 @@
       "name": "Bakurama1234",
       "char": 4,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
       "wep": 19,
-      "bwep": 17,
+      "bwep": 30,
       "win": false,
-      "kills": 120,
+      "kills": 220,
       "ultra": 0,
       "skills": [
-        2,
+        16,
         25,
-        8
+        2,
+        3,
+        27
       ],
       "crown": 3,
       "version": 2616,
@@ -1146,6 +1148,30 @@
       "crown": 3,
       "version": 2616,
       "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 589302729
+    },
+    "E8IM0cIHUeDCUJ4": {
+      "name": "бскинроги",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 67,
+      "win": false,
+      "kills": 215,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        23,
+        27,
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "E8IM0cIHUeDCUJ4",
       "runId": 589302729
     }
   }
