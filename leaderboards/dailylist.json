@@ -689,6 +689,46 @@
       "version": 2616,
       "uid": "L5PWX28djTR0kRa",
       "runId": 969988235
+    },
+    "3k6Monc9PNkKyg8": {
+      "name": "HuyArtz",
+      "char": 15,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 255,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3k6Monc9PNkKyg8",
+      "runId": 969988235
+    },
+    "8GK4wiR760oijk5": {
+      "name": "Arsenic",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 5,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8GK4wiR760oijk5",
+      "runId": 969988235
     }
   }
 }
