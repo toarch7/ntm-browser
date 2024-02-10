@@ -1,4 +1,91 @@
 {
   "day": 10,
-  "entries": {}
+  "entries": {
+    "ZXpU0K219RlWRml": {
+      "name": "1ml0g4n",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 12,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        22,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ZXpU0K219RlWRml",
+      "runId": 969988235
+    },
+    "YKDiraz38Smh4qX": {
+      "name": "DOOM",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "YKDiraz38Smh4qX",
+      "runId": 969988235
+    },
+    "NEr8B99h1CTBJS7": {
+      "name": "Fyurx",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 5,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        27,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "NEr8B99h1CTBJS7",
+      "runId": 969988235
+    },
+    "FBT9ViR6SFCj8yZ": {
+      "name": "elias656513",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 63,
+      "win": false,
+      "kills": 208,
+      "ultra": 0,
+      "skills": [
+        28,
+        13,
+        8,
+        22,
+        7
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "FBT9ViR6SFCj8yZ",
+      "runId": 969988235
+    }
+  }
 }
