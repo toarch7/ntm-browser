@@ -446,6 +446,55 @@
       "version": 2616,
       "uid": "ke1L90gW8m6i35q",
       "runId": 2137774169
+    },
+    "7B57yWsb95pT73S": {
+      "name": "Blas7hatVGA",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        10,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7B57yWsb95pT73S",
+      "runId": 2137774169
+    },
+    "h8sHiX34isDPi5l": {
+      "name": "SKILL_ISSUE",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 11,
+      "bwep": 95,
+      "win": false,
+      "kills": 1751,
+      "ultra": 2,
+      "skills": [
+        1,
+        27,
+        8,
+        12,
+        25,
+        7,
+        14,
+        9,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h8sHiX34isDPi5l",
+      "runId": 2137774169
     }
   }
 }
