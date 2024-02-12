@@ -1390,6 +1390,30 @@
       "version": 2616,
       "uid": "m96PH9ISC2JCNsw",
       "runId": 589302729
+    },
+    "9tnXEMgmoRHkUnO": {
+      "name": "blastlight",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 4,
+      "win": false,
+      "kills": 213,
+      "ultra": 0,
+      "skills": [
+        2,
+        10,
+        21,
+        3,
+        19
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "9tnXEMgmoRHkUnO",
+      "runId": 589302729
     }
   }
 }
