@@ -257,6 +257,31 @@
       "version": 2616,
       "uid": "NEr8B99h1CTBJS7",
       "runId": 1147250310
+    },
+    "qzGX47f81XH7PvF": {
+      "name": "Barion",
+      "char": 10,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 66,
+      "win": false,
+      "kills": 284,
+      "ultra": 0,
+      "skills": [
+        9,
+        10,
+        23,
+        4,
+        12,
+        22
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "qzGX47f81XH7PvF",
+      "runId": 1147250310
     }
   }
 }
