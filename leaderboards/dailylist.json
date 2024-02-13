@@ -257,6 +257,42 @@
       "version": 2616,
       "uid": "7B57yWsb95pT73S",
       "runId": 1916620856
+    },
+    "7Otb8MKme2Mzm07": {
+      "name": "soup",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "7Otb8MKme2Mzm07",
+      "runId": 1916620856
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 1916620856
     }
   }
 }
