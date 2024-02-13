@@ -1,4 +1,70 @@
 {
   "day": 13,
-  "entries": {}
+  "entries": {
+    "7rpl6NnODtq45P3": {
+      "name": "Juli",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 39,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7rpl6NnODtq45P3",
+      "runId": 1916620856
+    },
+    "Kf4WGzco8UtYk7t": {
+      "name": "trollface",
+      "char": 15,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 70,
+      "bwep": 255,
+      "win": false,
+      "kills": 327,
+      "ultra": 2,
+      "skills": [
+        14,
+        23,
+        3,
+        1,
+        27,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Kf4WGzco8UtYk7t",
+      "runId": 1916620856
+    },
+    "FBT9ViR6SFCj8yZ": {
+      "name": "elias656513",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "FBT9ViR6SFCj8yZ",
+      "runId": 1916620856
+    }
+  }
 }

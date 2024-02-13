@@ -1,4 +1,48 @@
 {
   "seed": 980186399,
-  "entries": {}
+  "entries": {
+    "Kf4WGzco8UtYk7t": {
+      "name": "trollface",
+      "char": 7,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 12,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        14
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "Kf4WGzco8UtYk7t",
+      "runId": 980186399
+    },
+    "7rpl6NnODtq45P3": {
+      "name": "Juli",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 12,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        24,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "7rpl6NnODtq45P3",
+      "runId": 980186399
+    }
+  }
 }
