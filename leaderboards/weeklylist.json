@@ -603,18 +603,19 @@
       "name": "alphey",
       "char": 7,
       "skin": false,
-      "area": 3,
+      "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 12,
+      "wep": 17,
       "bwep": 71,
       "win": false,
-      "kills": 143,
+      "kills": 233,
       "ultra": 0,
       "skills": [
         8,
         1,
-        4
+        4,
+        10
       ],
       "crown": 10,
       "version": 2616,
@@ -764,21 +765,88 @@
       "name": "thatoneguy",
       "char": 7,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 3,
-      "bwep": 34,
+      "wep": 71,
+      "bwep": 5,
       "win": false,
-      "kills": 67,
+      "kills": 80,
       "ultra": 0,
       "skills": [
-        21,
-        22
+        24,
+        12
       ],
       "crown": 10,
       "version": 2616,
       "uid": "NowK9sdq1B27wh5",
+      "runId": 980186399
+    },
+    "g2Q1du6j6F1tSqS": {
+      "name": "LisArt10",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 57,
+      "win": false,
+      "kills": 198,
+      "ultra": 0,
+      "skills": [
+        21,
+        4,
+        14,
+        17,
+        23,
+        1
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "g2Q1du6j6F1tSqS",
+      "runId": 980186399
+    },
+    "P6PtM0uC7GZ3Wtp": {
+      "name": "Seeker71",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 12,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        8,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "P6PtM0uC7GZ3Wtp",
+      "runId": 980186399
+    },
+    "2H1qBEb820z9l5z": {
+      "name": "ULTRAKOTLETA",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 3,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        1,
+        22
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "2H1qBEb820z9l5z",
       "runId": 980186399
     }
   }
