@@ -221,6 +221,53 @@
       "version": 2616,
       "uid": "wSUi55kZ1UJBD6p",
       "runId": 980186399
+    },
+    "5ak7Lp8CJetFsSi": {
+      "name": "Chara",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 14,
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "5ak7Lp8CJetFsSi",
+      "runId": 980186399
+    },
+    "Oz6RXr2KOeIg9Sy": {
+      "name": "AirEnd765",
+      "char": 7,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 9,
+      "bwep": 23,
+      "win": false,
+      "kills": 373,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        7,
+        4,
+        16,
+        27
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "Oz6RXr2KOeIg9Sy",
+      "runId": 980186399
     }
   }
 }
