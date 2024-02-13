@@ -69,19 +69,21 @@
       "name": "Confusion",
       "char": 7,
       "skin": false,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 37,
-      "bwep": 71,
+      "wep": 105,
+      "bwep": 51,
       "win": false,
-      "kills": 231,
+      "kills": 350,
       "ultra": 0,
       "skills": [
+        8,
         1,
-        4,
-        23,
-        2
+        24,
+        10,
+        17,
+        7
       ],
       "crown": 10,
       "version": 2616,
@@ -130,6 +132,30 @@
       "crown": 10,
       "version": 2616,
       "uid": "B05RuW68j136B5e",
+      "runId": 980186399
+    },
+    "F6u2629jnU3tUxL": {
+      "name": "Sombdyusetoknw",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 14,
+      "win": false,
+      "kills": 237,
+      "ultra": 0,
+      "skills": [
+        24,
+        4,
+        14,
+        9,
+        10
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "F6u2629jnU3tUxL",
       "runId": 980186399
     }
   }
