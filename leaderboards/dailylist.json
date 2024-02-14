@@ -1,4 +1,75 @@
 {
   "day": 14,
-  "entries": {}
+  "entries": {
+    "7B57yWsb95pT73S": {
+      "name": "Blas7hatVGA",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 16,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        19,
+        14,
+        6,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7B57yWsb95pT73S",
+      "runId": 1234956377
+    },
+    "zDlz7lnhK4sKA8W": {
+      "name": "crist73737",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 13,
+      "win": false,
+      "kills": 217,
+      "ultra": 0,
+      "skills": [
+        8,
+        22,
+        26,
+        6,
+        28,
+        13
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "zDlz7lnhK4sKA8W",
+      "runId": 1234956377
+    },
+    "L5PWX28djTR0kRa": {
+      "name": "Se",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 2,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        2,
+        22,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L5PWX28djTR0kRa",
+      "runId": 1234956377
+    }
+  }
 }
