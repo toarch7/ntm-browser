@@ -878,17 +878,18 @@
       "name": "Jalyzaza",
       "char": 7,
       "skin": false,
-      "area": 3,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 71,
-      "bwep": 1,
+      "wep": 18,
+      "bwep": 14,
       "win": false,
-      "kills": 92,
+      "kills": 179,
       "ultra": 0,
       "skills": [
         8,
-        1
+        1,
+        14
       ],
       "crown": 10,
       "version": 2616,
@@ -1428,6 +1429,27 @@
       "crown": 10,
       "version": 2616,
       "uid": "YKDiraz38Smh4qX",
+      "runId": 980186399
+    },
+    "65d0UaX50Ub85kn": {
+      "name": "losharapedik228",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 71,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        24,
+        1
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "65d0UaX50Ub85kn",
       "runId": 980186399
     }
   }
