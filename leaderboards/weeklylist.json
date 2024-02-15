@@ -528,21 +528,20 @@
       "name": "Enstain5398",
       "char": 7,
       "skin": false,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 1,
       "loops": 0,
-      "wep": 21,
-      "bwep": 9,
+      "wep": 9,
+      "bwep": 71,
       "win": false,
-      "kills": 261,
+      "kills": 331,
       "ultra": 0,
       "skills": [
         8,
         4,
         14,
-        9,
-        2,
-        17
+        10,
+        1
       ],
       "crown": 10,
       "version": 2616,
@@ -1515,6 +1514,32 @@
       "crown": 10,
       "version": 2616,
       "uid": "FEE569gf63tybBH",
+      "runId": 980186399
+    },
+    "xkCF2xYYI61WuLG": {
+      "name": "Nikörk",
+      "char": 7,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 105,
+      "win": false,
+      "kills": 353,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        14,
+        23,
+        10,
+        1,
+        27
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "xkCF2xYYI61WuLG",
       "runId": 980186399
     }
   }
