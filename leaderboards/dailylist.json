@@ -1,4 +1,52 @@
 {
   "day": 15,
-  "entries": {}
+  "entries": {
+    "5NXn94sI2jpM51T": {
+      "name": "Confusion",
+      "char": 7,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 11,
+      "win": false,
+      "kills": 334,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        1,
+        28,
+        23,
+        2
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "5NXn94sI2jpM51T",
+      "runId": 2103904652
+    },
+    "762rb7r97kIUm9J": {
+      "name": "migby",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 78,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        6,
+        28,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "762rb7r97kIUm9J",
+      "runId": 2103904652
+    }
+  }
 }
