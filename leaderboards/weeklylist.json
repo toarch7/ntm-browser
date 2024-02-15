@@ -1451,6 +1451,27 @@
       "version": 2616,
       "uid": "65d0UaX50Ub85kn",
       "runId": 980186399
+    },
+    "HCp9403a0F2nbA0": {
+      "name": "Trash",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 71,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        8,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "HCp9403a0F2nbA0",
+      "runId": 980186399
     }
   }
 }
