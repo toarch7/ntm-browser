@@ -1,4 +1,45 @@
 {
   "day": 16,
-  "entries": {}
+  "entries": {
+    "us0z9JU682X5Zad": {
+      "name": "Morth",
+      "char": 12,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 6,
+      "win": false,
+      "kills": 235,
+      "ultra": 0,
+      "skills": [
+        3,
+        8,
+        12,
+        10,
+        25
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "us0z9JU682X5Zad",
+      "runId": 276218794
+    },
+    "3DQ18Q9mT9JW24p": {
+      "name": "Ruthless",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "3DQ18Q9mT9JW24p",
+      "runId": 276218794
+    }
+  }
 }
