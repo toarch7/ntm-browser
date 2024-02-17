@@ -559,6 +559,55 @@
       "version": 2616,
       "uid": "77a32S2j2WCe0D1",
       "runId": 657310979
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": false,
+      "area": 100,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 23,
+      "win": false,
+      "kills": 248,
+      "ultra": 0,
+      "skills": [
+        14,
+        27,
+        3,
+        1,
+        4,
+        13
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 657310979
+    },
+    "240FaD0C9ueUuTu": {
+      "name": "Darkito",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 25,
+      "bwep": 28,
+      "win": false,
+      "kills": 242,
+      "ultra": 0,
+      "skills": [
+        28,
+        27,
+        7,
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "240FaD0C9ueUuTu",
+      "runId": 657310979
     }
   }
 }
