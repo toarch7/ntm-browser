@@ -1672,19 +1672,18 @@
       "char": 7,
       "skin": false,
       "area": 1,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 1,
       "wep": 51,
-      "bwep": 59,
+      "bwep": 105,
       "win": false,
-      "kills": 353,
+      "kills": 457,
       "ultra": 0,
       "skills": [
         8,
         4,
-        14,
-        17,
-        10,
+        22,
+        21,
         1,
         7
       ],
@@ -2032,6 +2031,53 @@
       "crown": 10,
       "version": 2616,
       "uid": "x356bkq0sxPal72",
+      "runId": 980186399
+    },
+    "oOeWIg7s3b0S8d1": {
+      "name": "Zwillsad",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 62,
+      "bwep": 60,
+      "win": false,
+      "kills": 882,
+      "ultra": 0,
+      "skills": [
+        21,
+        1,
+        4,
+        23,
+        10,
+        17,
+        27
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "oOeWIg7s3b0S8d1",
+      "runId": 980186399
+    },
+    "87QK66Xwo7HgM83": {
+      "name": "mendoza",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 71,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        8,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "87QK66Xwo7HgM83",
       "runId": 980186399
     }
   }
