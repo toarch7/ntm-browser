@@ -1990,6 +1990,49 @@
       "version": 2616,
       "uid": "04zPBswid860FXQ",
       "runId": 980186399
+    },
+    "9C10qS7rE0FLsXq": {
+      "name": "Douie",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 69,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "9C10qS7rE0FLsXq",
+      "runId": 980186399
+    },
+    "x356bkq0sxPal72": {
+      "name": "vktr",
+      "char": 7,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 12,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        4,
+        23
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "x356bkq0sxPal72",
+      "runId": 980186399
     }
   }
 }
