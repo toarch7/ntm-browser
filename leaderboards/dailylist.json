@@ -608,6 +608,112 @@
       "version": 2616,
       "uid": "240FaD0C9ueUuTu",
       "runId": 657310979
+    },
+    "YKDiraz38Smh4qX": {
+      "name": "DOOM",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 23,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        9,
+        16,
+        7,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "YKDiraz38Smh4qX",
+      "runId": 657310979
+    },
+    "7kf9CSUs70vX84l": {
+      "name": "Lox21",
+      "char": 6,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 72,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        9,
+        27,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7kf9CSUs70vX84l",
+      "runId": 657310979
+    },
+    "G37Fx6kMs7NT00t": {
+      "name": "Stal",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "G37Fx6kMs7NT00t",
+      "runId": 657310979
+    },
+    "W4R4nCC90U22bD0": {
+      "name": "Se",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 21,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W4R4nCC90U22bD0",
+      "runId": 657310979
+    },
+    "C5NK0x36H7C06FF": {
+      "name": "Соплежуй",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 116,
+      "bwep": 118,
+      "win": false,
+      "kills": 402,
+      "ultra": 2,
+      "skills": [
+        9,
+        27,
+        26,
+        3,
+        4,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "C5NK0x36H7C06FF",
+      "runId": 657310979
     }
   }
 }
