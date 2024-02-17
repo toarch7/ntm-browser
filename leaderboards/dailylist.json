@@ -1,4 +1,107 @@
 {
   "day": 17,
-  "entries": {}
+  "entries": {
+    "3DQ18Q9mT9JW24p": {
+      "name": "Ruthless",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 3,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        14,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3DQ18Q9mT9JW24p",
+      "runId": 657310979
+    },
+    "892Y5ozZ0h8r0Kq": {
+      "name": "Natsume",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        9,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "892Y5ozZ0h8r0Kq",
+      "runId": 657310979
+    },
+    "CAF6vKxmOAdfG61": {
+      "name": "NPC:WASAA",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 5,
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        9,
+        27,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CAF6vKxmOAdfG61",
+      "runId": 657310979
+    },
+    "p5F1UXaME8v5kOd": {
+      "name": "Kinta",
+      "char": 8,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 3,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        28,
+        16,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "p5F1UXaME8v5kOd",
+      "runId": 657310979
+    },
+    "Kf4WGzco8UtYk7t": {
+      "name": "trollface",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Kf4WGzco8UtYk7t",
+      "runId": 657310979
+    }
+  }
 }
