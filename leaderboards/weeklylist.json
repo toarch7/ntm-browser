@@ -1869,17 +1869,18 @@
       "name": "BrMan",
       "char": 7,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 27,
-      "bwep": 1,
+      "wep": 17,
+      "bwep": 16,
       "win": false,
-      "kills": 57,
+      "kills": 105,
       "ultra": 0,
       "skills": [
         8,
-        4
+        4,
+        22
       ],
       "crown": 10,
       "version": 2616,
@@ -1947,6 +1948,47 @@
       "crown": 10,
       "version": 2616,
       "uid": "p5F1UXaME8v5kOd",
+      "runId": 980186399
+    },
+    "I4740s1I7E5tqc0": {
+      "name": "Seeke",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 71,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "I4740s1I7E5tqc0",
+      "runId": 980186399
+    },
+    "04zPBswid860FXQ": {
+      "name": "ẻa",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 12,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        8,
+        22
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "04zPBswid860FXQ",
       "runId": 980186399
     }
   }
