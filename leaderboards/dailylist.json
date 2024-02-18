@@ -1,4 +1,69 @@
 {
   "day": 18,
-  "entries": {}
+  "entries": {
+    "qd3k280U32Dl1W2": {
+      "name": "trend66",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 4,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        19,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qd3k280U32Dl1W2",
+      "runId": 178492903
+    },
+    "ZXpU0K219RlWRml": {
+      "name": "1ml0g4n",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 3,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ZXpU0K219RlWRml",
+      "runId": 178492903
+    },
+    "MPL1m9U98j2r07t": {
+      "name": "perron",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 61,
+      "win": false,
+      "kills": 154,
+      "ultra": 0,
+      "skills": [
+        19,
+        22,
+        23,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MPL1m9U98j2r07t",
+      "runId": 178492903
+    }
+  }
 }
