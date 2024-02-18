@@ -617,6 +617,79 @@
       "version": 2616,
       "uid": "13P3br4eB648BtR",
       "runId": 178492903
+    },
+    "NEr8B99h1CTBJS7": {
+      "name": "Fyurx",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 37,
+      "win": false,
+      "kills": 259,
+      "ultra": 0,
+      "skills": [
+        8,
+        23,
+        27,
+        4,
+        13,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "NEr8B99h1CTBJS7",
+      "runId": 178492903
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 173,
+      "ultra": 0,
+      "skills": [
+        8,
+        7,
+        6,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 178492903
+    },
+    "94XE1O4y12I8NfM": {
+      "name": "SvinMaxim",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 94,
+      "bwep": 111,
+      "win": false,
+      "kills": 3337,
+      "ultra": 1,
+      "skills": [
+        22,
+        23,
+        21,
+        27,
+        4,
+        16
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "94XE1O4y12I8NfM",
+      "runId": 178492903
     }
   }
 }
