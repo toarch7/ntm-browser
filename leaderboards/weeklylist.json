@@ -1671,13 +1671,13 @@
       "name": "Tsarinaaaaaa^3^",
       "char": 7,
       "skin": false,
-      "area": 1,
+      "area": 3,
       "subarea": 2,
       "loops": 1,
-      "wep": 51,
-      "bwep": 105,
+      "wep": 11,
+      "bwep": 11,
       "win": false,
-      "kills": 457,
+      "kills": 794,
       "ultra": 0,
       "skills": [
         8,
@@ -2218,6 +2218,50 @@
       "crown": 10,
       "version": 2616,
       "uid": "lqUfxSBMP5nRcPZ",
+      "runId": 980186399
+    },
+    "vELAgQetJhqt73Z": {
+      "name": "OlegGDav",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 1,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "vELAgQetJhqt73Z",
+      "runId": 980186399
+    },
+    "KUIjjrMZk87c686": {
+      "name": "Seeker",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 12,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        12
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "KUIjjrMZk87c686",
       "runId": 980186399
     }
   }
