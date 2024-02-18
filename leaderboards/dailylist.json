@@ -64,6 +64,43 @@
       "version": 2616,
       "uid": "MPL1m9U98j2r07t",
       "runId": 178492903
+    },
+    "YKDiraz38Smh4qX": {
+      "name": "DOOM",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 10,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        8,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "YKDiraz38Smh4qX",
+      "runId": 178492903
+    },
+    "762rb7r97kIUm9J": {
+      "name": "migby",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 0,
+      "win": false,
+      "kills": 25,
+      "crown": 1,
+      "version": 2616,
+      "uid": "762rb7r97kIUm9J",
+      "runId": 178492903
     }
   }
 }
