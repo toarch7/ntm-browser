@@ -880,6 +880,60 @@
       "version": 2616,
       "uid": "uGG7nH7E6C32TjO",
       "runId": 178492903
+    },
+    "8eN78VkWE613v1O": {
+      "name": "Seek",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "8eN78VkWE613v1O",
+      "runId": 178492903
+    },
+    "Y72ewz3kv6rMdnU": {
+      "name": "Gauna",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 16,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y72ewz3kv6rMdnU",
+      "runId": 178492903
+    },
+    "N3j31F6m8Gs5tJB": {
+      "name": "VRAIZ",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 27,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "N3j31F6m8Gs5tJB",
+      "runId": 178492903
     }
   }
 }
