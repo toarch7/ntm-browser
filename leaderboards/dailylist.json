@@ -675,6 +675,53 @@
       "version": 2616,
       "uid": "762rb7r97kIUm9J",
       "runId": 565013058
+    },
+    "xCFj9WAgF1kpH55": {
+      "name": "Momotaro",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 71,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        13,
+        4,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xCFj9WAgF1kpH55",
+      "runId": 565013058
+    },
+    "EtvYeyES7p00Y2V": {
+      "name": "Самса",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 23,
+      "win": false,
+      "kills": 238,
+      "ultra": 0,
+      "skills": [
+        17,
+        27,
+        8,
+        21,
+        3,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EtvYeyES7p00Y2V",
+      "runId": 565013058
     }
   }
 }
