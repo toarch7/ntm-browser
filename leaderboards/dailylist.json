@@ -388,6 +388,71 @@
       "version": 2616,
       "uid": "GNBvF84rQF7zOu2",
       "runId": 4445487
+    },
+    "762rb7r97kIUm9J": {
+      "name": "migby",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 14,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        23,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "762rb7r97kIUm9J",
+      "runId": 4445487
+    },
+    "PqW0RJ1c6Op0AMH": {
+      "name": "GACIXD",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 113,
+      "bwep": 9,
+      "win": false,
+      "kills": 664,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        8,
+        3,
+        7,
+        23,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "PqW0RJ1c6Op0AMH",
+      "runId": 4445487
+    },
+    "7A2LaIWONrUqNwC": {
+      "name": "Hiajen",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 0,
+      "win": false,
+      "kills": 20,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7A2LaIWONrUqNwC",
+      "runId": 4445487
     }
   }
 }
