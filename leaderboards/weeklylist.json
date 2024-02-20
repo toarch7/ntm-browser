@@ -5,19 +5,20 @@
       "name": "Confusion",
       "char": 5,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 3,
       "loops": 0,
       "wep": 53,
-      "bwep": 0,
+      "bwep": 22,
       "win": false,
-      "kills": 159,
+      "kills": 249,
       "ultra": 0,
       "skills": [
         19,
         1,
         8,
-        23
+        23,
+        10
       ],
       "crown": 8,
       "version": 2616,
@@ -44,6 +45,32 @@
       "crown": 8,
       "version": 2616,
       "uid": "04zPBswid860FXQ",
+      "runId": 330453772
+    },
+    "51s7A8F54j64eIo": {
+      "name": "Silver",
+      "char": 5,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 53,
+      "win": false,
+      "kills": 345,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        8,
+        23,
+        10,
+        27,
+        24
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "51s7A8F54j64eIo",
       "runId": 330453772
     }
   }
