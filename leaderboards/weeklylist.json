@@ -1,4 +1,50 @@
 {
   "seed": 330453772,
-  "entries": {}
+  "entries": {
+    "5NXn94sI2jpM51T": {
+      "name": "Confusion",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 0,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        8,
+        23
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "5NXn94sI2jpM51T",
+      "runId": 330453772
+    },
+    "04zPBswid860FXQ": {
+      "name": "ẻa",
+      "char": 5,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 53,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "04zPBswid860FXQ",
+      "runId": 330453772
+    }
+  }
 }
