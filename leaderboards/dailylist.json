@@ -453,6 +453,26 @@
       "version": 2616,
       "uid": "7A2LaIWONrUqNwC",
       "runId": 4445487
+    },
+    "b7BHP8u8CG2y10l": {
+      "name": "Chesto",
+      "char": 5,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 71,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "b7BHP8u8CG2y10l",
+      "runId": 4445487
     }
   }
 }
