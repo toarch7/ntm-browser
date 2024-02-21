@@ -179,6 +179,70 @@
       "version": 2616,
       "uid": "B4Cqs691whNN0Cc",
       "runId": 647956925
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 0,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 647956925
+    },
+    "oe0tJOOaYb9gNdq": {
+      "name": "ice_nine",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 17,
+      "win": false,
+      "kills": 258,
+      "ultra": 0,
+      "skills": [
+        4,
+        16,
+        25,
+        6,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oe0tJOOaYb9gNdq",
+      "runId": 647956925
+    },
+    "0L5QZ6G8duaw51l": {
+      "name": "Lupastonks",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 3,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0L5QZ6G8duaw51l",
+      "runId": 647956925
     }
   }
 }
