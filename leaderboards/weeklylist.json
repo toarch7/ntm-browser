@@ -798,18 +798,20 @@
       "name": "trend66",
       "char": 5,
       "skin": true,
-      "area": 103,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 6,
-      "bwep": 53,
+      "wep": 53,
+      "bwep": 63,
       "win": false,
-      "kills": 140,
+      "kills": 292,
       "ultra": 0,
       "skills": [
         19,
         1,
-        8
+        8,
+        23,
+        10
       ],
       "crown": 8,
       "version": 2616,
@@ -981,13 +983,13 @@
       "name": "el",
       "char": 5,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
-      "bwep": 53,
+      "wep": 53,
+      "bwep": 69,
       "win": false,
-      "kills": 80,
+      "kills": 94,
       "ultra": 0,
       "skills": [
         19,
@@ -997,6 +999,28 @@
       "crown": 8,
       "version": 2616,
       "uid": "SeJXvBCO0XOqTlU",
+      "runId": 330453772
+    },
+    "ZnTkW7bzlt8MkGS": {
+      "name": "Bryam",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 53,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "ZnTkW7bzlt8MkGS",
       "runId": 330453772
     }
   }
