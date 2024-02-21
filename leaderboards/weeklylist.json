@@ -660,17 +660,19 @@
       "name": "DOOM",
       "char": 5,
       "skin": true,
-      "area": 104,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 8,
+      "wep": 79,
       "bwep": 53,
       "win": false,
-      "kills": 53,
+      "kills": 161,
       "ultra": 0,
       "skills": [
         19,
-        1
+        1,
+        8,
+        23
       ],
       "crown": 8,
       "version": 2616,
@@ -790,6 +792,28 @@
       "crown": 8,
       "version": 2616,
       "uid": "RGDd572P6MfWctg",
+      "runId": 330453772
+    },
+    "qd3k280U32Dl1W2": {
+      "name": "trend66",
+      "char": 5,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 53,
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "qd3k280U32Dl1W2",
       "runId": 330453772
     }
   }
