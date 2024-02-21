@@ -885,6 +885,51 @@
       "version": 2616,
       "uid": "Atxw7On7Hmll3c5",
       "runId": 330453772
+    },
+    "05b6aj5Ks3EmG2e": {
+      "name": "Darademo",
+      "char": 5,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        19,
+        1
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "05b6aj5Ks3EmG2e",
+      "runId": 330453772
+    },
+    "WoxUmfP37M78eln": {
+      "name": "lobo:(solitario",
+      "char": 5,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 2,
+      "win": false,
+      "kills": 228,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        8,
+        23,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "WoxUmfP37M78eln",
+      "runId": 330453772
     }
   }
 }
