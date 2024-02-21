@@ -823,20 +823,22 @@
       "name": "1ml0g4n",
       "char": 5,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 38,
-      "bwep": 28,
+      "wep": 47,
+      "bwep": 53,
       "win": false,
-      "kills": 253,
+      "kills": 338,
       "ultra": 0,
       "skills": [
         19,
         1,
         8,
         23,
-        10
+        10,
+        27,
+        24
       ],
       "crown": 8,
       "version": 2616,
@@ -1022,6 +1024,28 @@
       "crown": 8,
       "version": 2616,
       "uid": "ZnTkW7bzlt8MkGS",
+      "runId": 330453772
+    },
+    "r0wSTCx5ktMu48m": {
+      "name": "arxedysik",
+      "char": 5,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 53,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "r0wSTCx5ktMu48m",
       "runId": 330453772
     }
   }
