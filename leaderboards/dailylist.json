@@ -151,6 +151,49 @@
       "version": 2616,
       "uid": "EVl3A0wZ9bTFs7w",
       "runId": 1675103257
+    },
+    "7kf9CSUs70vX84l": {
+      "name": "Lox21",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 31,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        25,
+        10,
+        7,
+        4
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "7kf9CSUs70vX84l",
+      "runId": 1675103257
+    },
+    "4N3nLcqx43V3Ta1": {
+      "name": "Seeker41",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4N3nLcqx43V3Ta1",
+      "runId": 1675103257
     }
   }
 }
