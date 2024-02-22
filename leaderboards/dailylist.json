@@ -760,6 +760,69 @@
       "version": 2616,
       "uid": "oOeWIg7s3b0S8d1",
       "runId": 1675103257
+    },
+    "B8Bp2lxXu6sLdeC": {
+      "name": "Valen",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 16,
+      "crown": 1,
+      "version": 2616,
+      "uid": "B8Bp2lxXu6sLdeC",
+      "runId": 1675103257
+    },
+    "25b9QayFLIM61JL": {
+      "name": "darwin",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 69,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "25b9QayFLIM61JL",
+      "runId": 1675103257
+    },
+    "EtvYeyES7p00Y2V": {
+      "name": "Самса",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 60,
+      "bwep": 24,
+      "win": false,
+      "kills": 815,
+      "ultra": 1,
+      "skills": [
+        25,
+        8,
+        1,
+        4,
+        27,
+        7,
+        24,
+        14
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "EtvYeyES7p00Y2V",
+      "runId": 1675103257
     }
   }
 }
