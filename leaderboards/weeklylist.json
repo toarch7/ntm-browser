@@ -875,10 +875,10 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 66,
-      "bwep": 53,
+      "wep": 53,
+      "bwep": 4,
       "win": false,
-      "kills": 98,
+      "kills": 101,
       "ultra": 0,
       "skills": [
         19,
@@ -1277,6 +1277,52 @@
       "crown": 8,
       "version": 2616,
       "uid": "omZ12rhMYLD191e",
+      "runId": 330453772
+    },
+    "87WuU7nYQ2ckVTv": {
+      "name": "Joker",
+      "char": 5,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 13,
+      "win": false,
+      "kills": 180,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        8,
+        23
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "87WuU7nYQ2ckVTv",
+      "runId": 330453772
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 53,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        8,
+        23
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
       "runId": 330453772
     }
   }
