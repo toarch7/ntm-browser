@@ -1255,6 +1255,29 @@
       "version": 2616,
       "uid": "d4fGS8B2VFU6YFB",
       "runId": 330453772
+    },
+    "omZ12rhMYLD191e": {
+      "name": "RandomNuke",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 6,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        8,
+        23
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "omZ12rhMYLD191e",
+      "runId": 330453772
     }
   }
 }
