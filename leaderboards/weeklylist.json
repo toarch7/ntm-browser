@@ -1139,6 +1139,27 @@
       "version": 2616,
       "uid": "Kf4WGzco8UtYk7t",
       "runId": 330453772
+    },
+    "Xm375Qt65BaPf4H": {
+      "name": "Fish",
+      "char": 5,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 53,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        19,
+        1
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "Xm375Qt65BaPf4H",
+      "runId": 330453772
     }
   }
 }
