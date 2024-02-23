@@ -264,6 +264,53 @@
       "version": 2616,
       "uid": "7B57yWsb95pT73S",
       "runId": 2079063409
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 44,
+      "bwep": 0,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        2,
+        1,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 2079063409
+    },
+    "EtvYeyES7p00Y2V": {
+      "name": "Самса",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 62,
+      "win": false,
+      "kills": 231,
+      "ultra": 0,
+      "skills": [
+        3,
+        17,
+        1,
+        21,
+        23,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EtvYeyES7p00Y2V",
+      "runId": 2079063409
     }
   }
 }

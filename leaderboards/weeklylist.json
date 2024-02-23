@@ -26,21 +26,22 @@
       "runId": 330453772
     },
     "04zPBswid860FXQ": {
-      "name": "ẻa",
+      "name": "Aera",
       "char": 5,
       "skin": true,
-      "area": 103,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
-      "bwep": 53,
+      "wep": 53,
+      "bwep": 79,
       "win": false,
-      "kills": 125,
+      "kills": 168,
       "ultra": 0,
       "skills": [
         19,
         1,
-        8
+        8,
+        23
       ],
       "crown": 8,
       "version": 2616,
