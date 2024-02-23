@@ -640,6 +640,53 @@
       "version": 2616,
       "uid": "2oBXq09621Eil6Q",
       "runId": 2079063409
+    },
+    "zEY2p1pjFg3Dg2l": {
+      "name": "Enstain5398",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 26,
+      "win": false,
+      "kills": 248,
+      "ultra": 0,
+      "skills": [
+        17,
+        27,
+        6,
+        10,
+        1
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "zEY2p1pjFg3Dg2l",
+      "runId": 2079063409
+    },
+    "CAF6vKxmOAdfG61": {
+      "name": "NPC:WASAA",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 15,
+      "bwep": 5,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        10,
+        2,
+        1,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CAF6vKxmOAdfG61",
+      "runId": 2079063409
     }
   }
 }
