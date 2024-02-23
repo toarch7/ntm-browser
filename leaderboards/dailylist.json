@@ -568,6 +568,78 @@
       "version": 2616,
       "uid": "N3j31F6m8Gs5tJB",
       "runId": 2079063409
+    },
+    "JmSonruS6k1bcfm": {
+      "name": "DAN1455",
+      "char": 2,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 44,
+      "bwep": 21,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        10,
+        2,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "JmSonruS6k1bcfm",
+      "runId": 2079063409
+    },
+    "762rb7r97kIUm9J": {
+      "name": "migby",
+      "char": 8,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 71,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        10,
+        2,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "762rb7r97kIUm9J",
+      "runId": 2079063409
+    },
+    "2oBXq09621Eil6Q": {
+      "name": "Drakin",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 89,
+      "bwep": 84,
+      "win": false,
+      "kills": 774,
+      "ultra": 1,
+      "skills": [
+        3,
+        17,
+        1,
+        13,
+        23,
+        14,
+        25,
+        9,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2oBXq09621Eil6Q",
+      "runId": 2079063409
     }
   }
 }
