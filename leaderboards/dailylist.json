@@ -172,6 +172,28 @@
       "version": 2616,
       "uid": "zs6HVGW7bh828Wq",
       "runId": 2079063409
+    },
+    "bqmolBJK12C78Fr": {
+      "name": "KillYourself",
+      "char": 2,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 5,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        10,
+        24,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bqmolBJK12C78Fr",
+      "runId": 2079063409
     }
   }
 }
