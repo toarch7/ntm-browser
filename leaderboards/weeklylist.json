@@ -1422,13 +1422,13 @@
       "name": "Mahmood454",
       "char": 5,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 13,
-      "bwep": 20,
+      "wep": 90,
+      "bwep": 13,
       "win": false,
-      "kills": 153,
+      "kills": 182,
       "ultra": 0,
       "skills": [
         19,
@@ -1672,6 +1672,28 @@
       "crown": 8,
       "version": 2616,
       "uid": "h64q12c4cyBQsT2",
+      "runId": 330453772
+    },
+    "8S6u4zcb0S6X406": {
+      "name": "carloss",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 14,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "8S6u4zcb0S6X406",
       "runId": 330453772
     }
   }
