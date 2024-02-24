@@ -296,6 +296,102 @@
       "version": 2616,
       "uid": "1XxrxxE5zQVXY5q",
       "runId": 1042202031
+    },
+    "oe0tJOOaYb9gNdq": {
+      "name": "ice_nine",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 1,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        6,
+        1,
+        16,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oe0tJOOaYb9gNdq",
+      "runId": 1042202031
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 105,
+      "bwep": 26,
+      "win": false,
+      "kills": 1647,
+      "ultra": 1,
+      "skills": [
+        14,
+        1,
+        27,
+        21,
+        3,
+        10,
+        16
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1042202031
+    },
+    "oOeWIg7s3b0S8d1": {
+      "name": "Zwillsad",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 11,
+      "bwep": 94,
+      "win": false,
+      "kills": 2933,
+      "ultra": 2,
+      "skills": [
+        6,
+        1,
+        27,
+        9,
+        13,
+        3,
+        10,
+        21
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "oOeWIg7s3b0S8d1",
+      "runId": 1042202031
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 1042202031
     }
   }
 }
