@@ -173,6 +173,43 @@
       "version": 2616,
       "uid": "9QW33A5X25T00G4",
       "runId": 1042202031
+    },
+    "05b6aj5Ks3EmG2e": {
+      "name": "Darademo",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "05b6aj5Ks3EmG2e",
+      "runId": 1042202031
+    },
+    "892Y5ozZ0h8r0Kq": {
+      "name": "Natsume",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        6,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "892Y5ozZ0h8r0Kq",
+      "runId": 1042202031
     }
   }
 }
