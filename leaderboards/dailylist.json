@@ -392,6 +392,48 @@
       "version": 2616,
       "uid": "GNBvF84rQF7zOu2",
       "runId": 1042202031
+    },
+    "MuVZ9uB763rgfB7": {
+      "name": "Drangou",
+      "char": 2,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "win": false,
+      "kills": 369,
+      "ultra": 0,
+      "skills": [
+        13,
+        23,
+        27,
+        1,
+        3,
+        9,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MuVZ9uB763rgfB7",
+      "runId": 1042202031
+    },
+    "v0iI9lPot7xfi9W": {
+      "name": "антошка",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 23,
+      "crown": 1,
+      "version": 2616,
+      "uid": "v0iI9lPot7xfi9W",
+      "runId": 1042202031
     }
   }
 }
