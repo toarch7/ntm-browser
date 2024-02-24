@@ -210,6 +210,51 @@
       "version": 2616,
       "uid": "892Y5ozZ0h8r0Kq",
       "runId": 1042202031
+    },
+    "bqmolBJK12C78Fr": {
+      "name": "KillYourself",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 7,
+      "win": false,
+      "kills": 16,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bqmolBJK12C78Fr",
+      "runId": 1042202031
+    },
+    "084iO6U2Wz59i6y": {
+      "name": "Rahar",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 53,
+      "win": false,
+      "kills": 210,
+      "ultra": 0,
+      "skills": [
+        6,
+        1,
+        23,
+        9,
+        28,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "084iO6U2Wz59i6y",
+      "runId": 1042202031
     }
   }
 }
