@@ -1821,19 +1821,20 @@
       "name": "mendoza",
       "char": 5,
       "skin": true,
-      "area": 104,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 63,
-      "bwep": 53,
+      "wep": 24,
+      "bwep": 119,
       "win": false,
-      "kills": 160,
+      "kills": 249,
       "ultra": 0,
       "skills": [
         19,
         1,
         8,
-        23
+        23,
+        10
       ],
       "crown": 8,
       "version": 2616,
@@ -2144,6 +2145,29 @@
       "crown": 8,
       "version": 2616,
       "uid": "0Eoja0zKI9xTxd2",
+      "runId": 330453772
+    },
+    "3v0o5Fo40B18MEE": {
+      "name": "Cris31xd",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 53,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        8,
+        23
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "3v0o5Fo40B18MEE",
       "runId": 330453772
     }
   }

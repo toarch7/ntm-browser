@@ -116,6 +116,68 @@
       "version": 2616,
       "uid": "05b6aj5Ks3EmG2e",
       "runId": 1045424706
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 4,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 1045424706
+    },
+    "I8nTeF2ODI58BD5": {
+      "name": "Leo_Pro_2016",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 4,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        4,
+        13,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "I8nTeF2ODI58BD5",
+      "runId": 1045424706
+    },
+    "3v0o5Fo40B18MEE": {
+      "name": "Cris31xd",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 3,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3v0o5Fo40B18MEE",
+      "runId": 1045424706
     }
   }
 }
