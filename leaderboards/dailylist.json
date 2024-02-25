@@ -456,6 +456,47 @@
       "version": 2616,
       "uid": "uGG7nH7E6C32TjO",
       "runId": 1045424706
+    },
+    "084iO6U2Wz59i6y": {
+      "name": "Rahar",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 3,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "084iO6U2Wz59i6y",
+      "runId": 1045424706
+    },
+    "XUQ178r3zG82nn9": {
+      "name": "Dudosa",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 75,
+      "win": false,
+      "kills": 166,
+      "ultra": 0,
+      "skills": [
+        13,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XUQ178r3zG82nn9",
+      "runId": 1045424706
     }
   }
 }
