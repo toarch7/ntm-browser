@@ -262,6 +262,69 @@
       "version": 2616,
       "uid": "n5BA29aG845IhTO",
       "runId": 1045424706
+    },
+    "5ak7Lp8CJetFsSi": {
+      "name": "ChocolateLover",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 9,
+      "win": false,
+      "kills": 165,
+      "ultra": 0,
+      "skills": [
+        4,
+        22,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5ak7Lp8CJetFsSi",
+      "runId": 1045424706
+    },
+    "oe0tJOOaYb9gNdq": {
+      "name": "ice_nine",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        4,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oe0tJOOaYb9gNdq",
+      "runId": 1045424706
+    },
+    "EtvYeyES7p00Y2V": {
+      "name": "Самса",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 7,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EtvYeyES7p00Y2V",
+      "runId": 1045424706
     }
   }
 }
