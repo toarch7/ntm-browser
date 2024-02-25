@@ -221,6 +221,47 @@
       "version": 2616,
       "uid": "zEY2p1pjFg3Dg2l",
       "runId": 1045424706
+    },
+    "9ezR32ssCk3277B": {
+      "name": "Andersony",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9ezR32ssCk3277B",
+      "runId": 1045424706
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 75,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        4,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 1045424706
     }
   }
 }
