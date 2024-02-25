@@ -57,6 +57,65 @@
       "version": 2616,
       "uid": "9QW33A5X25T00G4",
       "runId": 1045424706
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 3,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 1045424706
+    },
+    "5NXn94sI2jpM51T": {
+      "name": "Confusion",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 71,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5NXn94sI2jpM51T",
+      "runId": 1045424706
+    },
+    "05b6aj5Ks3EmG2e": {
+      "name": "Darademo",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        4,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "05b6aj5Ks3EmG2e",
+      "runId": 1045424706
     }
   }
 }
