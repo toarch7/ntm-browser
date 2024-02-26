@@ -714,6 +714,47 @@
       "version": 2616,
       "uid": "1R0bZX0YdhGwkQ3",
       "runId": 1227961062
+    },
+    "EtvYeyES7p00Y2V": {
+      "name": "Самса",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        9,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EtvYeyES7p00Y2V",
+      "runId": 1227961062
+    },
+    "bqmolBJK12C78Fr": {
+      "name": "KillYourself",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 0,
+      "win": false,
+      "kills": 13,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bqmolBJK12C78Fr",
+      "runId": 1227961062
     }
   }
 }
