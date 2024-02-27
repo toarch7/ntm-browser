@@ -1,4 +1,47 @@
 {
   "seed": 974092256,
-  "entries": {}
+  "entries": {
+    "d4fGS8B2VFU6YFB": {
+      "name": "yes",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 117,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        28,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "d4fGS8B2VFU6YFB",
+      "runId": 974092256
+    },
+    "FBT9ViR6SFCj8yZ": {
+      "name": "elias656513",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 66,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        28,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "FBT9ViR6SFCj8yZ",
+      "runId": 974092256
+    }
+  }
 }
