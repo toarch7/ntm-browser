@@ -151,6 +151,49 @@
       "version": 2616,
       "uid": "us0z9JU682X5Zad",
       "runId": 1644628976
+    },
+    "xv4bxcIzH5wY1ro": {
+      "name": "Melli",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 2,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xv4bxcIzH5wY1ro",
+      "runId": 1644628976
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 69,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        8,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 1644628976
     }
   }
 }
