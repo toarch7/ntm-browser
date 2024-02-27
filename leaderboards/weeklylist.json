@@ -88,13 +88,13 @@
       "name": "Sombdyusetoknw",
       "char": 12,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 4,
-      "bwep": 6,
+      "wep": 17,
+      "bwep": 112,
       "win": false,
-      "kills": 71,
+      "kills": 143,
       "ultra": 0,
       "skills": [
         3,
@@ -144,6 +144,30 @@
       "crown": 5,
       "version": 2616,
       "uid": "y9lA4tAT6PIi57T",
+      "runId": 974092256
+    },
+    "us0z9JU682X5Zad": {
+      "name": "Morth",
+      "char": 12,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 96,
+      "win": false,
+      "kills": 410,
+      "ultra": 0,
+      "skills": [
+        28,
+        4,
+        27,
+        8,
+        17
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "us0z9JU682X5Zad",
       "runId": 974092256
     }
   }
