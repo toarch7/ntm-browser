@@ -220,6 +220,54 @@
       "version": 2616,
       "uid": "HJ7G87oXRypnPMd",
       "runId": 1644628976
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 1644628976
+    },
+    "9ezR32ssCk3277B": {
+      "name": "Andersony",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 1,
+      "win": false,
+      "kills": 382,
+      "ultra": 0,
+      "skills": [
+        8,
+        16,
+        14,
+        25,
+        10,
+        28,
+        17,
+        12
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "9ezR32ssCk3277B",
+      "runId": 1644628976
     }
   }
 }
