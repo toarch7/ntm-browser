@@ -458,6 +458,47 @@
       "version": 2616,
       "uid": "Y72ewz3kv6rMdnU",
       "runId": 1644628976
+    },
+    "316QNl3ACEA87zy": {
+      "name": "VALE",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 2,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        4,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "316QNl3ACEA87zy",
+      "runId": 1644628976
+    },
+    "I8l7XPVc6I92Vl6": {
+      "name": "Spoilfish",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 10,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "I8l7XPVc6I92Vl6",
+      "runId": 1644628976
     }
   }
 }
