@@ -801,6 +801,42 @@
       "version": 2616,
       "uid": "aDrlGmJ9F4GRkKh",
       "runId": 1421357657
+    },
+    "1R0bZX0YdhGwkQ3": {
+      "name": "Seeker41q",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "1R0bZX0YdhGwkQ3",
+      "runId": 1421357657
+    },
+    "EyivYO7HV1WHL1v": {
+      "name": "lol8",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 3,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EyivYO7HV1WHL1v",
+      "runId": 1421357657
     }
   }
 }
