@@ -1,4 +1,46 @@
 {
   "day": 28,
-  "entries": {}
+  "entries": {
+    "2GF7anCKIkC5gyX": {
+      "name": "juan",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        1,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2GF7anCKIkC5gyX",
+      "runId": 1421357657
+    },
+    "05b6aj5Ks3EmG2e": {
+      "name": "Darademo",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "05b6aj5Ks3EmG2e",
+      "runId": 1421357657
+    }
+  }
 }
