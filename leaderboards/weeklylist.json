@@ -652,6 +652,47 @@
       "version": 2616,
       "uid": "AbdmdFG2w5yF6kL",
       "runId": 974092256
+    },
+    "L7BRJoMB9khbE2K": {
+      "name": "Sosunok",
+      "char": 12,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 20,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        28,
+        9
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "L7BRJoMB9khbE2K",
+      "runId": 974092256
+    },
+    "adFy5YEV9P95Hex": {
+      "name": "tyalos",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 20,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        26
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "adFy5YEV9P95Hex",
+      "runId": 974092256
     }
   }
 }
