@@ -201,6 +201,47 @@
       "version": 2616,
       "uid": "JRNyiWuqpHyV5Vg",
       "runId": 2072981655
+    },
+    "d4fGS8B2VFU6YFB": {
+      "name": "yes",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        1,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "d4fGS8B2VFU6YFB",
+      "runId": 2072981655
+    },
+    "gk1fKmp8fDB6o3l": {
+      "name": "DeDoc",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 3,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gk1fKmp8fDB6o3l",
+      "runId": 2072981655
     }
   }
 }
