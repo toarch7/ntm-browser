@@ -118,6 +118,43 @@
       "version": 2616,
       "uid": "I8l7XPVc6I92Vl6",
       "runId": 2072981655
+    },
+    "bqmolBJK12C78Fr": {
+      "name": "KillYourself",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 39,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "bqmolBJK12C78Fr",
+      "runId": 2072981655
+    },
+    "L5PWX28djTR0kRa": {
+      "name": "Se",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        23,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L5PWX28djTR0kRa",
+      "runId": 2072981655
     }
   }
 }
