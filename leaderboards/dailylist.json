@@ -242,6 +242,68 @@
       "version": 2616,
       "uid": "gk1fKmp8fDB6o3l",
       "runId": 2072981655
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 7,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 25,
+      "bwep": 26,
+      "win": false,
+      "kills": 308,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        19,
+        10,
+        12,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 2072981655
+    },
+    "9ezR32ssCk3277B": {
+      "name": "Andersony",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        8,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9ezR32ssCk3277B",
+      "runId": 2072981655
+    },
+    "De59sxet6479lEl": {
+      "name": "harleyhucklbery",
+      "char": 15,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 255,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "De59sxet6479lEl",
+      "runId": 2072981655
     }
   }
 }
