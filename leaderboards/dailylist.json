@@ -181,6 +181,71 @@
       "version": 2616,
       "uid": "64lsh4Hwg4ysAv1",
       "runId": 2064066827
+    },
+    "hpZ5Y6M9A401v39": {
+      "name": "Slizne_grad",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 7,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "hpZ5Y6M9A401v39",
+      "runId": 2064066827
+    },
+    "oOeWIg7s3b0S8d1": {
+      "name": "Zwillsad",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 0,
+      "win": false,
+      "kills": 762,
+      "ultra": 1,
+      "skills": [
+        10,
+        27,
+        23,
+        17,
+        7,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oOeWIg7s3b0S8d1",
+      "runId": 2064066827
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 3,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 2064066827
     }
   }
 }
