@@ -1,4 +1,77 @@
 {
   "day": 1,
-  "entries": {}
+  "entries": {
+    "I8nTeF2ODI58BD5": {
+      "name": "Leo_Pro_2016",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 110,
+      "bwep": 13,
+      "win": false,
+      "kills": 525,
+      "ultra": 1,
+      "skills": [
+        25,
+        13,
+        27,
+        3,
+        8,
+        12,
+        22,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "I8nTeF2ODI58BD5",
+      "runId": 2064066827
+    },
+    "XpYP18hrLd42JE2": {
+      "name": "Minino",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        10,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XpYP18hrLd42JE2",
+      "runId": 2064066827
+    },
+    "HPq07AWj6MWLWQw": {
+      "name": "malicious_sun",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 112,
+      "win": false,
+      "kills": 237,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        17,
+        12,
+        23
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "HPq07AWj6MWLWQw",
+      "runId": 2064066827
+    }
+  }
 }
