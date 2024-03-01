@@ -94,6 +94,54 @@
       "version": 2616,
       "uid": "xCFj9WAgF1kpH55",
       "runId": 2064066827
+    },
+    "05b6aj5Ks3EmG2e": {
+      "name": "Darademo",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 7,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        22
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "05b6aj5Ks3EmG2e",
+      "runId": 2064066827
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 74,
+      "bwep": 11,
+      "win": false,
+      "kills": 1414,
+      "ultra": 1,
+      "skills": [
+        10,
+        23,
+        13,
+        8,
+        7,
+        22,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 2064066827
     }
   }
 }
