@@ -438,6 +438,66 @@
       "version": 2616,
       "uid": "bqmolBJK12C78Fr",
       "runId": 2064066827
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 75,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        9,
+        3,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 2064066827
+    },
+    "7B57yWsb95pT73S": {
+      "name": "Blas7hatVGA",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 81,
+      "win": false,
+      "kills": 26,
+      "crown": 1,
+      "version": 2616,
+      "uid": "7B57yWsb95pT73S",
+      "runId": 2064066827
+    },
+    "PqW0RJ1c6Op0AMH": {
+      "name": "GACIXD",
+      "char": 11,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "PqW0RJ1c6Op0AMH",
+      "runId": 2064066827
     }
   }
 }
