@@ -1013,18 +1013,20 @@
       "name": "Bakurama1234",
       "char": 12,
       "skin": false,
-      "area": 3,
+      "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 13,
-      "bwep": 20,
+      "wep": 65,
+      "bwep": 59,
       "win": false,
-      "kills": 149,
+      "kills": 294,
       "ultra": 0,
       "skills": [
         17,
-        9,
-        4
+        4,
+        1,
+        10,
+        14
       ],
       "crown": 5,
       "version": 2616,
@@ -1181,6 +1183,27 @@
       "crown": 5,
       "version": 2616,
       "uid": "2GF7anCKIkC5gyX",
+      "runId": 974092256
+    },
+    "gY08Uv8PY4W195i": {
+      "name": "apeludo",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 112,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        17,
+        28
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "gY08Uv8PY4W195i",
       "runId": 974092256
     }
   }
