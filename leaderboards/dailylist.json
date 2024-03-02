@@ -269,6 +269,51 @@
       "version": 2616,
       "uid": "ke1L90gW8m6i35q",
       "runId": 989770538
+    },
+    "bqmolBJK12C78Fr": {
+      "name": "KillYourself",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 7,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bqmolBJK12C78Fr",
+      "runId": 989770538
+    },
+    "oOeWIg7s3b0S8d1": {
+      "name": "Zwillsad",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 2,
+      "wep": 64,
+      "bwep": 60,
+      "win": false,
+      "kills": 1566,
+      "ultra": 2,
+      "skills": [
+        25,
+        27,
+        3,
+        1,
+        23,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oOeWIg7s3b0S8d1",
+      "runId": 989770538
     }
   }
 }
