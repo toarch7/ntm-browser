@@ -1139,6 +1139,49 @@
       "version": 2616,
       "uid": "UC285vb160TLb3q",
       "runId": 974092256
+    },
+    "1II98EUChLm7jCh": {
+      "name": "sapo",
+      "char": 12,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 78,
+      "win": false,
+      "kills": 215,
+      "ultra": 0,
+      "skills": [
+        17,
+        4,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "1II98EUChLm7jCh",
+      "runId": 974092256
+    },
+    "2GF7anCKIkC5gyX": {
+      "name": "juan",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 69,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        26,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "2GF7anCKIkC5gyX",
+      "runId": 974092256
     }
   }
 }
