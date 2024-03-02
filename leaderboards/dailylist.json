@@ -314,6 +314,49 @@
       "version": 2616,
       "uid": "oOeWIg7s3b0S8d1",
       "runId": 989770538
+    },
+    "ow2Dp605J1mm7P6": {
+      "name": "nism",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 6,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ow2Dp605J1mm7P6",
+      "runId": 989770538
+    },
+    "oFstkU0Dba65Qhc": {
+      "name": "Thronese",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        22,
+        27,
+        28,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oFstkU0Dba65Qhc",
+      "runId": 989770538
     }
   }
 }
