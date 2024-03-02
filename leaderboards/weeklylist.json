@@ -1252,6 +1252,48 @@
       "version": 2616,
       "uid": "wSUi55kZ1UJBD6p",
       "runId": 974092256
+    },
+    "YKDiraz38Smh4qX": {
+      "name": "DOOM",
+      "char": 12,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 72,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        17,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "YKDiraz38Smh4qX",
+      "runId": 974092256
+    },
+    "5wF9V2Ur4TWr5G6": {
+      "name": "Adyn",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 11,
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        3,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "5wF9V2Ur4TWr5G6",
+      "runId": 974092256
     }
   }
 }
