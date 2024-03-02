@@ -217,13 +217,13 @@
       "name": "Andersony",
       "char": 12,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 57,
-      "bwep": 3,
+      "wep": 3,
+      "bwep": 57,
       "win": false,
-      "kills": 67,
+      "kills": 151,
       "ultra": 0,
       "skills": [
         28,
@@ -1118,6 +1118,26 @@
       "crown": 5,
       "version": 2616,
       "uid": "A0w8YZr6wk5I7sj",
+      "runId": 974092256
+    },
+    "UC285vb160TLb3q": {
+      "name": "pronin82",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 20,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "UC285vb160TLb3q",
       "runId": 974092256
     }
   }
