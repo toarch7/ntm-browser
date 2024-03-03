@@ -1339,16 +1339,17 @@
       "name": "Seekfellx",
       "char": 12,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 7,
-      "bwep": 17,
+      "wep": 3,
+      "bwep": 11,
       "win": false,
-      "kills": 57,
+      "kills": 81,
       "ultra": 0,
       "skills": [
-        28
+        28,
+        4
       ],
       "crown": 5,
       "version": 2616,
@@ -1394,6 +1395,27 @@
       "crown": 5,
       "version": 2616,
       "uid": "GGF4Fs2RC3o9vSy",
+      "runId": 974092256
+    },
+    "4TL5ezFPFb52LHZ": {
+      "name": "MaxRisat",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 20,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        3,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "4TL5ezFPFb52LHZ",
       "runId": 974092256
     }
   }
