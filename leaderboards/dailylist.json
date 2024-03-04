@@ -343,6 +343,109 @@
       "version": 2616,
       "uid": "GNBvF84rQF7zOu2",
       "runId": 2134651179
+    },
+    "v9WqG9E1U93yRex": {
+      "name": "Huesos",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 11,
+      "win": false,
+      "kills": 267,
+      "ultra": 0,
+      "skills": [
+        10,
+        1,
+        3,
+        28,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "v9WqG9E1U93yRex",
+      "runId": 2134651179
+    },
+    "87QK66Xwo7HgM83": {
+      "name": "mendoza",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 5,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        10,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "87QK66Xwo7HgM83",
+      "runId": 2134651179
+    },
+    "vdeH3138vuptTz0": {
+      "name": "Plagis",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 18,
+      "crown": 1,
+      "version": 2616,
+      "uid": "vdeH3138vuptTz0",
+      "runId": 2134651179
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 72,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        3,
+        10,
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 2134651179
+    },
+    "J9LAobh9bBb874U": {
+      "name": "Seeker90ьллр",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 3,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J9LAobh9bBb874U",
+      "runId": 2134651179
     }
   }
 }
