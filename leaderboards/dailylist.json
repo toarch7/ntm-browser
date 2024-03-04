@@ -1,4 +1,68 @@
 {
   "day": 4,
-  "entries": {}
+  "entries": {
+    "7Otb8MKme2Mzm07": {
+      "name": "soup",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 1,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7Otb8MKme2Mzm07",
+      "runId": 2134651179
+    },
+    "05b6aj5Ks3EmG2e": {
+      "name": "Darademo",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 21,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "05b6aj5Ks3EmG2e",
+      "runId": 2134651179
+    },
+    "9ezR32ssCk3277B": {
+      "name": "Andersony",
+      "char": 2,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 29,
+      "win": false,
+      "kills": 186,
+      "ultra": 0,
+      "skills": [
+        3,
+        10,
+        8,
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "9ezR32ssCk3277B",
+      "runId": 2134651179
+    }
+  }
 }
