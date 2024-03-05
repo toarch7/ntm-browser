@@ -325,6 +325,27 @@
       "version": 2616,
       "uid": "O81F41vv3XF8YAe",
       "runId": 631518379
+    },
+    "I2fYA9uzo9W8WpN": {
+      "name": "Senran",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 16,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "I2fYA9uzo9W8WpN",
+      "runId": 631518379
     }
   }
 }
