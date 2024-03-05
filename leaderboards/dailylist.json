@@ -1,4 +1,87 @@
 {
   "day": 5,
-  "entries": {}
+  "entries": {
+    "CpkW1j7svVUN5aR": {
+      "name": "dekene",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 21,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        17,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CpkW1j7svVUN5aR",
+      "runId": 302870038
+    },
+    "ox4QnUsFcA0T3mI": {
+      "name": "Rios",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 3,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ox4QnUsFcA0T3mI",
+      "runId": 302870038
+    },
+    "68E263q6CLx9KUU": {
+      "name": "sowk",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 27,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "68E263q6CLx9KUU",
+      "runId": 302870038
+    },
+    "I8nTeF2ODI58BD5": {
+      "name": "Leo_Pro_2016",
+      "char": 12,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 88,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        17,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "I8nTeF2ODI58BD5",
+      "runId": 302870038
+    }
+  }
 }
