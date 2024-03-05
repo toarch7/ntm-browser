@@ -367,6 +367,52 @@
       "version": 2616,
       "uid": "HJ7G87oXRypnPMd",
       "runId": 302870038
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        10,
+        28,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 302870038
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 3,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        10,
+        3,
+        14,
+        12,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 302870038
     }
   }
 }
