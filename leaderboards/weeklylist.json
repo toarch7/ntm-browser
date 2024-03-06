@@ -143,18 +143,20 @@
       "name": "Andersony",
       "char": 10,
       "skin": true,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 16,
+      "wep": 13,
+      "bwep": 112,
       "win": false,
-      "kills": 56,
+      "kills": 152,
       "ultra": 0,
       "skills": [
         1,
         13,
-        28
+        28,
+        10,
+        23
       ],
       "crown": 12,
       "version": 2616,
@@ -512,6 +514,54 @@
       "crown": 12,
       "version": 2616,
       "uid": "AbdmdFG2w5yF6kL",
+      "runId": 631518379
+    },
+    "BBQ6o8B029Q01rW": {
+      "name": "Bakurama1234",
+      "char": 10,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 104,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        13
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "BBQ6o8B029Q01rW",
+      "runId": 631518379
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "1000THR",
+      "char": 10,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 90,
+      "win": false,
+      "kills": 269,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        27,
+        22,
+        4,
+        25,
+        21
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
       "runId": 631518379
     }
   }
