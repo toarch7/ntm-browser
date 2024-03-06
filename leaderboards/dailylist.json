@@ -385,6 +385,46 @@
       "version": 2616,
       "uid": "13P3br4eB648BtR",
       "runId": 1293513230
+    },
+    "L5PWX28djTR0kRa": {
+      "name": "Se",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 13,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        25,
+        2,
+        7,
+        23,
+        22
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "L5PWX28djTR0kRa",
+      "runId": 1293513230
+    },
+    "1pg0055Q4SHZ44T": {
+      "name": "capsatsuckblood",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "1pg0055Q4SHZ44T",
+      "runId": 1293513230
     }
   }
 }
