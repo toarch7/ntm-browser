@@ -96,6 +96,64 @@
       "version": 2616,
       "uid": "Y1ej0l1bulUs28q",
       "runId": 518686394
+    },
+    "vFRfHma0lH1WSx5": {
+      "name": "pipiandkaki",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 19,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "vFRfHma0lH1WSx5",
+      "runId": 518686394
+    },
+    "bqmolBJK12C78Fr": {
+      "name": "KillYourself",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "bqmolBJK12C78Fr",
+      "runId": 518686394
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        8,
+        2,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 518686394
     }
   }
 }
