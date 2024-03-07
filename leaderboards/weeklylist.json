@@ -882,17 +882,19 @@
       "name": "apg250109",
       "char": 10,
       "skin": true,
-      "area": 2,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
+      "wep": 41,
       "bwep": 30,
       "win": false,
-      "kills": 75,
+      "kills": 153,
       "ultra": 0,
       "skills": [
         1,
-        7
+        7,
+        27,
+        26
       ],
       "crown": 12,
       "version": 2616,
@@ -1077,6 +1079,27 @@
       "crown": 12,
       "version": 2616,
       "uid": "9np2sP6DW37bkVK",
+      "runId": 631518379
+    },
+    "G5x50RoKs2251Oc": {
+      "name": "Isaac",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 104,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "G5x50RoKs2251Oc",
       "runId": 631518379
     }
   }
