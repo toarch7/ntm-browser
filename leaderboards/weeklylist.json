@@ -29,19 +29,20 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 37,
-      "bwep": 116,
+      "wep": 90,
+      "bwep": 24,
       "win": false,
-      "kills": 239,
+      "kills": 253,
       "ultra": 0,
       "skills": [
         1,
-        7,
+        25,
+        6,
         27,
         10,
         22,
-        4,
-        6
+        14,
+        16
       ],
       "crown": 12,
       "version": 2616,
@@ -787,6 +788,28 @@
       "crown": 12,
       "version": 2616,
       "uid": "85Lyb6wbro3MDp8",
+      "runId": 631518379
+    },
+    "18Oecb6xS6v9FNv": {
+      "name": "furro7w7",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 104,
+      "bwep": 4,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        28
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "18Oecb6xS6v9FNv",
       "runId": 631518379
     }
   }
