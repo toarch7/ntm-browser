@@ -311,6 +311,55 @@
       "version": 2616,
       "uid": "7A2LaIWONrUqNwC",
       "runId": 1324101690
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "1000THR",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 89,
+      "win": false,
+      "kills": 339,
+      "ultra": 0,
+      "skills": [
+        1,
+        22,
+        17,
+        8,
+        23,
+        9,
+        21,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
+      "runId": 1324101690
+    },
+    "9ezR32ssCk3277B": {
+      "name": "Andersony",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        13,
+        23,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9ezR32ssCk3277B",
+      "runId": 1324101690
     }
   }
 }
