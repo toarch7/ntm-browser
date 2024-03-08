@@ -1,4 +1,85 @@
 {
   "day": 8,
-  "entries": {}
+  "entries": {
+    "1pg0055Q4SHZ44T": {
+      "name": "capsatsuckblood",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 5,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1pg0055Q4SHZ44T",
+      "runId": 1324101690
+    },
+    "05b6aj5Ks3EmG2e": {
+      "name": "Darademo",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 28,
+      "crown": 1,
+      "version": 2616,
+      "uid": "05b6aj5Ks3EmG2e",
+      "runId": 1324101690
+    },
+    "FBT9ViR6SFCj8yZ": {
+      "name": "elias656513",
+      "char": 2,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 72,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "FBT9ViR6SFCj8yZ",
+      "runId": 1324101690
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 75,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1324101690
+    }
+  }
 }
