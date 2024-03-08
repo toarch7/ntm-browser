@@ -1306,6 +1306,28 @@
       "version": 2616,
       "uid": "3v0o5Fo40B18MEE",
       "runId": 631518379
+    },
+    "00A0jJ1Gi3978v2": {
+      "name": "CheeseConsumer",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 10,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        13
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "00A0jJ1Gi3978v2",
+      "runId": 631518379
     }
   }
 }
