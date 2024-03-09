@@ -1517,20 +1517,45 @@
       "char": 10,
       "skin": true,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 13,
-      "bwep": 75,
+      "wep": 72,
+      "bwep": 41,
       "win": false,
-      "kills": 107,
+      "kills": 150,
       "ultra": 0,
       "skills": [
         1,
-        7
+        7,
+        27
       ],
       "crown": 12,
       "version": 2616,
       "uid": "l83YXrv7nrr1YO5",
+      "runId": 631518379
+    },
+    "wMoFZw0K728rw20": {
+      "name": "Jerak",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 22,
+      "win": false,
+      "kills": 169,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        10,
+        9,
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "wMoFZw0K728rw20",
       "runId": 631518379
     }
   }
