@@ -1129,13 +1129,13 @@
       "name": "tuchka",
       "char": 10,
       "skin": true,
-      "area": 104,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 61,
-      "bwep": 4,
+      "wep": 4,
+      "bwep": 66,
       "win": false,
-      "kills": 138,
+      "kills": 175,
       "ultra": 0,
       "skills": [
         1,
@@ -1465,6 +1465,48 @@
       "crown": 12,
       "version": 2616,
       "uid": "Y8hdSe1pqS7n235",
+      "runId": 631518379
+    },
+    "M3TvQm0vHlevBeb": {
+      "name": "Corvallis",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 75,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "M3TvQm0vHlevBeb",
+      "runId": 631518379
+    },
+    "1R0bZX0YdhGwkQ3": {
+      "name": "Seeker41q",
+      "char": 10,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 69,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        1,
+        13
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "1R0bZX0YdhGwkQ3",
       "runId": 631518379
     }
   }
