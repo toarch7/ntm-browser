@@ -508,6 +508,72 @@
       "version": 2616,
       "uid": "10ucxW79zI6tl8R",
       "runId": 351205973
+    },
+    "1pg0055Q4SHZ44T": {
+      "name": "capsatsuckblood",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 27,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        16,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1pg0055Q4SHZ44T",
+      "runId": 351205973
+    },
+    "vdeH3138vuptTz0": {
+      "name": "Plagis",
+      "char": 12,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 81,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        10,
+        3,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "vdeH3138vuptTz0",
+      "runId": 351205973
+    },
+    "l83YXrv7nrr1YO5": {
+      "name": "MadaVel",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 6,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        21,
+        16,
+        29,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "l83YXrv7nrr1YO5",
+      "runId": 351205973
     }
   }
 }
