@@ -326,6 +326,48 @@
       "version": 2616,
       "uid": "HJ7G87oXRypnPMd",
       "runId": 351205973
+    },
+    "05b6aj5Ks3EmG2e": {
+      "name": "Darademo",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 27,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        10,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "05b6aj5Ks3EmG2e",
+      "runId": 351205973
+    },
+    "hpZ5Y6M9A401v39": {
+      "name": "Slizne_grad",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 39,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        23,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "hpZ5Y6M9A401v39",
+      "runId": 351205973
     }
   }
 }

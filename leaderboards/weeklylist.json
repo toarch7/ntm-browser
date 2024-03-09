@@ -1379,22 +1379,46 @@
       "name": "ben10000",
       "char": 10,
       "skin": true,
-      "area": 104,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 30,
-      "bwep": 69,
+      "wep": 61,
+      "bwep": 12,
       "win": false,
-      "kills": 156,
+      "kills": 247,
       "ultra": 0,
       "skills": [
         1,
         7,
-        27
+        27,
+        9,
+        4,
+        6
       ],
       "crown": 12,
       "version": 2616,
       "uid": "CM30W3IU3LI73fE",
+      "runId": 631518379
+    },
+    "DJ28B2qgW4FEk8O": {
+      "name": "Dejan",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 104,
+      "bwep": 4,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "DJ28B2qgW4FEk8O",
       "runId": 631518379
     }
   }
