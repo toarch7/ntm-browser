@@ -594,6 +594,49 @@
       "version": 2616,
       "uid": "sRMH5ECBTt1dcr6",
       "runId": 351205973
+    },
+    "762rb7r97kIUm9J": {
+      "name": "migby",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 37,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        10,
+        23,
+        16,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "762rb7r97kIUm9J",
+      "runId": 351205973
+    },
+    "HPq07AWj6MWLWQw": {
+      "name": "STRVACT",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 18,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HPq07AWj6MWLWQw",
+      "runId": 351205973
     }
   }
 }
