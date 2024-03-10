@@ -1582,6 +1582,27 @@
       "version": 2616,
       "uid": "76N1MQbn172078K",
       "runId": 631518379
+    },
+    "0Eoja0zKI9xTxd2": {
+      "name": "OrdinaryGuy",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 3,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        1,
+        13
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "0Eoja0zKI9xTxd2",
+      "runId": 631518379
     }
   }
 }
