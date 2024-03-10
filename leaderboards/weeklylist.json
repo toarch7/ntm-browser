@@ -123,17 +123,18 @@
       "name": "челик",
       "char": 10,
       "skin": true,
-      "area": 2,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 3,
-      "bwep": 21,
+      "wep": 13,
+      "bwep": 30,
       "win": false,
-      "kills": 73,
+      "kills": 145,
       "ultra": 0,
       "skills": [
         1,
-        7
+        7,
+        27
       ],
       "crown": 12,
       "version": 2616,
@@ -1691,6 +1692,27 @@
       "crown": 12,
       "version": 2616,
       "uid": "1Vlw0289tN3q3UT",
+      "runId": 631518379
+    },
+    "bSxFp33o7l4eez4": {
+      "name": "ññññ",
+      "char": 10,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 4,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "bSxFp33o7l4eez4",
       "runId": 631518379
     }
   }
