@@ -682,6 +682,48 @@
       "version": 2616,
       "uid": "6105A5fGKJZ3rPQ",
       "runId": 664607208
+    },
+    "7Otb8MKme2Mzm07": {
+      "name": "soup",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        22,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7Otb8MKme2Mzm07",
+      "runId": 664607208
+    },
+    "739C22dsi5Y0p50": {
+      "name": "fer76",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        3,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "739C22dsi5Y0p50",
+      "runId": 664607208
     }
   }
 }
