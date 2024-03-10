@@ -1646,6 +1646,29 @@
       "version": 2616,
       "uid": "tCb7rvlRuvE297m",
       "runId": 631518379
+    },
+    "GrdXU84JB7jwC7y": {
+      "name": "Buttbuddies",
+      "char": 10,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 11,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        23,
+        13,
+        28,
+        22
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "GrdXU84JB7jwC7y",
+      "runId": 631518379
     }
   }
 }
