@@ -1651,23 +1651,46 @@
       "name": "Buttbuddies",
       "char": 10,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 13,
-      "bwep": 11,
+      "wep": 3,
+      "bwep": 7,
       "win": false,
-      "kills": 134,
+      "kills": 140,
       "ultra": 0,
       "skills": [
-        23,
+        1,
         13,
         28,
-        22
+        23
       ],
       "crown": 12,
       "version": 2616,
       "uid": "GrdXU84JB7jwC7y",
+      "runId": 631518379
+    },
+    "1Vlw0289tN3q3UT": {
+      "name": "chicanos",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 104,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        1,
+        25,
+        6,
+        10
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "1Vlw0289tN3q3UT",
       "runId": 631518379
     }
   }
