@@ -423,6 +423,49 @@
       "version": 2616,
       "uid": "n5BA29aG845IhTO",
       "runId": 664607208
+    },
+    "I8l7XPVc6I92Vl6": {
+      "name": "Spoilfish",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 58,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        22,
+        27,
+        7,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "I8l7XPVc6I92Vl6",
+      "runId": 664607208
+    },
+    "vdeH3138vuptTz0": {
+      "name": "Plagis",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 17,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "vdeH3138vuptTz0",
+      "runId": 664607208
     }
   }
 }
