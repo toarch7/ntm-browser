@@ -1760,6 +1760,27 @@
       "version": 2616,
       "uid": "L7UNSGORlRw2uC9",
       "runId": 631518379
+    },
+    "WsVBlnL7PKRIrUx": {
+      "name": "dcr",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "WsVBlnL7PKRIrUx",
+      "runId": 631518379
     }
   }
 }
