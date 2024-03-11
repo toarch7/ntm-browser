@@ -202,6 +202,56 @@
       "version": 2616,
       "uid": "lslGr25J8aR7P0U",
       "runId": 1499966276
+    },
+    "d4fGS8B2VFU6YFB": {
+      "name": "yes",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 62,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        27,
+        6,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "d4fGS8B2VFU6YFB",
+      "runId": 1499966276
+    },
+    "BGlj46My038e60S": {
+      "name": "Zhubakka_2.0",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 62,
+      "bwep": 55,
+      "win": false,
+      "kills": 834,
+      "ultra": 2,
+      "skills": [
+        27,
+        9,
+        1,
+        17,
+        19,
+        6,
+        24,
+        10,
+        28
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "BGlj46My038e60S",
+      "runId": 1499966276
     }
   }
 }
