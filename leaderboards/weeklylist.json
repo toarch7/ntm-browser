@@ -281,6 +281,55 @@
       "version": 2616,
       "uid": "vELAgQetJhqt73Z",
       "runId": 108938395
+    },
+    "XJxsR3XS4PENppS": {
+      "name": "PopCat",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 90,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        19
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "XJxsR3XS4PENppS",
+      "runId": 108938395
+    },
+    "BGlj46My038e60S": {
+      "name": "Zhubakka_2.0",
+      "char": 4,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 83,
+      "bwep": 77,
+      "win": false,
+      "kills": 424,
+      "ultra": 1,
+      "skills": [
+        1,
+        9,
+        13,
+        27,
+        4,
+        25,
+        16,
+        23
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "BGlj46My038e60S",
+      "runId": 108938395
     }
   }
 }
