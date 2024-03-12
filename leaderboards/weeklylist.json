@@ -219,18 +219,19 @@
       "name": "Spoilfish",
       "char": 4,
       "skin": true,
-      "area": 2,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
-      "bwep": 90,
+      "wep": 90,
+      "bwep": 13,
       "win": false,
-      "kills": 61,
+      "kills": 172,
       "ultra": 0,
       "skills": [
-        12,
         4,
-        25
+        1,
+        9,
+        13
       ],
       "crown": 6,
       "version": 2616,
@@ -470,6 +471,33 @@
       "crown": 6,
       "version": 2616,
       "uid": "hG1hn8Z8McdODRE",
+      "runId": 108938395
+    },
+    "M37r0hlvHhYgQ5m": {
+      "name": "EugeshA",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 35,
+      "win": false,
+      "kills": 733,
+      "ultra": 1,
+      "skills": [
+        4,
+        1,
+        25,
+        6,
+        13,
+        23,
+        7,
+        27
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "M37r0hlvHhYgQ5m",
       "runId": 108938395
     }
   }
