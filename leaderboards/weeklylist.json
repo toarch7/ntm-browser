@@ -1,4 +1,51 @@
 {
   "seed": 108938395,
-  "entries": {}
+  "entries": {
+    "UCX2ma9pdkUf5aL": {
+      "name": "Y.V.",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 7,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        9
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "UCX2ma9pdkUf5aL",
+      "runId": 108938395
+    },
+    "04zPBswid860FXQ": {
+      "name": "Aera",
+      "char": 4,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 90,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        7,
+        10,
+        8
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "04zPBswid860FXQ",
+      "runId": 108938395
+    }
+  }
 }
