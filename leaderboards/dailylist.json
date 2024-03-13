@@ -556,6 +556,51 @@
       "version": 2616,
       "uid": "762rb7r97kIUm9J",
       "runId": 1768394371
+    },
+    "RwSmFhfr4aUyjy4": {
+      "name": "Thrones616",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
+      "runId": 1768394371
+    },
+    "sR57FHtdL3Evdz2": {
+      "name": "asan",
+      "char": 8,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 66,
+      "win": false,
+      "kills": 269,
+      "ultra": 0,
+      "skills": [
+        22,
+        17,
+        8,
+        21,
+        1,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sR57FHtdL3Evdz2",
+      "runId": 1768394371
     }
   }
 }
