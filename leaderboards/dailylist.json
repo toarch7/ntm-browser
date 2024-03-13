@@ -1,4 +1,45 @@
 {
   "day": 13,
-  "entries": {}
+  "entries": {
+    "CRn46x0N8vgqGVl": {
+      "name": "kawashaki",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 17,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CRn46x0N8vgqGVl",
+      "runId": 1768394371
+    },
+    "PCZhog82lvXtc4f": {
+      "name": "tommybeau",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 13,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "PCZhog82lvXtc4f",
+      "runId": 1768394371
+    }
+  }
 }
