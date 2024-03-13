@@ -649,17 +649,19 @@
       "name": "patrick",
       "char": 4,
       "skin": true,
-      "area": 2,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 16,
+      "wep": 63,
       "bwep": 69,
       "win": false,
-      "kills": 67,
+      "kills": 170,
       "ultra": 0,
       "skills": [
         1,
-        7
+        7,
+        12,
+        9
       ],
       "crown": 6,
       "version": 2616,
