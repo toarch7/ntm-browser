@@ -66,6 +66,63 @@
       "version": 2616,
       "uid": "13P3br4eB648BtR",
       "runId": 1768394371
+    },
+    "05b6aj5Ks3EmG2e": {
+      "name": "Darademo",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "05b6aj5Ks3EmG2e",
+      "runId": 1768394371
+    },
+    "7Otb8MKme2Mzm07": {
+      "name": "soup",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 22,
+      "crown": 1,
+      "version": 2616,
+      "uid": "7Otb8MKme2Mzm07",
+      "runId": 1768394371
+    },
+    "Y1ej0l1bulUs28q": {
+      "name": "пидарас228",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 17,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        22,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y1ej0l1bulUs28q",
+      "runId": 1768394371
     }
   }
 }
