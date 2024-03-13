@@ -406,6 +406,52 @@
       "version": 2616,
       "uid": "Vm7sS83m0i5xL27",
       "runId": 1768394371
+    },
+    "316QNl3ACEA87zy": {
+      "name": "VALE",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "316QNl3ACEA87zy",
+      "runId": 1768394371
+    },
+    "94XE1O4y12I8NfM": {
+      "name": "SvinMaxim",
+      "char": 11,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 35,
+      "win": false,
+      "kills": 398,
+      "ultra": 0,
+      "skills": [
+        23,
+        14,
+        4,
+        21,
+        1,
+        9,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "94XE1O4y12I8NfM",
+      "runId": 1768394371
     }
   }
 }
