@@ -1,4 +1,69 @@
 {
   "day": 14,
-  "entries": {}
+  "entries": {
+    "oe0tJOOaYb9gNdq": {
+      "name": "ice_nine",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 17,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        12,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oe0tJOOaYb9gNdq",
+      "runId": 1598441130
+    },
+    "WsVBlnL7PKRIrUx": {
+      "name": "dcr",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "WsVBlnL7PKRIrUx",
+      "runId": 1598441130
+    },
+    "d2OI8nF48A5k208": {
+      "name": "Bubun0id",
+      "char": 8,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 63,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        3,
+        13,
+        4,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "d2OI8nF48A5k208",
+      "runId": 1598441130
+    }
+  }
 }
