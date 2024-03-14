@@ -417,6 +417,52 @@
       "version": 2616,
       "uid": "I8l7XPVc6I92Vl6",
       "runId": 1598441130
+    },
+    "3087E1ne0JJwC4w": {
+      "name": "Agnis",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 17,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        3,
+        12,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3087E1ne0JJwC4w",
+      "runId": 1598441130
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 72,
+      "bwep": 4,
+      "win": false,
+      "kills": 268,
+      "ultra": 0,
+      "skills": [
+        3,
+        19,
+        4,
+        9,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 1598441130
     }
   }
 }
