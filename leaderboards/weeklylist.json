@@ -172,17 +172,25 @@
       "name": "Morlum",
       "char": 4,
       "skin": true,
-      "area": 2,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
       "wep": 90,
-      "bwep": 23,
+      "bwep": 37,
       "win": false,
-      "kills": 80,
-      "ultra": 0,
+      "kills": 299,
+      "ultra": 2,
       "skills": [
+        1,
+        9,
         10,
-        25
+        27,
+        4,
+        25,
+        19,
+        3,
+        26,
+        7
       ],
       "crown": 6,
       "version": 2616,
@@ -1194,6 +1202,52 @@
       "crown": 6,
       "version": 2616,
       "uid": "pH6jSZRtBbGFjs0",
+      "runId": 108938395
+    },
+    "wJz8MJ40s6En1kF": {
+      "name": "MIX'er|Rogue",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 90,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        1,
+        25,
+        16,
+        13
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "wJz8MJ40s6En1kF",
+      "runId": 108938395
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 69,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        7,
+        10
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
       "runId": 108938395
     }
   }
