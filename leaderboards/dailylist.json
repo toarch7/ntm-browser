@@ -655,6 +655,49 @@
       "version": 2616,
       "uid": "3P4vjAGAu6QZcmR",
       "runId": 1598441130
+    },
+    "3qRzWMq2D2ZC1P9": {
+      "name": "DonPeyote",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 7,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3qRzWMq2D2ZC1P9",
+      "runId": 1598441130
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 19,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        3,
+        12,
+        4,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1598441130
     }
   }
 }
