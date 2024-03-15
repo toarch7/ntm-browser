@@ -275,6 +275,55 @@
       "version": 2616,
       "uid": "04zPBswid860FXQ",
       "runId": 215839689
+    },
+    "ftkTV2OQ99933O4": {
+      "name": "Sharashckin",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 35,
+      "bwep": 13,
+      "win": false,
+      "kills": 628,
+      "ultra": 2,
+      "skills": [
+        25,
+        7,
+        1,
+        4,
+        9,
+        10,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ftkTV2OQ99933O4",
+      "runId": 215839689
+    },
+    "7A2LaIWONrUqNwC": {
+      "name": "Hiajen",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 7,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        6,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7A2LaIWONrUqNwC",
+      "runId": 215839689
     }
   }
 }
