@@ -1821,6 +1821,30 @@
       "version": 2616,
       "uid": "I6o9Clz6Y0yfM5m",
       "runId": 108938395
+    },
+    "76N1MQbn172078K": {
+      "name": "Orpheus",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 20,
+      "win": false,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        12,
+        16,
+        4
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "76N1MQbn172078K",
+      "runId": 108938395
     }
   }
 }

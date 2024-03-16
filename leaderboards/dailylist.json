@@ -144,6 +144,70 @@
       "version": 2616,
       "uid": "4N3nLcqx43V3Ta1",
       "runId": 43749486
+    },
+    "M37r0hlvHhYgQ5m": {
+      "name": "EugeshA",
+      "char": 15,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 31,
+      "win": false,
+      "kills": 317,
+      "ultra": 0,
+      "skills": [
+        22,
+        4,
+        25,
+        26,
+        1,
+        27,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "M37r0hlvHhYgQ5m",
+      "runId": 43749486
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 6,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 116,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        22,
+        4,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 43749486
+    },
+    "76N1MQbn172078K": {
+      "name": "Orpheus",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "76N1MQbn172078K",
+      "runId": 43749486
     }
   }
 }
