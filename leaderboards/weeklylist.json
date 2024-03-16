@@ -1845,6 +1845,31 @@
       "version": 2616,
       "uid": "76N1MQbn172078K",
       "runId": 108938395
+    },
+    "7Y5v9kMU0MK3Q6U": {
+      "name": "takeda_task",
+      "char": 4,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 77,
+      "win": false,
+      "kills": 286,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        12,
+        23,
+        4,
+        27
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "7Y5v9kMU0MK3Q6U",
+      "runId": 108938395
     }
   }
 }
