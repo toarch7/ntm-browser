@@ -1353,19 +1353,20 @@
       "name": "Theslinger",
       "char": 4,
       "skin": true,
-      "area": 104,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 57,
-      "bwep": 90,
+      "wep": 4,
+      "bwep": 23,
       "win": false,
-      "kills": 172,
+      "kills": 193,
       "ultra": 0,
       "skills": [
         1,
         7,
         10,
-        16
+        16,
+        19
       ],
       "crown": 6,
       "version": 2616,
@@ -1874,6 +1875,27 @@
       "crown": 6,
       "version": 2616,
       "uid": "7Y5v9kMU0MK3Q6U",
+      "runId": 108938395
+    },
+    "4N3nLcqx43V3Ta1": {
+      "name": "Seeker41",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 0,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        10,
+        25
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "4N3nLcqx43V3Ta1",
       "runId": 108938395
     }
   }
