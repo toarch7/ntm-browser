@@ -67,6 +67,48 @@
       "version": 2616,
       "uid": "OG6oUWfDQdLREP4",
       "runId": 2014296873
+    },
+    "b4nCMzs6g4jm9V6": {
+      "name": "Seekfellx",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "b4nCMzs6g4jm9V6",
+      "runId": 2014296873
+    },
+    "I8l7XPVc6I92Vl6": {
+      "name": "Spoilfish",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 0,
+      "win": false,
+      "kills": 354,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        2,
+        14,
+        27,
+        21,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "I8l7XPVc6I92Vl6",
+      "runId": 2014296873
     }
   }
 }
