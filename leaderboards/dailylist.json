@@ -374,6 +374,51 @@
       "version": 2616,
       "uid": "sR57FHtdL3Evdz2",
       "runId": 2014296873
+    },
+    "gk1fKmp8fDB6o3l": {
+      "name": "DeDoc",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 69,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gk1fKmp8fDB6o3l",
+      "runId": 2014296873
+    },
+    "DMJSvr5GIKPsG88": {
+      "name": "M.rfox1973tV",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 5,
+      "win": false,
+      "kills": 165,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        10,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "DMJSvr5GIKPsG88",
+      "runId": 2014296873
     }
   }
 }
