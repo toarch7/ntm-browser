@@ -531,6 +531,52 @@
       "version": 2616,
       "uid": "Y1am1K025C7yYuE",
       "runId": 2014296873
+    },
+    "7c78RgVbdGYA80c": {
+      "name": "SKU",
+      "char": 11,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 12,
+      "bwep": 9,
+      "win": false,
+      "kills": 740,
+      "ultra": 1,
+      "skills": [
+        3,
+        4,
+        22,
+        27,
+        21,
+        25,
+        23
+      ],
+      "crown": 7,
+      "version": 2620,
+      "uid": "7c78RgVbdGYA80c",
+      "runId": 2014296873
+    },
+    "68E263q6CLx9KUU": {
+      "name": "sowk",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "68E263q6CLx9KUU",
+      "runId": 2014296873
     }
   }
 }
