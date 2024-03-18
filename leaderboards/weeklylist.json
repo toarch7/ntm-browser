@@ -1947,6 +1947,31 @@
       "version": 2616,
       "uid": "Y1am1K025C7yYuE",
       "runId": 108938395
+    },
+    "53VfCtXm4lH89L2": {
+      "name": "Corveos",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 57,
+      "win": false,
+      "kills": 229,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        12,
+        23,
+        4,
+        27
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "53VfCtXm4lH89L2",
+      "runId": 108938395
     }
   }
 }
