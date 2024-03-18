@@ -245,6 +245,52 @@
       "version": 2616,
       "uid": "739C22dsi5Y0p50",
       "runId": 2071921597
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "1000THR",
+      "char": 15,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 23,
+      "win": false,
+      "kills": 386,
+      "ultra": 0,
+      "skills": [
+        23,
+        1,
+        21,
+        8,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
+      "runId": 2071921597
+    },
+    "oe0tJOOaYb9gNdq": {
+      "name": "ice_nine",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 17,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oe0tJOOaYb9gNdq",
+      "runId": 2071921597
     }
   }
 }
