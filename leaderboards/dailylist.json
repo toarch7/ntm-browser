@@ -306,6 +306,50 @@
       "version": 2616,
       "uid": "9np2sP6DW37bkVK",
       "runId": 1877397569
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 36,
+      "bwep": 62,
+      "win": false,
+      "kills": 183,
+      "ultra": 0,
+      "skills": [
+        14,
+        16,
+        1,
+        27,
+        12
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1877397569
+    },
+    "T7A7lNI3tT44BS8": {
+      "name": "M3MO",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 21,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "T7A7lNI3tT44BS8",
+      "runId": 1877397569
     }
   }
 }
