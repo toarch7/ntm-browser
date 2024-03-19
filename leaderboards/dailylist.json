@@ -1,4 +1,49 @@
 {
   "day": 19,
-  "entries": {}
+  "entries": {
+    "e6jF3SW0dz4ooir": {
+      "name": "tuchka",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 190,
+      "ultra": 0,
+      "skills": [
+        14,
+        16,
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "e6jF3SW0dz4ooir",
+      "runId": 1877397569
+    },
+    "uGG7nH7E6C32TjO": {
+      "name": "jhoniel",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 21,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        14,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uGG7nH7E6C32TjO",
+      "runId": 1877397569
+    }
+  }
 }
