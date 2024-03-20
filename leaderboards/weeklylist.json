@@ -433,17 +433,17 @@
       "char": 7,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 13,
-      "bwep": 17,
+      "wep": 89,
+      "bwep": 1,
       "win": false,
-      "kills": 99,
+      "kills": 123,
       "ultra": 0,
       "skills": [
         8,
         1,
-        22
+        16
       ],
       "crown": 12,
       "version": 2616,
@@ -786,6 +786,28 @@
       "crown": 12,
       "version": 2616,
       "uid": "2EYgnz2zeLKamY7",
+      "runId": 505990230
+    },
+    "wJz8MJ40s6En1kF": {
+      "name": "MIX'er|Rogue",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 89,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        16
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "wJz8MJ40s6En1kF",
       "runId": 505990230
     }
   }
