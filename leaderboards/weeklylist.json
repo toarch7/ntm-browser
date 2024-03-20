@@ -1055,6 +1055,47 @@
       "version": 2616,
       "uid": "Vm7sS83m0i5xL27",
       "runId": 505990230
+    },
+    "xMhIzG51UGJ72Un": {
+      "name": "quirrel",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 89,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        27,
+        23
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "xMhIzG51UGJ72Un",
+      "runId": 505990230
+    },
+    "4OCU1ZIz9f6b239": {
+      "name": "Kura",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 89,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "4OCU1ZIz9f6b239",
+      "runId": 505990230
     }
   }
 }
