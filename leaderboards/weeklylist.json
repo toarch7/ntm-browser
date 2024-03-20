@@ -48,19 +48,21 @@
       "name": "Dragon",
       "char": 7,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 3,
       "loops": 0,
       "wep": 89,
-      "bwep": 117,
+      "bwep": 58,
       "win": false,
-      "kills": 140,
+      "kills": 260,
       "ultra": 0,
       "skills": [
         8,
         27,
-        22,
-        9
+        16,
+        9,
+        28,
+        7
       ],
       "crown": 12,
       "version": 2616,
@@ -940,6 +942,27 @@
       "crown": 12,
       "version": 2616,
       "uid": "4TL5ezFPFb52LHZ",
+      "runId": 505990230
+    },
+    "YKDiraz38Smh4qX": {
+      "name": "DOOM",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 2,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        8,
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "YKDiraz38Smh4qX",
       "runId": 505990230
     }
   }
