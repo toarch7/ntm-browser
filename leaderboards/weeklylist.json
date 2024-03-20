@@ -964,6 +964,50 @@
       "version": 2616,
       "uid": "YKDiraz38Smh4qX",
       "runId": 505990230
+    },
+    "4rb8kr5xO7p82U6": {
+      "name": "Puri",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 89,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        8,
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "4rb8kr5xO7p82U6",
+      "runId": 505990230
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 6,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        19,
+        26
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 505990230
     }
   }
 }
