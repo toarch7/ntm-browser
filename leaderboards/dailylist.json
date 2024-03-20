@@ -176,6 +176,49 @@
       "version": 2616,
       "uid": "oOeWIg7s3b0S8d1",
       "runId": 1285867385
+    },
+    "oe0tJOOaYb9gNdq": {
+      "name": "ice_nine",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        25,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oe0tJOOaYb9gNdq",
+      "runId": 1285867385
+    },
+    "gk1fKmp8fDB6o3l": {
+      "name": "DeDoc",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 5,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gk1fKmp8fDB6o3l",
+      "runId": 1285867385
     }
   }
 }
