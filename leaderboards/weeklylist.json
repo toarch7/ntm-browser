@@ -830,6 +830,52 @@
       "version": 2616,
       "uid": "g7XvhY7c4eUn7U8",
       "runId": 505990230
+    },
+    "0L5QZ6G8duaw51l": {
+      "name": "Lupastonks",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 6,
+      "win": false,
+      "kills": 225,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        23,
+        9,
+        28,
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "0L5QZ6G8duaw51l",
+      "runId": 505990230
+    },
+    "omZ12rhMYLD191e": {
+      "name": "Clunky",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 66,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        27,
+        23
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "omZ12rhMYLD191e",
+      "runId": 505990230
     }
   }
 }
