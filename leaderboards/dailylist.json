@@ -1,4 +1,94 @@
 {
   "day": 20,
-  "entries": {}
+  "entries": {
+    "9ECmTs12UEFFA6M": {
+      "name": "Dragon",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 106,
+      "bwep": 22,
+      "win": false,
+      "kills": 514,
+      "ultra": 1,
+      "skills": [
+        22,
+        4,
+        27,
+        26,
+        8,
+        21,
+        10
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "9ECmTs12UEFFA6M",
+      "runId": 1285867385
+    },
+    "Y1ej0l1bulUs28q": {
+      "name": "пидарас228",
+      "char": 12,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 13,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        22,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y1ej0l1bulUs28q",
+      "runId": 1285867385
+    },
+    "a576y2Tg2GA2cZp": {
+      "name": "TheGuy",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a576y2Tg2GA2cZp",
+      "runId": 1285867385
+    },
+    "S75WERQ4sP0JYaa": {
+      "name": "Yanwsmr",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 5,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "S75WERQ4sP0JYaa",
+      "runId": 1285867385
+    }
+  }
 }
