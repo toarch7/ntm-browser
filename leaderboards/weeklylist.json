@@ -822,14 +822,14 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 1,
-      "bwep": 6,
+      "wep": 6,
+      "bwep": 89,
       "win": false,
-      "kills": 66,
+      "kills": 74,
       "ultra": 0,
       "skills": [
         27,
-        1
+        10
       ],
       "crown": 12,
       "version": 2616,
@@ -1248,6 +1248,29 @@
       "crown": 12,
       "version": 2616,
       "uid": "B05RuW68j136B5e",
+      "runId": 505990230
+    },
+    "j7nPnT7YEbkJ974": {
+      "name": "rem",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 89,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        16,
+        9
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "j7nPnT7YEbkJ974",
       "runId": 505990230
     }
   }
