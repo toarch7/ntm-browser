@@ -1294,6 +1294,50 @@
       "version": 2616,
       "uid": "2mKp5xve5w33952",
       "runId": 505990230
+    },
+    "Y1am1K025C7yYuE": {
+      "name": "gosha",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 2,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        27,
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "Y1am1K025C7yYuE",
+      "runId": 505990230
+    },
+    "00A0jJ1Gi3978v2": {
+      "name": "CheeseConsumer",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 75,
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        2,
+        1,
+        16,
+        6
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "00A0jJ1Gi3978v2",
+      "runId": 505990230
     }
   }
 }
