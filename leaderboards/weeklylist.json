@@ -1387,6 +1387,27 @@
       "version": 2616,
       "uid": "sR57FHtdL3Evdz2",
       "runId": 505990230
+    },
+    "VLuUoCamSA075li": {
+      "name": "MR_GG",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 13,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        27,
+        23
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "VLuUoCamSA075li",
+      "runId": 505990230
     }
   }
 }
