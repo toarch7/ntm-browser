@@ -1454,6 +1454,27 @@
       "version": 2616,
       "uid": "wMoFZw0K728rw20",
       "runId": 505990230
+    },
+    "XJxsR3XS4PENppS": {
+      "name": "PopCat",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 13,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        27,
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "XJxsR3XS4PENppS",
+      "runId": 505990230
     }
   }
 }
