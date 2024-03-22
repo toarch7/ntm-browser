@@ -574,6 +574,57 @@
       "version": 2616,
       "uid": "1byD705LbSArxaP",
       "runId": 1799155530
+    },
+    "CM30W3IU3LI73fE": {
+      "name": "ben10000",
+      "char": 3,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 76,
+      "win": false,
+      "kills": 296,
+      "ultra": 0,
+      "skills": [
+        12,
+        2,
+        8,
+        14,
+        7,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CM30W3IU3LI73fE",
+      "runId": 1799155530
+    },
+    "I8l7XPVc6I92Vl6": {
+      "name": "Spoilfish",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 0,
+      "win": false,
+      "kills": 247,
+      "ultra": 0,
+      "skills": [
+        12,
+        25,
+        23,
+        27,
+        14,
+        16,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "I8l7XPVc6I92Vl6",
+      "runId": 1799155530
     }
   }
 }
