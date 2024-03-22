@@ -334,6 +334,79 @@
       "version": 2616,
       "uid": "6N3P8dV95R6q296",
       "runId": 1799155530
+    },
+    "C5NK0x36H7C06FF": {
+      "name": "Соплежуй",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 110,
+      "win": false,
+      "kills": 334,
+      "ultra": 0,
+      "skills": [
+        6,
+        26,
+        27,
+        14,
+        12,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "C5NK0x36H7C06FF",
+      "runId": 1799155530
+    },
+    "sR57FHtdL3Evdz2": {
+      "name": "asan",
+      "char": 8,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 110,
+      "bwep": 35,
+      "win": false,
+      "kills": 318,
+      "ultra": 0,
+      "skills": [
+        13,
+        25,
+        23,
+        27,
+        17,
+        3,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sR57FHtdL3Evdz2",
+      "runId": 1799155530
+    },
+    "6mKywl868n01T5V": {
+      "name": "Армянин",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 2,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        13,
+        19,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6mKywl868n01T5V",
+      "runId": 1799155530
     }
   }
 }
