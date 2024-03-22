@@ -1,4 +1,33 @@
 {
   "day": 22,
-  "entries": {}
+  "entries": {
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 35,
+      "bwep": 110,
+      "win": false,
+      "kills": 716,
+      "ultra": 1,
+      "skills": [
+        12,
+        25,
+        23,
+        27,
+        3,
+        14,
+        1,
+        6,
+        17
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1799155530
+    }
+  }
 }
