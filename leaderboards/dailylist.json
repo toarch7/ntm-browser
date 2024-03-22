@@ -524,6 +524,56 @@
       "version": 2616,
       "uid": "GNBvF84rQF7zOu2",
       "runId": 1799155530
+    },
+    "3P4vjAGAu6QZcmR": {
+      "name": "progame47",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 20,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        6,
+        25,
+        7,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3P4vjAGAu6QZcmR",
+      "runId": 1799155530
+    },
+    "1byD705LbSArxaP": {
+      "name": "Se",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 84,
+      "bwep": 24,
+      "win": false,
+      "kills": 449,
+      "ultra": 0,
+      "skills": [
+        13,
+        25,
+        23,
+        27,
+        14,
+        8,
+        7,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1byD705LbSArxaP",
+      "runId": 1799155530
     }
   }
 }
