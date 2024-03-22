@@ -418,10 +418,10 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 89,
-      "bwep": 5,
+      "wep": 1,
+      "bwep": 89,
       "win": false,
-      "kills": 81,
+      "kills": 82,
       "ultra": 0,
       "skills": [
         27,
@@ -1784,6 +1784,30 @@
       "crown": 12,
       "version": 2616,
       "uid": "6389vqn7VRsouXk",
+      "runId": 505990230
+    },
+    "JHagdv4OzygbU8K": {
+      "name": "Astrial",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 89,
+      "win": false,
+      "kills": 223,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        23,
+        3,
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "JHagdv4OzygbU8K",
       "runId": 505990230
     }
   }
