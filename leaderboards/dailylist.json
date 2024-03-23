@@ -1,4 +1,107 @@
 {
   "day": 23,
-  "entries": {}
+  "entries": {
+    "ld90VM1Bmg2Vop9": {
+      "name": "Seeker9k",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "ld90VM1Bmg2Vop9",
+      "runId": 28924766
+    },
+    "19bB0H780LsMh5I": {
+      "name": "fer",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 4,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        13,
+        1,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "19bB0H780LsMh5I",
+      "runId": 28924766
+    },
+    "uGG7nH7E6C32TjO": {
+      "name": "jhoniel",
+      "char": 3,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 77,
+      "win": false,
+      "kills": 357,
+      "ultra": 0,
+      "skills": [
+        21,
+        1,
+        8,
+        7,
+        22,
+        14,
+        9
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "uGG7nH7E6C32TjO",
+      "runId": 28924766
+    },
+    "QHXy94o2l9m93fs": {
+      "name": "andrey6464",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 19,
+      "ultra": 0,
+      "skills": [
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "QHXy94o2l9m93fs",
+      "runId": 28924766
+    },
+    "8wjG277S9edmRw2": {
+      "name": "Lucky",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 15,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8wjG277S9edmRw2",
+      "runId": 28924766
+    }
+  }
 }
