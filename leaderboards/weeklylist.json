@@ -1461,17 +1461,18 @@
       "name": "PopCat",
       "char": 7,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 3,
-      "bwep": 13,
+      "wep": 13,
+      "bwep": 69,
       "win": false,
-      "kills": 87,
+      "kills": 94,
       "ultra": 0,
       "skills": [
         27,
-        1
+        23,
+        16
       ],
       "crown": 12,
       "version": 2616,
@@ -1857,6 +1858,30 @@
       "crown": 12,
       "version": 2616,
       "uid": "d2OI8nF48A5k208",
+      "runId": 505990230
+    },
+    "F6o3uA86fd8JbSR": {
+      "name": "thevalois595",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 89,
+      "win": false,
+      "kills": 253,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        16,
+        6,
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "F6o3uA86fd8JbSR",
       "runId": 505990230
     }
   }

@@ -165,6 +165,47 @@
       "version": 2616,
       "uid": "vdeH3138vuptTz0",
       "runId": 28924766
+    },
+    "nwUc9RE7JMlwIyl": {
+      "name": "Jharen18",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 6,
+      "win": false,
+      "kills": 30,
+      "crown": 1,
+      "version": 2616,
+      "uid": "nwUc9RE7JMlwIyl",
+      "runId": 28924766
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 110,
+      "win": false,
+      "kills": 720,
+      "ultra": 1,
+      "skills": [
+        21,
+        12,
+        1,
+        7,
+        14,
+        23
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 28924766
     }
   }
 }
