@@ -827,6 +827,50 @@
       "version": 2616,
       "uid": "z4pbmjfM6YdmkJe",
       "runId": 117296501
+    },
+    "EtvYeyES7p00Y2V": {
+      "name": "Самса",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 77,
+      "win": false,
+      "kills": 229,
+      "ultra": 0,
+      "skills": [
+        1,
+        24,
+        21,
+        7,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EtvYeyES7p00Y2V",
+      "runId": 117296501
+    },
+    "J3wHN3Ggb67yE1j": {
+      "name": "Desta",
+      "char": 2,
+      "skin": true,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 9,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J3wHN3Ggb67yE1j",
+      "runId": 117296501
     }
   }
 }
