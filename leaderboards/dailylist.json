@@ -1,4 +1,48 @@
 {
   "day": 24,
-  "entries": {}
+  "entries": {
+    "Y1ej0l1bulUs28q": {
+      "name": "пидарас228",
+      "char": 14,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 16,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        1,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y1ej0l1bulUs28q",
+      "runId": 117296501
+    },
+    "PCZhog82lvXtc4f": {
+      "name": "tommybeau",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "PCZhog82lvXtc4f",
+      "runId": 117296501
+    }
+  }
 }
