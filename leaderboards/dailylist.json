@@ -459,6 +459,52 @@
       "version": 2616,
       "uid": "9ezR32ssCk3277B",
       "runId": 117296501
+    },
+    "oOeWIg7s3b0S8d1": {
+      "name": "Zwillsad",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 35,
+      "bwep": 11,
+      "win": false,
+      "kills": 2158,
+      "ultra": 2,
+      "skills": [
+        1,
+        27,
+        7,
+        23,
+        21,
+        25,
+        4
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "oOeWIg7s3b0S8d1",
+      "runId": 117296501
+    },
+    "7WJs9HOBEQf212G": {
+      "name": "Daniel",
+      "char": 9,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 6,
+      "win": false,
+      "kills": 13,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7WJs9HOBEQf212G",
+      "runId": 117296501
     }
   }
 }
