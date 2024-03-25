@@ -2116,17 +2116,19 @@
       "name": "Daniel",
       "char": 7,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 89,
-      "bwep": 1,
+      "wep": 1,
+      "bwep": 89,
       "win": false,
-      "kills": 74,
+      "kills": 144,
       "ultra": 0,
       "skills": [
         8,
-        1
+        1,
+        22,
+        9
       ],
       "crown": 12,
       "version": 2616,
@@ -2456,6 +2458,28 @@
       "crown": 12,
       "version": 2616,
       "uid": "29R17JXtx66TzdO",
+      "runId": 505990230
+    },
+    "AbdmdFG2w5yF6kL": {
+      "name": "Jesus",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        19
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "AbdmdFG2w5yF6kL",
       "runId": 505990230
     }
   }
