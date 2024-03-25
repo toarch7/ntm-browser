@@ -382,6 +382,91 @@
       "version": 2616,
       "uid": "7WJs9HOBEQf212G",
       "runId": 1735217944
+    },
+    "6mKywl868n01T5V": {
+      "name": "Армянин",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6mKywl868n01T5V",
+      "runId": 1735217944
+    },
+    "3P4vjAGAu6QZcmR": {
+      "name": "progame47",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 5,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3P4vjAGAu6QZcmR",
+      "runId": 1735217944
+    },
+    "285cQQSZ6TCAZ4T": {
+      "name": "blasone",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 4,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "285cQQSZ6TCAZ4T",
+      "runId": 1735217944
+    },
+    "29R17JXtx66TzdO": {
+      "name": "beardman",
+      "char": 15,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 10,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        3,
+        7,
+        13,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "29R17JXtx66TzdO",
+      "runId": 1735217944
     }
   }
 }
