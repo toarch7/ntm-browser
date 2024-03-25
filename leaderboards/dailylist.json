@@ -145,6 +145,52 @@
       "version": 2616,
       "uid": "fw5S1UfnhkI086O",
       "runId": 1735217944
+    },
+    "4H3OC45AHY9i2H6": {
+      "name": "клюшкавхую",
+      "char": 2,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 4,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        10,
+        16
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "4H3OC45AHY9i2H6",
+      "runId": 1735217944
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 8,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        10,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 1735217944
     }
   }
 }
