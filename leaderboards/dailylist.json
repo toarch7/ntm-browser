@@ -182,6 +182,52 @@
       "version": 2616,
       "uid": "fw5S1UfnhkI086O",
       "runId": 1810485156
+    },
+    "FN872mb4Wc2iM8a": {
+      "name": "Hour",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 66,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        28,
+        4,
+        22,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "FN872mb4Wc2iM8a",
+      "runId": 1810485156
+    },
+    "I8l7XPVc6I92Vl6": {
+      "name": "Spoilfish",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 62,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        13,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "I8l7XPVc6I92Vl6",
+      "runId": 1810485156
     }
   }
 }
