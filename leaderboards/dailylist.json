@@ -68,6 +68,49 @@
       "version": 2616,
       "uid": "l83YXrv7nrr1YO5",
       "runId": 1810485156
+    },
+    "Y1ej0l1bulUs28q": {
+      "name": "пидарас228",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 14,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        22,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y1ej0l1bulUs28q",
+      "runId": 1810485156
+    },
+    "2bKctN22EQ1K3Uv": {
+      "name": "Neri",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 0,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2bKctN22EQ1K3Uv",
+      "runId": 1810485156
     }
   }
 }

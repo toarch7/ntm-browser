@@ -213,18 +213,19 @@
       "name": "Seeker03",
       "char": 7,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 4,
-      "bwep": 69,
+      "wep": 89,
+      "bwep": 9,
       "win": false,
-      "kills": 90,
+      "kills": 195,
       "ultra": 0,
       "skills": [
         8,
-        1,
-        22
+        27,
+        22,
+        6
       ],
       "crown": 12,
       "version": 2616,
@@ -2572,6 +2573,27 @@
       "crown": 12,
       "version": 2616,
       "uid": "ESoUkLKIgLLGi23",
+      "runId": 505990230
+    },
+    "5ak7Lp8CJetFsSi": {
+      "name": "ChocolateLover",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 1,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        27,
+        10
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "5ak7Lp8CJetFsSi",
       "runId": 505990230
     }
   }
