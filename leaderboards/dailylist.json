@@ -1,4 +1,70 @@
 {
   "day": 27,
-  "entries": {}
+  "entries": {
+    "Y1ej0l1bulUs28q": {
+      "name": "пидарас228",
+      "char": 15,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 255,
+      "win": false,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        23,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y1ej0l1bulUs28q",
+      "runId": 145351376
+    },
+    "zyqks6zY78TWmID": {
+      "name": "matatronos",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 27,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        1,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "zyqks6zY78TWmID",
+      "runId": 145351376
+    },
+    "z4pbmjfM6YdmkJe": {
+      "name": "Seeker71",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 7,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        10,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "z4pbmjfM6YdmkJe",
+      "runId": 145351376
+    }
+  }
 }
