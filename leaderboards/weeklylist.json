@@ -2800,6 +2800,29 @@
       "version": 2616,
       "uid": "ulI9878aW3A4Fq9",
       "runId": 505990230
+    },
+    "E6Q5t8r9ZK469pp": {
+      "name": "EYES",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 75,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        19,
+        6
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "E6Q5t8r9ZK469pp",
+      "runId": 505990230
     }
   }
 }

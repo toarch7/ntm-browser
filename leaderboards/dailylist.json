@@ -650,6 +650,27 @@
       "version": 2616,
       "uid": "9UPKbFa5459u1cC",
       "runId": 145351376
+    },
+    "CRF5rPihS943Svp": {
+      "name": "Муняник",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        1,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CRF5rPihS943Svp",
+      "runId": 145351376
     }
   }
 }
