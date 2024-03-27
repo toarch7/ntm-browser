@@ -65,6 +65,52 @@
       "version": 2616,
       "uid": "z4pbmjfM6YdmkJe",
       "runId": 145351376
+    },
+    "9ECmTs12UEFFA6M": {
+      "name": "Dragon",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9ECmTs12UEFFA6M",
+      "runId": 145351376
+    },
+    "uGG7nH7E6C32TjO": {
+      "name": "jhoniel",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 119,
+      "win": false,
+      "kills": 392,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        8,
+        22,
+        4,
+        10,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uGG7nH7E6C32TjO",
+      "runId": 145351376
     }
   }
 }

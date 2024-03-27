@@ -281,19 +281,20 @@
       "name": "Aera",
       "char": 7,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 5,
+      "subarea": 1,
       "loops": 0,
       "wep": 89,
-      "bwep": 2,
+      "bwep": 17,
       "win": false,
-      "kills": 143,
+      "kills": 201,
       "ultra": 0,
       "skills": [
         27,
         10,
         16,
-        6
+        6,
+        28
       ],
       "crown": 12,
       "version": 2616,
@@ -2701,6 +2702,27 @@
       "crown": 12,
       "version": 2616,
       "uid": "l83YXrv7nrr1YO5",
+      "runId": 505990230
+    },
+    "OG6oUWfDQdLREP4": {
+      "name": "wdwasdsa",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 17,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        2,
+        23
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
       "runId": 505990230
     }
   }
