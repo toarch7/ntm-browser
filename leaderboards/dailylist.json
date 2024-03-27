@@ -910,6 +910,44 @@
       "version": 2616,
       "uid": "JRNyiWuqpHyV5Vg",
       "runId": 145351376
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 27,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 145351376
+    },
+    "JEs0iVOhr55aISA": {
+      "name": "Zaen",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "JEs0iVOhr55aISA",
+      "runId": 145351376
     }
   }
 }
