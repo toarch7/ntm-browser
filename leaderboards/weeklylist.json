@@ -2559,17 +2559,18 @@
       "name": "Koma_Horiy",
       "char": 7,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
-      "bwep": 1,
+      "wep": 16,
+      "bwep": 69,
       "win": false,
-      "kills": 63,
+      "kills": 91,
       "ultra": 0,
       "skills": [
         8,
-        1
+        1,
+        22
       ],
       "crown": 12,
       "version": 2616,
