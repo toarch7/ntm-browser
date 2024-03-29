@@ -2960,6 +2960,27 @@
       "version": 2616,
       "uid": "PMQlYcaD202tZmI",
       "runId": 505990230
+    },
+    "gyM03l3uTX8P1fy": {
+      "name": "muerte",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 2,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        27,
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "gyM03l3uTX8P1fy",
+      "runId": 505990230
     }
   }
 }
