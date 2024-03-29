@@ -501,6 +501,46 @@
       "version": 2616,
       "uid": "PLAT7ClS1533220",
       "runId": 615401462
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "1000THR",
+      "char": 7,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 3,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
+      "runId": 615401462
+    },
+    "48C95nBJI2O7y7j": {
+      "name": "Kuprum",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 17,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "48C95nBJI2O7y7j",
+      "runId": 615401462
     }
   }
 }
