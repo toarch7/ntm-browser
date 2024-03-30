@@ -965,6 +965,92 @@
       "version": 2616,
       "uid": "JmSonruS6k1bcfm",
       "runId": 1156201366
+    },
+    "4BZ1UHi71BUvcdO": {
+      "name": "assediador",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 69,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        7,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4BZ1UHi71BUvcdO",
+      "runId": 1156201366
+    },
+    "54r8dV5554NwddA": {
+      "name": "Makarov",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 12,
+      "win": false,
+      "kills": 230,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        4,
+        7
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "54r8dV5554NwddA",
+      "runId": 1156201366
+    },
+    "t05M436oZ0AeQ9i": {
+      "name": "TRI7zinn",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 16,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "t05M436oZ0AeQ9i",
+      "runId": 1156201366
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 1,
+      "skin": true,
+      "area": 100,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 34,
+      "win": false,
+      "kills": 238,
+      "ultra": 0,
+      "skills": [
+        7,
+        22,
+        14,
+        10,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 1156201366
     }
   }
 }
