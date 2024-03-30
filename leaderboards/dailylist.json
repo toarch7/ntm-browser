@@ -449,6 +449,66 @@
       "version": 2616,
       "uid": "6mKywl868n01T5V",
       "runId": 1156201366
+    },
+    "3P4vjAGAu6QZcmR": {
+      "name": "progame47",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 65,
+      "win": false,
+      "kills": 257,
+      "ultra": 0,
+      "skills": [
+        7,
+        27,
+        14,
+        4,
+        17
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "3P4vjAGAu6QZcmR",
+      "runId": 1156201366
+    },
+    "6HHjzX55888ACB1": {
+      "name": "Илья",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 27,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6HHjzX55888ACB1",
+      "runId": 1156201366
+    },
+    "A3KxWmw3YI4XzIK": {
+      "name": "Seeker25",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "A3KxWmw3YI4XzIK",
+      "runId": 1156201366
     }
   }
 }
