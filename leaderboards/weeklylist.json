@@ -3088,6 +3088,52 @@
       "version": 2616,
       "uid": "af8xOZYqZKX0a9a",
       "runId": 505990230
+    },
+    "0Eoja0zKI9xTxd2": {
+      "name": "OrdinaryGuy",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 89,
+      "win": false,
+      "kills": 238,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        16,
+        3,
+        28,
+        7
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "0Eoja0zKI9xTxd2",
+      "runId": 505990230
+    },
+    "26n8S7eZFO7q91F": {
+      "name": "List",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 89,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        27,
+        10
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "26n8S7eZFO7q91F",
+      "runId": 505990230
     }
   }
 }
