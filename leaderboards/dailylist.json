@@ -723,6 +723,62 @@
       "version": 2616,
       "uid": "D8aV8n0OW34FqpC",
       "runId": 1156201366
+    },
+    "FWQ6911jxz9X11b": {
+      "name": "cris",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "FWQ6911jxz9X11b",
+      "runId": 1156201366
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 63,
+      "win": false,
+      "kills": 321,
+      "ultra": 0,
+      "skills": [
+        27,
+        14,
+        4,
+        17,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1156201366
+    },
+    "k69cIKVHXxd4NQv": {
+      "name": "holi",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "k69cIKVHXxd4NQv",
+      "runId": 1156201366
     }
   }
 }
