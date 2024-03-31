@@ -599,6 +599,52 @@
       "version": 2616,
       "uid": "l83YXrv7nrr1YO5",
       "runId": 1927100268
+    },
+    "cFxLtsDLSDK0hnl": {
+      "name": "Grelka",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 27,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cFxLtsDLSDK0hnl",
+      "runId": 1927100268
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 10,
+      "win": false,
+      "kills": 174,
+      "ultra": 0,
+      "skills": [
+        3,
+        23,
+        12,
+        27,
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1927100268
     }
   }
 }
