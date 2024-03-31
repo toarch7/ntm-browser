@@ -645,6 +645,67 @@
       "version": 2616,
       "uid": "13P3br4eB648BtR",
       "runId": 1927100268
+    },
+    "aLl56hTLN1YVHzR": {
+      "name": "AH",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 18,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aLl56hTLN1YVHzR",
+      "runId": 1927100268
+    },
+    "sf6JWJyqO5DQ0Jb": {
+      "name": "Skelet",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 24,
+      "crown": 1,
+      "version": 2616,
+      "uid": "sf6JWJyqO5DQ0Jb",
+      "runId": 1927100268
+    },
+    "94XE1O4y12I8NfM": {
+      "name": "SvinMaxim",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 57,
+      "win": false,
+      "kills": 271,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        12,
+        27,
+        22,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "94XE1O4y12I8NfM",
+      "runId": 1927100268
     }
   }
 }
