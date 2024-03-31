@@ -887,6 +887,75 @@
       "version": 2620,
       "uid": "7c78RgVbdGYA80c",
       "runId": 1927100268
+    },
+    "C5NK0x36H7C06FF": {
+      "name": "Соплежуй",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 116,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        3,
+        23,
+        10,
+        17,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "C5NK0x36H7C06FF",
+      "runId": 1927100268
+    },
+    "6389vqn7VRsouXk": {
+      "name": "Make.EXE",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 17,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        3,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6389vqn7VRsouXk",
+      "runId": 1927100268
+    },
+    "sR57FHtdL3Evdz2": {
+      "name": "asan",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 124,
+      "win": false,
+      "kills": 245,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        23,
+        27,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sR57FHtdL3Evdz2",
+      "runId": 1927100268
     }
   }
 }
