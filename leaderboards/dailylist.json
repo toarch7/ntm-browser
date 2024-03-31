@@ -706,6 +706,99 @@
       "version": 2616,
       "uid": "94XE1O4y12I8NfM",
       "runId": 1927100268
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        3,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 1927100268
+    },
+    "T7A7lNI3tT44BS8": {
+      "name": "M3MO",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 116,
+      "win": false,
+      "kills": 189,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        27,
+        23,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "T7A7lNI3tT44BS8",
+      "runId": 1927100268
+    },
+    "3P4vjAGAu6QZcmR": {
+      "name": "progame47",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 16,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3P4vjAGAu6QZcmR",
+      "runId": 1927100268
+    },
+    "4H3OC45AHY9i2H6": {
+      "name": "клюшкавхую",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 116,
+      "win": false,
+      "kills": 299,
+      "ultra": 0,
+      "skills": [
+        3,
+        1,
+        10,
+        27,
+        23,
+        26,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4H3OC45AHY9i2H6",
+      "runId": 1927100268
     }
   }
 }
