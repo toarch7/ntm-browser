@@ -3395,17 +3395,18 @@
       "name": "Sqnder",
       "char": 7,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 3,
-      "bwep": 2,
+      "wep": 89,
+      "bwep": 1,
       "win": false,
-      "kills": 61,
+      "kills": 99,
       "ultra": 0,
       "skills": [
         27,
-        1
+        23,
+        16
       ],
       "crown": 12,
       "version": 2616,
@@ -3431,6 +3432,29 @@
       "crown": 12,
       "version": 2616,
       "uid": "287wTv4urs5ZN50",
+      "runId": 505990230
+    },
+    "4BZ1UHi71BUvcdO": {
+      "name": "assediador",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 13,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        8,
+        23,
+        22,
+        6
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "4BZ1UHi71BUvcdO",
       "runId": 505990230
     }
   }
