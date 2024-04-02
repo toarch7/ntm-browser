@@ -3324,6 +3324,50 @@
       "version": 2616,
       "uid": "5NXn94sI2jpM51T",
       "runId": 505990230
+    },
+    "2Tp13Je5RF8ZRMQ": {
+      "name": "Mr.Bruh",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 75,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        27,
+        23
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "2Tp13Je5RF8ZRMQ",
+      "runId": 505990230
+    },
+    "AC7960AE6195rel": {
+      "name": "Скелетон",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 1,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        19,
+        6
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "AC7960AE6195rel",
+      "runId": 505990230
     }
   }
 }
