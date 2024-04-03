@@ -217,6 +217,96 @@
       "version": 2616,
       "uid": "sbiBH44RPXN5WRu",
       "runId": 322401453
+    },
+    "b4nCMzs6g4jm9V6": {
+      "name": "Hyoga",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 72,
+      "bwep": 83,
+      "win": false,
+      "kills": 354,
+      "ultra": 0,
+      "skills": [
+        2,
+        28,
+        7,
+        13,
+        3,
+        4,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "b4nCMzs6g4jm9V6",
+      "runId": 322401453
+    },
+    "1byD705LbSArxaP": {
+      "name": "Se",
+      "char": 12,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 14,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        16,
+        23,
+        4
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "1byD705LbSArxaP",
+      "runId": 322401453
+    },
+    "oe0tJOOaYb9gNdq": {
+      "name": "ice_nine",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 17,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        16,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oe0tJOOaYb9gNdq",
+      "runId": 322401453
+    },
+    "j7nPnT7YEbkJ974": {
+      "name": "rem",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        3,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "j7nPnT7YEbkJ974",
+      "runId": 322401453
     }
   }
 }
