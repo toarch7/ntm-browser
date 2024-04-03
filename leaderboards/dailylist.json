@@ -476,6 +476,71 @@
       "version": 2616,
       "uid": "rU51R5i65D9XBl7",
       "runId": 322401453
+    },
+    "4BZ1UHi71BUvcdO": {
+      "name": "assediador",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 7,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        24,
+        28,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4BZ1UHi71BUvcdO",
+      "runId": 322401453
+    },
+    "4H3OC45AHY9i2H6": {
+      "name": "клюшкавхую",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 30,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        3,
+        23,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4H3OC45AHY9i2H6",
+      "runId": 322401453
+    },
+    "2Tp13Je5RF8ZRMQ": {
+      "name": "Mr.Bruh",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        24,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2Tp13Je5RF8ZRMQ",
+      "runId": 322401453
     }
   }
 }
