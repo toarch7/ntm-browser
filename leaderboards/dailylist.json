@@ -307,6 +307,43 @@
       "version": 2616,
       "uid": "j7nPnT7YEbkJ974",
       "runId": 322401453
+    },
+    "cFxLtsDLSDK0hnl": {
+      "name": "Grelka",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 23,
+      "crown": 1,
+      "version": 2616,
+      "uid": "cFxLtsDLSDK0hnl",
+      "runId": 322401453
+    },
+    "IBBOoc26vOll6k8": {
+      "name": "mrGOVNITO",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        3,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "IBBOoc26vOll6k8",
+      "runId": 322401453
     }
   }
 }
