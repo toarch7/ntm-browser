@@ -763,6 +763,49 @@
       "version": 2616,
       "uid": "Oz6RXr2KOeIg9Sy",
       "runId": 322401453
+    },
+    "D8aV8n0OW34FqpC": {
+      "name": "Sqnder",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 71,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        16,
+        28,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "D8aV8n0OW34FqpC",
+      "runId": 322401453
+    },
+    "2EMmaJX7PrrUlU6": {
+      "name": "nashe",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        3,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2EMmaJX7PrrUlU6",
+      "runId": 322401453
     }
   }
 }
