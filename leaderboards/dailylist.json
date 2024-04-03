@@ -362,6 +362,120 @@
       "version": 2616,
       "uid": "55s5a6e6YB426Yx",
       "runId": 322401453
+    },
+    "CAF6vKxmOAdfG61": {
+      "name": "NPC:WASAA",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 5,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        2,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CAF6vKxmOAdfG61",
+      "runId": 322401453
+    },
+    "9Qf15a3R1Nr7hhG": {
+      "name": "soulol",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 31,
+      "win": false,
+      "kills": 166,
+      "ultra": 0,
+      "skills": [
+        16,
+        28,
+        19,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9Qf15a3R1Nr7hhG",
+      "runId": 322401453
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 30,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        2,
+        12,
+        10,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 322401453
+    },
+    "6mKywl868n01T5V": {
+      "name": "Армянин",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 17,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        3,
+        23,
+        4,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6mKywl868n01T5V",
+      "runId": 322401453
+    },
+    "rU51R5i65D9XBl7": {
+      "name": "BlackMan",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 112,
+      "win": false,
+      "kills": 176,
+      "ultra": 0,
+      "skills": [
+        16,
+        17,
+        4,
+        14,
+        29
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rU51R5i65D9XBl7",
+      "runId": 322401453
     }
   }
 }
