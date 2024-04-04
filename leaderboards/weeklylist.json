@@ -3658,6 +3658,27 @@
       "version": 2616,
       "uid": "2qai3WtKhbC427q",
       "runId": 505990230
+    },
+    "k40PwxVX61D8XzC": {
+      "name": "Kroka_Boka",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 89,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        27,
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "k40PwxVX61D8XzC",
+      "runId": 505990230
     }
   }
 }
