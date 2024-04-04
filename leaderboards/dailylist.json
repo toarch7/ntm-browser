@@ -377,6 +377,45 @@
       "version": 2616,
       "uid": "D4qsq5rvDC00rGC",
       "runId": 68295898
+    },
+    "4BZ1UHi71BUvcdO": {
+      "name": "assediador",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 16,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4BZ1UHi71BUvcdO",
+      "runId": 68295898
+    },
+    "2Tp13Je5RF8ZRMQ": {
+      "name": "Mr.Bruh",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 27,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        3,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2Tp13Je5RF8ZRMQ",
+      "runId": 68295898
     }
   }
 }
