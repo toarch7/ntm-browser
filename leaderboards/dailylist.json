@@ -1,4 +1,52 @@
 {
   "day": 4,
-  "entries": {}
+  "entries": {
+    "uGG7nH7E6C32TjO": {
+      "name": "jhoniel",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 77,
+      "win": false,
+      "kills": 822,
+      "ultra": 1,
+      "skills": [
+        22,
+        27,
+        4,
+        10,
+        8,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uGG7nH7E6C32TjO",
+      "runId": 68295898
+    },
+    "4r8b6GtWi4r7PEZ": {
+      "name": "Spyro",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 17,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        25,
+        19,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4r8b6GtWi4r7PEZ",
+      "runId": 68295898
+    }
+  }
 }
