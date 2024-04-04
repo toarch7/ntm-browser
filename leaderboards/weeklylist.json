@@ -1647,17 +1647,20 @@
       "name": "Соплежуй",
       "char": 7,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
       "wep": 89,
       "bwep": 1,
       "win": false,
-      "kills": 64,
+      "kills": 219,
       "ultra": 0,
       "skills": [
         27,
-        10
+        10,
+        23,
+        9,
+        25
       ],
       "crown": 12,
       "version": 2616,
@@ -3546,6 +3549,27 @@
       "crown": 12,
       "version": 2616,
       "uid": "wwOE9fnzp04ahTg",
+      "runId": 505990230
+    },
+    "5Yi47cQM9d5TI2U": {
+      "name": "Seeker7",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 1,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        27,
+        10
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "5Yi47cQM9d5TI2U",
       "runId": 505990230
     }
   }
