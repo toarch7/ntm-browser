@@ -756,6 +756,50 @@
       "version": 2616,
       "uid": "029sh9tkmzzi03M",
       "runId": 767947448
+    },
+    "1byD705LbSArxaP": {
+      "name": "Se",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 26,
+      "win": false,
+      "kills": 1278,
+      "ultra": 2,
+      "skills": [
+        27,
+        8,
+        10,
+        4,
+        23,
+        13,
+        14,
+        17,
+        1
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "1byD705LbSArxaP",
+      "runId": 767947448
+    },
+    "VS7Qs3Vr0s65DD9": {
+      "name": "Agent777",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "VS7Qs3Vr0s65DD9",
+      "runId": 767947448
     }
   }
 }
