@@ -689,6 +689,51 @@
       "version": 2616,
       "uid": "6389vqn7VRsouXk",
       "runId": 767947448
+    },
+    "E6Q5t8r9ZK469pp": {
+      "name": "EYES",
+      "char": 5,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 12,
+      "win": false,
+      "kills": 265,
+      "ultra": 0,
+      "skills": [
+        4,
+        9,
+        10,
+        7,
+        23,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "E6Q5t8r9ZK469pp",
+      "runId": 767947448
+    },
+    "R1EEVXT34F0QAd0": {
+      "name": "Gogorori",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "R1EEVXT34F0QAd0",
+      "runId": 767947448
     }
   }
 }
