@@ -579,6 +579,116 @@
       "version": 2616,
       "uid": "fw5S1UfnhkI086O",
       "runId": 767947448
+    },
+    "29R17JXtx66TzdO": {
+      "name": "beardman",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 22,
+      "win": false,
+      "kills": 250,
+      "ultra": 0,
+      "skills": [
+        27,
+        9,
+        10,
+        7,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "29R17JXtx66TzdO",
+      "runId": 767947448
+    },
+    "sR57FHtdL3Evdz2": {
+      "name": "asan",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 88,
+      "win": false,
+      "kills": 227,
+      "ultra": 0,
+      "skills": [
+        12,
+        9,
+        10,
+        27,
+        23
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "sR57FHtdL3Evdz2",
+      "runId": 767947448
+    },
+    "I4740s1I7E5tqc0": {
+      "name": "Seeke",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 18,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "I4740s1I7E5tqc0",
+      "runId": 767947448
+    },
+    "OUgw9jng750xtv8": {
+      "name": "Eek",
+      "char": 8,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 0,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        4,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OUgw9jng750xtv8",
+      "runId": 767947448
+    },
+    "6389vqn7VRsouXk": {
+      "name": "Make.EXE",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 30,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        24,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6389vqn7VRsouXk",
+      "runId": 767947448
     }
   }
 }
