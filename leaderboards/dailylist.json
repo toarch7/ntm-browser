@@ -647,6 +647,76 @@
       "version": 2616,
       "uid": "4BZ1UHi71BUvcdO",
       "runId": 2079263190
+    },
+    "Z615sm73xiiQb4r": {
+      "name": "FOTOSINTESIS",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 105,
+      "bwep": 119,
+      "win": false,
+      "kills": 672,
+      "ultra": 1,
+      "skills": [
+        4,
+        27,
+        8,
+        1,
+        24,
+        9
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "Z615sm73xiiQb4r",
+      "runId": 2079263190
+    },
+    "wcw8p29P1BxW88g": {
+      "name": "Seeker",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 21,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wcw8p29P1BxW88g",
+      "runId": 2079263190
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 6,
+      "win": false,
+      "kills": 291,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        8,
+        1,
+        22,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 2079263190
     }
   }
 }
