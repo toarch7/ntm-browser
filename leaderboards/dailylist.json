@@ -222,6 +222,73 @@
       "version": 2616,
       "uid": "GNBvF84rQF7zOu2",
       "runId": 2079263190
+    },
+    "1byD705LbSArxaP": {
+      "name": "Se",
+      "char": 3,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 24,
+      "win": false,
+      "kills": 299,
+      "ultra": 0,
+      "skills": [
+        4,
+        27,
+        1,
+        22,
+        23,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1byD705LbSArxaP",
+      "runId": 2079263190
+    },
+    "ib11NBkv2AHtPTf": {
+      "name": "Atuc7",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ib11NBkv2AHtPTf",
+      "runId": 2079263190
+    },
+    "D4qsq5rvDC00rGC": {
+      "name": "yukiokamaro",
+      "char": 2,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 28,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        7
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "D4qsq5rvDC00rGC",
+      "runId": 2079263190
     }
   }
 }
