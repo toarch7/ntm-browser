@@ -717,6 +717,49 @@
       "version": 2616,
       "uid": "64lsh4Hwg4ysAv1",
       "runId": 2079263190
+    },
+    "6mKywl868n01T5V": {
+      "name": "Армянин",
+      "char": 9,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 90,
+      "win": false,
+      "kills": 305,
+      "ultra": 0,
+      "skills": [
+        4,
+        27,
+        1,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6mKywl868n01T5V",
+      "runId": 2079263190
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 2079263190
     }
   }
 }
