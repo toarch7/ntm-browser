@@ -826,6 +826,53 @@
       "version": 2616,
       "uid": "kQkET1I2p6W38p3",
       "runId": 2079263190
+    },
+    "I8l7XPVc6I92Vl6": {
+      "name": "Spoilfish",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 26,
+      "win": false,
+      "kills": 305,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        23,
+        22,
+        19,
+        25,
+        1,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "I8l7XPVc6I92Vl6",
+      "runId": 2079263190
+    },
+    "I6ixCD1BHtAKFDq": {
+      "name": "rafa",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "I6ixCD1BHtAKFDq",
+      "runId": 2079263190
     }
   }
 }
