@@ -785,6 +785,27 @@
       "version": 2616,
       "uid": "M37r0hlvHhYgQ5m",
       "runId": 2079263190
+    },
+    "6Y56X0I82G02efn": {
+      "name": "GamesThrone",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        10,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6Y56X0I82G02efn",
+      "runId": 2079263190
     }
   }
 }
