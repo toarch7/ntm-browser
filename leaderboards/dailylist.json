@@ -289,6 +289,91 @@
       "version": 2616,
       "uid": "D4qsq5rvDC00rGC",
       "runId": 2079263190
+    },
+    "48C95nBJI2O7y7j": {
+      "name": "Kuprum",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "48C95nBJI2O7y7j",
+      "runId": 2079263190
+    },
+    "UCX2ma9pdkUf5aL": {
+      "name": "Y.V.",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "UCX2ma9pdkUf5aL",
+      "runId": 2079263190
+    },
+    "E8z5331FzEKFZRC": {
+      "name": "Gungeoneer",
+      "char": 12,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 40,
+      "bwep": 106,
+      "win": false,
+      "kills": 354,
+      "ultra": 0,
+      "skills": [
+        4,
+        27,
+        8,
+        23,
+        6,
+        16
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "E8z5331FzEKFZRC",
+      "runId": 2079263190
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "1000THR",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 3,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
+      "runId": 2079263190
     }
   }
 }
