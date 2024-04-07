@@ -1,4 +1,48 @@
 {
   "day": 7,
-  "entries": {}
+  "entries": {
+    "9av2CApx8IhEoLU": {
+      "name": ",mlard",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 38,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        23,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9av2CApx8IhEoLU",
+      "runId": 918182612
+    },
+    "4BZ1UHi71BUvcdO": {
+      "name": "assediador",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 69,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        8,
+        7,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "4BZ1UHi71BUvcdO",
+      "runId": 918182612
+    }
+  }
 }
