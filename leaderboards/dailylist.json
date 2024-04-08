@@ -402,6 +402,27 @@
       "version": 2616,
       "uid": "4H3OC45AHY9i2H6",
       "runId": 1870882987
+    },
+    "C5NK0x36H7C06FF": {
+      "name": "Соплежуй",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        23,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "C5NK0x36H7C06FF",
+      "runId": 1870882987
     }
   }
 }
