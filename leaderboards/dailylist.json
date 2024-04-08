@@ -504,6 +504,51 @@
       "version": 2616,
       "uid": "w198mUJFR61el5N",
       "runId": 1870882987
+    },
+    "1byD705LbSArxaP": {
+      "name": "Se",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 60,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        7,
+        21
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "1byD705LbSArxaP",
+      "runId": 1870882987
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        23,
+        27,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 1870882987
     }
   }
 }
