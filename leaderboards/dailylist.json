@@ -183,6 +183,56 @@
       "version": 2616,
       "uid": "zs6HVGW7bh828Wq",
       "runId": 1870882987
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 105,
+      "bwep": 28,
+      "win": false,
+      "kills": 384,
+      "ultra": 2,
+      "skills": [
+        23,
+        27,
+        3,
+        21,
+        14,
+        4,
+        6,
+        17,
+        1,
+        25,
+        10
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1870882987
+    },
+    "ORr2hyvpKHiC8P3": {
+      "name": "Seeke",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 5,
+      "win": false,
+      "kills": 27,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ORr2hyvpKHiC8P3",
+      "runId": 1870882987
     }
   }
 }
