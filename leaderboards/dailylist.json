@@ -631,6 +631,42 @@
       "version": 2616,
       "uid": "JmSonruS6k1bcfm",
       "runId": 1870882987
+    },
+    "xi358pW3dXHHd47": {
+      "name": "blackberry",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2616,
+      "uid": "xi358pW3dXHHd47",
+      "runId": 1870882987
+    },
+    "29R17JXtx66TzdO": {
+      "name": "beardman",
+      "char": 15,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 6,
+      "win": false,
+      "kills": 22,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "29R17JXtx66TzdO",
+      "runId": 1870882987
     }
   }
 }
