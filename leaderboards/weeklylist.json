@@ -1,4 +1,27 @@
 {
   "seed": 113130,
-  "entries": {}
+  "entries": {
+    "e7soogOQx25q01J": {
+      "name": "david",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 111,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        3,
+        1,
+        17
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "e7soogOQx25q01J",
+      "runId": 113130
+    }
+  }
 }
