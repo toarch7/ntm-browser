@@ -4014,6 +4014,29 @@
       "version": 2616,
       "uid": "2hBy2q2g3y281zt",
       "runId": 505990230
+    },
+    "Cm0aX1dv05gmGm1": {
+      "name": "Skeleton",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 1,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        8,
+        23,
+        16,
+        6
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "Cm0aX1dv05gmGm1",
+      "runId": 505990230
     }
   }
 }
