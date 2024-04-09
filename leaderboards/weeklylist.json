@@ -238,6 +238,49 @@
       "version": 2616,
       "uid": "1byD705LbSArxaP",
       "runId": 113130
+    },
+    "jPX7E9oAQkm7nla": {
+      "name": "Bel109S",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 111,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        27,
+        3
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "jPX7E9oAQkm7nla",
+      "runId": 113130
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 4,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 69,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 113130
     }
   }
 }
