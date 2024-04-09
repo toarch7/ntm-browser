@@ -586,6 +586,27 @@
       "version": 2616,
       "uid": "1R0bZX0YdhGwkQ3",
       "runId": 113130
+    },
+    "b4nCMzs6g4jm9V6": {
+      "name": "Hyoga",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 71,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        7,
+        3
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "b4nCMzs6g4jm9V6",
+      "runId": 113130
     }
   }
 }
