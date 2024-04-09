@@ -519,6 +519,68 @@
       "version": 2616,
       "uid": "j3s2ut84to3dHix",
       "runId": 431230787
+    },
+    "aWF54o38x28133x": {
+      "name": "Exert",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 3,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aWF54o38x28133x",
+      "runId": 431230787
+    },
+    "JmSonruS6k1bcfm": {
+      "name": "DAN1455",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 69,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        7
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "JmSonruS6k1bcfm",
+      "runId": 431230787
+    },
+    "TC374uv5u7116ib": {
+      "name": "Enrique",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 17,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "TC374uv5u7116ib",
+      "runId": 431230787
     }
   }
 }
