@@ -27,15 +27,22 @@
       "name": "theghost1700",
       "char": 4,
       "skin": true,
-      "area": 2,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 6,
-      "bwep": 111,
+      "wep": 119,
+      "bwep": 13,
       "win": false,
-      "kills": 44,
+      "kills": 311,
       "ultra": 0,
-      "skills": [],
+      "skills": [
+        27,
+        1,
+        12,
+        22,
+        23,
+        4
+      ],
       "crown": 12,
       "version": 2616,
       "uid": "13L461F5Nl74g1p",
@@ -314,17 +321,18 @@
       "name": "beardman",
       "char": 4,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
       "wep": 6,
       "bwep": 111,
       "win": false,
-      "kills": 66,
+      "kills": 83,
       "ultra": 0,
       "skills": [
         27,
-        3
+        3,
+        1
       ],
       "crown": 12,
       "version": 2616,
@@ -537,6 +545,46 @@
       "crown": 12,
       "version": 2616,
       "uid": "029sh9tkmzzi03M",
+      "runId": 113130
+    },
+    "RJj2fTzEugi3Pn1": {
+      "name": "null",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 111,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "RJj2fTzEugi3Pn1",
+      "runId": 113130
+    },
+    "1R0bZX0YdhGwkQ3": {
+      "name": "Seeker41q",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 111,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "1R0bZX0YdhGwkQ3",
       "runId": 113130
     }
   }
