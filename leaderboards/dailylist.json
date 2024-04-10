@@ -1,4 +1,43 @@
 {
   "day": 10,
-  "entries": {}
+  "entries": {
+    "K73M48P38kSi2Af": {
+      "name": "Seeker90",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "K73M48P38kSi2Af",
+      "runId": 1705091389
+    },
+    "j3s2ut84to3dHix": {
+      "name": "Michael",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 7,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "j3s2ut84to3dHix",
+      "runId": 1705091389
+    }
+  }
 }
