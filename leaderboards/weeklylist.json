@@ -607,6 +607,65 @@
       "version": 2616,
       "uid": "b4nCMzs6g4jm9V6",
       "runId": 113130
+    },
+    "ESoUkLKIgLLGi23": {
+      "name": "Koma_Horiy",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 111,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "ESoUkLKIgLLGi23",
+      "runId": 113130
+    },
+    "73ea4443v7N5o1M": {
+      "name": "patrick",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 111,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        3,
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "73ea4443v7N5o1M",
+      "runId": 113130
+    },
+    "22X5C7Y0G1pli6U": {
+      "name": "Gleb",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 111,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [],
+      "crown": 12,
+      "version": 2616,
+      "uid": "22X5C7Y0G1pli6U",
+      "runId": 113130
     }
   }
 }
