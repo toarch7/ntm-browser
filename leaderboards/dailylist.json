@@ -225,6 +225,70 @@
       "version": 2616,
       "uid": "wcw8p29P1BxW88g",
       "runId": 1705091389
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 3,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        14,
+        13,
+        1,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 1705091389
+    },
+    "68ROIR3K8c2Xjfi": {
+      "name": "Shushou",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "68ROIR3K8c2Xjfi",
+      "runId": 1705091389
+    },
+    "29R17JXtx66TzdO": {
+      "name": "beardman",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 88,
+      "win": false,
+      "kills": 275,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        1,
+        3,
+        4,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "29R17JXtx66TzdO",
+      "runId": 1705091389
     }
   }
 }
