@@ -289,6 +289,51 @@
       "version": 2616,
       "uid": "29R17JXtx66TzdO",
       "runId": 1705091389
+    },
+    "Y1ej0l1bulUs28q": {
+      "name": "пидарас228",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 3,
+      "win": false,
+      "kills": 18,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y1ej0l1bulUs28q",
+      "runId": 1705091389
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 206,
+      "ultra": 0,
+      "skills": [
+        8,
+        25,
+        27,
+        28,
+        3,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 1705091389
     }
   }
 }
