@@ -867,16 +867,18 @@
       "name": "blqme",
       "char": 4,
       "skin": true,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 3,
-      "bwep": 7,
+      "wep": 63,
+      "bwep": 111,
       "win": false,
-      "kills": 58,
+      "kills": 138,
       "ultra": 0,
       "skills": [
-        27
+        27,
+        1,
+        12
       ],
       "crown": 12,
       "version": 2616,
