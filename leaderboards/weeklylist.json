@@ -791,6 +791,55 @@
       "version": 2616,
       "uid": "us0z9JU682X5Zad",
       "runId": 113130
+    },
+    "0740fbDw6Uaw9A6": {
+      "name": "spelankazoid",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 111,
+      "win": false,
+      "kills": 372,
+      "ultra": 2,
+      "skills": [
+        3,
+        27,
+        17,
+        22,
+        23,
+        4,
+        14,
+        7,
+        12
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "0740fbDw6Uaw9A6",
+      "runId": 113130
+    },
+    "6Y56X0I82G02efn": {
+      "name": "GamesThrone",
+      "char": 4,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 111,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        27,
+        3
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "6Y56X0I82G02efn",
+      "runId": 113130
     }
   }
 }
