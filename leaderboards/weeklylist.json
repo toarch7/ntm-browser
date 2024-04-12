@@ -1330,6 +1330,26 @@
       "version": 2616,
       "uid": "xQNobX5oxfUU4P4",
       "runId": 113130
+    },
+    "nRKi54hQ3pbK07d": {
+      "name": "silencer",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 71,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "nRKi54hQ3pbK07d",
+      "runId": 113130
     }
   }
 }
