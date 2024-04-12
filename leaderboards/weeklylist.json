@@ -1105,6 +1105,29 @@
       "version": 2616,
       "uid": "j7nPnT7YEbkJ974",
       "runId": 113130
+    },
+    "nWQOXd0AU332KUB": {
+      "name": "SKYWIN",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 111,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        27,
+        28,
+        1,
+        17
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "nWQOXd0AU332KUB",
+      "runId": 113130
     }
   }
 }
