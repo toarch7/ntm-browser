@@ -208,16 +208,17 @@
       "name": "пидарас228",
       "char": 4,
       "skin": true,
-      "area": 104,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 71,
-      "bwep": 111,
+      "wep": 111,
+      "bwep": 21,
       "win": false,
-      "kills": 57,
+      "kills": 76,
       "ultra": 0,
       "skills": [
-        3
+        3,
+        27
       ],
       "crown": 12,
       "version": 2616,
@@ -1083,6 +1084,26 @@
       "crown": 12,
       "version": 2616,
       "uid": "BGlj46My038e60S",
+      "runId": 113130
+    },
+    "j7nPnT7YEbkJ974": {
+      "name": "rem",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 111,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "j7nPnT7YEbkJ974",
       "runId": 113130
     }
   }
