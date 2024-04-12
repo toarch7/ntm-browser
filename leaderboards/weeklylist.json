@@ -1241,6 +1241,53 @@
       "version": 2616,
       "uid": "M37r0hlvHhYgQ5m",
       "runId": 113130
+    },
+    "94XE1O4y12I8NfM": {
+      "name": "SvinMaxim",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 111,
+      "win": false,
+      "kills": 353,
+      "ultra": 1,
+      "skills": [
+        27,
+        3,
+        10,
+        1,
+        19,
+        23,
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "94XE1O4y12I8NfM",
+      "runId": 113130
+    },
+    "I8l7XPVc6I92Vl6": {
+      "name": "Spoilfish",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 111,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        27,
+        3
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "I8l7XPVc6I92Vl6",
+      "runId": 113130
     }
   }
 }
