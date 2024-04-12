@@ -1128,6 +1128,45 @@
       "version": 2616,
       "uid": "nWQOXd0AU332KUB",
       "runId": 113130
+    },
+    "W5rnxqd90ZdVc7B": {
+      "name": "Mikuo",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 111,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        27,
+        3
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "W5rnxqd90ZdVc7B",
+      "runId": 113130
+    },
+    "3gIwzLHUDW0bFsU": {
+      "name": "clarko",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 111,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [],
+      "crown": 12,
+      "version": 2616,
+      "uid": "3gIwzLHUDW0bFsU",
+      "runId": 113130
     }
   }
 }
