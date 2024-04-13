@@ -1470,6 +1470,27 @@
       "version": 2616,
       "uid": "Z7jiTqmZVZ7iyd3",
       "runId": 113130
+    },
+    "r0wSTCx5ktMu48m": {
+      "name": "архед",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 111,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        1,
+        17
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "r0wSTCx5ktMu48m",
+      "runId": 113130
     }
   }
 }
