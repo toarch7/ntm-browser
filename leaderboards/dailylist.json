@@ -256,6 +256,94 @@
       "version": 2616,
       "uid": "ORr2hyvpKHiC8P3",
       "runId": 873403780
+    },
+    "4H3OC45AHY9i2H6": {
+      "name": "клюшкавхую",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 6,
+      "win": false,
+      "kills": 219,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        8,
+        25,
+        23,
+        12,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4H3OC45AHY9i2H6",
+      "runId": 873403780
+    },
+    "m1OSUl7e5cQ31oR": {
+      "name": "Frisk",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 6,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "m1OSUl7e5cQ31oR",
+      "runId": 873403780
+    },
+    "M37r0hlvHhYgQ5m": {
+      "name": "EugeshA",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 58,
+      "win": false,
+      "kills": 160,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        25,
+        23,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "M37r0hlvHhYgQ5m",
+      "runId": 873403780
+    },
+    "48C95nBJI2O7y7j": {
+      "name": "Kuprum",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "48C95nBJI2O7y7j",
+      "runId": 873403780
     }
   }
 }
