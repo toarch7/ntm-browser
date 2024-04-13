@@ -1077,16 +1077,22 @@
       "name": "Zhubakka_2.0",
       "char": 4,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 6,
-      "bwep": 7,
+      "wep": 124,
+      "bwep": 64,
       "win": false,
-      "kills": 60,
+      "kills": 246,
       "ultra": 0,
       "skills": [
-        27
+        27,
+        3,
+        1,
+        17,
+        22,
+        9,
+        4
       ],
       "crown": 12,
       "version": 2616,
@@ -1374,6 +1380,27 @@
       "crown": 12,
       "version": 2616,
       "uid": "Ul6Qt0i79PWLG9B",
+      "runId": 113130
+    },
+    "4H3OC45AHY9i2H6": {
+      "name": "клюшкавхую",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 111,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        27,
+        3
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "4H3OC45AHY9i2H6",
       "runId": 113130
     }
   }

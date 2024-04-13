@@ -214,6 +214,48 @@
       "version": 2616,
       "uid": "9ezR32ssCk3277B",
       "runId": 873403780
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 24,
+      "win": false,
+      "kills": 219,
+      "ultra": 0,
+      "skills": [
+        10,
+        1,
+        6,
+        7,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 873403780
+    },
+    "ORr2hyvpKHiC8P3": {
+      "name": "Seeke",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 7,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ORr2hyvpKHiC8P3",
+      "runId": 873403780
     }
   }
 }
