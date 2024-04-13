@@ -344,6 +344,87 @@
       "version": 2616,
       "uid": "48C95nBJI2O7y7j",
       "runId": 873403780
+    },
+    "Ga2KfWq39pb2pII": {
+      "name": "Arc061",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ga2KfWq39pb2pII",
+      "runId": 873403780
+    },
+    "D4qsq5rvDC00rGC": {
+      "name": "yukiokamaro",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 10,
+      "win": false,
+      "kills": 178,
+      "ultra": 0,
+      "skills": [
+        19,
+        10,
+        1,
+        7,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "D4qsq5rvDC00rGC",
+      "runId": 873403780
+    },
+    "nY5raFbaO7N0KX3": {
+      "name": "kira",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 7,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        19,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "nY5raFbaO7N0KX3",
+      "runId": 873403780
+    },
+    "5x2u27tc48r9SkA": {
+      "name": "Karoly",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 17,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5x2u27tc48r9SkA",
+      "runId": 873403780
     }
   }
 }
