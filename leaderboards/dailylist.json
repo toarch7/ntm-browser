@@ -711,6 +711,51 @@
       "version": 2616,
       "uid": "XVtUdD6Ay12jLjh",
       "runId": 873403780
+    },
+    "S56G3JlJ92683F7": {
+      "name": "rolando",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "S56G3JlJ92683F7",
+      "runId": 873403780
+    },
+    "65G7c74knF1LzKf": {
+      "name": "Exzagon",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 69,
+      "win": false,
+      "kills": 166,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        6,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "65G7c74knF1LzKf",
+      "runId": 873403780
     }
   }
 }
