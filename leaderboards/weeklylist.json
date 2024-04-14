@@ -1390,17 +1390,18 @@
       "name": "клюшкавхую",
       "char": 4,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
+      "wep": 17,
       "bwep": 111,
       "win": false,
-      "kills": 51,
+      "kills": 76,
       "ultra": 0,
       "skills": [
         27,
-        3
+        3,
+        1
       ],
       "crown": 12,
       "version": 2616,
@@ -1568,6 +1569,89 @@
       "crown": 12,
       "version": 2616,
       "uid": "ld90VM1Bmg2Vop9",
+      "runId": 113130
+    },
+    "BD54wFBfC4aj83N": {
+      "name": "Seeker89090",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 111,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        27,
+        28
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "BD54wFBfC4aj83N",
+      "runId": 113130
+    },
+    "7NoB7CfbPN8C4A6": {
+      "name": "P3R50N4K4T",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 111,
+      "bwep": 71,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        1,
+        12
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "7NoB7CfbPN8C4A6",
+      "runId": 113130
+    },
+    "4N3nLcqx43V3Ta1": {
+      "name": "Seeker41",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 111,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        28,
+        10
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "4N3nLcqx43V3Ta1",
+      "runId": 113130
+    },
+    "ntL3j4n6A72gYN6": {
+      "name": "Seekerm",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 111,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "ntL3j4n6A72gYN6",
       "runId": 113130
     }
   }
