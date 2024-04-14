@@ -1509,6 +1509,47 @@
       "version": 2616,
       "uid": "RwSmFhfr4aUyjy4",
       "runId": 113130
+    },
+    "FWQ6911jxz9X11b": {
+      "name": "cris",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 111,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "FWQ6911jxz9X11b",
+      "runId": 113130
+    },
+    "k79yF3529jp2ojT": {
+      "name": "Giant110",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 111,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        7,
+        16
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "k79yF3529jp2ojT",
+      "runId": 113130
     }
   }
 }
