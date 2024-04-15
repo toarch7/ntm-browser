@@ -1748,18 +1748,17 @@
       "char": 4,
       "skin": true,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
       "wep": 3,
       "bwep": 111,
       "win": false,
-      "kills": 110,
+      "kills": 116,
       "ultra": 0,
       "skills": [
-        27,
         3,
-        1,
-        17
+        10,
+        12
       ],
       "crown": 12,
       "version": 2616,
