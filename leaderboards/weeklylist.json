@@ -1803,6 +1803,48 @@
       "version": 2616,
       "uid": "XrIAYTE25v7dl8E",
       "runId": 113130
+    },
+    "3VIfIoM57h0C0Bx": {
+      "name": "vilisnay",
+      "char": 4,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 111,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        10,
+        12,
+        19
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "3VIfIoM57h0C0Bx",
+      "runId": 113130
+    },
+    "q59s4Vjtz7l6vDg": {
+      "name": "cero",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 111,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "q59s4Vjtz7l6vDg",
+      "runId": 113130
     }
   }
 }
