@@ -1699,6 +1699,28 @@
       "version": 2616,
       "uid": "M25JlO2PqzGh99m",
       "runId": 113130
+    },
+    "cj4qCSZRP1AQzG3": {
+      "name": "SAWMPL",
+      "char": 4,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 111,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        17
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "cj4qCSZRP1AQzG3",
+      "runId": 113130
     }
   }
 }
