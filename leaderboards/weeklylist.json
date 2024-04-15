@@ -1742,6 +1742,50 @@
       "version": 2616,
       "uid": "3Bq3YcM6wv2ap4H",
       "runId": 113130
+    },
+    "6f443K550eLt6m7": {
+      "name": "See",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 111,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        1,
+        17
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "6f443K550eLt6m7",
+      "runId": 113130
+    },
+    "I6ixCD1BHtAKFDq": {
+      "name": "rafa",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 111,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        27,
+        3
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "I6ixCD1BHtAKFDq",
+      "runId": 113130
     }
   }
 }
