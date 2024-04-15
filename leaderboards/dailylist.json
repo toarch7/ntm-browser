@@ -812,6 +812,44 @@
       "version": 2616,
       "uid": "JmSonruS6k1bcfm",
       "runId": 1193556243
+    },
+    "X6O42B52p11899p": {
+      "name": "eric",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "X6O42B52p11899p",
+      "runId": 1193556243
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 2,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        23,
+        14,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 1193556243
     }
   }
 }
