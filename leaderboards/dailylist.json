@@ -429,6 +429,86 @@
       "version": 2616,
       "uid": "W471611Hz3mp7zD",
       "runId": 467906897
+    },
+    "4H3OC45AHY9i2H6": {
+      "name": "клюшкавхую",
+      "char": 3,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 77,
+      "win": false,
+      "kills": 454,
+      "ultra": 2,
+      "skills": [
+        4,
+        8,
+        14,
+        3,
+        9,
+        27,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4H3OC45AHY9i2H6",
+      "runId": 467906897
+    },
+    "6mYj132e7fl7lA2": {
+      "name": "AikelHordan",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "6mYj132e7fl7lA2",
+      "runId": 467906897
+    },
+    "ksna98TA79gVg7f": {
+      "name": "stalker",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 0,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ksna98TA79gVg7f",
+      "runId": 467906897
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 88,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 467906897
     }
   }
 }
