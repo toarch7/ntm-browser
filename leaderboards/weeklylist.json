@@ -2070,20 +2070,42 @@
       "name": "JAMG26",
       "char": 4,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 71,
-      "bwep": 111,
+      "wep": 111,
+      "bwep": 69,
       "win": false,
-      "kills": 67,
+      "kills": 107,
       "ultra": 0,
       "skills": [
-        7
+        16,
+        1
       ],
       "crown": 12,
       "version": 2616,
       "uid": "oRGQA3xKhOzp2tv",
+      "runId": 113130
+    },
+    "D54Eopm6Deiu3F5": {
+      "name": "Sayan09",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 111,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        27,
+        16
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "D54Eopm6Deiu3F5",
       "runId": 113130
     }
   }
