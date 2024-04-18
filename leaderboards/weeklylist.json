@@ -1527,16 +1527,16 @@
       "name": "cris",
       "char": 4,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 3,
-      "bwep": 111,
+      "wep": 111,
+      "bwep": 69,
       "win": false,
-      "kills": 61,
+      "kills": 79,
       "ultra": 0,
       "skills": [
-        28
+        10
       ],
       "crown": 12,
       "version": 2616,
