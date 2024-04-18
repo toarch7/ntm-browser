@@ -690,6 +690,75 @@
       "version": 2616,
       "uid": "jNoD38y1nY59C3i",
       "runId": 1574497464
+    },
+    "8aE3QG938je5JAx": {
+      "name": "EnmaDiaz",
+      "char": 6,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 19,
+      "win": false,
+      "kills": 187,
+      "ultra": 0,
+      "skills": [
+        1,
+        3,
+        27
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "8aE3QG938je5JAx",
+      "runId": 1574497464
+    },
+    "b4nCMzs6g4jm9V6": {
+      "name": "Hyoga",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        1,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "b4nCMzs6g4jm9V6",
+      "runId": 1574497464
+    },
+    "M37r0hlvHhYgQ5m": {
+      "name": "EugeshA",
+      "char": 2,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 49,
+      "bwep": 63,
+      "win": false,
+      "kills": 1029,
+      "ultra": 2,
+      "skills": [
+        1,
+        3,
+        27,
+        7,
+        8,
+        22,
+        10
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "M37r0hlvHhYgQ5m",
+      "runId": 1574497464
     }
   }
 }
