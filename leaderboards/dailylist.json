@@ -537,6 +537,48 @@
       "version": 2616,
       "uid": "6boa4Fc2dSt8q5b",
       "runId": 1090620492
+    },
+    "HHBIXhtzyI44lTb": {
+      "name": "Gero",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 17,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        7,
+        16,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HHBIXhtzyI44lTb",
+      "runId": 1090620492
+    },
+    "6OsO6U0eI4yD8n9": {
+      "name": "Saltero",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6OsO6U0eI4yD8n9",
+      "runId": 1090620492
     }
   }
 }
