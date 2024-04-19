@@ -240,6 +240,47 @@
       "version": 2616,
       "uid": "wcw8p29P1BxW88g",
       "runId": 1090620492
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        6,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 1090620492
+    },
+    "PMQlYcaD202tZmI": {
+      "name": "tsun444",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "PMQlYcaD202tZmI",
+      "runId": 1090620492
     }
   }
 }
