@@ -364,6 +364,42 @@
       "version": 2616,
       "uid": "wrPF10y513IeTKo",
       "runId": 1090620492
+    },
+    "OUgw9jng750xtv8": {
+      "name": "Eek",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "OUgw9jng750xtv8",
+      "runId": 1090620492
+    },
+    "N8OjwfMoC79I96a": {
+      "name": "ну",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "N8OjwfMoC79I96a",
+      "runId": 1090620492
     }
   }
 }
