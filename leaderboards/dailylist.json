@@ -173,6 +173,49 @@
       "version": 2616,
       "uid": "rkXQW92bI7xN0jR",
       "runId": 1090620492
+    },
+    "Y1ej0l1bulUs28q": {
+      "name": "пидарас228",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 88,
+      "win": false,
+      "kills": 203,
+      "ultra": 0,
+      "skills": [
+        7,
+        23,
+        12,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y1ej0l1bulUs28q",
+      "runId": 1090620492
+    },
+    "7Otb8MKme2Mzm07": {
+      "name": "soup",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7Otb8MKme2Mzm07",
+      "runId": 1090620492
     }
   }
 }
