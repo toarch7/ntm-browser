@@ -1104,16 +1104,20 @@
       "name": "rem",
       "char": 4,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 69,
+      "wep": 23,
       "bwep": 111,
       "win": false,
-      "kills": 54,
+      "kills": 137,
       "ultra": 0,
       "skills": [
-        27
+        27,
+        3,
+        1,
+        12,
+        22
       ],
       "crown": 12,
       "version": 2616,
@@ -2219,6 +2223,29 @@
       "crown": 12,
       "version": 2616,
       "uid": "FBT9ViR6SFCj8yZ",
+      "runId": 113130
+    },
+    "0L5QZ6G8duaw51l": {
+      "name": "Lupastonks",
+      "char": 4,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 114,
+      "bwep": 111,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        17,
+        22
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "0L5QZ6G8duaw51l",
       "runId": 113130
     }
   }
