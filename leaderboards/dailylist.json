@@ -236,6 +236,74 @@
       "version": 2616,
       "uid": "D4qsq5rvDC00rGC",
       "runId": 1469499140
+    },
+    "piBEidIcZ42h2qw": {
+      "name": "NiggerSmasher14",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 3,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "piBEidIcZ42h2qw",
+      "runId": 1469499140
+    },
+    "PMQlYcaD202tZmI": {
+      "name": "tsun444",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 35,
+      "win": false,
+      "kills": 297,
+      "ultra": 0,
+      "skills": [
+        19,
+        7,
+        14,
+        21,
+        29
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "PMQlYcaD202tZmI",
+      "runId": 1469499140
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 9,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 15,
+      "win": false,
+      "kills": 241,
+      "ultra": 0,
+      "skills": [
+        9,
+        27,
+        7,
+        14,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 1469499140
     }
   }
 }
