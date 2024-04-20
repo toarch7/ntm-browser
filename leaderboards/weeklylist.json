@@ -369,16 +369,20 @@
       "name": "Kira",
       "char": 4,
       "skin": true,
-      "area": 2,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 7,
-      "bwep": 111,
+      "wep": 111,
+      "bwep": 19,
       "win": false,
-      "kills": 50,
+      "kills": 157,
       "ultra": 0,
       "skills": [
-        3
+        28,
+        10,
+        17,
+        19,
+        23
       ],
       "crown": 12,
       "version": 2616,
@@ -2434,6 +2438,27 @@
       "crown": 12,
       "version": 2616,
       "uid": "0cXmTbeL6mPa22q",
+      "runId": 113130
+    },
+    "64UVImDrKVhTjIE": {
+      "name": "Drī",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 111,
+      "bwep": 69,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        28,
+        10
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "64UVImDrKVhTjIE",
       "runId": 113130
     }
   }
