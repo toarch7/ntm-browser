@@ -466,6 +466,89 @@
       "version": 2616,
       "uid": "yhBIgG8F904PYy3",
       "runId": 1469499140
+    },
+    "2WDEDQB183hU9i5": {
+      "name": "asco",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 27,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2WDEDQB183hU9i5",
+      "runId": 1469499140
+    },
+    "pChr46tqqv6eHhR": {
+      "name": "SIHa",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 16,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        19,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pChr46tqqv6eHhR",
+      "runId": 1469499140
+    },
+    "0cXmTbeL6mPa22q": {
+      "name": "LadaKonina",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        23,
+        28,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0cXmTbeL6mPa22q",
+      "runId": 1469499140
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 1469499140
     }
   }
 }
