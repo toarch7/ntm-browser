@@ -783,6 +783,66 @@
       "version": 2616,
       "uid": "I6ixCD1BHtAKFDq",
       "runId": 1469499140
+    },
+    "lrlGasO9E3r5E5w": {
+      "name": "Seeker1607",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "lrlGasO9E3r5E5w",
+      "runId": 1469499140
+    },
+    "dOIs285G4tM1YFV": {
+      "name": "Dunban",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 3,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "dOIs285G4tM1YFV",
+      "runId": 1469499140
+    },
+    "7F06s3EAAmyIodr": {
+      "name": "Seeker90",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 1,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7F06s3EAAmyIodr",
+      "runId": 1469499140
     }
   }
 }
