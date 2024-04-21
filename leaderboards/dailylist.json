@@ -1,4 +1,32 @@
 {
   "day": 21,
-  "entries": {}
+  "entries": {
+    "m96PH9ISC2JCNsw": {
+      "name": "OVER-XBOX",
+      "char": 5,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 90,
+      "win": false,
+      "kills": 344,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        2,
+        4,
+        22,
+        12,
+        27,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "m96PH9ISC2JCNsw",
+      "runId": 1899574520
+    }
+  }
 }
