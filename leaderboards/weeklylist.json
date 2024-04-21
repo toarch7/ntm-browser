@@ -169,17 +169,20 @@
       "name": "Morlum",
       "char": 4,
       "skin": true,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
       "wep": 71,
-      "bwep": 67,
+      "bwep": 111,
       "win": false,
-      "kills": 62,
+      "kills": 154,
       "ultra": 0,
       "skills": [
         27,
-        3
+        3,
+        1,
+        17,
+        10
       ],
       "crown": 12,
       "version": 2616,
@@ -2572,6 +2575,32 @@
       "crown": 12,
       "version": 2616,
       "uid": "ULLXV1fTvo4AX6Z",
+      "runId": 113130
+    },
+    "G906QzNd5i0m2y1": {
+      "name": "Malik",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 111,
+      "bwep": 11,
+      "win": false,
+      "kills": 384,
+      "ultra": 1,
+      "skills": [
+        27,
+        3,
+        1,
+        17,
+        10,
+        4,
+        14
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "G906QzNd5i0m2y1",
       "runId": 113130
     }
   }
