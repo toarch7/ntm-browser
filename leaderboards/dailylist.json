@@ -299,6 +299,43 @@
       "version": 2616,
       "uid": "52Om4URj73hJzGX",
       "runId": 965862526
+    },
+    "OUgw9jng750xtv8": {
+      "name": "Eek",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 6,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        19,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OUgw9jng750xtv8",
+      "runId": 965862526
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 965862526
     }
   }
 }
