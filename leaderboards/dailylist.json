@@ -518,6 +518,70 @@
       "version": 2616,
       "uid": "EVl3A0wZ9bTFs7w",
       "runId": 965862526
+    },
+    "4H3OC45AHY9i2H6": {
+      "name": "клюшкавхую",
+      "char": 3,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 63,
+      "win": false,
+      "kills": 373,
+      "ultra": 0,
+      "skills": [
+        10,
+        8,
+        1,
+        4,
+        21,
+        27,
+        25,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4H3OC45AHY9i2H6",
+      "runId": 965862526
+    },
+    "d5U5v3R1jVn2eRz": {
+      "name": "елдаш",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "d5U5v3R1jVn2eRz",
+      "runId": 965862526
+    },
+    "7ButydkcxfiVy90": {
+      "name": "naasu",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        28,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7ButydkcxfiVy90",
+      "runId": 965862526
     }
   }
 }
