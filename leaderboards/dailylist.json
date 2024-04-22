@@ -626,6 +626,58 @@
       "version": 2616,
       "uid": "8aE3QG938je5JAx",
       "runId": 965862526
+    },
+    "1byD705LbSArxaP": {
+      "name": "гитлер",
+      "char": 9,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 3,
+      "wep": 83,
+      "bwep": 60,
+      "win": false,
+      "kills": 3017,
+      "ultra": 1,
+      "skills": [
+        10,
+        8,
+        1,
+        4,
+        7,
+        23,
+        17
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "1byD705LbSArxaP",
+      "runId": 965862526
+    },
+    "m96PH9ISC2JCNsw": {
+      "name": "OVER-XBOX",
+      "char": 5,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 113,
+      "win": false,
+      "kills": 376,
+      "ultra": 0,
+      "skills": [
+        10,
+        12,
+        1,
+        4,
+        7,
+        27,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "m96PH9ISC2JCNsw",
+      "runId": 965862526
     }
   }
 }
