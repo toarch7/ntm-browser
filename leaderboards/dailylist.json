@@ -1,4 +1,42 @@
 {
   "day": 22,
-  "entries": {}
+  "entries": {
+    "7NoB7CfbPN8C4A6": {
+      "name": "P3R50N4K4T",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 31,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        19,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7NoB7CfbPN8C4A6",
+      "runId": 965862526
+    },
+    "8aKyD12CJAlXeap": {
+      "name": "n",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "8aKyD12CJAlXeap",
+      "runId": 965862526
+    }
+  }
 }
