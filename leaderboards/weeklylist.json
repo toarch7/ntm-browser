@@ -2777,6 +2777,26 @@
       "version": 2616,
       "uid": "VZcGJ9rSh12Y0c1",
       "runId": 113130
+    },
+    "05jY2Q5CCQLq14J": {
+      "name": "GOLGO",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 111,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "05jY2Q5CCQLq14J",
+      "runId": 113130
     }
   }
 }
