@@ -1,4 +1,42 @@
 {
   "day": 23,
-  "entries": {}
+  "entries": {
+    "8dJKA25olB5rM0L": {
+      "name": "Luis",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        9,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8dJKA25olB5rM0L",
+      "runId": 610972483
+    },
+    "ulI9878aW3A4Fq9": {
+      "name": "blqme",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2616,
+      "uid": "ulI9878aW3A4Fq9",
+      "runId": 610972483
+    }
+  }
 }
