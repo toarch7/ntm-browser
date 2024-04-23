@@ -459,6 +459,42 @@
       "version": 2616,
       "uid": "8aKyD12CJAlXeap",
       "runId": 610972483
+    },
+    "6boa4Fc2dSt8q5b": {
+      "name": "mapachefino",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "6boa4Fc2dSt8q5b",
+      "runId": 610972483
+    },
+    "xi358pW3dXHHd47": {
+      "name": "blackberry",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 0,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xi358pW3dXHHd47",
+      "runId": 610972483
     }
   }
 }
