@@ -138,6 +138,70 @@
       "version": 2616,
       "uid": "b4nCMzs6g4jm9V6",
       "runId": 610972483
+    },
+    "Y1ej0l1bulUs28q": {
+      "name": "пидарас228",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 10,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y1ej0l1bulUs28q",
+      "runId": 610972483
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 9,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        19,
+        28,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 610972483
+    },
+    "wcw8p29P1BxW88g": {
+      "name": "Kira",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 7,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        9,
+        21,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wcw8p29P1BxW88g",
+      "runId": 610972483
     }
   }
 }

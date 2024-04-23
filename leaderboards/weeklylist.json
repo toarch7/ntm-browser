@@ -2754,6 +2754,29 @@
       "version": 2616,
       "uid": "R1140J3zz37TN33",
       "runId": 113130
+    },
+    "VZcGJ9rSh12Y0c1": {
+      "name": "super",
+      "char": 4,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 117,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        16,
+        10
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "VZcGJ9rSh12Y0c1",
+      "runId": 113130
     }
   }
 }
