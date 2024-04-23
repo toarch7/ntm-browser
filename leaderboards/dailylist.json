@@ -556,6 +556,52 @@
       "version": 2616,
       "uid": "fG3Y3upwVmS6zl9",
       "runId": 610972483
+    },
+    "0740fbDw6Uaw9A6": {
+      "name": "spelankazoid",
+      "char": 7,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 9,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        9,
+        19,
+        23,
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0740fbDw6Uaw9A6",
+      "runId": 610972483
+    },
+    "4H3OC45AHY9i2H6": {
+      "name": "клюшкавхую",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 154,
+      "ultra": 0,
+      "skills": [
+        8,
+        21,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4H3OC45AHY9i2H6",
+      "runId": 610972483
     }
   }
 }
