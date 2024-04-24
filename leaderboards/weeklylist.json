@@ -2393,17 +2393,19 @@
       "name": "Confusion",
       "char": 4,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 8,
+      "wep": 76,
       "bwep": 111,
       "win": false,
-      "kills": 107,
+      "kills": 146,
       "ultra": 0,
       "skills": [
-        28,
-        1
+        3,
+        1,
+        16,
+        10
       ],
       "crown": 12,
       "version": 2616,
@@ -2823,6 +2825,24 @@
       "crown": 12,
       "version": 2616,
       "uid": "Z1bOV6wj3WrKh5m",
+      "runId": 113130
+    },
+    "LR4Z0Y51PeF9C72": {
+      "name": "TBneitor38",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 111,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [],
+      "crown": 12,
+      "version": 2616,
+      "uid": "LR4Z0Y51PeF9C72",
       "runId": 113130
     }
   }
