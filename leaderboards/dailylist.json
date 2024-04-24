@@ -256,6 +256,43 @@
       "version": 2616,
       "uid": "64lsh4Hwg4ysAv1",
       "runId": 2112637213
+    },
+    "G882748MN905iO6": {
+      "name": "ligan",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 5,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        16,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "G882748MN905iO6",
+      "runId": 2112637213
+    },
+    "xi358pW3dXHHd47": {
+      "name": "blackberry",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 0,
+      "win": false,
+      "kills": 20,
+      "crown": 1,
+      "version": 2616,
+      "uid": "xi358pW3dXHHd47",
+      "runId": 2112637213
     }
   }
 }
