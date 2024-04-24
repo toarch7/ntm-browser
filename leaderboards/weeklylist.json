@@ -2844,6 +2844,27 @@
       "version": 2616,
       "uid": "LR4Z0Y51PeF9C72",
       "runId": 113130
+    },
+    "zIpMjkLEZOB036P": {
+      "name": "BrMan",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 111,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        27,
+        28
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "zIpMjkLEZOB036P",
+      "runId": 113130
     }
   }
 }
