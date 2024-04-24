@@ -151,6 +151,48 @@
       "version": 2616,
       "uid": "XUQ178r3zG82nn9",
       "runId": 2112637213
+    },
+    "G1KMSK0MLLzqpnB": {
+      "name": "Seeker90",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "G1KMSK0MLLzqpnB",
+      "runId": 2112637213
+    },
+    "wcw8p29P1BxW88g": {
+      "name": "Kira",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 182,
+      "ultra": 0,
+      "skills": [
+        21,
+        4,
+        10,
+        16,
+        6
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "wcw8p29P1BxW88g",
+      "runId": 2112637213
     }
   }
 }
