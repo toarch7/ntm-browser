@@ -2928,6 +2928,45 @@
       "version": 2616,
       "uid": "fHKZvYIazpMQ9j9",
       "runId": 113130
+    },
+    "lqUfxSBMP5nRcPZ": {
+      "name": "happytube",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 111,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        27,
+        3
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "lqUfxSBMP5nRcPZ",
+      "runId": 113130
+    },
+    "G5x50RoKs2251Oc": {
+      "name": "Isaac",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 111,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [],
+      "crown": 12,
+      "version": 2616,
+      "uid": "G5x50RoKs2251Oc",
+      "runId": 113130
     }
   }
 }
