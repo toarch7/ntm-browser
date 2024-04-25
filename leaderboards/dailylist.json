@@ -67,6 +67,43 @@
       "version": 2616,
       "uid": "JmSonruS6k1bcfm",
       "runId": 520368127
+    },
+    "fHKZvYIazpMQ9j9": {
+      "name": "Mertink",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 15,
+      "crown": 1,
+      "version": 2616,
+      "uid": "fHKZvYIazpMQ9j9",
+      "runId": 520368127
+    },
+    "guj9KuvnrHki2qW": {
+      "name": "пепе",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        17,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "guj9KuvnrHki2qW",
+      "runId": 520368127
     }
   }
 }

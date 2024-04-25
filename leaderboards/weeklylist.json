@@ -2888,6 +2888,48 @@
       "version": 2616,
       "uid": "lgwr3iIvm66h8qy",
       "runId": 113130
+    },
+    "guj9KuvnrHki2qW": {
+      "name": "пепе",
+      "char": 4,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 111,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        27,
+        28,
+        1,
+        17,
+        10
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "guj9KuvnrHki2qW",
+      "runId": 113130
+    },
+    "fHKZvYIazpMQ9j9": {
+      "name": "Mertink",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 111,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [],
+      "crown": 12,
+      "version": 2616,
+      "uid": "fHKZvYIazpMQ9j9",
+      "runId": 113130
     }
   }
 }
