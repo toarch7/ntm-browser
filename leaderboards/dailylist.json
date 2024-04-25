@@ -432,6 +432,43 @@
       "version": 2616,
       "uid": "OUgw9jng750xtv8",
       "runId": 520368127
+    },
+    "9j0f2xqVR69gDc0": {
+      "name": "Losar",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        23,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9j0f2xqVR69gDc0",
+      "runId": 520368127
+    },
+    "8dJKA25olB5rM0L": {
+      "name": "Luis",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "8dJKA25olB5rM0L",
+      "runId": 520368127
     }
   }
 }
