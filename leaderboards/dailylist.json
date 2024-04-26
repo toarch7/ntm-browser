@@ -531,6 +531,55 @@
       "version": 2616,
       "uid": "yhBIgG8F904PYy3",
       "runId": 1272574429
+    },
+    "v9WqG9E1U93yRex": {
+      "name": "Huesos",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 0,
+      "win": false,
+      "kills": 342,
+      "ultra": 0,
+      "skills": [
+        3,
+        25,
+        10,
+        7,
+        12,
+        2,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "v9WqG9E1U93yRex",
+      "runId": 1272574429
+    },
+    "fw5S1UfnhkI086O": {
+      "name": "Brzxo",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 4,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        10,
+        25,
+        8,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "fw5S1UfnhkI086O",
+      "runId": 1272574429
     }
   }
 }
