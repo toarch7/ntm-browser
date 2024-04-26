@@ -258,6 +258,91 @@
       "version": 2616,
       "uid": "EVl3A0wZ9bTFs7w",
       "runId": 1272574429
+    },
+    "nS4tAXaS957Jv42": {
+      "name": "korin",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 4,
+      "win": false,
+      "kills": 34,
+      "crown": 1,
+      "version": 2616,
+      "uid": "nS4tAXaS957Jv42",
+      "runId": 1272574429
+    },
+    "6h021cb2BfN2Ldm": {
+      "name": "Hein",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 77,
+      "bwep": 115,
+      "win": false,
+      "kills": 684,
+      "ultra": 2,
+      "skills": [
+        13,
+        3,
+        25,
+        8,
+        7,
+        23,
+        26,
+        27,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6h021cb2BfN2Ldm",
+      "runId": 1272574429
+    },
+    "54r8dV5554NwddA": {
+      "name": "Makarov",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 13,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "54r8dV5554NwddA",
+      "runId": 1272574429
+    },
+    "oe0tJOOaYb9gNdq": {
+      "name": "ice_nine",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 4,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        10,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oe0tJOOaYb9gNdq",
+      "runId": 1272574429
     }
   }
 }
