@@ -1,4 +1,37 @@
 {
   "day": 26,
-  "entries": {}
+  "entries": {
+    "5pjRnG3suhLtBwK": {
+      "name": "Kulska",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 28,
+      "crown": 1,
+      "version": 2616,
+      "uid": "5pjRnG3suhLtBwK",
+      "runId": 1272574429
+    },
+    "7E1t4BM6sex95OE": {
+      "name": "Neo",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 33,
+      "crown": 1,
+      "version": 2616,
+      "uid": "7E1t4BM6sex95OE",
+      "runId": 1272574429
+    }
+  }
 }
