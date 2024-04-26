@@ -624,16 +624,18 @@
       "name": "Koma_Horiy",
       "char": 4,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 71,
+      "wep": 13,
       "bwep": 111,
       "win": false,
-      "kills": 66,
+      "kills": 99,
       "ultra": 0,
       "skills": [
-        28
+        3,
+        1,
+        17
       ],
       "crown": 12,
       "version": 2616,
