@@ -162,6 +162,43 @@
       "version": 2616,
       "uid": "ulI9878aW3A4Fq9",
       "runId": 1272574429
+    },
+    "Zus47r05VvQr1P1": {
+      "name": "OGGRANT",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 24,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Zus47r05VvQr1P1",
+      "runId": 1272574429
+    },
+    "wuoe1dYuTZ42gRo": {
+      "name": "Адскийсосун",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 7,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        21,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wuoe1dYuTZ42gRo",
+      "runId": 1272574429
     }
   }
 }

@@ -3010,6 +3010,48 @@
       "version": 2616,
       "uid": "1bQfwN5Zt083DK6",
       "runId": 113130
+    },
+    "pChr46tqqv6eHhR": {
+      "name": "SIHa",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 111,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        27,
+        3
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "pChr46tqqv6eHhR",
+      "runId": 113130
+    },
+    "7E1t4BM6sex95OE": {
+      "name": "Neo",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 69,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        27,
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "7E1t4BM6sex95OE",
+      "runId": 113130
     }
   }
 }
