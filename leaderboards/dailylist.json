@@ -487,6 +487,126 @@
       "version": 2616,
       "uid": "yhBIgG8F904PYy3",
       "runId": 1634243387
+    },
+    "B3o2VUkPAVEk0Qe": {
+      "name": "PePo",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 13,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "B3o2VUkPAVEk0Qe",
+      "runId": 1634243387
+    },
+    "5W9Y82474q8Ddb1": {
+      "name": "Seeker90",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 21,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5W9Y82474q8Ddb1",
+      "runId": 1634243387
+    },
+    "eqFI3KfaSb3wOMJ": {
+      "name": "reza",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "eqFI3KfaSb3wOMJ",
+      "runId": 1634243387
+    },
+    "Ga2KfWq39pb2pII": {
+      "name": "Arc061",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 5,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ga2KfWq39pb2pII",
+      "runId": 1634243387
+    },
+    "5g2pJi9ms1QbmnR": {
+      "name": "Seek",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 10,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5g2pJi9ms1QbmnR",
+      "runId": 1634243387
+    },
+    "E35Xn28t06JaeE6": {
+      "name": "kratos",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 36,
+      "win": false,
+      "kills": 169,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        24,
+        7,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "E35Xn28t06JaeE6",
+      "runId": 1634243387
     }
   }
 }
