@@ -351,6 +351,54 @@
       "version": 2616,
       "uid": "Y1ej0l1bulUs28q",
       "runId": 1634243387
+    },
+    "9j0f2xqVR69gDc0": {
+      "name": "Losar",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 20,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        23,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9j0f2xqVR69gDc0",
+      "runId": 1634243387
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 68,
+      "bwep": 60,
+      "win": false,
+      "kills": 318,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        22,
+        28,
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 1634243387
     }
   }
 }
