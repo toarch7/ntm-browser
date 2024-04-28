@@ -701,6 +701,43 @@
       "version": 2616,
       "uid": "RKEzobJ87SJ8EN2",
       "runId": 918946624
+    },
+    "sWYeb34wM7GJfsY": {
+      "name": "salvador",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "sWYeb34wM7GJfsY",
+      "runId": 918946624
+    },
+    "8dJKA25olB5rM0L": {
+      "name": "Luis",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        9,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8dJKA25olB5rM0L",
+      "runId": 918946624
     }
   }
 }
