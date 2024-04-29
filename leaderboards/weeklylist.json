@@ -3362,6 +3362,47 @@
       "version": 2616,
       "uid": "rI0Vr19z1vXI4vN",
       "runId": 113130
+    },
+    "00HdYo5vEM08ikN": {
+      "name": "Togbot",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 111,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        27,
+        28
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "00HdYo5vEM08ikN",
+      "runId": 113130
+    },
+    "I721612HV3c65lW": {
+      "name": "gunterxhub",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 111,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "I721612HV3c65lW",
+      "runId": 113130
     }
   }
 }
