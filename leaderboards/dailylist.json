@@ -276,6 +276,28 @@
       "version": 2616,
       "uid": "RGDd572P6MfWctg",
       "runId": 385602556
+    },
+    "HPq07AWj6MWLWQw": {
+      "name": "STRVACT",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 113,
+      "win": false,
+      "kills": 229,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        12
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "HPq07AWj6MWLWQw",
+      "runId": 385602556
     }
   }
 }
