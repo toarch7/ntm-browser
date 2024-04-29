@@ -448,6 +448,68 @@
       "version": 2616,
       "uid": "y9lu8173M4OZRfE",
       "runId": 385602556
+    },
+    "739C22dsi5Y0p50": {
+      "name": "fer76",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 9,
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        1,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "739C22dsi5Y0p50",
+      "runId": 385602556
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 8,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 385602556
+    },
+    "RKEzobJ87SJ8EN2": {
+      "name": "LissyJ",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 5,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RKEzobJ87SJ8EN2",
+      "runId": 385602556
     }
   }
 }
