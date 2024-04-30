@@ -85,6 +85,49 @@
       "version": 2616,
       "uid": "Y1ej0l1bulUs28q",
       "runId": 1557070314
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 69,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        8,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 1557070314
+    },
+    "5gU7s7keHa8O3p0": {
+      "name": "Rj",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        8,
+        9,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5gU7s7keHa8O3p0",
+      "runId": 1557070314
     }
   }
 }
