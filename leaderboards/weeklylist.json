@@ -2229,15 +2229,17 @@
       "name": "elias656513",
       "char": 4,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
       "wep": 6,
       "bwep": 111,
       "win": false,
-      "kills": 63,
+      "kills": 96,
       "ultra": 0,
-      "skills": [],
+      "skills": [
+        1
+      ],
       "crown": 12,
       "version": 2616,
       "uid": "FBT9ViR6SFCj8yZ",
@@ -3402,6 +3404,26 @@
       "crown": 12,
       "version": 2616,
       "uid": "I721612HV3c65lW",
+      "runId": 113130
+    },
+    "N3Wo2vH71m6601L": {
+      "name": "nuclear",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 111,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "N3Wo2vH71m6601L",
       "runId": 113130
     }
   }
