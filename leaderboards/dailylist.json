@@ -1,4 +1,49 @@
 {
   "day": 30,
-  "entries": {}
+  "entries": {
+    "ld90VM1Bmg2Vop9": {
+      "name": "Seeker9k",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        8,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ld90VM1Bmg2Vop9",
+      "runId": 1557070314
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 2,
+      "win": false,
+      "kills": 189,
+      "ultra": 0,
+      "skills": [
+        8,
+        2,
+        22,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 1557070314
+    }
+  }
 }
