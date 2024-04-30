@@ -295,6 +295,134 @@
       "version": 2616,
       "uid": "Ga2KfWq39pb2pII",
       "runId": 1557070314
+    },
+    "8dJKA25olB5rM0L": {
+      "name": "Luis",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 0,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        8,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8dJKA25olB5rM0L",
+      "runId": 1557070314
+    },
+    "OUgw9jng750xtv8": {
+      "name": "Rex",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 35,
+      "crown": 1,
+      "version": 2616,
+      "uid": "OUgw9jng750xtv8",
+      "runId": 1557070314
+    },
+    "3Bq3YcM6wv2ap4H": {
+      "name": "FAKE",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 69,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        8,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3Bq3YcM6wv2ap4H",
+      "runId": 1557070314
+    },
+    "2H1qBEb820z9l5z": {
+      "name": "ULTRAKOTLETA",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 3,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        25,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2H1qBEb820z9l5z",
+      "runId": 1557070314
+    },
+    "O5mQrVd8p7RaQ8X": {
+      "name": "Fyurx",
+      "char": 6,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 3,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        8,
+        23,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "O5mQrVd8p7RaQ8X",
+      "runId": 1557070314
+    },
+    "hA12doqJD7Cx6o7": {
+      "name": "BEAR_4000",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 13,
+      "win": false,
+      "kills": 332,
+      "ultra": 0,
+      "skills": [
+        8,
+        9,
+        25,
+        12,
+        27,
+        3
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "hA12doqJD7Cx6o7",
+      "runId": 1557070314
     }
   }
 }
