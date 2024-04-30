@@ -3586,6 +3586,28 @@
       "version": 2616,
       "uid": "9lI6dU8smGT0IR1",
       "runId": 113130
+    },
+    "deOv98kywXf9F81": {
+      "name": "Seeker_DY",
+      "char": 4,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 111,
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        10,
+        17,
+        22
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "deOv98kywXf9F81",
+      "runId": 113130
     }
   }
 }
