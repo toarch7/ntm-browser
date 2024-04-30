@@ -3508,21 +3508,83 @@
       "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 117,
-      "bwep": 52,
+      "wep": 116,
+      "bwep": 111,
       "win": false,
-      "kills": 144,
+      "kills": 154,
       "ultra": 0,
       "skills": [
         27,
         3,
         1,
-        17,
-        22
+        17
       ],
       "crown": 12,
       "version": 2616,
       "uid": "i9k24SwVFj27gLU",
+      "runId": 113130
+    },
+    "v9WqG9E1U93yRex": {
+      "name": "Huesos",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 111,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        3,
+        1,
+        17
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "v9WqG9E1U93yRex",
+      "runId": 113130
+    },
+    "gd35SSc9c6O11Os": {
+      "name": "brian",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 71,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "gd35SSc9c6O11Os",
+      "runId": 113130
+    },
+    "9lI6dU8smGT0IR1": {
+      "name": "apg250109",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 111,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        7,
+        3
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "9lI6dU8smGT0IR1",
       "runId": 113130
     }
   }
