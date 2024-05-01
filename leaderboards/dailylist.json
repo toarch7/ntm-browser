@@ -135,6 +135,70 @@
       "version": 2616,
       "uid": "n5BA29aG845IhTO",
       "runId": 1414110369
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 69,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 1414110369
+    },
+    "2H1qBEb820z9l5z": {
+      "name": "ULTRAKOTLETA",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 61,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2H1qBEb820z9l5z",
+      "runId": 1414110369
+    },
+    "hA12doqJD7Cx6o7": {
+      "name": "BEAR_4000",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "hA12doqJD7Cx6o7",
+      "runId": 1414110369
     }
   }
 }
