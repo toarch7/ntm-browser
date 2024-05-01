@@ -3649,6 +3649,26 @@
       "version": 2616,
       "uid": "bwvxp25A47v2S62",
       "runId": 113130
+    },
+    "s5a2kzx17BlKq1v": {
+      "name": "Sex_Bomba",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 111,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "s5a2kzx17BlKq1v",
+      "runId": 113130
     }
   }
 }
