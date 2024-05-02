@@ -264,6 +264,65 @@
       "version": 2616,
       "uid": "oBq9aw6fR0dQcrI",
       "runId": 745165190
+    },
+    "5gU7s7keHa8O3p0": {
+      "name": "Rj",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5gU7s7keHa8O3p0",
+      "runId": 745165190
+    },
+    "3Bq3YcM6wv2ap4H": {
+      "name": "FAKE",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "3Bq3YcM6wv2ap4H",
+      "runId": 745165190
+    },
+    "4z1YP5OkQ7GzZ3m": {
+      "name": "Олег",
+      "char": 3,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 71,
+      "win": false,
+      "kills": 180,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        16,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4z1YP5OkQ7GzZ3m",
+      "runId": 745165190
     }
   }
 }
