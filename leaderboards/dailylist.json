@@ -787,6 +787,46 @@
       "version": 2616,
       "uid": "PwTYvN339EJSuyi",
       "runId": 745165190
+    },
+    "9j0f2xqVR69gDc0": {
+      "name": "Losar",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9j0f2xqVR69gDc0",
+      "runId": 745165190
+    },
+    "hMr6dYu592rJ2I3": {
+      "name": "Clubhouse",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 27,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "hMr6dYu592rJ2I3",
+      "runId": 745165190
     }
   }
 }
