@@ -241,6 +241,44 @@
       "version": 2616,
       "uid": "6mYj132e7fl7lA2",
       "runId": 11999990
+    },
+    "00A0jJ1Gi3978v2": {
+      "name": "CheeseConsumer",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 86,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "00A0jJ1Gi3978v2",
+      "runId": 11999990
+    },
+    "5g2pJi9ms1QbmnR": {
+      "name": "Seek",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 31,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [],
+      "crown": 3,
+      "version": 2616,
+      "uid": "5g2pJi9ms1QbmnR",
+      "runId": 11999990
     }
   }
 }
