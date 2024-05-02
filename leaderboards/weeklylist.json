@@ -1,4 +1,46 @@
 {
   "seed": 11999990,
-  "entries": {}
+  "entries": {
+    "E5kg9j37NiV8fCi": {
+      "name": "Seeker02",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 86,
+      "win": false,
+      "kills": 183,
+      "ultra": 0,
+      "skills": [
+        27,
+        10,
+        8,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "E5kg9j37NiV8fCi",
+      "runId": 11999990
+    },
+    "X72esSksOOB1I41": {
+      "name": "kritical",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 86,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [],
+      "crown": 3,
+      "version": 2616,
+      "uid": "X72esSksOOB1I41",
+      "runId": 11999990
+    }
+  }
 }
