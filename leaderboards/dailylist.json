@@ -637,6 +637,47 @@
       "version": 2616,
       "uid": "5g2pJi9ms1QbmnR",
       "runId": 745165190
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 2,
+      "win": false,
+      "kills": 362,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        24,
+        9,
+        10,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 745165190
+    },
+    "31AXGOB8X3DWAIj": {
+      "name": "wilde",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "31AXGOB8X3DWAIj",
+      "runId": 745165190
     }
   }
 }
