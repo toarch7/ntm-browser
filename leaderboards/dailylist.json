@@ -532,6 +532,48 @@
       "version": 2616,
       "uid": "W471611Hz3mp7zD",
       "runId": 745165190
+    },
+    "RGDd572P6MfWctg": {
+      "name": "Dany",
+      "char": 2,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 30,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RGDd572P6MfWctg",
+      "runId": 745165190
+    },
+    "w198mUJFR61el5N": {
+      "name": "tonyherna34",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 39,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "w198mUJFR61el5N",
+      "runId": 745165190
     }
   }
 }
