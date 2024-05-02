@@ -1,4 +1,56 @@
 {
   "day": 2,
-  "entries": {}
+  "entries": {
+    "uGG7nH7E6C32TjO": {
+      "name": "jhoniel",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 20,
+      "win": false,
+      "kills": 268,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        14,
+        7,
+        6
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "uGG7nH7E6C32TjO",
+      "runId": 745165190
+    },
+    "JmSonruS6k1bcfm": {
+      "name": "DAN1455",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 47,
+      "win": false,
+      "kills": 513,
+      "ultra": 1,
+      "skills": [
+        23,
+        1,
+        14,
+        9,
+        21,
+        27,
+        4,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "JmSonruS6k1bcfm",
+      "runId": 745165190
+    }
+  }
 }
