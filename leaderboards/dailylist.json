@@ -323,6 +323,48 @@
       "version": 2616,
       "uid": "4z1YP5OkQ7GzZ3m",
       "runId": 745165190
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 30,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        7,
+        23,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 745165190
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 745165190
     }
   }
 }
