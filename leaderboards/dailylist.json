@@ -597,6 +597,46 @@
       "version": 2616,
       "uid": "yhBIgG8F904PYy3",
       "runId": 745165190
+    },
+    "02Cf9qK7GUA38js": {
+      "name": "Shadow",
+      "char": 9,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 21,
+      "win": false,
+      "kills": 178,
+      "ultra": 0,
+      "skills": [
+        7,
+        27,
+        14,
+        1,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "02Cf9qK7GUA38js",
+      "runId": 745165190
+    },
+    "5g2pJi9ms1QbmnR": {
+      "name": "Seek",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "5g2pJi9ms1QbmnR",
+      "runId": 745165190
     }
   }
 }
