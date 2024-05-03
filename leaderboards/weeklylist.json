@@ -159,14 +159,14 @@
       "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 37,
-      "bwep": 3,
+      "wep": 27,
+      "bwep": 6,
       "win": false,
-      "kills": 81,
+      "kills": 99,
       "ultra": 0,
       "skills": [
         27,
-        13
+        21
       ],
       "crown": 3,
       "version": 2616,
@@ -502,6 +502,27 @@
       "crown": 3,
       "version": 2616,
       "uid": "9ezR32ssCk3277B",
+      "runId": 11999990
+    },
+    "9iat0z5A9pP3e0D": {
+      "name": "EvilCat",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 86,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        27,
+        1
+      ],
+      "crown": 3,
+      "version": 2620,
+      "uid": "9iat0z5A9pP3e0D",
       "runId": 11999990
     }
   }
