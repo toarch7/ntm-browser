@@ -588,6 +588,27 @@
       "version": 2616,
       "uid": "RGDd572P6MfWctg",
       "runId": 416668281
+    },
+    "hA12doqJD7Cx6o7": {
+      "name": "BEAR_4000",
+      "char": 3,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        12,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "hA12doqJD7Cx6o7",
+      "runId": 416668281
     }
   }
 }

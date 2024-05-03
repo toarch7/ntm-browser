@@ -467,20 +467,21 @@
       "name": "Blue",
       "char": 6,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 116,
-      "bwep": 91,
+      "wep": 63,
+      "bwep": 76,
       "win": false,
-      "kills": 275,
+      "kills": 389,
       "ultra": 0,
       "skills": [
         27,
-        21,
+        10,
         1,
-        2,
-        6
+        21,
+        4,
+        7
       ],
       "crown": 3,
       "version": 2616,
@@ -573,6 +574,28 @@
       "crown": 3,
       "version": 2616,
       "uid": "JHagdv4OzygbU8K",
+      "runId": 11999990
+    },
+    "hA12doqJD7Cx6o7": {
+      "name": "BEAR_4000",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 86,
+      "win": false,
+      "kills": 170,
+      "ultra": 0,
+      "skills": [
+        27,
+        8,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "hA12doqJD7Cx6o7",
       "runId": 11999990
     }
   }
