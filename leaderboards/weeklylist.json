@@ -559,17 +559,17 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 91,
-      "bwep": 86,
+      "wep": 86,
+      "bwep": 13,
       "win": false,
-      "kills": 236,
+      "kills": 311,
       "ultra": 0,
       "skills": [
         27,
         10,
-        8,
+        13,
         1,
-        28
+        17
       ],
       "crown": 3,
       "version": 2616,
@@ -710,6 +710,31 @@
       "crown": 3,
       "version": 2616,
       "uid": "5aiDipoV8Mq8pL8",
+      "runId": 11999990
+    },
+    "OG6oUWfDQdLREP4": {
+      "name": "wdwasdsa",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 88,
+      "win": false,
+      "kills": 374,
+      "ultra": 0,
+      "skills": [
+        6,
+        13,
+        1,
+        2,
+        24,
+        7
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
       "runId": 11999990
     }
   }
