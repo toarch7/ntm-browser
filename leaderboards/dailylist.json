@@ -191,6 +191,74 @@
       "version": 2616,
       "uid": "9ezR32ssCk3277B",
       "runId": 416668281
+    },
+    "R0H7R5EV7hkJ9M4": {
+      "name": "ckavert",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 7,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        3,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "R0H7R5EV7hkJ9M4",
+      "runId": 416668281
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 76,
+      "win": false,
+      "kills": 193,
+      "ultra": 0,
+      "skills": [
+        12,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 416668281
+    },
+    "2H1qBEb820z9l5z": {
+      "name": "ULTRAKOTLETA",
+      "char": 6,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 25,
+      "bwep": 88,
+      "win": false,
+      "kills": 909,
+      "ultra": 0,
+      "skills": [
+        3,
+        13,
+        23,
+        1,
+        25,
+        6,
+        7
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "2H1qBEb820z9l5z",
+      "runId": 416668281
     }
   }
 }
