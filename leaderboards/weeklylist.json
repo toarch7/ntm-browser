@@ -287,15 +287,19 @@
       "char": 6,
       "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
       "wep": 86,
-      "bwep": 13,
+      "bwep": 26,
       "win": false,
-      "kills": 55,
+      "kills": 278,
       "ultra": 0,
       "skills": [
-        27
+        27,
+        21,
+        8,
+        1,
+        28
       ],
       "crown": 3,
       "version": 2616,
@@ -523,6 +527,28 @@
       "crown": 3,
       "version": 2620,
       "uid": "9iat0z5A9pP3e0D",
+      "runId": 11999990
+    },
+    "edhTZ83F85f2l9U": {
+      "name": "kak_dela",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 9,
+      "win": false,
+      "kills": 203,
+      "ultra": 0,
+      "skills": [
+        27,
+        8,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "edhTZ83F85f2l9U",
       "runId": 11999990
     }
   }
