@@ -301,6 +301,92 @@
       "version": 2616,
       "uid": "9j0f2xqVR69gDc0",
       "runId": 416668281
+    },
+    "oe0tJOOaYb9gNdq": {
+      "name": "ice_nine",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oe0tJOOaYb9gNdq",
+      "runId": 416668281
+    },
+    "wcw8p29P1BxW88g": {
+      "name": "Kira",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 21,
+      "win": false,
+      "kills": 233,
+      "ultra": 0,
+      "skills": [
+        6,
+        23,
+        8,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wcw8p29P1BxW88g",
+      "runId": 416668281
+    },
+    "1He2gU6x48Fav1j": {
+      "name": "assew",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1He2gU6x48Fav1j",
+      "runId": 416668281
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 8,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 13,
+      "win": false,
+      "kills": 292,
+      "ultra": 0,
+      "skills": [
+        25,
+        10,
+        22,
+        14,
+        13,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 416668281
     }
   }
 }
