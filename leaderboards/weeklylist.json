@@ -741,19 +741,21 @@
       "name": "spelankazoid",
       "char": 6,
       "skin": true,
-      "area": 6,
-      "subarea": 1,
-      "loops": 0,
-      "wep": 74,
-      "bwep": 7,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 86,
+      "bwep": 60,
       "win": false,
-      "kills": 338,
+      "kills": 678,
       "ultra": 0,
       "skills": [
+        14,
         27,
-        10,
         1,
-        28
+        28,
+        4,
+        9
       ],
       "crown": 3,
       "version": 2616,
@@ -955,6 +957,26 @@
       "crown": 3,
       "version": 2616,
       "uid": "85Lyb6wbro3MDp8",
+      "runId": 11999990
+    },
+    "A0w8YZr6wk5I7sj": {
+      "name": "Abstralic",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 86,
+      "bwep": 6,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "A0w8YZr6wk5I7sj",
       "runId": 11999990
     }
   }
