@@ -1,4 +1,54 @@
 {
   "day": 4,
-  "entries": {}
+  "entries": {
+    "PMQlYcaD202tZmI": {
+      "name": "tsun444",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 74,
+      "win": false,
+      "kills": 256,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        1,
+        4,
+        10,
+        9,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "PMQlYcaD202tZmI",
+      "runId": 1637398771
+    },
+    "BBQ6o8B029Q01rW": {
+      "name": "Bakurama1234",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 9,
+      "win": false,
+      "kills": 206,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        10,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BBQ6o8B029Q01rW",
+      "runId": 1637398771
+    }
+  }
 }
