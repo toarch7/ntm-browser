@@ -978,6 +978,26 @@
       "version": 2616,
       "uid": "A0w8YZr6wk5I7sj",
       "runId": 11999990
+    },
+    "02Cf9qK7GUA38js": {
+      "name": "Shadow",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 6,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "02Cf9qK7GUA38js",
+      "runId": 11999990
     }
   }
 }
