@@ -344,6 +344,43 @@
       "version": 2616,
       "uid": "29R17JXtx66TzdO",
       "runId": 889964111
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 23,
+      "crown": 1,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 889964111
+    },
+    "9j0f2xqVR69gDc0": {
+      "name": "Losar",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 69,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        22,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9j0f2xqVR69gDc0",
+      "runId": 889964111
     }
   }
 }
