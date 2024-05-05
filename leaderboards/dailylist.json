@@ -1,4 +1,48 @@
 {
   "day": 5,
-  "entries": {}
+  "entries": {
+    "v9WqG9E1U93yRex": {
+      "name": "Huesos",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 0,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        10,
+        9,
+        2
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "v9WqG9E1U93yRex",
+      "runId": 889964111
+    },
+    "bHIxdKcMRN01RhE": {
+      "name": "golosa69pro",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 21,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        10,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bHIxdKcMRN01RhE",
+      "runId": 889964111
+    }
+  }
 }
