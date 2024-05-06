@@ -400,6 +400,77 @@
       "version": 2616,
       "uid": "LR4Z0Y51PeF9C72",
       "runId": 32338458
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 1,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        7,
+        4,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 32338458
+    },
+    "iqgSxX8cX6XZLoU": {
+      "name": "Jemz",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 37,
+      "win": false,
+      "kills": 166,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        27,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "iqgSxX8cX6XZLoU",
+      "runId": 32338458
+    },
+    "OUgw9jng750xtv8": {
+      "name": "Rex",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 76,
+      "win": false,
+      "kills": 258,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        4,
+        9,
+        3,
+        28,
+        16
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "OUgw9jng750xtv8",
+      "runId": 32338458
     }
   }
 }
