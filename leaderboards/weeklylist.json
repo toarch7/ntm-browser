@@ -1497,16 +1497,15 @@
       "subarea": 1,
       "loops": 0,
       "wep": 3,
-      "bwep": 10,
+      "bwep": 8,
       "win": false,
-      "kills": 197,
+      "kills": 216,
       "ultra": 0,
       "skills": [
         14,
-        6,
         13,
         1,
-        28
+        21
       ],
       "crown": 3,
       "version": 2616,
@@ -1532,6 +1531,30 @@
       "crown": 3,
       "version": 2616,
       "uid": "m96PH9ISC2JCNsw",
+      "runId": 11999990
+    },
+    "29R17JXtx66TzdO": {
+      "name": "beardman",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 62,
+      "win": false,
+      "kills": 242,
+      "ultra": 0,
+      "skills": [
+        27,
+        6,
+        13,
+        1,
+        21
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "29R17JXtx66TzdO",
       "runId": 11999990
     }
   }
