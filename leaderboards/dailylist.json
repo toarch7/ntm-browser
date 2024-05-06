@@ -667,6 +667,73 @@
       "version": 2616,
       "uid": "xi358pW3dXHHd47",
       "runId": 32338458
+    },
+    "bl9FCqWsarB6a85": {
+      "name": "LordOfTheSouls",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 21,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bl9FCqWsarB6a85",
+      "runId": 32338458
+    },
+    "m96PH9ISC2JCNsw": {
+      "name": "OVER-XBOX",
+      "char": 5,
+      "skin": true,
+      "area": 106,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 105,
+      "bwep": 116,
+      "win": false,
+      "kills": 651,
+      "ultra": 2,
+      "skills": [
+        1,
+        4,
+        7,
+        9,
+        27,
+        14,
+        16,
+        12
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "m96PH9ISC2JCNsw",
+      "runId": 32338458
+    },
+    "kHLHIB9neMKBtDc": {
+      "name": "mamaco69",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kHLHIB9neMKBtDc",
+      "runId": 32338458
     }
   }
 }
