@@ -1,4 +1,77 @@
 {
   "day": 6,
-  "entries": {}
+  "entries": {
+    "JmSonruS6k1bcfm": {
+      "name": "DAN1455",
+      "char": 2,
+      "skin": false,
+      "area": 100,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 13,
+      "bwep": 47,
+      "win": false,
+      "kills": 501,
+      "ultra": 1,
+      "skills": [
+        27,
+        4,
+        1,
+        9,
+        13,
+        14,
+        8,
+        7
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "JmSonruS6k1bcfm",
+      "runId": 32338458
+    },
+    "Q3An8fn5Wyc5pXq": {
+      "name": "azyz",
+      "char": 12,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 97,
+      "bwep": 11,
+      "win": false,
+      "kills": 438,
+      "ultra": 0,
+      "skills": [
+        4,
+        27,
+        16,
+        17,
+        8,
+        9
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "Q3An8fn5Wyc5pXq",
+      "runId": 32338458
+    },
+    "bag0utEmAYBLUD6": {
+      "name": "XD",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 0,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "bag0utEmAYBLUD6",
+      "runId": 32338458
+    }
+  }
 }
