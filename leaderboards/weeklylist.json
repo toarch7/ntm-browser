@@ -1403,17 +1403,18 @@
       "name": "PaulRagot",
       "char": 6,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
       "wep": 69,
       "bwep": 86,
       "win": false,
-      "kills": 116,
+      "kills": 194,
       "ultra": 0,
       "skills": [
         6,
-        8
+        8,
+        1
       ],
       "crown": 3,
       "version": 2616,
