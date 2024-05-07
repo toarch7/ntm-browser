@@ -685,6 +685,49 @@
       "version": 2616,
       "uid": "LR4Z0Y51PeF9C72",
       "runId": 1737261550
+    },
+    "MCYRJT31fcxxvIB": {
+      "name": "Guil3",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2616,
+      "uid": "MCYRJT31fcxxvIB",
+      "runId": 1737261550
+    },
+    "OUgw9jng750xtv8": {
+      "name": "Rex",
+      "char": 5,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 33,
+      "win": false,
+      "kills": 364,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        1,
+        9,
+        22,
+        3,
+        24,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "OUgw9jng750xtv8",
+      "runId": 1737261550
     }
   }
 }
