@@ -847,6 +847,95 @@
       "version": 2616,
       "uid": "PfEx5M400iHkY8a",
       "runId": 1737261550
+    },
+    "6OsO6U0eI4yD8n9": {
+      "name": "Saltero",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 6,
+      "win": false,
+      "kills": 194,
+      "ultra": 0,
+      "skills": [
+        21,
+        27,
+        4,
+        1,
+        23,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6OsO6U0eI4yD8n9",
+      "runId": 1737261550
+    },
+    "3EZhI5aLJ177vO4": {
+      "name": "Theslinger",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 3,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        21,
+        10,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3EZhI5aLJ177vO4",
+      "runId": 1737261550
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        13,
+        27,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 1737261550
+    },
+    "Vx02GhYuN7mvdC8": {
+      "name": "gbl",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 1,
+      "win": false,
+      "kills": 21,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Vx02GhYuN7mvdC8",
+      "runId": 1737261550
     }
   }
 }
