@@ -1493,19 +1493,22 @@
       "name": "Braddo",
       "char": 6,
       "skin": true,
-      "area": 5,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 3,
-      "bwep": 8,
+      "wep": 80,
+      "bwep": 3,
       "win": false,
-      "kills": 216,
+      "kills": 279,
       "ultra": 0,
       "skills": [
         14,
+        27,
         13,
         1,
-        21
+        28,
+        6,
+        4
       ],
       "crown": 3,
       "version": 2616,
@@ -1707,6 +1710,27 @@
       "crown": 3,
       "version": 2616,
       "uid": "p8At0WecCoF2Ju7",
+      "runId": 11999990
+    },
+    "071qI0MZ8xy553B": {
+      "name": "nul",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 86,
+      "win": false,
+      "kills": 118,
+      "ultra": 0,
+      "skills": [
+        27,
+        6
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "071qI0MZ8xy553B",
       "runId": 11999990
     }
   }
