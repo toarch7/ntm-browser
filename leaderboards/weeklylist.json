@@ -1668,6 +1668,46 @@
       "version": 2616,
       "uid": "ab25r4ETlL2Myj6",
       "runId": 11999990
+    },
+    "rU51R5i65D9XBl7": {
+      "name": "BlackMan",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 86,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "rU51R5i65D9XBl7",
+      "runId": 11999990
+    },
+    "p8At0WecCoF2Ju7": {
+      "name": "Seeker90",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 6,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "p8At0WecCoF2Ju7",
+      "runId": 11999990
     }
   }
 }
