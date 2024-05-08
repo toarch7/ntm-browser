@@ -664,6 +664,70 @@
       "version": 2616,
       "uid": "64lsh4Hwg4ysAv1",
       "runId": 248497182
+    },
+    "nS4tAXaS957Jv42": {
+      "name": "korin",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "nS4tAXaS957Jv42",
+      "runId": 248497182
+    },
+    "7PM42yZR9TIFn44": {
+      "name": "duck",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 75,
+      "win": false,
+      "kills": 250,
+      "ultra": 0,
+      "skills": [
+        21,
+        23,
+        2,
+        8,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7PM42yZR9TIFn44",
+      "runId": 248497182
+    },
+    "CjEdNqq67as6Dnc": {
+      "name": "diego",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CjEdNqq67as6Dnc",
+      "runId": 248497182
     }
   }
 }
