@@ -770,6 +770,50 @@
       "version": 2616,
       "uid": "0740fbDw6Uaw9A6",
       "runId": 248497182
+    },
+    "h1580vKpqk378ep": {
+      "name": "uxas",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 69,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h1580vKpqk378ep",
+      "runId": 248497182
+    },
+    "5gU7s7keHa8O3p0": {
+      "name": "Rj",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 91,
+      "win": false,
+      "kills": 196,
+      "ultra": 0,
+      "skills": [
+        9,
+        14,
+        8,
+        22,
+        10
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "5gU7s7keHa8O3p0",
+      "runId": 248497182
     }
   }
 }
