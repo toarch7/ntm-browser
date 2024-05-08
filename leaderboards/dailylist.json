@@ -1,4 +1,65 @@
 {
   "day": 8,
-  "entries": {}
+  "entries": {
+    "6hs7fzL7X8jlHtj": {
+      "name": "Braddo",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 16,
+      "crown": 1,
+      "version": 2616,
+      "uid": "6hs7fzL7X8jlHtj",
+      "runId": 248497182
+    },
+    "uGG7nH7E6C32TjO": {
+      "name": "jhoniel",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 34,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        17,
+        23,
+        9,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uGG7nH7E6C32TjO",
+      "runId": 248497182
+    },
+    "10ucxW79zI6tl8R": {
+      "name": "Astropizza218",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 7,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        21,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "10ucxW79zI6tl8R",
+      "runId": 248497182
+    }
+  }
 }
