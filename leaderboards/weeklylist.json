@@ -1336,21 +1336,21 @@
       "name": "rem",
       "char": 6,
       "skin": true,
-      "area": 7,
+      "area": 4,
       "subarea": 1,
-      "loops": 0,
-      "wep": 86,
-      "bwep": 69,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 26,
       "win": false,
-      "kills": 344,
-      "ultra": 0,
+      "kills": 1026,
+      "ultra": 1,
       "skills": [
         27,
         6,
+        16,
+        2,
         8,
-        1,
-        17,
-        16
+        9
       ],
       "crown": 3,
       "version": 2616,
@@ -1896,6 +1896,27 @@
       "crown": 3,
       "version": 2616,
       "uid": "89k83aJYI0vEGrX",
+      "runId": 11999990
+    },
+    "nF82y1oA0b5u6EL": {
+      "name": "XUDEHAO",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 86,
+      "win": false,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        27,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "nF82y1oA0b5u6EL",
       "runId": 11999990
     }
   }
