@@ -454,6 +454,69 @@
       "version": 2616,
       "uid": "Y53pEix9sJl131V",
       "runId": 248497182
+    },
+    "6boa4Fc2dSt8q5b": {
+      "name": "mapachefino",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 18,
+      "crown": 1,
+      "version": 2616,
+      "uid": "6boa4Fc2dSt8q5b",
+      "runId": 248497182
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 9,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 75,
+      "win": false,
+      "kills": 303,
+      "ultra": 0,
+      "skills": [
+        21,
+        13,
+        25,
+        14,
+        29,
+        27,
+        10,
+        1
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 248497182
+    },
+    "HPq07AWj6MWLWQw": {
+      "name": "STRVACT",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 1,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HPq07AWj6MWLWQw",
+      "runId": 248497182
     }
   }
 }
