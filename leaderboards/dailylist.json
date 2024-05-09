@@ -189,6 +189,72 @@
       "version": 2616,
       "uid": "20iMPQABRtEkoyJ",
       "runId": 1358434286
+    },
+    "jPX7E9oAQkm7nla": {
+      "name": "Bel109S",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "jPX7E9oAQkm7nla",
+      "runId": 1358434286
+    },
+    "CAF6vKxmOAdfG61": {
+      "name": "NPC:WASAA",
+      "char": 2,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 70,
+      "win": false,
+      "kills": 237,
+      "ultra": 0,
+      "skills": [
+        22,
+        19,
+        2,
+        8,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CAF6vKxmOAdfG61",
+      "runId": 1358434286
+    },
+    "j7nPnT7YEbkJ974": {
+      "name": "rem",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        22,
+        19,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "j7nPnT7YEbkJ974",
+      "runId": 1358434286
     }
   }
 }
