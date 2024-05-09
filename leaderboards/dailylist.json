@@ -255,6 +255,48 @@
       "version": 2616,
       "uid": "j7nPnT7YEbkJ974",
       "runId": 1358434286
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 21,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        23,
+        28,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 1358434286
+    },
+    "7Ct2D1Q1hgi9m7k": {
+      "name": "watcher",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7Ct2D1Q1hgi9m7k",
+      "runId": 1358434286
     }
   }
 }
