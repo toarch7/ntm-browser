@@ -1904,17 +1904,22 @@
       "name": "XUDEHAO",
       "char": 6,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 6,
-      "bwep": 86,
+      "wep": 77,
+      "bwep": 76,
       "win": false,
-      "kills": 177,
+      "kills": 373,
       "ultra": 0,
       "skills": [
         27,
-        1
+        6,
+        1,
+        28,
+        10,
+        4,
+        9
       ],
       "crown": 3,
       "version": 2616,
@@ -2002,6 +2007,30 @@
       "crown": 3,
       "version": 2616,
       "uid": "7b5OiM785GhH29Z",
+      "runId": 11999990
+    },
+    "sWOpu6YUvUMT73J": {
+      "name": "MelMeh",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 66,
+      "win": false,
+      "kills": 198,
+      "ultra": 0,
+      "skills": [
+        14,
+        27,
+        1,
+        28,
+        6
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "sWOpu6YUvUMT73J",
       "runId": 11999990
     }
   }
