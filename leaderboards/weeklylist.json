@@ -792,17 +792,19 @@
       "name": "Seeker_DY",
       "char": 6,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 5,
+      "subarea": 1,
       "loops": 0,
-      "wep": 86,
-      "bwep": 62,
+      "wep": 69,
+      "bwep": 86,
       "win": false,
-      "kills": 137,
+      "kills": 199,
       "ultra": 0,
       "skills": [
         27,
-        10
+        8,
+        12,
+        28
       ],
       "crown": 3,
       "version": 2616,
@@ -2031,6 +2033,28 @@
       "crown": 3,
       "version": 2616,
       "uid": "sWOpu6YUvUMT73J",
+      "runId": 11999990
+    },
+    "XgY8uZ59o37AV8x": {
+      "name": "bormaleyko",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 3,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        27,
+        6,
+        13
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "XgY8uZ59o37AV8x",
       "runId": 11999990
     }
   }
