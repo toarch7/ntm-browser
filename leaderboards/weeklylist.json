@@ -2127,6 +2127,27 @@
       "version": 2616,
       "uid": "h1j6SqAI5bEgae4",
       "runId": 11999990
+    },
+    "I8l7XPVc6I92Vl6": {
+      "name": "Spoilfish",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 86,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        27,
+        10
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "I8l7XPVc6I92Vl6",
+      "runId": 11999990
     }
   }
 }
