@@ -2084,6 +2084,49 @@
       "version": 2616,
       "uid": "XW11JJaywvKr2L6",
       "runId": 11999990
+    },
+    "316QNl3ACEA87zy": {
+      "name": "VALE",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 3,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "316QNl3ACEA87zy",
+      "runId": 11999990
+    },
+    "h1j6SqAI5bEgae4": {
+      "name": "Enyer",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 86,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        27,
+        10,
+        1,
+        28
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "h1j6SqAI5bEgae4",
+      "runId": 11999990
     }
   }
 }
