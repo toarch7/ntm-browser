@@ -639,6 +639,43 @@
       "version": 2616,
       "uid": "xi358pW3dXHHd47",
       "runId": 1580771422
+    },
+    "eQwWMIJ9hx5c779": {
+      "name": "Seeker5",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 27,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "eQwWMIJ9hx5c779",
+      "runId": 1580771422
+    },
+    "bag0utEmAYBLUD6": {
+      "name": "XD",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 39,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "bag0utEmAYBLUD6",
+      "runId": 1580771422
     }
   }
 }
