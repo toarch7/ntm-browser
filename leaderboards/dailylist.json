@@ -1,4 +1,85 @@
 {
   "day": 11,
-  "entries": {}
+  "entries": {
+    "t7QFC6yGN0m5zCG": {
+      "name": "Spartan845",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2616,
+      "uid": "t7QFC6yGN0m5zCG",
+      "runId": 860607458
+    },
+    "HPq07AWj6MWLWQw": {
+      "name": "STRVACT",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 19,
+      "crown": 1,
+      "version": 2616,
+      "uid": "HPq07AWj6MWLWQw",
+      "runId": 860607458
+    },
+    "5g2pJi9ms1QbmnR": {
+      "name": "Seek",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 19,
+      "crown": 1,
+      "version": 2616,
+      "uid": "5g2pJi9ms1QbmnR",
+      "runId": 860607458
+    },
+    "9jYNDG7ZYN4F99C": {
+      "name": "brillrad",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 24,
+      "crown": 1,
+      "version": 2616,
+      "uid": "9jYNDG7ZYN4F99C",
+      "runId": 860607458
+    },
+    "SR0Vq9bpVkr2D20": {
+      "name": "Denzel_xd",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 16,
+      "crown": 1,
+      "version": 2616,
+      "uid": "SR0Vq9bpVkr2D20",
+      "runId": 860607458
+    }
+  }
 }
