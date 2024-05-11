@@ -2239,6 +2239,49 @@
       "version": 2616,
       "uid": "917acY4n0BsiXjH",
       "runId": 11999990
+    },
+    "h1cEBZFcjJ1QQsm": {
+      "name": "darkness",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 86,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        6,
+        8
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "h1cEBZFcjJ1QQsm",
+      "runId": 11999990
+    },
+    "i0dYivbw23Qo3Sl": {
+      "name": "DemonRAT",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 3,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "i0dYivbw23Qo3Sl",
+      "runId": 11999990
     }
   }
 }
