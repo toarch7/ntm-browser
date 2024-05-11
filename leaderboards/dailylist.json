@@ -149,6 +149,43 @@
       "version": 2616,
       "uid": "6h021cb2BfN2Ldm",
       "runId": 860607458
+    },
+    "m96PH9ISC2JCNsw": {
+      "name": "OVER-XBOX",
+      "char": 5,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 34,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        9,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "m96PH9ISC2JCNsw",
+      "runId": 860607458
+    },
+    "gvQ4O8Er7Y6W8KN": {
+      "name": "leonel",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 26,
+      "crown": 1,
+      "version": 2616,
+      "uid": "gvQ4O8Er7Y6W8KN",
+      "runId": 860607458
     }
   }
 }
