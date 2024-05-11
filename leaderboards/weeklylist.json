@@ -930,13 +930,13 @@
       "name": "duyyzouxxhuddkj",
       "char": 6,
       "skin": true,
-      "area": 103,
+      "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 27,
-      "bwep": 86,
+      "wep": 3,
+      "bwep": 8,
       "win": false,
-      "kills": 62,
+      "kills": 69,
       "ultra": 0,
       "skills": [
         6
@@ -2160,16 +2160,22 @@
       "name": "GamesThrone",
       "char": 6,
       "skin": true,
-      "area": 104,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 23,
-      "bwep": 86,
+      "wep": 86,
+      "bwep": 33,
       "win": false,
-      "kills": 36,
+      "kills": 383,
       "ultra": 0,
       "skills": [
-        27
+        14,
+        27,
+        8,
+        1,
+        28,
+        6,
+        4
       ],
       "crown": 3,
       "version": 2616,
@@ -2281,6 +2287,29 @@
       "crown": 3,
       "version": 2616,
       "uid": "i0dYivbw23Qo3Sl",
+      "runId": 11999990
+    },
+    "S90MR3ZiXezkPSl": {
+      "name": "Brto",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 86,
+      "win": false,
+      "kills": 237,
+      "ultra": 0,
+      "skills": [
+        14,
+        6,
+        16,
+        28
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "S90MR3ZiXezkPSl",
       "runId": 11999990
     }
   }
