@@ -529,6 +529,63 @@
       "version": 2616,
       "uid": "gbulgVu7Hx1U2Jw",
       "runId": 860607458
+    },
+    "3qRzWMq2D2ZC1P9": {
+      "name": "Pierrot",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "3qRzWMq2D2ZC1P9",
+      "runId": 860607458
+    },
+    "6hs7fzL7X8jlHtj": {
+      "name": "Braddo",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 1,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6hs7fzL7X8jlHtj",
+      "runId": 860607458
+    },
+    "917acY4n0BsiXjH": {
+      "name": "Seki",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 2,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        3,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "917acY4n0BsiXjH",
+      "runId": 860607458
     }
   }
 }
