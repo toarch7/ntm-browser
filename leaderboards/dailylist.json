@@ -575,6 +575,69 @@
       "version": 2616,
       "uid": "IeA7p3XbRjtwyts",
       "runId": 238298232
+    },
+    "5O16m6T7PbwSku9": {
+      "name": "WaluigiDIE",
+      "char": 1,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 13,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5O16m6T7PbwSku9",
+      "runId": 238298232
+    },
+    "5aiDipoV8Mq8pL8": {
+      "name": "Masterf",
+      "char": 5,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 3,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        25,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5aiDipoV8Mq8pL8",
+      "runId": 238298232
+    },
+    "6Y56X0I82G02efn": {
+      "name": "GamesThrone",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 14,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        28,
+        27,
+        14
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "6Y56X0I82G02efn",
+      "runId": 238298232
     }
   }
 }
