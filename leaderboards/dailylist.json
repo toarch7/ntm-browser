@@ -272,6 +272,50 @@
       "version": 2616,
       "uid": "29R17JXtx66TzdO",
       "runId": 238298232
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "1000THR",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 5,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        25,
+        10,
+        23,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
+      "runId": 238298232
+    },
+    "23qMNVFxOgW28dk": {
+      "name": "tu",
+      "char": 12,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 81,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        7,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "23qMNVFxOgW28dk",
+      "runId": 238298232
     }
   }
 }
