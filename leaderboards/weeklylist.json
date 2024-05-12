@@ -2356,6 +2356,47 @@
       "version": 2616,
       "uid": "t03AQ6HSGsxA4KX",
       "runId": 11999990
+    },
+    "93H9N33tSkvdaew": {
+      "name": "Seeker90",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 86,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "93H9N33tSkvdaew",
+      "runId": 11999990
+    },
+    "P9OFfgPsgKLlIzy": {
+      "name": "utcm",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 3,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        27,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "P9OFfgPsgKLlIzy",
+      "runId": 11999990
     }
   }
 }
