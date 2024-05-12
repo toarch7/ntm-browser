@@ -165,6 +165,91 @@
       "version": 2616,
       "uid": "9ezR32ssCk3277B",
       "runId": 238298232
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 117,
+      "win": false,
+      "kills": 210,
+      "ultra": 0,
+      "skills": [
+        7,
+        27,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 238298232
+    },
+    "Q3An8fn5Wyc5pXq": {
+      "name": "azyz",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 81,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "Q3An8fn5Wyc5pXq",
+      "runId": 238298232
+    },
+    "XUQ178r3zG82nn9": {
+      "name": "GENGAR",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 30,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        25,
+        23,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XUQ178r3zG82nn9",
+      "runId": 238298232
+    },
+    "Eeu5e6RE6V1C0B9": {
+      "name": "Giga_Kars",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 16,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        7,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Eeu5e6RE6V1C0B9",
+      "runId": 238298232
     }
   }
 }
