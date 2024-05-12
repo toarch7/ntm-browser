@@ -697,6 +697,47 @@
       "version": 2616,
       "uid": "7PM42yZR9TIFn44",
       "runId": 238298232
+    },
+    "k03V5092i1vDcKN": {
+      "name": "J0RD4N",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "k03V5092i1vDcKN",
+      "runId": 238298232
+    },
+    "25b9QayFLIM61JL": {
+      "name": "darwin",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 5,
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        26,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "25b9QayFLIM61JL",
+      "runId": 238298232
     }
   }
 }
