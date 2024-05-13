@@ -212,6 +212,43 @@
       "version": 2616,
       "uid": "6h021cb2BfN2Ldm",
       "runId": 712295939
+    },
+    "Eeu5e6RE6V1C0B9": {
+      "name": "Giga_Kars",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 31,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        19,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Eeu5e6RE6V1C0B9",
+      "runId": 712295939
+    },
+    "xbU358LxZnH30R3": {
+      "name": "svdvgdhvdb",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "xbU358LxZnH30R3",
+      "runId": 712295939
     }
   }
 }
