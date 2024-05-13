@@ -374,6 +374,47 @@
       "version": 2616,
       "uid": "HPq07AWj6MWLWQw",
       "runId": 712295939
+    },
+    "4vYa1L2zylmgO23": {
+      "name": "gunter",
+      "char": 9,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 31,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        21,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4vYa1L2zylmgO23",
+      "runId": 712295939
+    },
+    "49xeDXVT2fSkl2b": {
+      "name": "yackpro",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 26,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "49xeDXVT2fSkl2b",
+      "runId": 712295939
     }
   }
 }
