@@ -521,6 +521,54 @@
       "version": 2616,
       "uid": "4Sy5nrUXWUco5NL",
       "runId": 712295939
+    },
+    "Z9Rzju7dQ3K9vYv": {
+      "name": "Banairou",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 88,
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        14,
+        22,
+        24,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Z9Rzju7dQ3K9vYv",
+      "runId": 712295939
+    },
+    "sWOpu6YUvUMT73J": {
+      "name": "MelMeh",
+      "char": 9,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 11,
+      "win": false,
+      "kills": 293,
+      "ultra": 0,
+      "skills": [
+        14,
+        22,
+        8,
+        23,
+        12,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sWOpu6YUvUMT73J",
+      "runId": 712295939
     }
   }
 }
