@@ -1,4 +1,52 @@
 {
   "day": 13,
-  "entries": {}
+  "entries": {
+    "uGG7nH7E6C32TjO": {
+      "name": "jhoniel",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 64,
+      "bwep": 22,
+      "win": false,
+      "kills": 551,
+      "ultra": 1,
+      "skills": [
+        14,
+        22,
+        8,
+        23,
+        9,
+        19,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uGG7nH7E6C32TjO",
+      "runId": 712295939
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 69,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        2,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 712295939
+    }
+  }
 }
