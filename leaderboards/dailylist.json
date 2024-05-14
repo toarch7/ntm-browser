@@ -1,4 +1,42 @@
 {
   "day": 14,
-  "entries": {}
+  "entries": {
+    "rkXQW92bI7xN0jR": {
+      "name": "Detroit.",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 69,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        2,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rkXQW92bI7xN0jR",
+      "runId": 1616898156
+    },
+    "51hn3SWQJXe5ble": {
+      "name": "sadoc",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "51hn3SWQJXe5ble",
+      "runId": 1616898156
+    }
+  }
 }
