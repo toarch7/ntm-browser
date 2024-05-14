@@ -141,6 +141,47 @@
       "version": 2616,
       "uid": "n5BA29aG845IhTO",
       "runId": 1616898156
+    },
+    "EtvYeyES7p00Y2V": {
+      "name": "Самса",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 27,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EtvYeyES7p00Y2V",
+      "runId": 1616898156
+    },
+    "9Hhm071wUAKeDB3": {
+      "name": "Froggo518",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 27,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        10,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9Hhm071wUAKeDB3",
+      "runId": 1616898156
     }
   }
 }
