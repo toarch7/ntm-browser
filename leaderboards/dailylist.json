@@ -434,6 +434,42 @@
       "version": 2616,
       "uid": "LR4Z0Y51PeF9C72",
       "runId": 2064633323
+    },
+    "Rjgbeq4u87m9fox": {
+      "name": "See",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Rjgbeq4u87m9fox",
+      "runId": 2064633323
+    },
+    "6hs7fzL7X8jlHtj": {
+      "name": "Braddo",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 81,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6hs7fzL7X8jlHtj",
+      "runId": 2064633323
     }
   }
 }
