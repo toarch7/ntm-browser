@@ -20,6 +20,47 @@
       "version": 2616,
       "uid": "ij7741tFaU6F865",
       "runId": 2064633323
+    },
+    "7b5OiM785GhH29Z": {
+      "name": "EDERZON",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 18,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7b5OiM785GhH29Z",
+      "runId": 2064633323
+    },
+    "Eeu5e6RE6V1C0B9": {
+      "name": "Giga_Kars",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 13,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        9,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Eeu5e6RE6V1C0B9",
+      "runId": 2064633323
     }
   }
 }
