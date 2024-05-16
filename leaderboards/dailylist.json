@@ -1,4 +1,58 @@
 {
   "day": 16,
-  "entries": {}
+  "entries": {
+    "P9OFfgPsgKLlIzy": {
+      "name": "utcm",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "P9OFfgPsgKLlIzy",
+      "runId": 1230210844
+    },
+    "25b9QayFLIM61JL": {
+      "name": "darwin",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 18,
+      "crown": 1,
+      "version": 2616,
+      "uid": "25b9QayFLIM61JL",
+      "runId": 1230210844
+    },
+    "1bQfwN5Zt083DK6": {
+      "name": "Morwit",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        6,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1bQfwN5Zt083DK6",
+      "runId": 1230210844
+    }
+  }
 }
