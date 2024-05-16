@@ -547,6 +547,52 @@
       "version": 2616,
       "uid": "TXSh93TN6YZ0BB8",
       "runId": 1230210844
+    },
+    "15WYsCS7k7THIhg": {
+      "name": "HungryHuy",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 5,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "15WYsCS7k7THIhg",
+      "runId": 1230210844
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 64,
+      "bwep": 13,
+      "win": false,
+      "kills": 549,
+      "ultra": 1,
+      "skills": [
+        14,
+        8,
+        22,
+        27,
+        13,
+        28,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 1230210844
     }
   }
 }
