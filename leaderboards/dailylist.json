@@ -105,6 +105,44 @@
       "version": 2616,
       "uid": "uGG7nH7E6C32TjO",
       "runId": 1560664210
+    },
+    "7b5OiM785GhH29Z": {
+      "name": "EDERZON",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 9,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        24,
+        25,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7b5OiM785GhH29Z",
+      "runId": 1560664210
+    },
+    "Rjgbeq4u87m9fox": {
+      "name": "See",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Rjgbeq4u87m9fox",
+      "runId": 1560664210
     }
   }
 }
