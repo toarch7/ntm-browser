@@ -583,6 +583,27 @@
       "version": 2616,
       "uid": "zDlz7lnhK4sKA8W",
       "runId": 946763951
+    },
+    "sEpf2xcylH3zTs6": {
+      "name": "Destroy_of_Gods",
+      "char": 6,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        17,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sEpf2xcylH3zTs6",
+      "runId": 946763951
     }
   }
 }
