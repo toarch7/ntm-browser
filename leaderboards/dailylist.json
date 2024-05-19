@@ -185,6 +185,48 @@
       "version": 2616,
       "uid": "9ezR32ssCk3277B",
       "runId": 946763951
+    },
+    "GuGe2FOPv1z7Vd9": {
+      "name": "Hexen",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 0,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        23,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GuGe2FOPv1z7Vd9",
+      "runId": 946763951
+    },
+    "Rjgbeq4u87m9fox": {
+      "name": "See",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 72,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        2,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Rjgbeq4u87m9fox",
+      "runId": 946763951
     }
   }
 }
