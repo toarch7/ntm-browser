@@ -1,4 +1,68 @@
 {
   "day": 19,
-  "entries": {}
+  "entries": {
+    "Ifvt31dT5oT9xIy": {
+      "name": "Mechblack",
+      "char": 7,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ifvt31dT5oT9xIy",
+      "runId": 946763951
+    },
+    "Qt41JaCbwVJ1bvV": {
+      "name": "gucciTRAPS",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 8,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        2,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Qt41JaCbwVJ1bvV",
+      "runId": 946763951
+    },
+    "AiOEQ4mbIcW8TsT": {
+      "name": "§hæđøw",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 4,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        19,
+        4,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "AiOEQ4mbIcW8TsT",
+      "runId": 946763951
+    }
+  }
 }
