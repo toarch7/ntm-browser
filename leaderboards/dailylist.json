@@ -328,6 +328,30 @@
       "version": 2616,
       "uid": "5O16m6T7PbwSku9",
       "runId": 1121949409
+    },
+    "v9WqG9E1U93yRex": {
+      "name": "Huesos",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 38,
+      "win": false,
+      "kills": 244,
+      "ultra": 0,
+      "skills": [
+        12,
+        1,
+        27,
+        2,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "v9WqG9E1U93yRex",
+      "runId": 1121949409
     }
   }
 }
