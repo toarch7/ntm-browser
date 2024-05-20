@@ -394,6 +394,44 @@
       "version": 2616,
       "uid": "48C95nBJI2O7y7j",
       "runId": 1121949409
+    },
+    "7PM42yZR9TIFn44": {
+      "name": "duck",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 69,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        13,
+        7,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7PM42yZR9TIFn44",
+      "runId": 1121949409
+    },
+    "89k83aJYI0vEGrX": {
+      "name": "ilyich",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "89k83aJYI0vEGrX",
+      "runId": 1121949409
     }
   }
 }
