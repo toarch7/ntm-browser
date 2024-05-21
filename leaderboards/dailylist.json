@@ -525,6 +525,71 @@
       "version": 2616,
       "uid": "OUgw9jng750xtv8",
       "runId": 1928375980
+    },
+    "7PM42yZR9TIFn44": {
+      "name": "duck",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 3,
+      "win": false,
+      "kills": 235,
+      "ultra": 0,
+      "skills": [
+        4,
+        9,
+        22,
+        17,
+        24,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7PM42yZR9TIFn44",
+      "runId": 1928375980
+    },
+    "sEpf2xcylH3zTs6": {
+      "name": "Destroy_of_Gods",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 5,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sEpf2xcylH3zTs6",
+      "runId": 1928375980
+    },
+    "G2uuWpYj4s6CVNJ": {
+      "name": "Eriksioso",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 4,
+      "win": false,
+      "kills": 14,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "G2uuWpYj4s6CVNJ",
+      "runId": 1928375980
     }
   }
 }
