@@ -444,6 +444,47 @@
       "version": 2616,
       "uid": "EVl3A0wZ9bTFs7w",
       "runId": 1928375980
+    },
+    "4859n02d4l8uRWW": {
+      "name": "joseph",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 3,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4859n02d4l8uRWW",
+      "runId": 1928375980
+    },
+    "6ZNK111nGLk6O94": {
+      "name": "FrostByte",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 17,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        4,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6ZNK111nGLk6O94",
+      "runId": 1928375980
     }
   }
 }
