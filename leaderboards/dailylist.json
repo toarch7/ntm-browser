@@ -393,6 +393,64 @@
       "version": 2616,
       "uid": "Qt41JaCbwVJ1bvV",
       "runId": 481954127
+    },
+    "rXZCrOGjKC7F1lx": {
+      "name": "jopa",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "rXZCrOGjKC7F1lx",
+      "runId": 481954127
+    },
+    "49xeDXVT2fSkl2b": {
+      "name": "yackpro",
+      "char": 8,
+      "skin": true,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 13,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "49xeDXVT2fSkl2b",
+      "runId": 481954127
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 3,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        7,
+        13,
+        27
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 481954127
     }
   }
 }
