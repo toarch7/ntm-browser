@@ -225,6 +225,68 @@
       "version": 2616,
       "uid": "lrlGasO9E3r5E5w",
       "runId": 481954127
+    },
+    "ZacmoXYyN7yb341": {
+      "name": "enderman",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        23,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ZacmoXYyN7yb341",
+      "runId": 481954127
+    },
+    "LR4Z0Y51PeF9C72": {
+      "name": "TBneitor38",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 17,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "LR4Z0Y51PeF9C72",
+      "runId": 481954127
+    },
+    "1pvOG0jZbRvniU8": {
+      "name": "zoroo",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 16,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        25,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1pvOG0jZbRvniU8",
+      "runId": 481954127
     }
   }
 }
