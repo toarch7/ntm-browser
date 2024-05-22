@@ -3371,6 +3371,48 @@
       "version": 2616,
       "uid": "a5L72081tP0s7pG",
       "runId": 11999990
+    },
+    "ZS3n9OQ629vg28i": {
+      "name": "hola",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 55,
+      "win": false,
+      "kills": 182,
+      "ultra": 0,
+      "skills": [
+        6,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "ZS3n9OQ629vg28i",
+      "runId": 11999990
+    },
+    "c1M7GklpI726aa7": {
+      "name": "horor",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 66,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        27,
+        10
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "c1M7GklpI726aa7",
+      "runId": 11999990
     }
   }
 }

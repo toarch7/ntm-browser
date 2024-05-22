@@ -473,6 +473,104 @@
       "version": 2616,
       "uid": "RGDd572P6MfWctg",
       "runId": 481954127
+    },
+    "5O16m6T7PbwSku9": {
+      "name": "WaluigiDIE",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 3,
+      "win": false,
+      "kills": 19,
+      "crown": 1,
+      "version": 2616,
+      "uid": "5O16m6T7PbwSku9",
+      "runId": 481954127
+    },
+    "gyM03l3uTX8P1fy": {
+      "name": "muerte",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 21,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gyM03l3uTX8P1fy",
+      "runId": 481954127
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        23,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 481954127
+    },
+    "7PM42yZR9TIFn44": {
+      "name": "duck",
+      "char": 12,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 7,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7PM42yZR9TIFn44",
+      "runId": 481954127
+    },
+    "ZS3n9OQ629vg28i": {
+      "name": "hola",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        7,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ZS3n9OQ629vg28i",
+      "runId": 481954127
     }
   }
 }
