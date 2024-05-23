@@ -1,4 +1,48 @@
 {
   "day": 23,
-  "entries": {}
+  "entries": {
+    "25b9QayFLIM61JL": {
+      "name": "darwin",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 4,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "25b9QayFLIM61JL",
+      "runId": 932687801
+    },
+    "7b5OiM785GhH29Z": {
+      "name": "EDERZON",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 31,
+      "win": false,
+      "kills": 226,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        19,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7b5OiM785GhH29Z",
+      "runId": 932687801
+    }
+  }
 }
