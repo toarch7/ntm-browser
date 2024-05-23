@@ -63,6 +63,75 @@
       "version": 2616,
       "uid": "7Otb8MKme2Mzm07",
       "runId": 932687801
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 9,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 22,
+      "bwep": 35,
+      "win": false,
+      "kills": 371,
+      "ultra": 1,
+      "skills": [
+        4,
+        7,
+        1,
+        9,
+        23,
+        21,
+        24,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 932687801
+    },
+    "9ezR32ssCk3277B": {
+      "name": "Andersony",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 1,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        16,
+        9,
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "9ezR32ssCk3277B",
+      "runId": 932687801
+    },
+    "90uw6wRIp93U7vS": {
+      "name": "Lukasteken",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 0,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "90uw6wRIp93U7vS",
+      "runId": 932687801
     }
   }
 }
