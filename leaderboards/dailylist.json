@@ -172,6 +172,50 @@
       "version": 2616,
       "uid": "7KV58I6U3C9FOU6",
       "runId": 272466140
+    },
+    "Rjgbeq4u87m9fox": {
+      "name": "See",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Rjgbeq4u87m9fox",
+      "runId": 272466140
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "1000THR",
+      "char": 7,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 23,
+      "win": false,
+      "kills": 329,
+      "ultra": 0,
+      "skills": [
+        23,
+        17,
+        19,
+        3,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
+      "runId": 272466140
     }
   }
 }
