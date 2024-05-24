@@ -532,6 +532,43 @@
       "version": 2616,
       "uid": "Q3An8fn5Wyc5pXq",
       "runId": 272466140
+    },
+    "oBq9aw6fR0dQcrI": {
+      "name": "Aloin",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 19,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        8,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oBq9aw6fR0dQcrI",
+      "runId": 272466140
+    },
+    "b17S80tYkpQpQv2": {
+      "name": "Daicler",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "b17S80tYkpQpQv2",
+      "runId": 272466140
     }
   }
 }
