@@ -452,6 +452,47 @@
       "version": 2616,
       "uid": "7PM42yZR9TIFn44",
       "runId": 272466140
+    },
+    "68ROIR3K8c2Xjfi": {
+      "name": "Shushou",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 4,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "68ROIR3K8c2Xjfi",
+      "runId": 272466140
+    },
+    "mc9HHI5D2OIAy34": {
+      "name": "TheBookmaster",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 5,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        6,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mc9HHI5D2OIAy34",
+      "runId": 272466140
     }
   }
 }
