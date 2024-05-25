@@ -3583,6 +3583,49 @@
       "version": 2616,
       "uid": "ySBBTqEZ6hG0Sn6",
       "runId": 11999990
+    },
+    "M37r0hlvHhYgQ5m": {
+      "name": "EugeshA",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 86,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        27,
+        6
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "M37r0hlvHhYgQ5m",
+      "runId": 11999990
+    },
+    "JRNyiWuqpHyV5Vg": {
+      "name": "hull",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 3,
+      "win": false,
+      "kills": 176,
+      "ultra": 0,
+      "skills": [
+        27,
+        8,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "JRNyiWuqpHyV5Vg",
+      "runId": 11999990
     }
   }
 }
