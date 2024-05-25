@@ -1,4 +1,68 @@
 {
   "day": 25,
-  "entries": {}
+  "entries": {
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 40,
+      "bwep": 35,
+      "win": false,
+      "kills": 1775,
+      "ultra": 1,
+      "skills": [
+        14,
+        10,
+        13,
+        8,
+        17,
+        27,
+        25,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 1232133253
+    },
+    "5O16m6T7PbwSku9": {
+      "name": "WaluigiDIE",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 5,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "5O16m6T7PbwSku9",
+      "runId": 1232133253
+    },
+    "vrtT3F8667q3D0w": {
+      "name": "Kalango2077",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 5,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "vrtT3F8667q3D0w",
+      "runId": 1232133253
+    }
+  }
 }
