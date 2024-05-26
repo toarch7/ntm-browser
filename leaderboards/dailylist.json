@@ -125,6 +125,43 @@
       "version": 2616,
       "uid": "Q3An8fn5Wyc5pXq",
       "runId": 225307062
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 16,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        1,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 225307062
+    },
+    "k7hPcrx5uBF61r6": {
+      "name": "NiHill",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "k7hPcrx5uBF61r6",
+      "runId": 225307062
     }
   }
 }
