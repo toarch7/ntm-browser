@@ -1,4 +1,56 @@
 {
   "day": 27,
-  "entries": {}
+  "entries": {
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 11,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 25,
+      "win": false,
+      "kills": 338,
+      "ultra": 0,
+      "skills": [
+        13,
+        8,
+        7,
+        22,
+        17,
+        1,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 249014729
+    },
+    "25b9QayFLIM61JL": {
+      "name": "darwin",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 17,
+      "win": false,
+      "kills": 254,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        28,
+        24,
+        19,
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "25b9QayFLIM61JL",
+      "runId": 249014729
+    }
+  }
 }
