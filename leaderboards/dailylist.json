@@ -241,6 +241,53 @@
       "version": 2616,
       "uid": "WwgdkWWfFzA47pz",
       "runId": 249014729
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 71,
+      "win": false,
+      "kills": 189,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        9,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 249014729
+    },
+    "1ZvnO4Y9mRM6F5K": {
+      "name": "lol",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 76,
+      "win": false,
+      "kills": 259,
+      "ultra": 0,
+      "skills": [
+        13,
+        7,
+        28,
+        19,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "1ZvnO4Y9mRM6F5K",
+      "runId": 249014729
     }
   }
 }
