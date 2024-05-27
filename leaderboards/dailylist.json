@@ -432,6 +432,46 @@
       "version": 2616,
       "uid": "gL2Wb7G3b91u6Yg",
       "runId": 249014729
+    },
+    "ohE6m2Yr1D8v5Bt": {
+      "name": "peixe",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 17,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ohE6m2Yr1D8v5Bt",
+      "runId": 249014729
+    },
+    "49xeDXVT2fSkl2b": {
+      "name": "yackpro",
+      "char": 10,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 12,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "49xeDXVT2fSkl2b",
+      "runId": 249014729
     }
   }
 }
