@@ -256,6 +256,46 @@
       "version": 2616,
       "uid": "13P3br4eB648BtR",
       "runId": 843825547
+    },
+    "MHC1lZEEd9KbN24": {
+      "name": "null",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 5,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MHC1lZEEd9KbN24",
+      "runId": 843825547
+    },
+    "6p0laFbsx7me9cI": {
+      "name": "Cytus",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 13,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6p0laFbsx7me9cI",
+      "runId": 843825547
     }
   }
 }
