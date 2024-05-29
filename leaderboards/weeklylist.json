@@ -1300,6 +1300,54 @@
       "version": 2616,
       "uid": "3EZhI5aLJ177vO4",
       "runId": 6611290
+    },
+    "eoF1b5770uqxWNq": {
+      "name": "arki",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 77,
+      "bwep": 97,
+      "win": false,
+      "kills": 553,
+      "ultra": 1,
+      "skills": [
+        10,
+        7,
+        1,
+        19,
+        4,
+        9,
+        25,
+        22
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "eoF1b5770uqxWNq",
+      "runId": 6611290
+    },
+    "KXRu3MHZcA016sL": {
+      "name": "beralna",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 88,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        23,
+        27
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "KXRu3MHZcA016sL",
+      "runId": 6611290
     }
   }
 }
