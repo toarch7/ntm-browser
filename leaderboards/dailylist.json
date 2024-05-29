@@ -1,4 +1,61 @@
 {
   "day": 29,
-  "entries": {}
+  "entries": {
+    "23qMNVFxOgW28dk": {
+      "name": "tu",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 21,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "23qMNVFxOgW28dk",
+      "runId": 976729719
+    },
+    "G026mmme6btK3Ik": {
+      "name": "pauldo",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 19,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "G026mmme6btK3Ik",
+      "runId": 976729719
+    },
+    "7b5OiM785GhH29Z": {
+      "name": "EDERZON",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7b5OiM785GhH29Z",
+      "runId": 976729719
+    }
+  }
 }
