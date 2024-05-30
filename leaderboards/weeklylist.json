@@ -1548,6 +1548,59 @@
       "version": 2616,
       "uid": "pChr46tqqv6eHhR",
       "runId": 6611290
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 49,
+      "bwep": 105,
+      "win": false,
+      "kills": 710,
+      "ultra": 1,
+      "skills": [
+        23,
+        9,
+        16,
+        19,
+        22,
+        14,
+        1,
+        10
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 6611290
+    },
+    "oOm2a20I5W4a9lT": {
+      "name": "ProAyan",
+      "char": 2,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 23,
+      "win": false,
+      "kills": 325,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        28,
+        9,
+        14,
+        1,
+        4
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "oOm2a20I5W4a9lT",
+      "runId": 6611290
     }
   }
 }
