@@ -1246,18 +1246,19 @@
       "name": "BlackGamer389",
       "char": 2,
       "skin": false,
-      "area": 102,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 9,
-      "bwep": 72,
+      "wep": 59,
+      "bwep": 49,
       "win": false,
-      "kills": 94,
+      "kills": 139,
       "ultra": 0,
       "skills": [
         10,
         7,
-        1
+        1,
+        14
       ],
       "crown": 6,
       "version": 2616,
@@ -1671,6 +1672,51 @@
       "crown": 6,
       "version": 2616,
       "uid": "Kd9cpjAs99ocs6P",
+      "runId": 6611290
+    },
+    "7PM42yZR9TIFn44": {
+      "name": "duck",
+      "char": 2,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 117,
+      "win": false,
+      "kills": 161,
+      "ultra": 0,
+      "skills": [
+        13,
+        9,
+        7,
+        4
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "7PM42yZR9TIFn44",
+      "runId": 6611290
+    },
+    "hif470IQo5QrWUW": {
+      "name": "tumama",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 49,
+      "bwep": 88,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        13,
+        9,
+        27
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "hif470IQo5QrWUW",
       "runId": 6611290
     }
   }
