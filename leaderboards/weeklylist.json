@@ -1799,17 +1799,17 @@
       "char": 2,
       "skin": false,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 88,
-      "bwep": 30,
+      "wep": 30,
+      "bwep": 66,
       "win": false,
-      "kills": 94,
+      "kills": 110,
       "ultra": 0,
       "skills": [
-        13,
-        9,
-        7
+        23,
+        10,
+        19
       ],
       "crown": 6,
       "version": 2616,
@@ -1836,6 +1836,31 @@
       "crown": 6,
       "version": 2616,
       "uid": "3Bq3YcM6wv2ap4H",
+      "runId": 6611290
+    },
+    "0740fbDw6Uaw9A6": {
+      "name": "spelankazoid",
+      "char": 2,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 35,
+      "win": false,
+      "kills": 285,
+      "ultra": 0,
+      "skills": [
+        23,
+        27,
+        7,
+        4,
+        9,
+        1
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "0740fbDw6Uaw9A6",
       "runId": 6611290
     }
   }
