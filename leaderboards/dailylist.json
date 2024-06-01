@@ -436,6 +436,62 @@
       "version": 2616,
       "uid": "7b5OiM785GhH29Z",
       "runId": 1895030352
+    },
+    "9Q663x73iy1Yp38": {
+      "name": "pien",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "9Q663x73iy1Yp38",
+      "runId": 1895030352
+    },
+    "9jYNDG7ZYN4F99C": {
+      "name": "rad_away77",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9jYNDG7ZYN4F99C",
+      "runId": 1895030352
+    },
+    "XUQ178r3zG82nn9": {
+      "name": "Чебоксар",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 39,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XUQ178r3zG82nn9",
+      "runId": 1895030352
     }
   }
 }
