@@ -93,6 +93,73 @@
       "version": 2616,
       "uid": "W471611Hz3mp7zD",
       "runId": 1895030352
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 60,
+      "bwep": 11,
+      "win": false,
+      "kills": 324,
+      "ultra": 0,
+      "skills": [
+        1,
+        21,
+        7,
+        23,
+        12,
+        16,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 1895030352
+    },
+    "l6x3H10Dnha7tGM": {
+      "name": "poker",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 22,
+      "bwep": 30,
+      "win": false,
+      "kills": 506,
+      "ultra": 1,
+      "skills": [
+        1,
+        6,
+        7,
+        8,
+        27,
+        14
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "l6x3H10Dnha7tGM",
+      "runId": 1895030352
+    },
+    "6dG661D64uJ544r": {
+      "name": "seeker",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "6dG661D64uJ544r",
+      "runId": 1895030352
     }
   }
 }
