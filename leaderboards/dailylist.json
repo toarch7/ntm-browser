@@ -1,4 +1,77 @@
 {
   "day": 1,
-  "entries": {}
+  "entries": {
+    "25b9QayFLIM61JL": {
+      "name": "darwin",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 39,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "25b9QayFLIM61JL",
+      "runId": 1895030352
+    },
+    "03L336NJW66Hg6Z": {
+      "name": "Seeker90",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "03L336NJW66Hg6Z",
+      "runId": 1895030352
+    },
+    "oI8XmZp235My0O8": {
+      "name": "osuka",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 27,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oI8XmZp235My0O8",
+      "runId": 1895030352
+    },
+    "1O85sjFziRsb8aZ": {
+      "name": "Ashelian",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1O85sjFziRsb8aZ",
+      "runId": 1895030352
+    }
+  }
 }

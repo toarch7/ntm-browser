@@ -1884,6 +1884,51 @@
       "version": 2616,
       "uid": "63L5j3eTXtHM20e",
       "runId": 6611290
+    },
+    "oI8XmZp235My0O8": {
+      "name": "osuka",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 49,
+      "bwep": 6,
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        10,
+        9,
+        7,
+        28
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "oI8XmZp235My0O8",
+      "runId": 6611290
+    },
+    "wcX8m72OsiDi49E": {
+      "name": "FixH",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 49,
+      "bwep": 88,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        13,
+        9,
+        7
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "wcX8m72OsiDi49E",
+      "runId": 6611290
     }
   }
 }
