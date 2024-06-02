@@ -367,6 +367,47 @@
       "version": 2616,
       "uid": "khO581s5c4MEPE3",
       "runId": 499206188
+    },
+    "C544rJeha6FYYy5": {
+      "name": "Takamagahara",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "C544rJeha6FYYy5",
+      "runId": 499206188
+    },
+    "XUQ178r3zG82nn9": {
+      "name": "Чебоксар",
+      "char": 2,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 35,
+      "win": false,
+      "kills": 315,
+      "ultra": 0,
+      "skills": [
+        1,
+        3,
+        7,
+        6,
+        9,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XUQ178r3zG82nn9",
+      "runId": 499206188
     }
   }
 }
