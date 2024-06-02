@@ -1752,19 +1752,21 @@
       "name": "AlanCDP",
       "char": 2,
       "skin": false,
-      "area": 3,
-      "subarea": 2,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 116,
-      "bwep": 30,
+      "wep": 25,
+      "bwep": 59,
       "win": false,
-      "kills": 124,
+      "kills": 263,
       "ultra": 0,
       "skills": [
-        23,
-        27,
+        10,
         16,
-        28
+        1,
+        27,
+        4,
+        23
       ],
       "crown": 6,
       "version": 2616,
@@ -2099,6 +2101,29 @@
       "crown": 6,
       "version": 2616,
       "uid": "00HdYo5vEM08ikN",
+      "runId": 6611290
+    },
+    "P9OFfgPsgKLlIzy": {
+      "name": "utcm",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 49,
+      "bwep": 0,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        23,
+        9,
+        16,
+        28
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "P9OFfgPsgKLlIzy",
       "runId": 6611290
     }
   }
