@@ -155,6 +155,133 @@
       "version": 2616,
       "uid": "N65n27A9w0ffuB8",
       "runId": 499206188
+    },
+    "7b5OiM785GhH29Z": {
+      "name": "EDERZON",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 71,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7b5OiM785GhH29Z",
+      "runId": 499206188
+    },
+    "VafsKFWnHH3LTAN": {
+      "name": "agd",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 18,
+      "crown": 1,
+      "version": 2616,
+      "uid": "VafsKFWnHH3LTAN",
+      "runId": 499206188
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 69,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        1,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 499206188
+    },
+    "b4nCMzs6g4jm9V6": {
+      "name": "Hyoga",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 5,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        1,
+        3,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "b4nCMzs6g4jm9V6",
+      "runId": 499206188
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 72,
+      "bwep": 1,
+      "win": false,
+      "kills": 208,
+      "ultra": 0,
+      "skills": [
+        25,
+        3,
+        8,
+        6,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 499206188
+    },
+    "9ezR32ssCk3277B": {
+      "name": "Andersony",
+      "char": 2,
+      "skin": true,
+      "area": 100,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        13,
+        23,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9ezR32ssCk3277B",
+      "runId": 499206188
     }
   }
 }
