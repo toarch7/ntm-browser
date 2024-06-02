@@ -1,4 +1,118 @@
 {
   "day": 2,
-  "entries": {}
+  "entries": {
+    "g7nTeU9lpy5rupK": {
+      "name": "g.s",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 15,
+      "win": false,
+      "kills": 250,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        8,
+        6
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "g7nTeU9lpy5rupK",
+      "runId": 499206188
+    },
+    "6dG661D64uJ544r": {
+      "name": "seeker",
+      "char": 6,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 27,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        1,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6dG661D64uJ544r",
+      "runId": 499206188
+    },
+    "k1PDg5968y45A0f": {
+      "name": "Gabriel",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 1,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        1,
+        3,
+        4,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "k1PDg5968y45A0f",
+      "runId": 499206188
+    },
+    "Pb3ym1gagM8DUTq": {
+      "name": "Seeker9",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 6,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Pb3ym1gagM8DUTq",
+      "runId": 499206188
+    },
+    "LR4Z0Y51PeF9C72": {
+      "name": "TBneitor38",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 13,
+      "win": false,
+      "kills": 274,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        4,
+        8,
+        23,
+        14,
+        3
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "LR4Z0Y51PeF9C72",
+      "runId": 499206188
+    }
+  }
 }

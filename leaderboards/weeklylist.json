@@ -2074,6 +2074,32 @@
       "version": 2616,
       "uid": "Wq0wIvmZc5K4d6m",
       "runId": 6611290
+    },
+    "00HdYo5vEM08ikN": {
+      "name": "Togbot",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 49,
+      "win": false,
+      "kills": 279,
+      "ultra": 0,
+      "skills": [
+        10,
+        7,
+        1,
+        27,
+        4,
+        9,
+        25
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "00HdYo5vEM08ikN",
+      "runId": 6611290
     }
   }
 }
