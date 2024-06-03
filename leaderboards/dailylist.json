@@ -579,6 +579,73 @@
       "version": 2616,
       "uid": "gL2Wb7G3b91u6Yg",
       "runId": 889806427
+    },
+    "XUQ178r3zG82nn9": {
+      "name": "Чебоксар",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 21,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        4,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XUQ178r3zG82nn9",
+      "runId": 889806427
+    },
+    "CM30W3IU3LI73fE": {
+      "name": "ben10000",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 96,
+      "win": false,
+      "kills": 357,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        8,
+        1,
+        14,
+        12
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "CM30W3IU3LI73fE",
+      "runId": 889806427
+    },
+    "U48H0F3Z26SizMo": {
+      "name": "SamRye",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        24,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "U48H0F3Z26SizMo",
+      "runId": 889806427
     }
   }
 }
