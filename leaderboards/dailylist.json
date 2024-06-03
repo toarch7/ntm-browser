@@ -1,4 +1,48 @@
 {
   "day": 3,
-  "entries": {}
+  "entries": {
+    "g7nTeU9lpy5rupK": {
+      "name": "g.s",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 69,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g7nTeU9lpy5rupK",
+      "runId": 889806427
+    },
+    "MPL1m9U98j2r07t": {
+      "name": "perron",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 37,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        4,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MPL1m9U98j2r07t",
+      "runId": 889806427
+    }
+  }
 }
