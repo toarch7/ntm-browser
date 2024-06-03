@@ -699,6 +699,48 @@
       "version": 2616,
       "uid": "e6jF3SW0dz4ooir",
       "runId": 889806427
+    },
+    "Q9ikBqH50pu5W7a": {
+      "name": "conejo",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Q9ikBqH50pu5W7a",
+      "runId": 889806427
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 95,
+      "bwep": 13,
+      "win": false,
+      "kills": 830,
+      "ultra": 1,
+      "skills": [
+        27,
+        13,
+        8,
+        1,
+        28,
+        14,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 889806427
     }
   }
 }
