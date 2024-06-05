@@ -2599,7 +2599,7 @@
       "wep": 88,
       "bwep": 49,
       "win": false,
-      "kills": 97,
+      "kills": 99,
       "ultra": 0,
       "skills": [
         10,
@@ -2801,6 +2801,27 @@
       "crown": 6,
       "version": 2616,
       "uid": "071qI0MZ8xy553B",
+      "runId": 6611290
+    },
+    "wTfIj50qpetr3rS": {
+      "name": "CaydenU30",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 30,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        13,
+        27
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "wTfIj50qpetr3rS",
       "runId": 6611290
     }
   }
