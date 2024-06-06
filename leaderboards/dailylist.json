@@ -1,4 +1,50 @@
 {
   "day": 6,
-  "entries": {}
+  "entries": {
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 20,
+      "win": false,
+      "kills": 278,
+      "ultra": 0,
+      "skills": [
+        13,
+        22,
+        10,
+        8,
+        1,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 1453858466
+    },
+    "HPq07AWj6MWLWQw": {
+      "name": "STRVACT",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 19,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HPq07AWj6MWLWQw",
+      "runId": 1453858466
+    }
+  }
 }
