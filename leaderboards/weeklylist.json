@@ -429,17 +429,18 @@
       "name": "folla_ancianas",
       "char": 7,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
       "wep": 16,
       "bwep": 19,
       "win": false,
-      "kills": 67,
+      "kills": 139,
       "ultra": 0,
       "skills": [
         4,
-        16
+        16,
+        10
       ],
       "crown": 9,
       "version": 2616,
@@ -518,6 +519,33 @@
       "crown": 9,
       "version": 2616,
       "uid": "Lz241EO10OwYbAw",
+      "runId": 639943234
+    },
+    "htwDrRt3F8rktC5": {
+      "name": "kjy",
+      "char": 7,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 85,
+      "win": false,
+      "kills": 361,
+      "ultra": 0,
+      "skills": [
+        8,
+        16,
+        1,
+        9,
+        19,
+        25,
+        27,
+        22
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "htwDrRt3F8rktC5",
       "runId": 639943234
     }
   }

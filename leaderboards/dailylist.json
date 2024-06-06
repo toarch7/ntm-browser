@@ -479,6 +479,27 @@
       "version": 2616,
       "uid": "Q3An8fn5Wyc5pXq",
       "runId": 1453858466
+    },
+    "23z15yq271hFliU": {
+      "name": "folla_ancianas",
+      "char": 2,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        19,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "23z15yq271hFliU",
+      "runId": 1453858466
     }
   }
 }
