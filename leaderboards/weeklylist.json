@@ -285,17 +285,19 @@
       "name": "GriltChese",
       "char": 7,
       "skin": true,
-      "area": 2,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 1,
+      "wep": 71,
       "bwep": 16,
       "win": false,
-      "kills": 79,
+      "kills": 156,
       "ultra": 0,
       "skills": [
         4,
-        16
+        16,
+        10,
+        3
       ],
       "crown": 9,
       "version": 2616,
@@ -546,6 +548,28 @@
       "crown": 9,
       "version": 2616,
       "uid": "htwDrRt3F8rktC5",
+      "runId": 639943234
+    },
+    "UPI6PUf5B2dAjto": {
+      "name": "Zzroke",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 16,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        4,
+        16,
+        10
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "UPI6PUf5B2dAjto",
       "runId": 639943234
     }
   }
