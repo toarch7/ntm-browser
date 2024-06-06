@@ -88,6 +88,49 @@
       "version": 2616,
       "uid": "YLj7hThrc328x66",
       "runId": 1453858466
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 72,
+      "win": false,
+      "kills": 251,
+      "ultra": 0,
+      "skills": [
+        4,
+        3,
+        8,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 1453858466
+    },
+    "XUQ178r3zG82nn9": {
+      "name": "Чебоксар",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XUQ178r3zG82nn9",
+      "runId": 1453858466
     }
   }
 }
