@@ -334,10 +334,10 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 26,
-      "bwep": 16,
+      "wep": 76,
+      "bwep": 26,
       "win": false,
-      "kills": 237,
+      "kills": 257,
       "ultra": 0,
       "skills": [
         8,
@@ -1035,6 +1035,28 @@
       "crown": 9,
       "version": 2616,
       "uid": "LxKp6M19HGk0cB6",
+      "runId": 639943234
+    },
+    "g7nTeU9lpy5rupK": {
+      "name": "g.s",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 16,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        4,
+        16,
+        8
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "g7nTeU9lpy5rupK",
       "runId": 639943234
     }
   }
