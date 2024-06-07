@@ -471,6 +471,53 @@
       "version": 2616,
       "uid": "Lz241EO10OwYbAw",
       "runId": 185090621
+    },
+    "5O16m6T7PbwSku9": {
+      "name": "WaluigiDIE",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 66,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        12,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5O16m6T7PbwSku9",
+      "runId": 185090621
+    },
+    "LxKp6M19HGk0cB6": {
+      "name": "Providence",
+      "char": 3,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 74,
+      "win": false,
+      "kills": 352,
+      "ultra": 0,
+      "skills": [
+        23,
+        27,
+        7,
+        13,
+        1,
+        6,
+        17
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "LxKp6M19HGk0cB6",
+      "runId": 185090621
     }
   }
 }
