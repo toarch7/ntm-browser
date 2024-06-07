@@ -318,6 +318,51 @@
       "version": 2616,
       "uid": "zs6HVGW7bh828Wq",
       "runId": 185090621
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 49,
+      "win": false,
+      "kills": 302,
+      "ultra": 0,
+      "skills": [
+        27,
+        2,
+        7,
+        21,
+        1,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 185090621
+    },
+    "7PM42yZR9TIFn44": {
+      "name": "duck",
+      "char": 12,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 81,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7PM42yZR9TIFn44",
+      "runId": 185090621
     }
   }
 }

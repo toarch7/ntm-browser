@@ -830,6 +830,48 @@
       "version": 2616,
       "uid": "29R17JXtx66TzdO",
       "runId": 639943234
+    },
+    "3EZhI5aLJ177vO4": {
+      "name": "Theslinger",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 17,
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        4,
+        16,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "3EZhI5aLJ177vO4",
+      "runId": 639943234
+    },
+    "M5cB51B5XhcU8yS": {
+      "name": "pipeg",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 1,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "M5cB51B5XhcU8yS",
+      "runId": 639943234
     }
   }
 }
