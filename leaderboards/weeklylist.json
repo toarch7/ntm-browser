@@ -601,17 +601,22 @@
       "name": "Benjha",
       "char": 7,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 16,
-      "bwep": 17,
+      "wep": 85,
+      "bwep": 22,
       "win": false,
-      "kills": 74,
+      "kills": 382,
       "ultra": 0,
       "skills": [
+        17,
         8,
-        16
+        9,
+        4,
+        14,
+        1,
+        27
       ],
       "crown": 9,
       "version": 2616,
@@ -798,6 +803,32 @@
       "crown": 9,
       "version": 2616,
       "uid": "R6y2G9h8pMVtS62",
+      "runId": 639943234
+    },
+    "29R17JXtx66TzdO": {
+      "name": "beardman",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 13,
+      "win": false,
+      "kills": 252,
+      "ultra": 0,
+      "skills": [
+        8,
+        16,
+        27,
+        9,
+        19,
+        25,
+        3
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "29R17JXtx66TzdO",
       "runId": 639943234
     }
   }
