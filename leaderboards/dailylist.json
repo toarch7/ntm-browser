@@ -585,6 +585,51 @@
       "version": 2616,
       "uid": "13P3br4eB648BtR",
       "runId": 1376542005
+    },
+    "XUQ178r3zG82nn9": {
+      "name": "Чебоксар",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 4,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        23,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XUQ178r3zG82nn9",
+      "runId": 1376542005
+    },
+    "oI8XmZp235My0O8": {
+      "name": "osuka",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 10,
+      "win": false,
+      "kills": 203,
+      "ultra": 0,
+      "skills": [
+        28,
+        9,
+        3,
+        14,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oI8XmZp235My0O8",
+      "runId": 1376542005
     }
   }
 }
