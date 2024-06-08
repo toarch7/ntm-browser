@@ -579,18 +579,19 @@
       "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 89,
-      "bwep": 76,
+      "wep": 57,
+      "bwep": 26,
       "win": false,
-      "kills": 347,
+      "kills": 349,
       "ultra": 0,
       "skills": [
         8,
-        16,
+        24,
         27,
         9,
         4,
-        24
+        1,
+        26
       ],
       "crown": 9,
       "version": 2616,
@@ -1252,6 +1253,53 @@
       "crown": 9,
       "version": 2616,
       "uid": "xnI677V5k9292b3",
+      "runId": 639943234
+    },
+    "23qMNVFxOgW28dk": {
+      "name": "tu",
+      "char": 7,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 16,
+      "win": false,
+      "kills": 181,
+      "ultra": 0,
+      "skills": [
+        2,
+        27,
+        3
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "23qMNVFxOgW28dk",
+      "runId": 639943234
+    },
+    "N65n27A9w0ffuB8": {
+      "name": "Panconqueso",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 13,
+      "win": false,
+      "kills": 247,
+      "ultra": 0,
+      "skills": [
+        4,
+        17,
+        27,
+        9,
+        7,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "N65n27A9w0ffuB8",
       "runId": 639943234
     }
   }
