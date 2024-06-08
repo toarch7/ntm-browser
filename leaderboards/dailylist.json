@@ -63,6 +63,43 @@
       "version": 2616,
       "uid": "i2RcRtyR5vcE4WJ",
       "runId": 1376542005
+    },
+    "6Bsd66N4FyX8YSD": {
+      "name": "Seeker43",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 22,
+      "crown": 1,
+      "version": 2616,
+      "uid": "6Bsd66N4FyX8YSD",
+      "runId": 1376542005
+    },
+    "3snWxo3Kb8oE8l8": {
+      "name": "yoel",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 50,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        3,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3snWxo3Kb8oE8l8",
+      "runId": 1376542005
     }
   }
 }
