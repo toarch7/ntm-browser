@@ -345,6 +345,73 @@
       "version": 2616,
       "uid": "BGlj46My038e60S",
       "runId": 1376542005
+    },
+    "LxKp6M19HGk0cB6": {
+      "name": "Providence",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 17,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "LxKp6M19HGk0cB6",
+      "runId": 1376542005
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 13,
+      "bwep": 60,
+      "win": false,
+      "kills": 456,
+      "ultra": 1,
+      "skills": [
+        23,
+        28,
+        3,
+        13,
+        25,
+        12,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 1376542005
+    },
+    "vhz16PHRAWn967S": {
+      "name": "Ушлепленец777",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        23,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "vhz16PHRAWn967S",
+      "runId": 1376542005
     }
   }
 }
