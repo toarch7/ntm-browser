@@ -152,6 +152,50 @@
       "version": 2616,
       "uid": "ld90VM1Bmg2Vop9",
       "runId": 77607094
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 88,
+      "win": false,
+      "kills": 259,
+      "ultra": 0,
+      "skills": [
+        7,
+        23,
+        1,
+        12,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 77607094
+    },
+    "W471611Hz3mp7zD": {
+      "name": "xxx",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W471611Hz3mp7zD",
+      "runId": 77607094
     }
   }
 }
