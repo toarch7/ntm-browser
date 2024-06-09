@@ -237,6 +237,47 @@
       "version": 2616,
       "uid": "g2Q1du6j6F1tSqS",
       "runId": 77607094
+    },
+    "pChr46tqqv6eHhR": {
+      "name": "SIHa",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "pChr46tqqv6eHhR",
+      "runId": 77607094
+    },
+    "Atxw7On7Hmll3c5": {
+      "name": "Seeker",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 76,
+      "win": false,
+      "kills": 231,
+      "ultra": 0,
+      "skills": [
+        23,
+        7,
+        16,
+        1,
+        17,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Atxw7On7Hmll3c5",
+      "runId": 77607094
     }
   }
 }
