@@ -1,4 +1,72 @@
 {
   "day": 9,
-  "entries": {}
+  "entries": {
+    "ih1Vtv8HQrh2qX6": {
+      "name": "Bloodseeker",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 66,
+      "win": false,
+      "kills": 250,
+      "ultra": 0,
+      "skills": [
+        23,
+        7,
+        3,
+        25,
+        27,
+        1,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ih1Vtv8HQrh2qX6",
+      "runId": 77607094
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 70,
+      "win": false,
+      "kills": 172,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        27,
+        22,
+        1,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 77607094
+    },
+    "4G06039787MCo8Z": {
+      "name": "bastardch1ld",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 18,
+      "crown": 1,
+      "version": 2616,
+      "uid": "4G06039787MCo8Z",
+      "runId": 77607094
+    }
+  }
 }

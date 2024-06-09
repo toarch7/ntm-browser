@@ -1322,6 +1322,31 @@
       "version": 2616,
       "uid": "alvND779U3XjTJY",
       "runId": 639943234
+    },
+    "ih1Vtv8HQrh2qX6": {
+      "name": "Bloodseeker",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 1,
+      "win": false,
+      "kills": 268,
+      "ultra": 0,
+      "skills": [
+        4,
+        16,
+        27,
+        3,
+        7,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "ih1Vtv8HQrh2qX6",
+      "runId": 639943234
     }
   }
 }
