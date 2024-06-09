@@ -737,6 +737,54 @@
       "version": 2616,
       "uid": "U48H0F3Z26SizMo",
       "runId": 77607094
+    },
+    "l6x3H10Dnha7tGM": {
+      "name": "poker",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 26,
+      "win": false,
+      "kills": 321,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        3,
+        1,
+        6,
+        23,
+        13
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "l6x3H10Dnha7tGM",
+      "runId": 77607094
+    },
+    "XUQ178r3zG82nn9": {
+      "name": "Чебоксар",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        3,
+        7,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XUQ178r3zG82nn9",
+      "runId": 77607094
     }
   }
 }
