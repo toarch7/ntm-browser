@@ -1327,13 +1327,13 @@
       "name": "Bloodseeker",
       "char": 7,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 1,
       "loops": 0,
-      "wep": 16,
-      "bwep": 1,
+      "wep": 71,
+      "bwep": 89,
       "win": false,
-      "kills": 268,
+      "kills": 320,
       "ultra": 0,
       "skills": [
         4,
@@ -1341,11 +1341,35 @@
         27,
         3,
         7,
-        1
+        1,
+        26
       ],
       "crown": 9,
       "version": 2616,
       "uid": "ih1Vtv8HQrh2qX6",
+      "runId": 639943234
+    },
+    "l0KK4785fDITJ4P": {
+      "name": "інцел",
+      "char": 7,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 4,
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        4,
+        16,
+        27,
+        3
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "l0KK4785fDITJ4P",
       "runId": 639943234
     }
   }
