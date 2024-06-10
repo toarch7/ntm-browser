@@ -154,6 +154,65 @@
       "version": 2616,
       "uid": "XUQ178r3zG82nn9",
       "runId": 1655543943
+    },
+    "zs6HVGW7bh828Wq": {
+      "name": "Арина666",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "zs6HVGW7bh828Wq",
+      "runId": 1655543943
+    },
+    "ih1Vtv8HQrh2qX6": {
+      "name": "Bloodseeker",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 69,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        27,
+        26,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ih1Vtv8HQrh2qX6",
+      "runId": 1655543943
+    },
+    "g5lMVrUL3riPr78": {
+      "name": "AlanCDP",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 52,
+      "bwep": 21,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        27,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g5lMVrUL3riPr78",
+      "runId": 1655543943
     }
   }
 }
