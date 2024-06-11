@@ -536,6 +536,97 @@
       "version": 2616,
       "uid": "zZ8Kpi4I01G62r9",
       "runId": 1518343939
+    },
+    "HPq07AWj6MWLWQw": {
+      "name": "STRVACT",
+      "char": 4,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 107,
+      "bwep": 106,
+      "win": false,
+      "kills": 386,
+      "ultra": 1,
+      "skills": [
+        14,
+        1,
+        8,
+        27,
+        4,
+        25,
+        3
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "HPq07AWj6MWLWQw",
+      "runId": 1518343939
+    },
+    "i2RcRtyR5vcE4WJ": {
+      "name": "CrystalGamer69",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 3,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "i2RcRtyR5vcE4WJ",
+      "runId": 1518343939
+    },
+    "30H8ehIo763MCwJ": {
+      "name": "Seeker3",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        1,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "30H8ehIo763MCwJ",
+      "runId": 1518343939
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 2,
+      "wep": 54,
+      "bwep": 110,
+      "win": false,
+      "kills": 1656,
+      "ultra": 1,
+      "skills": [
+        1,
+        14,
+        27,
+        4,
+        25,
+        3,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1518343939
     }
   }
 }
