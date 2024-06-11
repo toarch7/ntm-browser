@@ -223,6 +223,74 @@
       "version": 2616,
       "uid": "n5BA29aG845IhTO",
       "runId": 1518343939
+    },
+    "MHC1lZEEd9KbN24": {
+      "name": "анлрей",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        4,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MHC1lZEEd9KbN24",
+      "runId": 1518343939
+    },
+    "l6x3H10Dnha7tGM": {
+      "name": "poker",
+      "char": 6,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 63,
+      "bwep": 36,
+      "win": false,
+      "kills": 404,
+      "ultra": 1,
+      "skills": [
+        1,
+        8,
+        27,
+        4,
+        25,
+        21,
+        6
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "l6x3H10Dnha7tGM",
+      "runId": 1518343939
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 16,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        1,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 1518343939
     }
   }
 }
