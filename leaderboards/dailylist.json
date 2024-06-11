@@ -335,6 +335,99 @@
       "version": 2616,
       "uid": "D4oJ6DYqcwt5d4W",
       "runId": 1518343939
+    },
+    "GNBvF84rQF7zOu2": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        28,
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNBvF84rQF7zOu2",
+      "runId": 1518343939
+    },
+    "Rjgbeq4u87m9fox": {
+      "name": "See",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        13,
+        1,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Rjgbeq4u87m9fox",
+      "runId": 1518343939
+    },
+    "3OoIaH6qdTEAsYl": {
+      "name": "Seeker37",
+      "char": 2,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 72,
+      "win": false,
+      "kills": 285,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        4,
+        9,
+        19,
+        25,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3OoIaH6qdTEAsYl",
+      "runId": 1518343939
+    },
+    "vhz16PHRAWn967S": {
+      "name": "Ушлепленец777",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 114,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        4,
+        9
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "vhz16PHRAWn967S",
+      "runId": 1518343939
     }
   }
 }
