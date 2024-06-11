@@ -1871,21 +1871,24 @@
       "runId": 639943234
     },
     "edhTZ83F85f2l9U": {
-      "name": "Стероид",
+      "name": "Lost...",
       "char": 7,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 16,
-      "bwep": 55,
+      "wep": 5,
+      "bwep": 13,
       "win": false,
-      "kills": 159,
+      "kills": 222,
       "ultra": 0,
       "skills": [
+        4,
         17,
         1,
-        9
+        9,
+        7,
+        12
       ],
       "crown": 9,
       "version": 2616,
