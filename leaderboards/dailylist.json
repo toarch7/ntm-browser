@@ -945,6 +945,56 @@
       "version": 2616,
       "uid": "tB34ZVNSJ66RFgC",
       "runId": 1518343939
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 13,
+      "bwep": 118,
+      "win": false,
+      "kills": 899,
+      "ultra": 1,
+      "skills": [
+        13,
+        1,
+        8,
+        22,
+        14,
+        26,
+        25,
+        4,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 1518343939
+    },
+    "ih1Vtv8HQrh2qX6": {
+      "name": "bloodseeker",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        13,
+        4,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ih1Vtv8HQrh2qX6",
+      "runId": 1518343939
     }
   }
 }
