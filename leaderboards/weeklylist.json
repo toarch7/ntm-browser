@@ -5,21 +5,21 @@
       "name": "osuka",
       "char": 7,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
+      "area": 6,
+      "subarea": 1,
       "loops": 0,
-      "wep": 59,
-      "bwep": 16,
+      "wep": 37,
+      "bwep": 71,
       "win": false,
-      "kills": 238,
+      "kills": 305,
       "ultra": 0,
       "skills": [
-        8,
-        16,
-        3,
         4,
-        25,
-        10
+        16,
+        10,
+        9,
+        27,
+        1
       ],
       "crown": 9,
       "version": 2616,
@@ -2189,6 +2189,50 @@
       "crown": 9,
       "version": 2616,
       "uid": "TvxOymOC2q3fRVO",
+      "runId": 639943234
+    },
+    "2Ja80X782sRs6lr": {
+      "name": "Onin",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 19,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        8,
+        16
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "2Ja80X782sRs6lr",
+      "runId": 639943234
+    },
+    "bwvxp25A47v2S62": {
+      "name": "branto_sus",
+      "char": 7,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 4,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        4,
+        16,
+        27,
+        9
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "bwvxp25A47v2S62",
       "runId": 639943234
     }
   }
