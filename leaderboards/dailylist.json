@@ -67,6 +67,43 @@
       "version": 2616,
       "uid": "23qMNVFxOgW28dk",
       "runId": 937889166
+    },
+    "pChr46tqqv6eHhR": {
+      "name": "SIHa",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 39,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "pChr46tqqv6eHhR",
+      "runId": 937889166
+    },
+    "TvxOymOC2q3fRVO": {
+      "name": "ManuelV",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 1,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        7,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "TvxOymOC2q3fRVO",
+      "runId": 937889166
     }
   }
 }
