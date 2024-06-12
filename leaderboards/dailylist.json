@@ -473,6 +473,42 @@
       "version": 2616,
       "uid": "7p9h539IObDu30U",
       "runId": 937889166
+    },
+    "90Q52y26FCR111E": {
+      "name": "Sackve",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "90Q52y26FCR111E",
+      "runId": 937889166
+    },
+    "EQ00WxIR85L1enX": {
+      "name": "1488",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 1,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EQ00WxIR85L1enX",
+      "runId": 937889166
     }
   }
 }
