@@ -152,6 +152,74 @@
       "version": 2616,
       "uid": "brR90od40uHhF9b",
       "runId": 937889166
+    },
+    "g2Q1du6j6F1tSqS": {
+      "name": "Andusias",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 26,
+      "win": false,
+      "kills": 247,
+      "ultra": 0,
+      "skills": [
+        14,
+        27,
+        23,
+        1,
+        7
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "g2Q1du6j6F1tSqS",
+      "runId": 937889166
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 37,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        7,
+        21,
+        12,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 937889166
+    },
+    "l6x3H10Dnha7tGM": {
+      "name": "poker",
+      "char": 6,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 39,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        7,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "l6x3H10Dnha7tGM",
+      "runId": 937889166
     }
   }
 }
