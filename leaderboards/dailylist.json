@@ -306,6 +306,92 @@
       "version": 2616,
       "uid": "X9CQ80rux70l4q7",
       "runId": 937889166
+    },
+    "8C96dpn91SDUtW3": {
+      "name": "Seeker90",
+      "char": 3,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 62,
+      "win": false,
+      "kills": 322,
+      "ultra": 0,
+      "skills": [
+        7,
+        21,
+        12,
+        8,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8C96dpn91SDUtW3",
+      "runId": 937889166
+    },
+    "B3oIUxpOWwTSv08": {
+      "name": "cleo.",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "B3oIUxpOWwTSv08",
+      "runId": 937889166
+    },
+    "3Bq3YcM6wv2ap4H": {
+      "name": "FAKE",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 21,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        14,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3Bq3YcM6wv2ap4H",
+      "runId": 937889166
+    },
+    "Y7L88XBgLHkN4lC": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        7,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y7L88XBgLHkN4lC",
+      "runId": 937889166
     }
   }
 }

@@ -2107,19 +2107,20 @@
       "char": 7,
       "skin": true,
       "area": 5,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 4,
+      "wep": 59,
       "bwep": 16,
       "win": false,
-      "kills": 221,
+      "kills": 254,
       "ultra": 0,
       "skills": [
         4,
         16,
         10,
         9,
-        7
+        27,
+        1
       ],
       "crown": 9,
       "version": 2616,
@@ -2279,6 +2280,48 @@
       "crown": 9,
       "version": 2616,
       "uid": "h7E5694ugr8lG5u",
+      "runId": 639943234
+    },
+    "B3oIUxpOWwTSv08": {
+      "name": "cleo.",
+      "char": 7,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 5,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        8,
+        16,
+        9
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "B3oIUxpOWwTSv08",
+      "runId": 639943234
+    },
+    "1wUxWu76iJc4dzV": {
+      "name": "KF",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "1wUxWu76iJc4dzV",
       "runId": 639943234
     }
   }
