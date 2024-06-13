@@ -517,6 +517,54 @@
       "version": 2616,
       "uid": "70iWaR72bfQ74Od",
       "runId": 203260663
+    },
+    "34bSEL19dk39pbi": {
+      "name": "Loocoorr",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 13,
+      "win": false,
+      "kills": 247,
+      "ultra": 0,
+      "skills": [
+        8,
+        23,
+        12,
+        13,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "34bSEL19dk39pbi",
+      "runId": 203260663
+    },
+    "rkXQW92bI7xN0jR": {
+      "name": "Detroit.",
+      "char": 2,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 25,
+      "bwep": 49,
+      "win": false,
+      "kills": 285,
+      "ultra": 0,
+      "skills": [
+        7,
+        27,
+        12,
+        3,
+        16
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "rkXQW92bI7xN0jR",
+      "runId": 203260663
     }
   }
 }
