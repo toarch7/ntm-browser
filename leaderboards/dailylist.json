@@ -454,6 +454,69 @@
       "version": 2616,
       "uid": "tRV8jb4lWEe7vXf",
       "runId": 203260663
+    },
+    "pChr46tqqv6eHhR": {
+      "name": "SIHa",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "pChr46tqqv6eHhR",
+      "runId": 203260663
+    },
+    "2Ja80X782sRs6lr": {
+      "name": "Onin",
+      "char": 9,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 41,
+      "bwep": 27,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        8,
+        23,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2Ja80X782sRs6lr",
+      "runId": 203260663
+    },
+    "70iWaR72bfQ74Od": {
+      "name": "Вова",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 9,
+      "bwep": 38,
+      "win": false,
+      "kills": 411,
+      "ultra": 1,
+      "skills": [
+        7,
+        27,
+        21,
+        3,
+        23,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "70iWaR72bfQ74Od",
+      "runId": 203260663
     }
   }
 }
