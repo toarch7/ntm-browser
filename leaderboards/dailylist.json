@@ -360,6 +360,78 @@
       "version": 2616,
       "uid": "g2Q1du6j6F1tSqS",
       "runId": 203260663
+    },
+    "ih1Vtv8HQrh2qX6": {
+      "name": "bloodseeker",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 88,
+      "win": false,
+      "kills": 354,
+      "ultra": 0,
+      "skills": [
+        7,
+        27,
+        26,
+        13,
+        8,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ih1Vtv8HQrh2qX6",
+      "runId": 203260663
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 13,
+      "bwep": 118,
+      "win": false,
+      "kills": 546,
+      "ultra": 2,
+      "skills": [
+        23,
+        27,
+        10,
+        13,
+        8,
+        17,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 203260663
+    },
+    "oe0tJOOaYb9gNdq": {
+      "name": "ice_nine",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 17,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        7,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oe0tJOOaYb9gNdq",
+      "runId": 203260663
     }
   }
 }

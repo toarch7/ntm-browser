@@ -275,6 +275,77 @@
       "version": 2616,
       "uid": "v06n75f72HE3fFh",
       "runId": 1135106054
+    },
+    "ih1Vtv8HQrh2qX6": {
+      "name": "bloodseeker",
+      "char": 10,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 54,
+      "win": false,
+      "kills": 320,
+      "ultra": 0,
+      "skills": [
+        7,
+        14,
+        3,
+        9,
+        6,
+        25
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "ih1Vtv8HQrh2qX6",
+      "runId": 1135106054
+    },
+    "Q3An8fn5Wyc5pXq": {
+      "name": "хуй",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 21,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        3,
+        22
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "Q3An8fn5Wyc5pXq",
+      "runId": 1135106054
+    },
+    "g2Q1du6j6F1tSqS": {
+      "name": "Andusias",
+      "char": 10,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 58,
+      "win": false,
+      "kills": 328,
+      "ultra": 0,
+      "skills": [
+        3,
+        17,
+        25,
+        27,
+        9,
+        23
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "g2Q1du6j6F1tSqS",
+      "runId": 1135106054
     }
   }
 }
