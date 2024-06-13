@@ -130,6 +130,54 @@
       "version": 2616,
       "uid": "khO581s5c4MEPE3",
       "runId": 203260663
+    },
+    "B3oIUxpOWwTSv08": {
+      "name": "cleo.",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "B3oIUxpOWwTSv08",
+      "runId": 203260663
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 11,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 34,
+      "bwep": 26,
+      "win": false,
+      "kills": 344,
+      "ultra": 0,
+      "skills": [
+        7,
+        23,
+        27,
+        12,
+        17,
+        8,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 203260663
     }
   }
 }
