@@ -203,6 +203,54 @@
       "version": 2616,
       "uid": "XgY8uZ59o37AV8x",
       "runId": 1135106054
+    },
+    "3OoIaH6qdTEAsYl": {
+      "name": "Seeker37",
+      "char": 10,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 75,
+      "win": false,
+      "kills": 313,
+      "ultra": 0,
+      "skills": [
+        7,
+        14,
+        3,
+        6,
+        10,
+        19
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "3OoIaH6qdTEAsYl",
+      "runId": 1135106054
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 10,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 116,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        7,
+        3,
+        8,
+        9
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 1135106054
     }
   }
 }
