@@ -605,6 +605,28 @@
       "version": 2616,
       "uid": "rBmjgO3rT7f0W3e",
       "runId": 1303864471
+    },
+    "81B8RRKpB454Q42": {
+      "name": "bleat",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 75,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        7,
+        14,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "81B8RRKpB454Q42",
+      "runId": 1303864471
     }
   }
 }

@@ -1268,6 +1268,91 @@
       "version": 2616,
       "uid": "7m570Na4y7QI56y",
       "runId": 1135106054
+    },
+    "10sSLb2l6h420U3": {
+      "name": "Egg",
+      "char": 10,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 9,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        7,
+        3,
+        8
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "10sSLb2l6h420U3",
+      "runId": 1135106054
+    },
+    "81B8RRKpB454Q42": {
+      "name": "bleat",
+      "char": 10,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 69,
+      "win": false,
+      "kills": 176,
+      "ultra": 0,
+      "skills": [
+        7,
+        14,
+        6,
+        10
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "81B8RRKpB454Q42",
+      "runId": 1135106054
+    },
+    "7PM42yZR9TIFn44": {
+      "name": "duck",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 3,
+      "win": false,
+      "kills": 230,
+      "ultra": 0,
+      "skills": [
+        3,
+        8,
+        9
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "7PM42yZR9TIFn44",
+      "runId": 1135106054
+    },
+    "89k83aJYI0vEGrX": {
+      "name": "ilyich",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 0,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [],
+      "crown": 4,
+      "version": 2616,
+      "uid": "89k83aJYI0vEGrX",
+      "runId": 1135106054
     }
   }
 }
