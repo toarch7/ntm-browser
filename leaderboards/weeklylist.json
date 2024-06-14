@@ -900,14 +900,14 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 50,
+      "wep": 52,
       "bwep": 7,
       "win": false,
-      "kills": 63,
+      "kills": 71,
       "ultra": 0,
       "skills": [
         7,
-        22
+        3
       ],
       "crown": 4,
       "version": 2616,
@@ -1352,6 +1352,29 @@
       "crown": 4,
       "version": 2616,
       "uid": "89k83aJYI0vEGrX",
+      "runId": 1135106054
+    },
+    "l0KK4785fDITJ4P": {
+      "name": "інцел",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 19,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        7,
+        17,
+        3,
+        6
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "l0KK4785fDITJ4P",
       "runId": 1135106054
     }
   }
