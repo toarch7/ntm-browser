@@ -154,6 +154,51 @@
       "version": 2616,
       "uid": "g5lMVrUL3riPr78",
       "runId": 1303864471
+    },
+    "0ep5X5NOGx80f4b": {
+      "name": "Exzagon",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 88,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        19,
+        8,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0ep5X5NOGx80f4b",
+      "runId": 1303864471
+    },
+    "9ezR32ssCk3277B": {
+      "name": "Andersony",
+      "char": 2,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 116,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        13,
+        16
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "9ezR32ssCk3277B",
+      "runId": 1303864471
     }
   }
 }
