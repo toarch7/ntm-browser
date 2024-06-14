@@ -466,18 +466,22 @@
       "name": "Вова",
       "char": 10,
       "skin": true,
-      "area": 104,
+      "area": 1,
       "subarea": 1,
-      "loops": 0,
-      "wep": 30,
-      "bwep": 38,
+      "loops": 1,
+      "wep": 51,
+      "bwep": 54,
       "win": false,
-      "kills": 183,
-      "ultra": 0,
+      "kills": 489,
+      "ultra": 2,
       "skills": [
         3,
         14,
-        22
+        22,
+        23,
+        27,
+        25,
+        16
       ],
       "crown": 4,
       "version": 2616,
@@ -1005,20 +1009,40 @@
       "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
+      "wep": 6,
       "bwep": 10,
       "win": false,
-      "kills": 170,
+      "kills": 318,
       "ultra": 0,
       "skills": [
         3,
+        21,
         22,
-        26,
-        10
+        23
       ],
       "crown": 4,
       "version": 2616,
       "uid": "23qMNVFxOgW28dk",
+      "runId": 1135106054
+    },
+    "90Q52y26FCR111E": {
+      "name": "Sackve",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 10,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "90Q52y26FCR111E",
       "runId": 1135106054
     }
   }
