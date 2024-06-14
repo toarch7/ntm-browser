@@ -514,6 +514,51 @@
       "version": 2616,
       "uid": "W471611Hz3mp7zD",
       "runId": 1303864471
+    },
+    "edhTZ83F85f2l9U": {
+      "name": "Lost...",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 112,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        7,
+        13,
+        23,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "edhTZ83F85f2l9U",
+      "runId": 1303864471
+    },
+    "U48H0F3Z26SizMo": {
+      "name": "SamRye",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 4,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        7,
+        14,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "U48H0F3Z26SizMo",
+      "runId": 1303864471
     }
   }
 }
