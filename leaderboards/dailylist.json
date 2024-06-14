@@ -763,6 +763,75 @@
       "version": 2616,
       "uid": "25b9QayFLIM61JL",
       "runId": 1303864471
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 13,
+      "bwep": 35,
+      "win": false,
+      "kills": 1187,
+      "ultra": 2,
+      "skills": [
+        7,
+        13,
+        23,
+        14,
+        8,
+        25,
+        10,
+        27,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 1303864471
+    },
+    "PJvW84RFbi5y1Y3": {
+      "name": "Querifin",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "PJvW84RFbi5y1Y3",
+      "runId": 1303864471
+    },
+    "8Zr55e6NaIwcr4C": {
+      "name": "jesus",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8Zr55e6NaIwcr4C",
+      "runId": 1303864471
     }
   }
 }
