@@ -1917,18 +1917,18 @@
       "name": "dante",
       "char": 10,
       "skin": true,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 6,
-      "bwep": 52,
+      "wep": 10,
+      "bwep": 7,
       "win": false,
-      "kills": 97,
+      "kills": 244,
       "ultra": 0,
       "skills": [
         7,
-        21,
-        22
+        14,
+        6
       ],
       "crown": 4,
       "version": 2616,
@@ -1956,6 +1956,28 @@
       "crown": 4,
       "version": 2616,
       "uid": "0L3PPH9vjF23OOQ",
+      "runId": 1135106054
+    },
+    "nS4tAXaS957Jv42": {
+      "name": "korin",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 8,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        7,
+        17,
+        8
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "nS4tAXaS957Jv42",
       "runId": 1135106054
     }
   }
