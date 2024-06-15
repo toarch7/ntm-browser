@@ -1412,17 +1412,18 @@
       "char": 10,
       "skin": true,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
       "wep": 6,
-      "bwep": 10,
+      "bwep": 34,
       "win": false,
-      "kills": 121,
+      "kills": 153,
       "ultra": 0,
       "skills": [
         7,
         22,
-        28
+        28,
+        9
       ],
       "crown": 4,
       "version": 2616,
