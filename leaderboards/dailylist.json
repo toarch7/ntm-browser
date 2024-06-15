@@ -253,6 +253,45 @@
       "version": 2616,
       "uid": "n5BA29aG845IhTO",
       "runId": 488150773
+    },
+    "79dT3g6F9pI5nX5": {
+      "name": "ICPDdebil",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "79dT3g6F9pI5nX5",
+      "runId": 488150773
+    },
+    "QXCuF42ymqS0v3p": {
+      "name": "Seeker90лвя",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 15,
+      "win": false,
+      "kills": 184,
+      "ultra": 0,
+      "skills": [
+        16,
+        1,
+        8,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "QXCuF42ymqS0v3p",
+      "runId": 488150773
     }
   }
 }

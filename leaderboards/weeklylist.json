@@ -128,13 +128,14 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 10,
-      "bwep": 3,
+      "wep": 16,
+      "bwep": 10,
       "win": false,
-      "kills": 58,
+      "kills": 82,
       "ultra": 0,
       "skills": [
-        7
+        7,
+        14
       ],
       "crown": 4,
       "version": 2616,
@@ -1887,6 +1888,29 @@
       "crown": 4,
       "version": 2616,
       "uid": "6233vlC7Oj8h9Tn",
+      "runId": 1135106054
+    },
+    "j3EhgO8yqe5532Q": {
+      "name": "waddle",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 23,
+      "win": false,
+      "kills": 171,
+      "ultra": 0,
+      "skills": [
+        14,
+        22,
+        8,
+        10
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "j3EhgO8yqe5532Q",
       "runId": 1135106054
     }
   }
