@@ -683,6 +683,74 @@
       "version": 2616,
       "uid": "6z3NSmELAbfdOW9",
       "runId": 488150773
+    },
+    "6A5XmRS3uGhyvR9": {
+      "name": "FBIcrimestats",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        3,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6A5XmRS3uGhyvR9",
+      "runId": 488150773
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 11,
+      "win": false,
+      "kills": 284,
+      "ultra": 0,
+      "skills": [
+        19,
+        10,
+        1,
+        8,
+        27,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 488150773
+    },
+    "P8c96EE1YgRg6M4": {
+      "name": "Bog",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 69,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        16,
+        1,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "P8c96EE1YgRg6M4",
+      "runId": 488150773
     }
   }
 }

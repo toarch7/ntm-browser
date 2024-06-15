@@ -1807,13 +1807,13 @@
       "name": "pericles",
       "char": 10,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 6,
-      "bwep": 10,
+      "wep": 10,
+      "bwep": 11,
       "win": false,
-      "kills": 143,
+      "kills": 175,
       "ultra": 0,
       "skills": [
         7,
@@ -2071,6 +2071,28 @@
       "crown": 4,
       "version": 2616,
       "uid": "y72irZbsR9w0sB0",
+      "runId": 1135106054
+    },
+    "6A5XmRS3uGhyvR9": {
+      "name": "FBIcrimestats",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 10,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        3,
+        14,
+        6
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "6A5XmRS3uGhyvR9",
       "runId": 1135106054
     }
   }
