@@ -101,17 +101,19 @@
       "name": "Andersony",
       "char": 10,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
       "wep": 30,
-      "bwep": 3,
+      "bwep": 72,
       "win": false,
-      "kills": 155,
+      "kills": 182,
       "ultra": 0,
       "skills": [
         3,
         21,
+        25,
+        16,
         8
       ],
       "crown": 4,
@@ -1819,6 +1821,74 @@
       "crown": 4,
       "version": 2616,
       "uid": "5F1T08TleE154C6",
+      "runId": 1135106054
+    },
+    "W5rnxqd90ZdVc7B": {
+      "name": "Mikuo",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 6,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        3,
+        17,
+        22
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "W5rnxqd90ZdVc7B",
+      "runId": 1135106054
+    },
+    "y6zOa4f9VzccMP2": {
+      "name": "Skully",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 28,
+      "bwep": 10,
+      "win": false,
+      "kills": 188,
+      "ultra": 0,
+      "skills": [
+        3,
+        25,
+        10,
+        6,
+        1,
+        9
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "y6zOa4f9VzccMP2",
+      "runId": 1135106054
+    },
+    "6233vlC7Oj8h9Tn": {
+      "name": "Seeker90",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 52,
+      "bwep": 3,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        7,
+        21
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "6233vlC7Oj8h9Tn",
       "runId": 1135106054
     }
   }
