@@ -1,4 +1,66 @@
 {
   "day": 15,
-  "entries": {}
+  "entries": {
+    "00SFF2yyDu7HZkG": {
+      "name": "coolsoda",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "00SFF2yyDu7HZkG",
+      "runId": 488150773
+    },
+    "70U9wJO1YQv91LZ": {
+      "name": "IanAarón",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "70U9wJO1YQv91LZ",
+      "runId": 488150773
+    },
+    "bHIxdKcMRN01RhE": {
+      "name": "yan",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 5,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        27,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bHIxdKcMRN01RhE",
+      "runId": 488150773
+    }
+  }
 }

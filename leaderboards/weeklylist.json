@@ -189,19 +189,20 @@
       "name": "bormaleyko",
       "char": 10,
       "skin": true,
-      "area": 104,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 8,
-      "bwep": 70,
+      "wep": 58,
+      "bwep": 10,
       "win": false,
-      "kills": 190,
+      "kills": 338,
       "ultra": 0,
       "skills": [
         7,
-        21,
+        17,
         3,
-        8
+        8,
+        23
       ],
       "crown": 4,
       "version": 2616,
@@ -1562,16 +1563,21 @@
       "name": "g.s",
       "char": 10,
       "skin": true,
-      "area": 4,
+      "area": 0,
       "subarea": 1,
-      "loops": 0,
-      "wep": 88,
-      "bwep": 10,
+      "loops": 1,
+      "wep": 113,
+      "bwep": 38,
       "win": false,
-      "kills": 60,
+      "kills": 341,
       "ultra": 0,
       "skills": [
-        6
+        6,
+        14,
+        8,
+        9,
+        28,
+        26
       ],
       "crown": 4,
       "version": 2616,
@@ -1706,6 +1712,48 @@
       "crown": 4,
       "version": 2616,
       "uid": "6jrIN6ZX1lkZ98a",
+      "runId": 1135106054
+    },
+    "70U9wJO1YQv91LZ": {
+      "name": "IanAarón",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 10,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "70U9wJO1YQv91LZ",
+      "runId": 1135106054
+    },
+    "n4T3we94V43do50": {
+      "name": "ChrisTD",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 34,
+      "win": false,
+      "kills": 235,
+      "ultra": 0,
+      "skills": [
+        7,
+        3,
+        8
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "n4T3we94V43do50",
       "runId": 1135106054
     }
   }
