@@ -403,6 +403,27 @@
       "version": 2616,
       "uid": "rI0Vr19z1vXI4vN",
       "runId": 488150773
+    },
+    "sks03jWuj1ow8X1": {
+      "name": "red",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sks03jWuj1ow8X1",
+      "runId": 488150773
     }
   }
 }
