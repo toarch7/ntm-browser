@@ -2192,6 +2192,27 @@
       "version": 2616,
       "uid": "9RaZXsNc53joWHC",
       "runId": 1135106054
+    },
+    "oe1E20oue9631vc": {
+      "name": "chel",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 10,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        7,
+        22
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "oe1E20oue9631vc",
+      "runId": 1135106054
     }
   }
 }
