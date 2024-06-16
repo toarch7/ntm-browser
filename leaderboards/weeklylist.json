@@ -2197,21 +2197,43 @@
       "name": "chel",
       "char": 10,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 66,
-      "bwep": 10,
+      "wep": 71,
+      "bwep": 8,
       "win": false,
-      "kills": 85,
+      "kills": 95,
       "ultra": 0,
       "skills": [
         7,
-        22
+        3
       ],
       "crown": 4,
       "version": 2616,
       "uid": "oe1E20oue9631vc",
+      "runId": 1135106054
+    },
+    "WY2zkoE1p5TWsf3": {
+      "name": "MOADOT",
+      "char": 10,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 10,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        7,
+        22,
+        8
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "WY2zkoE1p5TWsf3",
       "runId": 1135106054
     }
   }
