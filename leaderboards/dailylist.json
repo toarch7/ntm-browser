@@ -500,6 +500,52 @@
       "version": 2616,
       "uid": "n9i8bLADyaRwZ5T",
       "runId": 2144514328
+    },
+    "sks03jWuj1ow8X1": {
+      "name": "red",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 68,
+      "bwep": 124,
+      "win": false,
+      "kills": 322,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        25,
+        28,
+        7,
+        9,
+        17
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "sks03jWuj1ow8X1",
+      "runId": 2144514328
+    },
+    "JA1ya5axNw6ka2n": {
+      "name": "elpisapasito",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 20,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "JA1ya5axNw6ka2n",
+      "runId": 2144514328
     }
   }
 }
