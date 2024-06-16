@@ -711,6 +711,54 @@
       "version": 2616,
       "uid": "6OsO6U0eI4yD8n9",
       "runId": 2144514328
+    },
+    "70iWaR72bfQ74Od": {
+      "name": "Вова",
+      "char": 12,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 49,
+      "bwep": 60,
+      "win": false,
+      "kills": 326,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        25,
+        22,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "70iWaR72bfQ74Od",
+      "runId": 2144514328
+    },
+    "gk1fKmp8fDB6o3l": {
+      "name": "DeDoc",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 12,
+      "win": false,
+      "kills": 185,
+      "ultra": 0,
+      "skills": [
+        1,
+        13,
+        16,
+        19,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gk1fKmp8fDB6o3l",
+      "runId": 2144514328
     }
   }
 }
