@@ -284,6 +284,66 @@
       "version": 2616,
       "uid": "QXCuF42ymqS0v3p",
       "runId": 2144514328
+    },
+    "Y7L88XBgLHkN4lC": {
+      "name": "Havoc",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        25,
+        28,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y7L88XBgLHkN4lC",
+      "runId": 2144514328
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        1,
+        13,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 2144514328
+    },
+    "nS4tAXaS957Jv42": {
+      "name": "korin",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "nS4tAXaS957Jv42",
+      "runId": 2144514328
     }
   }
 }
