@@ -1,4 +1,90 @@
 {
   "day": 16,
-  "entries": {}
+  "entries": {
+    "g8qQOs6k895R8Ef": {
+      "name": "kush",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        1,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g8qQOs6k895R8Ef",
+      "runId": 2144514328
+    },
+    "g5lMVrUL3riPr78": {
+      "name": "AlanCDP",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 22,
+      "bwep": 35,
+      "win": false,
+      "kills": 1127,
+      "ultra": 1,
+      "skills": [
+        1,
+        9,
+        25,
+        28,
+        8,
+        7,
+        17,
+        12
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "g5lMVrUL3riPr78",
+      "runId": 2144514328
+    },
+    "23qMNVFxOgW28dk": {
+      "name": "tu",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        1,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "23qMNVFxOgW28dk",
+      "runId": 2144514328
+    },
+    "bHIxdKcMRN01RhE": {
+      "name": "yan",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "bHIxdKcMRN01RhE",
+      "runId": 2144514328
+    }
+  }
 }
