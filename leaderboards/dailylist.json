@@ -364,6 +364,51 @@
       "version": 2616,
       "uid": "Y7L88XBgLHkN4lC",
       "runId": 1076089097
+    },
+    "n9i8bLADyaRwZ5T": {
+      "name": "Mechblack",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        6,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n9i8bLADyaRwZ5T",
+      "runId": 1076089097
+    },
+    "B3oIUxpOWwTSv08": {
+      "name": "cleo.",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 8,
+      "win": false,
+      "kills": 350,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        14,
+        19,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "B3oIUxpOWwTSv08",
+      "runId": 1076089097
     }
   }
 }

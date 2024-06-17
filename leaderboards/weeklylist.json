@@ -2305,17 +2305,20 @@
       "name": "Митяй2009",
       "char": 10,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 2,
       "loops": 0,
-      "wep": 3,
-      "bwep": 9,
+      "wep": 58,
+      "bwep": 69,
       "win": false,
-      "kills": 127,
+      "kills": 197,
       "ultra": 0,
       "skills": [
-        7,
-        6
+        21,
+        25,
+        27,
+        6,
+        9
       ],
       "crown": 4,
       "version": 2616,
@@ -2474,6 +2477,29 @@
       "crown": 4,
       "version": 2616,
       "uid": "UPI6PUf5B2dAjto",
+      "runId": 1135106054
+    },
+    "Diz57Mfp2AW1bGc": {
+      "name": "Sigmo",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 8,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        6,
+        14,
+        22,
+        28
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "Diz57Mfp2AW1bGc",
       "runId": 1135106054
     }
   }
