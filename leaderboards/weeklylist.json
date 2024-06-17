@@ -1733,16 +1733,17 @@
       "char": 10,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
       "wep": 10,
-      "bwep": 7,
+      "bwep": 6,
       "win": false,
-      "kills": 97,
+      "kills": 122,
       "ultra": 0,
       "skills": [
         14,
-        3
+        3,
+        8
       ],
       "crown": 4,
       "version": 2616,
@@ -2564,6 +2565,29 @@
       "crown": 4,
       "version": 2616,
       "uid": "r55lq4354kO9MN7",
+      "runId": 1135106054
+    },
+    "1wUxWu76iJc4dzV": {
+      "name": "KF",
+      "char": 10,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 10,
+      "win": false,
+      "kills": 180,
+      "ultra": 0,
+      "skills": [
+        7,
+        14,
+        3,
+        6
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "1wUxWu76iJc4dzV",
       "runId": 1135106054
     }
   }
