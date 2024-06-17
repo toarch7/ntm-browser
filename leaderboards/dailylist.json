@@ -604,6 +604,31 @@
       "version": 2616,
       "uid": "rtxKOW20G42lCdp",
       "runId": 1076089097
+    },
+    "sks03jWuj1ow8X1": {
+      "name": "red",
+      "char": 5,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 34,
+      "win": false,
+      "kills": 379,
+      "ultra": 0,
+      "skills": [
+        27,
+        14,
+        22,
+        23,
+        7,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sks03jWuj1ow8X1",
+      "runId": 1076089097
     }
   }
 }
