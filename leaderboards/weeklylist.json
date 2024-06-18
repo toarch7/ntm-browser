@@ -90,6 +90,27 @@
       "version": 2616,
       "uid": "B3oIUxpOWwTSv08",
       "runId": 1900604592
+    },
+    "edhTZ83F85f2l9U": {
+      "name": "Friezed",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 78,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "edhTZ83F85f2l9U",
+      "runId": 1900604592
     }
   }
 }

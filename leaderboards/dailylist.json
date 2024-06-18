@@ -272,6 +272,51 @@
       "version": 2616,
       "uid": "34bSEL19dk39pbi",
       "runId": 567857069
+    },
+    "edhTZ83F85f2l9U": {
+      "name": "Friezed",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        23,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "edhTZ83F85f2l9U",
+      "runId": 567857069
+    },
+    "4H3OC45AHY9i2H6": {
+      "name": "клюшкавхую",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 251,
+      "ultra": 0,
+      "skills": [
+        1,
+        9,
+        25,
+        12,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4H3OC45AHY9i2H6",
+      "runId": 567857069
     }
   }
 }
