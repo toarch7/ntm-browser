@@ -98,14 +98,15 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 5,
-      "bwep": 78,
+      "wep": 71,
+      "bwep": 3,
       "win": false,
-      "kills": 114,
+      "kills": 129,
       "ultra": 0,
       "skills": [
         1,
-        4
+        28,
+        9
       ],
       "crown": 7,
       "version": 2616,
@@ -202,6 +203,28 @@
       "crown": 7,
       "version": 2616,
       "uid": "N65n27A9w0ffuB8",
+      "runId": 1900604592
+    },
+    "y0FYbsLle1Rv0Ue": {
+      "name": "Amogus_Boy",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 13,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        22
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "y0FYbsLle1Rv0Ue",
       "runId": 1900604592
     }
   }
