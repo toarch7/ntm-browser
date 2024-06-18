@@ -111,6 +111,54 @@
       "version": 2616,
       "uid": "edhTZ83F85f2l9U",
       "runId": 1900604592
+    },
+    "70iWaR72bfQ74Od": {
+      "name": "Вова",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 38,
+      "bwep": 111,
+      "win": false,
+      "kills": 855,
+      "ultra": 1,
+      "skills": [
+        1,
+        4,
+        22,
+        27,
+        17,
+        23,
+        7
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "70iWaR72bfQ74Od",
+      "runId": 1900604592
+    },
+    "u1oFU0aHFKh696I": {
+      "name": "Митяй2009",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 78,
+      "bwep": 13,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        9
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "u1oFU0aHFKh696I",
+      "runId": 1900604592
     }
   }
 }
