@@ -200,6 +200,9 @@ function allDone() {
     console.log("All done.");
 
     const sendEmbed = (kind, embeds) => {
+	console.log("Webhooks are disabled.");
+	return;
+	
         let url = params.webhooks[kind];
     
         if (!url)
