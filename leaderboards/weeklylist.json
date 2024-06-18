@@ -95,18 +95,19 @@
       "name": "Friezed",
       "char": 6,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
       "wep": 71,
-      "bwep": 3,
+      "bwep": 15,
       "win": false,
-      "kills": 129,
+      "kills": 203,
       "ultra": 0,
       "skills": [
         1,
         28,
-        9
+        9,
+        27
       ],
       "crown": 7,
       "version": 2616,
@@ -225,6 +226,28 @@
       "crown": 7,
       "version": 2616,
       "uid": "y0FYbsLle1Rv0Ue",
+      "runId": 1900604592
+    },
+    "xnI677V5k9292b3": {
+      "name": "BlackGamer389",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 78,
+      "win": false,
+      "kills": 214,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        9
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "xnI677V5k9292b3",
       "runId": 1900604592
     }
   }
