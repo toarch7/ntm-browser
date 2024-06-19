@@ -203,6 +203,69 @@
       "version": 2616,
       "uid": "zs6HVGW7bh828Wq",
       "runId": 1482048413
+    },
+    "70iWaR72bfQ74Od": {
+      "name": "Вова",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 94,
+      "win": false,
+      "kills": 510,
+      "ultra": 1,
+      "skills": [
+        27,
+        1,
+        23,
+        13,
+        3,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "70iWaR72bfQ74Od",
+      "runId": 1482048413
+    },
+    "to546cDDXdOcRNM": {
+      "name": "ari",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 39,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": 2616,
+      "uid": "to546cDDXdOcRNM",
+      "runId": 1482048413
+    },
+    "Y7L88XBgLHkN4lC": {
+      "name": "Havoc",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 72,
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        8,
+        19,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y7L88XBgLHkN4lC",
+      "runId": 1482048413
     }
   }
 }
