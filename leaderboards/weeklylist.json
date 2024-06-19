@@ -190,17 +190,18 @@
       "name": "Panconqueso",
       "char": 6,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
       "wep": 27,
-      "bwep": 16,
+      "bwep": 18,
       "win": false,
-      "kills": 113,
+      "kills": 164,
       "ultra": 0,
       "skills": [
         1,
-        4
+        4,
+        9
       ],
       "crown": 7,
       "version": 2616,
@@ -502,6 +503,28 @@
       "crown": 7,
       "version": 2616,
       "uid": "y72irZbsR9w0sB0",
+      "runId": 1900604592
+    },
+    "4EbNCvQ9C3edMVD": {
+      "name": "alexander",
+      "char": 6,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 27,
+      "win": false,
+      "kills": 204,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        22
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "4EbNCvQ9C3edMVD",
       "runId": 1900604592
     }
   }
