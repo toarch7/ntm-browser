@@ -102,6 +102,50 @@
       "version": 2616,
       "uid": "bHIxdKcMRN01RhE",
       "runId": 1482048413
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 5,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 60,
+      "bwep": 70,
+      "win": false,
+      "kills": 344,
+      "ultra": 1,
+      "skills": [
+        1,
+        27,
+        8,
+        17,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 1482048413
+    },
+    "1He2gU6x48Fav1j": {
+      "name": "assew",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 16,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1He2gU6x48Fav1j",
+      "runId": 1482048413
     }
   }
 }
