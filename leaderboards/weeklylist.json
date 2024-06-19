@@ -95,19 +95,20 @@
       "name": "Friezed",
       "char": 6,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 71,
-      "bwep": 15,
+      "wep": 17,
+      "bwep": 70,
       "win": false,
-      "kills": 203,
+      "kills": 291,
       "ultra": 0,
       "skills": [
         1,
-        28,
+        4,
         9,
-        27
+        27,
+        17
       ],
       "crown": 7,
       "version": 2616,
@@ -296,6 +297,29 @@
       "crown": 7,
       "version": 2616,
       "uid": "F6u2629jnU3tUxL",
+      "runId": 1900604592
+    },
+    "6jrIN6ZX1lkZ98a": {
+      "name": "monkeyD6",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 13,
+      "win": false,
+      "kills": 169,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        22,
+        7
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "6jrIN6ZX1lkZ98a",
       "runId": 1900604592
     }
   }
