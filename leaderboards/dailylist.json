@@ -608,6 +608,63 @@
       "version": 2616,
       "uid": "QXCuF42ymqS0v3p",
       "runId": 1482048413
+    },
+    "L9mjy4hS6zkf8A0": {
+      "name": "DarthurV",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 20,
+      "crown": 1,
+      "version": 2616,
+      "uid": "L9mjy4hS6zkf8A0",
+      "runId": 1482048413
+    },
+    "J4558ootB9bMW0B": {
+      "name": "Franklin",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "J4558ootB9bMW0B",
+      "runId": 1482048413
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 15,
+      "skin": false,
+      "area": 106,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 64,
+      "win": false,
+      "kills": 471,
+      "ultra": 2,
+      "skills": [
+        1,
+        27,
+        9,
+        25,
+        7,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 1482048413
     }
   }
 }
