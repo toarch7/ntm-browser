@@ -526,6 +526,52 @@
       "version": 2616,
       "uid": "4EbNCvQ9C3edMVD",
       "runId": 1900604592
+    },
+    "156gZ67i19gepX4": {
+      "name": "ZeroX",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 13,
+      "win": false,
+      "kills": 290,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        22,
+        27,
+        10
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "156gZ67i19gepX4",
+      "runId": 1900604592
+    },
+    "KUIjjrMZk87c686": {
+      "name": "Seeker",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 5,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        28,
+        19,
+        6
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "KUIjjrMZk87c686",
+      "runId": 1900604592
     }
   }
 }
