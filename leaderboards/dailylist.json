@@ -529,6 +529,49 @@
       "version": 2616,
       "uid": "rtxKOW20G42lCdp",
       "runId": 679667321
+    },
+    "8HyGpgdLoa2E2p3": {
+      "name": "Milliams",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 34,
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        6,
+        9,
+        19,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8HyGpgdLoa2E2p3",
+      "runId": 679667321
+    },
+    "98l4Er7IJRs4i9z": {
+      "name": "HANI",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 17,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "98l4Er7IJRs4i9z",
+      "runId": 679667321
     }
   }
 }
