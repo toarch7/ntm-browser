@@ -1,4 +1,74 @@
 {
   "day": 20,
-  "entries": {}
+  "entries": {
+    "ti20qzaJZQZ86cB": {
+      "name": "Elgordox66",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 12,
+      "win": false,
+      "kills": 356,
+      "ultra": 0,
+      "skills": [
+        21,
+        13,
+        23,
+        29,
+        1,
+        19,
+        26
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "ti20qzaJZQZ86cB",
+      "runId": 679667321
+    },
+    "nS4tAXaS957Jv42": {
+      "name": "korin",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 13,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        28,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "nS4tAXaS957Jv42",
+      "runId": 679667321
+    },
+    "Wq0wIvmZc5K4d6m": {
+      "name": "elhombrejhoniel",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 69,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        6,
+        23,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Wq0wIvmZc5K4d6m",
+      "runId": 679667321
+    }
+  }
 }
