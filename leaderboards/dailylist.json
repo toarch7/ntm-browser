@@ -572,6 +572,90 @@
       "version": 2616,
       "uid": "98l4Er7IJRs4i9z",
       "runId": 679667321
+    },
+    "zIpMjkLEZOB036P": {
+      "name": "BrMan",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        6,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "zIpMjkLEZOB036P",
+      "runId": 679667321
+    },
+    "70U9wJO1YQv91LZ": {
+      "name": "IanAarón",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "70U9wJO1YQv91LZ",
+      "runId": 679667321
+    },
+    "F3c5hHAO2135OGM": {
+      "name": "dagon",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 14,
+      "crown": 1,
+      "version": 2616,
+      "uid": "F3c5hHAO2135OGM",
+      "runId": 679667321
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 6,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 52,
+      "bwep": 53,
+      "win": false,
+      "kills": 265,
+      "ultra": 0,
+      "skills": [
+        25,
+        13,
+        1,
+        23,
+        7,
+        27,
+        3,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 679667321
     }
   }
 }
