@@ -265,6 +265,46 @@
       "version": 2616,
       "uid": "kI45aZ2XeC2d2ui",
       "runId": 680761007
+    },
+    "3Bq3YcM6wv2ap4H": {
+      "name": "FAKE",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 1,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3Bq3YcM6wv2ap4H",
+      "runId": 680761007
+    },
+    "5MOOYmNhdv98hAL": {
+      "name": "finoyes",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5MOOYmNhdv98hAL",
+      "runId": 680761007
     }
   }
 }
