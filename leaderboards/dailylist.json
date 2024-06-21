@@ -478,6 +478,51 @@
       "version": 2616,
       "uid": "98DNZpnq23OQK03",
       "runId": 680761007
+    },
+    "y9Zc8a6jyc711qw": {
+      "name": "Exkalibur",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        8,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "y9Zc8a6jyc711qw",
+      "runId": 680761007
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 69,
+      "win": false,
+      "kills": 198,
+      "ultra": 0,
+      "skills": [
+        8,
+        19,
+        10,
+        12,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 680761007
     }
   }
 }

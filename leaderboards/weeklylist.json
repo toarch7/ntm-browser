@@ -737,6 +737,28 @@
       "version": 2616,
       "uid": "ti20qzaJZQZ86cB",
       "runId": 1900604592
+    },
+    "BW21eYDyljjr5P7": {
+      "name": "dante",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 7,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        6
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "BW21eYDyljjr5P7",
+      "runId": 1900604592
     }
   }
 }
