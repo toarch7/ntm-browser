@@ -394,6 +394,70 @@
       "version": 2616,
       "uid": "rI0Vr19z1vXI4vN",
       "runId": 680761007
+    },
+    "uuG618z3fKffVMh": {
+      "name": "0",
+      "char": 3,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 38,
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uuG618z3fKffVMh",
+      "runId": 680761007
+    },
+    "edhTZ83F85f2l9U": {
+      "name": "Friezed",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "edhTZ83F85f2l9U",
+      "runId": 680761007
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 5,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 680761007
     }
   }
 }
