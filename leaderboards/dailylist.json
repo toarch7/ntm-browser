@@ -82,6 +82,75 @@
       "version": 2616,
       "uid": "rtxKOW20G42lCdp",
       "runId": 680761007
+    },
+    "y0FYbsLle1Rv0Ue": {
+      "name": "Bandit_Cat",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 21,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        27,
+        14,
+        8,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "y0FYbsLle1Rv0Ue",
+      "runId": 680761007
+    },
+    "9ezR32ssCk3277B": {
+      "name": "Andersony",
+      "char": 2,
+      "skin": false,
+      "area": 100,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        8,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9ezR32ssCk3277B",
+      "runId": 680761007
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 2,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 91,
+      "bwep": 36,
+      "win": false,
+      "kills": 315,
+      "ultra": 0,
+      "skills": [
+        27,
+        14,
+        3,
+        12,
+        9,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 680761007
     }
   }
 }
