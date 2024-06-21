@@ -564,6 +564,67 @@
       "version": 2616,
       "uid": "ja9h75yt5Qs9KwG",
       "runId": 680761007
+    },
+    "rOt1mI70UH2HGVm": {
+      "name": "Throneseeker",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 6,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rOt1mI70UH2HGVm",
+      "runId": 680761007
+    },
+    "vhz16PHRAWn967S": {
+      "name": "Ушлепленец777",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 5,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        8,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "vhz16PHRAWn967S",
+      "runId": 680761007
+    },
+    "23z15yq271hFliU": {
+      "name": "folla_ancianas",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "23z15yq271hFliU",
+      "runId": 680761007
     }
   }
 }
