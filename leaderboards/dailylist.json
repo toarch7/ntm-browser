@@ -734,6 +734,54 @@
       "version": 2616,
       "uid": "28479R278361ULR",
       "runId": 2108622598
+    },
+    "iMvY9tItaRuPxL8": {
+      "name": "LK",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "iMvY9tItaRuPxL8",
+      "runId": 2108622598
+    },
+    "alvND779U3XjTJY": {
+      "name": "Fucker",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 23,
+      "bwep": 11,
+      "win": false,
+      "kills": 430,
+      "ultra": 1,
+      "skills": [
+        27,
+        1,
+        8,
+        7,
+        17,
+        19,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "alvND779U3XjTJY",
+      "runId": 2108622598
     }
   }
 }
