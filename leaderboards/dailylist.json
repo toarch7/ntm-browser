@@ -63,6 +63,76 @@
       "version": 2616,
       "uid": "zs6HVGW7bh828Wq",
       "runId": 2108622598
+    },
+    "g5lMVrUL3riPr78": {
+      "name": "AlanCDP",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 34,
+      "win": false,
+      "kills": 212,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        8,
+        7,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g5lMVrUL3riPr78",
+      "runId": 2108622598
+    },
+    "1He2gU6x48Fav1j": {
+      "name": "assew",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 4,
+      "win": false,
+      "kills": 244,
+      "ultra": 0,
+      "skills": [
+        27,
+        9,
+        8,
+        7,
+        17,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1He2gU6x48Fav1j",
+      "runId": 2108622598
+    },
+    "nS4tAXaS957Jv42": {
+      "name": "korin",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        1,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "nS4tAXaS957Jv42",
+      "runId": 2108622598
     }
   }
 }
