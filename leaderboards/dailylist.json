@@ -358,6 +358,57 @@
       "version": 2616,
       "uid": "y9Zc8a6jyc711qw",
       "runId": 2108622598
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 105,
+      "bwep": 111,
+      "win": false,
+      "kills": 1648,
+      "ultra": 1,
+      "skills": [
+        27,
+        17,
+        12,
+        7,
+        1,
+        3,
+        23
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 2108622598
+    },
+    "e6jF3SW0dz4ooir": {
+      "name": "tuchka",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 63,
+      "win": false,
+      "kills": 201,
+      "ultra": 0,
+      "skills": [
+        12,
+        1,
+        25,
+        28,
+        16,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "e6jF3SW0dz4ooir",
+      "runId": 2108622598
     }
   }
 }
