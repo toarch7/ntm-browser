@@ -409,6 +409,51 @@
       "version": 2616,
       "uid": "e6jF3SW0dz4ooir",
       "runId": 2108622598
+    },
+    "rBmjgO3rT7f0W3e": {
+      "name": "foldtable",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 4,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rBmjgO3rT7f0W3e",
+      "runId": 2108622598
+    },
+    "xi358pW3dXHHd47": {
+      "name": "kittyyy",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 11,
+      "win": false,
+      "kills": 258,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        8,
+        7,
+        9,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xi358pW3dXHHd47",
+      "runId": 2108622598
     }
   }
 }
