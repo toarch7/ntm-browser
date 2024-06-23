@@ -43,6 +43,75 @@
       "version": 2616,
       "uid": "EWTZji1UOU4Fldp",
       "runId": 1389498991
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 9,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 113,
+      "win": false,
+      "kills": 327,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        27,
+        10,
+        23,
+        2,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 1389498991
+    },
+    "rBmjgO3rT7f0W3e": {
+      "name": "foldtable",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 3,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        27,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rBmjgO3rT7f0W3e",
+      "runId": 1389498991
+    },
+    "5kiciV30rGS7t3K": {
+      "name": "bonnjo",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5kiciV30rGS7t3K",
+      "runId": 1389498991
     }
   }
 }

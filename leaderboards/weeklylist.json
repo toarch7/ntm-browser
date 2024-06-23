@@ -948,6 +948,29 @@
       "version": 2616,
       "uid": "p6KHvaIIKk6110B",
       "runId": 1900604592
+    },
+    "s8D3fIDu6OzrPPF": {
+      "name": "A",
+      "char": 6,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 75,
+      "win": false,
+      "kills": 211,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        9,
+        27
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "s8D3fIDu6OzrPPF",
+      "runId": 1900604592
     }
   }
 }
