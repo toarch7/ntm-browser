@@ -653,6 +653,67 @@
       "version": 2616,
       "uid": "nF82y1oA0b5u6EL",
       "runId": 1362351600
+    },
+    "70iWaR72bfQ74Od": {
+      "name": "Вова",
+      "char": 12,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 119,
+      "bwep": 60,
+      "win": false,
+      "kills": 410,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        23,
+        27,
+        24,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "70iWaR72bfQ74Od",
+      "runId": 1362351600
+    },
+    "SVX9EE7xD1GrN0B": {
+      "name": "foda",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 19,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "SVX9EE7xD1GrN0B",
+      "runId": 1362351600
+    },
+    "7m6rMl97DPjVY5B": {
+      "name": "bilahG",
+      "char": 8,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 21,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7m6rMl97DPjVY5B",
+      "runId": 1362351600
     }
   }
 }
