@@ -271,6 +271,62 @@
       "version": 2616,
       "uid": "kI45aZ2XeC2d2ui",
       "runId": 1362351600
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 5,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 7,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 1362351600
+    },
+    "y9Zc8a6jyc711qw": {
+      "name": "Exkalibur",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 19,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "y9Zc8a6jyc711qw",
+      "runId": 1362351600
+    },
+    "rBmjgO3rT7f0W3e": {
+      "name": "foldtable",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 14,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rBmjgO3rT7f0W3e",
+      "runId": 1362351600
     }
   }
 }
