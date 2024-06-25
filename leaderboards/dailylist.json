@@ -449,6 +449,53 @@
       "version": 2616,
       "uid": "64lsh4Hwg4ysAv1",
       "runId": 1506261625
+    },
+    "98DNZpnq23OQK03": {
+      "name": "Finneption",
+      "char": 10,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 71,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        1,
+        16,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "98DNZpnq23OQK03",
+      "runId": 1506261625
+    },
+    "L4AHmr3us127cp5": {
+      "name": "Pampam",
+      "char": 5,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 13,
+      "win": false,
+      "kills": 281,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        28,
+        4,
+        14,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L4AHmr3us127cp5",
+      "runId": 1506261625
     }
   }
 }
