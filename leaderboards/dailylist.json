@@ -609,6 +609,30 @@
       "version": 2616,
       "uid": "70U9wJO1YQv91LZ",
       "runId": 1506261625
+    },
+    "qlv1GatdYck1054": {
+      "name": "shadow",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 15,
+      "win": false,
+      "kills": 217,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        10,
+        4,
+        8
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "qlv1GatdYck1054",
+      "runId": 1506261625
     }
   }
 }
