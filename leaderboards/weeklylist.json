@@ -502,6 +502,47 @@
       "version": 2616,
       "uid": "gEb34Q5x1q9964z",
       "runId": 1397418543
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 11,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 65,
+      "win": false,
+      "kills": 347,
+      "ultra": 0,
+      "skills": [
+        9,
+        27,
+        4,
+        8,
+        7,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 1397418543
+    },
+    "10pg8SHC0AGaA00": {
+      "name": "mohito",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 5,
+      "win": false,
+      "kills": 83,
+      "crown": 3,
+      "version": 2616,
+      "uid": "10pg8SHC0AGaA00",
+      "runId": 1397418543
     }
   }
 }
