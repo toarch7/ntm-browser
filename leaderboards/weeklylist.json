@@ -29,12 +29,12 @@
       "char": 11,
       "skin": true,
       "area": 7,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 23,
-      "bwep": 30,
+      "wep": 90,
+      "bwep": 12,
       "win": false,
-      "kills": 361,
+      "kills": 395,
       "ultra": 0,
       "skills": [
         9,
@@ -47,6 +47,32 @@
       "crown": 3,
       "version": 2616,
       "uid": "N65n27A9w0ffuB8",
+      "runId": 1397418543
+    },
+    "g5lMVrUL3riPr78": {
+      "name": "AlanCDP",
+      "char": 11,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 12,
+      "win": false,
+      "kills": 407,
+      "ultra": 2,
+      "skills": [
+        24,
+        8,
+        4,
+        13,
+        17,
+        1,
+        14
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "g5lMVrUL3riPr78",
       "runId": 1397418543
     }
   }
