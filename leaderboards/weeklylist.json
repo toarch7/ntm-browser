@@ -1133,6 +1133,94 @@
       "version": 2616,
       "uid": "bUaKZo567dmv1if",
       "runId": 1397418543
+    },
+    "KWME8W4ER7IL5Oq": {
+      "name": "BossGamer_XD",
+      "char": 11,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 65,
+      "win": false,
+      "kills": 174,
+      "ultra": 0,
+      "skills": [
+        8,
+        23,
+        13
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "KWME8W4ER7IL5Oq",
+      "runId": 1397418543
+    },
+    "p4lo81o5l4RX5Hu": {
+      "name": "Bandit_Cat:3",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 13,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        8,
+        4
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "p4lo81o5l4RX5Hu",
+      "runId": 1397418543
+    },
+    "nS4tAXaS957Jv42": {
+      "name": "korin",
+      "char": 11,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 65,
+      "win": false,
+      "kills": 165,
+      "ultra": 0,
+      "skills": [
+        9,
+        27,
+        23,
+        12
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "nS4tAXaS957Jv42",
+      "runId": 1397418543
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 3,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        13
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 1397418543
     }
   }
 }
