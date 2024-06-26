@@ -515,13 +515,13 @@
       "name": "hunter",
       "char": 11,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 7,
+      "subarea": 1,
       "loops": 1,
-      "wep": 10,
-      "bwep": 12,
+      "wep": 12,
+      "bwep": 10,
       "win": false,
-      "kills": 873,
+      "kills": 1195,
       "ultra": 2,
       "skills": [
         9,
@@ -529,8 +529,7 @@
         4,
         8,
         7,
-        1,
-        3
+        1
       ],
       "crown": 3,
       "version": 2616,
@@ -1297,6 +1296,31 @@
       "crown": 3,
       "version": 2616,
       "uid": "Q0Vj5NlN8JMVfb2",
+      "runId": 1397418543
+    },
+    "oUR0D1vGN54g016": {
+      "name": "simon222",
+      "char": 11,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 42,
+      "win": false,
+      "kills": 331,
+      "ultra": 0,
+      "skills": [
+        9,
+        8,
+        4,
+        12,
+        19,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "oUR0D1vGN54g016",
       "runId": 1397418543
     }
   }
