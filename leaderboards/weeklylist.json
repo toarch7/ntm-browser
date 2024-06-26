@@ -848,18 +848,17 @@
       "name": "RICHARDdxd",
       "char": 11,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 23,
+      "wep": 38,
       "bwep": 65,
       "win": false,
-      "kills": 146,
+      "kills": 162,
       "ultra": 0,
       "skills": [
         24,
-        8,
-        4,
+        26,
         10
       ],
       "crown": 3,
@@ -925,6 +924,52 @@
       "crown": 3,
       "version": 2616,
       "uid": "lEX1dTFu6krOkzk",
+      "runId": 1397418543
+    },
+    "29aDNnrbtZQY7R3": {
+      "name": "Seeker712",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 65,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "29aDNnrbtZQY7R3",
+      "runId": 1397418543
+    },
+    "ti20qzaJZQZ86cB": {
+      "name": "Elgordox66",
+      "char": 11,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 35,
+      "bwep": 22,
+      "win": false,
+      "kills": 669,
+      "ultra": 2,
+      "skills": [
+        26,
+        27,
+        21,
+        8,
+        23,
+        7,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "ti20qzaJZQZ86cB",
       "runId": 1397418543
     }
   }
