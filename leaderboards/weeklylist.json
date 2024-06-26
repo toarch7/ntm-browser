@@ -167,17 +167,17 @@
       "name": "Friezed",
       "char": 11,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 65,
-      "bwep": 38,
+      "wep": 23,
+      "bwep": 47,
       "win": false,
-      "kills": 149,
+      "kills": 163,
       "ultra": 0,
       "skills": [
         9,
-        8,
+        27,
         4,
         3
       ],
@@ -586,7 +586,7 @@
       "wep": 65,
       "bwep": 0,
       "win": false,
-      "kills": 365,
+      "kills": 369,
       "ultra": 0,
       "skills": [
         9,
@@ -594,7 +594,8 @@
         4,
         3,
         7,
-        2
+        1,
+        16
       ],
       "crown": 3,
       "version": 2616,
@@ -1220,6 +1221,29 @@
       "crown": 3,
       "version": 2616,
       "uid": "rI0Vr19z1vXI4vN",
+      "runId": 1397418543
+    },
+    "D54ZfgeT1b3ezVd": {
+      "name": "Dziarr",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 23,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        9,
+        8,
+        23,
+        10
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "D54ZfgeT1b3ezVd",
       "runId": 1397418543
     }
   }
