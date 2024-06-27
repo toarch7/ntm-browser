@@ -795,6 +795,44 @@
       "version": 2616,
       "uid": "KWME8W4ER7IL5Oq",
       "runId": 1991908055
+    },
+    "1oXn6FJ31D0aKS1": {
+      "name": "hamerkill",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1oXn6FJ31D0aKS1",
+      "runId": 1991908055
+    },
+    "5O16m6T7PbwSku9": {
+      "name": "WaluigiDIE",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5O16m6T7PbwSku9",
+      "runId": 1991908055
     }
   }
 }
