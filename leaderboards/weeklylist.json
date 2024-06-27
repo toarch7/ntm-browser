@@ -1745,6 +1745,49 @@
       "version": 2616,
       "uid": "23z15yq271hFliU",
       "runId": 1397418543
+    },
+    "IQw0u5EyDP5TtS7": {
+      "name": "Molvess",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 65,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "IQw0u5EyDP5TtS7",
+      "runId": 1397418543
+    },
+    "Ab24HxbUBzRZXqs": {
+      "name": "Rafa",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 47,
+      "win": false,
+      "kills": 198,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        10,
+        7
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "Ab24HxbUBzRZXqs",
+      "runId": 1397418543
     }
   }
 }
