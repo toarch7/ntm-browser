@@ -1524,6 +1524,55 @@
       "version": 2616,
       "uid": "X8E9G5Nkf99mu4i",
       "runId": 1397418543
+    },
+    "V7Vf1Xc7SKA4drW": {
+      "name": "HerKing",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 44,
+      "win": false,
+      "kills": 193,
+      "ultra": 0,
+      "skills": [
+        9,
+        27,
+        4,
+        10,
+        16
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "V7Vf1Xc7SKA4drW",
+      "runId": 1397418543
+    },
+    "dO82xj8ihx727Qm": {
+      "name": "darkness",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 63,
+      "win": false,
+      "kills": 270,
+      "ultra": 0,
+      "skills": [
+        9,
+        27,
+        4,
+        3,
+        7,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "dO82xj8ihx727Qm",
+      "runId": 1397418543
     }
   }
 }
