@@ -1,4 +1,77 @@
 {
   "day": 27,
-  "entries": {}
+  "entries": {
+    "l20f3nZgrP8A886": {
+      "name": "kaster",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "l20f3nZgrP8A886",
+      "runId": 1991908055
+    },
+    "LSYmy75ZlmysIeo": {
+      "name": "altair",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 24,
+      "crown": 1,
+      "version": 2616,
+      "uid": "LSYmy75ZlmysIeo",
+      "runId": 1991908055
+    },
+    "KHpH43Q2GlV9A69": {
+      "name": "luka",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "KHpH43Q2GlV9A69",
+      "runId": 1991908055
+    },
+    "Is5F2iVekK2V7O8": {
+      "name": "El",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Is5F2iVekK2V7O8",
+      "runId": 1991908055
+    }
+  }
 }
