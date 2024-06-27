@@ -407,6 +407,50 @@
       "version": 2616,
       "uid": "07qv1I0KQAkJhSO",
       "runId": 1991908055
+    },
+    "W471611Hz3mp7zD": {
+      "name": "xxx",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W471611Hz3mp7zD",
+      "runId": 1991908055
+    },
+    "70iWaR72bfQ74Od": {
+      "name": "Вова",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 92,
+      "bwep": 35,
+      "win": false,
+      "kills": 1141,
+      "ultra": 1,
+      "skills": [
+        4,
+        27,
+        23,
+        13,
+        14
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "70iWaR72bfQ74Od",
+      "runId": 1991908055
     }
   }
 }
