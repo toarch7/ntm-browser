@@ -356,6 +356,47 @@
       "version": 2616,
       "uid": "vhz16PHRAWn967S",
       "runId": 267095406
+    },
+    "edhTZ83F85f2l9U": {
+      "name": "Friezed",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 7,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        1,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "edhTZ83F85f2l9U",
+      "runId": 267095406
+    },
+    "fZm0yfmpF6nX5Am": {
+      "name": "InSaNe",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 27,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "fZm0yfmpF6nX5Am",
+      "runId": 267095406
     }
   }
 }
