@@ -1872,20 +1872,64 @@
       "name": "Seeker8ksj",
       "char": 11,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
       "wep": 65,
-      "bwep": 5,
+      "bwep": 0,
       "win": false,
-      "kills": 72,
-      "ultra": 0,
-      "skills": [
-        24
-      ],
+      "kills": 83,
       "crown": 3,
       "version": 2616,
       "uid": "wDrWGUu5Kn4GL73",
+      "runId": 1397418543
+    },
+    "DsRn1n1IBOl2yUt": {
+      "name": "AroisSus",
+      "char": 11,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 76,
+      "bwep": 42,
+      "win": false,
+      "kills": 574,
+      "ultra": 1,
+      "skills": [
+        9,
+        8,
+        4,
+        10,
+        7,
+        1,
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "DsRn1n1IBOl2yUt",
+      "runId": 1397418543
+    },
+    "1ZvnO4Y9mRM6F5K": {
+      "name": "Adrian",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 76,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        8,
+        23,
+        13
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "1ZvnO4Y9mRM6F5K",
       "runId": 1397418543
     }
   }
