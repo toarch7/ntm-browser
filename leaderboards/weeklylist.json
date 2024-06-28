@@ -883,17 +883,21 @@
       "name": "wdwasdsa",
       "char": 11,
       "skin": true,
-      "area": 3,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 19,
-      "bwep": 23,
+      "wep": 65,
+      "bwep": 28,
       "win": false,
-      "kills": 105,
+      "kills": 401,
       "ultra": 0,
       "skills": [
         8,
-        17
+        17,
+        12,
+        19,
+        1,
+        26
       ],
       "crown": 3,
       "version": 2616,
@@ -1728,18 +1732,20 @@
       "char": 11,
       "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
       "wep": 26,
-      "bwep": 114,
+      "bwep": 80,
       "win": false,
-      "kills": 187,
+      "kills": 253,
       "ultra": 0,
       "skills": [
         9,
         27,
         4,
-        10
+        10,
+        16,
+        7
       ],
       "crown": 3,
       "version": 2616,
@@ -1813,6 +1819,28 @@
       "crown": 3,
       "version": 2616,
       "uid": "m96PH9ISC2JCNsw",
+      "runId": 1397418543
+    },
+    "9iat0z5A9pP3e0D": {
+      "name": "EvilCat",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 53,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        13
+      ],
+      "crown": 3,
+      "version": 2620,
+      "uid": "9iat0z5A9pP3e0D",
       "runId": 1397418543
     }
   }

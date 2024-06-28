@@ -1,4 +1,70 @@
 {
   "day": 28,
-  "entries": {}
+  "entries": {
+    "Is5F2iVekK2V7O8": {
+      "name": "El",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 66,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        13,
+        6,
+        8,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Is5F2iVekK2V7O8",
+      "runId": 267095406
+    },
+    "9iat0z5A9pP3e0D": {
+      "name": "EvilCat",
+      "char": 4,
+      "skin": true,
+      "area": 100,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 66,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        27
+      ],
+      "crown": 1,
+      "version": 2620,
+      "uid": "9iat0z5A9pP3e0D",
+      "runId": 267095406
+    },
+    "dbx5jPY2rd40Wfs": {
+      "name": "hect",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 19,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "dbx5jPY2rd40Wfs",
+      "runId": 267095406
+    }
+  }
 }
