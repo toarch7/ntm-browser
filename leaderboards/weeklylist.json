@@ -1788,6 +1788,32 @@
       "version": 2616,
       "uid": "Ab24HxbUBzRZXqs",
       "runId": 1397418543
+    },
+    "m96PH9ISC2JCNsw": {
+      "name": "OVER-XBOX",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 60,
+      "bwep": 106,
+      "win": false,
+      "kills": 708,
+      "ultra": 1,
+      "skills": [
+        9,
+        27,
+        4,
+        10,
+        7,
+        1,
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "m96PH9ISC2JCNsw",
+      "runId": 1397418543
     }
   }
 }
