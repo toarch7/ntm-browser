@@ -1931,6 +1931,51 @@
       "version": 2616,
       "uid": "1ZvnO4Y9mRM6F5K",
       "runId": 1397418543
+    },
+    "bwvxp25A47v2S62": {
+      "name": "branto_sus",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 53,
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        9,
+        8,
+        23,
+        13
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "bwvxp25A47v2S62",
+      "runId": 1397418543
+    },
+    "5kiciV30rGS7t3K": {
+      "name": "bonnjo",
+      "char": 11,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 117,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        27,
+        21,
+        9
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "5kiciV30rGS7t3K",
+      "runId": 1397418543
     }
   }
 }
