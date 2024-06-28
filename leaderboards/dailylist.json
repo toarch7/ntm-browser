@@ -424,6 +424,47 @@
       "version": 2616,
       "uid": "EVl3A0wZ9bTFs7w",
       "runId": 267095406
+    },
+    "lEX1dTFu6krOkzk": {
+      "name": "Doomguy047",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 26,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "lEX1dTFu6krOkzk",
+      "runId": 267095406
+    },
+    "qmVcbi378k7fL78": {
+      "name": "Farreliebert",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 7,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        1,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qmVcbi378k7fL78",
+      "runId": 267095406
     }
   }
 }
