@@ -197,17 +197,19 @@
       "name": "InSaNe",
       "char": 11,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 5,
-      "bwep": 65,
+      "wep": 65,
+      "bwep": 8,
       "win": false,
-      "kills": 64,
+      "kills": 144,
       "ultra": 0,
       "skills": [
         9,
-        8
+        8,
+        4,
+        10
       ],
       "crown": 3,
       "version": 2616,
@@ -1841,6 +1843,29 @@
       "crown": 3,
       "version": 2620,
       "uid": "9iat0z5A9pP3e0D",
+      "runId": 1397418543
+    },
+    "HzYh5z9LZ4U329H": {
+      "name": "huina",
+      "char": 11,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 65,
+      "win": false,
+      "kills": 165,
+      "ultra": 0,
+      "skills": [
+        9,
+        8,
+        4,
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "HzYh5z9LZ4U329H",
       "runId": 1397418543
     }
   }
