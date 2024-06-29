@@ -380,6 +380,104 @@
       "version": 2616,
       "uid": "1yv6udB0wO10zw7",
       "runId": 1143080384
+    },
+    "9jYNDG7ZYN4F99C": {
+      "name": "rad_away77",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 19,
+      "crown": 1,
+      "version": 2616,
+      "uid": "9jYNDG7ZYN4F99C",
+      "runId": 1143080384
+    },
+    "a576y2Tg2GA2cZp": {
+      "name": "TheGuy",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a576y2Tg2GA2cZp",
+      "runId": 1143080384
+    },
+    "m5L6CBmMut3A3al": {
+      "name": "SilverGames07",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 6,
+      "win": false,
+      "kills": 202,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "m5L6CBmMut3A3al",
+      "runId": 1143080384
+    },
+    "1pvOG0jZbRvniU8": {
+      "name": "zoroo",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "1pvOG0jZbRvniU8",
+      "runId": 1143080384
+    },
+    "kI45aZ2XeC2d2ui": {
+      "name": "gioluc04",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 21,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        16,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kI45aZ2XeC2d2ui",
+      "runId": 1143080384
     }
   }
 }
