@@ -1,4 +1,50 @@
 {
   "day": 29,
-  "entries": {}
+  "entries": {
+    "p4lo81o5l4RX5Hu": {
+      "name": "Bandit_Cat:3",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 21,
+      "win": false,
+      "kills": 213,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        10,
+        16,
+        17,
+        6
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "p4lo81o5l4RX5Hu",
+      "runId": 1143080384
+    },
+    "Is5F2iVekK2V7O8": {
+      "name": "El",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 16,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Is5F2iVekK2V7O8",
+      "runId": 1143080384
+    }
+  }
 }
