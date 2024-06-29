@@ -2266,6 +2266,49 @@
       "version": 2616,
       "uid": "8dVRingCmjYimhw",
       "runId": 1397418543
+    },
+    "9ezR32ssCk3277B": {
+      "name": "Andersony",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 65,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        9,
+        8,
+        17,
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "9ezR32ssCk3277B",
+      "runId": 1397418543
+    },
+    "HoPJc9d89hS5xno": {
+      "name": "Ken",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 65,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "HoPJc9d89hS5xno",
+      "runId": 1397418543
     }
   }
 }
