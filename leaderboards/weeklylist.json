@@ -1736,17 +1736,16 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 26,
-      "bwep": 80,
+      "wep": 70,
+      "bwep": 26,
       "win": false,
-      "kills": 253,
+      "kills": 260,
       "ultra": 0,
       "skills": [
         9,
         27,
         4,
         10,
-        16,
         7
       ],
       "crown": 3,
@@ -2177,6 +2176,46 @@
       "crown": 3,
       "version": 2616,
       "uid": "wxkLU2qfEktmWYl",
+      "runId": 1397418543
+    },
+    "z5WXgudbAEbbD2E": {
+      "name": "hexx",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 65,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [],
+      "crown": 3,
+      "version": 2616,
+      "uid": "z5WXgudbAEbbD2E",
+      "runId": 1397418543
+    },
+    "m5L6CBmMut3A3al": {
+      "name": "SilverGames07",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 65,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        10
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "m5L6CBmMut3A3al",
       "runId": 1397418543
     }
   }
