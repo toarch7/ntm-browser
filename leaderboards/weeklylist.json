@@ -1874,10 +1874,14 @@
       "area": 3,
       "subarea": 2,
       "loops": 0,
-      "wep": 65,
-      "bwep": 13,
+      "wep": 38,
+      "bwep": 65,
       "win": false,
-      "kills": 112,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
       "crown": 3,
       "version": 2616,
       "uid": "wDrWGUu5Kn4GL73",
@@ -2216,6 +2220,53 @@
       "crown": 3,
       "version": 2616,
       "uid": "m5L6CBmMut3A3al",
+      "runId": 1397418543
+    },
+    "FSo38VP7v8v7m6J": {
+      "name": "Seeker16911",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 65,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        9,
+        8,
+        23,
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "FSo38VP7v8v7m6J",
+      "runId": 1397418543
+    },
+    "8dVRingCmjYimhw": {
+      "name": "paulo",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 38,
+      "win": false,
+      "kills": 221,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        3,
+        7,
+        16
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "8dVRingCmjYimhw",
       "runId": 1397418543
     }
   }
