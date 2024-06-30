@@ -2431,10 +2431,10 @@
       "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 65,
-      "bwep": 13,
+      "wep": 5,
+      "bwep": 65,
       "win": false,
-      "kills": 87,
+      "kills": 91,
       "crown": 3,
       "version": 2616,
       "uid": "9jYNDG7ZYN4F99C",
@@ -2653,6 +2653,28 @@
       "crown": 3,
       "version": 2616,
       "uid": "x7hv1Nro6AhTt78",
+      "runId": 1397418543
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "1000THR",
+      "char": 11,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 29,
+      "win": false,
+      "kills": 176,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        10
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
       "runId": 1397418543
     }
   }

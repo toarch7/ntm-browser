@@ -406,6 +406,48 @@
       "version": 2616,
       "uid": "OG6oUWfDQdLREP4",
       "runId": 1388188929
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 8,
+      "skin": true,
+      "area": 100,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 13,
+      "bwep": 96,
+      "win": false,
+      "kills": 1226,
+      "ultra": 1,
+      "skills": [
+        27,
+        22,
+        8,
+        13,
+        14,
+        17,
+        29
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 1388188929
+    },
+    "suZvHC50B8UVEPf": {
+      "name": "deadpoo",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "suZvHC50B8UVEPf",
+      "runId": 1388188929
     }
   }
 }
