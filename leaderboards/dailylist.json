@@ -448,6 +448,49 @@
       "version": 2616,
       "uid": "suZvHC50B8UVEPf",
       "runId": 1388188929
+    },
+    "p6KHvaIIKk6110B": {
+      "name": "zoulogy",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 66,
+      "win": false,
+      "kills": 235,
+      "ultra": 0,
+      "skills": [
+        12,
+        28,
+        1,
+        8,
+        2,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "p6KHvaIIKk6110B",
+      "runId": 1388188929
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 4,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 1388188929
     }
   }
 }
