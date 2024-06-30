@@ -547,6 +547,71 @@
       "version": 2616,
       "uid": "06xpG8K5yijLUmY",
       "runId": 1388188929
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 5,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        3,
+        27,
+        12,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1388188929
+    },
+    "21CAx7WUe6WQ710": {
+      "name": "barrel_guy",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 27,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "21CAx7WUe6WQ710",
+      "runId": 1388188929
+    },
+    "81PzW6ezvVuZNkY": {
+      "name": "yoloyolga",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 8,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        12,
+        27,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "81PzW6ezvVuZNkY",
+      "runId": 1388188929
     }
   }
 }

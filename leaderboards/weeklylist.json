@@ -2659,18 +2659,21 @@
       "name": "1000THR",
       "char": 11,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 22,
-      "bwep": 70,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 60,
       "win": false,
-      "kills": 254,
-      "ultra": 0,
+      "kills": 731,
+      "ultra": 2,
       "skills": [
         8,
         4,
         10,
+        25,
+        23,
+        1,
         17
       ],
       "crown": 3,
@@ -2696,6 +2699,47 @@
       "crown": 3,
       "version": 2616,
       "uid": "X6O42B52p11899p",
+      "runId": 1397418543
+    },
+    "06xpG8K5yijLUmY": {
+      "name": "OkOKOk",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 65,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        24,
+        27
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "06xpG8K5yijLUmY",
+      "runId": 1397418543
+    },
+    "81PzW6ezvVuZNkY": {
+      "name": "yoloyolga",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 65,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "81PzW6ezvVuZNkY",
       "runId": 1397418543
     }
   }
