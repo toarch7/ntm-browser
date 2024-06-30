@@ -1963,17 +1963,17 @@
       "name": "bonnjo",
       "char": 11,
       "skin": true,
-      "area": 104,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 65,
-      "bwep": 117,
+      "wep": 37,
+      "bwep": 65,
       "win": false,
-      "kills": 162,
+      "kills": 185,
       "ultra": 0,
       "skills": [
         27,
-        21,
+        4,
         9
       ],
       "crown": 3,
@@ -2631,6 +2631,27 @@
       "crown": 3,
       "version": 2616,
       "uid": "z4xSp40o784yH6V",
+      "runId": 1397418543
+    },
+    "x7hv1Nro6AhTt78": {
+      "name": "See",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 65,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        9,
+        8
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "x7hv1Nro6AhTt78",
       "runId": 1397418543
     }
   }
