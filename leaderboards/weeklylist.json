@@ -387,16 +387,17 @@
       "name": "BlackGamer389",
       "char": 11,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 65,
-      "bwep": 8,
+      "wep": 29,
+      "bwep": 65,
       "win": false,
-      "kills": 137,
+      "kills": 172,
       "ultra": 0,
       "skills": [
-        23
+        4,
+        10
       ],
       "crown": 3,
       "version": 2616,
@@ -3164,6 +3165,27 @@
       "crown": 3,
       "version": 2616,
       "uid": "316QNl3ACEA87zy",
+      "runId": 1397418543
+    },
+    "LreX5bRnfaJrvhD": {
+      "name": "Lukasteken",
+      "char": 11,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 8,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "LreX5bRnfaJrvhD",
       "runId": 1397418543
     }
   }
