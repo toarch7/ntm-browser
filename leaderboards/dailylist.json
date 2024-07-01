@@ -480,6 +480,47 @@
       "version": 2616,
       "uid": "m06kUmLsdxdwJ06",
       "runId": 1018609868
+    },
+    "5O16m6T7PbwSku9": {
+      "name": "WaluigiDIE",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 69,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5O16m6T7PbwSku9",
+      "runId": 1018609868
+    },
+    "21CAx7WUe6WQ710": {
+      "name": "barrel_guy",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 17,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        25,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "21CAx7WUe6WQ710",
+      "runId": 1018609868
     }
   }
 }
