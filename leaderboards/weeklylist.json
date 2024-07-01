@@ -3012,6 +3012,30 @@
       "version": 2616,
       "uid": "NAR62K6uvyN4TO2",
       "runId": 1397418543
+    },
+    "fesSAp3MAN72fSe": {
+      "name": "SadFrog",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 65,
+      "win": false,
+      "kills": 189,
+      "ultra": 0,
+      "skills": [
+        9,
+        27,
+        23,
+        13,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "fesSAp3MAN72fSe",
+      "runId": 1397418543
     }
   }
 }
