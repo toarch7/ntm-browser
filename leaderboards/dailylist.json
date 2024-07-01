@@ -141,6 +141,74 @@
       "version": 2616,
       "uid": "x7hv1Nro6AhTt78",
       "runId": 1018609868
+    },
+    "13P3br4eB648BtR": {
+      "name": "Rin",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 63,
+      "bwep": 111,
+      "win": false,
+      "kills": 1746,
+      "ultra": 1,
+      "skills": [
+        23,
+        1,
+        21,
+        14,
+        27,
+        25,
+        17
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "13P3br4eB648BtR",
+      "runId": 1018609868
+    },
+    "g2Q1du6j6F1tSqS": {
+      "name": "Andusias",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        28,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g2Q1du6j6F1tSqS",
+      "runId": 1018609868
+    },
+    "vhz16PHRAWn967S": {
+      "name": "Ушлепленец777",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 71,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        6,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "vhz16PHRAWn967S",
+      "runId": 1018609868
     }
   }
 }
