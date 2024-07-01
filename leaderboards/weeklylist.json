@@ -3100,6 +3100,50 @@
       "version": 2616,
       "uid": "w20B0r75eP2CtnB",
       "runId": 1397418543
+    },
+    "ZacmoXYyN7yb341": {
+      "name": "enderman",
+      "char": 11,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 38,
+      "win": false,
+      "kills": 182,
+      "ultra": 0,
+      "skills": [
+        9,
+        27,
+        4,
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "ZacmoXYyN7yb341",
+      "runId": 1397418543
+    },
+    "3Bq3YcM6wv2ap4H": {
+      "name": "FAKE",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 65,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        26,
+        27
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "3Bq3YcM6wv2ap4H",
+      "runId": 1397418543
     }
   }
 }
