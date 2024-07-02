@@ -72,20 +72,43 @@
       "name": "1000THR",
       "char": 9,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 57,
-      "bwep": 50,
+      "wep": 22,
+      "bwep": 37,
       "win": false,
-      "kills": 85,
+      "kills": 247,
       "ultra": 0,
       "skills": [
-        17
+        2,
+        27,
+        22,
+        4
       ],
       "crown": 10,
       "version": 2616,
       "uid": "HJ7G87oXRypnPMd",
+      "runId": 440077377
+    },
+    "m06kUmLsdxdwJ06": {
+      "name": "g205",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 0,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "m06kUmLsdxdwJ06",
       "runId": 440077377
     }
   }
