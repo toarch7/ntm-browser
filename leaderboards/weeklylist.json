@@ -495,6 +495,47 @@
       "version": 2616,
       "uid": "edhTZ83F85f2l9U",
       "runId": 440077377
+    },
+    "y9Zc8a6jyc711qw": {
+      "name": "Exkalibur",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 88,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "y9Zc8a6jyc711qw",
+      "runId": 440077377
+    },
+    "kN19s498gB296Fo": {
+      "name": "Seeker89",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 69,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        28,
+        2
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "kN19s498gB296Fo",
+      "runId": 440077377
     }
   }
 }
