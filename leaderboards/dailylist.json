@@ -662,6 +662,26 @@
       "version": 2616,
       "uid": "CM30W3IU3LI73fE",
       "runId": 683252464
+    },
+    "e6xI6wr21H6336L": {
+      "name": "Mole32",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "e6xI6wr21H6336L",
+      "runId": 683252464
     }
   }
 }
