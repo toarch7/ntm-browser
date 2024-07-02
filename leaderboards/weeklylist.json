@@ -291,20 +291,22 @@
       "name": "paulo",
       "char": 9,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 67,
-      "bwep": 47,
+      "wep": 114,
+      "bwep": 11,
       "win": false,
-      "kills": 235,
-      "ultra": 0,
+      "kills": 377,
+      "ultra": 1,
       "skills": [
         28,
         14,
         27,
         3,
-        4
+        4,
+        8,
+        16
       ],
       "crown": 10,
       "version": 2616,
@@ -330,6 +332,27 @@
       "crown": 10,
       "version": 2616,
       "uid": "nS4tAXaS957Jv42",
+      "runId": 440077377
+    },
+    "w93gJW728WFb2a4": {
+      "name": "pp",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 28,
+      "bwep": 10,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "w93gJW728WFb2a4",
       "runId": 440077377
     }
   }
