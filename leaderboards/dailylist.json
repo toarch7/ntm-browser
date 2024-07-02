@@ -197,6 +197,72 @@
       "version": 2616,
       "uid": "w20B0r75eP2CtnB",
       "runId": 683252464
+    },
+    "u1oFU0aHFKh696I": {
+      "name": "Митяй2009",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 3,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "u1oFU0aHFKh696I",
+      "runId": 683252464
+    },
+    "qWs0Sn6rjvY28hW": {
+      "name": "Seeker90",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qWs0Sn6rjvY28hW",
+      "runId": 683252464
+    },
+    "70iWaR72bfQ74Od": {
+      "name": "Вова",
+      "char": 2,
+      "skin": true,
+      "area": 106,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 33,
+      "win": false,
+      "kills": 676,
+      "ultra": 1,
+      "skills": [
+        7,
+        27,
+        3,
+        23,
+        6,
+        1,
+        4
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "70iWaR72bfQ74Od",
+      "runId": 683252464
     }
   }
 }
