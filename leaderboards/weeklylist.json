@@ -160,18 +160,21 @@
       "name": "SilverGames07",
       "char": 9,
       "skin": true,
-      "area": 104,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
       "wep": 88,
-      "bwep": 75,
+      "bwep": 80,
       "win": false,
-      "kills": 155,
+      "kills": 337,
       "ultra": 0,
       "skills": [
         1,
         14,
-        27
+        27,
+        4,
+        9,
+        8
       ],
       "crown": 10,
       "version": 2616,
@@ -197,6 +200,49 @@
       "crown": 10,
       "version": 2616,
       "uid": "9j0f2xqVR69gDc0",
+      "runId": 440077377
+    },
+    "4S1j1GkR2rb0866": {
+      "name": "Seeker90",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 10,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        2,
+        1,
+        27
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "4S1j1GkR2rb0866",
+      "runId": 440077377
+    },
+    "Wq0wIvmZc5K4d6m": {
+      "name": "elhombrejhoniel",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 72,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        1,
+        27
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "Wq0wIvmZc5K4d6m",
       "runId": 440077377
     }
   }
