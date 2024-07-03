@@ -1,4 +1,53 @@
 {
   "day": 3,
-  "entries": {}
+  "entries": {
+    "a967O86SK50PI6n": {
+      "name": "bruh",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 57,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a967O86SK50PI6n",
+      "runId": 733418512
+    },
+    "g5lMVrUL3riPr78": {
+      "name": "AlanCDP",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 37,
+      "bwep": 11,
+      "win": false,
+      "kills": 479,
+      "ultra": 1,
+      "skills": [
+        1,
+        10,
+        23,
+        28,
+        3,
+        27,
+        8
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "g5lMVrUL3riPr78",
+      "runId": 733418512
+    }
+  }
 }
