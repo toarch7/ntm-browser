@@ -95,16 +95,19 @@
       "name": "g205",
       "char": 9,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 66,
-      "bwep": 0,
+      "wep": 26,
+      "bwep": 124,
       "win": false,
-      "kills": 85,
+      "kills": 278,
       "ultra": 0,
       "skills": [
-        1
+        1,
+        27,
+        12,
+        8
       ],
       "crown": 10,
       "version": 2616,
@@ -639,6 +642,27 @@
       "crown": 10,
       "version": 2616,
       "uid": "A6FS5Yv7i049V1o",
+      "runId": 440077377
+    },
+    "vhz16PHRAWn967S": {
+      "name": "Ушлепленец777",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 10,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        1,
+        17
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "vhz16PHRAWn967S",
       "runId": 440077377
     }
   }
