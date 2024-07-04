@@ -51,17 +51,20 @@
       "name": "1ZvnO4Y9mRM6F5K",
       "char": 9,
       "skin": true,
-      "area": 104,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
       "wep": 88,
-      "bwep": 113,
+      "bwep": 12,
       "win": false,
-      "kills": 162,
+      "kills": 331,
       "ultra": 0,
       "skills": [
         1,
-        27
+        21,
+        27,
+        10,
+        14
       ],
       "crown": 10,
       "version": 2616,
@@ -867,6 +870,27 @@
       "crown": 10,
       "version": 2616,
       "uid": "7NOlMWf5O8q0t6u",
+      "runId": 440077377
+    },
+    "p1jD4CJGdLtt2U2": {
+      "name": "afganistano999",
+      "char": 9,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 10,
+      "win": false,
+      "kills": 160,
+      "ultra": 0,
+      "skills": [
+        1,
+        27
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "p1jD4CJGdLtt2U2",
       "runId": 440077377
     }
   }
