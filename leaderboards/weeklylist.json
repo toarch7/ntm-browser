@@ -698,18 +698,21 @@
       "name": "shadow",
       "char": 9,
       "skin": true,
-      "area": 104,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 10,
-      "bwep": 62,
+      "wep": 22,
+      "bwep": 47,
       "win": false,
-      "kills": 186,
+      "kills": 271,
       "ultra": 0,
       "skills": [
+        28,
         1,
-        14,
-        12
+        27,
+        12,
+        10,
+        7
       ],
       "crown": 10,
       "version": 2616,
@@ -891,6 +894,27 @@
       "crown": 10,
       "version": 2616,
       "uid": "p1jD4CJGdLtt2U2",
+      "runId": 440077377
+    },
+    "rU0w2ixOMr8GEr7": {
+      "name": "joako",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 10,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        1,
+        27
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "rU0w2ixOMr8GEr7",
       "runId": 440077377
     }
   }
