@@ -581,6 +581,44 @@
       "version": 2616,
       "uid": "naY1577K9LLwm5P",
       "runId": 915078731
+    },
+    "uJ6iA88O0ZuL5L1": {
+      "name": "zaza",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "uJ6iA88O0ZuL5L1",
+      "runId": 915078731
+    },
+    "KWME8W4ER7IL5Oq": {
+      "name": "BossGamer_XD",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 3,
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        23,
+        26,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "KWME8W4ER7IL5Oq",
+      "runId": 915078731
     }
   }
 }
