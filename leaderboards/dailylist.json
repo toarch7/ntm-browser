@@ -351,6 +351,50 @@
       "version": 2616,
       "uid": "HJ7G87oXRypnPMd",
       "runId": 915078731
+    },
+    "p4lo81o5l4RX5Hu": {
+      "name": "Bandit_Cat:3",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 6,
+      "win": false,
+      "kills": 305,
+      "ultra": 0,
+      "skills": [
+        8,
+        2,
+        22,
+        27,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "p4lo81o5l4RX5Hu",
+      "runId": 915078731
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 6,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 915078731
     }
   }
 }
