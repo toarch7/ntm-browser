@@ -97,6 +97,52 @@
       "version": 2616,
       "uid": "UvlA2LgiokLXmdF",
       "runId": 1615273953
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 75,
+      "win": false,
+      "kills": 247,
+      "ultra": 0,
+      "skills": [
+        27,
+        21,
+        1,
+        7,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 1615273953
+    },
+    "9ezR32ssCk3277B": {
+      "name": "Andersony",
+      "char": 2,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 1,
+      "win": false,
+      "kills": 181,
+      "ultra": 0,
+      "skills": [
+        28,
+        8,
+        3
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "9ezR32ssCk3277B",
+      "runId": 1615273953
     }
   }
 }
