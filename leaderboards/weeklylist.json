@@ -1337,6 +1337,49 @@
       "version": 2616,
       "uid": "xP7kZ8fYkw9y9L5",
       "runId": 440077377
+    },
+    "5TeFSXVp2gN41W2": {
+      "name": "M0n",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 14,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        28,
+        14,
+        27
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "5TeFSXVp2gN41W2",
+      "runId": 440077377
+    },
+    "KjrP68IuGtM1XNG": {
+      "name": "satanas",
+      "char": 9,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 69,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        1,
+        27
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "KjrP68IuGtM1XNG",
+      "runId": 440077377
     }
   }
 }
