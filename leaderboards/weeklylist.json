@@ -1270,6 +1270,49 @@
       "version": 2616,
       "uid": "0L3PPH9vjF23OOQ",
       "runId": 440077377
+    },
+    "MPL1m9U98j2r07t": {
+      "name": "perron",
+      "char": 9,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 66,
+      "win": false,
+      "kills": 171,
+      "ultra": 0,
+      "skills": [
+        1,
+        21,
+        27
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "MPL1m9U98j2r07t",
+      "runId": 440077377
+    },
+    "WY2zkoE1p5TWsf3": {
+      "name": "MOADOT",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 6,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "WY2zkoE1p5TWsf3",
+      "runId": 440077377
     }
   }
 }
