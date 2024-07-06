@@ -1,4 +1,45 @@
 {
   "day": 6,
-  "entries": {}
+  "entries": {
+    "G5tmc49ogEk3pJL": {
+      "name": "Mik",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "G5tmc49ogEk3pJL",
+      "runId": 681559206
+    },
+    "70U9wJO1YQv91LZ": {
+      "name": "IanAarón",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 17,
+      "win": false,
+      "kills": 200,
+      "ultra": 0,
+      "skills": [
+        23,
+        8,
+        3,
+        10,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "70U9wJO1YQv91LZ",
+      "runId": 681559206
+    }
+  }
 }
