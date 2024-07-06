@@ -372,6 +372,76 @@
       "version": 2616,
       "uid": "9jYNDG7ZYN4F99C",
       "runId": 681559206
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 22,
+      "bwep": 88,
+      "win": false,
+      "kills": 515,
+      "ultra": 1,
+      "skills": [
+        13,
+        1,
+        22,
+        23,
+        8,
+        3,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 681559206
+    },
+    "rBmjgO3rT7f0W3e": {
+      "name": "foldtable",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 21,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        7,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rBmjgO3rT7f0W3e",
+      "runId": 681559206
+    },
+    "KjrP68IuGtM1XNG": {
+      "name": "satanas",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 38,
+      "win": false,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        10,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "KjrP68IuGtM1XNG",
+      "runId": 681559206
     }
   }
 }
