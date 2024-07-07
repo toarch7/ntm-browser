@@ -1763,6 +1763,50 @@
       "version": 2616,
       "uid": "V63ZFVhy9BP4e3K",
       "runId": 440077377
+    },
+    "V44J42L7361vyge": {
+      "name": "Seek8oo81ez",
+      "char": 9,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 113,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        2,
+        1,
+        27,
+        19
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "V44J42L7361vyge",
+      "runId": 440077377
+    },
+    "9iat0z5A9pP3e0D": {
+      "name": "EvilCat",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 50,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        17,
+        27
+      ],
+      "crown": 10,
+      "version": 2620,
+      "uid": "9iat0z5A9pP3e0D",
+      "runId": 440077377
     }
   }
 }
