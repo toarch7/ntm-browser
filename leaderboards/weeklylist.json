@@ -1807,6 +1807,53 @@
       "version": 2620,
       "uid": "9iat0z5A9pP3e0D",
       "runId": 440077377
+    },
+    "A5NzSd51J4445Yi": {
+      "name": "ShovelKnightBR",
+      "char": 9,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 68,
+      "win": false,
+      "kills": 320,
+      "ultra": 0,
+      "skills": [
+        28,
+        21,
+        27,
+        12,
+        7,
+        8,
+        25,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "A5NzSd51J4445Yi",
+      "runId": 440077377
+    },
+    "DNWpeNA9xgeB6w5": {
+      "name": "Seeker9",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        26
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "DNWpeNA9xgeB6w5",
+      "runId": 440077377
     }
   }
 }
