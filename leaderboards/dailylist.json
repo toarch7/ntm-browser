@@ -302,6 +302,52 @@
       "version": 2616,
       "uid": "nS4tAXaS957Jv42",
       "runId": 1365157981
+    },
+    "HJU5tw67z9qNjxL": {
+      "name": "TheGreatBun",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 27,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        10,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HJU5tw67z9qNjxL",
+      "runId": 1365157981
+    },
+    "m06kUmLsdxdwJ06": {
+      "name": "g205",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 63,
+      "win": false,
+      "kills": 285,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        8,
+        27,
+        4,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "m06kUmLsdxdwJ06",
+      "runId": 1365157981
     }
   }
 }
