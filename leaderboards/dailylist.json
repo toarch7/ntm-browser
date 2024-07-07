@@ -479,6 +479,32 @@
       "version": 2616,
       "uid": "5kiciV30rGS7t3K",
       "runId": 1365157981
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 7,
+      "skin": true,
+      "area": 100,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 83,
+      "win": false,
+      "kills": 1212,
+      "ultra": 2,
+      "skills": [
+        16,
+        9,
+        10,
+        27,
+        4,
+        6,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 1365157981
     }
   }
 }
