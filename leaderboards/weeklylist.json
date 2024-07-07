@@ -1301,17 +1301,17 @@
       "name": "MOADOT",
       "char": 9,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 50,
-      "bwep": 6,
+      "wep": 62,
+      "bwep": 116,
       "win": false,
-      "kills": 137,
+      "kills": 144,
       "ultra": 0,
       "skills": [
         1,
-        21
+        14
       ],
       "crown": 10,
       "version": 2616,
@@ -1742,6 +1742,26 @@
       "crown": 10,
       "version": 2616,
       "uid": "HJU5tw67z9qNjxL",
+      "runId": 440077377
+    },
+    "V63ZFVhy9BP4e3K": {
+      "name": "DENT",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 5,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "V63ZFVhy9BP4e3K",
       "runId": 440077377
     }
   }
