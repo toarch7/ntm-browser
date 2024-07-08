@@ -600,6 +600,50 @@
       "version": 2616,
       "uid": "naY1577K9LLwm5P",
       "runId": 883048273
+    },
+    "z20106XFG2ss22E": {
+      "name": "aclop",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 27,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "z20106XFG2ss22E",
+      "runId": 883048273
+    },
+    "AiWxaCdP64Hk6gu": {
+      "name": "Smx",
+      "char": 12,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 76,
+      "win": false,
+      "kills": 211,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        8,
+        13,
+        3
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "AiWxaCdP64Hk6gu",
+      "runId": 883048273
     }
   }
 }
