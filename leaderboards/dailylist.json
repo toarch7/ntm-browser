@@ -182,6 +182,28 @@
       "version": 2616,
       "uid": "5ak7Lp8CJetFsSi",
       "runId": 599408086
+    },
+    "rBmjgO3rT7f0W3e": {
+      "name": "foldtable",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 31,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        8,
+        13,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rBmjgO3rT7f0W3e",
+      "runId": 599408086
     }
   }
 }
