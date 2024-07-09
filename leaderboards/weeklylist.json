@@ -136,18 +136,20 @@
       "name": "derer",
       "char": 3,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 62,
-      "bwep": 12,
+      "wep": 12,
+      "bwep": 16,
       "win": false,
-      "kills": 111,
+      "kills": 138,
       "ultra": 0,
       "skills": [
         3,
         6,
-        23
+        23,
+        4,
+        12
       ],
       "crown": 10,
       "version": 2616,
@@ -360,13 +362,13 @@
       "name": "paulo",
       "char": 3,
       "skin": true,
-      "area": 7,
-      "subarea": 2,
-      "loops": 0,
-      "wep": 26,
-      "bwep": 12,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 38,
+      "bwep": 63,
       "win": false,
-      "kills": 187,
+      "kills": 200,
       "ultra": 0,
       "skills": [
         8,
@@ -374,7 +376,7 @@
         10,
         4,
         12,
-        16
+        3
       ],
       "crown": 10,
       "version": 2616,
@@ -424,6 +426,51 @@
       "crown": 10,
       "version": 2616,
       "uid": "6KeNY85gwO6xDM5",
+      "runId": 235443602
+    },
+    "vhz16PHRAWn967S": {
+      "name": "Ушлепленец777",
+      "char": 3,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 69,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        23,
+        13,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "vhz16PHRAWn967S",
+      "runId": 235443602
+    },
+    "4N3nLcqx43V3Ta1": {
+      "name": "Seeker41",
+      "char": 3,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 12,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        1,
+        6
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "4N3nLcqx43V3Ta1",
       "runId": 235443602
     }
   }
