@@ -44,6 +44,48 @@
       "version": 2616,
       "uid": "23qMNVFxOgW28dk",
       "runId": 599408086
+    },
+    "g17q03SFNzqhKtw": {
+      "name": "Killerkew",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g17q03SFNzqhKtw",
+      "runId": 599408086
+    },
+    "DhqUvlfW29Emcb9": {
+      "name": "Memeslayer",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 3,
+      "win": false,
+      "kills": 118,
+      "ultra": 0,
+      "skills": [
+        16,
+        13,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "DhqUvlfW29Emcb9",
+      "runId": 599408086
     }
   }
 }
