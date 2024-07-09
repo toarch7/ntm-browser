@@ -1,4 +1,25 @@
 {
   "seed": 235443602,
-  "entries": {}
+  "entries": {
+    "23qMNVFxOgW28dk": {
+      "name": "tu",
+      "char": 3,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 12,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "23qMNVFxOgW28dk",
+      "runId": 235443602
+    }
+  }
 }
