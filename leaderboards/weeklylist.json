@@ -726,6 +726,30 @@
       "version": 2616,
       "uid": "70iWaR72bfQ74Od",
       "runId": 235443602
+    },
+    "8r4FIS9fLMCWRKc": {
+      "name": "INFINITY_LOOB",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 53,
+      "win": false,
+      "kills": 243,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        10,
+        4,
+        12
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "8r4FIS9fLMCWRKc",
+      "runId": 235443602
     }
   }
 }
