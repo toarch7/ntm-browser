@@ -168,19 +168,21 @@
       "name": "Andusias",
       "char": 3,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 38,
-      "bwep": 19,
+      "area": 3,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 105,
+      "bwep": 118,
       "win": false,
-      "kills": 259,
-      "ultra": 0,
+      "kills": 709,
+      "ultra": 2,
       "skills": [
-        17,
+        1,
         23,
         4,
-        9
+        9,
+        14,
+        3
       ],
       "crown": 10,
       "version": 2616,
@@ -756,6 +758,31 @@
       "crown": 10,
       "version": 2616,
       "uid": "8r4FIS9fLMCWRKc",
+      "runId": 235443602
+    },
+    "KWME8W4ER7IL5Oq": {
+      "name": "BossGamer_XD",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 12,
+      "win": false,
+      "kills": 250,
+      "ultra": 0,
+      "skills": [
+        8,
+        23,
+        13,
+        22,
+        9,
+        21
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "KWME8W4ER7IL5Oq",
       "runId": 235443602
     }
   }
