@@ -805,6 +805,53 @@
       "version": 2616,
       "uid": "RwSmFhfr4aUyjy4",
       "runId": 235443602
+    },
+    "DhqUvlfW29Emcb9": {
+      "name": "Memeslayer",
+      "char": 3,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 15,
+      "bwep": 76,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        3,
+        23,
+        4,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "DhqUvlfW29Emcb9",
+      "runId": 235443602
+    },
+    "zIpMjkLEZOB036P": {
+      "name": "BrMan",
+      "char": 3,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 63,
+      "win": false,
+      "kills": 210,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        1,
+        4,
+        12
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "zIpMjkLEZOB036P",
+      "runId": 235443602
     }
   }
 }

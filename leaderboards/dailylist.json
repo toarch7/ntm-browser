@@ -771,6 +771,54 @@
       "version": 2616,
       "uid": "RwSmFhfr4aUyjy4",
       "runId": 1331209708
+    },
+    "0740fbDw6Uaw9A6": {
+      "name": "spelankazoid",
+      "char": 11,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 19,
+      "bwep": 23,
+      "win": false,
+      "kills": 394,
+      "ultra": 0,
+      "skills": [
+        1,
+        9,
+        27,
+        23,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0740fbDw6Uaw9A6",
+      "runId": 1331209708
+    },
+    "9j0f2xqVR69gDc0": {
+      "name": "Losar",
+      "char": 11,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 38,
+      "bwep": 11,
+      "win": false,
+      "kills": 386,
+      "ultra": 0,
+      "skills": [
+        1,
+        9,
+        27,
+        23,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9j0f2xqVR69gDc0",
+      "runId": 1331209708
     }
   }
 }
