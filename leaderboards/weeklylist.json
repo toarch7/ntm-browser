@@ -897,6 +897,48 @@
       "version": 2616,
       "uid": "13P3br4eB648BtR",
       "runId": 235443602
+    },
+    "KmtacqJUqUNSkPj": {
+      "name": "See",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 52,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        8,
+        23
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "KmtacqJUqUNSkPj",
+      "runId": 235443602
+    },
+    "9iat0z5A9pP3e0D": {
+      "name": "EvilCat",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 12,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        3,
+        23
+      ],
+      "crown": 10,
+      "version": 2620,
+      "uid": "9iat0z5A9pP3e0D",
+      "runId": 235443602
     }
   }
 }
