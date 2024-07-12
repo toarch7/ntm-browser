@@ -580,6 +580,48 @@
       "version": 2616,
       "uid": "1MialOW7E33Ax9o",
       "runId": 2132632507
+    },
+    "y9Zc8a6jyc711qw": {
+      "name": "Exkalibur",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 3,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "y9Zc8a6jyc711qw",
+      "runId": 2132632507
+    },
+    "6boa4Fc2dSt8q5b": {
+      "name": "mapachefino",
+      "char": 2,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 25,
+      "win": false,
+      "kills": 241,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        3,
+        9,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6boa4Fc2dSt8q5b",
+      "runId": 2132632507
     }
   }
 }
