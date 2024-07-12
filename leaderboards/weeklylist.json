@@ -219,19 +219,19 @@
       "char": 3,
       "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 12,
-      "bwep": 38,
+      "wep": 22,
+      "bwep": 12,
       "win": false,
-      "kills": 173,
+      "kills": 233,
       "ultra": 0,
       "skills": [
         1,
         6,
         10,
         4,
-        12
+        9
       ],
       "crown": 10,
       "version": 2616,
@@ -1373,6 +1373,51 @@
       "crown": 10,
       "version": 2616,
       "uid": "oN95C7fBVi2uHy4",
+      "runId": 235443602
+    },
+    "gwQ4vt3x1scYUu3": {
+      "name": "Cellesterra",
+      "char": 3,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 38,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        23,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "gwQ4vt3x1scYUu3",
+      "runId": 235443602
+    },
+    "05jY2Q5CCQLq14J": {
+      "name": "GOLGO",
+      "char": 3,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 12,
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "05jY2Q5CCQLq14J",
       "runId": 235443602
     }
   }
