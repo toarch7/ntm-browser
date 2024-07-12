@@ -126,6 +126,53 @@
       "version": 2616,
       "uid": "LSYmy75ZlmysIeo",
       "runId": 2132632507
+    },
+    "V5IX0z4cb4AY2G7": {
+      "name": "petra",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 17,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        23,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "V5IX0z4cb4AY2G7",
+      "runId": 2132632507
+    },
+    "7E68q31Acs3oo7z": {
+      "name": "Cok",
+      "char": 14,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 35,
+      "bwep": 94,
+      "win": false,
+      "kills": 782,
+      "ultra": 1,
+      "skills": [
+        23,
+        1,
+        17,
+        9,
+        27,
+        25,
+        21
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "7E68q31Acs3oo7z",
+      "runId": 2132632507
     }
   }
 }
