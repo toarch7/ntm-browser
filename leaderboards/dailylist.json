@@ -244,6 +244,98 @@
       "version": 2616,
       "uid": "R394Gky1MhL3qdV",
       "runId": 1155029066
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 7,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        21,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 1155029066
+    },
+    "u1oFU0aHFKh696I": {
+      "name": "Митяй2009",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 8,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        3,
+        28,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "u1oFU0aHFKh696I",
+      "runId": 1155029066
+    },
+    "m06kUmLsdxdwJ06": {
+      "name": "g205",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 8,
+      "win": false,
+      "kills": 300,
+      "ultra": 0,
+      "skills": [
+        22,
+        28,
+        1,
+        4,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "m06kUmLsdxdwJ06",
+      "runId": 1155029066
+    },
+    "9iat0z5A9pP3e0D": {
+      "name": "EvilCat",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 55,
+      "win": false,
+      "kills": 463,
+      "ultra": 2,
+      "skills": [
+        3,
+        17,
+        4,
+        27,
+        7,
+        23
+      ],
+      "crown": 11,
+      "version": 2620,
+      "uid": "9iat0z5A9pP3e0D",
+      "runId": 1155029066
     }
   }
 }
