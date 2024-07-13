@@ -449,6 +449,66 @@
       "version": 2616,
       "uid": "y9Zc8a6jyc711qw",
       "runId": 1155029066
+    },
+    "O9yyY64WyEQN8WB": {
+      "name": "goldDroger",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 15,
+      "crown": 1,
+      "version": 2616,
+      "uid": "O9yyY64WyEQN8WB",
+      "runId": 1155029066
+    },
+    "p6KHvaIIKk6110B": {
+      "name": "zooooo",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 23,
+      "win": false,
+      "kills": 211,
+      "ultra": 0,
+      "skills": [
+        3,
+        17,
+        1,
+        2,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "p6KHvaIIKk6110B",
+      "runId": 1155029066
+    },
+    "Is5F2iVekK2V7O8": {
+      "name": "El",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 17,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Is5F2iVekK2V7O8",
+      "runId": 1155029066
     }
   }
 }
