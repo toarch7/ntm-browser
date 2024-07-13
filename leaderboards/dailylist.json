@@ -1,4 +1,70 @@
 {
   "day": 13,
-  "entries": {}
+  "entries": {
+    "wjynGfS3y08PZVJ": {
+      "name": "Equinoox",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 12,
+      "win": false,
+      "kills": 248,
+      "ultra": 0,
+      "skills": [
+        21,
+        17,
+        1,
+        10,
+        25
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "wjynGfS3y08PZVJ",
+      "runId": 1155029066
+    },
+    "Wq0wIvmZc5K4d6m": {
+      "name": "elhombrejhoniel",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 7,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        3,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Wq0wIvmZc5K4d6m",
+      "runId": 1155029066
+    },
+    "eIC36ZI771vPzf7": {
+      "name": "вашдискордкалл",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 6,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "eIC36ZI771vPzf7",
+      "runId": 1155029066
+    }
+  }
 }

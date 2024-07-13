@@ -1508,6 +1508,52 @@
       "version": 2616,
       "uid": "q4v53225od1tbzy",
       "runId": 235443602
+    },
+    "23z15yq271hFliU": {
+      "name": "folla_ancianas",
+      "char": 3,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 12,
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        23,
+        10,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "23z15yq271hFliU",
+      "runId": 235443602
+    },
+    "wjynGfS3y08PZVJ": {
+      "name": "Equinoox",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 12,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "wjynGfS3y08PZVJ",
+      "runId": 235443602
     }
   }
 }
