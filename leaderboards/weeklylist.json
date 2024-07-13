@@ -1554,6 +1554,27 @@
       "version": 2616,
       "uid": "wjynGfS3y08PZVJ",
       "runId": 235443602
+    },
+    "tqZn7524xbi46g9": {
+      "name": "TanOS23",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 71,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        1,
+        23
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "tqZn7524xbi46g9",
+      "runId": 235443602
     }
   }
 }
