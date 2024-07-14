@@ -1695,13 +1695,13 @@
       "name": "S0714",
       "char": 3,
       "skin": true,
-      "area": 103,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 43,
-      "bwep": 38,
+      "wep": 62,
+      "bwep": 21,
       "win": false,
-      "kills": 134,
+      "kills": 142,
       "ultra": 0,
       "skills": [
         8,
@@ -1711,6 +1711,28 @@
       "crown": 10,
       "version": 2616,
       "uid": "rXLGg0OFM41H0UA",
+      "runId": 235443602
+    },
+    "7p9h539IObDu30U": {
+      "name": "miguel",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 52,
+      "bwep": 12,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        1,
+        22,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "7p9h539IObDu30U",
       "runId": 235443602
     }
   }

@@ -1,4 +1,70 @@
 {
   "day": 14,
-  "entries": {}
+  "entries": {
+    "gwe4067EMKKPcxt": {
+      "name": "Ripneck",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 75,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        19,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gwe4067EMKKPcxt",
+      "runId": 1763140651
+    },
+    "LSYmy75ZlmysIeo": {
+      "name": "altair",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 17,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        1,
+        9,
+        8,
+        22,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "LSYmy75ZlmysIeo",
+      "runId": 1763140651
+    },
+    "G5tmc49ogEk3pJL": {
+      "name": "Mik",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 3,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "G5tmc49ogEk3pJL",
+      "runId": 1763140651
+    }
+  }
 }
