@@ -1734,6 +1734,30 @@
       "version": 2616,
       "uid": "7p9h539IObDu30U",
       "runId": 235443602
+    },
+    "AiWxaCdP64Hk6gu": {
+      "name": "Smx",
+      "char": 3,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 16,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        23,
+        4,
+        12
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "AiWxaCdP64Hk6gu",
+      "runId": 235443602
     }
   }
 }
