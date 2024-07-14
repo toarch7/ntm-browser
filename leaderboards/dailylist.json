@@ -575,6 +575,95 @@
       "version": 2616,
       "uid": "G0ZN9hl59B93HAS",
       "runId": 1763140651
+    },
+    "3Bq3YcM6wv2ap4H": {
+      "name": "FAKE",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 19,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        1,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3Bq3YcM6wv2ap4H",
+      "runId": 1763140651
+    },
+    "6ZVzWk8xG98z9p1": {
+      "name": "IMMORTALSANS",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 114,
+      "win": false,
+      "kills": 198,
+      "ultra": 0,
+      "skills": [
+        1,
+        9,
+        8,
+        21,
+        28
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "6ZVzWk8xG98z9p1",
+      "runId": 1763140651
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 11,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 9,
+      "win": false,
+      "kills": 307,
+      "ultra": 0,
+      "skills": [
+        1,
+        9,
+        8,
+        21,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 1763140651
+    },
+    "Is5F2iVekK2V7O8": {
+      "name": "El",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 3,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Is5F2iVekK2V7O8",
+      "runId": 1763140651
     }
   }
 }
