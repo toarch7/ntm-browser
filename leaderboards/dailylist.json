@@ -559,6 +559,28 @@
       "version": 2616,
       "uid": "7E68q31Acs3oo7z",
       "runId": 1362752979
+    },
+    "P74cEm1f63916Pm": {
+      "name": "KLONOA",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 39,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        2,
+        3,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "P74cEm1f63916Pm",
+      "runId": 1362752979
     }
   }
 }
