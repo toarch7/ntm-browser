@@ -1801,6 +1801,50 @@
       "version": 2616,
       "uid": "49seXEAvsKsgSv9",
       "runId": 235443602
+    },
+    "Kd9cpjAs99ocs6P": {
+      "name": "kilo",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 12,
+      "win": false,
+      "kills": 200,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        4,
+        12
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "Kd9cpjAs99ocs6P",
+      "runId": 235443602
+    },
+    "Md36K6sIIu0gRu4": {
+      "name": "MATAWEONES",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 12,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        1,
+        10
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "Md36K6sIIu0gRu4",
+      "runId": 235443602
     }
   }
 }
