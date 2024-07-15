@@ -1266,20 +1266,21 @@
       "name": "1000THR",
       "char": 3,
       "skin": true,
-      "area": 7,
+      "area": 0,
       "subarea": 1,
-      "loops": 0,
-      "wep": 124,
-      "bwep": 38,
+      "loops": 1,
+      "wep": 117,
+      "bwep": 35,
       "win": false,
-      "kills": 288,
-      "ultra": 0,
+      "kills": 329,
+      "ultra": 1,
       "skills": [
         8,
         6,
         23,
-        4,
-        14
+        13,
+        9,
+        4
       ],
       "crown": 10,
       "version": 2616,
@@ -1871,6 +1872,31 @@
       "crown": 10,
       "version": 2616,
       "uid": "EL67l8hs5uHC65v",
+      "runId": 235443602
+    },
+    "FSo38VP7v8v7m6J": {
+      "name": "Seeker16911",
+      "char": 3,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 89,
+      "win": false,
+      "kills": 311,
+      "ultra": 0,
+      "skills": [
+        8,
+        24,
+        23,
+        9,
+        1,
+        14
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "FSo38VP7v8v7m6J",
       "runId": 235443602
     }
   }
