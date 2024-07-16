@@ -462,6 +462,71 @@
       "version": 2616,
       "uid": "7E68q31Acs3oo7z",
       "runId": 322586432
+    },
+    "m06kUmLsdxdwJ06": {
+      "name": "g205",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 61,
+      "win": false,
+      "kills": 225,
+      "ultra": 0,
+      "skills": [
+        12,
+        23,
+        27,
+        7,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "m06kUmLsdxdwJ06",
+      "runId": 322586432
+    },
+    "5kiciV30rGS7t3K": {
+      "name": "bonnjo",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 17,
+      "win": false,
+      "kills": 183,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        16,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5kiciV30rGS7t3K",
+      "runId": 322586432
+    },
+    "qFwGJ0cbtbzKIo5": {
+      "name": "Digidavid",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qFwGJ0cbtbzKIo5",
+      "runId": 322586432
     }
   }
 }

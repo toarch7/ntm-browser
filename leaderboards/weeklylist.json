@@ -2214,6 +2214,27 @@
       "version": 2616,
       "uid": "029sh9tkmzzi03M",
       "runId": 235443602
+    },
+    "Z5i2U346u0577sG": {
+      "name": "LisArt10",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 34,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        8,
+        24
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "Z5i2U346u0577sG",
+      "runId": 235443602
     }
   }
 }
