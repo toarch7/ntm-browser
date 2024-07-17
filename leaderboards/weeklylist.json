@@ -1,4 +1,51 @@
 {
   "seed": 817165599,
-  "entries": {}
+  "entries": {
+    "8dVRingCmjYimhw": {
+      "name": "paulo",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 7,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        27,
+        8,
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "8dVRingCmjYimhw",
+      "runId": 817165599
+    },
+    "Wq0wIvmZc5K4d6m": {
+      "name": "elhombrejhoniel",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 116,
+      "win": false,
+      "kills": 238,
+      "ultra": 0,
+      "skills": [
+        27,
+        8,
+        14,
+        22,
+        10
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "Wq0wIvmZc5K4d6m",
+      "runId": 817165599
+    }
+  }
 }
