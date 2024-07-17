@@ -215,6 +215,52 @@
       "version": 2616,
       "uid": "G0ZN9hl59B93HAS",
       "runId": 1798745058
+    },
+    "ifv3AsV3f91b8KA": {
+      "name": "Kevalla",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 17,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        17,
+        16,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ifv3AsV3f91b8KA",
+      "runId": 1798745058
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 12,
+      "win": false,
+      "kills": 182,
+      "ultra": 0,
+      "skills": [
+        7,
+        2,
+        21,
+        12,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 1798745058
     }
   }
 }
