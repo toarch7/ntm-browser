@@ -402,18 +402,19 @@
       "name": "Матвей",
       "char": 5,
       "skin": false,
-      "area": 104,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 2,
-      "bwep": 71,
+      "wep": 69,
+      "bwep": 30,
       "win": false,
-      "kills": 131,
+      "kills": 171,
       "ultra": 0,
       "skills": [
         27,
         4,
-        1
+        1,
+        7
       ],
       "crown": 12,
       "version": 2616,
@@ -483,6 +484,49 @@
       "crown": 12,
       "version": 2616,
       "uid": "op3Qo2lQhc8B21H",
+      "runId": 817165599
+    },
+    "Y3K3E18fRx5G9U3": {
+      "name": "ElTrono56",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 6,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        27,
+        8,
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "Y3K3E18fRx5G9U3",
+      "runId": 817165599
+    },
+    "rOt1mI70UH2HGVm": {
+      "name": "Throneseeker",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 117,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        12,
+        8
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "rOt1mI70UH2HGVm",
       "runId": 817165599
     }
   }
