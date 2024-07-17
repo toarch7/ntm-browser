@@ -326,6 +326,50 @@
       "version": 2616,
       "uid": "84v5o319SCE458g",
       "runId": 1798745058
+    },
+    "739C22dsi5Y0p50": {
+      "name": "fer76",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 11,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        10,
+        24,
+        21,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "739C22dsi5Y0p50",
+      "runId": 1798745058
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 3,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        17,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 1798745058
     }
   }
 }
