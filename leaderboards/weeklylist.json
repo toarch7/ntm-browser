@@ -149,20 +149,19 @@
       "name": "petra",
       "char": 5,
       "skin": false,
-      "area": 104,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 13,
-      "bwep": 117,
+      "wep": 117,
+      "bwep": 124,
       "win": false,
-      "kills": 153,
+      "kills": 178,
       "ultra": 0,
       "skills": [
         27,
-        8,
-        14,
-        23,
-        7
+        4,
+        7,
+        10
       ],
       "crown": 12,
       "version": 2616,
@@ -618,6 +617,27 @@
       "crown": 12,
       "version": 2616,
       "uid": "BD54wFBfC4aj83N",
+      "runId": 817165599
+    },
+    "81R77D57o5dkajM": {
+      "name": "NumbraMani",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 13,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        27,
+        8
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "81R77D57o5dkajM",
       "runId": 817165599
     }
   }
