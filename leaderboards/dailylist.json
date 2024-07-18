@@ -453,6 +453,57 @@
       "version": 2616,
       "uid": "D04EJ09a6SqU3Fh",
       "runId": 1629826485
+    },
+    "g2Q1du6j6F1tSqS": {
+      "name": "Andusias",
+      "char": 5,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 23,
+      "bwep": 111,
+      "win": false,
+      "kills": 389,
+      "ultra": 2,
+      "skills": [
+        27,
+        3,
+        1,
+        23,
+        10,
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g2Q1du6j6F1tSqS",
+      "runId": 1629826485
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "1000THR",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 74,
+      "win": false,
+      "kills": 353,
+      "ultra": 0,
+      "skills": [
+        1,
+        13,
+        28,
+        21,
+        16,
+        29
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
+      "runId": 1629826485
     }
   }
 }
