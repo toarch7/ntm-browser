@@ -450,6 +450,50 @@
       "version": 2616,
       "uid": "rI0Vr19z1vXI4vN",
       "runId": 475873427
+    },
+    "W471611Hz3mp7zD": {
+      "name": "xxx",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W471611Hz3mp7zD",
+      "runId": 475873427
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 220,
+      "ultra": 0,
+      "skills": [
+        9,
+        27,
+        2,
+        23,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 475873427
     }
   }
 }
