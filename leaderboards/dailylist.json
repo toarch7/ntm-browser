@@ -405,6 +405,51 @@
       "version": 2616,
       "uid": "g2Q1du6j6F1tSqS",
       "runId": 475873427
+    },
+    "6w45119O4AY2F2V": {
+      "name": "Moisés",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 17,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6w45119O4AY2F2V",
+      "runId": 475873427
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 87,
+      "win": false,
+      "kills": 1327,
+      "ultra": 1,
+      "skills": [
+        28,
+        27,
+        12,
+        13,
+        8,
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 475873427
     }
   }
 }
