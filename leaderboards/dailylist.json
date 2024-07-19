@@ -275,6 +275,65 @@
       "version": 2616,
       "uid": "WyLWoYb71IOZLK6",
       "runId": 475873427
+    },
+    "3twWBKOLJ3uw9c7": {
+      "name": "okko24h",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "3twWBKOLJ3uw9c7",
+      "runId": 475873427
+    },
+    "AC7960AE6195rel": {
+      "name": "Скелетон",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        7,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "AC7960AE6195rel",
+      "runId": 475873427
+    },
+    "u1oFU0aHFKh696I": {
+      "name": "Митяй2009",
+      "char": 9,
+      "skin": false,
+      "area": 100,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 3,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        7,
+        28,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "u1oFU0aHFKh696I",
+      "runId": 475873427
     }
   }
 }

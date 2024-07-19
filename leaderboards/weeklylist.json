@@ -646,17 +646,18 @@
       "name": "Andusias",
       "char": 5,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 6,
-      "bwep": 13,
+      "wep": 19,
+      "bwep": 75,
       "win": false,
-      "kills": 58,
+      "kills": 67,
       "ultra": 0,
       "skills": [
         27,
-        21
+        21,
+        14
       ],
       "crown": 12,
       "version": 2616,
