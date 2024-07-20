@@ -1,4 +1,92 @@
 {
   "day": 20,
-  "entries": {}
+  "entries": {
+    "Yvto2aEO2BStHNE": {
+      "name": "Seekers",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 190,
+      "ultra": 0,
+      "skills": [
+        24,
+        1,
+        4,
+        12,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Yvto2aEO2BStHNE",
+      "runId": 482767302
+    },
+    "9iat0z5A9pP3e0D": {
+      "name": "EvilCat",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 7,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2620,
+      "uid": "9iat0z5A9pP3e0D",
+      "runId": 482767302
+    },
+    "Y3K3E18fRx5G9U3": {
+      "name": "ElTrono56",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 7,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y3K3E18fRx5G9U3",
+      "runId": 482767302
+    },
+    "g6g70a775pxEcDU": {
+      "name": "g6g70a775pxEcDU",
+      "char": 1,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        4,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g6g70a775pxEcDU",
+      "runId": 482767302
+    }
+  }
 }
