@@ -505,6 +505,78 @@
       "version": 2616,
       "uid": "64lsh4Hwg4ysAv1",
       "runId": 482767302
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 9,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 107,
+      "bwep": 36,
+      "win": false,
+      "kills": 349,
+      "ultra": 1,
+      "skills": [
+        8,
+        1,
+        25,
+        21,
+        12,
+        7,
+        23,
+        14,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 482767302
+    },
+    "26n8S7eZFO7q91F": {
+      "name": "List",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 61,
+      "win": false,
+      "kills": 227,
+      "ultra": 0,
+      "skills": [
+        16,
+        1,
+        19,
+        12,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "26n8S7eZFO7q91F",
+      "runId": 482767302
+    },
+    "R3EJKeT9beUgGYZ": {
+      "name": "Tyn",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 1,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "R3EJKeT9beUgGYZ",
+      "runId": 482767302
     }
   }
 }
