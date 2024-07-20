@@ -597,6 +597,49 @@
       "version": 2616,
       "uid": "oe0tJOOaYb9gNdq",
       "runId": 482767302
+    },
+    "6mKywl868n01T5V": {
+      "name": "Армянин",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        16,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6mKywl868n01T5V",
+      "runId": 482767302
+    },
+    "ifv3AsV3f91b8KA": {
+      "name": "Kevalla",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 62,
+      "win": false,
+      "kills": 161,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ifv3AsV3f91b8KA",
+      "runId": 482767302
     }
   }
 }
