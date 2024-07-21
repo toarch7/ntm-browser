@@ -389,6 +389,43 @@
       "version": 2616,
       "uid": "p6KHvaIIKk6110B",
       "runId": 244013963
+    },
+    "5kiciV30rGS7t3K": {
+      "name": "bonnjo",
+      "char": 12,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 81,
+      "win": false,
+      "kills": 19,
+      "crown": 1,
+      "version": 2616,
+      "uid": "5kiciV30rGS7t3K",
+      "runId": 244013963
+    },
+    "g2Q1du6j6F1tSqS": {
+      "name": "Andusias",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 7,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        9,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g2Q1du6j6F1tSqS",
+      "runId": 244013963
     }
   }
 }
