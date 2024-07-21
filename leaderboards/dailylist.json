@@ -655,6 +655,55 @@
       "version": 2620,
       "uid": "9iat0z5A9pP3e0D",
       "runId": 244013963
+    },
+    "OG6oUWfDQdLREP4": {
+      "name": "mskit",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 58,
+      "win": false,
+      "kills": 219,
+      "ultra": 0,
+      "skills": [
+        2,
+        12,
+        17,
+        8,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
+      "runId": 244013963
+    },
+    "Wq0wIvmZc5K4d6m": {
+      "name": "elhombrejhoniel",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 34,
+      "win": false,
+      "kills": 203,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        16,
+        8,
+        27,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Wq0wIvmZc5K4d6m",
+      "runId": 244013963
     }
   }
 }
