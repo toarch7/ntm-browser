@@ -426,6 +426,53 @@
       "version": 2616,
       "uid": "g2Q1du6j6F1tSqS",
       "runId": 244013963
+    },
+    "19bB0H780LsMh5I": {
+      "name": "fer",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        9,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "19bB0H780LsMh5I",
+      "runId": 244013963
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 119,
+      "bwep": 77,
+      "win": false,
+      "kills": 318,
+      "ultra": 0,
+      "skills": [
+        13,
+        4,
+        27,
+        1,
+        7,
+        25,
+        14
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 244013963
     }
   }
 }
