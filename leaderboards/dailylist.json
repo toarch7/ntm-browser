@@ -151,6 +151,44 @@
       "version": 2616,
       "uid": "739C22dsi5Y0p50",
       "runId": 1236486128
+    },
+    "ifv3AsV3f91b8KA": {
+      "name": "Kevalla",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "ifv3AsV3f91b8KA",
+      "runId": 1236486128
+    },
+    "48C95nBJI2O7y7j": {
+      "name": "Kuprum",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 4,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        12
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "48C95nBJI2O7y7j",
+      "runId": 1236486128
     }
   }
 }
