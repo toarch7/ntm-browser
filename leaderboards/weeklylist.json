@@ -1312,17 +1312,18 @@
       "name": "Ушлепленец777",
       "char": 5,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
-      "bwep": 117,
+      "wep": 17,
+      "bwep": 13,
       "win": false,
-      "kills": 63,
+      "kills": 71,
       "ultra": 0,
       "skills": [
         25,
-        8
+        8,
+        4
       ],
       "crown": 12,
       "version": 2616,
