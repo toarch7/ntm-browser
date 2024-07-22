@@ -486,6 +486,85 @@
       "version": 2616,
       "uid": "EVl3A0wZ9bTFs7w",
       "runId": 1236486128
+    },
+    "W471611Hz3mp7zD": {
+      "name": "xxx",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W471611Hz3mp7zD",
+      "runId": 1236486128
+    },
+    "9n5ADQaiQ095LJ8": {
+      "name": "dark",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "9n5ADQaiQ095LJ8",
+      "runId": 1236486128
+    },
+    "24gh940CaC6j4U5": {
+      "name": "cucumber",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 27,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "24gh940CaC6j4U5",
+      "runId": 1236486128
+    },
+    "6ZVzWk8xG98z9p1": {
+      "name": "имморталыч",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 44,
+      "win": false,
+      "kills": 232,
+      "ultra": 0,
+      "skills": [
+        27,
+        10,
+        14,
+        1,
+        7,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6ZVzWk8xG98z9p1",
+      "runId": 1236486128
     }
   }
 }
