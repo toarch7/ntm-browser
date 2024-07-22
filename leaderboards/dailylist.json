@@ -429,6 +429,63 @@
       "version": 2616,
       "uid": "p6KHvaIIKk6110B",
       "runId": 1236486128
+    },
+    "Yvto2aEO2BStHNE": {
+      "name": "Seekers",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 63,
+      "win": false,
+      "kills": 234,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        10,
+        12,
+        1,
+        7
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "Yvto2aEO2BStHNE",
+      "runId": 1236486128
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 1236486128
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 1236486128
     }
   }
 }
