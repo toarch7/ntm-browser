@@ -374,18 +374,64 @@
       "area": 5,
       "subarea": 2,
       "loops": 0,
-      "wep": 61,
-      "bwep": 125,
+      "wep": 38,
+      "bwep": 10,
       "win": false,
-      "kills": 79,
+      "kills": 86,
       "ultra": 0,
       "skills": [
+        19,
+        8,
+        23
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "I9TQcPWZ2R4MD0A",
+      "runId": 802515924
+    },
+    "5O16m6T7PbwSku9": {
+      "name": "WaluigiDIE",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 125,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        17,
         4,
         10
       ],
       "crown": 9,
       "version": 2616,
-      "uid": "I9TQcPWZ2R4MD0A",
+      "uid": "5O16m6T7PbwSku9",
+      "runId": 802515924
+    },
+    "1Vlw0289tN3q3UT": {
+      "name": "chicanos",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 75,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        17,
+        2,
+        23,
+        25
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "1Vlw0289tN3q3UT",
       "runId": 802515924
     }
   }
