@@ -1,4 +1,47 @@
 {
   "day": 23,
-  "entries": {}
+  "entries": {
+    "Spo2m66764o2WtO": {
+      "name": "Z3zima",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 72,
+      "bwep": 8,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        28,
+        12,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Spo2m66764o2WtO",
+      "runId": 1765030946
+    },
+    "Y3K3E18fRx5G9U3": {
+      "name": "ElTrono56",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 5,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y3K3E18fRx5G9U3",
+      "runId": 1765030946
+    }
+  }
 }
