@@ -1,4 +1,51 @@
 {
   "seed": 802515924,
-  "entries": {}
+  "entries": {
+    "8dVRingCmjYimhw": {
+      "name": "paulo",
+      "char": 11,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 11,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        10,
+        17,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "8dVRingCmjYimhw",
+      "runId": 802515924
+    },
+    "6jrIN6ZX1lkZ98a": {
+      "name": "monkeyD6",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 125,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        4,
+        2,
+        16
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "6jrIN6ZX1lkZ98a",
+      "runId": 802515924
+    }
+  }
 }
