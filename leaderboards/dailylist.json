@@ -63,6 +63,50 @@
       "version": 2616,
       "uid": "B51Qun2UAyM43RU",
       "runId": 1765030946
+    },
+    "w20B0r75eP2CtnB": {
+      "name": "piskunchik",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 3,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        17,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "w20B0r75eP2CtnB",
+      "runId": 1765030946
+    },
+    "C9qXB9cbaEQt82i": {
+      "name": "Seek",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 124,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        13,
+        4,
+        14,
+        17
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "C9qXB9cbaEQt82i",
+      "runId": 1765030946
     }
   }
 }
