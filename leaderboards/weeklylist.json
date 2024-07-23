@@ -158,6 +158,75 @@
       "version": 2616,
       "uid": "w20B0r75eP2CtnB",
       "runId": 802515924
+    },
+    "op3Qo2lQhc8B21H": {
+      "name": "Seeker157.70",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 125,
+      "win": false,
+      "kills": 199,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        10,
+        25,
+        3,
+        7
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "op3Qo2lQhc8B21H",
+      "runId": 802515924
+    },
+    "NkWpFgdE1dMgoFx": {
+      "name": "slayer",
+      "char": 11,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 125,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        4,
+        14
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "NkWpFgdE1dMgoFx",
+      "runId": 802515924
+    },
+    "Wq0wIvmZc5K4d6m": {
+      "name": "elhombrejhoniel",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 118,
+      "bwep": 10,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        10,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "Wq0wIvmZc5K4d6m",
+      "runId": 802515924
     }
   }
 }
