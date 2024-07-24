@@ -211,19 +211,20 @@
       "name": "elhombrejhoniel",
       "char": 11,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 118,
+      "wep": 26,
       "bwep": 10,
       "win": false,
-      "kills": 108,
+      "kills": 285,
       "ultra": 0,
       "skills": [
         7,
         8,
         10,
-        4
+        4,
+        1
       ],
       "crown": 9,
       "version": 2616,
@@ -456,6 +457,28 @@
       "crown": 9,
       "version": 2616,
       "uid": "7p9h539IObDu30U",
+      "runId": 802515924
+    },
+    "f3epTGx348x8hVF": {
+      "name": "jojo",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 7,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        10
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "f3epTGx348x8hVF",
       "runId": 802515924
     }
   }
