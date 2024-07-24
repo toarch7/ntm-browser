@@ -464,17 +464,17 @@
       "name": "jojo",
       "char": 11,
       "skin": true,
-      "area": 5,
+      "area": 3,
       "subarea": 3,
       "loops": 0,
-      "wep": 24,
-      "bwep": 7,
+      "wep": 88,
+      "bwep": 10,
       "win": false,
-      "kills": 107,
+      "kills": 109,
       "ultra": 0,
       "skills": [
+        7,
         4,
-        8,
         10
       ],
       "crown": 9,
@@ -552,6 +552,32 @@
       "crown": 9,
       "version": 2616,
       "uid": "M899GCc6RjX5NK6",
+      "runId": 802515924
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "1000THR",
+      "char": 11,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 54,
+      "win": false,
+      "kills": 383,
+      "ultra": 0,
+      "skills": [
+        4,
+        14,
+        10,
+        25,
+        23,
+        17,
+        3
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
       "runId": 802515924
     }
   }
