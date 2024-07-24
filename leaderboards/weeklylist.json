@@ -440,13 +440,13 @@
       "name": "miguel†",
       "char": 11,
       "skin": true,
-      "area": 7,
-      "subarea": 3,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 11,
-      "bwep": 9,
+      "wep": 10,
+      "bwep": 26,
       "win": false,
-      "kills": 191,
+      "kills": 211,
       "ultra": 0,
       "skills": [
         7,
@@ -525,6 +525,33 @@
       "crown": 9,
       "version": 2616,
       "uid": "z0NW0qPZ7ENhiZP",
+      "runId": 802515924
+    },
+    "M899GCc6RjX5NK6": {
+      "name": "искательтрона69",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 125,
+      "win": false,
+      "kills": 611,
+      "ultra": 2,
+      "skills": [
+        4,
+        23,
+        25,
+        27,
+        17,
+        3,
+        1,
+        6
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "M899GCc6RjX5NK6",
       "runId": 802515924
     }
   }
