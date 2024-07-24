@@ -681,16 +681,17 @@
       "char": 11,
       "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 49,
-      "bwep": 125,
+      "wep": 97,
+      "bwep": 33,
       "win": false,
-      "kills": 64,
+      "kills": 118,
       "ultra": 0,
       "skills": [
         4,
-        14
+        8,
+        23
       ],
       "crown": 9,
       "version": 2616,
