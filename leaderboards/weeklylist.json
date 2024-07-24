@@ -288,16 +288,16 @@
       "subarea": 3,
       "loops": 0,
       "wep": 10,
-      "bwep": 118,
+      "bwep": 125,
       "win": false,
-      "kills": 146,
+      "kills": 234,
       "ultra": 0,
       "skills": [
         4,
         8,
-        23,
+        10,
         25,
-        27
+        1
       ],
       "crown": 9,
       "version": 2616,
@@ -579,6 +579,55 @@
       "crown": 9,
       "version": 2616,
       "uid": "HJ7G87oXRypnPMd",
+      "runId": 802515924
+    },
+    "g2Q1du6j6F1tSqS": {
+      "name": "Andusias",
+      "char": 11,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 35,
+      "win": false,
+      "kills": 193,
+      "ultra": 0,
+      "skills": [
+        4,
+        14,
+        23,
+        17,
+        9
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "g2Q1du6j6F1tSqS",
+      "runId": 802515924
+    },
+    "WcwJ1kPyBtDHYKa": {
+      "name": "MS",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 40,
+      "win": false,
+      "kills": 227,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        23,
+        25,
+        27,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "WcwJ1kPyBtDHYKa",
       "runId": 802515924
     }
   }
