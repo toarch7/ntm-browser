@@ -675,6 +675,51 @@
       "version": 2616,
       "uid": "7PM42yZR9TIFn44",
       "runId": 802515924
+    },
+    "81R77D57o5dkajM": {
+      "name": "NumbraMani",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 49,
+      "bwep": 125,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        4,
+        14
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "81R77D57o5dkajM",
+      "runId": 802515924
+    },
+    "RwSmFhfr4aUyjy4": {
+      "name": "Thrones616",
+      "char": 11,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 10,
+      "win": false,
+      "kills": 191,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        26,
+        2,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
+      "runId": 802515924
     }
   }
 }

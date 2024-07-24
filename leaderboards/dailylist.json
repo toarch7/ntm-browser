@@ -616,6 +616,79 @@
       "version": 2616,
       "uid": "4crzpEOrQ3vKrej",
       "runId": 1767634670
+    },
+    "gwe4067EMKKPcxt": {
+      "name": "Ripneck",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gwe4067EMKKPcxt",
+      "runId": 1767634670
+    },
+    "Wq0wIvmZc5K4d6m": {
+      "name": "elhombrejhoniel",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 22,
+      "bwep": 95,
+      "win": false,
+      "kills": 673,
+      "ultra": 2,
+      "skills": [
+        28,
+        23,
+        8,
+        10,
+        6,
+        25,
+        12,
+        27,
+        21
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "Wq0wIvmZc5K4d6m",
+      "runId": 1767634670
+    },
+    "e5IWbVh9uU3A639": {
+      "name": "ROLAND",
+      "char": 8,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 9,
+      "win": false,
+      "kills": 300,
+      "ultra": 0,
+      "skills": [
+        3,
+        23,
+        8,
+        1,
+        9,
+        25
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "e5IWbVh9uU3A639",
+      "runId": 1767634670
     }
   }
 }
