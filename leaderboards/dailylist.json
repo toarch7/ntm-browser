@@ -161,6 +161,52 @@
       "version": 2616,
       "uid": "vhz16PHRAWn967S",
       "runId": 1767634670
+    },
+    "ifv3AsV3f91b8KA": {
+      "name": "Kevalla",
+      "char": 2,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 116,
+      "bwep": 66,
+      "win": false,
+      "kills": 385,
+      "ultra": 2,
+      "skills": [
+        3,
+        9,
+        8,
+        10,
+        17,
+        25,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ifv3AsV3f91b8KA",
+      "runId": 1767634670
+    },
+    "R3EJKeT9beUgGYZ": {
+      "name": "Tyn",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "R3EJKeT9beUgGYZ",
+      "runId": 1767634670
     }
   }
 }
