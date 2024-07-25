@@ -398,17 +398,18 @@
       "char": 11,
       "skin": true,
       "area": 5,
-      "subarea": 2,
+      "subarea": 1,
       "loops": 0,
-      "wep": 24,
+      "wep": 57,
       "bwep": 125,
       "win": false,
-      "kills": 72,
+      "kills": 141,
       "ultra": 0,
       "skills": [
-        17,
         4,
-        10
+        14,
+        10,
+        17
       ],
       "crown": 9,
       "version": 2616,
@@ -490,18 +491,19 @@
       "char": 11,
       "skin": true,
       "area": 5,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 113,
-      "bwep": 10,
+      "wep": 10,
+      "bwep": 17,
       "win": false,
-      "kills": 135,
+      "kills": 235,
       "ultra": 0,
       "skills": [
         4,
         8,
         23,
-        2
+        2,
+        1
       ],
       "crown": 9,
       "version": 2616,
@@ -833,6 +835,51 @@
       "crown": 9,
       "version": 2616,
       "uid": "6Yz3OpzG26BU662",
+      "runId": 802515924
+    },
+    "P74cEm1f63916Pm": {
+      "name": "KLONOA",
+      "char": 11,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 125,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        9,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "P74cEm1f63916Pm",
+      "runId": 802515924
+    },
+    "4N3nLcqx43V3Ta1": {
+      "name": "Seeker41",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 125,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        10
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "4N3nLcqx43V3Ta1",
       "runId": 802515924
     }
   }
