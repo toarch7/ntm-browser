@@ -297,6 +297,49 @@
       "version": 2616,
       "uid": "V5IX0z4cb4AY2G7",
       "runId": 1419424156
+    },
+    "9iat0z5A9pP3e0D": {
+      "name": "EvilCat",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 27,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2620,
+      "uid": "9iat0z5A9pP3e0D",
+      "runId": 1419424156
+    },
+    "ifv3AsV3f91b8KA": {
+      "name": "Kevalla",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 97,
+      "bwep": 41,
+      "win": false,
+      "kills": 711,
+      "ultra": 2,
+      "skills": [
+        16,
+        27,
+        8,
+        10,
+        3,
+        6,
+        14,
+        19
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "ifv3AsV3f91b8KA",
+      "runId": 1419424156
     }
   }
 }
