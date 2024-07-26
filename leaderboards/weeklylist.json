@@ -846,19 +846,22 @@
       "name": "KLONOA",
       "char": 11,
       "skin": true,
-      "area": 7,
-      "subarea": 2,
-      "loops": 0,
-      "wep": 11,
+      "area": 6,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 110,
       "bwep": 125,
       "win": false,
-      "kills": 168,
-      "ultra": 0,
+      "kills": 979,
+      "ultra": 2,
       "skills": [
         4,
+        8,
         10,
         9,
-        1
+        1,
+        26,
+        3
       ],
       "crown": 9,
       "version": 2616,
@@ -1093,6 +1096,30 @@
       "crown": 9,
       "version": 2616,
       "uid": "hif470IQo5QrWUW",
+      "runId": 802515924
+    },
+    "L9mjy4hS6zkf8A0": {
+      "name": "DarthurV",
+      "char": 11,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 80,
+      "win": false,
+      "kills": 187,
+      "ultra": 0,
+      "skills": [
+        4,
+        14,
+        23,
+        25,
+        7
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "L9mjy4hS6zkf8A0",
       "runId": 802515924
     }
   }
