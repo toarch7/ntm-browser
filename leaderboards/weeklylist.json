@@ -288,20 +288,23 @@
       "name": "AlanCDP",
       "char": 11,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 10,
-      "bwep": 125,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 25,
+      "bwep": 9,
       "win": false,
-      "kills": 234,
+      "kills": 289,
       "ultra": 0,
       "skills": [
         4,
         8,
-        10,
+        16,
         25,
-        1
+        27,
+        1,
+        28,
+        10
       ],
       "crown": 9,
       "version": 2616,
@@ -1070,6 +1073,26 @@
       "crown": 9,
       "version": 2616,
       "uid": "80L78oSY9DaUL3i",
+      "runId": 802515924
+    },
+    "hif470IQo5QrWUW": {
+      "name": "tumama",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 125,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "hif470IQo5QrWUW",
       "runId": 802515924
     }
   }
