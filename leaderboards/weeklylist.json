@@ -938,22 +938,47 @@
       "name": "tu",
       "char": 11,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 125,
-      "bwep": 10,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 125,
       "win": false,
-      "kills": 116,
+      "kills": 224,
       "ultra": 0,
       "skills": [
-        7,
+        19,
         14,
-        10
+        10,
+        25,
+        27,
+        1
       ],
       "crown": 9,
       "version": 2616,
       "uid": "23qMNVFxOgW28dk",
+      "runId": 802515924
+    },
+    "r2OfF77k75G8PgK": {
+      "name": "DEREVNZLA",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 10,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        10
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "r2OfF77k75G8PgK",
       "runId": 802515924
     }
   }
