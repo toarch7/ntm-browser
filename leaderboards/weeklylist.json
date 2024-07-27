@@ -1144,6 +1144,50 @@
       "version": 2616,
       "uid": "gM3527CPzcTPqKo",
       "runId": 802515924
+    },
+    "Y3K3E18fRx5G9U3": {
+      "name": "ElTrono56",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 125,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "Y3K3E18fRx5G9U3",
+      "runId": 802515924
+    },
+    "RJv0w7mvh84FImV": {
+      "name": "Knaiz",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 33,
+      "win": false,
+      "kills": 160,
+      "ultra": 0,
+      "skills": [
+        4,
+        14,
+        23,
+        25,
+        27
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "RJv0w7mvh84FImV",
+      "runId": 802515924
     }
   }
 }
