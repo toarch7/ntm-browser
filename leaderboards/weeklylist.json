@@ -689,21 +689,22 @@
       "name": "NumbraMani",
       "char": 11,
       "skin": true,
-      "area": 7,
-      "subarea": 2,
-      "loops": 0,
-      "wep": 29,
-      "bwep": 125,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 35,
       "win": false,
-      "kills": 183,
+      "kills": 200,
       "ultra": 0,
       "skills": [
         4,
         14,
-        23,
+        10,
         25,
         27,
-        1
+        23,
+        21
       ],
       "crown": 9,
       "version": 2616,
@@ -1293,6 +1294,27 @@
       "crown": 9,
       "version": 2616,
       "uid": "dAK2i35w29me46T",
+      "runId": 802515924
+    },
+    "9np2sP6DW37bkVK": {
+      "name": "SeliKspb",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 125,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        17,
+        8
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "9np2sP6DW37bkVK",
       "runId": 802515924
     }
   }
