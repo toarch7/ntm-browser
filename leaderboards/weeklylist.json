@@ -1102,20 +1102,18 @@
       "name": "DarthurV",
       "char": 11,
       "skin": true,
-      "area": 6,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 24,
-      "bwep": 80,
+      "wep": 22,
+      "bwep": 74,
       "win": false,
-      "kills": 187,
+      "kills": 192,
       "ultra": 0,
       "skills": [
         4,
-        14,
-        23,
-        25,
-        7
+        26,
+        23
       ],
       "crown": 9,
       "version": 2616,
@@ -1233,6 +1231,27 @@
       "crown": 9,
       "version": 2616,
       "uid": "Atxw7On7Hmll3c5",
+      "runId": 802515924
+    },
+    "09QsRx457mlT17F": {
+      "name": "оменс",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 125,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        7,
+        8
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "09QsRx457mlT17F",
       "runId": 802515924
     }
   }
