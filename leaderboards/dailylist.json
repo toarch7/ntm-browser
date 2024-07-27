@@ -28,6 +28,100 @@
       "version": 2616,
       "uid": "Wq0wIvmZc5K4d6m",
       "runId": 562380743
+    },
+    "g5lMVrUL3riPr78": {
+      "name": "AlanCDP",
+      "char": 9,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 22,
+      "bwep": 37,
+      "win": false,
+      "kills": 636,
+      "ultra": 1,
+      "skills": [
+        13,
+        8,
+        23,
+        28,
+        1,
+        2,
+        10,
+        25
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "g5lMVrUL3riPr78",
+      "runId": 562380743
+    },
+    "B51Qun2UAyM43RU": {
+      "name": "yaboiean",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 69,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "B51Qun2UAyM43RU",
+      "runId": 562380743
+    },
+    "gM3527CPzcTPqKo": {
+      "name": "Rhythm",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 69,
+      "win": false,
+      "kills": 243,
+      "ultra": 0,
+      "skills": [
+        12,
+        8,
+        24,
+        10,
+        1,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gM3527CPzcTPqKo",
+      "runId": 562380743
+    },
+    "R3EJKeT9beUgGYZ": {
+      "name": "Tyn",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 69,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        13,
+        8,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "R3EJKeT9beUgGYZ",
+      "runId": 562380743
     }
   }
 }
