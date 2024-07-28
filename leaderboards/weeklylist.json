@@ -315,13 +315,13 @@
       "name": "Diego",
       "char": 11,
       "skin": true,
-      "area": 5,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 29,
+      "wep": 34,
       "bwep": 10,
       "win": false,
-      "kills": 59,
+      "kills": 67,
       "ultra": 0,
       "skills": [
         4,
@@ -1336,6 +1336,28 @@
       "crown": 9,
       "version": 2616,
       "uid": "m96PH9ISC2JCNsw",
+      "runId": 802515924
+    },
+    "5BCF995J95J4d9G": {
+      "name": "VADVAS",
+      "char": 11,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 25,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        17,
+        14,
+        10
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "5BCF995J95J4d9G",
       "runId": 802515924
     }
   }

@@ -174,6 +174,70 @@
       "version": 2616,
       "uid": "vhz16PHRAWn967S",
       "runId": 841757492
+    },
+    "5BCF995J95J4d9G": {
+      "name": "VADVAS",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5BCF995J95J4d9G",
+      "runId": 841757492
+    },
+    "RqwB83w6DAO8fZi": {
+      "name": "EVC17",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 2,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        27,
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RqwB83w6DAO8fZi",
+      "runId": 841757492
+    },
+    "6ZVzWk8xG98z9p1": {
+      "name": "Immortalsans",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 6,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        27,
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6ZVzWk8xG98z9p1",
+      "runId": 841757492
     }
   }
 }
