@@ -1330,16 +1330,17 @@
       "char": 11,
       "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 22,
-      "bwep": 9,
+      "wep": 9,
+      "bwep": 35,
       "win": false,
-      "kills": 59,
+      "kills": 96,
       "ultra": 0,
       "skills": [
         4,
-        14
+        14,
+        16
       ],
       "crown": 9,
       "version": 2616,
@@ -1583,6 +1584,26 @@
       "crown": 9,
       "version": 2616,
       "uid": "pChr46tqqv6eHhR",
+      "runId": 802515924
+    },
+    "8p0vm0z9H36LNJ0": {
+      "name": "Still",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 125,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "8p0vm0z9H36LNJ0",
       "runId": 802515924
     }
   }
