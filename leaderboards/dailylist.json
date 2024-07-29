@@ -350,6 +350,63 @@
       "version": 2616,
       "uid": "R6y2G9h8pMVtS62",
       "runId": 386308452
+    },
+    "ifv3AsV3f91b8KA": {
+      "name": "Kevalla",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        6,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ifv3AsV3f91b8KA",
+      "runId": 386308452
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 386308452
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 7,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 386308452
     }
   }
 }
