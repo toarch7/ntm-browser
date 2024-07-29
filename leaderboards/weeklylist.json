@@ -1471,6 +1471,28 @@
       "version": 2616,
       "uid": "10wSX8a4mzg1LA8",
       "runId": 802515924
+    },
+    "cqQi717F3j8va9a": {
+      "name": "Zahnesfall",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 107,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        4,
+        14,
+        23
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "cqQi717F3j8va9a",
+      "runId": 802515924
     }
   }
 }
