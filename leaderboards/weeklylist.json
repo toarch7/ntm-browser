@@ -72,13 +72,13 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 38,
-      "bwep": 16,
+      "wep": 19,
+      "bwep": 38,
       "win": false,
-      "kills": 72,
+      "kills": 85,
       "ultra": 0,
       "skills": [
-        1,
+        10,
         27
       ],
       "crown": 2,
@@ -255,6 +255,26 @@
       "crown": 2,
       "version": 2616,
       "uid": "g5lMVrUL3riPr78",
+      "runId": 977001765
+    },
+    "hxXVw50uyiIiy8z": {
+      "name": "bungus",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 60,
+      "bwep": 88,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "hxXVw50uyiIiy8z",
       "runId": 977001765
     }
   }
