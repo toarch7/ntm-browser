@@ -191,6 +191,49 @@
       "version": 2616,
       "uid": "gM3527CPzcTPqKo",
       "runId": 977001765
+    },
+    "8naFubvWLST6zr4": {
+      "name": "SuperTampon",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 60,
+      "bwep": 0,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        1,
+        6
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "8naFubvWLST6zr4",
+      "runId": 977001765
+    },
+    "L0dl67I5dIzleO5": {
+      "name": "God'sWeakestFag",
+      "char": 12,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 60,
+      "bwep": 7,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        6
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "L0dl67I5dIzleO5",
+      "runId": 977001765
     }
   }
 }
