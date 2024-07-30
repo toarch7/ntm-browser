@@ -133,17 +133,18 @@
       "name": "petra",
       "char": 12,
       "skin": false,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
       "wep": 60,
-      "bwep": 16,
+      "bwep": 88,
       "win": false,
-      "kills": 123,
+      "kills": 141,
       "ultra": 0,
       "skills": [
-        10,
-        6
+        8,
+        27,
+        7
       ],
       "crown": 2,
       "version": 2616,
@@ -319,6 +320,48 @@
       "crown": 2,
       "version": 2616,
       "uid": "w20B0r75eP2CtnB",
+      "runId": 977001765
+    },
+    "n5BA29aG845IhTO": {
+      "name": "челик",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 60,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        1,
+        27
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "n5BA29aG845IhTO",
+      "runId": 977001765
+    },
+    "5aiDipoV8Mq8pL8": {
+      "name": "Masterf",
+      "char": 12,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 60,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        1,
+        27
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "5aiDipoV8Mq8pL8",
       "runId": 977001765
     }
   }
