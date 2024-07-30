@@ -202,6 +202,75 @@
       "version": 2616,
       "uid": "Spo2m66764o2WtO",
       "runId": 961914958
+    },
+    "ifv3AsV3f91b8KA": {
+      "name": "Kevalla",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 111,
+      "bwep": 92,
+      "win": false,
+      "kills": 933,
+      "ultra": 2,
+      "skills": [
+        25,
+        10,
+        6,
+        27,
+        4,
+        3,
+        8,
+        23
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "ifv3AsV3f91b8KA",
+      "runId": 961914958
+    },
+    "W471611Hz3mp7zD": {
+      "name": "xxx",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W471611Hz3mp7zD",
+      "runId": 961914958
+    },
+    "5kiciV30rGS7t3K": {
+      "name": "bonnjo",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 116,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        16,
+        12,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5kiciV30rGS7t3K",
+      "runId": 961914958
     }
   }
 }
