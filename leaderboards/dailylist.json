@@ -335,6 +335,72 @@
       "version": 2616,
       "uid": "X0x8Q4vP1g357ZD",
       "runId": 961914958
+    },
+    "mQ6dxSp1osVs2vM": {
+      "name": "souvlaki",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 17,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        23,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mQ6dxSp1osVs2vM",
+      "runId": 961914958
+    },
+    "pChr46tqqv6eHhR": {
+      "name": "Слабейший",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 11,
+      "win": false,
+      "kills": 422,
+      "ultra": 0,
+      "skills": [
+        16,
+        27,
+        4,
+        8,
+        3,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pChr46tqqv6eHhR",
+      "runId": 961914958
+    },
+    "EWTZji1UOU4Fldp": {
+      "name": "foxpala",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 2,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EWTZji1UOU4Fldp",
+      "runId": 961914958
     }
   }
 }
