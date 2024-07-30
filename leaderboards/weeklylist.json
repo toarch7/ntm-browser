@@ -46,18 +46,19 @@
       "name": "Слабейший",
       "char": 12,
       "skin": false,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 6,
-      "bwep": 14,
+      "wep": 57,
+      "bwep": 60,
       "win": false,
-      "kills": 190,
+      "kills": 193,
       "ultra": 0,
       "skills": [
         8,
         27,
-        6
+        6,
+        7
       ],
       "crown": 2,
       "version": 2616,
@@ -105,6 +106,27 @@
       "crown": 2,
       "version": 2616,
       "uid": "g2Q1du6j6F1tSqS",
+      "runId": 977001765
+    },
+    "81R77D57o5dkajM": {
+      "name": "NumbraMani",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 60,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        10,
+        27
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "81R77D57o5dkajM",
       "runId": 977001765
     }
   }
