@@ -563,6 +563,53 @@
       "version": 2616,
       "uid": "739C22dsi5Y0p50",
       "runId": 1570119247
+    },
+    "g2Q1du6j6F1tSqS": {
+      "name": "Andusias",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 63,
+      "win": false,
+      "kills": 345,
+      "ultra": 0,
+      "skills": [
+        27,
+        21,
+        1,
+        4,
+        14,
+        23
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "g2Q1du6j6F1tSqS",
+      "runId": 1570119247
+    },
+    "70U9wJO1YQv91LZ": {
+      "name": "IanAarón",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        10,
+        8,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "70U9wJO1YQv91LZ",
+      "runId": 1570119247
     }
   }
 }
