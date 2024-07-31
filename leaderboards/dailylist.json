@@ -187,6 +187,31 @@
       "version": 2616,
       "uid": "Ry52m4OB749lCe3",
       "runId": 1570119247
+    },
+    "ifv3AsV3f91b8KA": {
+      "name": "Kevalla",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 59,
+      "win": false,
+      "kills": 632,
+      "ultra": 2,
+      "skills": [
+        14,
+        10,
+        8,
+        4,
+        23,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ifv3AsV3f91b8KA",
+      "runId": 1570119247
     }
   }
 }
