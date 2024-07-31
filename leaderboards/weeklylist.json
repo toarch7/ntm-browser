@@ -494,6 +494,27 @@
       "version": 2616,
       "uid": "ySBBTqEZ6hG0Sn6",
       "runId": 977001765
+    },
+    "WQt283AYMFl7F7N": {
+      "name": "heisenballs",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 60,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        10,
+        27
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "WQt283AYMFl7F7N",
+      "runId": 977001765
     }
   }
 }
