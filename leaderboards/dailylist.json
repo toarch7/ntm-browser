@@ -409,6 +409,50 @@
       "version": 2616,
       "uid": "Wq0wIvmZc5K4d6m",
       "runId": 1570119247
+    },
+    "09QsRx457mlT17F": {
+      "name": "оменс",
+      "char": 8,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 15,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "09QsRx457mlT17F",
+      "runId": 1570119247
+    },
+    "L0dl67I5dIzleO5": {
+      "name": "God'sWeakestFag",
+      "char": 8,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 63,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        7,
+        16,
+        6,
+        19,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L0dl67I5dIzleO5",
+      "runId": 1570119247
     }
   }
 }
