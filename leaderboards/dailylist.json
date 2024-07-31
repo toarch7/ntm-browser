@@ -81,6 +81,46 @@
       "version": 2616,
       "uid": "W471611Hz3mp7zD",
       "runId": 1570119247
+    },
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 0,
+      "win": false,
+      "kills": 19,
+      "crown": 1,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 1570119247
+    },
+    "R3EJKeT9beUgGYZ": {
+      "name": "Tyn",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 20,
+      "win": false,
+      "kills": 270,
+      "ultra": 0,
+      "skills": [
+        7,
+        10,
+        6,
+        4,
+        19
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "R3EJKeT9beUgGYZ",
+      "runId": 1570119247
     }
   }
 }
