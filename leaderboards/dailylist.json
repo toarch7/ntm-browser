@@ -317,6 +317,74 @@
       "version": 2616,
       "uid": "64lsh4Hwg4ysAv1",
       "runId": 1570119247
+    },
+    "6ZVzWk8xG98z9p1": {
+      "name": "Immortalsans",
+      "char": 3,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 38,
+      "win": false,
+      "kills": 320,
+      "ultra": 0,
+      "skills": [
+        27,
+        21,
+        1,
+        4,
+        7,
+        10,
+        23
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "6ZVzWk8xG98z9p1",
+      "runId": 1570119247
+    },
+    "mQ6dxSp1osVs2vM": {
+      "name": "souvlaki",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        27,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mQ6dxSp1osVs2vM",
+      "runId": 1570119247
+    },
+    "90cnT135q0TE0q2": {
+      "name": "Holop(фюрер",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        27,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "90cnT135q0TE0q2",
+      "runId": 1570119247
     }
   }
 }
