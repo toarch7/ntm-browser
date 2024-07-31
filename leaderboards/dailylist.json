@@ -121,6 +121,47 @@
       "version": 2616,
       "uid": "R3EJKeT9beUgGYZ",
       "runId": 1570119247
+    },
+    "UC78X754A9pP69q": {
+      "name": "Seeker9",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "UC78X754A9pP69q",
+      "runId": 1570119247
+    },
+    "pChr46tqqv6eHhR": {
+      "name": "Слабейший",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 11,
+      "win": false,
+      "kills": 319,
+      "ultra": 0,
+      "skills": [
+        27,
+        21,
+        1,
+        4,
+        7,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pChr46tqqv6eHhR",
+      "runId": 1570119247
     }
   }
 }
