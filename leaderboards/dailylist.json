@@ -212,6 +212,44 @@
       "version": 2616,
       "uid": "ifv3AsV3f91b8KA",
       "runId": 1570119247
+    },
+    "V5IX0z4cb4AY2G7": {
+      "name": "petra",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "V5IX0z4cb4AY2G7",
+      "runId": 1570119247
+    },
+    "Q8SNKx3crP8E1ul": {
+      "name": "PenniSeeker",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        7,
+        10,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Q8SNKx3crP8E1ul",
+      "runId": 1570119247
     }
   }
 }
