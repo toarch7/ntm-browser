@@ -250,6 +250,50 @@
       "version": 2616,
       "uid": "Q8SNKx3crP8E1ul",
       "runId": 1570119247
+    },
+    "cqQi717F3j8va9a": {
+      "name": "Zahnesfall",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 6,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cqQi717F3j8va9a",
+      "runId": 1570119247
+    },
+    "u1oFU0aHFKh696I": {
+      "name": "Митяй2009",
+      "char": 9,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 46,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        7,
+        10,
+        1,
+        4,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "u1oFU0aHFKh696I",
+      "runId": 1570119247
     }
   }
 }
