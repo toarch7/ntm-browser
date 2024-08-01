@@ -222,6 +222,51 @@
       "version": 2616,
       "uid": "76Qg6Bhk4tt9ZCq",
       "runId": 836427672
+    },
+    "cqQi717F3j8va9a": {
+      "name": "Zahnesfall",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        25,
+        28,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cqQi717F3j8va9a",
+      "runId": 836427672
+    },
+    "pChr46tqqv6eHhR": {
+      "name": "Слабейший",
+      "char": 10,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 23,
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        8,
+        9,
+        27,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pChr46tqqv6eHhR",
+      "runId": 836427672
     }
   }
 }
