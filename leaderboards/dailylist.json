@@ -459,6 +459,50 @@
       "version": 2616,
       "uid": "4GO416cYDkqPYkR",
       "runId": 836427672
+    },
+    "G882748MN905iO6": {
+      "name": "ligan",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 27,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        8,
+        9,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "G882748MN905iO6",
+      "runId": 836427672
+    },
+    "739C22dsi5Y0p50": {
+      "name": "fer76",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        2,
+        9,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "739C22dsi5Y0p50",
+      "runId": 836427672
     }
   }
 }
