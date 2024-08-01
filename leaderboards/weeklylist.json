@@ -176,17 +176,18 @@
       "name": "Rhythm",
       "char": 12,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
       "wep": 6,
       "bwep": 60,
       "win": false,
-      "kills": 80,
+      "kills": 142,
       "ultra": 0,
       "skills": [
         8,
-        27
+        27,
+        12
       ],
       "crown": 2,
       "version": 2616,
