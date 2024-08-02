@@ -178,6 +178,95 @@
       "version": 2616,
       "uid": "8fysVtdREdlxp57",
       "runId": 853959931
+    },
+    "KSBv7el0GhO2HCE": {
+      "name": "LOLKA",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 16,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        3,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "KSBv7el0GhO2HCE",
+      "runId": 853959931
+    },
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 0,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        21,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 853959931
+    },
+    "70U9wJO1YQv91LZ": {
+      "name": "IanAarón",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 22,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "70U9wJO1YQv91LZ",
+      "runId": 853959931
+    },
+    "gM3527CPzcTPqKo": {
+      "name": "Rhythm",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 90,
+      "win": false,
+      "kills": 955,
+      "ultra": 2,
+      "skills": [
+        17,
+        14,
+        8,
+        7,
+        9,
+        10,
+        25,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gM3527CPzcTPqKo",
+      "runId": 853959931
     }
   }
 }
