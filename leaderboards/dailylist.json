@@ -404,6 +404,42 @@
       "version": 2616,
       "uid": "R3EJKeT9beUgGYZ",
       "runId": 853959931
+    },
+    "l0KK4785fDITJ4P": {
+      "name": "інцел",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2616,
+      "uid": "l0KK4785fDITJ4P",
+      "runId": 853959931
+    },
+    "6mKywl868n01T5V": {
+      "name": "Армянин",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 21,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6mKywl868n01T5V",
+      "runId": 853959931
     }
   }
 }
