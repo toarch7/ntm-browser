@@ -956,7 +956,7 @@
       "wep": 5,
       "bwep": 60,
       "win": false,
-      "kills": 81,
+      "kills": 84,
       "ultra": 0,
       "skills": [
         1
@@ -970,17 +970,18 @@
       "name": "Ripneck",
       "char": 12,
       "skin": false,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 30,
-      "bwep": 71,
+      "wep": 62,
+      "bwep": 60,
       "win": false,
-      "kills": 172,
+      "kills": 197,
       "ultra": 0,
       "skills": [
-        10,
-        27
+        1,
+        27,
+        7
       ],
       "crown": 2,
       "version": 2616,
