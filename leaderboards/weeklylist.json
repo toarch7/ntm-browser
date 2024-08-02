@@ -945,6 +945,47 @@
       "version": 2616,
       "uid": "RwSmFhfr4aUyjy4",
       "runId": 977001765
+    },
+    "g6g70a775pxEcDU": {
+      "name": "Diego",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 60,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "g6g70a775pxEcDU",
+      "runId": 977001765
+    },
+    "gwe4067EMKKPcxt": {
+      "name": "Ripneck",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 71,
+      "win": false,
+      "kills": 172,
+      "ultra": 0,
+      "skills": [
+        10,
+        27
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "gwe4067EMKKPcxt",
+      "runId": 977001765
     }
   }
 }
