@@ -1,4 +1,140 @@
 {
   "day": 2,
-  "entries": {}
+  "entries": {
+    "Yvto2aEO2BStHNE": {
+      "name": "Seekers",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Yvto2aEO2BStHNE",
+      "runId": 853959931
+    },
+    "V5IX0z4cb4AY2G7": {
+      "name": "petra",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 17,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        17,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "V5IX0z4cb4AY2G7",
+      "runId": 853959931
+    },
+    "5bzU5COiW7On4VM": {
+      "name": "alfonso",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5bzU5COiW7On4VM",
+      "runId": 853959931
+    },
+    "EWTZji1UOU4Fldp": {
+      "name": "foxpala",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        22,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EWTZji1UOU4Fldp",
+      "runId": 853959931
+    },
+    "f3epTGx348x8hVF": {
+      "name": "jojo",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 16,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        3,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f3epTGx348x8hVF",
+      "runId": 853959931
+    },
+    "7og5i3F68i93wUB": {
+      "name": "RS_Rolo902Z",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "7og5i3F68i93wUB",
+      "runId": 853959931
+    },
+    "Spo2m66764o2WtO": {
+      "name": "Z3zima",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 6,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Spo2m66764o2WtO",
+      "runId": 853959931
+    }
+  }
 }
