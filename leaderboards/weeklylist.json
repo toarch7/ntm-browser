@@ -1137,6 +1137,28 @@
       "version": 2616,
       "uid": "YE5MoP8Ov0hCoh1",
       "runId": 977001765
+    },
+    "cpopp2L56xTv5AZ": {
+      "name": "metal",
+      "char": 12,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 60,
+      "bwep": 17,
+      "win": false,
+      "kills": 245,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        14
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "cpopp2L56xTv5AZ",
+      "runId": 977001765
     }
   }
 }
