@@ -523,6 +523,45 @@
       "version": 2616,
       "uid": "3jBGlG89k7C1r0f",
       "runId": 617269966
+    },
+    "wXl6Ys8E3TTmq6z": {
+      "name": "mairelis",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 4,
+      "win": false,
+      "kills": 15,
+      "crown": 1,
+      "version": 2616,
+      "uid": "wXl6Ys8E3TTmq6z",
+      "runId": 617269966
+    },
+    "70U9wJO1YQv91LZ": {
+      "name": "IanAarón",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        8,
+        3,
+        23,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "70U9wJO1YQv91LZ",
+      "runId": 617269966
     }
   }
 }
