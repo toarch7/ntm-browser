@@ -268,6 +268,42 @@
       "version": 2616,
       "uid": "V5IX0z4cb4AY2G7",
       "runId": 1029996738
+    },
+    "kI45aZ2XeC2d2ui": {
+      "name": "gioluc04",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "kI45aZ2XeC2d2ui",
+      "runId": 1029996738
+    },
+    "T78r98JIq5MZYzw": {
+      "name": "Joaovitor",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 39,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "T78r98JIq5MZYzw",
+      "runId": 1029996738
     }
   }
 }
