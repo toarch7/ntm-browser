@@ -950,6 +950,45 @@
       "version": 2616,
       "uid": "N89v4K6RZwq3Qea",
       "runId": 481227629
+    },
+    "z9te39k5dkv3jkW": {
+      "name": "AGUZA",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "z9te39k5dkv3jkW",
+      "runId": 481227629
+    },
+    "70U9wJO1YQv91LZ": {
+      "name": "IanAarón",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 192,
+      "ultra": 0,
+      "skills": [
+        16,
+        6,
+        27,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "70U9wJO1YQv91LZ",
+      "runId": 481227629
     }
   }
 }
