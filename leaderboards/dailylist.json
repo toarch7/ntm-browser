@@ -180,6 +180,89 @@
       "version": 2616,
       "uid": "L0dl67I5dIzleO5",
       "runId": 481227629
+    },
+    "pChr46tqqv6eHhR": {
+      "name": "Слабейший",
+      "char": 10,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        27,
+        6,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pChr46tqqv6eHhR",
+      "runId": 481227629
+    },
+    "RwSmFhfr4aUyjy4": {
+      "name": "Thrones616",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
+      "runId": 481227629
+    },
+    "461AJj4Nh90HrOS": {
+      "name": "marcosxd",
+      "char": 3,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 13,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "461AJj4Nh90HrOS",
+      "runId": 481227629
+    },
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 0,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        28,
+        27,
+        10,
+        23
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 481227629
     }
   }
 }
