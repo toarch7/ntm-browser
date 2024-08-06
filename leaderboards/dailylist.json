@@ -1,4 +1,49 @@
 {
   "day": 6,
-  "entries": {}
+  "entries": {
+    "70U9wJO1YQv91LZ": {
+      "name": "IanAarón",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "70U9wJO1YQv91LZ",
+      "runId": 720745433
+    },
+    "539n3jLTPf84f5a": {
+      "name": "Byeehana",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 10,
+      "win": false,
+      "kills": 171,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        17,
+        12,
+        4
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "539n3jLTPf84f5a",
+      "runId": 720745433
+    }
+  }
 }
