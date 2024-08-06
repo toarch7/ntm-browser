@@ -954,16 +954,17 @@
       "name": "Diego",
       "char": 12,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
       "wep": 5,
       "bwep": 60,
       "win": false,
-      "kills": 84,
+      "kills": 159,
       "ultra": 0,
       "skills": [
-        1
+        1,
+        27
       ],
       "crown": 2,
       "version": 2616,
@@ -1609,6 +1610,27 @@
       "crown": 2,
       "version": 2616,
       "uid": "7E68q31Acs3oo7z",
+      "runId": 977001765
+    },
+    "1Vlw0289tN3q3UT": {
+      "name": "chicanos",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 60,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        4,
+        12
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "1Vlw0289tN3q3UT",
       "runId": 977001765
     }
   }
