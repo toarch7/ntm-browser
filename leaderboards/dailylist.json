@@ -90,6 +90,64 @@
       "version": 2616,
       "uid": "Wq0wIvmZc5K4d6m",
       "runId": 720745433
+    },
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 0,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 720745433
+    },
+    "1rCeLyxH27bc522": {
+      "name": "drugnker",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1rCeLyxH27bc522",
+      "runId": 720745433
+    },
+    "7Vph2IfuiVbvO7b": {
+      "name": "Бато",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7Vph2IfuiVbvO7b",
+      "runId": 720745433
     }
   }
 }
