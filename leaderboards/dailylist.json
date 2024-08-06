@@ -570,6 +570,72 @@
       "version": 2616,
       "uid": "rI0Vr19z1vXI4vN",
       "runId": 720745433
+    },
+    "p4lo81o5l4RX5Hu": {
+      "name": "Bandit_Cat:3",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 1,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        16,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "p4lo81o5l4RX5Hu",
+      "runId": 720745433
+    },
+    "81R77D57o5dkajM": {
+      "name": "NumbraMani",
+      "char": 12,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 21,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        16,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "81R77D57o5dkajM",
+      "runId": 720745433
+    },
+    "NRv2pH7VwvbHAp0": {
+      "name": "ReddGuy",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "NRv2pH7VwvbHAp0",
+      "runId": 720745433
     }
   }
 }
