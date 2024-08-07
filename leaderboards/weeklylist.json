@@ -1617,17 +1617,18 @@
       "name": "chicanos",
       "char": 12,
       "skin": false,
-      "area": 3,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 57,
+      "wep": 19,
       "bwep": 7,
       "win": false,
-      "kills": 169,
+      "kills": 185,
       "ultra": 0,
       "skills": [
-        8,
-        12
+        1,
+        17,
+        7
       ],
       "crown": 2,
       "version": 2616,
@@ -1717,6 +1718,28 @@
       "crown": 2,
       "version": 2616,
       "uid": "eHr4ty59h76IavD",
+      "runId": 977001765
+    },
+    "uuG618z3fKffVMh": {
+      "name": "0",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 60,
+      "win": false,
+      "kills": 191,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "uuG618z3fKffVMh",
       "runId": 977001765
     }
   }
