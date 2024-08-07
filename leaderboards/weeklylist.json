@@ -115,17 +115,18 @@
       "name": "NumbraMani",
       "char": 12,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 4,
+      "wep": 6,
       "bwep": 60,
       "win": false,
-      "kills": 93,
+      "kills": 139,
       "ultra": 0,
       "skills": [
-        10,
-        27
+        1,
+        27,
+        6
       ],
       "crown": 2,
       "version": 2616,
@@ -1631,6 +1632,29 @@
       "crown": 2,
       "version": 2616,
       "uid": "1Vlw0289tN3q3UT",
+      "runId": 977001765
+    },
+    "Kf4WGzco8UtYk7t": {
+      "name": "TROLLFACE",
+      "char": 12,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 26,
+      "win": false,
+      "kills": 239,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        7,
+        14
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "Kf4WGzco8UtYk7t",
       "runId": 977001765
     }
   }
