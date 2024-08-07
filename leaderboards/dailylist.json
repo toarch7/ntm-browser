@@ -345,6 +345,68 @@
       "version": 2616,
       "uid": "7E68q31Acs3oo7z",
       "runId": 341563419
+    },
+    "gM3527CPzcTPqKo": {
+      "name": "Rhythm",
+      "char": 10,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 82,
+      "bwep": 4,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        8,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gM3527CPzcTPqKo",
+      "runId": 341563419
+    },
+    "539n3jLTPf84f5a": {
+      "name": "Byeehana",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 82,
+      "bwep": 4,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        26,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "539n3jLTPf84f5a",
+      "runId": 341563419
+    },
+    "R3EJKeT9beUgGYZ": {
+      "name": "Tyn",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 82,
+      "win": false,
+      "kills": 26,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "R3EJKeT9beUgGYZ",
+      "runId": 341563419
     }
   }
 }
