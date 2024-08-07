@@ -204,6 +204,64 @@
       "version": 2616,
       "uid": "5kiciV30rGS7t3K",
       "runId": 341563419
+    },
+    "V5IX0z4cb4AY2G7": {
+      "name": "petra",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2616,
+      "uid": "V5IX0z4cb4AY2G7",
+      "runId": 341563419
+    },
+    "wuoe1dYuTZ42gRo": {
+      "name": "Адскийсосун",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 38,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        8,
+        28,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wuoe1dYuTZ42gRo",
+      "runId": 341563419
+    },
+    "2uah75vDtzYsIU7": {
+      "name": "MisterShaby",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 82,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2uah75vDtzYsIU7",
+      "runId": 341563419
     }
   }
 }
