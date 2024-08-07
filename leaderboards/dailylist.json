@@ -146,6 +146,44 @@
       "version": 2616,
       "uid": "H5dV645bca27OVy",
       "runId": 341563419
+    },
+    "9Qf15a3R1Nr7hhG": {
+      "name": "soulol",
+      "char": 9,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 0,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "9Qf15a3R1Nr7hhG",
+      "runId": 341563419
+    },
+    "z55Wf7d0QcxcZ53": {
+      "name": "Seek",
+      "char": 1,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 14,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        13,
+        17,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "z55Wf7d0QcxcZ53",
+      "runId": 341563419
     }
   }
 }
