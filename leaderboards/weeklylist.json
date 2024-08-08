@@ -385,17 +385,19 @@
       "name": "Yordy",
       "char": 6,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
       "wep": 29,
-      "bwep": 17,
+      "bwep": 57,
       "win": false,
-      "kills": 141,
+      "kills": 265,
       "ultra": 0,
       "skills": [
         1,
-        2
+        2,
+        14,
+        25
       ],
       "crown": 7,
       "version": 2616,
@@ -541,6 +543,31 @@
       "crown": 7,
       "version": 2616,
       "uid": "b8nsWd2NQT5zK1X",
+      "runId": 1741328519
+    },
+    "h8sHiX34isDPi5l": {
+      "name": "SKILL_ISSUE",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 113,
+      "win": false,
+      "kills": 647,
+      "ultra": 1,
+      "skills": [
+        1,
+        9,
+        23,
+        6,
+        27,
+        7
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "h8sHiX34isDPi5l",
       "runId": 1741328519
     }
   }
