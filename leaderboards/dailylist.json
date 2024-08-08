@@ -409,6 +409,32 @@
       "version": 2616,
       "uid": "2uah75vDtzYsIU7",
       "runId": 1178892344
+    },
+    "h8sHiX34isDPi5l": {
+      "name": "SKILL_ISSUE",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 77,
+      "bwep": 9,
+      "win": false,
+      "kills": 840,
+      "ultra": 1,
+      "skills": [
+        25,
+        27,
+        7,
+        16,
+        8,
+        24,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "h8sHiX34isDPi5l",
+      "runId": 1178892344
     }
   }
 }
