@@ -157,22 +157,74 @@
       "name": "soulol",
       "char": 6,
       "skin": false,
-      "area": 3,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 118,
+      "bwep": 65,
+      "win": false,
+      "kills": 577,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        12,
+        16,
+        22,
+        27,
+        6,
+        7
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "9Qf15a3R1Nr7hhG",
+      "runId": 1741328519
+    },
+    "w20B0r75eP2CtnB": {
+      "name": "piskunchik",
+      "char": 6,
+      "skin": false,
+      "area": 2,
       "subarea": 1,
       "loops": 0,
       "wep": 17,
       "bwep": 29,
       "win": false,
-      "kills": 197,
+      "kills": 138,
       "ultra": 0,
       "skills": [
         22,
         9,
-        12
+        14
       ],
       "crown": 7,
       "version": 2616,
-      "uid": "9Qf15a3R1Nr7hhG",
+      "uid": "w20B0r75eP2CtnB",
+      "runId": 1741328519
+    },
+    "V5IX0z4cb4AY2G7": {
+      "name": "petra",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 9,
+      "win": false,
+      "kills": 319,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        14,
+        10,
+        25,
+        23
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "V5IX0z4cb4AY2G7",
       "runId": 1741328519
     }
   }
