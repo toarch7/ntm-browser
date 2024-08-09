@@ -742,25 +742,50 @@
       "name": "1000THR",
       "char": 6,
       "skin": false,
-      "area": 104,
-      "subarea": 1,
-      "loops": 0,
-      "wep": 29,
-      "bwep": 9,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 54,
+      "bwep": 97,
       "win": false,
-      "kills": 308,
-      "ultra": 0,
+      "kills": 942,
+      "ultra": 1,
       "skills": [
         1,
         28,
         23,
         10,
         25,
-        2
+        17,
+        7
       ],
       "crown": 7,
       "version": 2616,
       "uid": "HJ7G87oXRypnPMd",
+      "runId": 1741328519
+    },
+    "iObNy1ZE83FUkRi": {
+      "name": "Throneseeker4",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 57,
+      "win": false,
+      "kills": 391,
+      "ultra": 0,
+      "skills": [
+        1,
+        9,
+        14,
+        10,
+        27
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "iObNy1ZE83FUkRi",
       "runId": 1741328519
     }
   }
