@@ -646,6 +646,50 @@
       "version": 2616,
       "uid": "CM30W3IU3LI73fE",
       "runId": 1306357206
+    },
+    "1Vlw0289tN3q3UT": {
+      "name": "chicanos",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 66,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        23,
+        8,
+        17,
+        9
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "1Vlw0289tN3q3UT",
+      "runId": 1306357206
+    },
+    "739C22dsi5Y0p50": {
+      "name": "fer76",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 19,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        23,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "739C22dsi5Y0p50",
+      "runId": 1306357206
     }
   }
 }
