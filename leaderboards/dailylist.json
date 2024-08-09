@@ -218,6 +218,58 @@
       "version": 2616,
       "uid": "a68gdYwOi2SvUKM",
       "runId": 1306357206
+    },
+    "wuoe1dYuTZ42gRo": {
+      "name": "Адскийсосун",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 94,
+      "bwep": 24,
+      "win": false,
+      "kills": 853,
+      "ultra": 1,
+      "skills": [
+        27,
+        9,
+        21,
+        16,
+        1,
+        4,
+        3
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "wuoe1dYuTZ42gRo",
+      "runId": 1306357206
+    },
+    "2uah75vDtzYsIU7": {
+      "name": "MisterShaby",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 39,
+      "win": false,
+      "kills": 294,
+      "ultra": 0,
+      "skills": [
+        27,
+        25,
+        23,
+        14,
+        16,
+        10,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2uah75vDtzYsIU7",
+      "runId": 1306357206
     }
   }
 }
