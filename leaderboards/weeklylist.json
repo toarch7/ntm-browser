@@ -467,18 +467,22 @@
       "name": "Seeker157.70",
       "char": 6,
       "skin": false,
-      "area": 2,
+      "area": 1,
       "subarea": 1,
-      "loops": 0,
-      "wep": 17,
-      "bwep": 29,
+      "loops": 1,
+      "wep": 118,
+      "bwep": 45,
       "win": false,
-      "kills": 171,
+      "kills": 691,
       "ultra": 0,
       "skills": [
         22,
         28,
-        23
+        23,
+        10,
+        25,
+        27,
+        7
       ],
       "crown": 7,
       "version": 2616,
@@ -711,6 +715,52 @@
       "crown": 7,
       "version": 2616,
       "uid": "7NOlMWf5O8q0t6u",
+      "runId": 1741328519
+    },
+    "LYeT29RYK4n1mzq": {
+      "name": "Kira",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 23,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        1,
+        28
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "LYeT29RYK4n1mzq",
+      "runId": 1741328519
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "1000THR",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 9,
+      "win": false,
+      "kills": 308,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        23,
+        10,
+        25,
+        2
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
       "runId": 1741328519
     }
   }
