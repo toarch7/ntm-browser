@@ -1,4 +1,47 @@
 {
   "day": 9,
-  "entries": {}
+  "entries": {
+    "539n3jLTPf84f5a": {
+      "name": "Byeehana",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "539n3jLTPf84f5a",
+      "runId": 1306357206
+    },
+    "e5IWbVh9uU3A639": {
+      "name": "ROLAND",
+      "char": 4,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 106,
+      "bwep": 9,
+      "win": false,
+      "kills": 360,
+      "ultra": 1,
+      "skills": [
+        27,
+        25,
+        23,
+        8,
+        1,
+        4,
+        3
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "e5IWbVh9uU3A639",
+      "runId": 1306357206
+    }
+  }
 }
