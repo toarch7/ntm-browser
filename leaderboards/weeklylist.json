@@ -902,22 +902,47 @@
       "name": "Leonidas",
       "char": 6,
       "skin": false,
-      "area": 2,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 29,
-      "bwep": 17,
+      "wep": 17,
+      "bwep": 6,
       "win": false,
-      "kills": 163,
+      "kills": 329,
       "ultra": 0,
       "skills": [
-        22,
-        12,
-        4
+        1,
+        9,
+        23,
+        10,
+        3
       ],
       "crown": 7,
       "version": 2616,
       "uid": "0w669TKAH5a3tf8",
+      "runId": 1741328519
+    },
+    "y0FYbsLle1Rv0Ue": {
+      "name": "Bandit_Cat",
+      "char": 6,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 57,
+      "win": false,
+      "kills": 325,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        14,
+        22
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "y0FYbsLle1Rv0Ue",
       "runId": 1741328519
     }
   }
