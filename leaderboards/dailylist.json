@@ -613,6 +613,52 @@
       "version": 2616,
       "uid": "5ak7Lp8CJetFsSi",
       "runId": 606813272
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 17,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        14,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 606813272
+    },
+    "XdkMQGTJf3cq1KQ": {
+      "name": "XDoctor",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 47,
+      "win": false,
+      "kills": 271,
+      "ultra": 0,
+      "skills": [
+        14,
+        12,
+        7,
+        28,
+        10,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "XdkMQGTJf3cq1KQ",
+      "runId": 606813272
     }
   }
 }
