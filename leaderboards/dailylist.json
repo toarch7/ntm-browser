@@ -1,4 +1,48 @@
 {
   "day": 10,
-  "entries": {}
+  "entries": {
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 13,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        28,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 606813272
+    },
+    "539n3jLTPf84f5a": {
+      "name": "Byeehana",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 186,
+      "ultra": 0,
+      "skills": [
+        16,
+        22,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "539n3jLTPf84f5a",
+      "runId": 606813272
+    }
+  }
 }
