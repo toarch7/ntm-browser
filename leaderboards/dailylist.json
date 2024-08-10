@@ -70,6 +70,69 @@
       "version": 2616,
       "uid": "p6KHvaIIKk6110B",
       "runId": 606813272
+    },
+    "gM3527CPzcTPqKo": {
+      "name": "Rhythm",
+      "char": 12,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 81,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        14,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gM3527CPzcTPqKo",
+      "runId": 606813272
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 69,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        28,
+        24,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 606813272
+    },
+    "9Qf15a3R1Nr7hhG": {
+      "name": "soulol",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 1,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9Qf15a3R1Nr7hhG",
+      "runId": 606813272
     }
   }
 }
