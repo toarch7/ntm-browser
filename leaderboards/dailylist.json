@@ -659,6 +659,59 @@
       "version": 2616,
       "uid": "XdkMQGTJf3cq1KQ",
       "runId": 606813272
+    },
+    "qJ3a025kIqMFm2X": {
+      "name": "Tupperware",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 1,
+      "win": false,
+      "kills": 43,
+      "crown": 1,
+      "version": 2616,
+      "uid": "qJ3a025kIqMFm2X",
+      "runId": 606813272
+    },
+    "05Wqo9MXTFS2p0u": {
+      "name": "tick",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "05Wqo9MXTFS2p0u",
+      "runId": 606813272
+    },
+    "e5IWbVh9uU3A639": {
+      "name": "ROLAND",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 17,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        16,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "e5IWbVh9uU3A639",
+      "runId": 606813272
     }
   }
 }
