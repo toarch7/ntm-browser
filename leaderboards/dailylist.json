@@ -154,6 +154,106 @@
       "version": 2616,
       "uid": "Ry52m4OB749lCe3",
       "runId": 606813272
+    },
+    "h8sHiX34isDPi5l": {
+      "name": "SKILL_ISSUE",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 69,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        16,
+        12,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h8sHiX34isDPi5l",
+      "runId": 606813272
+    },
+    "bpa1O1p16Br2s0o": {
+      "name": "angru",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        3,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bpa1O1p16Br2s0o",
+      "runId": 606813272
+    },
+    "V5IX0z4cb4AY2G7": {
+      "name": "petra",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "V5IX0z4cb4AY2G7",
+      "runId": 606813272
+    },
+    "Y7L88XBgLHkN4lC": {
+      "name": "Havoc",
+      "char": 8,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 72,
+      "bwep": 4,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        28,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y7L88XBgLHkN4lC",
+      "runId": 606813272
+    },
+    "90cnT135q0TE0q2": {
+      "name": "Holop(фюрер",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 18,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "90cnT135q0TE0q2",
+      "runId": 606813272
     }
   }
 }
