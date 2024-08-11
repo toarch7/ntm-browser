@@ -271,6 +271,92 @@
       "version": 2616,
       "uid": "eWkE20v8e0C9SNh",
       "runId": 720101887
+    },
+    "07G6h6Y87K3t72h": {
+      "name": "roronoa",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "07G6h6Y87K3t72h",
+      "runId": 720101887
+    },
+    "Ry52m4OB749lCe3": {
+      "name": "Fake",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 34,
+      "win": false,
+      "kills": 340,
+      "ultra": 0,
+      "skills": [
+        27,
+        17,
+        3,
+        23,
+        25,
+        4
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "Ry52m4OB749lCe3",
+      "runId": 720101887
+    },
+    "Y7L88XBgLHkN4lC": {
+      "name": "Havoc",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 4,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y7L88XBgLHkN4lC",
+      "runId": 720101887
+    },
+    "m96PH9ISC2JCNsw": {
+      "name": "OVER-XBOX",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 17,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        27,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "m96PH9ISC2JCNsw",
+      "runId": 720101887
     }
   }
 }
