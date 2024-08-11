@@ -770,6 +770,47 @@
       "version": 2616,
       "uid": "w20B0r75eP2CtnB",
       "runId": 720101887
+    },
+    "g6g70a775pxEcDU": {
+      "name": "Diego",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 39,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        27,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g6g70a775pxEcDU",
+      "runId": 720101887
+    },
+    "7Xv3pY73lyCY478": {
+      "name": "Valko",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7Xv3pY73lyCY478",
+      "runId": 720101887
     }
   }
 }
