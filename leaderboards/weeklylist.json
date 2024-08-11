@@ -834,19 +834,21 @@
       "name": "duck",
       "char": 6,
       "skin": false,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 26,
-      "bwep": 11,
+      "wep": 29,
+      "bwep": 76,
       "win": false,
-      "kills": 313,
+      "kills": 478,
       "ultra": 0,
       "skills": [
-        22,
-        28,
+        1,
+        9,
         23,
-        3
+        22,
+        27,
+        7
       ],
       "crown": 7,
       "version": 2616,
@@ -1364,6 +1366,52 @@
       "crown": 7,
       "version": 2616,
       "uid": "8dVRingCmjYimhw",
+      "runId": 1741328519
+    },
+    "Qta1Q803YzH69M6": {
+      "name": "Seeker34",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 23,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        1,
+        2
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "Qta1Q803YzH69M6",
+      "runId": 1741328519
+    },
+    "xebDU84if21MG4M": {
+      "name": "xablau",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 9,
+      "win": false,
+      "kills": 310,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        12,
+        10,
+        6,
+        27
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "xebDU84if21MG4M",
       "runId": 1741328519
     }
   }
