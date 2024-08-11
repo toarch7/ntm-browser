@@ -122,10 +122,10 @@
       "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 110,
-      "bwep": 11,
+      "wep": 105,
+      "bwep": 110,
       "win": false,
-      "kills": 633,
+      "kills": 641,
       "ultra": 0,
       "skills": [
         1,
@@ -1243,6 +1243,57 @@
       "crown": 7,
       "version": 2616,
       "uid": "M3q90bnZ7zzqN14",
+      "runId": 1741328519
+    },
+    "pChr46tqqv6eHhR": {
+      "name": "Слабейший",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 29,
+      "win": false,
+      "kills": 454,
+      "ultra": 0,
+      "skills": [
+        1,
+        9,
+        17,
+        10,
+        27
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "pChr46tqqv6eHhR",
+      "runId": 1741328519
+    },
+    "XdkMQGTJf3cq1KQ": {
+      "name": "XDoctor",
+      "char": 6,
+      "skin": false,
+      "area": 106,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 105,
+      "bwep": 26,
+      "win": false,
+      "kills": 858,
+      "ultra": 1,
+      "skills": [
+        1,
+        12,
+        4,
+        10,
+        25,
+        8,
+        27,
+        7
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "XdkMQGTJf3cq1KQ",
       "runId": 1741328519
     }
   }
