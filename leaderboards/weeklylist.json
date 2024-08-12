@@ -120,12 +120,12 @@
       "char": 6,
       "skin": false,
       "area": 1,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 1,
-      "wep": 106,
-      "bwep": 11,
+      "wep": 87,
+      "bwep": 110,
       "win": false,
-      "kills": 768,
+      "kills": 1093,
       "ultra": 0,
       "skills": [
         1,
@@ -1479,18 +1479,21 @@
       "name": "Silos",
       "char": 6,
       "skin": false,
-      "area": 2,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 29,
-      "bwep": 6,
+      "wep": 62,
+      "bwep": 29,
       "win": false,
-      "kills": 153,
+      "kills": 330,
       "ultra": 0,
       "skills": [
         22,
-        28,
-        23
+        12,
+        23,
+        10,
+        25,
+        17
       ],
       "crown": 7,
       "version": 2616,
@@ -1516,6 +1519,27 @@
       "crown": 7,
       "version": 2616,
       "uid": "egn83M3D437EUTz",
+      "runId": 1741328519
+    },
+    "JS02fOVM66nfYsk": {
+      "name": "Maair",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 29,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        1,
+        28
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "JS02fOVM66nfYsk",
       "runId": 1741328519
     }
   }
