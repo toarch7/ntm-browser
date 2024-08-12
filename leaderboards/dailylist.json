@@ -43,6 +43,64 @@
       "version": 2616,
       "uid": "rI0Vr19z1vXI4vN",
       "runId": 1969175896
+    },
+    "plszUJl0557A73U": {
+      "name": "Seeke",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "plszUJl0557A73U",
+      "runId": 1969175896
+    },
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 0,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        7,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 1969175896
+    },
+    "e5IWbVh9uU3A639": {
+      "name": "ROLAND",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 69,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        16,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "e5IWbVh9uU3A639",
+      "runId": 1969175896
     }
   }
 }
