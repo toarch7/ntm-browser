@@ -119,23 +119,22 @@
       "name": "slayer",
       "char": 6,
       "skin": false,
-      "area": 7,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 105,
-      "bwep": 110,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 106,
+      "bwep": 11,
       "win": false,
-      "kills": 641,
+      "kills": 768,
       "ultra": 0,
       "skills": [
         1,
         9,
         14,
-        16,
-        22,
-        27,
+        10,
         25,
-        8
+        8,
+        27
       ],
       "crown": 7,
       "version": 2616,
@@ -1474,6 +1473,49 @@
       "crown": 7,
       "version": 2616,
       "uid": "e5IWbVh9uU3A639",
+      "runId": 1741328519
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 6,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        22,
+        28,
+        23
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 1741328519
+    },
+    "egn83M3D437EUTz": {
+      "name": "unde",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 6,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        1,
+        28
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "egn83M3D437EUTz",
       "runId": 1741328519
     }
   }
