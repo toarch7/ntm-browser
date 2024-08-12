@@ -273,6 +273,51 @@
       "version": 2616,
       "uid": "Ry52m4OB749lCe3",
       "runId": 1969175896
+    },
+    "bpa1O1p16Br2s0o": {
+      "name": "angru",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 10,
+      "win": false,
+      "kills": 257,
+      "ultra": 0,
+      "skills": [
+        7,
+        23,
+        22,
+        9,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bpa1O1p16Br2s0o",
+      "runId": 1969175896
+    },
+    "eWkE20v8e0C9SNh": {
+      "name": "sigilo",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 17,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        7,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "eWkE20v8e0C9SNh",
+      "runId": 1969175896
     }
   }
 }
