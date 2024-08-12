@@ -910,6 +910,47 @@
       "version": 2616,
       "uid": "64lsh4Hwg4ysAv1",
       "runId": 1969175896
+    },
+    "9FNvr6s89Uh2W90": {
+      "name": "zeno",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9FNvr6s89Uh2W90",
+      "runId": 1969175896
+    },
+    "Sy39vM693C6nwWD": {
+      "name": "Antarcupp",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        16,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Sy39vM693C6nwWD",
+      "runId": 1969175896
     }
   }
 }
