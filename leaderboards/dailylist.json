@@ -306,6 +306,114 @@
       "version": 2616,
       "uid": "5gU7s7keHa8O3p0",
       "runId": 950830501
+    },
+    "CM312LhJ9lrKk0s": {
+      "name": "zaqmad",
+      "char": 1,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 40,
+      "bwep": 3,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        6,
+        4,
+        12,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CM312LhJ9lrKk0s",
+      "runId": 950830501
+    },
+    "w20B0r75eP2CtnB": {
+      "name": "piskunchik",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "w20B0r75eP2CtnB",
+      "runId": 950830501
+    },
+    "Y7L88XBgLHkN4lC": {
+      "name": "Havoc",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 63,
+      "win": false,
+      "kills": 180,
+      "ultra": 0,
+      "skills": [
+        6,
+        4,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y7L88XBgLHkN4lC",
+      "runId": 950830501
+    },
+    "qJ3a025kIqMFm2X": {
+      "name": "Zombie",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 33,
+      "win": false,
+      "kills": 353,
+      "ultra": 0,
+      "skills": [
+        6,
+        4,
+        12,
+        9,
+        16,
+        27,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qJ3a025kIqMFm2X",
+      "runId": 950830501
+    },
+    "4Ee8wSPL07hy1ga": {
+      "name": "5tofofirrore",
+      "char": 1,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 72,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4Ee8wSPL07hy1ga",
+      "runId": 950830501
     }
   }
 }
