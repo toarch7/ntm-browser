@@ -384,20 +384,21 @@
       "name": "NumbraMani",
       "char": 7,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 62,
-      "bwep": 96,
+      "wep": 96,
+      "bwep": 11,
       "win": false,
-      "kills": 139,
+      "kills": 216,
       "ultra": 0,
       "skills": [
         4,
         28,
         1,
         6,
-        10
+        10,
+        8
       ],
       "crown": 13,
       "version": 2616,
@@ -446,6 +447,71 @@
       "crown": 13,
       "version": 2616,
       "uid": "lZikK5QMSqj989n",
+      "runId": 1596315932
+    },
+    "f3epTGx348x8hVF": {
+      "name": "jojo",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 96,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "f3epTGx348x8hVF",
+      "runId": 1596315932
+    },
+    "L0dl67I5dIzleO5": {
+      "name": "God'sWeakestFag",
+      "char": 7,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 96,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        4,
+        9,
+        23,
+        19
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "L0dl67I5dIzleO5",
+      "runId": 1596315932
+    },
+    "JUm4b1V791kb8PU": {
+      "name": "Ander",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 1,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        4,
+        14,
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "JUm4b1V791kb8PU",
       "runId": 1596315932
     }
   }
