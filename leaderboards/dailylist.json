@@ -459,6 +459,53 @@
       "version": 2616,
       "uid": "e5IWbVh9uU3A639",
       "runId": 950830501
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 6,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 950830501
+    },
+    "gM3527CPzcTPqKo": {
+      "name": "Rhythm",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 68,
+      "bwep": 90,
+      "win": false,
+      "kills": 897,
+      "ultra": 2,
+      "skills": [
+        1,
+        4,
+        12,
+        9,
+        27,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gM3527CPzcTPqKo",
+      "runId": 950830501
     }
   }
 }
