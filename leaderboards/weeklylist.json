@@ -852,6 +852,51 @@
       "version": 2616,
       "uid": "rI0Vr19z1vXI4vN",
       "runId": 1596315932
+    },
+    "cqQi717F3j8va9a": {
+      "name": "Zahnesfall",
+      "char": 7,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 96,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        4,
+        28,
+        1,
+        6,
+        10
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "cqQi717F3j8va9a",
+      "runId": 1596315932
+    },
+    "21ayHS30jsq856e": {
+      "name": "Miguel†",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 96,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        17,
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "21ayHS30jsq856e",
+      "runId": 1596315932
     }
   }
 }
