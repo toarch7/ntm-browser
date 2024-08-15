@@ -150,6 +150,26 @@
       "version": 2616,
       "uid": "bpa1O1p16Br2s0o",
       "runId": 1810665848
+    },
+    "afD2I23voae1kw1": {
+      "name": "MegaMan",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "afD2I23voae1kw1",
+      "runId": 1810665848
     }
   }
 }
