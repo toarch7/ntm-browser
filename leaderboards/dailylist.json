@@ -400,6 +400,82 @@
       "version": 2616,
       "uid": "opC2x8rRxMV8C46",
       "runId": 1810665848
+    },
+    "9Qf15a3R1Nr7hhG": {
+      "name": "soulol",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 23,
+      "bwep": 0,
+      "win": false,
+      "kills": 457,
+      "ultra": 2,
+      "skills": [
+        10,
+        23,
+        25,
+        4,
+        3,
+        1,
+        6,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9Qf15a3R1Nr7hhG",
+      "runId": 1810665848
+    },
+    "1Vlw0289tN3q3UT": {
+      "name": "chicanos",
+      "char": 9,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 88,
+      "win": false,
+      "kills": 242,
+      "ultra": 0,
+      "skills": [
+        9,
+        8,
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1Vlw0289tN3q3UT",
+      "runId": 1810665848
+    },
+    "gM3527CPzcTPqKo": {
+      "name": "Rhythm",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 59,
+      "bwep": 6,
+      "win": false,
+      "kills": 438,
+      "ultra": 2,
+      "skills": [
+        9,
+        27,
+        8,
+        1,
+        14,
+        12,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gM3527CPzcTPqKo",
+      "runId": 1810665848
     }
   }
 }
