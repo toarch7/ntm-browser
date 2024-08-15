@@ -1222,20 +1222,21 @@
       "name": "shadow",
       "char": 7,
       "skin": true,
-      "area": 5,
-      "subarea": 2,
-      "loops": 0,
-      "wep": 112,
-      "bwep": 52,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 5,
+      "bwep": 20,
       "win": false,
-      "kills": 201,
-      "ultra": 0,
+      "kills": 388,
+      "ultra": 2,
       "skills": [
         4,
         28,
         1,
         10,
-        13
+        13,
+        9
       ],
       "crown": 13,
       "version": 2616,
@@ -1287,6 +1288,52 @@
       "crown": 13,
       "version": 2616,
       "uid": "Wq0wIvmZc5K4d6m",
+      "runId": 1596315932
+    },
+    "e0AJTBOk8dFKA64": {
+      "name": "elcj",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 96,
+      "bwep": 9,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        4,
+        28,
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "e0AJTBOk8dFKA64",
+      "runId": 1596315932
+    },
+    "J32h8c57488PI5O": {
+      "name": "бублик",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 69,
+      "win": false,
+      "kills": 188,
+      "ultra": 0,
+      "skills": [
+        4,
+        17,
+        1,
+        10,
+        9
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "J32h8c57488PI5O",
       "runId": 1596315932
     }
   }
