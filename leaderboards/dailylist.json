@@ -306,6 +306,77 @@
       "version": 2616,
       "uid": "Ry52m4OB749lCe3",
       "runId": 1810665848
+    },
+    "70iWaR72bfQ74Od": {
+      "name": "Вова",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 115,
+      "bwep": 12,
+      "win": false,
+      "kills": 481,
+      "ultra": 1,
+      "skills": [
+        25,
+        4,
+        27,
+        14,
+        1,
+        3,
+        8,
+        22
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "70iWaR72bfQ74Od",
+      "runId": 1810665848
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 18,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 1810665848
+    },
+    "u1oFU0aHFKh696I": {
+      "name": "Митяй2009",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 89,
+      "win": false,
+      "kills": 284,
+      "ultra": 0,
+      "skills": [
+        9,
+        1,
+        25,
+        4,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "u1oFU0aHFKh696I",
+      "runId": 1810665848
     }
   }
 }
