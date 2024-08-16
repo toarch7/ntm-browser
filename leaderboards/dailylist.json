@@ -584,6 +584,46 @@
       "version": 2616,
       "uid": "1Vlw0289tN3q3UT",
       "runId": 1723483953
+    },
+    "9FNvr6s89Uh2W90": {
+      "name": "zeno",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 4,
+      "win": false,
+      "kills": 17,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9FNvr6s89Uh2W90",
+      "runId": 1723483953
+    },
+    "eWkE20v8e0C9SNh": {
+      "name": "sigilo",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 3,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "eWkE20v8e0C9SNh",
+      "runId": 1723483953
     }
   }
 }
