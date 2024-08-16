@@ -548,18 +548,19 @@
       "name": "DarthurV",
       "char": 7,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 96,
-      "bwep": 17,
+      "wep": 18,
+      "bwep": 96,
       "win": false,
-      "kills": 112,
+      "kills": 187,
       "ultra": 0,
       "skills": [
         4,
         28,
-        12
+        12,
+        10
       ],
       "crown": 13,
       "version": 2616,
@@ -1586,6 +1587,27 @@
       "crown": 13,
       "version": 2616,
       "uid": "Hh22qMg7J30iO4B",
+      "runId": 1596315932
+    },
+    "1rCeLyxH27bc522": {
+      "name": "drugnker",
+      "char": 7,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 96,
+      "bwep": 5,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        4,
+        28
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "1rCeLyxH27bc522",
       "runId": 1596315932
     }
   }
