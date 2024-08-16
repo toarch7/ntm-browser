@@ -1,4 +1,58 @@
 {
   "day": 16,
-  "entries": {}
+  "entries": {
+    "90cnT135q0TE0q2": {
+      "name": "Holop(фюрер",
+      "char": 2,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 23,
+      "win": false,
+      "kills": 290,
+      "ultra": 0,
+      "skills": [
+        4,
+        3,
+        25,
+        1,
+        9,
+        7,
+        27,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "90cnT135q0TE0q2",
+      "runId": 1723483953
+    },
+    "Wq0wIvmZc5K4d6m": {
+      "name": "elhombrejhoniel",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 35,
+      "bwep": 110,
+      "win": false,
+      "kills": 533,
+      "ultra": 1,
+      "skills": [
+        1,
+        7,
+        23,
+        10,
+        6,
+        8,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Wq0wIvmZc5K4d6m",
+      "runId": 1723483953
+    }
+  }
 }
