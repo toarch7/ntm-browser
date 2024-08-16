@@ -1134,11 +1134,12 @@
       "subarea": 3,
       "loops": 0,
       "wep": 96,
-      "bwep": 13,
+      "bwep": 10,
       "win": false,
-      "kills": 242,
+      "kills": 248,
       "ultra": 0,
       "skills": [
+        4,
         14,
         1,
         10,
@@ -1518,6 +1519,49 @@
       "crown": 13,
       "version": 2616,
       "uid": "M37r0hlvHhYgQ5m",
+      "runId": 1596315932
+    },
+    "hWbhN8sl7BiTG13": {
+      "name": "Frenzi07",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 4,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        4,
+        28,
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "hWbhN8sl7BiTG13",
+      "runId": 1596315932
+    },
+    "g1V4ycOnzcsXOIR": {
+      "name": "manu_pardoxd",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 96,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        4,
+        9
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "g1V4ycOnzcsXOIR",
       "runId": 1596315932
     }
   }
