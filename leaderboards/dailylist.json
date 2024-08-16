@@ -385,6 +385,42 @@
       "version": 2616,
       "uid": "Y7L88XBgLHkN4lC",
       "runId": 1723483953
+    },
+    "veNM445KoAqLS4N": {
+      "name": "Тобепизда",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 39,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2616,
+      "uid": "veNM445KoAqLS4N",
+      "runId": 1723483953
+    },
+    "L0dl67I5dIzleO5": {
+      "name": "God'sWeakestFag",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 4,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L0dl67I5dIzleO5",
+      "runId": 1723483953
     }
   }
 }

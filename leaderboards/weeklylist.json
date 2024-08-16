@@ -248,18 +248,18 @@
       "name": "Havoc",
       "char": 7,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
       "wep": 4,
       "bwep": 96,
       "win": false,
-      "kills": 78,
+      "kills": 106,
       "ultra": 0,
       "skills": [
         4,
-        9,
-        23
+        28,
+        9
       ],
       "crown": 13,
       "version": 2616,
@@ -1470,6 +1470,31 @@
       "crown": 13,
       "version": 2616,
       "uid": "0L5QZ6G8duaw51l",
+      "runId": 1596315932
+    },
+    "g2Q1du6j6F1tSqS": {
+      "name": "Andusias",
+      "char": 7,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 96,
+      "win": false,
+      "kills": 286,
+      "ultra": 0,
+      "skills": [
+        4,
+        17,
+        1,
+        10,
+        9,
+        22
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "g2Q1du6j6F1tSqS",
       "runId": 1596315932
     }
   }
