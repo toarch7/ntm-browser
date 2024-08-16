@@ -1130,20 +1130,22 @@
       "name": "Seekexd",
       "char": 7,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 96,
-      "bwep": 10,
+      "wep": 74,
+      "bwep": 96,
       "win": false,
-      "kills": 248,
+      "kills": 363,
       "ultra": 0,
       "skills": [
         4,
         14,
         1,
         10,
-        22
+        13,
+        22,
+        7
       ],
       "crown": 13,
       "version": 2616,
@@ -1562,6 +1564,28 @@
       "crown": 13,
       "version": 2616,
       "uid": "g1V4ycOnzcsXOIR",
+      "runId": 1596315932
+    },
+    "Hh22qMg7J30iO4B": {
+      "name": "Hungg",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 96,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        4,
+        28,
+        9
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "Hh22qMg7J30iO4B",
       "runId": 1596315932
     }
   }
