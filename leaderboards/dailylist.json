@@ -864,6 +864,31 @@
       "version": 2616,
       "uid": "JJouI9UBh20EpoB",
       "runId": 2131033948
+    },
+    "e5IWbVh9uU3A639": {
+      "name": "ROLAND",
+      "char": 7,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 23,
+      "bwep": 26,
+      "win": false,
+      "kills": 355,
+      "ultra": 2,
+      "skills": [
+        1,
+        23,
+        17,
+        8,
+        7,
+        16
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "e5IWbVh9uU3A639",
+      "runId": 2131033948
     }
   }
 }
