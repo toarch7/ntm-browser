@@ -1630,6 +1630,48 @@
       "version": 2616,
       "uid": "1Gd624F74YWzv3m",
       "runId": 1596315932
+    },
+    "mQ6dxSp1osVs2vM": {
+      "name": "souvlaki",
+      "char": 7,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 40,
+      "bwep": 114,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        28,
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "mQ6dxSp1osVs2vM",
+      "runId": 1596315932
+    },
+    "Wk41xHVn1Wsv001": {
+      "name": "Siporator",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 96,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        4,
+        28
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "Wk41xHVn1Wsv001",
+      "runId": 1596315932
     }
   }
 }
