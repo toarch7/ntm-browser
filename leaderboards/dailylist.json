@@ -561,6 +561,69 @@
       "version": 2616,
       "uid": "EN97E1EHDU5ptwu",
       "runId": 2131033948
+    },
+    "vaa6opWCj55dlJK": {
+      "name": "Хасан",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 57,
+      "win": false,
+      "kills": 263,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        7,
+        25,
+        27,
+        17,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "vaa6opWCj55dlJK",
+      "runId": 2131033948
+    },
+    "v9WqG9E1U93yRex": {
+      "name": "ДонПропердон",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 69,
+      "win": false,
+      "kills": 22,
+      "crown": 1,
+      "version": 2616,
+      "uid": "v9WqG9E1U93yRex",
+      "runId": 2131033948
+    },
+    "qXXs0u2VZYq4Psm": {
+      "name": "passwqrd",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        1,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qXXs0u2VZYq4Psm",
+      "runId": 2131033948
     }
   }
 }
