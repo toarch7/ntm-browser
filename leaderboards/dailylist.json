@@ -307,6 +307,52 @@
       "version": 2616,
       "uid": "u1oFU0aHFKh696I",
       "runId": 2131033948
+    },
+    "9Qf15a3R1Nr7hhG": {
+      "name": "soulol",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 35,
+      "win": false,
+      "kills": 241,
+      "ultra": 0,
+      "skills": [
+        23,
+        1,
+        16,
+        10,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9Qf15a3R1Nr7hhG",
+      "runId": 2131033948
+    },
+    "40uPfWj656Eg7KX": {
+      "name": "BetaPlayer[RU]",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 75,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "40uPfWj656Eg7KX",
+      "runId": 2131033948
     }
   }
 }
