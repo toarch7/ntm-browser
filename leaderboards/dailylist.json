@@ -464,6 +464,82 @@
       "version": 2616,
       "uid": "SUHjzq21OSG518m",
       "runId": 2131033948
+    },
+    "Wrg2Kxx43k6181X": {
+      "name": "DemenciaFTW",
+      "char": 9,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 7,
+      "win": false,
+      "kills": 273,
+      "ultra": 0,
+      "skills": [
+        22,
+        23,
+        1,
+        25,
+        27,
+        17,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Wrg2Kxx43k6181X",
+      "runId": 2131033948
+    },
+    "JOg5vv63jpP2hS9": {
+      "name": "VoideonLord",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 30,
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        6,
+        22,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "JOg5vv63jpP2hS9",
+      "runId": 2131033948
+    },
+    "C5NK0x36H7C06FF": {
+      "name": "Соплежуй",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 69,
+      "win": false,
+      "kills": 236,
+      "ultra": 0,
+      "skills": [
+        22,
+        23,
+        6,
+        25,
+        27,
+        10,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "C5NK0x36H7C06FF",
+      "runId": 2131033948
     }
   }
 }

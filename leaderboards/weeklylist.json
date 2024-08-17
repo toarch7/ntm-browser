@@ -1680,15 +1680,15 @@
       "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 96,
-      "bwep": 3,
+      "wep": 4,
+      "bwep": 96,
       "win": false,
-      "kills": 95,
+      "kills": 102,
       "ultra": 0,
       "skills": [
         9,
         17,
-        23
+        1
       ],
       "crown": 13,
       "version": 2616,
@@ -1714,6 +1714,28 @@
       "crown": 13,
       "version": 2616,
       "uid": "V44J42L7361vyge",
+      "runId": 1596315932
+    },
+    "3eJv50q746J3nZk": {
+      "name": "Volkanirum",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 96,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        4,
+        17,
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "3eJv50q746J3nZk",
       "runId": 1596315932
     }
   }
