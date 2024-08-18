@@ -654,6 +654,95 @@
       "version": 2616,
       "uid": "1Vlw0289tN3q3UT",
       "runId": 790135861
+    },
+    "wj4zcqT5HwRRlOh": {
+      "name": "manochocco",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 42,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        12,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wj4zcqT5HwRRlOh",
+      "runId": 790135861
+    },
+    "ti20qzaJZQZ86cB": {
+      "name": "Elgordox66",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 1,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ti20qzaJZQZ86cB",
+      "runId": 790135861
+    },
+    "7m6rMl97DPjVY5B": {
+      "name": "huevominion",
+      "char": 15,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 27,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        12,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7m6rMl97DPjVY5B",
+      "runId": 790135861
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 64,
+      "win": false,
+      "kills": 356,
+      "ultra": 1,
+      "skills": [
+        1,
+        10,
+        27,
+        25,
+        4,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 790135861
     }
   }
 }
