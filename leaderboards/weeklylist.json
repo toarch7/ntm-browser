@@ -1961,6 +1961,27 @@
       "version": 2616,
       "uid": "g6g70a775pxEcDU",
       "runId": 1596315932
+    },
+    "m06kUmLsdxdwJ06": {
+      "name": "g205",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 31,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        4,
+        9
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "m06kUmLsdxdwJ06",
+      "runId": 1596315932
     }
   }
 }

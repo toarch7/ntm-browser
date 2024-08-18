@@ -452,6 +452,127 @@
       "version": 2616,
       "uid": "70iWaR72bfQ74Od",
       "runId": 790135861
+    },
+    "BqQtVN3a02w8e3z": {
+      "name": "Ryoma",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BqQtVN3a02w8e3z",
+      "runId": 790135861
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 2,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        1,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 790135861
+    },
+    "4k41KOJuHy56dbl": {
+      "name": "Seeker90",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "4k41KOJuHy56dbl",
+      "runId": 790135861
+    },
+    "B3P7yrUm5i8TRs2": {
+      "name": "Seeker90",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 18,
+      "crown": 1,
+      "version": 2616,
+      "uid": "B3P7yrUm5i8TRs2",
+      "runId": 790135861
+    },
+    "qJ3a025kIqMFm2X": {
+      "name": "Tupperware",
+      "char": 6,
+      "skin": false,
+      "area": 105,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 10,
+      "win": false,
+      "kills": 228,
+      "ultra": 0,
+      "skills": [
+        14,
+        17,
+        7,
+        27,
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "qJ3a025kIqMFm2X",
+      "runId": 790135861
+    },
+    "g2Q1du6j6F1tSqS": {
+      "name": "Andusias",
+      "char": 12,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 62,
+      "win": false,
+      "kills": 389,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        27,
+        14,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g2Q1du6j6F1tSqS",
+      "runId": 790135861
     }
   }
 }
