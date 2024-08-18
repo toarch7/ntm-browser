@@ -618,6 +618,42 @@
       "version": 2616,
       "uid": "8EJRW7Ra1DC2kY0",
       "runId": 790135861
+    },
+    "w20B0r75eP2CtnB": {
+      "name": "piskunchik",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "w20B0r75eP2CtnB",
+      "runId": 790135861
+    },
+    "1Vlw0289tN3q3UT": {
+      "name": "chicanos",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 3,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1Vlw0289tN3q3UT",
+      "runId": 790135861
     }
   }
 }
