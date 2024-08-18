@@ -1,4 +1,95 @@
 {
   "day": 18,
-  "entries": {}
+  "entries": {
+    "egn83M3D437EUTz": {
+      "name": "unde",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 31,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "egn83M3D437EUTz",
+      "runId": 790135861
+    },
+    "JJouI9UBh20EpoB": {
+      "name": "Yordy",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 69,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        14,
+        10,
+        7,
+        27,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "JJouI9UBh20EpoB",
+      "runId": 790135861
+    },
+    "90cnT135q0TE0q2": {
+      "name": "Holop(фюрер",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 8,
+      "win": false,
+      "kills": 304,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        27,
+        14,
+        22,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "90cnT135q0TE0q2",
+      "runId": 790135861
+    },
+    "jJuY6492F0sPb9N": {
+      "name": "Seeker9",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "jJuY6492F0sPb9N",
+      "runId": 790135861
+    }
+  }
 }
