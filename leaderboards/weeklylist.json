@@ -113,6 +113,58 @@
       "version": 2616,
       "uid": "Ry52m4OB749lCe3",
       "runId": 1801956296
+    },
+    "gM3527CPzcTPqKo": {
+      "name": "Rhythm",
+      "char": 9,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 113,
+      "win": false,
+      "kills": 382,
+      "ultra": 1,
+      "skills": [
+        7,
+        8,
+        14,
+        3,
+        4,
+        10,
+        27
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "gM3527CPzcTPqKo",
+      "runId": 1801956296
+    },
+    "9Qf15a3R1Nr7hhG": {
+      "name": "soulol",
+      "char": 9,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 38,
+      "win": false,
+      "kills": 379,
+      "ultra": 0,
+      "skills": [
+        4,
+        3,
+        7,
+        10,
+        26,
+        27,
+        23
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "9Qf15a3R1Nr7hhG",
+      "runId": 1801956296
     }
   }
 }
