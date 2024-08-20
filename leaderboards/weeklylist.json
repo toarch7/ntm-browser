@@ -320,6 +320,57 @@
       "version": 2616,
       "uid": "97N3O7994S8Zf9E",
       "runId": 1801956296
+    },
+    "JJouI9UBh20EpoB": {
+      "name": "Yordy",
+      "char": 9,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 114,
+      "bwep": 76,
+      "win": false,
+      "kills": 346,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        14,
+        3,
+        1,
+        26
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "JJouI9UBh20EpoB",
+      "runId": 1801956296
+    },
+    "Atxw7On7Hmll3c5": {
+      "name": "Pop_pop",
+      "char": 9,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 25,
+      "bwep": 37,
+      "win": false,
+      "kills": 416,
+      "ultra": 1,
+      "skills": [
+        1,
+        13,
+        7,
+        3,
+        4,
+        8,
+        27
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "Atxw7On7Hmll3c5",
+      "runId": 1801956296
     }
   }
 }
