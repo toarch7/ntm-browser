@@ -1,4 +1,49 @@
 {
   "seed": 1801956296,
-  "entries": {}
+  "entries": {
+    "8EJRW7Ra1DC2kY0": {
+      "name": "lever",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 46,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        7,
+        16
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "8EJRW7Ra1DC2kY0",
+      "runId": 1801956296
+    },
+    "o86y02q48unF321": {
+      "name": "beke",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 15,
+      "bwep": 2,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        1,
+        6
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "o86y02q48unF321",
+      "runId": 1801956296
+    }
+  }
 }
