@@ -326,12 +326,12 @@
       "char": 9,
       "skin": true,
       "area": 7,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 33,
-      "bwep": 30,
+      "wep": 11,
+      "bwep": 10,
       "win": false,
-      "kills": 357,
+      "kills": 379,
       "ultra": 0,
       "skills": [
         7,
@@ -339,7 +339,8 @@
         14,
         3,
         1,
-        26
+        26,
+        27
       ],
       "crown": 11,
       "version": 2616,
@@ -598,6 +599,31 @@
       "crown": 11,
       "version": 2616,
       "uid": "u1oFU0aHFKh696I",
+      "runId": 1801956296
+    },
+    "WQt283AYMFl7F7N": {
+      "name": "heisenballs",
+      "char": 9,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 46,
+      "win": false,
+      "kills": 365,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        7,
+        3,
+        4,
+        14
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "WQt283AYMFl7F7N",
       "runId": 1801956296
     }
   }

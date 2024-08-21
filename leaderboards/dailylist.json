@@ -572,6 +572,49 @@
       "version": 2616,
       "uid": "CdR2iTnQAg4bVY8",
       "runId": 2062549358
+    },
+    "JJouI9UBh20EpoB": {
+      "name": "Yordy",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 0,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        10,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "JJouI9UBh20EpoB",
+      "runId": 2062549358
+    },
+    "81R77D57o5dkajM": {
+      "name": "NumbraMani",
+      "char": 8,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 71,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        23,
+        21,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "81R77D57o5dkajM",
+      "runId": 2062549358
     }
   }
 }
