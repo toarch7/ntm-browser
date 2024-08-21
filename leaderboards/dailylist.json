@@ -783,6 +783,100 @@
       "version": 2616,
       "uid": "B51Qun2UAyM43RU",
       "runId": 2062549358
+    },
+    "veNM445KoAqLS4N": {
+      "name": "Тобепизда",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 6,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "veNM445KoAqLS4N",
+      "runId": 2062549358
+    },
+    "9Qf15a3R1Nr7hhG": {
+      "name": "soulol",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 22,
+      "win": false,
+      "kills": 224,
+      "ultra": 0,
+      "skills": [
+        4,
+        22,
+        3,
+        21,
+        16,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9Qf15a3R1Nr7hhG",
+      "runId": 2062549358
+    },
+    "vaa6opWCj55dlJK": {
+      "name": "Хасан",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 15,
+      "bwep": 23,
+      "win": false,
+      "kills": 373,
+      "ultra": 2,
+      "skills": [
+        23,
+        3,
+        1,
+        27,
+        12,
+        7,
+        9,
+        4,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "vaa6opWCj55dlJK",
+      "runId": 2062549358
+    },
+    "j7nPnT7YEbkJ974": {
+      "name": "rem",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 17,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        22,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "j7nPnT7YEbkJ974",
+      "runId": 2062549358
     }
   }
 }

@@ -671,6 +671,73 @@
       "version": 2616,
       "uid": "5kiciV30rGS7t3K",
       "runId": 1801956296
+    },
+    "veNM445KoAqLS4N": {
+      "name": "Тобепизда",
+      "char": 9,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 72,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        1,
+        13,
+        7,
+        16
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "veNM445KoAqLS4N",
+      "runId": 1801956296
+    },
+    "n3nYb6VMc2wDs7U": {
+      "name": "Tato",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 46,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        7
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "n3nYb6VMc2wDs7U",
+      "runId": 1801956296
+    },
+    "a7Ec8ULTnTkJpLi": {
+      "name": "kyltry",
+      "char": 9,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 14,
+      "win": false,
+      "kills": 186,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        10
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "a7Ec8ULTnTkJpLi",
+      "runId": 1801956296
     }
   }
 }
