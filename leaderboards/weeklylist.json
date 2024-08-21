@@ -564,10 +564,10 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 46,
-      "bwep": 18,
+      "wep": 14,
+      "bwep": 88,
       "win": false,
-      "kills": 58,
+      "kills": 62,
       "ultra": 0,
       "skills": [
         1,
@@ -576,6 +576,28 @@
       "crown": 11,
       "version": 2616,
       "uid": "6CWIxsFS7M4uarx",
+      "runId": 1801956296
+    },
+    "u1oFU0aHFKh696I": {
+      "name": "Митяй2009",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 15,
+      "bwep": 46,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        1,
+        13,
+        7
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "u1oFU0aHFKh696I",
       "runId": 1801956296
     }
   }
