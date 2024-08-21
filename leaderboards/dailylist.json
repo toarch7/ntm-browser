@@ -218,6 +218,49 @@
       "version": 2616,
       "uid": "UAiWcr5S5yFzoTr",
       "runId": 2062549358
+    },
+    "OWA9Ef1x10lnpe4": {
+      "name": "SachiUsui",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 5,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        23,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OWA9Ef1x10lnpe4",
+      "runId": 2062549358
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 89,
+      "win": false,
+      "kills": 192,
+      "ultra": 0,
+      "skills": [
+        10,
+        28,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 2062549358
     }
   }
 }
