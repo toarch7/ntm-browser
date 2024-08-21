@@ -679,6 +679,52 @@
       "version": 2616,
       "uid": "awsz3IZM7MT2QHj",
       "runId": 2062549358
+    },
+    "mw2dGF5doj1vH0Q": {
+      "name": "Blobster",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 2,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        4,
+        21,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mw2dGF5doj1vH0Q",
+      "runId": 2062549358
+    },
+    "5kiciV30rGS7t3K": {
+      "name": "bonnjo",
+      "char": 7,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 54,
+      "win": false,
+      "kills": 354,
+      "ultra": 0,
+      "skills": [
+        4,
+        3,
+        9,
+        27,
+        19
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "5kiciV30rGS7t3K",
+      "runId": 2062549358
     }
   }
 }
