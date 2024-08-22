@@ -403,19 +403,21 @@
       "name": "slayer",
       "char": 9,
       "skin": true,
-      "area": 104,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
       "wep": 38,
-      "bwep": 14,
+      "bwep": 69,
       "win": false,
-      "kills": 167,
+      "kills": 254,
       "ultra": 0,
       "skills": [
         1,
         8,
         7,
-        16
+        16,
+        14,
+        26
       ],
       "crown": 11,
       "version": 2616,
@@ -779,6 +781,27 @@
       "crown": 11,
       "version": 2616,
       "uid": "w3a7j0Mxv5W1v1p",
+      "runId": 1801956296
+    },
+    "UnP255JTJ96tamf": {
+      "name": "phonewholder",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 6,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        1,
+        13
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "UnP255JTJ96tamf",
       "runId": 1801956296
     }
   }
