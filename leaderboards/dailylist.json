@@ -507,6 +507,95 @@
       "version": 2616,
       "uid": "XdkMQGTJf3cq1KQ",
       "runId": 868870761
+    },
+    "rBmjgO3rT7f0W3e": {
+      "name": "foldtable",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 61,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        4,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rBmjgO3rT7f0W3e",
+      "runId": 868870761
+    },
+    "wj4zcqT5HwRRlOh": {
+      "name": "manochocco",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 4,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wj4zcqT5HwRRlOh",
+      "runId": 868870761
+    },
+    "uuG618z3fKffVMh": {
+      "name": "0",
+      "char": 5,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 76,
+      "win": false,
+      "kills": 310,
+      "ultra": 0,
+      "skills": [
+        4,
+        3,
+        7,
+        23,
+        17,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uuG618z3fKffVMh",
+      "runId": 868870761
+    },
+    "40uPfWj656Eg7KX": {
+      "name": "BetaPlayer[RU]",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 13,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        4,
+        25,
+        27,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "40uPfWj656Eg7KX",
+      "runId": 868870761
     }
   }
 }
