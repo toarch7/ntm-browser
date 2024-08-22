@@ -785,20 +785,23 @@
       "runId": 1801956296
     },
     "UnP255JTJ96tamf": {
-      "name": "phonewholder",
+      "name": "wrenchgod",
       "char": 9,
       "skin": true,
-      "area": 2,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
       "wep": 46,
-      "bwep": 6,
+      "bwep": 69,
       "win": false,
-      "kills": 66,
+      "kills": 144,
       "ultra": 0,
       "skills": [
         1,
-        13
+        13,
+        7,
+        3,
+        27
       ],
       "crown": 11,
       "version": 2616,
