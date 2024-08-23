@@ -701,6 +701,76 @@
       "version": 2616,
       "uid": "QIA6Fv0RJZZfM0B",
       "runId": 156284297
+    },
+    "0ette60fUkk63Zj": {
+      "name": "FehCosmic",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "0ette60fUkk63Zj",
+      "runId": 156284297
+    },
+    "1yW1L91iwRsKOED": {
+      "name": "blackbox007",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "1yW1L91iwRsKOED",
+      "runId": 156284297
+    },
+    "70iWaR72bfQ74Od": {
+      "name": "Вова",
+      "char": 15,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 0,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "70iWaR72bfQ74Od",
+      "runId": 156284297
+    },
+    "7m6rMl97DPjVY5B": {
+      "name": "huevominion",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 69,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        12,
+        27,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7m6rMl97DPjVY5B",
+      "runId": 156284297
     }
   }
 }
