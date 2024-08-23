@@ -1186,6 +1186,51 @@
       "version": 2616,
       "uid": "aUW0T18H8x1qY2B",
       "runId": 1801956296
+    },
+    "5C5JWSEuCR8Sv9B": {
+      "name": "5C5JWSEuCR8Sv9B",
+      "char": 9,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 88,
+      "win": false,
+      "kills": 146,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        2,
+        16
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "5C5JWSEuCR8Sv9B",
+      "runId": 1801956296
+    },
+    "n3Yn3syZkNbw8x7": {
+      "name": "Skeleton",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 69,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        7,
+        3,
+        2
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "n3Yn3syZkNbw8x7",
+      "runId": 1801956296
     }
   }
 }

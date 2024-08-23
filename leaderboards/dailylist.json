@@ -863,6 +863,63 @@
       "version": 2616,
       "uid": "b70RLSd27T5G7IQ",
       "runId": 156284297
+    },
+    "5C5JWSEuCR8Sv9B": {
+      "name": "5C5JWSEuCR8Sv9B",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 69,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5C5JWSEuCR8Sv9B",
+      "runId": 156284297
+    },
+    "jJuY6492F0sPb9N": {
+      "name": "Seeker9",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 1,
+      "win": false,
+      "kills": 34,
+      "crown": 1,
+      "version": 2616,
+      "uid": "jJuY6492F0sPb9N",
+      "runId": 156284297
+    },
+    "e5IWbVh9uU3A639": {
+      "name": "ROLAND",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 69,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        23,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "e5IWbVh9uU3A639",
+      "runId": 156284297
     }
   }
 }
