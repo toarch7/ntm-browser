@@ -322,6 +322,38 @@
       "version": 2616,
       "uid": "539n3jLTPf84f5a",
       "runId": 156284297
+    },
+    "W061wYQzf0I4W52": {
+      "name": "КРУШИ",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 15,
+      "crown": 1,
+      "version": 2616,
+      "uid": "W061wYQzf0I4W52",
+      "runId": 156284297
+    },
+    "vaa6opWCj55dlJK": {
+      "name": "Хасан",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 1,
+      "win": false,
+      "kills": 19,
+      "crown": 1,
+      "version": 2616,
+      "uid": "vaa6opWCj55dlJK",
+      "runId": 156284297
     }
   }
 }
