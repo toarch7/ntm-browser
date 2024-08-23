@@ -555,6 +555,77 @@
       "version": 2616,
       "uid": "a7Ec8ULTnTkJpLi",
       "runId": 156284297
+    },
+    "81R77D57o5dkajM": {
+      "name": "NumbraMani",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 10,
+      "win": false,
+      "kills": 289,
+      "ultra": 0,
+      "skills": [
+        23,
+        27,
+        9,
+        28,
+        10,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "81R77D57o5dkajM",
+      "runId": 156284297
+    },
+    "qJ3a025kIqMFm2X": {
+      "name": "Tupperware",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 11,
+      "win": false,
+      "kills": 372,
+      "ultra": 0,
+      "skills": [
+        3,
+        27,
+        7,
+        10,
+        4,
+        23,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qJ3a025kIqMFm2X",
+      "runId": 156284297
+    },
+    "aUW0T18H8x1qY2B": {
+      "name": "MalaPraxi",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 69,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aUW0T18H8x1qY2B",
+      "runId": 156284297
     }
   }
 }
