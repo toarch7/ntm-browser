@@ -268,6 +268,60 @@
       "version": 2616,
       "uid": "zrAyXpt3ukfO6RF",
       "runId": 156284297
+    },
+    "mw2dGF5doj1vH0Q": {
+      "name": "Blobster",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 69,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        23,
+        27,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mw2dGF5doj1vH0Q",
+      "runId": 156284297
+    },
+    "Y7L88XBgLHkN4lC": {
+      "name": "Havoc",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y7L88XBgLHkN4lC",
+      "runId": 156284297
+    },
+    "539n3jLTPf84f5a": {
+      "name": "Byeehana",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 23,
+      "crown": 1,
+      "version": 2616,
+      "uid": "539n3jLTPf84f5a",
+      "runId": 156284297
     }
   }
 }
