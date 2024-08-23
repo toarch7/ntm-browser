@@ -1,4 +1,104 @@
 {
   "day": 23,
-  "entries": {}
+  "entries": {
+    "bHIxdKcMRN01RhE": {
+      "name": "yan",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 69,
+      "win": false,
+      "kills": 39,
+      "crown": 1,
+      "version": 2616,
+      "uid": "bHIxdKcMRN01RhE",
+      "runId": 156284297
+    },
+    "Wq0wIvmZc5K4d6m": {
+      "name": "elhombrejhoniel",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 84,
+      "win": false,
+      "kills": 998,
+      "ultra": 1,
+      "skills": [
+        23,
+        7,
+        8,
+        4,
+        3,
+        6
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "Wq0wIvmZc5K4d6m",
+      "runId": 156284297
+    },
+    "OG6oUWfDQdLREP4": {
+      "name": "mskit",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 17,
+      "crown": 1,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
+      "runId": 156284297
+    },
+    "JJouI9UBh20EpoB": {
+      "name": "Yordy",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 0,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "JJouI9UBh20EpoB",
+      "runId": 156284297
+    },
+    "OWA9Ef1x10lnpe4": {
+      "name": "SachiUsui",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 17,
+      "win": false,
+      "kills": 161,
+      "ultra": 0,
+      "skills": [
+        12,
+        13,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OWA9Ef1x10lnpe4",
+      "runId": 156284297
+    }
+  }
 }
