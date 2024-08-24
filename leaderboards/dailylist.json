@@ -63,6 +63,44 @@
       "version": 2616,
       "uid": "70k74x16usx4RBs",
       "runId": 1684519311
+    },
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 0,
+      "win": false,
+      "kills": 20,
+      "crown": 1,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 1684519311
+    },
+    "Ry52m4OB749lCe3": {
+      "name": "Fake",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 17,
+      "win": false,
+      "kills": 154,
+      "ultra": 0,
+      "skills": [
+        23,
+        22,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ry52m4OB749lCe3",
+      "runId": 1684519311
     }
   }
 }
