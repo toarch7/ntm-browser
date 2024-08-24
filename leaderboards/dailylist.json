@@ -290,6 +290,48 @@
       "version": 2616,
       "uid": "539n3jLTPf84f5a",
       "runId": 1684519311
+    },
+    "hmM3z1Gvg9Gm2d0": {
+      "name": "Apostol",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 13,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        23,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "hmM3z1Gvg9Gm2d0",
+      "runId": 1684519311
+    },
+    "Y7L88XBgLHkN4lC": {
+      "name": "Havoc",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 17,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        23,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y7L88XBgLHkN4lC",
+      "runId": 1684519311
     }
   }
 }
