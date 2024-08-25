@@ -446,6 +446,42 @@
       "version": 2616,
       "uid": "L0otVmpxk326DE7",
       "runId": 708645170
+    },
+    "Y7L88XBgLHkN4lC": {
+      "name": "Havoc",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 1,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y7L88XBgLHkN4lC",
+      "runId": 708645170
+    },
+    "w20B0r75eP2CtnB": {
+      "name": "piskunchik",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2616,
+      "uid": "w20B0r75eP2CtnB",
+      "runId": 708645170
     }
   }
 }
