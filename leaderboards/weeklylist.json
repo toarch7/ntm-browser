@@ -1483,6 +1483,54 @@
       "version": 2616,
       "uid": "Lt43nu11M7k7FO2",
       "runId": 1801956296
+    },
+    "gwe4067EMKKPcxt": {
+      "name": "Ripneck",
+      "char": 9,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 79,
+      "win": false,
+      "kills": 374,
+      "ultra": 0,
+      "skills": [
+        1,
+        3,
+        7,
+        4,
+        10,
+        25,
+        17
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "gwe4067EMKKPcxt",
+      "runId": 1801956296
+    },
+    "6dG661D64uJ544r": {
+      "name": "seeker",
+      "char": 9,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 14,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        7,
+        13,
+        14
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "6dG661D64uJ544r",
+      "runId": 1801956296
     }
   }
 }
