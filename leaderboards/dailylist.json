@@ -393,6 +393,59 @@
       "version": 2616,
       "uid": "u1oFU0aHFKh696I",
       "runId": 708645170
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 708645170
+    },
+    "n3Yn3syZkNbw8x7": {
+      "name": "Skeleton",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 8,
+      "win": false,
+      "kills": 170,
+      "ultra": 0,
+      "skills": [
+        9,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "n3Yn3syZkNbw8x7",
+      "runId": 708645170
+    },
+    "L0otVmpxk326DE7": {
+      "name": "Robledo.$",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "L0otVmpxk326DE7",
+      "runId": 708645170
     }
   }
 }
