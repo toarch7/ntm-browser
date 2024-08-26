@@ -553,6 +553,44 @@
       "version": 2616,
       "uid": "Y7L88XBgLHkN4lC",
       "runId": 681433931
+    },
+    "2Jc21x46Oy9zAlO": {
+      "name": "Zuki",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "2Jc21x46Oy9zAlO",
+      "runId": 681433931
+    },
+    "g2Q1du6j6F1tSqS": {
+      "name": "Andusias",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 30,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        17,
+        3,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g2Q1du6j6F1tSqS",
+      "runId": 681433931
     }
   }
 }
