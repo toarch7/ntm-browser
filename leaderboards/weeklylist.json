@@ -1531,6 +1531,49 @@
       "version": 2616,
       "uid": "6dG661D64uJ544r",
       "runId": 1801956296
+    },
+    "ckSD2t2wYgR9J7N": {
+      "name": "Hy",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 15,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        7
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "ckSD2t2wYgR9J7N",
+      "runId": 1801956296
+    },
+    "316b58ln7rGlhw6": {
+      "name": "hombrema",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 69,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        3,
+        8
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "316b58ln7rGlhw6",
+      "runId": 1801956296
     }
   }
 }
