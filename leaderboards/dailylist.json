@@ -1,4 +1,54 @@
 {
   "day": 27,
-  "entries": {}
+  "entries": {
+    "gM3527CPzcTPqKo": {
+      "name": "Rhythm",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 5,
+      "win": false,
+      "kills": 185,
+      "ultra": 0,
+      "skills": [
+        17,
+        16,
+        4,
+        8,
+        9,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gM3527CPzcTPqKo",
+      "runId": 372630464
+    },
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 0,
+      "win": false,
+      "kills": 207,
+      "ultra": 0,
+      "skills": [
+        2,
+        13,
+        4,
+        8,
+        9
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 372630464
+    }
+  }
 }
