@@ -429,18 +429,19 @@
       "name": "charrott",
       "char": 1,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 6,
+      "subarea": 1,
       "loops": 0,
-      "wep": 69,
+      "wep": 75,
       "bwep": 111,
       "win": false,
-      "kills": 101,
+      "kills": 123,
       "ultra": 0,
       "skills": [
-        3,
+        14,
         1,
-        10
+        10,
+        26
       ],
       "crown": 5,
       "version": 2616,
@@ -488,6 +489,28 @@
       "crown": 5,
       "version": 2616,
       "uid": "Xf0O7tb3KGz2t28",
+      "runId": 1561809029
+    },
+    "egn83M3D437EUTz": {
+      "name": "unde",
+      "char": 1,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 7,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        7,
+        13,
+        14
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "egn83M3D437EUTz",
       "runId": 1561809029
     }
   }
