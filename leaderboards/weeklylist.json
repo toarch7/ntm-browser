@@ -1,4 +1,51 @@
 {
   "seed": 1561809029,
-  "entries": {}
+  "entries": {
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 111,
+      "bwep": 9,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        7,
+        28,
+        10
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 1561809029
+    },
+    "f8EHF3hx1tKY0f6": {
+      "name": "FBeagle2662",
+      "char": 1,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 111,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        7,
+        27,
+        13,
+        1,
+        17
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "f8EHF3hx1tKY0f6",
+      "runId": 1561809029
+    }
+  }
 }
