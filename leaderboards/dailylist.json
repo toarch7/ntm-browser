@@ -362,6 +362,52 @@
       "version": 2616,
       "uid": "LPwd64FCSJf02nZ",
       "runId": 372630464
+    },
+    "Ry52m4OB749lCe3": {
+      "name": "Fake",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 90,
+      "bwep": 111,
+      "win": false,
+      "kills": 1222,
+      "ultra": 1,
+      "skills": [
+        17,
+        23,
+        4,
+        27,
+        22,
+        3,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "Ry52m4OB749lCe3",
+      "runId": 372630464
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 5,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 372630464
     }
   }
 }
