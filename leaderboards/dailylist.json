@@ -217,6 +217,72 @@
       "version": 2616,
       "uid": "4GO416cYDkqPYkR",
       "runId": 372630464
+    },
+    "n3Yn3syZkNbw8x7": {
+      "name": "Skeleton",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 7,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n3Yn3syZkNbw8x7",
+      "runId": 372630464
+    },
+    "9Qf15a3R1Nr7hhG": {
+      "name": "soulol",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 7,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9Qf15a3R1Nr7hhG",
+      "runId": 372630464
+    },
+    "g2Q1du6j6F1tSqS": {
+      "name": "Andusias",
+      "char": 10,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 35,
+      "win": false,
+      "kills": 1222,
+      "ultra": 2,
+      "skills": [
+        17,
+        23,
+        4,
+        27,
+        9,
+        1,
+        14
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "g2Q1du6j6F1tSqS",
+      "runId": 372630464
     }
   }
 }
