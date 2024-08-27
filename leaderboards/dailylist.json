@@ -93,6 +93,87 @@
       "version": 2616,
       "uid": "QG253Pt5dYzFRCL",
       "runId": 372630464
+    },
+    "e5IWbVh9uU3A639": {
+      "name": "ROLAND",
+      "char": 12,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 81,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "e5IWbVh9uU3A639",
+      "runId": 372630464
+    },
+    "UnP255JTJ96tamf": {
+      "name": "wrenchgod",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 17,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        17,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "UnP255JTJ96tamf",
+      "runId": 372630464
+    },
+    "fQXRuxs4bMbf4F8": {
+      "name": "Femlad",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 37,
+      "win": false,
+      "kills": 166,
+      "ultra": 0,
+      "skills": [
+        17,
+        23,
+        4,
+        27,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "fQXRuxs4bMbf4F8",
+      "runId": 372630464
+    },
+    "pKmNpmR2LUw73sz": {
+      "name": "m",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 16,
+      "crown": 1,
+      "version": 2616,
+      "uid": "pKmNpmR2LUw73sz",
+      "runId": 372630464
     }
   }
 }
