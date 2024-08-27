@@ -493,6 +493,50 @@
       "version": 2616,
       "uid": "m96PH9ISC2JCNsw",
       "runId": 372630464
+    },
+    "84v5o319SCE458g": {
+      "name": "Losar",
+      "char": 11,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 15,
+      "bwep": 69,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        17,
+        23,
+        1,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "84v5o319SCE458g",
+      "runId": 372630464
+    },
+    "Y7L88XBgLHkN4lC": {
+      "name": "Havoc",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 7,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        19,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y7L88XBgLHkN4lC",
+      "runId": 372630464
     }
   }
 }
