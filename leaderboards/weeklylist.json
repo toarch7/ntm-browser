@@ -816,6 +816,29 @@
       "version": 2616,
       "uid": "W5rnxqd90ZdVc7B",
       "runId": 1561809029
+    },
+    "NkWpFgdE1dMgoFx": {
+      "name": "slayer",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 11,
+      "win": false,
+      "kills": 164,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        16,
+        26
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "NkWpFgdE1dMgoFx",
+      "runId": 1561809029
     }
   }
 }
