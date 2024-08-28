@@ -862,6 +862,31 @@
       "version": 2616,
       "uid": "gHQ1N10DX2iMb08",
       "runId": 1561809029
+    },
+    "gwe4067EMKKPcxt": {
+      "name": "Ripneck",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 72,
+      "win": false,
+      "kills": 209,
+      "ultra": 0,
+      "skills": [
+        3,
+        7,
+        10,
+        17,
+        23,
+        28
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "gwe4067EMKKPcxt",
+      "runId": 1561809029
     }
   }
 }

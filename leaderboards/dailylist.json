@@ -715,6 +715,93 @@
       "version": 2616,
       "uid": "gHQ1N10DX2iMb08",
       "runId": 69729516
+    },
+    "e5IWbVh9uU3A639": {
+      "name": "ROLAND",
+      "char": 12,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 81,
+      "win": false,
+      "kills": 181,
+      "ultra": 0,
+      "skills": [
+        16,
+        6,
+        27,
+        17
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "e5IWbVh9uU3A639",
+      "runId": 69729516
+    },
+    "X9Zv0od46x5hKsH": {
+      "name": "X9Zv0od46x5hKsH",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 3,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        16,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "X9Zv0od46x5hKsH",
+      "runId": 69729516
+    },
+    "gwe4067EMKKPcxt": {
+      "name": "Ripneck",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 21,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        23,
+        19,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gwe4067EMKKPcxt",
+      "runId": 69729516
+    },
+    "Kp5BIm5rT4U9BAI": {
+      "name": "plutogod",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        16,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Kp5BIm5rT4U9BAI",
+      "runId": 69729516
     }
   }
 }
