@@ -373,6 +373,64 @@
       "version": 2616,
       "uid": "UnP255JTJ96tamf",
       "runId": 69729516
+    },
+    "qJ3a025kIqMFm2X": {
+      "name": "Tupperware",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 89,
+      "win": false,
+      "kills": 347,
+      "ultra": 0,
+      "skills": [
+        23,
+        6,
+        27,
+        13,
+        25,
+        22,
+        7
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "qJ3a025kIqMFm2X",
+      "runId": 69729516
+    },
+    "qS1BkwkqD9XHe7U": {
+      "name": "Nacs",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "qS1BkwkqD9XHe7U",
+      "runId": 69729516
+    },
+    "Y7L88XBgLHkN4lC": {
+      "name": "Havoc",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y7L88XBgLHkN4lC",
+      "runId": 69729516
     }
   }
 }
