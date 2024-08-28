@@ -909,6 +909,27 @@
       "version": 2616,
       "uid": "i5nlNqpZg1GEph7",
       "runId": 1561809029
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 111,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        7,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 1561809029
     }
   }
 }
