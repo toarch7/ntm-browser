@@ -1297,6 +1297,50 @@
       "version": 2616,
       "uid": "o24maudW59Ag55M",
       "runId": 1561809029
+    },
+    "1ZyXM2p0czSLytC": {
+      "name": "Toddynho",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 111,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        3,
+        27,
+        16
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "1ZyXM2p0czSLytC",
+      "runId": 1561809029
+    },
+    "6dG661D64uJ544r": {
+      "name": "seeker",
+      "char": 1,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 41,
+      "bwep": 23,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        13
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "6dG661D64uJ544r",
+      "runId": 1561809029
     }
   }
 }
