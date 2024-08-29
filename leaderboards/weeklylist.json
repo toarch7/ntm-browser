@@ -1341,6 +1341,52 @@
       "version": 2616,
       "uid": "6dG661D64uJ544r",
       "runId": 1561809029
+    },
+    "WQt283AYMFl7F7N": {
+      "name": "heisenballs",
+      "char": 1,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 111,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        7,
+        27,
+        13,
+        17
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "WQt283AYMFl7F7N",
+      "runId": 1561809029
+    },
+    "Y5r4yfp0tRLeArW": {
+      "name": "polla",
+      "char": 1,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 111,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        13,
+        17
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "Y5r4yfp0tRLeArW",
+      "runId": 1561809029
     }
   }
 }
