@@ -554,6 +554,78 @@
       "version": 2616,
       "uid": "3g2PO49IT6GfR32",
       "runId": 1704873655
+    },
+    "mQ6dxSp1osVs2vM": {
+      "name": "souvlaki",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 44,
+      "bwep": 10,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        19,
+        27,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mQ6dxSp1osVs2vM",
+      "runId": 1704873655
+    },
+    "ti20qzaJZQZ86cB": {
+      "name": "Elgordox66",
+      "char": 12,
+      "skin": false,
+      "area": 106,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 74,
+      "win": false,
+      "kills": 759,
+      "ultra": 1,
+      "skills": [
+        7,
+        27,
+        19,
+        1,
+        21,
+        9,
+        8
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "ti20qzaJZQZ86cB",
+      "runId": 1704873655
+    },
+    "9P8BCCDQYLNv806": {
+      "name": "DND",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 10,
+      "win": false,
+      "kills": 217,
+      "ultra": 0,
+      "skills": [
+        7,
+        27,
+        9,
+        1,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9P8BCCDQYLNv806",
+      "runId": 1704873655
     }
   }
 }
