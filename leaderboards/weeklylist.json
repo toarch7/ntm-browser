@@ -75,13 +75,13 @@
       "name": "hollowknight616",
       "char": 1,
       "skin": true,
-      "area": 104,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 14,
+      "wep": 112,
       "bwep": 111,
       "win": false,
-      "kills": 152,
+      "kills": 163,
       "ultra": 0,
       "skills": [
         7,
@@ -1737,6 +1737,28 @@
       "crown": 5,
       "version": 2616,
       "uid": "n3Yn3syZkNbw8x7",
+      "runId": 1561809029
+    },
+    "emqdZ1HB5khXMrv": {
+      "name": "educs",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 5,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        13
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "emqdZ1HB5khXMrv",
       "runId": 1561809029
     }
   }
