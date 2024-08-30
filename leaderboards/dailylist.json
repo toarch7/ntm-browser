@@ -646,6 +646,47 @@
       "version": 2616,
       "uid": "2uRB2i4pDCWT3bj",
       "runId": 1704873655
+    },
+    "10wSX8a4mzg1LA8": {
+      "name": "ferugar",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 6,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "10wSX8a4mzg1LA8",
+      "runId": 1704873655
+    },
+    "b70RLSd27T5G7IQ": {
+      "name": "zay",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "b70RLSd27T5G7IQ",
+      "runId": 1704873655
     }
   }
 }
