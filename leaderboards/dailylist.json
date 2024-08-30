@@ -295,6 +295,53 @@
       "version": 2616,
       "uid": "R6y2G9h8pMVtS62",
       "runId": 1704873655
+    },
+    "g2Q1du6j6F1tSqS": {
+      "name": "Andusias",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 75,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        19,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g2Q1du6j6F1tSqS",
+      "runId": 1704873655
+    },
+    "9Qf15a3R1Nr7hhG": {
+      "name": "soulol",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 57,
+      "bwep": 116,
+      "win": false,
+      "kills": 482,
+      "ultra": 2,
+      "skills": [
+        7,
+        27,
+        16,
+        1,
+        6,
+        9,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9Qf15a3R1Nr7hhG",
+      "runId": 1704873655
     }
   }
 }
