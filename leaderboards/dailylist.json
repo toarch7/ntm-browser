@@ -189,6 +189,42 @@
       "version": 2616,
       "uid": "4GO416cYDkqPYkR",
       "runId": 1704873655
+    },
+    "t62kZJ7RMO85Zs7": {
+      "name": "Kuu",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 17,
+      "win": false,
+      "kills": 31,
+      "crown": 1,
+      "version": 2616,
+      "uid": "t62kZJ7RMO85Zs7",
+      "runId": 1704873655
+    },
+    "cIhcZfo5su932pH": {
+      "name": "nothing7",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cIhcZfo5su932pH",
+      "runId": 1704873655
     }
   }
 }

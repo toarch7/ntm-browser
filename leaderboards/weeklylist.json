@@ -200,16 +200,17 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 26,
-      "bwep": 111,
+      "wep": 13,
+      "bwep": 58,
       "win": false,
-      "kills": 213,
+      "kills": 235,
       "ultra": 0,
       "skills": [
-        14,
         1,
-        10,
-        17
+        13,
+        7,
+        17,
+        8
       ],
       "crown": 5,
       "version": 2616,
@@ -1572,6 +1573,29 @@
       "crown": 5,
       "version": 2616,
       "uid": "R3EJKeT9beUgGYZ",
+      "runId": 1561809029
+    },
+    "htwDrRt3F8rktC5": {
+      "name": "null",
+      "char": 1,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 23,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        13,
+        17
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "htwDrRt3F8rktC5",
       "runId": 1561809029
     }
   }
