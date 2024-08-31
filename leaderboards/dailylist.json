@@ -216,6 +216,28 @@
       "version": 2616,
       "uid": "9Qf15a3R1Nr7hhG",
       "runId": 529954161
+    },
+    "qJ3a025kIqMFm2X": {
+      "name": "Tupperware",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 36,
+      "bwep": 39,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        25,
+        13,
+        27
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "qJ3a025kIqMFm2X",
+      "runId": 529954161
     }
   }
 }
