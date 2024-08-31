@@ -174,6 +174,48 @@
       "version": 2616,
       "uid": "10wSX8a4mzg1LA8",
       "runId": 529954161
+    },
+    "V4Uwy2GTk7K0xGi": {
+      "name": "loona",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "V4Uwy2GTk7K0xGi",
+      "runId": 529954161
+    },
+    "9Qf15a3R1Nr7hhG": {
+      "name": "soulol",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 34,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        25,
+        3,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9Qf15a3R1Nr7hhG",
+      "runId": 529954161
     }
   }
 }
