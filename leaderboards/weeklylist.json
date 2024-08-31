@@ -1749,15 +1749,15 @@
       "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 5,
+      "wep": 111,
+      "bwep": 69,
       "win": false,
-      "kills": 86,
+      "kills": 88,
       "ultra": 0,
       "skills": [
         7,
         1,
-        13
+        10
       ],
       "crown": 5,
       "version": 2616,
@@ -1930,21 +1930,22 @@
       "char": 1,
       "skin": true,
       "area": 7,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 26,
-      "bwep": 105,
+      "wep": 111,
+      "bwep": 26,
       "win": false,
-      "kills": 284,
+      "kills": 301,
       "ultra": 0,
       "skills": [
-        7,
-        1,
-        16,
         14,
+        7,
+        16,
+        1,
         17,
         8,
-        25
+        25,
+        28
       ],
       "crown": 5,
       "version": 2616,
@@ -2048,6 +2049,29 @@
       "crown": 5,
       "version": 2616,
       "uid": "02dlUAMl8M41n61",
+      "runId": 1561809029
+    },
+    "85zOfo9a53TWSNw": {
+      "name": "3mir52",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 111,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        23,
+        14
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "85zOfo9a53TWSNw",
       "runId": 1561809029
     }
   }
