@@ -2218,6 +2218,32 @@
       "version": 2616,
       "uid": "T78r98JIq5MZYzw",
       "runId": 1561809029
+    },
+    "7f1yikTtvFh13C2": {
+      "name": "Skeletonking",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 111,
+      "win": false,
+      "kills": 285,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        13,
+        14,
+        17,
+        8,
+        3
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "7f1yikTtvFh13C2",
+      "runId": 1561809029
     }
   }
 }
