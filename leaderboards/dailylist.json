@@ -1,4 +1,69 @@
 {
   "day": 1,
-  "entries": {}
+  "entries": {
+    "fQXRuxs4bMbf4F8": {
+      "name": "Femlad",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 115,
+      "bwep": 55,
+      "win": false,
+      "kills": 399,
+      "ultra": 0,
+      "skills": [
+        9,
+        25,
+        22,
+        14,
+        27,
+        2,
+        23,
+        4
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "fQXRuxs4bMbf4F8",
+      "runId": 476155358
+    },
+    "OG6oUWfDQdLREP4": {
+      "name": "mskit",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        28,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
+      "runId": 476155358
+    },
+    "Wrg2Kxx43k6181X": {
+      "name": "DemenciaFTW",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 81,
+      "win": false,
+      "kills": 25,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Wrg2Kxx43k6181X",
+      "runId": 476155358
+    }
+  }
 }
