@@ -265,6 +265,51 @@
       "version": 2616,
       "uid": "UAiWcr5S5yFzoTr",
       "runId": 476155358
+    },
+    "Ry52m4OB749lCe3": {
+      "name": "Fake",
+      "char": 2,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 112,
+      "win": false,
+      "kills": 170,
+      "ultra": 0,
+      "skills": [
+        16,
+        25,
+        22,
+        14,
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "Ry52m4OB749lCe3",
+      "runId": 476155358
+    },
+    "Y7L88XBgLHkN4lC": {
+      "name": "Havoc",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 4,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        28,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y7L88XBgLHkN4lC",
+      "runId": 476155358
     }
   }
 }
