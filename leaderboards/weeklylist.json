@@ -2060,19 +2060,19 @@
       "name": "3mir52",
       "char": 1,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 13,
+      "wep": 88,
       "bwep": 111,
       "win": false,
-      "kills": 135,
+      "kills": 144,
       "ultra": 0,
       "skills": [
-        7,
+        14,
         1,
-        23,
-        14
+        13,
+        7
       ],
       "crown": 5,
       "version": 2616,
@@ -2173,6 +2173,29 @@
       "crown": 5,
       "version": 2616,
       "uid": "Lz241EO10OwYbAw",
+      "runId": 1561809029
+    },
+    "tx4mfvrmTd6uR40": {
+      "name": "El4ndroid",
+      "char": 1,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 111,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        10,
+        7
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "tx4mfvrmTd6uR40",
       "runId": 1561809029
     }
   }
