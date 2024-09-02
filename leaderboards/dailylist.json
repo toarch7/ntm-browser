@@ -440,6 +440,79 @@
       "version": 2616,
       "uid": "g2Q1du6j6F1tSqS",
       "runId": 75148299
+    },
+    "7A2LaIWONrUqNwC": {
+      "name": "Hiajen",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7A2LaIWONrUqNwC",
+      "runId": 75148299
+    },
+    "gM3527CPzcTPqKo": {
+      "name": "Rhythm",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 47,
+      "bwep": 58,
+      "win": false,
+      "kills": 1150,
+      "ultra": 2,
+      "skills": [
+        17,
+        9,
+        14,
+        10,
+        27,
+        22,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gM3527CPzcTPqKo",
+      "runId": 75148299
+    },
+    "2H0D2J905H4I789": {
+      "name": "uliiiii",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 116,
+      "win": false,
+      "kills": 418,
+      "ultra": 0,
+      "skills": [
+        17,
+        9,
+        14,
+        1,
+        25,
+        7,
+        10,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2H0D2J905H4I789",
+      "runId": 75148299
     }
   }
 }
