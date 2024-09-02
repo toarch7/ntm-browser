@@ -60,6 +60,45 @@
       "version": 2616,
       "uid": "Ry52m4OB749lCe3",
       "runId": 75148299
+    },
+    "77mpWyl92T8dW74": {
+      "name": "Seeker52",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "77mpWyl92T8dW74",
+      "runId": 75148299
+    },
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 0,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        13,
+        28,
+        1,
+        22
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 75148299
     }
   }
 }
