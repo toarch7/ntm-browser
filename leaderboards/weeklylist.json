@@ -2370,12 +2370,12 @@
       "char": 1,
       "skin": true,
       "area": 5,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 11,
+      "wep": 113,
       "bwep": 111,
       "win": false,
-      "kills": 185,
+      "kills": 247,
       "ultra": 0,
       "skills": [
         3,
@@ -2387,6 +2387,27 @@
       "crown": 5,
       "version": 2616,
       "uid": "ySBBTqEZ6hG0Sn6",
+      "runId": 1561809029
+    },
+    "40uPfWj656Eg7KX": {
+      "name": "BetaPlayer[RU]",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 69,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        7,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "40uPfWj656Eg7KX",
       "runId": 1561809029
     }
   }
