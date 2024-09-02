@@ -231,6 +231,68 @@
       "version": 2616,
       "uid": "0hNF015Lqqv3z52",
       "runId": 75148299
+    },
+    "Lc1J3BqD27133V7": {
+      "name": "вася228",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Lc1J3BqD27133V7",
+      "runId": 75148299
+    },
+    "UnP255JTJ96tamf": {
+      "name": "wrenchgod",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "UnP255JTJ96tamf",
+      "runId": 75148299
+    },
+    "Y7L88XBgLHkN4lC": {
+      "name": "Havoc",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 78,
+      "win": false,
+      "kills": 173,
+      "ultra": 0,
+      "skills": [
+        17,
+        9,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y7L88XBgLHkN4lC",
+      "runId": 75148299
     }
   }
 }
