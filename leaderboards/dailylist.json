@@ -549,6 +549,27 @@
       "version": 2616,
       "uid": "i401EANV6az914m",
       "runId": 75148299
+    },
+    "8EJRW7Ra1DC2kY0": {
+      "name": "lever",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 8,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        24,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8EJRW7Ra1DC2kY0",
+      "runId": 75148299
     }
   }
 }
