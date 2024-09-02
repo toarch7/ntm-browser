@@ -18,6 +18,48 @@
       "version": 2616,
       "uid": "70k74x16usx4RBs",
       "runId": 75148299
+    },
+    "586D07O76DQr8BK": {
+      "name": "Seek",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "586D07O76DQr8BK",
+      "runId": 75148299
+    },
+    "Ry52m4OB749lCe3": {
+      "name": "Fake",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 90,
+      "bwep": 114,
+      "win": false,
+      "kills": 513,
+      "ultra": 1,
+      "skills": [
+        17,
+        9,
+        14,
+        3,
+        27,
+        22,
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "Ry52m4OB749lCe3",
+      "runId": 75148299
     }
   }
 }
