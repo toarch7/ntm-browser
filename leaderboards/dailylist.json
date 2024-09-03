@@ -292,6 +292,50 @@
       "version": 2616,
       "uid": "gM3527CPzcTPqKo",
       "runId": 13041627
+    },
+    "6OsO6U0eI4yD8n9": {
+      "name": "Saltero",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 69,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6OsO6U0eI4yD8n9",
+      "runId": 13041627
+    },
+    "fw5S1UfnhkI086O": {
+      "name": "Brzxo",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 57,
+      "win": false,
+      "kills": 230,
+      "ultra": 0,
+      "skills": [
+        27,
+        14,
+        4,
+        17,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "fw5S1UfnhkI086O",
+      "runId": 13041627
     }
   }
 }
