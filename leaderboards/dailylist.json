@@ -82,6 +82,68 @@
       "version": 2616,
       "uid": "8EJRW7Ra1DC2kY0",
       "runId": 1496047272
+    },
+    "7E1bD6P8IN76MFF": {
+      "name": "Seeker9",
+      "char": 6,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 39,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        7,
+        22
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "7E1bD6P8IN76MFF",
+      "runId": 1496047272
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 3,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 3,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        27,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 1496047272
+    },
+    "40uPfWj656Eg7KX": {
+      "name": "BetaPlayer[RU]",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 4,
+      "win": false,
+      "kills": 22,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "40uPfWj656Eg7KX",
+      "runId": 1496047272
     }
   }
 }
