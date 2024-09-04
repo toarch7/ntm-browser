@@ -41,6 +41,47 @@
       "version": 2616,
       "uid": "Ry52m4OB749lCe3",
       "runId": 1496047272
+    },
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 0,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 1496047272
+    },
+    "8EJRW7Ra1DC2kY0": {
+      "name": "lever",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 4,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8EJRW7Ra1DC2kY0",
+      "runId": 1496047272
     }
   }
 }
