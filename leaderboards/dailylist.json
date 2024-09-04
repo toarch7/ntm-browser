@@ -242,6 +242,67 @@
       "version": 2616,
       "uid": "fQXRuxs4bMbf4F8",
       "runId": 1496047272
+    },
+    "eeZ92298PI09uOH": {
+      "name": "MrKulduk",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        9,
+        7,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "eeZ92298PI09uOH",
+      "runId": 1496047272
+    },
+    "mQ6dxSp1osVs2vM": {
+      "name": "souvlaki",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 9,
+      "win": false,
+      "kills": 171,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        16,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mQ6dxSp1osVs2vM",
+      "runId": 1496047272
+    },
+    "5RaOKFhlN1lgWjT": {
+      "name": "Intanasional",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "5RaOKFhlN1lgWjT",
+      "runId": 1496047272
     }
   }
 }
