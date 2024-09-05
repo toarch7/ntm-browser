@@ -610,6 +610,47 @@
       "version": 2616,
       "uid": "cIhcZfo5su932pH",
       "runId": 582918198
+    },
+    "V7Vf1Xc7SKA4drW": {
+      "name": "HerKing",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 69,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        10,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "V7Vf1Xc7SKA4drW",
+      "runId": 582918198
+    },
+    "4H3OC45AHY9i2H6": {
+      "name": "клюшкавхую",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 3,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4H3OC45AHY9i2H6",
+      "runId": 582918198
     }
   }
 }
