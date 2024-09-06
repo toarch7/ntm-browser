@@ -268,6 +268,45 @@
       "version": 2616,
       "uid": "gM3527CPzcTPqKo",
       "runId": 833845854
+    },
+    "6W65Q2308LyR42b": {
+      "name": "Seeker2",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": 2616,
+      "uid": "6W65Q2308LyR42b",
+      "runId": 833845854
+    },
+    "qJ3a025kIqMFm2X": {
+      "name": "Tupperware",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 17,
+      "win": false,
+      "kills": 235,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        7,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qJ3a025kIqMFm2X",
+      "runId": 833845854
     }
   }
 }
