@@ -367,6 +367,47 @@
       "version": 2616,
       "uid": "CM312LhJ9lrKk0s",
       "runId": 833845854
+    },
+    "h3H6fjEbB17a6VQ": {
+      "name": "MEGACHEECKS",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 16,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        14,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h3H6fjEbB17a6VQ",
+      "runId": 833845854
+    },
+    "rBmjgO3rT7f0W3e": {
+      "name": "foldtable",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rBmjgO3rT7f0W3e",
+      "runId": 833845854
     }
   }
 }
