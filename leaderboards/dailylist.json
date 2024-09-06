@@ -201,6 +201,73 @@
       "version": 2616,
       "uid": "cvxYJdb4mNM943l",
       "runId": 833845854
+    },
+    "6F5m8YXncf5OGr4": {
+      "name": "сникерс",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 69,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6F5m8YXncf5OGr4",
+      "runId": 833845854
+    },
+    "hE2bKHcFTu4u0NZ": {
+      "name": "ikky",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 76,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        28,
+        4,
+        7,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "hE2bKHcFTu4u0NZ",
+      "runId": 833845854
+    },
+    "gM3527CPzcTPqKo": {
+      "name": "Rhythm",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 5,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        14,
+        4,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gM3527CPzcTPqKo",
+      "runId": 833845854
     }
   }
 }
