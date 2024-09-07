@@ -142,6 +142,50 @@
       "version": 2616,
       "uid": "oG03DKIbDRYOpjG",
       "runId": 134261831
+    },
+    "Y7L88XBgLHkN4lC": {
+      "name": "Havoc",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        25,
+        19,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y7L88XBgLHkN4lC",
+      "runId": 134261831
+    },
+    "UAiWcr5S5yFzoTr": {
+      "name": "Moose",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "UAiWcr5S5yFzoTr",
+      "runId": 134261831
     }
   }
 }
