@@ -465,6 +465,44 @@
       "version": 2616,
       "uid": "9Qf15a3R1Nr7hhG",
       "runId": 134261831
+    },
+    "30OA4W5S3XI4IdG": {
+      "name": "bonnjo",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "30OA4W5S3XI4IdG",
+      "runId": 134261831
+    },
+    "X0x8Q4vP1g357ZD": {
+      "name": "cristian",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 5,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        8,
+        17,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "X0x8Q4vP1g357ZD",
+      "runId": 134261831
     }
   }
 }
