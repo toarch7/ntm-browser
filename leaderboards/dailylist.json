@@ -621,6 +621,30 @@
       "version": 2616,
       "uid": "wsNYG0Lay56LMUz",
       "runId": 134261831
+    },
+    "mQ6dxSp1osVs2vM": {
+      "name": "souvlaki",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 9,
+      "win": false,
+      "kills": 259,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        6,
+        23,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mQ6dxSp1osVs2vM",
+      "runId": 134261831
     }
   }
 }
