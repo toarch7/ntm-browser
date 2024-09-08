@@ -44,6 +44,45 @@
       "version": 2616,
       "uid": "H5dV645bca27OVy",
       "runId": 391889558
+    },
+    "lC4sZC8L81G8Hb8": {
+      "name": "ILoveMyWife",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "lC4sZC8L81G8Hb8",
+      "runId": 391889558
+    },
+    "bpa1O1p16Br2s0o": {
+      "name": "angru",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 7,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        25,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bpa1O1p16Br2s0o",
+      "runId": 391889558
     }
   }
 }
