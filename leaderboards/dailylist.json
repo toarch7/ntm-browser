@@ -313,6 +313,71 @@
       "version": 2616,
       "uid": "1d7nkIoCg0oGoi6",
       "runId": 391889558
+    },
+    "7m6rMl97DPjVY5B": {
+      "name": "huevominion",
+      "char": 10,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7m6rMl97DPjVY5B",
+      "runId": 391889558
+    },
+    "Ry52m4OB749lCe3": {
+      "name": "Fake",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 30,
+      "win": false,
+      "kills": 239,
+      "ultra": 0,
+      "skills": [
+        22,
+        1,
+        16,
+        27,
+        21,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ry52m4OB749lCe3",
+      "runId": 391889558
+    },
+    "6a30bn828j9ZNr4": {
+      "name": "pizzano",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 7,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6a30bn828j9ZNr4",
+      "runId": 391889558
     }
   }
 }
