@@ -1752,6 +1752,27 @@
       "version": 2616,
       "uid": "KWME8W4ER7IL5Oq",
       "runId": 1272610268
+    },
+    "5Sy06bRaQpBg0E7": {
+      "name": "рога",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 0,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        1,
+        13
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "5Sy06bRaQpBg0E7",
+      "runId": 1272610268
     }
   }
 }
