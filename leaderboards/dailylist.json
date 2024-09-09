@@ -39,6 +39,75 @@
       "version": 2616,
       "uid": "lC4sZC8L81G8Hb8",
       "runId": 1053821704
+    },
+    "W36AYDnfg5H5mwJ": {
+      "name": "3ds",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 43,
+      "win": false,
+      "kills": 374,
+      "ultra": 0,
+      "skills": [
+        8,
+        21,
+        4,
+        13,
+        9,
+        17
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "W36AYDnfg5H5mwJ",
+      "runId": 1053821704
+    },
+    "b0U2A9881500y77": {
+      "name": "Seeker90",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "b0U2A9881500y77",
+      "runId": 1053821704
+    },
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 0,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        28,
+        10,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 1053821704
     }
   }
 }
