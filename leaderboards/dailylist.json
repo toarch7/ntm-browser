@@ -108,6 +108,46 @@
       "version": 2616,
       "uid": "H5dV645bca27OVy",
       "runId": 1053821704
+    },
+    "XdkMQGTJf3cq1KQ": {
+      "name": "XDoctor",
+      "char": 14,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 11,
+      "win": false,
+      "kills": 204,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        23,
+        4,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XdkMQGTJf3cq1KQ",
+      "runId": 1053821704
+    },
+    "7Otb8MKme2Mzm07": {
+      "name": "soup",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "7Otb8MKme2Mzm07",
+      "runId": 1053821704
     }
   }
 }
