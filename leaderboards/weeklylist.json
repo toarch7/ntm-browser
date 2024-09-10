@@ -524,13 +524,13 @@
       "name": "piskunchik",
       "char": 8,
       "skin": true,
-      "area": 7,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 64,
-      "bwep": 36,
+      "wep": 26,
+      "bwep": 13,
       "win": false,
-      "kills": 162,
+      "kills": 199,
       "ultra": 0,
       "skills": [
         28,
@@ -538,7 +538,8 @@
         23,
         2,
         13,
-        7
+        7,
+        10
       ],
       "crown": 8,
       "version": 2616,
@@ -568,6 +569,55 @@
       "crown": 8,
       "version": 2616,
       "uid": "H5dV645bca27OVy",
+      "runId": 1024574110
+    },
+    "jHGP5U8dezYsBE1": {
+      "name": "charrott",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 33,
+      "win": false,
+      "kills": 229,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13,
+        7,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "jHGP5U8dezYsBE1",
+      "runId": 1024574110
+    },
+    "UAiWcr5S5yFzoTr": {
+      "name": "Moose",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 30,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "UAiWcr5S5yFzoTr",
       "runId": 1024574110
     }
   }
