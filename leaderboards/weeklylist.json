@@ -56,12 +56,12 @@
       "char": 8,
       "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 64,
-      "bwep": 13,
+      "wep": 13,
+      "bwep": 64,
       "win": false,
-      "kills": 191,
+      "kills": 227,
       "ultra": 0,
       "skills": [
         28,
@@ -69,7 +69,8 @@
         23,
         2,
         13,
-        7
+        7,
+        10
       ],
       "crown": 8,
       "version": 2616,
@@ -932,20 +933,21 @@
       "name": "ragnar",
       "char": 8,
       "skin": true,
-      "area": 3,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
       "wep": 13,
       "bwep": 64,
       "win": false,
-      "kills": 92,
+      "kills": 144,
       "ultra": 0,
       "skills": [
         28,
         25,
         23,
         2,
-        13
+        13,
+        7
       ],
       "crown": 8,
       "version": 2616,
@@ -996,6 +998,30 @@
       "crown": 8,
       "version": 2616,
       "uid": "3A08tu5U3eX67Bh",
+      "runId": 1024574110
+    },
+    "Wq0wIvmZc5K4d6m": {
+      "name": "elhombrejhoniel",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 64,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "Wq0wIvmZc5K4d6m",
       "runId": 1024574110
     }
   }
