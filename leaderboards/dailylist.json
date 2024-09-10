@@ -464,6 +464,47 @@
       "version": 2616,
       "uid": "9Myy5BZdkIB99jJ",
       "runId": 1012720258
+    },
+    "6mKywl868n01T5V": {
+      "name": "Армянин",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 63,
+      "win": false,
+      "kills": 290,
+      "ultra": 0,
+      "skills": [
+        17,
+        21,
+        12,
+        27,
+        4,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6mKywl868n01T5V",
+      "runId": 1012720258
+    },
+    "KQhuB4k6v84iEp3": {
+      "name": "nigga",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": 2616,
+      "uid": "KQhuB4k6v84iEp3",
+      "runId": 1012720258
     }
   }
 }
