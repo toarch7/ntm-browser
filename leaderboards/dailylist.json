@@ -240,6 +240,75 @@
       "version": 2616,
       "uid": "7p9h539IObDu30U",
       "runId": 1012720258
+    },
+    "w20B0r75eP2CtnB": {
+      "name": "piskunchik",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 113,
+      "win": false,
+      "kills": 385,
+      "ultra": 0,
+      "skills": [
+        14,
+        17,
+        28,
+        1,
+        4,
+        8,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "w20B0r75eP2CtnB",
+      "runId": 1012720258
+    },
+    "egn83M3D437EUTz": {
+      "name": "unde",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 23,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        19,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "egn83M3D437EUTz",
+      "runId": 1012720258
+    },
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 0,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 1012720258
     }
   }
 }
