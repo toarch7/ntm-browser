@@ -373,6 +373,48 @@
       "version": 2616,
       "uid": "UAiWcr5S5yFzoTr",
       "runId": 1012720258
+    },
+    "3Bq3YcM6wv2ap4H": {
+      "name": "FAKE",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 52,
+      "bwep": 17,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        14,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3Bq3YcM6wv2ap4H",
+      "runId": 1012720258
+    },
+    "7m6rMl97DPjVY5B": {
+      "name": "huevominion",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 18,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        23,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7m6rMl97DPjVY5B",
+      "runId": 1012720258
     }
   }
 }
