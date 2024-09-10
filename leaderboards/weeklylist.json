@@ -505,9 +505,9 @@
       "subarea": 1,
       "loops": 0,
       "wep": 66,
-      "bwep": 9,
+      "bwep": 31,
       "win": false,
-      "kills": 90,
+      "kills": 103,
       "ultra": 0,
       "skills": [
         28,
@@ -1022,6 +1022,54 @@
       "crown": 8,
       "version": 2616,
       "uid": "Wq0wIvmZc5K4d6m",
+      "runId": 1024574110
+    },
+    "UvlA2LgiokLXmdF": {
+      "name": "jubileu",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 27,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "UvlA2LgiokLXmdF",
+      "runId": 1024574110
+    },
+    "10wSX8a4mzg1LA8": {
+      "name": "ferugar",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 64,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "10wSX8a4mzg1LA8",
       "runId": 1024574110
     }
   }
