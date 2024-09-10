@@ -1,4 +1,47 @@
 {
   "day": 10,
-  "entries": {}
+  "entries": {
+    "W36AYDnfg5H5mwJ": {
+      "name": "3ds",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 7,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W36AYDnfg5H5mwJ",
+      "runId": 1012720258
+    },
+    "XdkMQGTJf3cq1KQ": {
+      "name": "XDoctor",
+      "char": 14,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        23,
+        7,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XdkMQGTJf3cq1KQ",
+      "runId": 1012720258
+    }
+  }
 }
