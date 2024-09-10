@@ -340,6 +340,81 @@
       "version": 2616,
       "uid": "WQt283AYMFl7F7N",
       "runId": 1024574110
+    },
+    "Y7L88XBgLHkN4lC": {
+      "name": "Havoc",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 72,
+      "win": false,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "Y7L88XBgLHkN4lC",
+      "runId": 1024574110
+    },
+    "xkCF2xYYI61WuLG": {
+      "name": "Nikörk",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 11,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "xkCF2xYYI61WuLG",
+      "runId": 1024574110
+    },
+    "pChr46tqqv6eHhR": {
+      "name": "Слабейший",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 64,
+      "win": false,
+      "kills": 173,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "pChr46tqqv6eHhR",
+      "runId": 1024574110
     }
   }
 }
