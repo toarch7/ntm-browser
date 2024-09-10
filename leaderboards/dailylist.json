@@ -415,6 +415,55 @@
       "version": 2616,
       "uid": "7m6rMl97DPjVY5B",
       "runId": 1012720258
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "VoideonLord",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 43,
+      "bwep": 24,
+      "win": false,
+      "kills": 946,
+      "ultra": 1,
+      "skills": [
+        23,
+        7,
+        17,
+        13,
+        1,
+        4,
+        27
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 1012720258
+    },
+    "9Myy5BZdkIB99jJ": {
+      "name": "berserker",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 1,
+      "win": false,
+      "kills": 170,
+      "ultra": 0,
+      "skills": [
+        14,
+        25,
+        8,
+        13
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "9Myy5BZdkIB99jJ",
+      "runId": 1012720258
     }
   }
 }
