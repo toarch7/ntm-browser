@@ -105,6 +105,44 @@
       "version": 2616,
       "uid": "H5dV645bca27OVy",
       "runId": 2115457311
+    },
+    "aUW0T18H8x1qY2B": {
+      "name": "MalaPraxi",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 69,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aUW0T18H8x1qY2B",
+      "runId": 2115457311
+    },
+    "7m6rMl97DPjVY5B": {
+      "name": "huevominion",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7m6rMl97DPjVY5B",
+      "runId": 2115457311
     }
   }
 }
