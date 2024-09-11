@@ -415,6 +415,42 @@
       "version": 2616,
       "uid": "3A08tu5U3eX67Bh",
       "runId": 2115457311
+    },
+    "93z65lvxbCGUxaT": {
+      "name": "moises",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "93z65lvxbCGUxaT",
+      "runId": 2115457311
+    },
+    "oaG7GspBf5j2P5z": {
+      "name": "FuffyMaster17",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oaG7GspBf5j2P5z",
+      "runId": 2115457311
     }
   }
 }
