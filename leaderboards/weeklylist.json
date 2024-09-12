@@ -1729,6 +1729,82 @@
       "version": 2616,
       "uid": "7a7U3SeW6v94RD6",
       "runId": 1024574110
+    },
+    "us0z9JU682X5Zad": {
+      "name": "Morth",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 26,
+      "win": false,
+      "kills": 194,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13,
+        7,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "us0z9JU682X5Zad",
+      "runId": 1024574110
+    },
+    "tVG7M4eRqgZs21L": {
+      "name": "Toddynho",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 64,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "tVG7M4eRqgZs21L",
+      "runId": 1024574110
+    },
+    "L0koh1a0g6ExcqF": {
+      "name": "baseline2",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 15,
+      "bwep": 62,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "L0koh1a0g6ExcqF",
+      "runId": 1024574110
     }
   }
 }
