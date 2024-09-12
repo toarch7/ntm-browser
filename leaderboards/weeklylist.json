@@ -1907,19 +1907,20 @@
       "char": 8,
       "skin": true,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 64,
-      "bwep": 0,
+      "wep": 114,
+      "bwep": 64,
       "win": false,
-      "kills": 117,
+      "kills": 141,
       "ultra": 0,
       "skills": [
         28,
         25,
         23,
         2,
-        13
+        13,
+        7
       ],
       "crown": 8,
       "version": 2616,
@@ -1947,6 +1948,29 @@
       "crown": 8,
       "version": 2616,
       "uid": "4Y47Boc85e33PI2",
+      "runId": 1024574110
+    },
+    "MCBerY72UQ6OPiC": {
+      "name": "hollowsonib",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 64,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "MCBerY72UQ6OPiC",
       "runId": 1024574110
     }
   }
