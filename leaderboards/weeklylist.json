@@ -2161,9 +2161,9 @@
       "subarea": 1,
       "loops": 0,
       "wep": 22,
-      "bwep": 9,
+      "bwep": 66,
       "win": false,
-      "kills": 182,
+      "kills": 187,
       "ultra": 0,
       "skills": [
         28,
@@ -2249,6 +2249,54 @@
       "crown": 8,
       "version": 2616,
       "uid": "jX3d91Za8yJTH8x",
+      "runId": 1024574110
+    },
+    "22X5C7Y0G1pli6U": {
+      "name": "Gleb",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 114,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "22X5C7Y0G1pli6U",
+      "runId": 1024574110
+    },
+    "DN397X8nZS0glSb": {
+      "name": "rikkuuyuu",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 27,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "DN397X8nZS0glSb",
       "runId": 1024574110
     }
   }
