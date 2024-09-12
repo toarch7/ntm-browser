@@ -478,13 +478,13 @@
       "name": "Pop_pop",
       "char": 8,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 1,
       "loops": 0,
-      "wep": 26,
-      "bwep": 13,
+      "wep": 77,
+      "bwep": 88,
       "win": false,
-      "kills": 228,
+      "kills": 296,
       "ultra": 0,
       "skills": [
         28,
@@ -493,7 +493,9 @@
         2,
         13,
         7,
-        10
+        10,
+        1,
+        17
       ],
       "crown": 8,
       "version": 2616,
@@ -1922,6 +1924,29 @@
       "crown": 8,
       "version": 2616,
       "uid": "o86y02q48unF321",
+      "runId": 1024574110
+    },
+    "4Y47Boc85e33PI2": {
+      "name": "Beknur-GAY",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 13,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "4Y47Boc85e33PI2",
       "runId": 1024574110
     }
   }
