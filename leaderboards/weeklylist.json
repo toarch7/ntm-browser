@@ -251,20 +251,21 @@
       "name": "Puri",
       "char": 8,
       "skin": true,
-      "area": 3,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 57,
-      "bwep": 50,
+      "wep": 70,
+      "bwep": 26,
       "win": false,
-      "kills": 83,
+      "kills": 154,
       "ultra": 0,
       "skills": [
         28,
         25,
         23,
         2,
-        13
+        13,
+        7
       ],
       "crown": 8,
       "version": 2616,
@@ -1804,6 +1805,76 @@
       "crown": 8,
       "version": 2616,
       "uid": "L0koh1a0g6ExcqF",
+      "runId": 1024574110
+    },
+    "jJuY6492F0sPb9N": {
+      "name": "Seeker9",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 72,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "jJuY6492F0sPb9N",
+      "runId": 1024574110
+    },
+    "QicgSah6h6Y8KG7": {
+      "name": "ErickMarlo",
+      "char": 8,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 27,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "QicgSah6h6Y8KG7",
+      "runId": 1024574110
+    },
+    "SvwlB7a4D4P6112": {
+      "name": "Josh2005",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 64,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "SvwlB7a4D4P6112",
       "runId": 1024574110
     }
   }

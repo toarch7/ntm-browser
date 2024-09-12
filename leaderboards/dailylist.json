@@ -1,4 +1,61 @@
 {
   "day": 12,
-  "entries": {}
+  "entries": {
+    "17b7qV841A0za55": {
+      "name": "DRAKER",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 17,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "17b7qV841A0za55",
+      "runId": 880352492
+    },
+    "jJuY6492F0sPb9N": {
+      "name": "Seeker9",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "jJuY6492F0sPb9N",
+      "runId": 880352492
+    },
+    "QicgSah6h6Y8KG7": {
+      "name": "ErickMarlo",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 10,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "QicgSah6h6Y8KG7",
+      "runId": 880352492
+    }
+  }
 }
