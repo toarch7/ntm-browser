@@ -509,6 +509,69 @@
       "version": 2616,
       "uid": "0MC3058A1rSI49p",
       "runId": 880352492
+    },
+    "93z65lvxbCGUxaT": {
+      "name": "moises",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 17,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        27,
+        28,
+        8
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "93z65lvxbCGUxaT",
+      "runId": 880352492
+    },
+    "4TCH95Q4F4nw996": {
+      "name": "sargo",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 6,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        12,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4TCH95Q4F4nw996",
+      "runId": 880352492
+    },
+    "NtY9p3A04wHwZ67": {
+      "name": "Yelder.m.",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 72,
+      "bwep": 6,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "NtY9p3A04wHwZ67",
+      "runId": 880352492
     }
   }
 }
