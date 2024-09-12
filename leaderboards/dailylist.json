@@ -408,6 +408,49 @@
       "version": 2616,
       "uid": "CM312LhJ9lrKk0s",
       "runId": 880352492
+    },
+    "UAiWcr5S5yFzoTr": {
+      "name": "Moose",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "UAiWcr5S5yFzoTr",
+      "runId": 880352492
+    },
+    "6OsO6U0eI4yD8n9": {
+      "name": "Salty",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 6,
+      "win": false,
+      "kills": 237,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        8,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6OsO6U0eI4yD8n9",
+      "runId": 880352492
     }
   }
 }
