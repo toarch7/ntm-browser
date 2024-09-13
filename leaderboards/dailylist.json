@@ -726,6 +726,85 @@
       "version": 2616,
       "uid": "fOU3sNjs1XyhJJ6",
       "runId": 1084746208
+    },
+    "5Sy06bRaQpBg0E7": {
+      "name": "рога",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 88,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5Sy06bRaQpBg0E7",
+      "runId": 1084746208
+    },
+    "456BDNg058Q1506": {
+      "name": "jim",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 5,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "456BDNg058Q1506",
+      "runId": 1084746208
+    },
+    "93z65lvxbCGUxaT": {
+      "name": "moises",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 6,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        27,
+        14,
+        8,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "93z65lvxbCGUxaT",
+      "runId": 1084746208
+    },
+    "4t572Cj60gZ5i9e": {
+      "name": "TORITO",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4t572Cj60gZ5i9e",
+      "runId": 1084746208
     }
   }
 }
