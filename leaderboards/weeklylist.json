@@ -256,10 +256,10 @@
       "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 70,
+      "wep": 64,
       "bwep": 26,
       "win": false,
-      "kills": 154,
+      "kills": 174,
       "ultra": 0,
       "skills": [
         28,
@@ -2598,6 +2598,77 @@
       "crown": 8,
       "version": 2616,
       "uid": "1k81boEpiwyJNk2",
+      "runId": 1024574110
+    },
+    "CdR2iTnQAg4bVY8": {
+      "name": "Dino",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 0,
+      "win": false,
+      "kills": 173,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "CdR2iTnQAg4bVY8",
+      "runId": 1024574110
+    },
+    "64tLfyv2g8MWKBu": {
+      "name": "Waza",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 78,
+      "bwep": 64,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "64tLfyv2g8MWKBu",
+      "runId": 1024574110
+    },
+    "EX6yc5Q4o64i4AS": {
+      "name": "Takeda_Sakai",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 0,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "EX6yc5Q4o64i4AS",
       "runId": 1024574110
     }
   }
