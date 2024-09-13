@@ -330,6 +330,56 @@
       "version": 2616,
       "uid": "Z6U4Ak749bt52JW",
       "runId": 1084746208
+    },
+    "KWME8W4ER7IL5Oq": {
+      "name": "BossGamer_XD",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 34,
+      "win": false,
+      "kills": 173,
+      "ultra": 0,
+      "skills": [
+        27,
+        17,
+        8,
+        22,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "KWME8W4ER7IL5Oq",
+      "runId": 1084746208
+    },
+    "gM3527CPzcTPqKo": {
+      "name": "Rhythm",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 6,
+      "win": false,
+      "kills": 288,
+      "ultra": 0,
+      "skills": [
+        27,
+        14,
+        8,
+        4,
+        17,
+        9,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gM3527CPzcTPqKo",
+      "runId": 1084746208
     }
   }
 }

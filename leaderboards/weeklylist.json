@@ -1497,19 +1497,21 @@
       "name": "MrKulduk",
       "char": 8,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 13,
-      "bwep": 64,
+      "wep": 124,
+      "bwep": 38,
       "win": false,
-      "kills": 67,
+      "kills": 141,
       "ultra": 0,
       "skills": [
         28,
         25,
         23,
-        2
+        2,
+        13,
+        7
       ],
       "crown": 8,
       "version": 2616,
@@ -2525,6 +2527,30 @@
       "crown": 8,
       "version": 2616,
       "uid": "0L3PPH9vjF23OOQ",
+      "runId": 1024574110
+    },
+    "3wJ4Gk6HKbbRI54": {
+      "name": "Konraddo",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 37,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "3wJ4Gk6HKbbRI54",
       "runId": 1024574110
     }
   }
