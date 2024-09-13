@@ -2324,6 +2324,53 @@
       "version": 2616,
       "uid": "2I5UG7G0N6fr4K1",
       "runId": 1024574110
+    },
+    "wsNYG0Lay56LMUz": {
+      "name": "Batatus",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 0,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "wsNYG0Lay56LMUz",
+      "runId": 1024574110
+    },
+    "R2vHzl4t5Ul2J21": {
+      "name": "BEREAVER",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 64,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "R2vHzl4t5Ul2J21",
+      "runId": 1024574110
     }
   }
 }
