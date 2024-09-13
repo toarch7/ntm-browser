@@ -2747,6 +2747,78 @@
       "version": 2616,
       "uid": "3jBGlG89k7C1r0f",
       "runId": 1024574110
+    },
+    "veNM445KoAqLS4N": {
+      "name": "Тобепизда",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 13,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "veNM445KoAqLS4N",
+      "runId": 1024574110
+    },
+    "r0k8eA5ltw5tjGL": {
+      "name": "hara",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 0,
+      "win": false,
+      "kills": 183,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "r0k8eA5ltw5tjGL",
+      "runId": 1024574110
+    },
+    "4t572Cj60gZ5i9e": {
+      "name": "TORITO",
+      "char": 8,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 27,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "4t572Cj60gZ5i9e",
+      "runId": 1024574110
     }
   }
 }
