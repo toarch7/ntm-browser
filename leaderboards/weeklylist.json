@@ -1041,19 +1041,20 @@
       "name": "jubileu",
       "char": 8,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 27,
-      "bwep": 0,
+      "wep": 64,
+      "bwep": 66,
       "win": false,
-      "kills": 79,
+      "kills": 100,
       "ultra": 0,
       "skills": [
         28,
         25,
         23,
-        2
+        2,
+        13
       ],
       "crown": 8,
       "version": 2616,
@@ -2083,12 +2084,12 @@
       "char": 8,
       "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 64,
-      "bwep": 0,
+      "wep": 33,
+      "bwep": 64,
       "win": false,
-      "kills": 170,
+      "kills": 241,
       "ultra": 0,
       "skills": [
         28,
@@ -2096,7 +2097,8 @@
         23,
         2,
         13,
-        7
+        7,
+        10
       ],
       "crown": 8,
       "version": 2616,
@@ -2157,13 +2159,13 @@
       "name": "xablau",
       "char": 8,
       "skin": true,
-      "area": 5,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 22,
-      "bwep": 66,
+      "wep": 9,
+      "bwep": 12,
       "win": false,
-      "kills": 187,
+      "kills": 260,
       "ultra": 0,
       "skills": [
         28,
@@ -2172,7 +2174,8 @@
         2,
         13,
         7,
-        10
+        10,
+        1
       ],
       "crown": 8,
       "version": 2616,
@@ -2297,6 +2300,29 @@
       "crown": 8,
       "version": 2616,
       "uid": "DN397X8nZS0glSb",
+      "runId": 1024574110
+    },
+    "2I5UG7G0N6fr4K1": {
+      "name": "!nvictus",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 21,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "2I5UG7G0N6fr4K1",
       "runId": 1024574110
     }
   }
