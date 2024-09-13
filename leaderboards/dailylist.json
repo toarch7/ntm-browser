@@ -1,4 +1,91 @@
 {
   "day": 13,
-  "entries": {}
+  "entries": {
+    "Is5F2iVekK2V7O8": {
+      "name": "El",
+      "char": 12,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 11,
+      "win": false,
+      "kills": 216,
+      "ultra": 0,
+      "skills": [
+        7,
+        14,
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Is5F2iVekK2V7O8",
+      "runId": 1084746208
+    },
+    "W36AYDnfg5H5mwJ": {
+      "name": "3ds",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 117,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        17,
+        9,
+        22
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "W36AYDnfg5H5mwJ",
+      "runId": 1084746208
+    },
+    "XdkMQGTJf3cq1KQ": {
+      "name": "XDoctor",
+      "char": 14,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 56,
+      "win": false,
+      "kills": 36,
+      "crown": 1,
+      "version": 2616,
+      "uid": "XdkMQGTJf3cq1KQ",
+      "runId": 1084746208
+    },
+    "oz7mIC8YV4OCCZ6": {
+      "name": "sekeer",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 0,
+      "win": false,
+      "kills": 320,
+      "ultra": 0,
+      "skills": [
+        27,
+        6,
+        8,
+        22,
+        14,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oz7mIC8YV4OCCZ6",
+      "runId": 1084746208
+    }
+  }
 }
