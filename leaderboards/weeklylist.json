@@ -2398,6 +2398,56 @@
       "version": 2616,
       "uid": "V7Vf1Xc7SKA4drW",
       "runId": 1024574110
+    },
+    "5NXn94sI2jpM51T": {
+      "name": "Confusion",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 64,
+      "win": false,
+      "kills": 172,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "5NXn94sI2jpM51T",
+      "runId": 1024574110
+    },
+    "o24maudW59Ag55M": {
+      "name": "1489",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 64,
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "o24maudW59Ag55M",
+      "runId": 1024574110
     }
   }
 }
