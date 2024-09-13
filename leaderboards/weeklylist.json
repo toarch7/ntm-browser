@@ -1044,10 +1044,10 @@
       "area": 3,
       "subarea": 3,
       "loops": 0,
-      "wep": 64,
-      "bwep": 13,
+      "wep": 114,
+      "bwep": 64,
       "win": false,
-      "kills": 137,
+      "kills": 140,
       "ultra": 0,
       "skills": [
         28,
@@ -2669,6 +2669,29 @@
       "crown": 8,
       "version": 2616,
       "uid": "EX6yc5Q4o64i4AS",
+      "runId": 1024574110
+    },
+    "aQF623uoiFHbVG9": {
+      "name": "Seeker28",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 30,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "aQF623uoiFHbVG9",
       "runId": 1024574110
     }
   }
