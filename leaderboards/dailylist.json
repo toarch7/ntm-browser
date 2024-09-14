@@ -528,6 +528,49 @@
       "version": 2616,
       "uid": "wMoFZw0K728rw20",
       "runId": 324705746
+    },
+    "30OA4W5S3XI4IdG": {
+      "name": "bonnjo",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "30OA4W5S3XI4IdG",
+      "runId": 324705746
+    },
+    "J42z6g4063Y7I73": {
+      "name": "zerochipmunk",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 10,
+      "win": false,
+      "kills": 186,
+      "ultra": 0,
+      "skills": [
+        12,
+        27,
+        26,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J42z6g4063Y7I73",
+      "runId": 324705746
     }
   }
 }
