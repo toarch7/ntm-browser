@@ -2951,10 +2951,10 @@
       "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 57,
-      "bwep": 69,
+      "wep": 58,
+      "bwep": 57,
       "win": false,
-      "kills": 145,
+      "kills": 154,
       "ultra": 0,
       "skills": [
         28,
@@ -2967,6 +2967,55 @@
       "crown": 8,
       "version": 2616,
       "uid": "fnss8Ce49D59W4w",
+      "runId": 1024574110
+    },
+    "dO82xj8ihx727Qm": {
+      "name": "darkness",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 37,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "dO82xj8ihx727Qm",
+      "runId": 1024574110
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 13,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
       "runId": 1024574110
     }
   }
