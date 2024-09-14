@@ -627,6 +627,67 @@
       "version": 2616,
       "uid": "Wq0wIvmZc5K4d6m",
       "runId": 324705746
+    },
+    "OG6oUWfDQdLREP4": {
+      "name": "mskit",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 34,
+      "win": false,
+      "kills": 176,
+      "ultra": 0,
+      "skills": [
+        13,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
+      "runId": 324705746
+    },
+    "veNM445KoAqLS4N": {
+      "name": "Тобепизда",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "veNM445KoAqLS4N",
+      "runId": 324705746
+    },
+    "7m6rMl97DPjVY5B": {
+      "name": "huevominion",
+      "char": 10,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 21,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7m6rMl97DPjVY5B",
+      "runId": 324705746
     }
   }
 }
