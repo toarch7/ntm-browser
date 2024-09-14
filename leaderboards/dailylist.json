@@ -1,4 +1,88 @@
 {
   "day": 14,
-  "entries": {}
+  "entries": {
+    "hE2bKHcFTu4u0NZ": {
+      "name": "ikky",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 62,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "hE2bKHcFTu4u0NZ",
+      "runId": 324705746
+    },
+    "jJuY6492F0sPb9N": {
+      "name": "Seeker9",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "jJuY6492F0sPb9N",
+      "runId": 324705746
+    },
+    "4TCH95Q4F4nw996": {
+      "name": "sargo",
+      "char": 2,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 34,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        22,
+        27
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "4TCH95Q4F4nw996",
+      "runId": 324705746
+    },
+    "qPaqjT6VSf0o4O7": {
+      "name": "orion",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 69,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qPaqjT6VSf0o4O7",
+      "runId": 324705746
+    }
+  }
 }
