@@ -35,10 +35,10 @@
       "area": 3,
       "subarea": 3,
       "loops": 0,
-      "wep": 76,
-      "bwep": 57,
+      "wep": 64,
+      "bwep": 75,
       "win": false,
-      "kills": 137,
+      "kills": 143,
       "ultra": 0,
       "skills": [
         28,
@@ -2845,6 +2845,79 @@
       "crown": 8,
       "version": 2616,
       "uid": "V4Uwy2GTk7K0xGi",
+      "runId": 1024574110
+    },
+    "2l7AgjUxFO8yaj1": {
+      "name": "Sebuezdemon",
+      "char": 8,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 22,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "2l7AgjUxFO8yaj1",
+      "runId": 1024574110
+    },
+    "8EJRW7Ra1DC2kY0": {
+      "name": "keiver",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 9,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "8EJRW7Ra1DC2kY0",
+      "runId": 1024574110
+    },
+    "UQ4R7VgE34jB1x5": {
+      "name": "Dave",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 14,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "UQ4R7VgE34jB1x5",
       "runId": 1024574110
     }
   }
