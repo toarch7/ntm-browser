@@ -354,12 +354,12 @@
       "char": 8,
       "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 64,
+      "wep": 77,
       "bwep": 72,
       "win": false,
-      "kills": 177,
+      "kills": 226,
       "ultra": 0,
       "skills": [
         28,
@@ -367,7 +367,8 @@
         23,
         2,
         13,
-        7
+        7,
+        10
       ],
       "crown": 8,
       "version": 2616,
@@ -2941,6 +2942,31 @@
       "crown": 8,
       "version": 2616,
       "uid": "Spo2m66764o2WtO",
+      "runId": 1024574110
+    },
+    "fnss8Ce49D59W4w": {
+      "name": "nuclear_ass",
+      "char": 8,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 69,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "fnss8Ce49D59W4w",
       "runId": 1024574110
     }
   }
