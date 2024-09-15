@@ -3339,6 +3339,52 @@
       "version": 2616,
       "uid": "9FNvr6s89Uh2W90",
       "runId": 1024574110
+    },
+    "aYj8b2wcRO3d3ix": {
+      "name": "Troop",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 0,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "aYj8b2wcRO3d3ix",
+      "runId": 1024574110
+    },
+    "NG44wb81uv7N3yJ": {
+      "name": "lacee",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 5,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "NG44wb81uv7N3yJ",
+      "runId": 1024574110
     }
   }
 }
