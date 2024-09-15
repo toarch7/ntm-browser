@@ -1196,12 +1196,12 @@
       "char": 8,
       "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 64,
-      "bwep": 62,
+      "wep": 26,
+      "bwep": 35,
       "win": false,
-      "kills": 180,
+      "kills": 244,
       "ultra": 0,
       "skills": [
         28,
@@ -1209,7 +1209,8 @@
         23,
         2,
         13,
-        7
+        7,
+        10
       ],
       "crown": 8,
       "version": 2616,
