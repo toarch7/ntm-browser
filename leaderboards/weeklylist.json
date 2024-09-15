@@ -3241,6 +3241,54 @@
       "version": 2616,
       "uid": "lC4sZC8L81G8Hb8",
       "runId": 1024574110
+    },
+    "7NOlMWf5O8q0t6u": {
+      "name": "baghyz",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 0,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "7NOlMWf5O8q0t6u",
+      "runId": 1024574110
+    },
+    "6mKywl868n01T5V": {
+      "name": "Армянин",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 114,
+      "win": false,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "6mKywl868n01T5V",
+      "runId": 1024574110
     }
   }
 }
