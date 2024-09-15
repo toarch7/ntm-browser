@@ -1425,20 +1425,21 @@
       "name": "Seeker903355",
       "char": 8,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 5,
+      "subarea": 1,
       "loops": 0,
-      "wep": 66,
-      "bwep": 64,
+      "wep": 64,
+      "bwep": 11,
       "win": false,
-      "kills": 110,
+      "kills": 178,
       "ultra": 0,
       "skills": [
         28,
         25,
         23,
         2,
-        13
+        13,
+        7
       ],
       "crown": 8,
       "version": 2616,
@@ -3384,6 +3385,30 @@
       "crown": 8,
       "version": 2616,
       "uid": "NG44wb81uv7N3yJ",
+      "runId": 1024574110
+    },
+    "FlG2CVN6WjK449j": {
+      "name": "N",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 75,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "FlG2CVN6WjK449j",
       "runId": 1024574110
     }
   }
