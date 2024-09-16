@@ -3630,6 +3630,54 @@
       "version": 2616,
       "uid": "mATD9FpLp0in9S6",
       "runId": 1024574110
+    },
+    "ik6nblfjjP6pl2O": {
+      "name": "PakmaLord",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 30,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "ik6nblfjjP6pl2O",
+      "runId": 1024574110
+    },
+    "07G6h6Y87K3t72h": {
+      "name": "roronoa",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 13,
+      "win": false,
+      "kills": 174,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "07G6h6Y87K3t72h",
+      "runId": 1024574110
     }
   }
 }
