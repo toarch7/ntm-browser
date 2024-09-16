@@ -258,6 +258,69 @@
       "version": 2616,
       "uid": "Lc1J3BqD27133V7",
       "runId": 590825169
+    },
+    "euE43o1MOuULHYN": {
+      "name": "Boodoco",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "euE43o1MOuULHYN",
+      "runId": 590825169
+    },
+    "aUW0T18H8x1qY2B": {
+      "name": "MalaPraxi",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 27,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        21,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aUW0T18H8x1qY2B",
+      "runId": 590825169
+    },
+    "gM3527CPzcTPqKo": {
+      "name": "Rhythm",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 20,
+      "win": false,
+      "kills": 216,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        22,
+        17,
+        10,
+        27,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gM3527CPzcTPqKo",
+      "runId": 590825169
     }
   }
 }
