@@ -3729,6 +3729,55 @@
       "version": 2616,
       "uid": "93z65lvxbCGUxaT",
       "runId": 1024574110
+    },
+    "nkTtJZ5R8e9h32z": {
+      "name": "sekk",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 0,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "nkTtJZ5R8e9h32z",
+      "runId": 1024574110
+    },
+    "29R17JXtx66TzdO": {
+      "name": "beardman",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 64,
+      "bwep": 13,
+      "win": false,
+      "kills": 225,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        23,
+        2,
+        13,
+        7,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "29R17JXtx66TzdO",
+      "runId": 1024574110
     }
   }
 }
