@@ -1,4 +1,29 @@
 {
   "seed": 123541483,
-  "entries": {}
+  "entries": {
+    "22X5C7Y0G1pli6U": {
+      "name": "Gleb",
+      "char": 3,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 88,
+      "win": false,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        4,
+        19,
+        27,
+        1,
+        13
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "22X5C7Y0G1pli6U",
+      "runId": 123541483
+    }
+  }
 }
