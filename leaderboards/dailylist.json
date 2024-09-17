@@ -226,6 +226,49 @@
       "version": 2616,
       "uid": "8Cb00P2oi49tP79",
       "runId": 1314178255
+    },
+    "YM43v0j9P8xP4wL": {
+      "name": "loxxmi",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "YM43v0j9P8xP4wL",
+      "runId": 1314178255
+    },
+    "gM3527CPzcTPqKo": {
+      "name": "Rhythm",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 5,
+      "bwep": 107,
+      "win": false,
+      "kills": 787,
+      "ultra": 2,
+      "skills": [
+        8,
+        27,
+        9,
+        14,
+        1,
+        4,
+        24,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gM3527CPzcTPqKo",
+      "runId": 1314178255
     }
   }
 }
