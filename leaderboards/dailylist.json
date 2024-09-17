@@ -357,6 +357,48 @@
       "version": 2616,
       "uid": "9Qf15a3R1Nr7hhG",
       "runId": 1314178255
+    },
+    "J42z6g4063Y7I73": {
+      "name": "zerochipmunk",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 116,
+      "win": false,
+      "kills": 283,
+      "ultra": 0,
+      "skills": [
+        24,
+        28,
+        2,
+        13,
+        1,
+        27,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J42z6g4063Y7I73",
+      "runId": 1314178255
+    },
+    "30g8pU6rMFy6P9z": {
+      "name": "HiroFight",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 20,
+      "crown": 1,
+      "version": 2616,
+      "uid": "30g8pU6rMFy6P9z",
+      "runId": 1314178255
     }
   }
 }
