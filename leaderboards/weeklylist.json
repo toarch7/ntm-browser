@@ -402,13 +402,13 @@
       "name": "mskit",
       "char": 3,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 74,
-      "bwep": 57,
+      "wep": 61,
+      "bwep": 66,
       "win": false,
-      "kills": 287,
+      "kills": 360,
       "ultra": 0,
       "skills": [
         4,
@@ -776,6 +776,29 @@
       "crown": 8,
       "version": 2616,
       "uid": "9FNvr6s89Uh2W90",
+      "runId": 123541483
+    },
+    "BD54wFBfC4aj83N": {
+      "name": "Seeker89090",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 38,
+      "win": false,
+      "kills": 146,
+      "ultra": 0,
+      "skills": [
+        4,
+        19,
+        27,
+        1
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "BD54wFBfC4aj83N",
       "runId": 123541483
     }
   }
