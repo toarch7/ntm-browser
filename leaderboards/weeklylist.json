@@ -82,10 +82,10 @@
       "area": 0,
       "subarea": 1,
       "loops": 1,
-      "wep": 74,
-      "bwep": 5,
+      "wep": 34,
+      "bwep": 74,
       "win": false,
-      "kills": 389,
+      "kills": 404,
       "ultra": 1,
       "skills": [
         4,
@@ -405,10 +405,10 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 124,
+      "wep": 74,
       "bwep": 57,
       "win": false,
-      "kills": 269,
+      "kills": 287,
       "ultra": 0,
       "skills": [
         4,
@@ -732,6 +732,27 @@
       "crown": 8,
       "version": 2616,
       "uid": "E41B0t8dwT0O8rD",
+      "runId": 123541483
+    },
+    "QG253Pt5dYzFRCL": {
+      "name": "RZleonardo",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 72,
+      "bwep": 6,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        4,
+        19
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "QG253Pt5dYzFRCL",
       "runId": 123541483
     }
   }
