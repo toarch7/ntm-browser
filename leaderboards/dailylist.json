@@ -520,6 +520,67 @@
       "version": 2616,
       "uid": "o24maudW59Ag55M",
       "runId": 765538791
+    },
+    "5ak7Lp8CJetFsSi": {
+      "name": "ChocolateLover",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 13,
+      "win": false,
+      "kills": 191,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        22,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5ak7Lp8CJetFsSi",
+      "runId": 765538791
+    },
+    "9mz92Rr8h4k7VxI": {
+      "name": "anth",
+      "char": 2,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 154,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        28
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "9mz92Rr8h4k7VxI",
+      "runId": 765538791
+    },
+    "FlG2CVN6WjK449j": {
+      "name": "N",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 25,
+      "crown": 1,
+      "version": 2616,
+      "uid": "FlG2CVN6WjK449j",
+      "runId": 765538791
     }
   }
 }
