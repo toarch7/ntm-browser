@@ -168,6 +168,45 @@
       "version": 2616,
       "uid": "k8aj317OlPB9i9o",
       "runId": 765538791
+    },
+    "W471611Hz3mp7zD": {
+      "name": "xxx",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "win": false,
+      "kills": 24,
+      "crown": 1,
+      "version": 2616,
+      "uid": "W471611Hz3mp7zD",
+      "runId": 765538791
+    },
+    "07G6h6Y87K3t72h": {
+      "name": "roronoa",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 16,
+      "win": false,
+      "kills": 216,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        22,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "07G6h6Y87K3t72h",
+      "runId": 765538791
     }
   }
 }
