@@ -899,6 +899,57 @@
       "version": 2616,
       "uid": "XdkMQGTJf3cq1KQ",
       "runId": 123541483
+    },
+    "fIft1N9s7bZQx8q": {
+      "name": "25T45",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 68,
+      "win": false,
+      "kills": 520,
+      "ultra": 1,
+      "skills": [
+        4,
+        19,
+        27,
+        1,
+        13,
+        23,
+        3
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "fIft1N9s7bZQx8q",
+      "runId": 123541483
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 38,
+      "win": false,
+      "kills": 249,
+      "ultra": 0,
+      "skills": [
+        4,
+        19,
+        27,
+        1,
+        13,
+        23
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 123541483
     }
   }
 }
