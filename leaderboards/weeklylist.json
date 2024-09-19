@@ -873,6 +873,32 @@
       "version": 2616,
       "uid": "07G6h6Y87K3t72h",
       "runId": 123541483
+    },
+    "XdkMQGTJf3cq1KQ": {
+      "name": "XDoctor",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 13,
+      "bwep": 68,
+      "win": false,
+      "kills": 448,
+      "ultra": 1,
+      "skills": [
+        4,
+        19,
+        27,
+        1,
+        13,
+        23,
+        3
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "XdkMQGTJf3cq1KQ",
+      "runId": 123541483
     }
   }
 }
