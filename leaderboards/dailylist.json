@@ -550,6 +550,73 @@
       "version": 2616,
       "uid": "7m6rMl97DPjVY5B",
       "runId": 1042208736
+    },
+    "BqQtVN3a02w8e3z": {
+      "name": "Ryoma",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 19,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BqQtVN3a02w8e3z",
+      "runId": 1042208736
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "VoideonLord",
+      "char": 11,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 35,
+      "win": false,
+      "kills": 258,
+      "ultra": 0,
+      "skills": [
+        27,
+        25,
+        13,
+        23,
+        3,
+        1,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 1042208736
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "1000THR",
+      "char": 3,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 114,
+      "bwep": 119,
+      "win": false,
+      "kills": 258,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        3,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
+      "runId": 1042208736
     }
   }
 }
