@@ -395,6 +395,92 @@
       "version": 2616,
       "uid": "43ScDUoK1yRPG07",
       "runId": 1750702597
+    },
+    "aUW0T18H8x1qY2B": {
+      "name": "MalaPraxi",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aUW0T18H8x1qY2B",
+      "runId": 1750702597
+    },
+    "9n5ADQaiQ095LJ8": {
+      "name": "dark",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        8,
+        16,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9n5ADQaiQ095LJ8",
+      "runId": 1750702597
+    },
+    "vhz16PHRAWn967S": {
+      "name": "Ушлепленец777",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 12,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        3,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "vhz16PHRAWn967S",
+      "runId": 1750702597
+    },
+    "fIft1N9s7bZQx8q": {
+      "name": "25T45",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 51,
+      "bwep": 76,
+      "win": false,
+      "kills": 706,
+      "ultra": 1,
+      "skills": [
+        22,
+        3,
+        12,
+        4,
+        8,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "fIft1N9s7bZQx8q",
+      "runId": 1750702597
     }
   }
 }
