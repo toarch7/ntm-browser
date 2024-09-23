@@ -1,4 +1,111 @@
 {
   "day": 23,
-  "entries": {}
+  "entries": {
+    "J5j3Hh404j654a4": {
+      "name": "Seeker9",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "J5j3Hh404j654a4",
+      "runId": 1750702597
+    },
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 69,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        28,
+        3,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 1750702597
+    },
+    "7NOlMWf5O8q0t6u": {
+      "name": "baghyz",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 2,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7NOlMWf5O8q0t6u",
+      "runId": 1750702597
+    },
+    "OG6oUWfDQdLREP4": {
+      "name": "mskit",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 0,
+      "win": false,
+      "kills": 300,
+      "ultra": 0,
+      "skills": [
+        16,
+        3,
+        7,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
+      "runId": 1750702597
+    },
+    "Wq0wIvmZc5K4d6m": {
+      "name": "elhombrejhoniel",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 12,
+      "win": false,
+      "kills": 292,
+      "ultra": 0,
+      "skills": [
+        8,
+        22,
+        14,
+        12,
+        7,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Wq0wIvmZc5K4d6m",
+      "runId": 1750702597
+    }
+  }
 }
