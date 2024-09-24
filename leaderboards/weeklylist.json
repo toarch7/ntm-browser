@@ -1814,6 +1814,30 @@
       "version": 2616,
       "uid": "RekVT248y96xQ06",
       "runId": 123541483
+    },
+    "02v548rF8G03y8x": {
+      "name": "Crashed_Waves",
+      "char": 3,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 2,
+      "win": false,
+      "kills": 202,
+      "ultra": 0,
+      "skills": [
+        4,
+        19,
+        27,
+        1,
+        13
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "02v548rF8G03y8x",
+      "runId": 123541483
     }
   }
 }
