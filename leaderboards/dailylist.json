@@ -599,6 +599,95 @@
       "version": 2616,
       "uid": "Y3K3E18fRx5G9U3",
       "runId": 1649942793
+    },
+    "u1oFU0aHFKh696I": {
+      "name": "Митяй2009",
+      "char": 1,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 21,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        7,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "u1oFU0aHFKh696I",
+      "runId": 1649942793
+    },
+    "U6AhhF1Qxfx6M21": {
+      "name": "Doom",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 15,
+      "bwep": 2,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        28,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "U6AhhF1Qxfx6M21",
+      "runId": 1649942793
+    },
+    "29s8l8kB8wDL68Z": {
+      "name": "Domcal",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 7,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "29s8l8kB8wDL68Z",
+      "runId": 1649942793
+    },
+    "OG6oUWfDQdLREP4": {
+      "name": "mskit",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 68,
+      "win": false,
+      "kills": 348,
+      "ultra": 0,
+      "skills": [
+        8,
+        28,
+        1,
+        10,
+        12,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
+      "runId": 1649942793
     }
   }
 }
