@@ -300,6 +300,73 @@
       "version": 2616,
       "uid": "PaE445s5Ar2wtv6",
       "runId": 419162358
+    },
+    "D3dq83z8TCMrju2": {
+      "name": "Seeker90",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 113,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "D3dq83z8TCMrju2",
+      "runId": 419162358
+    },
+    "veNM445KoAqLS4N": {
+      "name": "Тобепизда",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 113,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        7,
+        28,
+        12
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "veNM445KoAqLS4N",
+      "runId": 419162358
+    },
+    "N8OjwfMoC79I96a": {
+      "name": "ну",
+      "char": 9,
+      "skin": false,
+      "area": 105,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 113,
+      "win": false,
+      "kills": 244,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        1,
+        19,
+        6,
+        4
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "N8OjwfMoC79I96a",
+      "runId": 419162358
     }
   }
 }
