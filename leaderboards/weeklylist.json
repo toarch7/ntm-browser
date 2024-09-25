@@ -528,17 +528,19 @@
       "name": "SX714",
       "char": 9,
       "skin": false,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
       "wep": 113,
-      "bwep": 17,
+      "bwep": 38,
       "win": false,
-      "kills": 104,
+      "kills": 113,
       "ultra": 0,
       "skills": [
         2,
-        28
+        25,
+        1,
+        21
       ],
       "crown": 11,
       "version": 2616,
@@ -664,6 +666,47 @@
       "crown": 11,
       "version": 2616,
       "uid": "kCYSmJ6emz05igU",
+      "runId": 419162358
+    },
+    "6ZffiAolyJUxZ3I": {
+      "name": "ANDROUЧIK",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 0,
+      "bwep": 0,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "6ZffiAolyJUxZ3I",
+      "runId": 419162358
+    },
+    "Lz241EO10OwYbAw": {
+      "name": "TZ_",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 2,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        7,
+        17
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "Lz241EO10OwYbAw",
       "runId": 419162358
     }
   }
