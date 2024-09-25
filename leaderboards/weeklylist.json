@@ -440,16 +440,17 @@
       "name": "Seeke",
       "char": 9,
       "skin": false,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 19,
-      "bwep": 113,
+      "wep": 113,
+      "bwep": 17,
       "win": false,
-      "kills": 51,
+      "kills": 86,
       "ultra": 0,
       "skills": [
-        7
+        14,
+        17
       ],
       "crown": 11,
       "version": 2616,
