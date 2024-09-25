@@ -1,4 +1,70 @@
 {
   "seed": 419162358,
-  "entries": {}
+  "entries": {
+    "E41B0t8dwT0O8rD": {
+      "name": "Seeker903355",
+      "char": 9,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 3,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        16,
+        28
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "E41B0t8dwT0O8rD",
+      "runId": 419162358
+    },
+    "RekVT248y96xQ06": {
+      "name": "kyltry",
+      "char": 9,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 113,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        16,
+        28,
+        19,
+        6
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "RekVT248y96xQ06",
+      "runId": 419162358
+    },
+    "f8EHF3hx1tKY0f6": {
+      "name": "FBeagle2662",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 4,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        7,
+        25
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "f8EHF3hx1tKY0f6",
+      "runId": 419162358
+    }
+  }
 }
