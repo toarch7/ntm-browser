@@ -480,6 +480,92 @@
       "version": 2616,
       "uid": "mQ6dxSp1osVs2vM",
       "runId": 419162358
+    },
+    "47Pr5SGtl1X953X": {
+      "name": "davy_30",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 88,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        7,
+        28
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "47Pr5SGtl1X953X",
+      "runId": 419162358
+    },
+    "1d7nkIoCg0oGoi6": {
+      "name": "Quipouse",
+      "char": 9,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 113,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "1d7nkIoCg0oGoi6",
+      "runId": 419162358
+    },
+    "Y3K3E18fRx5G9U3": {
+      "name": "SX714",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 17,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        2,
+        28
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "Y3K3E18fRx5G9U3",
+      "runId": 419162358
+    },
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 9,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 113,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        7,
+        28,
+        25
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 419162358
     }
   }
 }
