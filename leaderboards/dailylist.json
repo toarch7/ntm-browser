@@ -1,4 +1,48 @@
 {
   "day": 26,
-  "entries": {}
+  "entries": {
+    "OG6oUWfDQdLREP4": {
+      "name": "mskit",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 89,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        8,
+        19,
+        28,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
+      "runId": 719725317
+    },
+    "N7J89X77EbG13Xs": {
+      "name": "Seeker90",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "N7J89X77EbG13Xs",
+      "runId": 719725317
+    }
+  }
 }
