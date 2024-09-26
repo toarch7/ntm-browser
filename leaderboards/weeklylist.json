@@ -920,24 +920,51 @@
       "name": "VoideonLord",
       "char": 9,
       "skin": false,
-      "area": 104,
+      "area": 2,
       "subarea": 1,
-      "loops": 0,
-      "wep": 76,
-      "bwep": 69,
+      "loops": 1,
+      "wep": 107,
+      "bwep": 77,
       "win": false,
-      "kills": 170,
-      "ultra": 0,
+      "kills": 863,
+      "ultra": 1,
       "skills": [
         7,
         17,
         25,
         1,
-        26
+        9,
+        27,
+        13,
+        24
       ],
       "crown": 11,
       "version": 2616,
       "uid": "9EkyKX48VdSH7VW",
+      "runId": 419162358
+    },
+    "kpYoFMxOsAq5994": {
+      "name": "SarukyNTM",
+      "char": 9,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 58,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        1,
+        19,
+        9
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "kpYoFMxOsAq5994",
       "runId": 419162358
     }
   }
