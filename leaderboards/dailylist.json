@@ -661,6 +661,95 @@
       "version": 2616,
       "uid": "1d7nkIoCg0oGoi6",
       "runId": 719725317
+    },
+    "3PtB4y137bpX0zl": {
+      "name": "Pofeticus11",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 63,
+      "win": false,
+      "kills": 208,
+      "ultra": 0,
+      "skills": [
+        19,
+        8,
+        13,
+        23,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3PtB4y137bpX0zl",
+      "runId": 719725317
+    },
+    "Y7L88XBgLHkN4lC": {
+      "name": "Havoc",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y7L88XBgLHkN4lC",
+      "runId": 719725317
+    },
+    "22X5C7Y0G1pli6U": {
+      "name": "Gleb",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "22X5C7Y0G1pli6U",
+      "runId": 719725317
+    },
+    "lC4sZC8L81G8Hb8": {
+      "name": "ILoveMyWife",
+      "char": 10,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 113,
+      "win": false,
+      "kills": 296,
+      "ultra": 0,
+      "skills": [
+        3,
+        9,
+        6,
+        25,
+        1,
+        23
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "lC4sZC8L81G8Hb8",
+      "runId": 719725317
     }
   }
 }
