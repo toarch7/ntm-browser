@@ -895,6 +895,26 @@
       "version": 2616,
       "uid": "8Cb00P2oi49tP79",
       "runId": 419162358
+    },
+    "05Wqo9MXTFS2p0u": {
+      "name": "tick",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 113,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "05Wqo9MXTFS2p0u",
+      "runId": 419162358
     }
   }
 }
