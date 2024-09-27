@@ -167,18 +167,21 @@
       "name": "slayer",
       "char": 9,
       "skin": false,
-      "area": 4,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 4,
-      "bwep": 113,
+      "wep": 11,
+      "bwep": 9,
       "win": false,
-      "kills": 161,
+      "kills": 319,
       "ultra": 0,
       "skills": [
         14,
         26,
-        25
+        9,
+        27,
+        21,
+        7
       ],
       "crown": 11,
       "version": 2616,
@@ -1182,6 +1185,46 @@
       "crown": 11,
       "version": 2616,
       "uid": "23qMNVFxOgW28dk",
+      "runId": 419162358
+    },
+    "7E1bD6P8IN76MFF": {
+      "name": "Seeker9",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 113,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "7E1bD6P8IN76MFF",
+      "runId": 419162358
+    },
+    "QCuF3Tq0085A195": {
+      "name": "cavees",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 6,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "QCuF3Tq0085A195",
       "runId": 419162358
     }
   }
