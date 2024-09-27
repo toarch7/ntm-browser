@@ -436,6 +436,48 @@
       "version": 2616,
       "uid": "M37r0hlvHhYgQ5m",
       "runId": 131986127
+    },
+    "FeFPlgh78f4MP64": {
+      "name": "Matfan63",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 23,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        4,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "FeFPlgh78f4MP64",
+      "runId": 131986127
+    },
+    "Y7L88XBgLHkN4lC": {
+      "name": "Havoc",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 7,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        8,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y7L88XBgLHkN4lC",
+      "runId": 131986127
     }
   }
 }
