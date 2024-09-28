@@ -1664,22 +1664,68 @@
       "name": "xablau",
       "char": 9,
       "skin": false,
-      "area": 4,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 113,
-      "bwep": 14,
+      "wep": 84,
+      "bwep": 74,
       "win": false,
-      "kills": 93,
+      "kills": 382,
       "ultra": 0,
       "skills": [
         7,
         28,
+        19,
+        9,
+        27,
+        14,
         2
       ],
       "crown": 11,
       "version": 2616,
       "uid": "xebDU84if21MG4M",
+      "runId": 419162358
+    },
+    "jZoV6Rfyfr30r7E": {
+      "name": "DerAusUlm",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 0,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        7,
+        28
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "jZoV6Rfyfr30r7E",
+      "runId": 419162358
+    },
+    "wSLt9064hcBS18U": {
+      "name": "Seeker71",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 113,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        7,
+        28
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "wSLt9064hcBS18U",
       "runId": 419162358
     }
   }
