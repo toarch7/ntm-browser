@@ -1588,6 +1588,52 @@
       "version": 2616,
       "uid": "CM30W3IU3LI73fE",
       "runId": 419162358
+    },
+    "7F72c1G2WmTYZWR": {
+      "name": "Albedo",
+      "char": 9,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 3,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        7,
+        25
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "7F72c1G2WmTYZWR",
+      "runId": 419162358
+    },
+    "rI0Vr19z1vXI4vN": {
+      "name": "Silos",
+      "char": 9,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 113,
+      "win": false,
+      "kills": 218,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        21,
+        19,
+        1,
+        12
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "rI0Vr19z1vXI4vN",
+      "runId": 419162358
     }
   }
 }
