@@ -1593,17 +1593,20 @@
       "name": "Albedo",
       "char": 9,
       "skin": false,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 113,
-      "bwep": 3,
+      "wep": 2,
+      "bwep": 38,
       "win": false,
-      "kills": 39,
+      "kills": 114,
       "ultra": 0,
       "skills": [
         7,
-        25
+        25,
+        12,
+        2,
+        6
       ],
       "crown": 11,
       "version": 2616,
@@ -1633,6 +1636,50 @@
       "crown": 11,
       "version": 2616,
       "uid": "rI0Vr19z1vXI4vN",
+      "runId": 419162358
+    },
+    "q2ITp5f8K6Ly9I0": {
+      "name": "Toonz17",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 113,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        14,
+        28,
+        12
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "q2ITp5f8K6Ly9I0",
+      "runId": 419162358
+    },
+    "xebDU84if21MG4M": {
+      "name": "xablau",
+      "char": 9,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 14,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        7,
+        28,
+        2
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "xebDU84if21MG4M",
       "runId": 419162358
     }
   }
