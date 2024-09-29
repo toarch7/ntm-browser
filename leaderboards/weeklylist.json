@@ -2012,13 +2012,13 @@
       "name": "passwqrd",
       "char": 9,
       "skin": false,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 113,
-      "bwep": 0,
+      "wep": 4,
+      "bwep": 118,
       "win": false,
-      "kills": 263,
+      "kills": 382,
       "ultra": 0,
       "skills": [
         14,
@@ -2026,11 +2026,33 @@
         12,
         7,
         1,
-        27
+        27,
+        24,
+        22
       ],
       "crown": 11,
       "version": 2616,
       "uid": "qXXs0u2VZYq4Psm",
+      "runId": 419162358
+    },
+    "X0x8Q4vP1g357ZD": {
+      "name": "cristian",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 113,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "X0x8Q4vP1g357ZD",
       "runId": 419162358
     }
   }
