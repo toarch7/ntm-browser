@@ -1852,16 +1852,17 @@
       "char": 9,
       "skin": false,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 38,
-      "bwep": 113,
+      "wep": 75,
+      "bwep": 15,
       "win": false,
-      "kills": 66,
+      "kills": 91,
       "ultra": 0,
       "skills": [
         7,
-        28
+        28,
+        6
       ],
       "crown": 11,
       "version": 2616,
@@ -2104,6 +2105,30 @@
       "crown": 11,
       "version": 2616,
       "uid": "eeZ92298PI09uOH",
+      "runId": 419162358
+    },
+    "69H4iBAQ13o35QN": {
+      "name": "Seeker9",
+      "char": 9,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 49,
+      "win": false,
+      "kills": 184,
+      "ultra": 0,
+      "skills": [
+        7,
+        17,
+        27,
+        2,
+        6
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "69H4iBAQ13o35QN",
       "runId": 419162358
     }
   }
