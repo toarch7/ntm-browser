@@ -2163,6 +2163,50 @@
       "version": 2616,
       "uid": "7nN9Lke55GhBgR4",
       "runId": 419162358
+    },
+    "LG3xwgLtauVzwqP": {
+      "name": "ratarias",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 21,
+      "win": false,
+      "kills": 160,
+      "ultra": 0,
+      "skills": [
+        7,
+        28,
+        12,
+        19
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "LG3xwgLtauVzwqP",
+      "runId": 419162358
+    },
+    "W8Vwf49PPO9UWmd": {
+      "name": "Spide",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 0,
+      "bwep": 0,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        7,
+        25
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "W8Vwf49PPO9UWmd",
+      "runId": 419162358
     }
   }
 }
