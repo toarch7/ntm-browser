@@ -963,17 +963,14 @@
       "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 38,
-      "bwep": 58,
+      "wep": 77,
+      "bwep": 113,
       "win": false,
-      "kills": 163,
+      "kills": 185,
       "ultra": 0,
       "skills": [
         7,
-        25,
-        1,
-        19,
-        9
+        21
       ],
       "crown": 11,
       "version": 2616,
@@ -2270,6 +2267,27 @@
       "crown": 11,
       "version": 2616,
       "uid": "gM3527CPzcTPqKo",
+      "runId": 419162358
+    },
+    "cIhcZfo5su932pH": {
+      "name": "nothing7",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 113,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        7,
+        17
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "cIhcZfo5su932pH",
       "runId": 419162358
     }
   }
