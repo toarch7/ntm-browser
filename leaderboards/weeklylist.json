@@ -2045,15 +2045,18 @@
       "char": 9,
       "skin": false,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 19,
-      "bwep": 113,
+      "wep": 23,
+      "bwep": 61,
       "win": false,
-      "kills": 58,
+      "kills": 147,
       "ultra": 0,
       "skills": [
-        14
+        14,
+        25,
+        1,
+        7
       ],
       "crown": 11,
       "version": 2616,
