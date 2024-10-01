@@ -563,10 +563,10 @@
       "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 113,
+      "wep": 38,
       "bwep": 28,
       "win": false,
-      "kills": 151,
+      "kills": 161,
       "ultra": 0,
       "skills": [
         7,
@@ -2420,6 +2420,27 @@
       "crown": 11,
       "version": 2616,
       "uid": "vhj8lvmZR6A9937",
+      "runId": 419162358
+    },
+    "6waXVdiU8Y1jfqE": {
+      "name": "Wippo",
+      "char": 9,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 113,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        7,
+        28
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "6waXVdiU8Y1jfqE",
       "runId": 419162358
     }
   }
