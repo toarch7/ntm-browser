@@ -257,6 +257,71 @@
       "version": 2616,
       "uid": "c07luZTdz4Tt34E",
       "runId": 1069450169
+    },
+    "6waXVdiU8Y1jfqE": {
+      "name": "Wippo",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 6,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        16,
+        19
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "6waXVdiU8Y1jfqE",
+      "runId": 1069450169
+    },
+    "LtNa299FbbTh456": {
+      "name": "ALICAMARLOW",
+      "char": 8,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 80,
+      "bwep": 8,
+      "win": false,
+      "kills": 171,
+      "ultra": 0,
+      "skills": [
+        1,
+        9,
+        23,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "LtNa299FbbTh456",
+      "runId": 1069450169
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 55,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        16,
+        25
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 1069450169
     }
   }
 }
