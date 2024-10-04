@@ -117,13 +117,13 @@
       "name": "HerKing",
       "char": 8,
       "skin": false,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
       "wep": 12,
-      "bwep": 78,
+      "bwep": 0,
       "win": false,
-      "kills": 176,
+      "kills": 251,
       "ultra": 0,
       "skills": [
         1,
@@ -554,6 +554,29 @@
       "crown": 5,
       "version": 2616,
       "uid": "Y3K3E18fRx5G9U3",
+      "runId": 1069450169
+    },
+    "8Cb00P2oi49tP79": {
+      "name": "max",
+      "char": 8,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 78,
+      "bwep": 55,
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        1,
+        22,
+        23,
+        13
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "8Cb00P2oi49tP79",
       "runId": 1069450169
     }
   }
