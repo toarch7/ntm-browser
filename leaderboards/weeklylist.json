@@ -948,6 +948,50 @@
       "version": 2616,
       "uid": "D3dq83z8TCMrju2",
       "runId": 1069450169
+    },
+    "9nl5n0uQLT3n70U": {
+      "name": "SUSPICIUS",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 48,
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        28,
+        9
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "9nl5n0uQLT3n70U",
+      "runId": 1069450169
+    },
+    "wtLYhOAlCw6P81f": {
+      "name": "Ядерный_Сталин",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 12,
+      "win": false,
+      "kills": 222,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        19,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "wtLYhOAlCw6P81f",
+      "runId": 1069450169
     }
   }
 }
