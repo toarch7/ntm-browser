@@ -161,6 +161,51 @@
       "version": 2616,
       "uid": "J1310A51338h9Tx",
       "runId": 1749878390
+    },
+    "XgP7HrrKRJ7P1mv": {
+      "name": "Surpluss!",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 39,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XgP7HrrKRJ7P1mv",
+      "runId": 1749878390
+    },
+    "f3epTGx348x8hVF": {
+      "name": "null",
+      "char": 10,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 106,
+      "bwep": 64,
+      "win": false,
+      "kills": 365,
+      "ultra": 2,
+      "skills": [
+        27,
+        1,
+        8,
+        9,
+        21,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f3epTGx348x8hVF",
+      "runId": 1749878390
     }
   }
 }
