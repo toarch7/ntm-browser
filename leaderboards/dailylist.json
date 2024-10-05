@@ -255,6 +255,75 @@
       "version": 2616,
       "uid": "m3Ghf170HISs120",
       "runId": 1749878390
+    },
+    "3A08tu5U3eX67Bh": {
+      "name": "mama",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 34,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3A08tu5U3eX67Bh",
+      "runId": 1749878390
+    },
+    "wcw8p29P1BxW88g": {
+      "name": "Kira",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 112,
+      "win": false,
+      "kills": 184,
+      "ultra": 0,
+      "skills": [
+        21,
+        1,
+        13,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wcw8p29P1BxW88g",
+      "runId": 1749878390
+    },
+    "8g5mZfYRu8jNHQ6": {
+      "name": "Amogus",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 113,
+      "win": false,
+      "kills": 239,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        13,
+        3,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8g5mZfYRu8jNHQ6",
+      "runId": 1749878390
     }
   }
 }
