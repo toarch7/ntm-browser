@@ -423,6 +423,52 @@
       "version": 2616,
       "uid": "vhz16PHRAWn967S",
       "runId": 1749878390
+    },
+    "AC4a81p2u3HsgS4": {
+      "name": "Seeker",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 39,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "AC4a81p2u3HsgS4",
+      "runId": 1749878390
+    },
+    "wtLYhOAlCw6P81f": {
+      "name": "Ядерный_Сталин",
+      "char": 1,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 64,
+      "win": false,
+      "kills": 362,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        13,
+        9,
+        17,
+        7,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wtLYhOAlCw6P81f",
+      "runId": 1749878390
     }
   }
 }
