@@ -357,6 +357,101 @@
       "version": 2616,
       "uid": "u1oFU0aHFKh696I",
       "runId": 1851530847
+    },
+    "qmVcbi378k7fL78": {
+      "name": "Farreliebert",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 11,
+      "win": false,
+      "kills": 334,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        3,
+        9,
+        7,
+        1,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qmVcbi378k7fL78",
+      "runId": 1851530847
+    },
+    "58aDqIh6u7490iE": {
+      "name": "kapsul",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 6,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        3,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "58aDqIh6u7490iE",
+      "runId": 1851530847
+    },
+    "wcw8p29P1BxW88g": {
+      "name": "Kira",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 39,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wcw8p29P1BxW88g",
+      "runId": 1851530847
+    },
+    "eeZ92298PI09uOH": {
+      "name": "MrKulduk",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 25,
+      "win": false,
+      "kills": 337,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        3,
+        9,
+        27,
+        1,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "eeZ92298PI09uOH",
+      "runId": 1851530847
     }
   }
 }
