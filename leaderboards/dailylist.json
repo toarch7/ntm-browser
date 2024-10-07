@@ -607,6 +607,50 @@
       "version": 2616,
       "uid": "Wq0wIvmZc5K4d6m",
       "runId": 1917230466
+    },
+    "6IRD8QvkDN9Htse": {
+      "name": "straek",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        7,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6IRD8QvkDN9Htse",
+      "runId": 1917230466
+    },
+    "v9WqG9E1U93yRex": {
+      "name": "говноед",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 0,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        17,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "v9WqG9E1U93yRex",
+      "runId": 1917230466
     }
   }
 }
