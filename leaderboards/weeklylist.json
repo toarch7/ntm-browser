@@ -1,4 +1,74 @@
 {
   "seed": 962542536,
-  "entries": {}
+  "entries": {
+    "b70RLSd27T5G7IQ": {
+      "name": "zay",
+      "char": 5,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 84,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        10,
+        9
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "b70RLSd27T5G7IQ",
+      "runId": 962542536
+    },
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 84,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        14,
+        9,
+        8
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 962542536
+    },
+    "7m6rMl97DPjVY5B": {
+      "name": "huevo_minion_YT",
+      "char": 5,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 84,
+      "win": false,
+      "kills": 570,
+      "ultra": 2,
+      "skills": [
+        14,
+        9,
+        8,
+        27,
+        13,
+        23,
+        25
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "7m6rMl97DPjVY5B",
+      "runId": 962542536
+    }
+  }
 }
