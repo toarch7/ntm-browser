@@ -211,6 +211,89 @@
       "version": 2616,
       "uid": "WQt283AYMFl7F7N",
       "runId": 2145105909
+    },
+    "mQ6dxSp1osVs2vM": {
+      "name": "bloodhail",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 22,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mQ6dxSp1osVs2vM",
+      "runId": 2145105909
+    },
+    "wcw8p29P1BxW88g": {
+      "name": "Kira",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 21,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wcw8p29P1BxW88g",
+      "runId": 2145105909
+    },
+    "5KPXzSCoeD88b19": {
+      "name": "Xan",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 72,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        19,
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5KPXzSCoeD88b19",
+      "runId": 2145105909
+    },
+    "6p0OuDk2ye7q90X": {
+      "name": "seksi",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 72,
+      "bwep": 6,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        6,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6p0OuDk2ye7q90X",
+      "runId": 2145105909
     }
   }
 }
