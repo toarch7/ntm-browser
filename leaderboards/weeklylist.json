@@ -393,6 +393,53 @@
       "version": 2616,
       "uid": "M3q90bnZ7zzqN14",
       "runId": 962542536
+    },
+    "5KPXzSCoeD88b19": {
+      "name": "Xan",
+      "char": 5,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 84,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        14,
+        16
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "5KPXzSCoeD88b19",
+      "runId": 962542536
+    },
+    "W36AYDnfg5H5mwJ": {
+      "name": "3ds",
+      "char": 5,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 84,
+      "bwep": 17,
+      "win": false,
+      "kills": 384,
+      "ultra": 0,
+      "skills": [
+        14,
+        9,
+        27,
+        25,
+        12,
+        8,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "W36AYDnfg5H5mwJ",
+      "runId": 962542536
     }
   }
 }
