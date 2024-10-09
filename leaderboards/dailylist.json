@@ -586,6 +586,74 @@
       "version": 2616,
       "uid": "9EkyKX48VdSH7VW",
       "runId": 2145105909
+    },
+    "a576y2Tg2GA2cZp": {
+      "name": "TheGuy",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        3,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a576y2Tg2GA2cZp",
+      "runId": 2145105909
+    },
+    "mOC1UAznVNsuRAJ": {
+      "name": "Me.Moisses",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mOC1UAznVNsuRAJ",
+      "runId": 2145105909
+    },
+    "7m6rMl97DPjVY5B": {
+      "name": "huevo_minion_YT",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 34,
+      "win": false,
+      "kills": 278,
+      "ultra": 0,
+      "skills": [
+        6,
+        12,
+        4,
+        1,
+        14,
+        25,
+        7,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7m6rMl97DPjVY5B",
+      "runId": 2145105909
     }
   }
 }
