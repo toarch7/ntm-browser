@@ -667,6 +667,47 @@
       "version": 2616,
       "uid": "9EkyKX48VdSH7VW",
       "runId": 377866912
+    },
+    "PA50YVww3p30RuE": {
+      "name": "Retrocell",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "PA50YVww3p30RuE",
+      "runId": 377866912
+    },
+    "X0x8Q4vP1g357ZD": {
+      "name": "cristian",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 57,
+      "win": false,
+      "kills": 262,
+      "ultra": 0,
+      "skills": [
+        3,
+        27,
+        1,
+        17,
+        8,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "X0x8Q4vP1g357ZD",
+      "runId": 377866912
     }
   }
 }
