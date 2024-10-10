@@ -197,6 +197,47 @@
       "version": 2616,
       "uid": "XgP7HrrKRJ7P1mv",
       "runId": 377866912
+    },
+    "3C9hOmwuuEC8QQE": {
+      "name": "munoo",
+      "char": 3,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 61,
+      "win": false,
+      "kills": 298,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        27,
+        8,
+        12,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3C9hOmwuuEC8QQE",
+      "runId": 377866912
+    },
+    "2YG37NS8hh5U8FR": {
+      "name": "man",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "2YG37NS8hh5U8FR",
+      "runId": 377866912
     }
   }
 }
