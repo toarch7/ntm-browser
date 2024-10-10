@@ -329,6 +329,51 @@
       "version": 2616,
       "uid": "jHGP5U8dezYsBE1",
       "runId": 377866912
+    },
+    "8Cb00P2oi49tP79": {
+      "name": "max",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 69,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        3,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8Cb00P2oi49tP79",
+      "runId": 377866912
+    },
+    "mQ6dxSp1osVs2vM": {
+      "name": "bloodhail",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 13,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        3,
+        27,
+        23,
+        17,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mQ6dxSp1osVs2vM",
+      "runId": 377866912
     }
   }
 }
