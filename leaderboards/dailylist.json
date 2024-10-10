@@ -608,6 +608,65 @@
       "version": 2616,
       "uid": "Y3K3E18fRx5G9U3",
       "runId": 377866912
+    },
+    "gEyoSm098WwH5gV": {
+      "name": "Undertaker",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 17,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        3,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gEyoSm098WwH5gV",
+      "runId": 377866912
+    },
+    "3PtB4y137bpX0zl": {
+      "name": "Pofeticus11",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 17,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": 2616,
+      "uid": "3PtB4y137bpX0zl",
+      "runId": 377866912
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "VoideonLord",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 78,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        7,
+        23,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 377866912
     }
   }
 }
