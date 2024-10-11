@@ -1003,6 +1003,27 @@
       "version": 2616,
       "uid": "S2s15c61DM7441x",
       "runId": 962542536
+    },
+    "y7sZyNr1BC89yPZ": {
+      "name": "Sixel",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 69,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        25,
+        26
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "y7sZyNr1BC89yPZ",
+      "runId": 962542536
     }
   }
 }
