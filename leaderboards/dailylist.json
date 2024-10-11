@@ -577,6 +577,42 @@
       "version": 2616,
       "uid": "Is5F2iVekK2V7O8",
       "runId": 916960793
+    },
+    "GkiG8HtdnYHeRYZ": {
+      "name": "ADRIAN",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "GkiG8HtdnYHeRYZ",
+      "runId": 916960793
+    },
+    "o24maudW59Ag55M": {
+      "name": "1489",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 10,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "o24maudW59Ag55M",
+      "runId": 916960793
     }
   }
 }
