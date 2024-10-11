@@ -888,12 +888,13 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 84,
-      "bwep": 50,
+      "wep": 50,
+      "bwep": 84,
       "win": false,
-      "kills": 50,
+      "kills": 58,
       "ultra": 0,
       "skills": [
+        10,
         16
       ],
       "crown": 3,
@@ -1025,6 +1026,27 @@
       "crown": 3,
       "version": 2616,
       "uid": "y7sZyNr1BC89yPZ",
+      "runId": 962542536
+    },
+    "qhw8LnPwk8025jn": {
+      "name": "Seeker77",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 19,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        14,
+        9
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "qhw8LnPwk8025jn",
       "runId": 962542536
     }
   }
