@@ -322,6 +322,43 @@
       "version": 2616,
       "uid": "XgP7HrrKRJ7P1mv",
       "runId": 916960793
+    },
+    "8Cb00P2oi49tP79": {
+      "name": "max",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 18,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        28,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8Cb00P2oi49tP79",
+      "runId": 916960793
+    },
+    "LqI2L4S74DR70j6": {
+      "name": "Rah",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "LqI2L4S74DR70j6",
+      "runId": 916960793
     }
   }
 }
