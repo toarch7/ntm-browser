@@ -678,18 +678,18 @@
       "char": 5,
       "skin": true,
       "area": 7,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
       "wep": 84,
-      "bwep": 28,
+      "bwep": 58,
       "win": false,
-      "kills": 206,
+      "kills": 222,
       "ultra": 0,
       "skills": [
         14,
-        9,
         27,
-        16
+        9,
+        7
       ],
       "crown": 3,
       "version": 2616,
@@ -852,6 +852,51 @@
       "crown": 3,
       "version": 2616,
       "uid": "E79S7536XzjeG0K",
+      "runId": 962542536
+    },
+    "L9mjy4hS6zkf8A0": {
+      "name": "DarthurV",
+      "char": 5,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 68,
+      "bwep": 22,
+      "win": false,
+      "kills": 1353,
+      "ultra": 2,
+      "skills": [
+        14,
+        9,
+        27,
+        25,
+        12,
+        16
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "L9mjy4hS6zkf8A0",
+      "runId": 962542536
+    },
+    "8x90w9Y5jgL9UH4": {
+      "name": "venicio",
+      "char": 5,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 50,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "8x90w9Y5jgL9UH4",
       "runId": 962542536
     }
   }
