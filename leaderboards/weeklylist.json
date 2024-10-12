@@ -656,17 +656,21 @@
       "name": "Carrion",
       "char": 5,
       "skin": true,
-      "area": 3,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 57,
-      "bwep": 17,
+      "wep": 84,
+      "bwep": 23,
       "win": false,
-      "kills": 87,
+      "kills": 340,
       "ultra": 0,
       "skills": [
+        14,
+        16,
+        27,
         13,
-        16
+        23,
+        1
       ],
       "crown": 3,
       "version": 2616,
@@ -1168,6 +1172,29 @@
       "crown": 3,
       "version": 2616,
       "uid": "WQt283AYMFl7F7N",
+      "runId": 962542536
+    },
+    "PMQlYcaD202tZmI": {
+      "name": "tsun444",
+      "char": 5,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 26,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        14,
+        16,
+        8,
+        22
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "PMQlYcaD202tZmI",
       "runId": 962542536
     }
   }
