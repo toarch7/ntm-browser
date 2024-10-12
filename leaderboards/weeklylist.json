@@ -844,20 +844,20 @@
       "char": 5,
       "skin": true,
       "area": 7,
-      "subarea": 3,
+      "subarea": 2,
       "loops": 0,
       "wep": 84,
-      "bwep": 88,
+      "bwep": 13,
       "win": false,
-      "kills": 208,
+      "kills": 215,
       "ultra": 0,
       "skills": [
         14,
-        16,
+        9,
         8,
         22,
-        13,
-        29
+        27,
+        23
       ],
       "crown": 3,
       "version": 2616,
@@ -1258,6 +1258,27 @@
       "crown": 3,
       "version": 2616,
       "uid": "pChr46tqqv6eHhR",
+      "runId": 962542536
+    },
+    "V125N0NmHh97zfX": {
+      "name": "Raaaa",
+      "char": 5,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 69,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        10,
+        9
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "V125N0NmHh97zfX",
       "runId": 962542536
     }
   }
