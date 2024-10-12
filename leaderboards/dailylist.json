@@ -64,6 +64,51 @@
       "version": 2616,
       "uid": "m3Ghf170HISs120",
       "runId": 1795907349
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "VoideonLord",
+      "char": 11,
+      "skin": true,
+      "area": 105,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 23,
+      "win": false,
+      "kills": 233,
+      "ultra": 0,
+      "skills": [
+        7,
+        22,
+        27,
+        23,
+        13,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 1795907349
+    },
+    "S2s15c61DM7441x": {
+      "name": "tico",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "S2s15c61DM7441x",
+      "runId": 1795907349
     }
   }
 }
