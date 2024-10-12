@@ -1280,6 +1280,27 @@
       "version": 2616,
       "uid": "V125N0NmHh97zfX",
       "runId": 962542536
+    },
+    "bpa1O1p16Br2s0o": {
+      "name": "angru",
+      "char": 5,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 84,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        10,
+        9
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "bpa1O1p16Br2s0o",
+      "runId": 962542536
     }
   }
 }
