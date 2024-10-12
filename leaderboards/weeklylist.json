@@ -843,13 +843,13 @@
       "name": "Elpepe123_67",
       "char": 5,
       "skin": true,
-      "area": 7,
-      "subarea": 2,
-      "loops": 0,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
       "wep": 84,
-      "bwep": 13,
+      "bwep": 88,
       "win": false,
-      "kills": 215,
+      "kills": 231,
       "ultra": 0,
       "skills": [
         14,
@@ -857,7 +857,8 @@
         8,
         22,
         27,
-        23
+        23,
+        1
       ],
       "crown": 3,
       "version": 2616,
@@ -1300,6 +1301,28 @@
       "crown": 3,
       "version": 2616,
       "uid": "bpa1O1p16Br2s0o",
+      "runId": 962542536
+    },
+    "93z65lvxbCGUxaT": {
+      "name": "moises",
+      "char": 5,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 84,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        14,
+        16,
+        8
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "93z65lvxbCGUxaT",
       "runId": 962542536
     }
   }
