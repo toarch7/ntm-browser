@@ -1,4 +1,69 @@
 {
   "day": 12,
-  "entries": {}
+  "entries": {
+    "9dUEKyHJz1640m5": {
+      "name": "Ninjax",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9dUEKyHJz1640m5",
+      "runId": 1795907349
+    },
+    "s995ZWtekT207jx": {
+      "name": "kidow",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 13,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "s995ZWtekT207jx",
+      "runId": 1795907349
+    },
+    "m3Ghf170HISs120": {
+      "name": "Thwelnwzaaa",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 69,
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        7,
+        14,
+        22,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "m3Ghf170HISs120",
+      "runId": 1795907349
+    }
+  }
 }
