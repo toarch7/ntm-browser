@@ -1460,6 +1460,57 @@
       "version": 2616,
       "uid": "UvlA2LgiokLXmdF",
       "runId": 962542536
+    },
+    "ZfuO08B9l8h00f5": {
+      "name": "Лагающий2009",
+      "char": 5,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 89,
+      "bwep": 84,
+      "win": false,
+      "kills": 570,
+      "ultra": 1,
+      "skills": [
+        14,
+        9,
+        27,
+        25,
+        13,
+        23,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "ZfuO08B9l8h00f5",
+      "runId": 962542536
+    },
+    "JJouI9UBh20EpoB": {
+      "name": "Yordy",
+      "char": 5,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 114,
+      "win": false,
+      "kills": 351,
+      "ultra": 0,
+      "skills": [
+        14,
+        16,
+        8,
+        27,
+        7,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "JJouI9UBh20EpoB",
+      "runId": 962542536
     }
   }
 }
