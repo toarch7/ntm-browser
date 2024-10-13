@@ -297,6 +297,47 @@
       "version": 2616,
       "uid": "wMoFZw0K728rw20",
       "runId": 663081683
+    },
+    "a576y2Tg2GA2cZp": {
+      "name": "TheGuy",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 21,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        8,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a576y2Tg2GA2cZp",
+      "runId": 663081683
+    },
+    "93z65lvxbCGUxaT": {
+      "name": "moises",
+      "char": 5,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 21,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "93z65lvxbCGUxaT",
+      "runId": 663081683
     }
   }
 }
