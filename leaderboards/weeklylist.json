@@ -915,17 +915,18 @@
       "name": "kuma",
       "char": 5,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 84,
+      "wep": 79,
       "bwep": 20,
       "win": false,
-      "kills": 70,
+      "kills": 136,
       "ultra": 0,
       "skills": [
         14,
-        16
+        9,
+        22
       ],
       "crown": 3,
       "version": 2616,
