@@ -25,6 +25,48 @@
       "version": 2616,
       "uid": "gEyoSm098WwH5gV",
       "runId": 1109167149
+    },
+    "W36AYDnfg5H5mwJ": {
+      "name": "3ds",
+      "char": 1,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 4,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W36AYDnfg5H5mwJ",
+      "runId": 1109167149
+    },
+    "QCuF3Tq0085A195": {
+      "name": "cavees",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        6,
+        4,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "QCuF3Tq0085A195",
+      "runId": 1109167149
     }
   }
 }
