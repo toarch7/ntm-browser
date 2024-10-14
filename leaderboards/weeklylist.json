@@ -1578,6 +1578,57 @@
       "version": 2616,
       "uid": "veNM445KoAqLS4N",
       "runId": 962542536
+    },
+    "nHw8XWwp799mcTI": {
+      "name": "你好",
+      "char": 5,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 84,
+      "bwep": 124,
+      "win": false,
+      "kills": 1146,
+      "ultra": 2,
+      "skills": [
+        14,
+        9,
+        27,
+        25,
+        24,
+        7,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "nHw8XWwp799mcTI",
+      "runId": 962542536
+    },
+    "RSsmCCqF97Otj1T": {
+      "name": "Thian",
+      "char": 5,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 24,
+      "win": false,
+      "kills": 340,
+      "ultra": 0,
+      "skills": [
+        14,
+        9,
+        27,
+        26,
+        8,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "RSsmCCqF97Otj1T",
+      "runId": 962542536
     }
   }
 }
