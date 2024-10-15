@@ -175,6 +175,52 @@
       "version": 2616,
       "uid": "4GO416cYDkqPYkR",
       "runId": 508107105
+    },
+    "mQ6dxSp1osVs2vM": {
+      "name": "bloodhail",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 105,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "mQ6dxSp1osVs2vM",
+      "runId": 508107105
+    },
+    "Atxw7On7Hmll3c5": {
+      "name": "Pop_pop",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 105,
+      "win": false,
+      "kills": 340,
+      "ultra": 0,
+      "skills": [
+        1,
+        13,
+        23,
+        4,
+        10,
+        7,
+        3
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "Atxw7On7Hmll3c5",
+      "runId": 508107105
     }
   }
 }
