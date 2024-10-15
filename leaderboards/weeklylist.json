@@ -390,18 +390,18 @@
       "char": 6,
       "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 3,
-      "bwep": 105,
+      "wep": 105,
+      "bwep": 88,
       "win": false,
-      "kills": 154,
+      "kills": 244,
       "ultra": 0,
       "skills": [
         1,
         14,
         4,
-        10
+        6
       ],
       "crown": 6,
       "version": 2616,
@@ -477,6 +477,48 @@
       "crown": 6,
       "version": 2616,
       "uid": "ap1HWHwZtvEwD3i",
+      "runId": 508107105
+    },
+    "9YL55mLjaVuVyV1": {
+      "name": "lobyzon2903",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 105,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "9YL55mLjaVuVyV1",
+      "runId": 508107105
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "VoideonLord",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 16,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        23
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
       "runId": 508107105
     }
   }
