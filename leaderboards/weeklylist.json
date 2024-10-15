@@ -64,6 +64,29 @@
       "version": 2616,
       "uid": "2vKJlEswV5y2Hvx",
       "runId": 508107105
+    },
+    "MUE16OWxpZ65UH6": {
+      "name": "Nova",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 105,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        14,
+        4
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "MUE16OWxpZ65UH6",
+      "runId": 508107105
     }
   }
 }
