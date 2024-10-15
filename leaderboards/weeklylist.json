@@ -226,13 +226,13 @@
       "name": "abusamadresjone",
       "char": 6,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
       "wep": 19,
       "bwep": 105,
       "win": false,
-      "kills": 63,
+      "kills": 84,
       "ultra": 0,
       "skills": [
         1,
@@ -315,15 +315,22 @@
       "skin": true,
       "area": 2,
       "subarea": 1,
-      "loops": 0,
-      "wep": 88,
+      "loops": 1,
+      "wep": 24,
       "bwep": 105,
       "win": false,
-      "kills": 55,
-      "ultra": 0,
+      "kills": 683,
+      "ultra": 1,
       "skills": [
+        27,
+        14,
+        4,
+        23,
+        10,
+        25,
         1,
-        13
+        7,
+        3
       ],
       "crown": 6,
       "version": 2616,
@@ -374,6 +381,49 @@
       "crown": 6,
       "version": 2616,
       "uid": "kCYSmJ6emz05igU",
+      "runId": 508107105
+    },
+    "RSsmCCqF97Otj1T": {
+      "name": "Thian",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 105,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        27,
+        14
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "RSsmCCqF97Otj1T",
+      "runId": 508107105
+    },
+    "sL90uu9VO64Zn3G": {
+      "name": "Carrion",
+      "char": 6,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 7,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        23
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "sL90uu9VO64Zn3G",
       "runId": 508107105
     }
   }
