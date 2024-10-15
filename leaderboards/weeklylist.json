@@ -87,6 +87,49 @@
       "version": 2616,
       "uid": "MUE16OWxpZ65UH6",
       "runId": 508107105
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "1000THR",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 105,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        3,
+        23,
+        4
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
+      "runId": 508107105
+    },
+    "XgP7HrrKRJ7P1mv": {
+      "name": "Surpluss!",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 105,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "XgP7HrrKRJ7P1mv",
+      "runId": 508107105
     }
   }
 }
