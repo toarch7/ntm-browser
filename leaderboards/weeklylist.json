@@ -242,6 +242,26 @@
       "version": 2616,
       "uid": "OG6oUWfDQdLREP4",
       "runId": 508107105
+    },
+    "T0PSE76kQu8g6d7": {
+      "name": "Shadow",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 105,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "T0PSE76kQu8g6d7",
+      "runId": 508107105
     }
   }
 }
