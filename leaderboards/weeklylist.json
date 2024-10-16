@@ -297,17 +297,20 @@
       "name": "hollowknight616",
       "char": 6,
       "skin": true,
-      "area": 4,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 16,
-      "bwep": 105,
+      "wep": 23,
+      "bwep": 69,
       "win": false,
-      "kills": 64,
+      "kills": 163,
       "ultra": 0,
       "skills": [
         1,
-        4
+        12,
+        14,
+        4,
+        24
       ],
       "crown": 6,
       "version": 2616,
@@ -730,6 +733,74 @@
       "crown": 6,
       "version": 2616,
       "uid": "PBKdezEX87G8075",
+      "runId": 508107105
+    },
+    "316QNl3ACEA87zy": {
+      "name": "VALE",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 88,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "316QNl3ACEA87zy",
+      "runId": 508107105
+    },
+    "nHw8XWwp799mcTI": {
+      "name": "你好",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 62,
+      "bwep": 105,
+      "win": false,
+      "kills": 542,
+      "ultra": 1,
+      "skills": [
+        27,
+        12,
+        14,
+        4,
+        10,
+        1,
+        3
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "nHw8XWwp799mcTI",
+      "runId": 508107105
+    },
+    "kI45aZ2XeC2d2ui": {
+      "name": "gioluc04",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 16,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "kI45aZ2XeC2d2ui",
       "runId": 508107105
     }
   }
