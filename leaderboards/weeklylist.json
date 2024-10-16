@@ -343,18 +343,18 @@
       "name": "eclipselunar3",
       "char": 6,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 1,
       "loops": 0,
-      "wep": 69,
-      "bwep": 105,
+      "wep": 105,
+      "bwep": 88,
       "win": false,
-      "kills": 156,
+      "kills": 190,
       "ultra": 0,
       "skills": [
         1,
+        14,
         4,
-        13,
         25,
         10,
         23
@@ -540,6 +540,30 @@
       "crown": 6,
       "version": 2616,
       "uid": "QG253Pt5dYzFRCL",
+      "runId": 508107105
+    },
+    "f8EHF3hx1tKY0f6": {
+      "name": "FBeagle2662",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 38,
+      "win": false,
+      "kills": 266,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        10,
+        27,
+        7
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "f8EHF3hx1tKY0f6",
       "runId": 508107105
     }
   }
