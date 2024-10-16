@@ -395,13 +395,14 @@
       "wep": 105,
       "bwep": 88,
       "win": false,
-      "kills": 244,
+      "kills": 247,
       "ultra": 0,
       "skills": [
         1,
-        14,
+        12,
         4,
-        6
+        6,
+        8
       ],
       "crown": 6,
       "version": 2616,
@@ -659,6 +660,26 @@
       "crown": 6,
       "version": 2616,
       "uid": "TqP0kzADTfBSCIl",
+      "runId": 508107105
+    },
+    "D3dq83z8TCMrju2": {
+      "name": "seboso",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 105,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "D3dq83z8TCMrju2",
       "runId": 508107105
     }
   }
