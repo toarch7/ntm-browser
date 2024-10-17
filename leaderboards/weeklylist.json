@@ -827,6 +827,49 @@
       "version": 2616,
       "uid": "dD86763GUG0Y00r",
       "runId": 508107105
+    },
+    "1741JOC9ZcdKD30": {
+      "name": "sa",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 3,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "1741JOC9ZcdKD30",
+      "runId": 508107105
+    },
+    "4BUl7wgT3ZKfttp": {
+      "name": "dude_man_123",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 16,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        1,
+        13,
+        4
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "4BUl7wgT3ZKfttp",
+      "runId": 508107105
     }
   }
 }
