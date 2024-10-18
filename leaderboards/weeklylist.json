@@ -1256,6 +1256,48 @@
       "version": 2616,
       "uid": "V125N0NmHh97zfX",
       "runId": 508107105
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 21,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        14
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 508107105
+    },
+    "9FNvr6s89Uh2W90": {
+      "name": "zeno",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 105,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "9FNvr6s89Uh2W90",
+      "runId": 508107105
     }
   }
 }
