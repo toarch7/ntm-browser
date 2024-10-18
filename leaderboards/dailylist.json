@@ -1,4 +1,43 @@
 {
   "day": 18,
-  "entries": {}
+  "entries": {
+    "JJouI9UBh20EpoB": {
+      "name": "Yordy",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 2,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        7,
+        2,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "JJouI9UBh20EpoB",
+      "runId": 1434862993
+    },
+    "s4HD8UF9YlocVKg": {
+      "name": "dan",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "s4HD8UF9YlocVKg",
+      "runId": 1434862993
+    }
+  }
 }
