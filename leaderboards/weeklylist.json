@@ -1117,6 +1117,78 @@
       "version": 2616,
       "uid": "lC4sZC8L81G8Hb8",
       "runId": 508107105
+    },
+    "wMoFZw0K728rw20": {
+      "name": "Jerak",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 80,
+      "win": false,
+      "kills": 241,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        12,
+        10,
+        8
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "wMoFZw0K728rw20",
+      "runId": 508107105
+    },
+    "00HdYo5vEM08ikN": {
+      "name": "Togbot",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 105,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        23
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "00HdYo5vEM08ikN",
+      "runId": 508107105
+    },
+    "Wq0wIvmZc5K4d6m": {
+      "name": "elhombrejhoniel",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 119,
+      "win": false,
+      "kills": 290,
+      "ultra": 0,
+      "skills": [
+        27,
+        14,
+        12,
+        6,
+        10,
+        8,
+        28
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "Wq0wIvmZc5K4d6m",
+      "runId": 508107105
     }
   }
 }
