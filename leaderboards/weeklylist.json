@@ -1298,6 +1298,49 @@
       "version": 2616,
       "uid": "9FNvr6s89Uh2W90",
       "runId": 508107105
+    },
+    "q2ITp5f8K6Ly9I0": {
+      "name": "Toonz17",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 88,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        3,
+        12
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "q2ITp5f8K6Ly9I0",
+      "runId": 508107105
+    },
+    "ECs8Gulq55e4iBr": {
+      "name": "men",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 105,
+      "win": false,
+      "kills": 190,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        10
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "ECs8Gulq55e4iBr",
+      "runId": 508107105
     }
   }
 }
