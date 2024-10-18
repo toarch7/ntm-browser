@@ -1365,6 +1365,89 @@
       "version": 2616,
       "uid": "24oC1l0J5YFnEP6",
       "runId": 508107105
+    },
+    "vShCVo48g74s0S2": {
+      "name": "tuputamadre",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 16,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "vShCVo48g74s0S2",
+      "runId": 508107105
+    },
+    "BW21eYDyljjr5P7": {
+      "name": "dante",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 105,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "BW21eYDyljjr5P7",
+      "runId": 508107105
+    },
+    "veNM445KoAqLS4N": {
+      "name": "Тобепизда",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 105,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        1,
+        13
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "veNM445KoAqLS4N",
+      "runId": 508107105
+    },
+    "93z65lvxbCGUxaT": {
+      "name": "moises",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 105,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "93z65lvxbCGUxaT",
+      "runId": 508107105
     }
   }
 }
