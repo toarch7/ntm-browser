@@ -1562,6 +1562,48 @@
       "version": 2616,
       "uid": "5TeFSXVp2gN41W2",
       "runId": 508107105
+    },
+    "3A08tu5U3eX67Bh": {
+      "name": "mama",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 105,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "3A08tu5U3eX67Bh",
+      "runId": 508107105
+    },
+    "51TsxQS2NqwO38G": {
+      "name": "daft",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 105,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        27,
+        14
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "51TsxQS2NqwO38G",
+      "runId": 508107105
     }
   }
 }
