@@ -1626,6 +1626,27 @@
       "version": 2616,
       "uid": "QicgSah6h6Y8KG7",
       "runId": 508107105
+    },
+    "2lO7Wc5n1T9xg11": {
+      "name": "Geladeira",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 16,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "2lO7Wc5n1T9xg11",
+      "runId": 508107105
     }
   }
 }
