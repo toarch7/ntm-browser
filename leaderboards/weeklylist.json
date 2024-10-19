@@ -1471,6 +1471,29 @@
       "version": 2616,
       "uid": "C5NK0x36H7C06FF",
       "runId": 508107105
+    },
+    "dO82xj8ihx727Qm": {
+      "name": "darkness",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 105,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        13,
+        23
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "dO82xj8ihx727Qm",
+      "runId": 508107105
     }
   }
 }
