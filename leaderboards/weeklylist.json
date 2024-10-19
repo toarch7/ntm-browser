@@ -1436,16 +1436,19 @@
       "name": "moises",
       "char": 6,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
       "wep": 16,
       "bwep": 105,
       "win": false,
-      "kills": 76,
+      "kills": 110,
       "ultra": 0,
       "skills": [
-        1
+        1,
+        14,
+        17,
+        24
       ],
       "crown": 6,
       "version": 2616,
