@@ -324,6 +324,67 @@
       "version": 2616,
       "uid": "3C9hOmwuuEC8QQE",
       "runId": 751015003
+    },
+    "veNM445KoAqLS4N": {
+      "name": "Тобепизда",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 30,
+      "crown": 1,
+      "version": 2616,
+      "uid": "veNM445KoAqLS4N",
+      "runId": 751015003
+    },
+    "E79S7536XzjeG0K": {
+      "name": "Elpepe123_67",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 3,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        2,
+        12
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "E79S7536XzjeG0K",
+      "runId": 751015003
+    },
+    "24oC1l0J5YFnEP6": {
+      "name": "Centinela",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 34,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "24oC1l0J5YFnEP6",
+      "runId": 751015003
     }
   }
 }
