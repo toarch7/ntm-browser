@@ -326,6 +326,78 @@
       "version": 2616,
       "uid": "1pg0055Q4SHZ44T",
       "runId": 307746463
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 96,
+      "bwep": 84,
+      "win": false,
+      "kills": 436,
+      "ultra": 2,
+      "skills": [
+        14,
+        1,
+        8,
+        17,
+        6,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 307746463
+    },
+    "sL90uu9VO64Zn3G": {
+      "name": "Carrion",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 35,
+      "bwep": 84,
+      "win": false,
+      "kills": 375,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        1,
+        14,
+        17,
+        4,
+        6,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sL90uu9VO64Zn3G",
+      "runId": 307746463
+    },
+    "8rFqB5aXga493z0": {
+      "name": "([!_!])",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8rFqB5aXga493z0",
+      "runId": 307746463
     }
   }
 }
