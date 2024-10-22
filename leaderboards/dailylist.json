@@ -1,4 +1,101 @@
 {
   "day": 22,
-  "entries": {}
+  "entries": {
+    "W36AYDnfg5H5mwJ": {
+      "name": "3ds",
+      "char": 12,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 81,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        3,
+        10,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W36AYDnfg5H5mwJ",
+      "runId": 682253053
+    },
+    "sL90uu9VO64Zn3G": {
+      "name": "Carrion",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 113,
+      "win": false,
+      "kills": 341,
+      "ultra": 0,
+      "skills": [
+        3,
+        17,
+        27,
+        21,
+        1,
+        26,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sL90uu9VO64Zn3G",
+      "runId": 682253053
+    },
+    "QicgSah6h6Y8KG7": {
+      "name": "ErickMarlo",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 6,
+      "win": false,
+      "kills": 241,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        8,
+        21,
+        10,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "QicgSah6h6Y8KG7",
+      "runId": 682253053
+    },
+    "QCuF3Tq0085A195": {
+      "name": "cavees",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 4,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        9,
+        10,
+        4,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "QCuF3Tq0085A195",
+      "runId": 682253053
+    }
+  }
 }
