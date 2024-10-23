@@ -425,6 +425,52 @@
       "version": 2616,
       "uid": "PW2QULTiGje146B",
       "runId": 112378996
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 35,
+      "win": false,
+      "kills": 411,
+      "ultra": 2,
+      "skills": [
+        10,
+        6,
+        22,
+        14,
+        2,
+        8,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 112378996
+    },
+    "v9av565A5i0Wwbh": {
+      "name": "cheesekake",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 75,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "v9av565A5i0Wwbh",
+      "runId": 112378996
     }
   }
 }
