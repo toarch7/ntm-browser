@@ -319,12 +319,12 @@
       "char": 5,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 66,
-      "bwep": 17,
+      "wep": 13,
+      "bwep": 6,
       "win": false,
-      "kills": 91,
+      "kills": 135,
       "ultra": 0,
       "skills": [
         8,
@@ -354,6 +354,28 @@
       "crown": 5,
       "version": 2616,
       "uid": "707Lj8TiPQh3Rrj",
+      "runId": 81837998
+    },
+    "S2s15c61DM7441x": {
+      "name": "tico",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 66,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        9,
+        25,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "S2s15c61DM7441x",
       "runId": 81837998
     }
   }
