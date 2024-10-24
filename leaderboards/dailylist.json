@@ -1,4 +1,42 @@
 {
   "day": 24,
-  "entries": {}
+  "entries": {
+    "qX8rrAh0FUZa1q1": {
+      "name": "Mekaros",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "qX8rrAh0FUZa1q1",
+      "runId": 97521834
+    },
+    "W36AYDnfg5H5mwJ": {
+      "name": "3ds",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 6,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        13,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W36AYDnfg5H5mwJ",
+      "runId": 97521834
+    }
+  }
 }
