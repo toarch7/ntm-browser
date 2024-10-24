@@ -604,6 +604,27 @@
       "version": 2616,
       "uid": "f8EHF3hx1tKY0f6",
       "runId": 81837998
+    },
+    "LJw6J7Y03269yfd": {
+      "name": "INSJK",
+      "char": 5,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 17,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        3,
+        12
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "LJw6J7Y03269yfd",
+      "runId": 81837998
     }
   }
 }
