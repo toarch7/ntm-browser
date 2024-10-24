@@ -141,6 +141,42 @@
       "version": 2616,
       "uid": "3C9hOmwuuEC8QQE",
       "runId": 97521834
+    },
+    "Q3uBKsbSC4rpT2y": {
+      "name": "vacuum",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Q3uBKsbSC4rpT2y",
+      "runId": 97521834
+    },
+    "Fc3R55e55520n38": {
+      "name": "GN",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 3,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Fc3R55e55520n38",
+      "runId": 97521834
     }
   }
 }
