@@ -384,6 +384,47 @@
       "version": 2616,
       "uid": "7m6rMl97DPjVY5B",
       "runId": 449579860
+    },
+    "IQi572dzySEzbBS": {
+      "name": "yael",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "IQi572dzySEzbBS",
+      "runId": 449579860
+    },
+    "762rb7r97kIUm9J": {
+      "name": "migby",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 27,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        6,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "762rb7r97kIUm9J",
+      "runId": 449579860
     }
   }
 }
