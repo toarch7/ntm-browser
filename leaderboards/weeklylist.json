@@ -190,15 +190,15 @@
       "char": 5,
       "skin": true,
       "area": 3,
-      "subarea": 3,
+      "subarea": 1,
       "loops": 0,
-      "wep": 19,
-      "bwep": 66,
+      "wep": 66,
+      "bwep": 4,
       "win": false,
-      "kills": 76,
+      "kills": 94,
       "ultra": 0,
       "skills": [
-        7,
+        8,
         3
       ],
       "crown": 5,
@@ -978,6 +978,27 @@
       "crown": 5,
       "version": 2616,
       "uid": "JJouI9UBh20EpoB",
+      "runId": 81837998
+    },
+    "WaV3Xrx6pu1mrf4": {
+      "name": "mastranzo2349",
+      "char": 5,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 66,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        8,
+        2
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "WaV3Xrx6pu1mrf4",
       "runId": 81837998
     }
   }
