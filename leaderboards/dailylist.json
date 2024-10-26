@@ -558,6 +558,51 @@
       "version": 2616,
       "uid": "93z65lvxbCGUxaT",
       "runId": 814062332
+    },
+    "cNSHte3t99gRVyY": {
+      "name": "doomseeker",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 4,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        1,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cNSHte3t99gRVyY",
+      "runId": 814062332
+    },
+    "7m6rMl97DPjVY5B": {
+      "name": "huevo_minion_YT",
+      "char": 11,
+      "skin": true,
+      "area": 105,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 2,
+      "win": false,
+      "kills": 241,
+      "ultra": 0,
+      "skills": [
+        13,
+        14,
+        1,
+        27,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7m6rMl97DPjVY5B",
+      "runId": 814062332
     }
   }
 }
