@@ -936,6 +936,49 @@
       "version": 2616,
       "uid": "6e6gQfrX7U9ZpMF",
       "runId": 81837998
+    },
+    "4y8K538jEI7YUDZ": {
+      "name": "darw",
+      "char": 5,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 88,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        12,
+        25,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "4y8K538jEI7YUDZ",
+      "runId": 81837998
+    },
+    "JJouI9UBh20EpoB": {
+      "name": "Yordy",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 66,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        8,
+        3
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "JJouI9UBh20EpoB",
+      "runId": 81837998
     }
   }
 }
