@@ -501,6 +501,75 @@
       "version": 2616,
       "uid": "bhPq3316Q60uSUq",
       "runId": 1059601106
+    },
+    "XgP7HrrKRJ7P1mv": {
+      "name": "Surpluss!",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XgP7HrrKRJ7P1mv",
+      "runId": 1059601106
+    },
+    "Wk21w1ZDv8z1Xuw": {
+      "name": "TheSturmTiger",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 41,
+      "bwep": 58,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        10,
+        1,
+        12,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Wk21w1ZDv8z1Xuw",
+      "runId": 1059601106
+    },
+    "3C9hOmwuuEC8QQE": {
+      "name": "munoo",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 70,
+      "win": false,
+      "kills": 224,
+      "ultra": 0,
+      "skills": [
+        22,
+        1,
+        7,
+        12,
+        27,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3C9hOmwuuEC8QQE",
+      "runId": 1059601106
     }
   }
 }
