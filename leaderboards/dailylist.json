@@ -207,6 +207,48 @@
       "version": 2616,
       "uid": "8Cb00P2oi49tP79",
       "runId": 1059601106
+    },
+    "1g5i3ZqY67zH0EP": {
+      "name": "Ahmed",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 16,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1g5i3ZqY67zH0EP",
+      "runId": 1059601106
+    },
+    "24GZfg3TY4hXnaX": {
+      "name": "VanMarsius",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 1,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        22,
+        4,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "24GZfg3TY4hXnaX",
+      "runId": 1059601106
     }
   }
 }
