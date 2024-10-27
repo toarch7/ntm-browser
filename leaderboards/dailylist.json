@@ -341,6 +341,48 @@
       "version": 2616,
       "uid": "0JSO0K2H7Nx222R",
       "runId": 1059601106
+    },
+    "eMC08U62dHB4n4t": {
+      "name": "a_cake",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 16,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "eMC08U62dHB4n4t",
+      "runId": 1059601106
+    },
+    "9jYNDG7ZYN4F99C": {
+      "name": "rading_nugget",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 165,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9jYNDG7ZYN4F99C",
+      "runId": 1059601106
     }
   }
 }
