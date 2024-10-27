@@ -594,6 +594,67 @@
       "version": 2616,
       "uid": "jHGP5U8dezYsBE1",
       "runId": 1059601106
+    },
+    "mk51YFu104pgK8Q": {
+      "name": "esta",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 10,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mk51YFu104pgK8Q",
+      "runId": 1059601106
+    },
+    "0A42G0sB5669UgH": {
+      "name": "rey",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 21,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        17,
+        7,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0A42G0sB5669UgH",
+      "runId": 1059601106
+    },
+    "f3epTGx348x8hVF": {
+      "name": "101st",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 69,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        10,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f3epTGx348x8hVF",
+      "runId": 1059601106
     }
   }
 }
