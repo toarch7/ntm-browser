@@ -495,6 +495,65 @@
       "version": 2616,
       "uid": "UxuusRHJnhskojb",
       "runId": 1127918186
+    },
+    "ie4tKDa5FB99wFN": {
+      "name": "extifiz",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "ie4tKDa5FB99wFN",
+      "runId": 1127918186
+    },
+    "24oC1l0J5YFnEP6": {
+      "name": "Centinela",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        7,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "24oC1l0J5YFnEP6",
+      "runId": 1127918186
+    },
+    "QCuF3Tq0085A195": {
+      "name": "cavees",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 17,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        28,
+        4,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "QCuF3Tq0085A195",
+      "runId": 1127918186
     }
   }
 }
