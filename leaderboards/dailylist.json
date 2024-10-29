@@ -1,4 +1,89 @@
 {
   "day": 29,
-  "entries": {}
+  "entries": {
+    "MR08N25XhaQC4FS": {
+      "name": "jain",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MR08N25XhaQC4FS",
+      "runId": 2135350956
+    },
+    "306vtH3q09WO8E3": {
+      "name": "Vessel",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "306vtH3q09WO8E3",
+      "runId": 2135350956
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 114,
+      "bwep": 4,
+      "win": false,
+      "kills": 259,
+      "ultra": 0,
+      "skills": [
+        27,
+        7,
+        8,
+        25,
+        10,
+        12,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 2135350956
+    },
+    "461AJj4Nh90HrOS": {
+      "name": "marcosxd",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 2,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        27,
+        7,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "461AJj4Nh90HrOS",
+      "runId": 2135350956
+    }
+  }
 }
