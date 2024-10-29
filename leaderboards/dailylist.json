@@ -475,6 +475,70 @@
       "version": 2616,
       "uid": "8rFqB5aXga493z0",
       "runId": 2135350956
+    },
+    "842Ae5R4DktjPH3": {
+      "name": "залупень",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "842Ae5R4DktjPH3",
+      "runId": 2135350956
+    },
+    "Wk21w1ZDv8z1Xuw": {
+      "name": "TheSturmTiger",
+      "char": 6,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 17,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        3,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Wk21w1ZDv8z1Xuw",
+      "runId": 2135350956
+    },
+    "E79S7536XzjeG0K": {
+      "name": "Elpepe123_67",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 64,
+      "win": false,
+      "kills": 365,
+      "ultra": 0,
+      "skills": [
+        27,
+        7,
+        8,
+        2,
+        12,
+        10,
+        4,
+        23
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "E79S7536XzjeG0K",
+      "runId": 2135350956
     }
   }
 }
