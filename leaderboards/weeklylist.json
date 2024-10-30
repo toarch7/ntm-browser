@@ -192,14 +192,16 @@
       "subarea": 3,
       "loops": 0,
       "wep": 65,
-      "bwep": 4,
+      "bwep": 34,
       "win": false,
-      "kills": 107,
+      "kills": 232,
       "ultra": 0,
       "skills": [
-        2,
+        14,
+        7,
         12,
-        26
+        6,
+        1
       ],
       "crown": 9,
       "version": 2616,
@@ -1033,6 +1035,29 @@
       "crown": 9,
       "version": 2616,
       "uid": "7056Muql8o2Dmj1",
+      "runId": 83443450
+    },
+    "C5NK0x36H7C06FF": {
+      "name": "Соплежуй",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 65,
+      "win": false,
+      "kills": 225,
+      "ultra": 0,
+      "skills": [
+        6,
+        9,
+        23,
+        14
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "C5NK0x36H7C06FF",
       "runId": 83443450
     }
   }
