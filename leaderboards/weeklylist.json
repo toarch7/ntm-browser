@@ -864,17 +864,20 @@
       "name": "Seekñ",
       "char": 2,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
       "wep": 65,
-      "bwep": 6,
+      "bwep": 34,
       "win": false,
-      "kills": 83,
+      "kills": 198,
       "ultra": 0,
       "skills": [
         14,
-        9
+        9,
+        12,
+        19,
+        8
       ],
       "crown": 9,
       "version": 2616,
@@ -1399,6 +1402,73 @@
       "crown": 9,
       "version": 2616,
       "uid": "553Smcz12OC0upc",
+      "runId": 83443450
+    },
+    "O5m5z2YNtPNZmH0": {
+      "name": "qochlea",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 20,
+      "win": false,
+      "kills": 211,
+      "ultra": 0,
+      "skills": [
+        6,
+        7,
+        23,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "O5m5z2YNtPNZmH0",
+      "runId": 83443450
+    },
+    "Wl29i7LCpvzUrfr": {
+      "name": "NeoSamana",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 0,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        6,
+        7
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "Wl29i7LCpvzUrfr",
+      "runId": 83443450
+    },
+    "T3dB9m0431M5O9k": {
+      "name": "voyporti",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 3,
+      "win": false,
+      "kills": 220,
+      "ultra": 0,
+      "skills": [
+        6,
+        7,
+        19,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "T3dB9m0431M5O9k",
       "runId": 83443450
     }
   }
