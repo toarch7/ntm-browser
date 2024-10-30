@@ -478,6 +478,49 @@
       "version": 2616,
       "uid": "m96PH9ISC2JCNsw",
       "runId": 655102831
+    },
+    "8636Amp1XEyygxJ": {
+      "name": "MrPrstchk",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 3,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8636Amp1XEyygxJ",
+      "runId": 655102831
+    },
+    "FWqaEmV3Fnn6hS8": {
+      "name": "kiu",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 28,
+      "win": false,
+      "kills": 165,
+      "ultra": 0,
+      "skills": [
+        12,
+        21,
+        19,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "FWqaEmV3Fnn6hS8",
+      "runId": 655102831
     }
   }
 }
