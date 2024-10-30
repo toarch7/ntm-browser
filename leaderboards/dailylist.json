@@ -283,6 +283,69 @@
       "version": 2616,
       "uid": "E79S7536XzjeG0K",
       "runId": 655102831
+    },
+    "uuG618z3fKffVMh": {
+      "name": "0",
+      "char": 5,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 63,
+      "win": false,
+      "kills": 242,
+      "ultra": 0,
+      "skills": [
+        23,
+        8,
+        6,
+        7,
+        9,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uuG618z3fKffVMh",
+      "runId": 655102831
+    },
+    "0V960yqUJ9EK22g": {
+      "name": "Ranchero",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "0V960yqUJ9EK22g",
+      "runId": 655102831
+    },
+    "571Y8x7pDcmMMRF": {
+      "name": "Seeker82",
+      "char": 2,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 16,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        19,
+        8,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "571Y8x7pDcmMMRF",
+      "runId": 655102831
     }
   }
 }
