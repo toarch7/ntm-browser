@@ -295,6 +295,51 @@
       "version": 2616,
       "uid": "f3epTGx348x8hVF",
       "runId": 1092907937
+    },
+    "E79S7536XzjeG0K": {
+      "name": "Elpepe123_67",
+      "char": 2,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 119,
+      "win": false,
+      "kills": 172,
+      "ultra": 0,
+      "skills": [
+        9,
+        10,
+        8,
+        22,
+        28
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "E79S7536XzjeG0K",
+      "runId": 1092907937
+    },
+    "Is5F2iVekK2V7O8": {
+      "name": "El",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        14,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Is5F2iVekK2V7O8",
+      "runId": 1092907937
     }
   }
 }
