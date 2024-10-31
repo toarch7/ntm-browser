@@ -229,6 +229,51 @@
       "version": 2616,
       "uid": "m3Ghf170HISs120",
       "runId": 1092907937
+    },
+    "2O9Y54u4SJlP76L": {
+      "name": "zaq",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 20,
+      "win": false,
+      "kills": 232,
+      "ultra": 0,
+      "skills": [
+        9,
+        3,
+        12,
+        4,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2O9Y54u4SJlP76L",
+      "runId": 1092907937
+    },
+    "7N979eV82aFJiD8": {
+      "name": "a_cake",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 7,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        14,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7N979eV82aFJiD8",
+      "runId": 1092907937
     }
   }
 }
