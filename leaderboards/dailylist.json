@@ -635,6 +635,49 @@
       "version": 2616,
       "uid": "kCYSmJ6emz05igU",
       "runId": 372219020
+    },
+    "FWqaEmV3Fnn6hS8": {
+      "name": "kiu",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 66,
+      "win": false,
+      "kills": 236,
+      "ultra": 0,
+      "skills": [
+        19,
+        16,
+        21,
+        12
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "FWqaEmV3Fnn6hS8",
+      "runId": 372219020
+    },
+    "A15qH05LnMM7vgr": {
+      "name": "cocknballs",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 21,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "A15qH05LnMM7vgr",
+      "runId": 372219020
     }
   }
 }
