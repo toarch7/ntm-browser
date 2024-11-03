@@ -566,6 +566,49 @@
       "version": 2616,
       "uid": "7m6rMl97DPjVY5B",
       "runId": 2023793889
+    },
+    "veNM445KoAqLS4N": {
+      "name": "Тобепизда",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 17,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        12,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "veNM445KoAqLS4N",
+      "runId": 2023793889
+    },
+    "P6PtM0uC7GZ3Wtp": {
+      "name": "Seeker71",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 69,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        22,
+        14,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "P6PtM0uC7GZ3Wtp",
+      "runId": 2023793889
     }
   }
 }
