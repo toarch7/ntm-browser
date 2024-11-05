@@ -341,6 +341,54 @@
       "version": 2616,
       "uid": "7m6rMl97DPjVY5B",
       "runId": 1099247727
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "VoideonLord",
+      "char": 11,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 30,
+      "win": false,
+      "kills": 407,
+      "ultra": 2,
+      "skills": [
+        22,
+        23,
+        27,
+        1,
+        7,
+        3,
+        25,
+        9
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 1099247727
+    },
+    "Is5F2iVekK2V7O8": {
+      "name": "El",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        14,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Is5F2iVekK2V7O8",
+      "runId": 1099247727
     }
   }
 }
