@@ -90,6 +90,79 @@
       "version": 2616,
       "uid": "65Pc97nEcKyODFS",
       "runId": 1674678237
+    },
+    "POCkp4qcG12ktQa": {
+      "name": "Bababam",
+      "char": 7,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "POCkp4qcG12ktQa",
+      "runId": 1674678237
+    },
+    "Diz57Mfp2AW1bGc": {
+      "name": "Goidaslav",
+      "char": 11,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 11,
+      "win": false,
+      "kills": 346,
+      "ultra": 1,
+      "skills": [
+        10,
+        7,
+        13,
+        27,
+        23,
+        21,
+        17,
+        29
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Diz57Mfp2AW1bGc",
+      "runId": 1674678237
+    },
+    "gM3527CPzcTPqKo": {
+      "name": "Rhythm",
+      "char": 2,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 62,
+      "win": false,
+      "kills": 276,
+      "ultra": 0,
+      "skills": [
+        14,
+        7,
+        9,
+        27,
+        17,
+        23,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gM3527CPzcTPqKo",
+      "runId": 1674678237
     }
   }
 }
