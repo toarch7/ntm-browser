@@ -293,6 +293,43 @@
       "version": 2616,
       "uid": "4E6O9YT8T1IQC9u",
       "runId": 131202783
+    },
+    "b1DmqA57QWvUIGN": {
+      "name": "bi",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 6,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        4,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "b1DmqA57QWvUIGN",
+      "runId": 131202783
+    },
+    "9QW33A5X25T00G4": {
+      "name": "bentley",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "9QW33A5X25T00G4",
+      "runId": 131202783
     }
   }
 }
