@@ -142,18 +142,21 @@
       "name": "IsmaaBoiii",
       "char": 4,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 2,
       "loops": 0,
-      "wep": 76,
-      "bwep": 7,
+      "wep": 11,
+      "bwep": 76,
       "win": false,
-      "kills": 130,
+      "kills": 211,
       "ultra": 0,
       "skills": [
         16,
         3,
-        1
+        1,
+        7,
+        25,
+        9
       ],
       "crown": 13,
       "version": 2616,
@@ -814,6 +817,29 @@
       "crown": 13,
       "version": 2616,
       "uid": "POCkp4qcG12ktQa",
+      "runId": 1725768678
+    },
+    "t742Zml0cj816Qk": {
+      "name": "Seeker7",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 76,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        12,
+        3,
+        19,
+        14
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "t742Zml0cj816Qk",
       "runId": 1725768678
     }
   }
