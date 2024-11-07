@@ -117,6 +117,26 @@
       "version": 2616,
       "uid": "m3Ghf170HISs120",
       "runId": 131202783
+    },
+    "veNM445KoAqLS4N": {
+      "name": "Тобепизда",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "veNM445KoAqLS4N",
+      "runId": 131202783
     }
   }
 }
