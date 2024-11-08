@@ -1114,18 +1114,20 @@
       "name": "bloodhail",
       "char": 4,
       "skin": true,
-      "area": 104,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 38,
-      "bwep": 13,
+      "wep": 76,
+      "bwep": 49,
       "win": false,
-      "kills": 133,
+      "kills": 267,
       "ultra": 0,
       "skills": [
         23,
         3,
-        1
+        1,
+        4,
+        10
       ],
       "crown": 13,
       "version": 2616,
@@ -1153,6 +1155,28 @@
       "crown": 13,
       "version": 2616,
       "uid": "40z5Xi3T0O441Zq",
+      "runId": 1725768678
+    },
+    "X0x8Q4vP1g357ZD": {
+      "name": "cristian",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 44,
+      "bwep": 76,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        23,
+        14,
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "X0x8Q4vP1g357ZD",
       "runId": 1725768678
     }
   }
