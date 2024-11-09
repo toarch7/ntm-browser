@@ -1038,21 +1038,21 @@
       "char": 4,
       "skin": true,
       "area": 7,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 23,
-      "bwep": 34,
+      "wep": 76,
+      "bwep": 119,
       "win": false,
-      "kills": 325,
-      "ultra": 0,
+      "kills": 353,
+      "ultra": 1,
       "skills": [
-        13,
-        4,
+        23,
         14,
         1,
-        25,
+        4,
         10,
-        17
+        25,
+        6
       ],
       "crown": 13,
       "version": 2616,
@@ -1180,6 +1180,28 @@
       "crown": 13,
       "version": 2616,
       "uid": "X0x8Q4vP1g357ZD",
+      "runId": 1725768678
+    },
+    "82fh2WKa1D9lV3q": {
+      "name": "Sparks76",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 76,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        23,
+        14,
+        19
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "82fh2WKa1D9lV3q",
       "runId": 1725768678
     }
   }
