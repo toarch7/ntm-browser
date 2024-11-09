@@ -1236,19 +1236,19 @@
       "name": "Surpluss!",
       "char": 4,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 76,
-      "bwep": 112,
+      "wep": 75,
+      "bwep": 27,
       "win": false,
-      "kills": 127,
+      "kills": 139,
       "ultra": 0,
       "skills": [
-        16,
-        6,
+        13,
         14,
-        1
+        1,
+        6
       ],
       "crown": 13,
       "version": 2616,
@@ -1380,6 +1380,28 @@
       "crown": 13,
       "version": 2616,
       "uid": "lXm47fV86Cm91a7",
+      "runId": 1725768678
+    },
+    "oX09P6u6CE4n79G": {
+      "name": "Рост999",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 27,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        23,
+        4,
+        3
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "oX09P6u6CE4n79G",
       "runId": 1725768678
     }
   }
