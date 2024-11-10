@@ -412,6 +412,43 @@
       "version": 2616,
       "uid": "ZpCzn19SY85dE7f",
       "runId": 228506346
+    },
+    "QG253Pt5dYzFRCL": {
+      "name": "RZleonardo",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 21,
+      "win": false,
+      "kills": 18,
+      "crown": 1,
+      "version": 2616,
+      "uid": "QG253Pt5dYzFRCL",
+      "runId": 228506346
+    },
+    "f3epTGx348x8hVF": {
+      "name": "101st",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        16,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f3epTGx348x8hVF",
+      "runId": 228506346
     }
   }
 }
