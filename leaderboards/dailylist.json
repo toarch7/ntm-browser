@@ -108,6 +108,27 @@
       "version": 2616,
       "uid": "Oe6azzw21cpj3f7",
       "runId": 345361300
+    },
+    "sL90uu9VO64Zn3G": {
+      "name": "Carrion",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 27,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        1,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sL90uu9VO64Zn3G",
+      "runId": 345361300
     }
   }
 }
