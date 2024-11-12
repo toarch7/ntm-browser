@@ -433,6 +433,48 @@
       "version": 2616,
       "uid": "f3epTGx348x8hVF",
       "runId": 611968010
+    },
+    "N4SjVyu373vjz30": {
+      "name": "Ninjang",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 44,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        4,
+        14,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "N4SjVyu373vjz30",
+      "runId": 611968010
+    },
+    "LA7DCL2j67X3Nnh": {
+      "name": "Macheteknight",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 21,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "LA7DCL2j67X3Nnh",
+      "runId": 611968010
     }
   }
 }
