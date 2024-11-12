@@ -1,4 +1,67 @@
 {
   "day": 12,
-  "entries": {}
+  "entries": {
+    "3PtB4y137bpX0zl": {
+      "name": "Pofeticus11",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 63,
+      "win": false,
+      "kills": 245,
+      "ultra": 0,
+      "skills": [
+        14,
+        4,
+        13,
+        10,
+        21
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "3PtB4y137bpX0zl",
+      "runId": 611968010
+    },
+    "W36AYDnfg5H5mwJ": {
+      "name": "3ds",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W36AYDnfg5H5mwJ",
+      "runId": 611968010
+    },
+    "T311Gd1XlAaSv6D": {
+      "name": "Seeker90",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 3,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "T311Gd1XlAaSv6D",
+      "runId": 611968010
+    }
+  }
 }
