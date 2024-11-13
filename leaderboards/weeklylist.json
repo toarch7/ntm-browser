@@ -5,17 +5,18 @@
       "name": "Surpluss!",
       "char": 5,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 61,
-      "bwep": 7,
+      "wep": 58,
+      "bwep": 9,
       "win": false,
-      "kills": 80,
+      "kills": 195,
       "ultra": 0,
       "skills": [
         6,
-        14
+        14,
+        4
       ],
       "crown": 9,
       "version": 2616,
