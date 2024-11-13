@@ -1,4 +1,95 @@
 {
   "seed": 1971295831,
-  "entries": {}
+  "entries": {
+    "XgP7HrrKRJ7P1mv": {
+      "name": "Surpluss!",
+      "char": 5,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 61,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        6,
+        2
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "XgP7HrrKRJ7P1mv",
+      "runId": 1971295831
+    },
+    "5TeFSXVp2gN41W2": {
+      "name": "M0n",
+      "char": 5,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 58,
+      "bwep": 60,
+      "win": false,
+      "kills": 804,
+      "ultra": 1,
+      "skills": [
+        14,
+        13,
+        17,
+        29,
+        12,
+        7,
+        10
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "5TeFSXVp2gN41W2",
+      "runId": 1971295831
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 5,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 61,
+      "win": false,
+      "kills": 188,
+      "ultra": 0,
+      "skills": [
+        6,
+        2,
+        27,
+        12
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 1971295831
+    },
+    "JHC4k0LUSnj9ExA": {
+      "name": "yairh",
+      "char": 5,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 0,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "JHC4k0LUSnj9ExA",
+      "runId": 1971295831
+    }
+  }
 }
