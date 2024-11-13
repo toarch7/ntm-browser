@@ -5,17 +5,17 @@
       "name": "Surpluss!",
       "char": 5,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 3,
-      "bwep": 61,
+      "wep": 61,
+      "bwep": 7,
       "win": false,
-      "kills": 67,
+      "kills": 80,
       "ultra": 0,
       "skills": [
         6,
-        2
+        14
       ],
       "crown": 9,
       "version": 2616,
@@ -89,6 +89,28 @@
       "crown": 9,
       "version": 2616,
       "uid": "JHC4k0LUSnj9ExA",
+      "runId": 1971295831
+    },
+    "Xuk9oMa9zE7ctfe": {
+      "name": "Elsolitario",
+      "char": 5,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 9,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        6,
+        3,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "Xuk9oMa9zE7ctfe",
       "runId": 1971295831
     }
   }
