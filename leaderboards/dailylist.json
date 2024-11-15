@@ -1,4 +1,47 @@
 {
   "day": 15,
-  "entries": {}
+  "entries": {
+    "6w6G9gpVk2w06r9": {
+      "name": "ButtHoleDestroy",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 19,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        23,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6w6G9gpVk2w06r9",
+      "runId": 800424859
+    },
+    "04E2mTfPcFInvXd": {
+      "name": "chorizo",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 7,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        27,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "04E2mTfPcFInvXd",
+      "runId": 800424859
+    }
+  }
 }
