@@ -363,21 +363,22 @@
       "name": "huevo_minion_YT",
       "char": 5,
       "skin": true,
-      "area": 5,
+      "area": 1,
       "subarea": 3,
-      "loops": 0,
-      "wep": 61,
-      "bwep": 58,
+      "loops": 2,
+      "wep": 11,
+      "bwep": 96,
       "win": false,
-      "kills": 250,
-      "ultra": 0,
+      "kills": 1663,
+      "ultra": 1,
       "skills": [
+        25,
         14,
-        13,
         27,
-        22,
         12,
-        21
+        21,
+        10,
+        4
       ],
       "crown": 9,
       "version": 2616,
@@ -949,6 +950,28 @@
       "crown": 9,
       "version": 2616,
       "uid": "A0w8YZr6wk5I7sj",
+      "runId": 1971295831
+    },
+    "L9mjy4hS6zkf8A0": {
+      "name": "DarthurV",
+      "char": 5,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 21,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        12,
+        25,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "L9mjy4hS6zkf8A0",
       "runId": 1971295831
     }
   }
