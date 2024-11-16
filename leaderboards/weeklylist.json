@@ -1087,18 +1087,19 @@
       "name": "jake",
       "char": 5,
       "skin": true,
-      "area": 4,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
       "wep": 61,
-      "bwep": 20,
+      "bwep": 58,
       "win": false,
-      "kills": 174,
+      "kills": 189,
       "ultra": 0,
       "skills": [
         6,
         2,
-        4
+        4,
+        26
       ],
       "crown": 9,
       "version": 2616,
@@ -1130,6 +1131,28 @@
       "crown": 9,
       "version": 2616,
       "uid": "qlv1GatdYck1054",
+      "runId": 1971295831
+    },
+    "Yerm1S0ogmK1j00": {
+      "name": "Yoshi",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 0,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        14,
+        25,
+        27
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "Yerm1S0ogmK1j00",
       "runId": 1971295831
     }
   }
