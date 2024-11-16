@@ -978,17 +978,17 @@
       "name": "auau",
       "char": 5,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 61,
-      "bwep": 0,
+      "wep": 6,
+      "bwep": 61,
       "win": false,
-      "kills": 138,
+      "kills": 149,
       "ultra": 0,
       "skills": [
         3,
-        4
+        22
       ],
       "crown": 9,
       "version": 2616,
@@ -1081,6 +1081,55 @@
       "crown": 9,
       "version": 2616,
       "uid": "9n5ADQaiQ095LJ8",
+      "runId": 1971295831
+    },
+    "52lBCLsls8323jg": {
+      "name": "jake",
+      "char": 5,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 20,
+      "win": false,
+      "kills": 174,
+      "ultra": 0,
+      "skills": [
+        6,
+        2,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "52lBCLsls8323jg",
+      "runId": 1971295831
+    },
+    "qlv1GatdYck1054": {
+      "name": "Shadow",
+      "char": 5,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 23,
+      "bwep": 84,
+      "win": false,
+      "kills": 379,
+      "ultra": 0,
+      "skills": [
+        12,
+        25,
+        4,
+        27,
+        28,
+        9,
+        10,
+        8
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "qlv1GatdYck1054",
       "runId": 1971295831
     }
   }

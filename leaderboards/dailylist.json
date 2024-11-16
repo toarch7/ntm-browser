@@ -258,6 +258,67 @@
       "version": 2616,
       "uid": "MrI9S1XvJWMAUii",
       "runId": 1430555816
+    },
+    "Yerm1S0ogmK1j00": {
+      "name": "Yoshi",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 69,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        14,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Yerm1S0ogmK1j00",
+      "runId": 1430555816
+    },
+    "52lBCLsls8323jg": {
+      "name": "jake",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 3,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "52lBCLsls8323jg",
+      "runId": 1430555816
+    },
+    "762rb7r97kIUm9J": {
+      "name": "migby",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "762rb7r97kIUm9J",
+      "runId": 1430555816
     }
   }
 }
