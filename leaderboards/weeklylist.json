@@ -956,18 +956,21 @@
       "name": "DarthurV",
       "char": 5,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 6,
-      "bwep": 21,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 31,
+      "bwep": 84,
       "win": false,
-      "kills": 144,
+      "kills": 224,
       "ultra": 0,
       "skills": [
         12,
-        25,
-        4
+        3,
+        4,
+        28,
+        21,
+        10
       ],
       "crown": 9,
       "version": 2616,
@@ -1153,6 +1156,29 @@
       "crown": 9,
       "version": 2616,
       "uid": "Yerm1S0ogmK1j00",
+      "runId": 1971295831
+    },
+    "JJGY43Y1NTBs5Hy": {
+      "name": "Jill",
+      "char": 5,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 52,
+      "win": false,
+      "kills": 170,
+      "ultra": 0,
+      "skills": [
+        6,
+        25,
+        4,
+        27
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "JJGY43Y1NTBs5Hy",
       "runId": 1971295831
     }
   }
