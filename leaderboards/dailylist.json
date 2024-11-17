@@ -251,6 +251,68 @@
       "version": 2616,
       "uid": "3sb3xqfeD15w31D",
       "runId": 1710246683
+    },
+    "K97awxp38a8uXg2": {
+      "name": "Ninja_Panas",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 27,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "K97awxp38a8uXg2",
+      "runId": 1710246683
+    },
+    "8Cb00P2oi49tP79": {
+      "name": "max",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 7,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8Cb00P2oi49tP79",
+      "runId": 1710246683
+    },
+    "4Y876LYqQ7557o4": {
+      "name": "jindrixx",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 7,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        25,
+        7,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4Y876LYqQ7557o4",
+      "runId": 1710246683
     }
   }
 }
