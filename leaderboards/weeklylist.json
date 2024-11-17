@@ -678,18 +678,19 @@
       "name": "Ninja_Panas",
       "char": 5,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 61,
-      "bwep": 3,
+      "wep": 9,
+      "bwep": 61,
       "win": false,
-      "kills": 142,
+      "kills": 157,
       "ultra": 0,
       "skills": [
         14,
-        13,
-        4
+        3,
+        4,
+        19
       ],
       "crown": 9,
       "version": 2616,
@@ -1429,6 +1430,52 @@
       "crown": 9,
       "version": 2616,
       "uid": "4Y876LYqQ7557o4",
+      "runId": 1971295831
+    },
+    "C5NK0x36H7C06FF": {
+      "name": "Соплежуй",
+      "char": 5,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 9,
+      "win": false,
+      "kills": 370,
+      "ultra": 0,
+      "skills": [
+        14,
+        3,
+        27,
+        26,
+        21,
+        1,
+        7
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "C5NK0x36H7C06FF",
+      "runId": 1971295831
+    },
+    "259o31xI92upzMH": {
+      "name": "cali",
+      "char": 5,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 0,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "259o31xI92upzMH",
       "runId": 1971295831
     }
   }
