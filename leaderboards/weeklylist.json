@@ -1365,6 +1365,48 @@
       "version": 2616,
       "uid": "5kyj0AVltfO50fT",
       "runId": 1971295831
+    },
+    "3sb3xqfeD15w31D": {
+      "name": "Seeker",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 0,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        25,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "3sb3xqfeD15w31D",
+      "runId": 1971295831
+    },
+    "24oC1l0J5YFnEP6": {
+      "name": "Centinela",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 61,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        6,
+        3
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "24oC1l0J5YFnEP6",
+      "runId": 1971295831
     }
   }
 }
