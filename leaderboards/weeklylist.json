@@ -700,17 +700,20 @@
       "name": "ButtHoleDestroy",
       "char": 5,
       "skin": true,
-      "area": 2,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 61,
-      "bwep": 0,
+      "wep": 38,
+      "bwep": 61,
       "win": false,
-      "kills": 67,
+      "kills": 184,
       "ultra": 0,
       "skills": [
         14,
-        25
+        25,
+        4,
+        27,
+        28
       ],
       "crown": 9,
       "version": 2616,
@@ -1312,6 +1315,28 @@
       "crown": 9,
       "version": 2616,
       "uid": "82fh2WKa1D9lV3q",
+      "runId": 1971295831
+    },
+    "4sm6h1010M435b6": {
+      "name": "Jubileu",
+      "char": 5,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 61,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        14,
+        25,
+        27
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "4sm6h1010M435b6",
       "runId": 1971295831
     }
   }
