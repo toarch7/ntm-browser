@@ -231,6 +231,44 @@
       "version": 2616,
       "uid": "mQ6dxSp1osVs2vM",
       "runId": 624851772
+    },
+    "yJCaopAV5mzl0p4": {
+      "name": "COROTEVIRUS",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "yJCaopAV5mzl0p4",
+      "runId": 624851772
+    },
+    "qXXs0u2VZYq4Psm": {
+      "name": "passwqrd",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 66,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qXXs0u2VZYq4Psm",
+      "runId": 624851772
     }
   }
 }
