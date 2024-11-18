@@ -210,16 +210,17 @@
       "char": 5,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
       "wep": 61,
-      "bwep": 0,
+      "bwep": 7,
       "win": false,
-      "kills": 88,
+      "kills": 140,
       "ultra": 0,
       "skills": [
         14,
-        3
+        3,
+        4
       ],
       "crown": 9,
       "version": 2616,
@@ -1482,6 +1483,27 @@
       "crown": 9,
       "version": 2616,
       "uid": "259o31xI92upzMH",
+      "runId": 1971295831
+    },
+    "q59s4Vjtz7l6vDg": {
+      "name": "cero",
+      "char": 5,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 0,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        6,
+        2
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "q59s4Vjtz7l6vDg",
       "runId": 1971295831
     }
   }
