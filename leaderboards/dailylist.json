@@ -1,4 +1,47 @@
 {
   "day": 18,
-  "entries": {}
+  "entries": {
+    "04E2mTfPcFInvXd": {
+      "name": "chorizo",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "04E2mTfPcFInvXd",
+      "runId": 624851772
+    },
+    "52lBCLsls8323jg": {
+      "name": "jake",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 30,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        28,
+        9,
+        6
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "52lBCLsls8323jg",
+      "runId": 624851772
+    }
+  }
 }
