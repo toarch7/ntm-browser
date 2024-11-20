@@ -382,6 +382,52 @@
       "version": 2616,
       "uid": "52lBCLsls8323jg",
       "runId": 1093271480
+    },
+    "43rJ428KTYBnbFq": {
+      "name": "Dementia",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "43rJ428KTYBnbFq",
+      "runId": 1093271480
+    },
+    "9P8BCCDQYLNv806": {
+      "name": "Deli",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 11,
+      "win": false,
+      "kills": 290,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        25,
+        14,
+        4,
+        21,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9P8BCCDQYLNv806",
+      "runId": 1093271480
     }
   }
 }
