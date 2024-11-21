@@ -705,10 +705,10 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 21,
+      "wep": 30,
+      "bwep": 5,
       "win": false,
-      "kills": 58,
+      "kills": 65,
       "ultra": 0,
       "skills": [
         17,
@@ -718,6 +718,75 @@
       "crown": 8,
       "version": 2616,
       "uid": "24oC1l0J5YFnEP6",
+      "runId": 1257033352
+    },
+    "jqmiloyxpZ9o04q": {
+      "name": "auau",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 115,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        24,
+        2,
+        26
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "jqmiloyxpZ9o04q",
+      "runId": 1257033352
+    },
+    "Xuk9oMa9zE7ctfe": {
+      "name": "Elsolitario",
+      "char": 11,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 115,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        24,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "Xuk9oMa9zE7ctfe",
+      "runId": 1257033352
+    },
+    "TCmZ8A1ES4Lh7T2": {
+      "name": "sage",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 115,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        24
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "TCmZ8A1ES4Lh7T2",
       "runId": 1257033352
     }
   }
