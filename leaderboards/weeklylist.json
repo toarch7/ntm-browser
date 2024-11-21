@@ -1,4 +1,54 @@
 {
   "seed": 1257033352,
-  "entries": {}
+  "entries": {
+    "8f3ld5044WPg0g7": {
+      "name": "Noob_Engineer",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 21,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        24,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "8f3ld5044WPg0g7",
+      "runId": 1257033352
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 11,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 17,
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        24,
+        10,
+        2,
+        26,
+        1
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 1257033352
+    }
+  }
 }
