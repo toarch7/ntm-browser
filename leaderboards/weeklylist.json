@@ -283,6 +283,29 @@
       "version": 2616,
       "uid": "XTmP9PFLIoeKSJm",
       "runId": 1257033352
+    },
+    "6dG661D64uJ544r": {
+      "name": "seeker",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 115,
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        24,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "6dG661D64uJ544r",
+      "runId": 1257033352
     }
   }
 }
