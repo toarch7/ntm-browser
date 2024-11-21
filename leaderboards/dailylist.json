@@ -1,4 +1,49 @@
 {
   "day": 21,
-  "entries": {}
+  "entries": {
+    "TqP0kzADTfBSCIl": {
+      "name": "dima",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 6,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        25,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "TqP0kzADTfBSCIl",
+      "runId": 728897097
+    },
+    "Is5F2iVekK2V7O8": {
+      "name": "El",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 16,
+      "win": false,
+      "kills": 215,
+      "ultra": 0,
+      "skills": [
+        14,
+        7,
+        2,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Is5F2iVekK2V7O8",
+      "runId": 728897097
+    }
+  }
 }
