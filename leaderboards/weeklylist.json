@@ -246,15 +246,18 @@
       "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 115,
-      "bwep": 6,
+      "wep": 75,
+      "bwep": 115,
       "win": false,
-      "kills": 90,
+      "kills": 176,
       "ultra": 0,
       "skills": [
         23,
         25,
-        6
+        6,
+        2,
+        1,
+        10
       ],
       "crown": 8,
       "version": 2616,
