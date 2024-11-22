@@ -170,6 +170,51 @@
       "version": 2616,
       "uid": "52lBCLsls8323jg",
       "runId": 395308602
+    },
+    "Is5F2iVekK2V7O8": {
+      "name": "El",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 114,
+      "win": false,
+      "kills": 219,
+      "ultra": 0,
+      "skills": [
+        14,
+        8,
+        7,
+        10,
+        4,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Is5F2iVekK2V7O8",
+      "runId": 395308602
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 16,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 395308602
     }
   }
 }
