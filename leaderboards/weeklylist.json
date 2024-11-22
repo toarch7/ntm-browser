@@ -272,18 +272,19 @@
       "char": 11,
       "skin": false,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
       "wep": 115,
-      "bwep": 88,
+      "bwep": 30,
       "win": false,
-      "kills": 122,
+      "kills": 134,
       "ultra": 0,
       "skills": [
         23,
         25,
         24,
-        2
+        2,
+        26
       ],
       "crown": 8,
       "version": 2616,
@@ -1028,6 +1029,28 @@
       "crown": 8,
       "version": 2616,
       "uid": "P6PtM0uC7GZ3Wtp",
+      "runId": 1257033352
+    },
+    "8636Amp1XEyygxJ": {
+      "name": "MrPrstchk",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 21,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        6
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "8636Amp1XEyygxJ",
       "runId": 1257033352
     }
   }
