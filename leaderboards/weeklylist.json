@@ -849,13 +849,13 @@
       "name": "SX714",
       "char": 11,
       "skin": false,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 115,
-      "bwep": 30,
+      "wep": 112,
+      "bwep": 115,
       "win": false,
-      "kills": 157,
+      "kills": 211,
       "ultra": 0,
       "skills": [
         23,
@@ -863,7 +863,8 @@
         24,
         2,
         26,
-        1
+        1,
+        19
       ],
       "crown": 8,
       "version": 2616,
@@ -1218,6 +1219,26 @@
       "crown": 8,
       "version": 2616,
       "uid": "4E6O9YT8T1IQC9u",
+      "runId": 1257033352
+    },
+    "n0wagdicf1v20Go": {
+      "name": "Brooks123456",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 2,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "n0wagdicf1v20Go",
       "runId": 1257033352
     }
   }
