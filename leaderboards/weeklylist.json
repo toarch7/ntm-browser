@@ -1207,18 +1207,20 @@
       "name": "pekky45",
       "char": 11,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
       "wep": 115,
-      "bwep": 66,
+      "bwep": 14,
       "win": false,
-      "kills": 70,
+      "kills": 100,
       "ultra": 0,
       "skills": [
         23,
         25,
-        24
+        24,
+        2,
+        26
       ],
       "crown": 8,
       "version": 2616,
@@ -1440,6 +1442,28 @@
       "crown": 8,
       "version": 2616,
       "uid": "4GO416cYDkqPYkR",
+      "runId": 1257033352
+    },
+    "3A08tu5U3eX67Bh": {
+      "name": "mama",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 5,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        23,
+        19,
+        24
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "3A08tu5U3eX67Bh",
       "runId": 1257033352
     }
   }
