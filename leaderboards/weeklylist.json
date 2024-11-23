@@ -662,13 +662,13 @@
       "name": "VoideonLord",
       "char": 11,
       "skin": false,
-      "area": 104,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 115,
-      "bwep": 12,
+      "wep": 112,
+      "bwep": 115,
       "win": false,
-      "kills": 166,
+      "kills": 249,
       "ultra": 0,
       "skills": [
         23,
@@ -676,7 +676,9 @@
         24,
         2,
         26,
-        1
+        1,
+        10,
+        4
       ],
       "crown": 8,
       "version": 2616,
@@ -1464,6 +1466,29 @@
       "crown": 8,
       "version": 2616,
       "uid": "3A08tu5U3eX67Bh",
+      "runId": 1257033352
+    },
+    "40z5Xi3T0O441Zq": {
+      "name": "krasava",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 5,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        24,
+        6
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "40z5Xi3T0O441Zq",
       "runId": 1257033352
     }
   }
