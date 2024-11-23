@@ -1,4 +1,65 @@
 {
   "day": 23,
-  "entries": {}
+  "entries": {
+    "K97awxp38a8uXg2": {
+      "name": "Ninja_Panas",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "K97awxp38a8uXg2",
+      "runId": 49661406
+    },
+    "9mz92Rr8h4k7VxI": {
+      "name": "anth",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 10,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        8,
+        9,
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "9mz92Rr8h4k7VxI",
+      "runId": 49661406
+    },
+    "5Gx1GFD5Mp7Ydd3": {
+      "name": "kusogake",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 27,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5Gx1GFD5Mp7Ydd3",
+      "runId": 49661406
+    }
+  }
 }
