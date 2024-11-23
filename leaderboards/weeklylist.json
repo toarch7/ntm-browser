@@ -1575,18 +1575,18 @@
       "name": "Sisyphus",
       "char": 11,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
       "wep": 115,
-      "bwep": 88,
+      "bwep": 69,
       "win": false,
-      "kills": 75,
+      "kills": 76,
       "ultra": 0,
       "skills": [
         23,
-        19,
-        24
+        25,
+        6
       ],
       "crown": 8,
       "version": 2616,
@@ -1638,6 +1638,27 @@
       "crown": 8,
       "version": 2616,
       "uid": "82fh2WKa1D9lV3q",
+      "runId": 1257033352
+    },
+    "0JSO0K2H7Nx222R": {
+      "name": "SergoFrag",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 21,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        23,
+        25
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "0JSO0K2H7Nx222R",
       "runId": 1257033352
     }
   }
