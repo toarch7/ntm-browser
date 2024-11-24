@@ -1622,20 +1622,22 @@
       "name": "Sparks76",
       "char": 11,
       "skin": false,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 115,
-      "bwep": 76,
+      "wep": 124,
+      "bwep": 115,
       "win": false,
-      "kills": 189,
+      "kills": 204,
       "ultra": 0,
       "skills": [
         23,
         25,
-        6,
+        10,
         2,
-        1
+        26,
+        1,
+        14
       ],
       "crown": 8,
       "version": 2616,
@@ -1878,6 +1880,32 @@
       "crown": 8,
       "version": 2616,
       "uid": "A0w8YZr6wk5I7sj",
+      "runId": 1257033352
+    },
+    "m96PH9ISC2JCNsw": {
+      "name": "OVER-XBOX",
+      "char": 11,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 65,
+      "win": false,
+      "kills": 216,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        24,
+        2,
+        26,
+        1,
+        19
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "m96PH9ISC2JCNsw",
       "runId": 1257033352
     }
   }

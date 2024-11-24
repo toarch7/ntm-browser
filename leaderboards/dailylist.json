@@ -257,6 +257,55 @@
       "version": 2616,
       "uid": "A0w8YZr6wk5I7sj",
       "runId": 1691054848
+    },
+    "m96PH9ISC2JCNsw": {
+      "name": "OVER-XBOX",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 70,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        10,
+        7,
+        16,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "m96PH9ISC2JCNsw",
+      "runId": 1691054848
+    },
+    "7m6rMl97DPjVY5B": {
+      "name": "huevo_minion_YT",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 94,
+      "bwep": 111,
+      "win": false,
+      "kills": 738,
+      "ultra": 0,
+      "skills": [
+        6,
+        10,
+        23,
+        21,
+        14,
+        25,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7m6rMl97DPjVY5B",
+      "runId": 1691054848
     }
   }
 }
