@@ -427,6 +427,47 @@
       "version": 2616,
       "uid": "f3epTGx348x8hVF",
       "runId": 1691054848
+    },
+    "Is5F2iVekK2V7O8": {
+      "name": "El",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Is5F2iVekK2V7O8",
+      "runId": 1691054848
+    },
+    "MrI9S1XvJWMAUii": {
+      "name": "Throne",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 11,
+      "win": false,
+      "kills": 188,
+      "ultra": 0,
+      "skills": [
+        22,
+        23,
+        16,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MrI9S1XvJWMAUii",
+      "runId": 1691054848
     }
   }
 }
