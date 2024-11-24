@@ -1,4 +1,52 @@
 {
   "day": 24,
-  "entries": {}
+  "entries": {
+    "dO82xj8ihx727Qm": {
+      "name": "darkness",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 69,
+      "win": false,
+      "kills": 174,
+      "ultra": 0,
+      "skills": [
+        19,
+        7,
+        1,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "dO82xj8ihx727Qm",
+      "runId": 1691054848
+    },
+    "8rFqB5aXga493z0": {
+      "name": "([!_!])",
+      "char": 7,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 11,
+      "win": false,
+      "kills": 308,
+      "ultra": 0,
+      "skills": [
+        10,
+        7,
+        19,
+        1,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8rFqB5aXga493z0",
+      "runId": 1691054848
+    }
+  }
 }
