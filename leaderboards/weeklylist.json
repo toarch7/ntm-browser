@@ -1093,19 +1093,20 @@
       "name": "FAKE",
       "char": 11,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 27,
-      "bwep": 4,
+      "wep": 7,
+      "bwep": 17,
       "win": false,
-      "kills": 53,
+      "kills": 96,
       "ultra": 0,
       "skills": [
         23,
         25,
+        10,
         24,
-        10
+        2
       ],
       "crown": 8,
       "version": 2616,
@@ -1851,6 +1852,31 @@
       "crown": 8,
       "version": 2616,
       "uid": "p4lo81o5l4RX5Hu",
+      "runId": 1257033352
+    },
+    "A0w8YZr6wk5I7sj": {
+      "name": "Abstralic",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 115,
+      "win": false,
+      "kills": 205,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        24,
+        2,
+        1,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "A0w8YZr6wk5I7sj",
       "runId": 1257033352
     }
   }
