@@ -2077,6 +2077,50 @@
       "version": 2616,
       "uid": "mQ6dxSp1osVs2vM",
       "runId": 1257033352
+    },
+    "VNsZI6W6mJj3k9r": {
+      "name": "Naza",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 5,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        17,
+        19,
+        24
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "VNsZI6W6mJj3k9r",
+      "runId": 1257033352
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 17,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        24
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 1257033352
     }
   }
 }
