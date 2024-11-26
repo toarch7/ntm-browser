@@ -2527,6 +2527,49 @@
       "version": 2616,
       "uid": "37GUEqR2gEy0yX3",
       "runId": 1257033352
+    },
+    "173TyBrUixe1EFJ": {
+      "name": "Zerowe",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 115,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "173TyBrUixe1EFJ",
+      "runId": 1257033352
+    },
+    "Gx5AzXd8xFoB0dw": {
+      "name": "orang",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 115,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        17,
+        19
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "Gx5AzXd8xFoB0dw",
+      "runId": 1257033352
     }
   }
 }
