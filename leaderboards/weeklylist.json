@@ -127,19 +127,22 @@
       "name": "BEHX333",
       "char": 11,
       "skin": false,
-      "area": 3,
+      "area": 5,
       "subarea": 2,
       "loops": 0,
       "wep": 115,
-      "bwep": 17,
+      "bwep": 65,
       "win": false,
-      "kills": 93,
+      "kills": 202,
       "ultra": 0,
       "skills": [
         23,
         25,
         24,
-        6
+        2,
+        26,
+        1,
+        10
       ],
       "crown": 8,
       "version": 2616,
@@ -2306,6 +2309,28 @@
       "crown": 8,
       "version": 2616,
       "uid": "ab25r4ETlL2Myj6",
+      "runId": 1257033352
+    },
+    "oX09P6u6CE4n79G": {
+      "name": "Рост999",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 5,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        23,
+        19,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "oX09P6u6CE4n79G",
       "runId": 1257033352
     }
   }
