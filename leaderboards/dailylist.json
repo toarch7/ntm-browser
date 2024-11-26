@@ -1,4 +1,57 @@
 {
   "day": 26,
-  "entries": {}
+  "entries": {
+    "L6w40M37lt8FZA1": {
+      "name": "contra",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "L6w40M37lt8FZA1",
+      "runId": 1488284742
+    },
+    "swj67HYctbkDG21": {
+      "name": "DEMV",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "swj67HYctbkDG21",
+      "runId": 1488284742
+    },
+    "p1Tm66005227Z64": {
+      "name": "angel",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "p1Tm66005227Z64",
+      "runId": 1488284742
+    }
+  }
 }
