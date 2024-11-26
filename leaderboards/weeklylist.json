@@ -2414,9 +2414,9 @@
       "subarea": 1,
       "loops": 0,
       "wep": 115,
-      "bwep": 21,
+      "bwep": 17,
       "win": false,
-      "kills": 66,
+      "kills": 70,
       "ultra": 0,
       "skills": [
         23,
@@ -2455,6 +2455,31 @@
       "crown": 8,
       "version": 2616,
       "uid": "vShCVo48g74s0S2",
+      "runId": 1257033352
+    },
+    "f8EHF3hx1tKY0f6": {
+      "name": "FBeagle2662",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 115,
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        10,
+        24,
+        6,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "f8EHF3hx1tKY0f6",
       "runId": 1257033352
     }
   }
