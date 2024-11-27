@@ -281,6 +281,53 @@
       "version": 2616,
       "uid": "w9W27Xh1HSs448H",
       "runId": 168442989
+    },
+    "L9mjy4hS6zkf8A0": {
+      "name": "DarthurV",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 12,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        28,
+        14,
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "L9mjy4hS6zkf8A0",
+      "runId": 168442989
+    },
+    "EV91EGxmht7hWGt": {
+      "name": "Fasto",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 92,
+      "win": false,
+      "kills": 329,
+      "ultra": 0,
+      "skills": [
+        28,
+        13,
+        12,
+        8,
+        23,
+        3
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "EV91EGxmht7hWGt",
+      "runId": 168442989
     }
   }
 }
