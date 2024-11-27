@@ -472,6 +472,47 @@
       "version": 2616,
       "uid": "2XD9B6Mn83n35XQ",
       "runId": 1095476899
+    },
+    "173TyBrUixe1EFJ": {
+      "name": "Zerowe",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 7,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        16,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "173TyBrUixe1EFJ",
+      "runId": 1095476899
+    },
+    "uuG618z3fKffVMh": {
+      "name": "0",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 5,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uuG618z3fKffVMh",
+      "runId": 1095476899
     }
   }
 }
