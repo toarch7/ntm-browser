@@ -226,17 +226,18 @@
       "name": "ЕбалЖаб...",
       "char": 6,
       "skin": false,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 92,
-      "bwep": 75,
+      "wep": 64,
+      "bwep": 92,
       "win": false,
-      "kills": 112,
+      "kills": 197,
       "ultra": 0,
       "skills": [
         13,
-        28,
+        25,
+        1,
         17
       ],
       "crown": 2,
@@ -263,6 +264,22 @@
       "crown": 2,
       "version": 2616,
       "uid": "04E2mTfPcFInvXd",
+      "runId": 168442989
+    },
+    "w9W27Xh1HSs448H": {
+      "name": "Cole",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 71,
+      "win": false,
+      "kills": 35,
+      "crown": 2,
+      "version": 2616,
+      "uid": "w9W27Xh1HSs448H",
       "runId": 168442989
     }
   }
