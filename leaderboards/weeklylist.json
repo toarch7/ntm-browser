@@ -153,6 +153,49 @@
       "version": 2616,
       "uid": "75j7iMFy0AJG68o",
       "runId": 168442989
+    },
+    "QCuF3Tq0085A195": {
+      "name": "cavees",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 92,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        14,
+        13
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "QCuF3Tq0085A195",
+      "runId": 168442989
+    },
+    "dO82xj8ihx727Qm": {
+      "name": "darkness",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 92,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        14,
+        13,
+        9
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "dO82xj8ihx727Qm",
+      "runId": 168442989
     }
   }
 }
