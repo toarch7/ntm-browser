@@ -396,6 +396,49 @@
       "version": 2616,
       "uid": "Kg9y6XE1GH67J4D",
       "runId": 168442989
+    },
+    "qxEh87A2gRuH8He": {
+      "name": "安德列",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 88,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        13,
+        25,
+        17,
+        8
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "qxEh87A2gRuH8He",
+      "runId": 168442989
+    },
+    "mQ6dxSp1osVs2vM": {
+      "name": "bloodhail",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 92,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "mQ6dxSp1osVs2vM",
+      "runId": 168442989
     }
   }
 }
