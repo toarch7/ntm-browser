@@ -46,6 +46,71 @@
       "version": 2616,
       "uid": "DMrL437F63d4G26",
       "runId": 1095476899
+    },
+    "dO82xj8ihx727Qm": {
+      "name": "darkness",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 50,
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        23,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "dO82xj8ihx727Qm",
+      "runId": 1095476899
+    },
+    "YGO1vai0oXC49eu": {
+      "name": "Emel",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        24,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "YGO1vai0oXC49eu",
+      "runId": 1095476899
+    },
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 0,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        17,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 1095476899
     }
   }
 }
