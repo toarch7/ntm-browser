@@ -5,20 +5,20 @@
       "name": "abusamadresjone",
       "char": 6,
       "skin": false,
-      "area": 7,
+      "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 13,
-      "bwep": 76,
+      "wep": 35,
+      "bwep": 13,
       "win": false,
-      "kills": 200,
+      "kills": 241,
       "ultra": 0,
       "skills": [
         28,
         13,
         25,
-        8,
         1,
+        8,
         23
       ],
       "crown": 2,
@@ -1048,6 +1048,28 @@
       "crown": 2,
       "version": 2616,
       "uid": "6e8v1KRt293AU8h",
+      "runId": 168442989
+    },
+    "571Y8x7pDcmMMRF": {
+      "name": "Seeker82",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 88,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        9,
+        13,
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "571Y8x7pDcmMMRF",
       "runId": 168442989
     }
   }
