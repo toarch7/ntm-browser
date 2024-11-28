@@ -1013,16 +1013,18 @@
       "name": "Zerowe",
       "char": 6,
       "skin": false,
-      "area": 3,
-      "subarea": 2,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 21,
+      "wep": 21,
+      "bwep": 34,
       "win": false,
-      "kills": 102,
+      "kills": 143,
       "ultra": 0,
       "skills": [
-        9
+        14,
+        9,
+        7
       ],
       "crown": 2,
       "version": 2616,
@@ -1070,6 +1072,28 @@
       "crown": 2,
       "version": 2616,
       "uid": "571Y8x7pDcmMMRF",
+      "runId": 168442989
+    },
+    "stO13LbjgnWo3tp": {
+      "name": "Gr1v1s",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 34,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        28,
+        13,
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "stO13LbjgnWo3tp",
       "runId": 168442989
     }
   }
