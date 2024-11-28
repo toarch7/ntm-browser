@@ -941,16 +941,17 @@
       "name": "tiocaifan",
       "char": 6,
       "skin": false,
-      "area": 3,
+      "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 71,
-      "bwep": 10,
+      "wep": 88,
+      "bwep": 16,
       "win": false,
-      "kills": 41,
+      "kills": 57,
       "ultra": 0,
       "skills": [
-        9
+        9,
+        14
       ],
       "crown": 2,
       "version": 2616,
