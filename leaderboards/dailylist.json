@@ -105,6 +105,43 @@
       "version": 2616,
       "uid": "ie4tKDa5FB99wFN",
       "runId": 1795904196
+    },
+    "T4kfpIxw2VBN60X": {
+      "name": "weepingdevil",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 14,
+      "crown": 1,
+      "version": 2616,
+      "uid": "T4kfpIxw2VBN60X",
+      "runId": 1795904196
+    },
+    "UJ9StPDkl0A940L": {
+      "name": "BEHX333",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 14,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        13,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "UJ9StPDkl0A940L",
+      "runId": 1795904196
     }
   }
 }
