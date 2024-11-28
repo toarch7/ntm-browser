@@ -863,12 +863,12 @@
       "char": 6,
       "skin": false,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 112,
-      "bwep": 88,
+      "wep": 71,
+      "bwep": 37,
       "win": false,
-      "kills": 71,
+      "kills": 86,
       "ultra": 0,
       "skills": [
         28
@@ -935,6 +935,47 @@
       "crown": 2,
       "version": 2616,
       "uid": "vShCVo48g74s0S2",
+      "runId": 168442989
+    },
+    "TZ2dtqcxppH81Yj": {
+      "name": "tiocaifan",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 10,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "TZ2dtqcxppH81Yj",
+      "runId": 168442989
+    },
+    "LL7wmay4z14fx2T": {
+      "name": "Жигуль",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 92,
+      "bwep": 71,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        9,
+        13
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "LL7wmay4z14fx2T",
       "runId": 168442989
     }
   }
