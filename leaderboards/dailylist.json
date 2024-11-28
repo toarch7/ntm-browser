@@ -375,6 +375,70 @@
       "version": 2616,
       "uid": "4E6O9YT8T1IQC9u",
       "runId": 1795904196
+    },
+    "8Cb00P2oi49tP79": {
+      "name": "max",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 5,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        23,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8Cb00P2oi49tP79",
+      "runId": 1795904196
+    },
+    "7m6rMl97DPjVY5B": {
+      "name": "huevo_minion_YT",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 87,
+      "bwep": 76,
+      "win": false,
+      "kills": 1352,
+      "ultra": 1,
+      "skills": [
+        23,
+        7,
+        25,
+        10,
+        1,
+        27,
+        26,
+        2
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "7m6rMl97DPjVY5B",
+      "runId": 1795904196
+    },
+    "1pg0055Q4SHZ44T": {
+      "name": "capsatsuckblood",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "1pg0055Q4SHZ44T",
+      "runId": 1795904196
     }
   }
 }
