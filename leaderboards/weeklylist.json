@@ -1116,6 +1116,48 @@
       "version": 2616,
       "uid": "ECs8Gulq55e4iBr",
       "runId": 168442989
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 92,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 168442989
+    },
+    "FSo38VP7v8v7m6J": {
+      "name": "Seeker16911",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 71,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        14,
+        13,
+        12
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "FSo38VP7v8v7m6J",
+      "runId": 168442989
     }
   }
 }

@@ -134,6 +134,106 @@
       "version": 2616,
       "uid": "69o23ZoFCskEwYo",
       "runId": 867872547
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 11,
+      "win": false,
+      "kills": 189,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        27,
+        12,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 867872547
+    },
+    "L6w40M37lt8FZA1": {
+      "name": "contra",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 5,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L6w40M37lt8FZA1",
+      "runId": 867872547
+    },
+    "UJ9StPDkl0A940L": {
+      "name": "BEHX333",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 16,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "UJ9StPDkl0A940L",
+      "runId": 867872547
+    },
+    "o3TA6T4ibf10nHM": {
+      "name": "DoderTool",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 39,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "o3TA6T4ibf10nHM",
+      "runId": 867872547
+    },
+    "dO82xj8ihx727Qm": {
+      "name": "darkness",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 5,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "dO82xj8ihx727Qm",
+      "runId": 867872547
     }
   }
 }
