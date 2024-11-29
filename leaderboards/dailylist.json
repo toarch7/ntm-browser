@@ -1,4 +1,51 @@
 {
   "day": 29,
-  "entries": {}
+  "entries": {
+    "m96PH9ISC2JCNsw": {
+      "name": "OVER-XBOX",
+      "char": 5,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 10,
+      "win": false,
+      "kills": 395,
+      "ultra": 1,
+      "skills": [
+        2,
+        1,
+        12,
+        25,
+        14,
+        4,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "m96PH9ISC2JCNsw",
+      "runId": 867872547
+    },
+    "3zfsV4kc4jCK7KC": {
+      "name": "MISAE",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 5,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3zfsV4kc4jCK7KC",
+      "runId": 867872547
+    }
+  }
 }
