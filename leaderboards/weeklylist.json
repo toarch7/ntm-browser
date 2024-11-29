@@ -1204,6 +1204,26 @@
       "version": 2616,
       "uid": "amg0DhZ367roGlC",
       "runId": 168442989
+    },
+    "WpmDUC4C5T7S0M4": {
+      "name": "Enemy900",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 92,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "WpmDUC4C5T7S0M4",
+      "runId": 168442989
     }
   }
 }
