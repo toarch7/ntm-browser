@@ -1770,6 +1770,26 @@
       "version": 2616,
       "uid": "AZLdd0P63t3ik95",
       "runId": 168442989
+    },
+    "gW51G745X9r1nME": {
+      "name": "Titan",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 92,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "gW51G745X9r1nME",
+      "runId": 168442989
     }
   }
 }
