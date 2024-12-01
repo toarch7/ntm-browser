@@ -551,6 +551,43 @@
       "version": 2616,
       "uid": "U591M0Vk7j93Sl0",
       "runId": 1238066504
+    },
+    "K97awxp38a8uXg2": {
+      "name": "Ninja_Panas",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "K97awxp38a8uXg2",
+      "runId": 1238066504
+    },
+    "0JSO0K2H7Nx222R": {
+      "name": "SergoFrag",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        3,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0JSO0K2H7Nx222R",
+      "runId": 1238066504
     }
   }
 }
