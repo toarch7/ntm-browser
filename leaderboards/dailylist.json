@@ -512,6 +512,58 @@
       "version": 2616,
       "uid": "ALd6Z7Mk8ZV6JEy",
       "runId": 1007400844
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "VoideonLord",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 13,
+      "win": false,
+      "kills": 289,
+      "ultra": 0,
+      "skills": [
+        17,
+        4,
+        23,
+        27,
+        6,
+        1,
+        13,
+        25,
+        24
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 1007400844
+    },
+    "93bR3FBnY38hF06": {
+      "name": "sertas",
+      "char": 3,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 16,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        24,
+        4,
+        23,
+        27,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "93bR3FBnY38hF06",
+      "runId": 1007400844
     }
   }
 }
