@@ -1372,18 +1372,19 @@
       "name": "RGB",
       "char": 6,
       "skin": false,
-      "area": 3,
-      "subarea": 2,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 112,
-      "bwep": 88,
+      "wep": 90,
+      "bwep": 92,
       "win": false,
-      "kills": 95,
+      "kills": 149,
       "ultra": 0,
       "skills": [
-        9,
+        14,
         13,
-        28
+        9,
+        8
       ],
       "crown": 2,
       "version": 2616,
@@ -1893,6 +1894,50 @@
       "crown": 2,
       "version": 2616,
       "uid": "5H823Pk39LSlv99",
+      "runId": 168442989
+    },
+    "PW2QULTiGje146B": {
+      "name": "Six",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 72,
+      "bwep": 88,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        28,
+        13,
+        4,
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "PW2QULTiGje146B",
+      "runId": 168442989
+    },
+    "ALd6Z7Mk8ZV6JEy": {
+      "name": "howold",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 92,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        28,
+        13
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "ALd6Z7Mk8ZV6JEy",
       "runId": 168442989
     }
   }
