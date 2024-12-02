@@ -1,4 +1,42 @@
 {
   "day": 2,
-  "entries": {}
+  "entries": {
+    "FKZ5l8XS6z8GdS9": {
+      "name": "puto78788",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "FKZ5l8XS6z8GdS9",
+      "runId": 1007400844
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 71,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        2,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 1007400844
+    }
+  }
 }
