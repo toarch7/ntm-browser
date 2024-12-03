@@ -1197,16 +1197,18 @@
       "name": "HerKing",
       "char": 6,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
       "wep": 92,
-      "bwep": 71,
+      "bwep": 14,
       "win": false,
-      "kills": 51,
+      "kills": 135,
       "ultra": 0,
       "skills": [
-        28
+        28,
+        14,
+        4
       ],
       "crown": 2,
       "version": 2616,
