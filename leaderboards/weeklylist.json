@@ -978,17 +978,18 @@
       "name": "Жигуль",
       "char": 6,
       "skin": false,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
       "wep": 92,
       "bwep": 71,
       "win": false,
-      "kills": 120,
+      "kills": 128,
       "ultra": 0,
       "skills": [
         9,
-        13
+        14,
+        4
       ],
       "crown": 2,
       "version": 2616,
