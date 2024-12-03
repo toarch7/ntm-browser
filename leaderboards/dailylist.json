@@ -1,4 +1,65 @@
 {
   "day": 3,
-  "entries": {}
+  "entries": {
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 0,
+      "win": false,
+      "kills": 37,
+      "crown": 1,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 1254744478
+    },
+    "stO13LbjgnWo3tp": {
+      "name": "Gr1v1s",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 69,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        8,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "stO13LbjgnWo3tp",
+      "runId": 1254744478
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 10,
+      "win": false,
+      "kills": 174,
+      "ultra": 0,
+      "skills": [
+        8,
+        2,
+        9,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 1254744478
+    }
+  }
 }
