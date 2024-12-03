@@ -386,21 +386,22 @@
       "name": "darkwastaken",
       "char": 6,
       "skin": false,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 25,
+      "wep": 74,
+      "bwep": 62,
       "win": false,
-      "kills": 246,
+      "kills": 307,
       "ultra": 0,
       "skills": [
         14,
-        13,
-        28,
-        7,
+        25,
+        1,
+        8,
         23,
-        3
+        3,
+        17
       ],
       "crown": 2,
       "version": 2616,
@@ -2057,6 +2058,26 @@
       "crown": 2,
       "version": 2616,
       "uid": "6mKywl868n01T5V",
+      "runId": 168442989
+    },
+    "r9aHa3nr6jrIy43": {
+      "name": "Yung",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 12,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "r9aHa3nr6jrIy43",
       "runId": 168442989
     }
   }
