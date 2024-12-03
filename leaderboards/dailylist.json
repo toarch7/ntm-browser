@@ -125,6 +125,56 @@
       "version": 2616,
       "uid": "4R56tI4JDX1bujQ",
       "runId": 1254744478
+    },
+    "Diz57Mfp2AW1bGc": {
+      "name": "Goidaslav",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 74,
+      "bwep": 111,
+      "win": false,
+      "kills": 1823,
+      "ultra": 2,
+      "skills": [
+        17,
+        23,
+        3,
+        4,
+        7,
+        9,
+        27,
+        1
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "Diz57Mfp2AW1bGc",
+      "runId": 1254744478
+    },
+    "dO82xj8ihx727Qm": {
+      "name": "darkness",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 17,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        8,
+        23,
+        3,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "dO82xj8ihx727Qm",
+      "runId": 1254744478
     }
   }
 }
