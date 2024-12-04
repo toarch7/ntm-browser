@@ -1934,14 +1934,17 @@
       "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 71,
-      "bwep": 92,
+      "wep": 30,
+      "bwep": 20,
       "win": false,
-      "kills": 91,
+      "kills": 149,
       "ultra": 0,
       "skills": [
         28,
-        13
+        13,
+        25,
+        1,
+        17
       ],
       "crown": 2,
       "version": 2616,
