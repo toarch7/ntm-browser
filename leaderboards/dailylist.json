@@ -90,6 +90,50 @@
       "version": 2616,
       "uid": "H5dV645bca27OVy",
       "runId": 1412533754
+    },
+    "0x7hFdP71a11un2": {
+      "name": "iso_aze",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 30,
+      "win": false,
+      "kills": 182,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        1,
+        23,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0x7hFdP71a11un2",
+      "runId": 1412533754
+    },
+    "LL7wmay4z14fx2T": {
+      "name": "Жигуль",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "LL7wmay4z14fx2T",
+      "runId": 1412533754
     }
   }
 }
