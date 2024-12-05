@@ -377,6 +377,63 @@
       "version": 2616,
       "uid": "s4HD8UF9YlocVKg",
       "runId": 1070655315
+    },
+    "Gid6L3lPfjZCt81": {
+      "name": "DragonBlue",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Gid6L3lPfjZCt81",
+      "runId": 1070655315
+    },
+    "U591M0Vk7j93Sl0": {
+      "name": "tatinha",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 0,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        1,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "U591M0Vk7j93Sl0",
+      "runId": 1070655315
+    },
+    "GIyCJBSEfNuW565": {
+      "name": "kent",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "GIyCJBSEfNuW565",
+      "runId": 1070655315
     }
   }
 }
