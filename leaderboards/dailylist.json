@@ -1,4 +1,80 @@
 {
   "day": 5,
-  "entries": {}
+  "entries": {
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 0,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        13,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 1070655315
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "VoideonLord",
+      "char": 11,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 66,
+      "win": false,
+      "kills": 404,
+      "ultra": 0,
+      "skills": [
+        13,
+        23,
+        3,
+        25,
+        9,
+        27,
+        7,
+        17,
+        26
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 1070655315
+    },
+    "7aO5kajZEj06d84": {
+      "name": "MayMay",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 110,
+      "win": false,
+      "kills": 362,
+      "ultra": 0,
+      "skills": [
+        13,
+        23,
+        8,
+        10,
+        1,
+        7,
+        6
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "7aO5kajZEj06d84",
+      "runId": 1070655315
+    }
+  }
 }
