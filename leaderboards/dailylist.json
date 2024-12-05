@@ -456,6 +456,43 @@
       "version": 2616,
       "uid": "xnI677V5k9292b3",
       "runId": 1070655315
+    },
+    "B9BJ90sqAshQe4p": {
+      "name": "Gabi",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "B9BJ90sqAshQe4p",
+      "runId": 1070655315
+    },
+    "f3epTGx348x8hVF": {
+      "name": "101st",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 17,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f3epTGx348x8hVF",
+      "runId": 1070655315
     }
   }
 }
