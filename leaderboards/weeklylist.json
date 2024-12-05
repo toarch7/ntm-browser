@@ -531,6 +531,53 @@
       "version": 2616,
       "uid": "OG6oUWfDQdLREP4",
       "runId": 528247599
+    },
+    "52lBCLsls8323jg": {
+      "name": "jake",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 36,
+      "win": false,
+      "kills": 234,
+      "ultra": 0,
+      "skills": [
+        1,
+        13,
+        16,
+        28,
+        4,
+        27
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "52lBCLsls8323jg",
+      "runId": 528247599
+    },
+    "f3epTGx348x8hVF": {
+      "name": "101st",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 5,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        22
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "f3epTGx348x8hVF",
+      "runId": 528247599
     }
   }
 }
