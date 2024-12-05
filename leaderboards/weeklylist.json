@@ -304,18 +304,20 @@
       "name": "Fasto",
       "char": 4,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 1,
       "loops": 0,
-      "wep": 6,
-      "bwep": 8,
+      "wep": 89,
+      "bwep": 116,
       "win": false,
-      "kills": 139,
+      "kills": 335,
       "ultra": 0,
       "skills": [
         1,
-        8,
-        28
+        7,
+        10,
+        22,
+        4
       ],
       "crown": 2,
       "version": 2616,
@@ -365,6 +367,55 @@
       "crown": 2,
       "version": 2616,
       "uid": "s01Rv2Hyku31eKo",
+      "runId": 528247599
+    },
+    "ALd6Z7Mk8ZV6JEy": {
+      "name": "howold",
+      "char": 4,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 2,
+      "win": false,
+      "kills": 167,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        7,
+        28
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "ALd6Z7Mk8ZV6JEy",
+      "runId": 528247599
+    },
+    "Kg9y6XE1GH67J4D": {
+      "name": "darkwastaken",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 22,
+      "win": false,
+      "kills": 356,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        7,
+        28,
+        27,
+        4,
+        23
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "Kg9y6XE1GH67J4D",
       "runId": 528247599
     }
   }
