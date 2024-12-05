@@ -376,10 +376,10 @@
       "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 8,
+      "wep": 21,
       "bwep": 2,
       "win": false,
-      "kills": 167,
+      "kills": 174,
       "ultra": 0,
       "skills": [
         1,
@@ -484,6 +484,52 @@
       "crown": 2,
       "version": 2616,
       "uid": "3OoIaH6qdTEAsYl",
+      "runId": 528247599
+    },
+    "7m6rMl97DPjVY5B": {
+      "name": "huevo_minion_YT",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 16,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        25,
+        17,
+        13
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "7m6rMl97DPjVY5B",
+      "runId": 528247599
+    },
+    "OG6oUWfDQdLREP4": {
+      "name": "abusamadresjone",
+      "char": 4,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 12,
+      "win": false,
+      "kills": 293,
+      "ultra": 0,
+      "skills": [
+        1,
+        13,
+        7,
+        28,
+        2
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
       "runId": 528247599
     }
   }
