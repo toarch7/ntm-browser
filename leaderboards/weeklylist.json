@@ -947,6 +947,27 @@
       "version": 2616,
       "uid": "4E6O9YT8T1IQC9u",
       "runId": 528247599
+    },
+    "Gid6L3lPfjZCt81": {
+      "name": "DragonBlue",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 16,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        1,
+        3
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "Gid6L3lPfjZCt81",
+      "runId": 528247599
     }
   }
 }
