@@ -516,19 +516,19 @@
       "name": "abusamadresjone",
       "char": 4,
       "skin": true,
-      "area": 6,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 35,
-      "bwep": 12,
+      "wep": 7,
+      "bwep": 77,
       "win": false,
-      "kills": 293,
+      "kills": 340,
       "ultra": 0,
       "skills": [
         1,
-        13,
+        8,
         7,
-        28,
+        17,
         2
       ],
       "crown": 2,
@@ -858,6 +858,28 @@
       "crown": 2,
       "version": 2616,
       "uid": "CM312LhJ9lrKk0s",
+      "runId": 528247599
+    },
+    "KrY016S2KPDWohM": {
+      "name": "Pineda",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 13,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "KrY016S2KPDWohM",
       "runId": 528247599
     }
   }
