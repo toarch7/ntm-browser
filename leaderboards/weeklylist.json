@@ -999,6 +999,27 @@
       "version": 2616,
       "uid": "r2OfF77k75G8PgK",
       "runId": 528247599
+    },
+    "3Bq3YcM6wv2ap4H": {
+      "name": "FAKE",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 21,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        1,
+        8
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "3Bq3YcM6wv2ap4H",
+      "runId": 528247599
     }
   }
 }
