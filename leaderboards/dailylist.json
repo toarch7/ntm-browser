@@ -1,4 +1,68 @@
 {
   "day": 8,
-  "entries": {}
+  "entries": {
+    "7aO5kajZEj06d84": {
+      "name": "MayMay",
+      "char": 15,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 27,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7aO5kajZEj06d84",
+      "runId": 843749664
+    },
+    "fb8W3748Eb2ThhT": {
+      "name": "AKcuero09",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 1,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "fb8W3748Eb2ThhT",
+      "runId": 843749664
+    },
+    "f3epTGx348x8hVF": {
+      "name": "101st",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 1,
+      "win": false,
+      "kills": 205,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        21,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f3epTGx348x8hVF",
+      "runId": 843749664
+    }
+  }
 }
