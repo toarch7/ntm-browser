@@ -160,6 +160,46 @@
       "version": 2616,
       "uid": "r9aHa3nr6jrIy43",
       "runId": 463120731
+    },
+    "Gid6L3lPfjZCt81": {
+      "name": "DragonBlue",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Gid6L3lPfjZCt81",
+      "runId": 463120731
+    },
+    "OaD2Q1X42678lr6": {
+      "name": "Karonayk",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OaD2Q1X42678lr6",
+      "runId": 463120731
     }
   }
 }
