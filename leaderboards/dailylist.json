@@ -199,6 +199,50 @@
       "version": 2616,
       "uid": "7aO5kajZEj06d84",
       "runId": 1843369055
+    },
+    "0x7hFdP71a11un2": {
+      "name": "iso_aze",
+      "char": 5,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0x7hFdP71a11un2",
+      "runId": 1843369055
+    },
+    "Gid6L3lPfjZCt81": {
+      "name": "DragonBlue",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 20,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        3,
+        22,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Gid6L3lPfjZCt81",
+      "runId": 1843369055
     }
   }
 }
