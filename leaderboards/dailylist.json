@@ -1,4 +1,46 @@
 {
   "day": 10,
-  "entries": {}
+  "entries": {
+    "82fh2WKa1D9lV3q": {
+      "name": "Sparks76",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 75,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        4,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "82fh2WKa1D9lV3q",
+      "runId": 1843369055
+    },
+    "Z96m9O8w4tG8qs0": {
+      "name": "EnemySovonoK",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Z96m9O8w4tG8qs0",
+      "runId": 1843369055
+    }
+  }
 }
