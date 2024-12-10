@@ -1481,6 +1481,30 @@
       "version": 2616,
       "uid": "0VbPXc5sB0YG8KR",
       "runId": 528247599
+    },
+    "LA7DCL2j67X3Nnh": {
+      "name": "Macheteknight",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 13,
+      "win": false,
+      "kills": 235,
+      "ultra": 0,
+      "skills": [
+        1,
+        3,
+        2,
+        14,
+        27
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "LA7DCL2j67X3Nnh",
+      "runId": 528247599
     }
   }
 }
