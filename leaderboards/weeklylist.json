@@ -1460,6 +1460,27 @@
       "version": 2616,
       "uid": "ibdD8L09s7vk3fE",
       "runId": 528247599
+    },
+    "0VbPXc5sB0YG8KR": {
+      "name": "Seeker2",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 6,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        21,
+        13
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "0VbPXc5sB0YG8KR",
+      "runId": 528247599
     }
   }
 }
