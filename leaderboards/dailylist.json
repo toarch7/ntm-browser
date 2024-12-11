@@ -390,6 +390,44 @@
       "version": 2616,
       "uid": "7aO5kajZEj06d84",
       "runId": 628349834
+    },
+    "5QYjzyq2XuMPvM3": {
+      "name": "Haggstrom55",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2616,
+      "uid": "5QYjzyq2XuMPvM3",
+      "runId": 628349834
+    },
+    "mJp2b8085432662": {
+      "name": "Almafuerte",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 21,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        14,
+        25,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mJp2b8085432662",
+      "runId": 628349834
     }
   }
 }
