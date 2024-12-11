@@ -474,24 +474,71 @@
       "name": "Shadow",
       "char": 7,
       "skin": false,
-      "area": 5,
-      "subarea": 2,
-      "loops": 0,
-      "wep": 6,
-      "bwep": 5,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 35,
       "win": false,
-      "kills": 215,
+      "kills": 477,
       "ultra": 0,
       "skills": [
         22,
         4,
         9,
         25,
-        1
+        8,
+        13,
+        10
       ],
       "crown": 6,
       "version": 2616,
       "uid": "qlv1GatdYck1054",
+      "runId": 2071178200
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 1,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        4,
+        9
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 2071178200
+    },
+    "f3epTGx348x8hVF": {
+      "name": "101st",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 38,
+      "win": false,
+      "kills": 260,
+      "ultra": 0,
+      "skills": [
+        22,
+        4,
+        16,
+        25,
+        1
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "f3epTGx348x8hVF",
       "runId": 2071178200
     }
   }
