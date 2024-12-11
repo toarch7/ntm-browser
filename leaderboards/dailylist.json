@@ -260,6 +260,78 @@
       "version": 2616,
       "uid": "Z8oDQHzYYX5a2Ko",
       "runId": 628349834
+    },
+    "CM312LhJ9lrKk0s": {
+      "name": "zaqmad",
+      "char": 1,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 3,
+      "win": false,
+      "kills": 254,
+      "ultra": 0,
+      "skills": [
+        25,
+        6,
+        7,
+        13,
+        9,
+        4,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CM312LhJ9lrKk0s",
+      "runId": 628349834
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "VoideonLord",
+      "char": 10,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 26,
+      "win": false,
+      "kills": 193,
+      "ultra": 0,
+      "skills": [
+        25,
+        7,
+        13,
+        9,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 628349834
+    },
+    "mQ6dxSp1osVs2vM": {
+      "name": "bloodhail",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 1,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        25,
+        6,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mQ6dxSp1osVs2vM",
+      "runId": 628349834
     }
   }
 }
