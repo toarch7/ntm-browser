@@ -183,6 +183,53 @@
       "version": 2616,
       "uid": "veNM445KoAqLS4N",
       "runId": 2071178200
+    },
+    "LL7wmay4z14fx2T": {
+      "name": "Жигуль",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 17,
+      "win": false,
+      "kills": 220,
+      "ultra": 0,
+      "skills": [
+        22,
+        4,
+        16,
+        25,
+        1,
+        7
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "LL7wmay4z14fx2T",
+      "runId": 2071178200
+    },
+    "XgP7HrrKRJ7P1mv": {
+      "name": "Surpluss!",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 1,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        22,
+        16,
+        7
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "XgP7HrrKRJ7P1mv",
+      "runId": 2071178200
     }
   }
 }
