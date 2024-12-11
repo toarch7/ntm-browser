@@ -237,18 +237,22 @@
       "name": "zaqmad",
       "char": 7,
       "skin": false,
-      "area": 3,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 21,
-      "bwep": 3,
+      "wep": 74,
+      "bwep": 77,
       "win": false,
-      "kills": 96,
+      "kills": 361,
       "ultra": 0,
       "skills": [
         22,
         4,
-        9
+        9,
+        25,
+        8,
+        13,
+        16
       ],
       "crown": 6,
       "version": 2616,
@@ -414,6 +418,29 @@
       "crown": 6,
       "version": 2616,
       "uid": "uP8i25B2gcY9loD",
+      "runId": 2071178200
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 5,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        22,
+        4,
+        19,
+        7
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
       "runId": 2071178200
     }
   }
