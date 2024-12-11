@@ -1,4 +1,66 @@
 {
   "day": 11,
-  "entries": {}
+  "entries": {
+    "52lBCLsls8323jg": {
+      "name": "jake",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 20,
+      "win": false,
+      "kills": 254,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        2,
+        7,
+        8,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "52lBCLsls8323jg",
+      "runId": 628349834
+    },
+    "GNNuu686iHQV8V3": {
+      "name": "Seeker90",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 16,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNNuu686iHQV8V3",
+      "runId": 628349834
+    },
+    "f3epTGx348x8hVF": {
+      "name": "101st",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "f3epTGx348x8hVF",
+      "runId": 628349834
+    }
+  }
 }

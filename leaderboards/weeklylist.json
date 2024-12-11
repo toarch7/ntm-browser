@@ -1,4 +1,77 @@
 {
   "seed": 2071178200,
-  "entries": {}
+  "entries": {
+    "7m6rMl97DPjVY5B": {
+      "name": "huevo_minion_YT",
+      "char": 7,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 24,
+      "win": false,
+      "kills": 376,
+      "ultra": 0,
+      "skills": [
+        4,
+        22,
+        7,
+        25,
+        1,
+        23,
+        13,
+        10
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "7m6rMl97DPjVY5B",
+      "runId": 2071178200
+    },
+    "FSo38VP7v8v7m6J": {
+      "name": "Seeker16911",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 1,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        3,
+        9
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "FSo38VP7v8v7m6J",
+      "runId": 2071178200
+    },
+    "TZ2dtqcxppH81Yj": {
+      "name": "tiocaifan",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 17,
+      "win": false,
+      "kills": 223,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        9,
+        2,
+        7
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "TZ2dtqcxppH81Yj",
+      "runId": 2071178200
+    }
+  }
 }
