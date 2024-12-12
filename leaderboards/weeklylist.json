@@ -546,17 +546,18 @@
       "name": "Слабейший",
       "char": 7,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
       "wep": 39,
       "bwep": 1,
       "win": false,
-      "kills": 77,
+      "kills": 108,
       "ultra": 0,
       "skills": [
         3,
-        4
+        4,
+        16
       ],
       "crown": 6,
       "version": 2616,
@@ -807,6 +808,30 @@
       "crown": 6,
       "version": 2616,
       "uid": "xnI677V5k9292b3",
+      "runId": 2071178200
+    },
+    "Kg9y6XE1GH67J4D": {
+      "name": "darkwastaken",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 4,
+      "win": false,
+      "kills": 255,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        9,
+        7,
+        2
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "Kg9y6XE1GH67J4D",
       "runId": 2071178200
     }
   }
