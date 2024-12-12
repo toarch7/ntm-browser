@@ -87,6 +87,67 @@
       "version": 2616,
       "uid": "Z96m9O8w4tG8qs0",
       "runId": 650385333
+    },
+    "2ceX17v57Tre5PQ": {
+      "name": "Arbuzische",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 16,
+      "win": false,
+      "kills": 27,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2ceX17v57Tre5PQ",
+      "runId": 650385333
+    },
+    "f3epTGx348x8hVF": {
+      "name": "101st",
+      "char": 5,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f3epTGx348x8hVF",
+      "runId": 650385333
+    },
+    "H5dV645bca27OVy": {
+      "name": "Матвей",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 0,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        25,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "H5dV645bca27OVy",
+      "runId": 650385333
     }
   }
 }
