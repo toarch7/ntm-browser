@@ -821,17 +821,16 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 21,
-      "bwep": 4,
+      "wep": 30,
+      "bwep": 75,
       "win": false,
-      "kills": 255,
+      "kills": 295,
       "ultra": 0,
       "skills": [
-        3,
         4,
         9,
         7,
-        2
+        21
       ],
       "crown": 6,
       "version": 2616,
@@ -857,6 +856,27 @@
       "crown": 6,
       "version": 2616,
       "uid": "0l6gj4Fx2U1E258",
+      "runId": 2071178200
+    },
+    "5QYjzyq2XuMPvM3": {
+      "name": "Haggstrom55",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 17,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        4,
+        16
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "5QYjzyq2XuMPvM3",
       "runId": 2071178200
     }
   }
