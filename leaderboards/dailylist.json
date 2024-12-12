@@ -446,6 +446,50 @@
       "version": 2616,
       "uid": "g0t1lC57Bbvr2ZH",
       "runId": 650385333
+    },
+    "xMhIzG51UGJ72Un": {
+      "name": "Уёба",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        27,
+        25,
+        23,
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xMhIzG51UGJ72Un",
+      "runId": 650385333
+    },
+    "zuDuLWlf9aglE0W": {
+      "name": "KrisTrocity",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 4,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "zuDuLWlf9aglE0W",
+      "runId": 650385333
     }
   }
 }
