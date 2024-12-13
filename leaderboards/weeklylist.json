@@ -425,17 +425,16 @@
       "name": "Meleemoose",
       "char": 7,
       "skin": false,
-      "area": 5,
-      "subarea": 3,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 39,
+      "wep": 17,
       "bwep": 5,
       "win": false,
-      "kills": 91,
+      "kills": 122,
       "ultra": 0,
       "skills": [
         22,
-        4,
         19,
         7
       ],
@@ -1262,6 +1261,27 @@
       "crown": 6,
       "version": 2616,
       "uid": "8Cb00P2oi49tP79",
+      "runId": 2071178200
+    },
+    "emqdZ1HB5khXMrv": {
+      "name": "Pam",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 5,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        4,
+        9
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "emqdZ1HB5khXMrv",
       "runId": 2071178200
     }
   }
