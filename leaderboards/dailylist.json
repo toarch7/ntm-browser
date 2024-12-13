@@ -178,6 +178,44 @@
       "version": 2616,
       "uid": "4hr982Pcib5LeM2",
       "runId": 131863493
+    },
+    "4GO416cYDkqPYkR": {
+      "name": "Lancy",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 17,
+      "crown": 1,
+      "version": 2616,
+      "uid": "4GO416cYDkqPYkR",
+      "runId": 131863493
+    },
+    "7aO5kajZEj06d84": {
+      "name": "MayMay",
+      "char": 15,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 23,
+      "win": false,
+      "kills": 183,
+      "ultra": 0,
+      "skills": [
+        14,
+        22,
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "7aO5kajZEj06d84",
+      "runId": 131863493
     }
   }
 }
