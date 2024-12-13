@@ -1054,6 +1054,78 @@
       "version": 2616,
       "uid": "p92tuQ9S38KQD0P",
       "runId": 2071178200
+    },
+    "UJ9StPDkl0A940L": {
+      "name": "BEHX333",
+      "char": 7,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 26,
+      "win": false,
+      "kills": 345,
+      "ultra": 0,
+      "skills": [
+        22,
+        4,
+        9,
+        16,
+        25,
+        1,
+        3,
+        10
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "UJ9StPDkl0A940L",
+      "runId": 2071178200
+    },
+    "NkWpFgdE1dMgoFx": {
+      "name": "slayer",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 39,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        22,
+        4,
+        16
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "NkWpFgdE1dMgoFx",
+      "runId": 2071178200
+    },
+    "1VkMgH5R0ig60Vg": {
+      "name": "Angelord",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 17,
+      "win": false,
+      "kills": 196,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        16,
+        21
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "1VkMgH5R0ig60Vg",
+      "runId": 2071178200
     }
   }
 }
