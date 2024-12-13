@@ -1,4 +1,115 @@
 {
   "day": 13,
-  "entries": {}
+  "entries": {
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 91,
+      "bwep": 26,
+      "win": false,
+      "kills": 389,
+      "ultra": 2,
+      "skills": [
+        14,
+        10,
+        22,
+        27,
+        4,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 131863493
+    },
+    "Ry52m4OB749lCe3": {
+      "name": "Fake",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 117,
+      "win": false,
+      "kills": 402,
+      "ultra": 0,
+      "skills": [
+        14,
+        3,
+        22,
+        27,
+        4,
+        25,
+        21
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "Ry52m4OB749lCe3",
+      "runId": 131863493
+    },
+    "Uo9d0T9Q9awAOfT": {
+      "name": "MariBv",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Uo9d0T9Q9awAOfT",
+      "runId": 131863493
+    },
+    "2XRnwoWmcvqeHCa": {
+      "name": "tainol",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2XRnwoWmcvqeHCa",
+      "runId": 131863493
+    },
+    "Z96m9O8w4tG8qs0": {
+      "name": "EnemySovonoK",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 0,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        12,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Z96m9O8w4tG8qs0",
+      "runId": 131863493
+    }
+  }
 }
