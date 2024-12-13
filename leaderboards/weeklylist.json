@@ -1214,6 +1214,55 @@
       "version": 2616,
       "uid": "2728KI1Th4A027P",
       "runId": 2071178200
+    },
+    "L9mjy4hS6zkf8A0": {
+      "name": "DarthurV",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 22,
+      "bwep": 26,
+      "win": false,
+      "kills": 899,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        19,
+        7,
+        2,
+        10
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "L9mjy4hS6zkf8A0",
+      "runId": 2071178200
+    },
+    "8Cb00P2oi49tP79": {
+      "name": "max",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 20,
+      "win": false,
+      "kills": 240,
+      "ultra": 0,
+      "skills": [
+        22,
+        4,
+        16,
+        25,
+        1
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "8Cb00P2oi49tP79",
+      "runId": 2071178200
     }
   }
 }
