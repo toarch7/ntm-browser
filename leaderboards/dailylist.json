@@ -426,6 +426,51 @@
       "version": 2616,
       "uid": "f3epTGx348x8hVF",
       "runId": 530393812
+    },
+    "7m6rMl97DPjVY5B": {
+      "name": "huevo_minion_YT",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 28,
+      "bwep": 62,
+      "win": false,
+      "kills": 230,
+      "ultra": 0,
+      "skills": [
+        17,
+        6,
+        1,
+        13,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7m6rMl97DPjVY5B",
+      "runId": 530393812
+    },
+    "OSfmq3n4mEz3W51": {
+      "name": "gondonio",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OSfmq3n4mEz3W51",
+      "runId": 530393812
     }
   }
 }
