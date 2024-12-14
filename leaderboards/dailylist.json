@@ -382,6 +382,50 @@
       "version": 2616,
       "uid": "9lI6dU8smGT0IR1",
       "runId": 530393812
+    },
+    "0WcaRVWOdp31kxS": {
+      "name": "Gelado09110",
+      "char": 10,
+      "skin": false,
+      "area": 105,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 66,
+      "win": false,
+      "kills": 232,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        13,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0WcaRVWOdp31kxS",
+      "runId": 530393812
+    },
+    "f3epTGx348x8hVF": {
+      "name": "101st",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f3epTGx348x8hVF",
+      "runId": 530393812
     }
   }
 }
