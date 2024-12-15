@@ -1,4 +1,84 @@
 {
   "day": 15,
-  "entries": {}
+  "entries": {
+    "yzaTA23duv95xB4": {
+      "name": "Seekeausbz",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "yzaTA23duv95xB4",
+      "runId": 49728713
+    },
+    "J00Q2eGc9M9rTym": {
+      "name": "Royer",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 69,
+      "win": false,
+      "kills": 19,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J00Q2eGc9M9rTym",
+      "runId": 49728713
+    },
+    "opFtTg37s9kLtBt": {
+      "name": "vergueta",
+      "char": 2,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 117,
+      "win": false,
+      "kills": 172,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        1,
+        26
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "opFtTg37s9kLtBt",
+      "runId": 49728713
+    },
+    "mrfzddd45P392t8": {
+      "name": "Arandano•",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 16,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mrfzddd45P392t8",
+      "runId": 49728713
+    }
+  }
 }
