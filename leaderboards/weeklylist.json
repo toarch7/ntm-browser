@@ -1432,18 +1432,18 @@
       "name": "Seeker90",
       "char": 7,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
       "wep": 17,
-      "bwep": 39,
+      "bwep": 17,
       "win": false,
-      "kills": 83,
+      "kills": 105,
       "ultra": 0,
       "skills": [
-        22,
-        4,
-        9
+        3,
+        28,
+        16
       ],
       "crown": 6,
       "version": 2616,
@@ -1775,6 +1775,26 @@
       "crown": 6,
       "version": 2616,
       "uid": "M37r0hlvHhYgQ5m",
+      "runId": 2071178200
+    },
+    "8AqpyAjN9bk1nZZ": {
+      "name": "hattori",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 5,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "8AqpyAjN9bk1nZZ",
       "runId": 2071178200
     }
   }
