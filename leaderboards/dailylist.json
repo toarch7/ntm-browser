@@ -1,4 +1,70 @@
 {
   "day": 18,
-  "entries": {}
+  "entries": {
+    "f3epTGx348x8hVF": {
+      "name": "101st",
+      "char": 10,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        25,
+        24,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f3epTGx348x8hVF",
+      "runId": 1439222292
+    },
+    "9dUEKyHJz1640m5": {
+      "name": "Ninjax",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 69,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9dUEKyHJz1640m5",
+      "runId": 1439222292
+    },
+    "Z96m9O8w4tG8qs0": {
+      "name": "EnemySovonoK",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        27,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Z96m9O8w4tG8qs0",
+      "runId": 1439222292
+    }
+  }
 }

@@ -1,4 +1,71 @@
 {
   "seed": 942231294,
-  "entries": {}
+  "entries": {
+    "HoEELMZ9sd0A603": {
+      "name": "galaxy",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 0,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        28
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "HoEELMZ9sd0A603",
+      "runId": 942231294
+    },
+    "9dUEKyHJz1640m5": {
+      "name": "Ninjax",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 118,
+      "bwep": 9,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        9
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "9dUEKyHJz1640m5",
+      "runId": 942231294
+    },
+    "Z96m9O8w4tG8qs0": {
+      "name": "EnemySovonoK",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 118,
+      "bwep": 55,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        23
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "Z96m9O8w4tG8qs0",
+      "runId": 942231294
+    }
+  }
 }
