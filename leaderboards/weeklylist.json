@@ -71,13 +71,13 @@
       "name": "abusamadresjone",
       "char": 8,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 116,
-      "bwep": 118,
+      "wep": 118,
+      "bwep": 78,
       "win": false,
-      "kills": 126,
+      "kills": 148,
       "ultra": 0,
       "skills": [
         8,
@@ -87,6 +87,69 @@
       "crown": 2,
       "version": 2616,
       "uid": "OG6oUWfDQdLREP4",
+      "runId": 942231294
+    },
+    "w443K3MRK7oQlOg": {
+      "name": "Max",
+      "char": 8,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 118,
+      "bwep": 55,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        17,
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "w443K3MRK7oQlOg",
+      "runId": 942231294
+    },
+    "ALd6Z7Mk8ZV6JEy": {
+      "name": "howold",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 55,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        8,
+        1
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "ALd6Z7Mk8ZV6JEy",
+      "runId": 942231294
+    },
+    "TZ2dtqcxppH81Yj": {
+      "name": "tiocaifan",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 118,
+      "bwep": 62,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        6,
+        1
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "TZ2dtqcxppH81Yj",
       "runId": 942231294
     }
   }

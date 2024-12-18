@@ -65,6 +65,48 @@
       "version": 2616,
       "uid": "Z96m9O8w4tG8qs0",
       "runId": 1439222292
+    },
+    "7538Pvayhr1gs9a": {
+      "name": "Shappy",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 19,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7538Pvayhr1gs9a",
+      "runId": 1439222292
+    },
+    "w443K3MRK7oQlOg": {
+      "name": "Max",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 0,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        25,
+        17,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "w443K3MRK7oQlOg",
+      "runId": 1439222292
     }
   }
 }
