@@ -665,9 +665,9 @@
       "subarea": 2,
       "loops": 0,
       "wep": 118,
-      "bwep": 47,
+      "bwep": 11,
       "win": false,
-      "kills": 374,
+      "kills": 397,
       "ultra": 0,
       "skills": [
         8,
@@ -675,7 +675,7 @@
         23,
         14,
         9,
-        16
+        17
       ],
       "crown": 2,
       "version": 2616,
@@ -946,6 +946,30 @@
       "crown": 2,
       "version": 2616,
       "uid": "8jY3GAr7nLP48Cj",
+      "runId": 942231294
+    },
+    "BDWPpU3vg58QBhc": {
+      "name": "Virggil",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 118,
+      "bwep": 0,
+      "win": false,
+      "kills": 232,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        10,
+        25,
+        12
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "BDWPpU3vg58QBhc",
       "runId": 942231294
     }
   }
