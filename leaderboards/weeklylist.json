@@ -399,17 +399,18 @@
       "name": "Jesus.0711",
       "char": 8,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 50,
+      "wep": 75,
       "bwep": 0,
       "win": false,
-      "kills": 110,
+      "kills": 136,
       "ultra": 0,
       "skills": [
         8,
-        28
+        28,
+        1
       ],
       "crown": 2,
       "version": 2616,
@@ -853,6 +854,52 @@
       "crown": 2,
       "version": 2616,
       "uid": "pChr46tqqv6eHhR",
+      "runId": 942231294
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 118,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        28
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 942231294
+    },
+    "L9mjy4hS6zkf8A0": {
+      "name": "DarthurV",
+      "char": 8,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 118,
+      "bwep": 69,
+      "win": false,
+      "kills": 265,
+      "ultra": 0,
+      "skills": [
+        6,
+        4,
+        10,
+        25,
+        28
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "L9mjy4hS6zkf8A0",
       "runId": 942231294
     }
   }
