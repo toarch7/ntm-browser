@@ -901,6 +901,52 @@
       "version": 2616,
       "uid": "L9mjy4hS6zkf8A0",
       "runId": 942231294
+    },
+    "qlv1GatdYck1054": {
+      "name": "Shadow",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 118,
+      "bwep": 124,
+      "win": false,
+      "kills": 229,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        10,
+        25,
+        12
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "qlv1GatdYck1054",
+      "runId": 942231294
+    },
+    "8jY3GAr7nLP48Cj": {
+      "name": "INTOXICAT3D",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 118,
+      "bwep": 76,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        8,
+        23,
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "8jY3GAr7nLP48Cj",
+      "runId": 942231294
     }
   }
 }
