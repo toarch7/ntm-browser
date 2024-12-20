@@ -1129,6 +1129,51 @@
       "version": 2616,
       "uid": "WoxUmfP37M78eln",
       "runId": 942231294
+    },
+    "82fh2WKa1D9lV3q": {
+      "name": "Sparks76",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 118,
+      "bwep": 88,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        8,
+        23,
+        21
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "82fh2WKa1D9lV3q",
+      "runId": 942231294
+    },
+    "0x7hFdP71a11un2": {
+      "name": "iso_aze",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 119,
+      "bwep": 118,
+      "win": false,
+      "kills": 373,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        4,
+        10
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "0x7hFdP71a11un2",
+      "runId": 942231294
     }
   }
 }
