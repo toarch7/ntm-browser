@@ -1025,17 +1025,21 @@
       "name": "jake",
       "char": 8,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 118,
-      "bwep": 4,
+      "wep": 83,
+      "bwep": 118,
       "win": false,
-      "kills": 90,
+      "kills": 383,
       "ultra": 0,
       "skills": [
         8,
-        28
+        28,
+        1,
+        10,
+        9,
+        16
       ],
       "crown": 2,
       "version": 2616,
@@ -1176,6 +1180,29 @@
       "crown": 2,
       "version": 2616,
       "uid": "0x7hFdP71a11un2",
+      "runId": 942231294
+    },
+    "046wx26SXd871G6": {
+      "name": "twokaioh",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 118,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        6,
+        28,
+        9,
+        10
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "046wx26SXd871G6",
       "runId": 942231294
     }
   }
