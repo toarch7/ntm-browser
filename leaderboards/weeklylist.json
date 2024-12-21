@@ -1027,21 +1027,22 @@
       "name": "jake",
       "char": 8,
       "skin": true,
-      "area": 7,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 83,
-      "bwep": 118,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 84,
+      "bwep": 66,
       "win": false,
-      "kills": 383,
-      "ultra": 0,
+      "kills": 399,
+      "ultra": 1,
       "skills": [
         8,
         28,
         1,
         10,
         9,
-        16
+        16,
+        7
       ],
       "crown": 2,
       "version": 2616,
@@ -1350,6 +1351,29 @@
       "crown": 2,
       "version": 2616,
       "uid": "X0x8Q4vP1g357ZD",
+      "runId": 942231294
+    },
+    "JJGY43Y1NTBs5Hy": {
+      "name": "Jill",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 118,
+      "bwep": 3,
+      "win": false,
+      "kills": 166,
+      "ultra": 0,
+      "skills": [
+        6,
+        1,
+        4,
+        10
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "JJGY43Y1NTBs5Hy",
       "runId": 942231294
     }
   }
