@@ -1312,17 +1312,17 @@
       "name": "Monocromatic",
       "char": 8,
       "skin": true,
-      "area": 5,
-      "subarea": 2,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
       "wep": 118,
-      "bwep": 13,
+      "bwep": 3,
       "win": false,
-      "kills": 222,
+      "kills": 259,
       "ultra": 0,
       "skills": [
         8,
-        28,
+        23,
         1,
         10
       ],
@@ -1396,6 +1396,30 @@
       "crown": 2,
       "version": 2616,
       "uid": "v3p1NyTCacFGV4c",
+      "runId": 942231294
+    },
+    "g6g70a775pxEcDU": {
+      "name": "Diego",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 118,
+      "bwep": 9,
+      "win": false,
+      "kills": 233,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        28,
+        9,
+        10
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "g6g70a775pxEcDU",
       "runId": 942231294
     }
   }
