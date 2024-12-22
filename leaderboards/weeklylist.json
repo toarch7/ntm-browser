@@ -1490,6 +1490,51 @@
       "version": 2616,
       "uid": "GVuM2o2jXG76MEm",
       "runId": 942231294
+    },
+    "FSo38VP7v8v7m6J": {
+      "name": "Seeker16911",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 118,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        8,
+        21,
+        14
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "FSo38VP7v8v7m6J",
+      "runId": 942231294
+    },
+    "5kyj0AVltfO50fT": {
+      "name": "Ryuken",
+      "char": 8,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 118,
+      "bwep": 90,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        6,
+        23,
+        4,
+        16
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "5kyj0AVltfO50fT",
+      "runId": 942231294
     }
   }
 }
