@@ -1,4 +1,49 @@
 {
   "day": 23,
-  "entries": {}
+  "entries": {
+    "82fh2WKa1D9lV3q": {
+      "name": "Sparks76",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 88,
+      "win": false,
+      "kills": 146,
+      "ultra": 0,
+      "skills": [
+        21,
+        28,
+        9
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "82fh2WKa1D9lV3q",
+      "runId": 601480794
+    },
+    "u653s9UiyPh3mG5": {
+      "name": "Jesus.0711",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 69,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "u653s9UiyPh3mG5",
+      "runId": 601480794
+    }
+  }
 }
