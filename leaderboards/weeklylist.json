@@ -1768,6 +1768,28 @@
       "version": 2616,
       "uid": "5O7hn3TX457TeBc",
       "runId": 942231294
+    },
+    "gdO0AyaP4yg6Jd0": {
+      "name": "Messi",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 118,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        28
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "gdO0AyaP4yg6Jd0",
+      "runId": 942231294
     }
   }
 }

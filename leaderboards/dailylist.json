@@ -409,6 +409,69 @@
       "version": 2616,
       "uid": "Vw8m2RuAMcSpjFk",
       "runId": 601480794
+    },
+    "uZ4U9l6p9sTiM20": {
+      "name": "CRANESTRI",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 17,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uZ4U9l6p9sTiM20",
+      "runId": 601480794
+    },
+    "bpa1O1p16Br2s0o": {
+      "name": "angru",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 10,
+      "win": false,
+      "kills": 263,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        9,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bpa1O1p16Br2s0o",
+      "runId": 601480794
+    },
+    "Rm73Dyo9J1j07T9": {
+      "name": "leek",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 23,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Rm73Dyo9J1j07T9",
+      "runId": 601480794
     }
   }
 }
