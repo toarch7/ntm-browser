@@ -427,13 +427,13 @@
       "name": "M0n",
       "char": 8,
       "skin": true,
-      "area": 6,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 119,
+      "wep": 58,
       "bwep": 118,
       "win": false,
-      "kills": 290,
+      "kills": 348,
       "ultra": 0,
       "skills": [
         8,
@@ -1657,6 +1657,53 @@
       "crown": 2,
       "version": 2616,
       "uid": "WyLWoYb71IOZLK6",
+      "runId": 942231294
+    },
+    "OucOML7xEM3FxaD": {
+      "name": "Luis'Kha",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 118,
+      "bwep": 0,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        8,
+        9
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "OucOML7xEM3FxaD",
+      "runId": 942231294
+    },
+    "Fw8c34cknmEBkEI": {
+      "name": "mmlo",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 0,
+      "win": false,
+      "kills": 388,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        28,
+        4,
+        9,
+        10,
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "Fw8c34cknmEBkEI",
       "runId": 942231294
     }
   }
