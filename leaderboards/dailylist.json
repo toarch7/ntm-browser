@@ -63,6 +63,56 @@
       "version": 2616,
       "uid": "0x7hFdP71a11un2",
       "runId": 1038820972
+    },
+    "Kg9y6XE1GH67J4D": {
+      "name": "darkwastaken",
+      "char": 2,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 11,
+      "win": false,
+      "kills": 250,
+      "ultra": 0,
+      "skills": [
+        9,
+        1,
+        12,
+        27,
+        16,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Kg9y6XE1GH67J4D",
+      "runId": 1038820972
+    },
+    "CM312LhJ9lrKk0s": {
+      "name": "zaqmad",
+      "char": 1,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 25,
+      "bwep": 26,
+      "win": false,
+      "kills": 301,
+      "ultra": 0,
+      "skills": [
+        9,
+        1,
+        12,
+        4,
+        16,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CM312LhJ9lrKk0s",
+      "runId": 1038820972
     }
   }
 }
