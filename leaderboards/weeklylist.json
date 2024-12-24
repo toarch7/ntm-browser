@@ -1894,16 +1894,18 @@
       "name": "Straek004",
       "char": 8,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
       "wep": 118,
       "bwep": 0,
       "win": false,
-      "kills": 101,
+      "kills": 135,
       "ultra": 0,
       "skills": [
-        6
+        8,
+        23,
+        1
       ],
       "crown": 2,
       "version": 2616,
