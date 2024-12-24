@@ -214,6 +214,52 @@
       "version": 2616,
       "uid": "C33Q6W78ZWMSe42",
       "runId": 1038820972
+    },
+    "opFtTg37s9kLtBt": {
+      "name": "vergueta",
+      "char": 9,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 69,
+      "win": false,
+      "kills": 223,
+      "ultra": 0,
+      "skills": [
+        9,
+        1,
+        12,
+        7,
+        21,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "opFtTg37s9kLtBt",
+      "runId": 1038820972
+    },
+    "f3epTGx348x8hVF": {
+      "name": "101st",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        9,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f3epTGx348x8hVF",
+      "runId": 1038820972
     }
   }
 }
