@@ -1,4 +1,47 @@
 {
   "seed": 704820954,
-  "entries": {}
+  "entries": {
+    "ECs8Gulq55e4iBr": {
+      "name": "men",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 111,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        23,
+        17
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "ECs8Gulq55e4iBr",
+      "runId": 704820954
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "VoideonLord",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 111,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        23,
+        17
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 704820954
+    }
+  }
 }
