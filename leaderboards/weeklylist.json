@@ -331,6 +331,29 @@
       "version": 2616,
       "uid": "C33Q6W78ZWMSe42",
       "runId": 704820954
+    },
+    "qlv1GatdYck1054": {
+      "name": "Shadow",
+      "char": 12,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 11,
+      "win": false,
+      "kills": 262,
+      "ultra": 0,
+      "skills": [
+        12,
+        17,
+        1,
+        14
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "qlv1GatdYck1054",
+      "runId": 704820954
     }
   }
 }
