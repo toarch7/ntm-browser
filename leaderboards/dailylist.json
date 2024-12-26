@@ -255,6 +255,47 @@
       "version": 2616,
       "uid": "u653s9UiyPh3mG5",
       "runId": 854554350
+    },
+    "929SHs6u8jyVGVV": {
+      "name": "Erlin",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 23,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "929SHs6u8jyVGVV",
+      "runId": 854554350
+    },
+    "Rm73Dyo9J1j07T9": {
+      "name": "leek",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 27,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        27,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Rm73Dyo9J1j07T9",
+      "runId": 854554350
     }
   }
 }
