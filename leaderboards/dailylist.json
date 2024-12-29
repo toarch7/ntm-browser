@@ -247,6 +247,75 @@
       "version": 2616,
       "uid": "ZcKZM5027S91Mtu",
       "runId": 1148812906
+    },
+    "u653s9UiyPh3mG5": {
+      "name": "Jesus.0711",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 17,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        4,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "u653s9UiyPh3mG5",
+      "runId": 1148812906
+    },
+    "0zbIF2C3H421GHC": {
+      "name": "Czimbala",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 93,
+      "bwep": 35,
+      "win": false,
+      "kills": 1290,
+      "ultra": 1,
+      "skills": [
+        23,
+        13,
+        1,
+        17,
+        3,
+        27,
+        24,
+        4
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "0zbIF2C3H421GHC",
+      "runId": 1148812906
+    },
+    "Yz0jrjVK1Ff99xm": {
+      "name": "blastlight",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 17,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        4,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Yz0jrjVK1Ff99xm",
+      "runId": 1148812906
     }
   }
 }
