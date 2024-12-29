@@ -1,4 +1,46 @@
 {
   "day": 29,
-  "entries": {}
+  "entries": {
+    "PbREkmtVtM36UP8": {
+      "name": "Seeker90",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 17,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "PbREkmtVtM36UP8",
+      "runId": 1148812906
+    },
+    "f8e8B1KzlFkMDK4": {
+      "name": "ares",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 16,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [
+        4,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f8e8B1KzlFkMDK4",
+      "runId": 1148812906
+    }
+  }
 }
