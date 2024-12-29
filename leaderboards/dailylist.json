@@ -89,6 +89,47 @@
       "version": 2616,
       "uid": "kCYSmJ6emz05igU",
       "runId": 1148812906
+    },
+    "0x7hFdP71a11un2": {
+      "name": "iso_042aze",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 76,
+      "win": false,
+      "kills": 204,
+      "ultra": 0,
+      "skills": [
+        4,
+        13,
+        1,
+        8,
+        14,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0x7hFdP71a11un2",
+      "runId": 1148812906
+    },
+    "w8uR9FmSvMk7NRb": {
+      "name": "kodeine",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 16,
+      "win": false,
+      "kills": 23,
+      "crown": 1,
+      "version": 2616,
+      "uid": "w8uR9FmSvMk7NRb",
+      "runId": 1148812906
     }
   }
 }
