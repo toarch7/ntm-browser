@@ -227,6 +227,26 @@
       "version": 2616,
       "uid": "24oC1l0J5YFnEP6",
       "runId": 1148812906
+    },
+    "ZcKZM5027S91Mtu": {
+      "name": "mute",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 17,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ZcKZM5027S91Mtu",
+      "runId": 1148812906
     }
   }
 }
