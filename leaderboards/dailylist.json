@@ -385,6 +385,49 @@
       "version": 2616,
       "uid": "7m6rMl97DPjVY5B",
       "runId": 132395202
+    },
+    "Kg9y6XE1GH67J4D": {
+      "name": "darkwastaken",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 90,
+      "bwep": 12,
+      "win": false,
+      "kills": 411,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        27,
+        7,
+        10,
+        4,
+        9,
+        3
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "Kg9y6XE1GH67J4D",
+      "runId": 132395202
+    },
+    "f8e8B1KzlFkMDK4": {
+      "name": "ares",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "f8e8B1KzlFkMDK4",
+      "runId": 132395202
     }
   }
 }
