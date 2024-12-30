@@ -207,6 +207,68 @@
       "version": 2616,
       "uid": "kj7qj7OjvMAdlM0",
       "runId": 132395202
+    },
+    "zuDuLWlf9aglE0W": {
+      "name": "KrisTrocity",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 0,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "zuDuLWlf9aglE0W",
+      "runId": 132395202
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "VoideonLord",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 1,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        13,
+        16,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 132395202
+    },
+    "fQXRuxs4bMbf4F8": {
+      "name": "Femlad",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "fQXRuxs4bMbf4F8",
+      "runId": 132395202
     }
   }
 }
