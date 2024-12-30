@@ -591,16 +591,18 @@
       "name": "jake",
       "char": 12,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 21,
+      "wep": 10,
       "bwep": 111,
       "win": false,
-      "kills": 108,
+      "kills": 259,
       "ultra": 0,
       "skills": [
-        2
+        2,
+        10,
+        7
       ],
       "crown": 7,
       "version": 2616,
