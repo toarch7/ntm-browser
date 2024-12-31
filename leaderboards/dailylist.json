@@ -1,4 +1,47 @@
 {
   "day": 31,
-  "entries": {}
+  "entries": {
+    "G3p97JVJnQIPHZq": {
+      "name": "ltp4",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 71,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "G3p97JVJnQIPHZq",
+      "runId": 843033239
+    },
+    "5NXn94sI2jpM51T": {
+      "name": "Confusion",
+      "char": 7,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        2,
+        1,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5NXn94sI2jpM51T",
+      "runId": 843033239
+    }
+  }
 }
