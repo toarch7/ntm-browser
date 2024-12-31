@@ -435,6 +435,46 @@
       "version": 2616,
       "uid": "24oC1l0J5YFnEP6",
       "runId": 843033239
+    },
+    "Gx5AzXd8xFoB0dw": {
+      "name": "orang",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 26,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Gx5AzXd8xFoB0dw",
+      "runId": 843033239
+    },
+    "TqP0kzADTfBSCIl": {
+      "name": "dima",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 62,
+      "win": false,
+      "kills": 233,
+      "ultra": 0,
+      "skills": [
+        2,
+        4,
+        8,
+        7,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "TqP0kzADTfBSCIl",
+      "runId": 843033239
     }
   }
 }
