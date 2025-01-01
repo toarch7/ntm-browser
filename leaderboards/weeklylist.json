@@ -1,4 +1,47 @@
 {
   "seed": 1922075250,
-  "entries": {}
+  "entries": {
+    "Kg9y6XE1GH67J4D": {
+      "name": "darkwastaken",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 82,
+      "bwep": 0,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        8,
+        22
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "Kg9y6XE1GH67J4D",
+      "runId": 1922075250
+    },
+    "G3p97JVJnQIPHZq": {
+      "name": "ltp4",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 82,
+      "bwep": 0,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        28,
+        19
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "G3p97JVJnQIPHZq",
+      "runId": 1922075250
+    }
+  }
 }
