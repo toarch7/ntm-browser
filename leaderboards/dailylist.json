@@ -195,6 +195,60 @@
       "version": 2616,
       "uid": "vfXehlnKn6OUX6n",
       "runId": 863972847
+    },
+    "k6hWUIvh73GLQGi": {
+      "name": "Stayendmanx",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 24,
+      "bwep": 35,
+      "win": false,
+      "kills": 3694,
+      "ultra": 2,
+      "skills": [
+        27,
+        3,
+        14,
+        23,
+        10,
+        12,
+        17,
+        4,
+        1,
+        13,
+        7
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "k6hWUIvh73GLQGi",
+      "runId": 863972847
+    },
+    "cGxF20Mvd3DP24G": {
+      "name": "Fatcat",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 11,
+      "win": false,
+      "kills": 232,
+      "ultra": 0,
+      "skills": [
+        4,
+        13,
+        1,
+        9,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cGxF20Mvd3DP24G",
+      "runId": 863972847
     }
   }
 }
