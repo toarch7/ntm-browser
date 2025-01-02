@@ -520,6 +520,47 @@
       "version": 2616,
       "uid": "G3p97JVJnQIPHZq",
       "runId": 863972847
+    },
+    "zedkKURN8whSU50": {
+      "name": "Ezeqlito",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "zedkKURN8whSU50",
+      "runId": 863972847
+    },
+    "rVEg1FI73gHK813": {
+      "name": "Seeker90",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        1,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rVEg1FI73gHK813",
+      "runId": 863972847
     }
   }
 }
