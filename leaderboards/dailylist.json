@@ -154,6 +154,46 @@
       "version": 2616,
       "uid": "J1310A51338h9Tx",
       "runId": 696864144
+    },
+    "cGxF20Mvd3DP24G": {
+      "name": "Fatcat",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 1,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cGxF20Mvd3DP24G",
+      "runId": 696864144
+    },
+    "CM312LhJ9lrKk0s": {
+      "name": "zaqmad",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 1,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CM312LhJ9lrKk0s",
+      "runId": 696864144
     }
   }
 }
