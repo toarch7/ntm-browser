@@ -85,6 +85,97 @@
       "version": 2616,
       "uid": "G3p97JVJnQIPHZq",
       "runId": 2142552872
+    },
+    "955039vcwTlu674": {
+      "name": "Rediiix",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 14,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "955039vcwTlu674",
+      "runId": 2142552872
+    },
+    "Is5F2iVekK2V7O8": {
+      "name": "El",
+      "char": 3,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 88,
+      "bwep": 70,
+      "win": false,
+      "kills": 351,
+      "ultra": 1,
+      "skills": [
+        8,
+        14,
+        7,
+        13,
+        1,
+        4,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Is5F2iVekK2V7O8",
+      "runId": 2142552872
+    },
+    "PbREkmtVtM36UP8": {
+      "name": "Seeker90",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 17,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        16,
+        10,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "PbREkmtVtM36UP8",
+      "runId": 2142552872
+    },
+    "iB9CcK6nC5Em3iw": {
+      "name": "Equinox.Zip",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 21,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        29,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "iB9CcK6nC5Em3iw",
+      "runId": 2142552872
     }
   }
 }
