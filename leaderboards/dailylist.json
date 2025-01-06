@@ -536,6 +536,55 @@
       "version": 2616,
       "uid": "PbREkmtVtM36UP8",
       "runId": 1300213314
+    },
+    "7m6rMl97DPjVY5B": {
+      "name": "huevo_minion_YT",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 67,
+      "bwep": 111,
+      "win": false,
+      "kills": 662,
+      "ultra": 0,
+      "skills": [
+        14,
+        27,
+        23,
+        10,
+        17,
+        13,
+        7,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7m6rMl97DPjVY5B",
+      "runId": 1300213314
+    },
+    "T7mOEfK5K6LN8ys": {
+      "name": "Seeker",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 17,
+      "win": false,
+      "kills": 188,
+      "ultra": 0,
+      "skills": [
+        12,
+        23,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "T7mOEfK5K6LN8ys",
+      "runId": 1300213314
     }
   }
 }
