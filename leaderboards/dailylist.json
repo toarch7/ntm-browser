@@ -194,6 +194,50 @@
       "version": 2616,
       "uid": "Uo9d0T9Q9awAOfT",
       "runId": 1300213314
+    },
+    "ySi3B5rXTbPL17I": {
+      "name": "summer",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 17,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ySi3B5rXTbPL17I",
+      "runId": 1300213314
+    },
+    "g6g70a775pxEcDU": {
+      "name": "Diego",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 17,
+      "win": false,
+      "kills": 246,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        9,
+        27,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g6g70a775pxEcDU",
+      "runId": 1300213314
     }
   }
 }
