@@ -376,6 +376,69 @@
       "version": 2616,
       "uid": "kj7qj7OjvMAdlM0",
       "runId": 30114381
+    },
+    "G3p97JVJnQIPHZq": {
+      "name": "undiscovered",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 69,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        12,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "G3p97JVJnQIPHZq",
+      "runId": 30114381
+    },
+    "5ak7Lp8CJetFsSi": {
+      "name": "ChocolateLover",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 88,
+      "bwep": 110,
+      "win": false,
+      "kills": 477,
+      "ultra": 1,
+      "skills": [
+        8,
+        7,
+        1,
+        23,
+        14,
+        27,
+        13
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "5ak7Lp8CJetFsSi",
+      "runId": 30114381
+    },
+    "u2vXbYQ72oCQEr1": {
+      "name": "Seeke",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "u2vXbYQ72oCQEr1",
+      "runId": 30114381
     }
   }
 }
