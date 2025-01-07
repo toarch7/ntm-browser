@@ -1,4 +1,71 @@
 {
   "day": 7,
-  "entries": {}
+  "entries": {
+    "a3O7iEe4AV4cTMz": {
+      "name": "DerAusUlm",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 1,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a3O7iEe4AV4cTMz",
+      "runId": 30114381
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 22,
+      "win": false,
+      "kills": 293,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        10,
+        4,
+        27,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 30114381
+    },
+    "CM312LhJ9lrKk0s": {
+      "name": "zaqmad",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CM312LhJ9lrKk0s",
+      "runId": 30114381
+    }
+  }
 }
