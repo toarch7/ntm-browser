@@ -5,19 +5,21 @@
       "name": "NTB777",
       "char": 4,
       "skin": true,
-      "area": 3,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 33,
-      "bwep": 11,
+      "wep": 23,
+      "bwep": 26,
       "win": false,
-      "kills": 132,
-      "ultra": 0,
+      "kills": 368,
+      "ultra": 1,
       "skills": [
-        8,
-        14,
         1,
-        7
+        27,
+        14,
+        7,
+        9,
+        8
       ],
       "crown": 13,
       "version": 2616,
@@ -542,6 +544,29 @@
       "crown": 13,
       "version": 2616,
       "uid": "2hrrxhK0wjb2I7O",
+      "runId": 278413910
+    },
+    "RmA77yQP40TR7Ik": {
+      "name": "ReyFollador",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 3,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        1,
+        13,
+        27,
+        28
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "RmA77yQP40TR7Ik",
       "runId": 278413910
     }
   }
