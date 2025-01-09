@@ -514,6 +514,72 @@
       "version": 2616,
       "uid": "0A42G0sB5669UgH",
       "runId": 1423057179
+    },
+    "G3p97JVJnQIPHZq": {
+      "name": "undiscovered",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 264,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        9,
+        10
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "G3p97JVJnQIPHZq",
+      "runId": 1423057179
+    },
+    "7m6rMl97DPjVY5B": {
+      "name": "huevo_minion_YT",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 93,
+      "bwep": 111,
+      "win": false,
+      "kills": 2536,
+      "ultra": 0,
+      "skills": [
+        23,
+        13,
+        10,
+        14,
+        27,
+        7,
+        17,
+        6
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "7m6rMl97DPjVY5B",
+      "runId": 1423057179
+    },
+    "69tz4dSLA09q76F": {
+      "name": "wazaaapalagrasa",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 21,
+      "win": false,
+      "kills": 22,
+      "crown": 1,
+      "version": 2616,
+      "uid": "69tz4dSLA09q76F",
+      "runId": 1423057179
     }
   }
 }
