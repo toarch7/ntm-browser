@@ -53,21 +53,22 @@
       "name": "Meleemoose",
       "char": 4,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 26,
+      "wep": 90,
       "bwep": 33,
       "win": false,
-      "kills": 215,
-      "ultra": 0,
+      "kills": 339,
+      "ultra": 2,
       "skills": [
         1,
         8,
-        27,
         4,
-        14,
-        10
+        27,
+        10,
+        22,
+        12
       ],
       "crown": 13,
       "version": 2616,
@@ -660,6 +661,30 @@
       "crown": 13,
       "version": 2616,
       "uid": "dD86763GUG0Y00r",
+      "runId": 278413910
+    },
+    "5F1T08TleE154C6": {
+      "name": "Seeker9pericles",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 43,
+      "win": false,
+      "kills": 212,
+      "ultra": 0,
+      "skills": [
+        27,
+        8,
+        1,
+        10,
+        17
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "5F1T08TleE154C6",
       "runId": 278413910
     }
   }
