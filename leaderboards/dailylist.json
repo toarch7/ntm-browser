@@ -106,6 +106,78 @@
       "version": 2616,
       "uid": "u2vXbYQ72oCQEr1",
       "runId": 1423057179
+    },
+    "w443K3MRK7oQlOg": {
+      "name": "Max",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 5,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        27,
+        14,
+        4
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "w443K3MRK7oQlOg",
+      "runId": 1423057179
+    },
+    "0x7hFdP71a11un2": {
+      "name": "iso_042aze",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 200,
+      "ultra": 0,
+      "skills": [
+        10,
+        8,
+        1,
+        4,
+        3,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0x7hFdP71a11un2",
+      "runId": 1423057179
+    },
+    "24yl93223ziSXyj": {
+      "name": "Am_356_323",
+      "char": 11,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 77,
+      "bwep": 110,
+      "win": false,
+      "kills": 1362,
+      "ultra": 2,
+      "skills": [
+        27,
+        1,
+        4,
+        29,
+        9,
+        8
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "24yl93223ziSXyj",
+      "runId": 1423057179
     }
   }
 }
