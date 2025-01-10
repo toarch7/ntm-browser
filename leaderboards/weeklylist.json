@@ -1130,21 +1130,42 @@
       "name": "Seeker90",
       "char": 4,
       "skin": true,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 33,
-      "bwep": 5,
+      "wep": 14,
+      "bwep": 33,
       "win": false,
-      "kills": 84,
+      "kills": 186,
       "ultra": 0,
       "skills": [
-        6,
-        16
+        14,
+        25,
+        6
       ],
       "crown": 13,
       "version": 2616,
       "uid": "d906j7IzyLdm1eM",
+      "runId": 278413910
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 3,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
       "runId": 278413910
     }
   }
