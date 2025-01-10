@@ -1,4 +1,59 @@
 {
   "day": 10,
-  "entries": {}
+  "entries": {
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 63,
+      "win": false,
+      "kills": 397,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        4,
+        10,
+        27,
+        14,
+        22,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 2073092071
+    },
+    "f3epTGx348x8hVF": {
+      "name": "101st",
+      "char": 10,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 49,
+      "win": false,
+      "kills": 392,
+      "ultra": 0,
+      "skills": [
+        1,
+        9,
+        4,
+        27,
+        8,
+        14,
+        21,
+        19
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "f3epTGx348x8hVF",
+      "runId": 2073092071
+    }
+  }
 }
