@@ -124,6 +124,52 @@
       "version": 2616,
       "uid": "0R7VgqKSB8MAnd9",
       "runId": 1712336947
+    },
+    "G3p97JVJnQIPHZq": {
+      "name": "undiscovered",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 69,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        12,
+        4,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "G3p97JVJnQIPHZq",
+      "runId": 1712336947
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "adam.el.asemπ",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 35,
+      "win": false,
+      "kills": 314,
+      "ultra": 0,
+      "skills": [
+        29,
+        1,
+        9,
+        17,
+        10
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
+      "runId": 1712336947
     }
   }
 }
