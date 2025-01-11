@@ -1,4 +1,46 @@
 {
   "day": 11,
-  "entries": {}
+  "entries": {
+    "RwSmFhfr4aUyjy4": {
+      "name": "hollowknight616",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 6,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        8,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
+      "runId": 1712336947
+    },
+    "f8W067UI9nqz7Et": {
+      "name": "Random",
+      "char": 1,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 3,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f8W067UI9nqz7Et",
+      "runId": 1712336947
+    }
+  }
 }
