@@ -994,19 +994,22 @@
       "name": "DarthurV",
       "char": 4,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
-      "loops": 0,
-      "wep": 33,
-      "bwep": 66,
+      "loops": 1,
+      "wep": 22,
+      "bwep": 11,
       "win": false,
-      "kills": 261,
-      "ultra": 0,
+      "kills": 1374,
+      "ultra": 2,
       "skills": [
-        1,
         10,
         4,
-        19
+        3,
+        12,
+        1,
+        19,
+        27
       ],
       "crown": 13,
       "version": 2616,
@@ -1331,6 +1334,52 @@
       "crown": 13,
       "version": 2616,
       "uid": "5Gx1GFD5Mp7Ydd3",
+      "runId": 278413910
+    },
+    "G3p97JVJnQIPHZq": {
+      "name": "undiscovered",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 26,
+      "win": false,
+      "kills": 261,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        4,
+        9,
+        14,
+        27
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "G3p97JVJnQIPHZq",
+      "runId": 278413910
+    },
+    "307Mga56XPNyUsO": {
+      "name": "graboulax",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 4,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "307Mga56XPNyUsO",
       "runId": 278413910
     }
   }
