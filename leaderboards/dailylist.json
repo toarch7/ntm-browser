@@ -242,6 +242,66 @@
       "version": 2616,
       "uid": "24yl93223ziSXyj",
       "runId": 1712336947
+    },
+    "r0t1Q7E2PPFwr1Q": {
+      "name": "Brk015",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 7,
+      "win": false,
+      "kills": 12,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "r0t1Q7E2PPFwr1Q",
+      "runId": 1712336947
+    },
+    "BBQ6o8B029Q01rW": {
+      "name": "Bakurama1234",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 7,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BBQ6o8B029Q01rW",
+      "runId": 1712336947
+    },
+    "7F608VW4d28Pd06": {
+      "name": "Patty",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 3,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7F608VW4d28Pd06",
+      "runId": 1712336947
     }
   }
 }

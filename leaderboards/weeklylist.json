@@ -1411,6 +1411,27 @@
       "version": 2616,
       "uid": "UAiWcr5S5yFzoTr",
       "runId": 278413910
+    },
+    "7F608VW4d28Pd06": {
+      "name": "Patty",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 13,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        1,
+        2
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "7F608VW4d28Pd06",
+      "runId": 278413910
     }
   }
 }
