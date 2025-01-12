@@ -577,18 +577,20 @@
       "name": "darkwastaken",
       "char": 4,
       "skin": true,
-      "area": 104,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 33,
-      "bwep": 9,
+      "wep": 36,
+      "bwep": 89,
       "win": false,
-      "kills": 153,
+      "kills": 261,
       "ultra": 0,
       "skills": [
         1,
         8,
-        4
+        14,
+        27,
+        7
       ],
       "crown": 13,
       "version": 2616,
@@ -1645,6 +1647,30 @@
       "crown": 13,
       "version": 2616,
       "uid": "W36AYDnfg5H5mwJ",
+      "runId": 278413910
+    },
+    "Z19rDP189CM70a0": {
+      "name": "eliastcraft",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 33,
+      "win": false,
+      "kills": 216,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        14,
+        10,
+        9
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "Z19rDP189CM70a0",
       "runId": 278413910
     }
   }
