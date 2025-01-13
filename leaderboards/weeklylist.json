@@ -1739,6 +1739,53 @@
       "version": 2616,
       "uid": "TZ2dtqcxppH81Yj",
       "runId": 278413910
+    },
+    "45V2d8ua5aaktC5": {
+      "name": "PotatoWithSugar",
+      "char": 4,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 33,
+      "win": false,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        4,
+        12
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "45V2d8ua5aaktC5",
+      "runId": 278413910
+    },
+    "C2dR3t6EC5o9LN5": {
+      "name": "Maud",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 66,
+      "win": false,
+      "kills": 198,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        10,
+        7,
+        14
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "C2dR3t6EC5o9LN5",
+      "runId": 278413910
     }
   }
 }
