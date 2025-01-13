@@ -547,22 +547,21 @@
       "runId": 278413910
     },
     "RmA77yQP40TR7Ik": {
-      "name": "ReyFollador",
+      "name": "YokaPendejo",
       "char": 4,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 21,
+      "wep": 61,
       "bwep": 3,
       "win": false,
-      "kills": 148,
+      "kills": 163,
       "ultra": 0,
       "skills": [
         1,
-        13,
-        27,
-        28
+        28,
+        13
       ],
       "crown": 13,
       "version": 2616,
