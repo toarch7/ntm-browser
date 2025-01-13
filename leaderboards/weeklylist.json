@@ -435,18 +435,18 @@
       "name": "Nukuler",
       "char": 4,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 22,
-      "bwep": 88,
+      "wep": 43,
+      "bwep": 33,
       "win": false,
-      "kills": 150,
+      "kills": 152,
       "ultra": 0,
       "skills": [
         1,
-        29,
-        8
+        8,
+        29
       ],
       "crown": 13,
       "version": 2616,
@@ -1781,6 +1781,27 @@
       "crown": 13,
       "version": 2616,
       "uid": "C2dR3t6EC5o9LN5",
+      "runId": 278413910
+    },
+    "gr9O7iLHiPtrXR9": {
+      "name": "TheDumBee",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 30,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        23,
+        29
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "gr9O7iLHiPtrXR9",
       "runId": 278413910
     }
   }
