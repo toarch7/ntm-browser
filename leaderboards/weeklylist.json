@@ -247,15 +247,18 @@
       "subarea": 1,
       "loops": 0,
       "wep": 26,
-      "bwep": 33,
+      "bwep": 91,
       "win": false,
-      "kills": 276,
+      "kills": 288,
       "ultra": 0,
       "skills": [
         1,
         8,
         14,
-        3
+        3,
+        9,
+        12,
+        19
       ],
       "crown": 13,
       "version": 2616,
@@ -1872,20 +1875,20 @@
       "name": "Seeke",
       "char": 4,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 1,
       "loops": 0,
-      "wep": 26,
+      "wep": 71,
       "bwep": 33,
       "win": false,
-      "kills": 221,
+      "kills": 312,
       "ultra": 0,
       "skills": [
         1,
-        9,
-        8,
+        10,
         14,
-        10
+        29,
+        27
       ],
       "crown": 13,
       "version": 2616,
@@ -1932,6 +1935,28 @@
       "crown": 13,
       "version": 2616,
       "uid": "g5lMVrUL3riPr78",
+      "runId": 278413910
+    },
+    "Xuk9oMa9zE7ctfe": {
+      "name": "Elsolitario",
+      "char": 4,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 33,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "Xuk9oMa9zE7ctfe",
       "runId": 278413910
     }
   }
