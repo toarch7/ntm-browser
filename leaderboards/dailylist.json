@@ -410,6 +410,51 @@
       "version": 2616,
       "uid": "0R7VgqKSB8MAnd9",
       "runId": 163344387
+    },
+    "cE47A80Cg40vI0K": {
+      "name": "magma",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 38,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        22,
+        27,
+        4,
+        1,
+        17
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "cE47A80Cg40vI0K",
+      "runId": 163344387
+    },
+    "Vf8imOxVpYvMNPj": {
+      "name": "LUTWORDT",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Vf8imOxVpYvMNPj",
+      "runId": 163344387
     }
   }
 }
