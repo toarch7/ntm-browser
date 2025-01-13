@@ -533,6 +533,77 @@
       "version": 2616,
       "uid": "jF54FQB8st8zYO1",
       "runId": 163344387
+    },
+    "G3p97JVJnQIPHZq": {
+      "name": "undiscovered",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 10,
+      "win": false,
+      "kills": 199,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        9,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "G3p97JVJnQIPHZq",
+      "runId": 163344387
+    },
+    "K97awxp38a8uXg2": {
+      "name": "Ninja_Panas",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 70,
+      "win": false,
+      "kills": 382,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        3,
+        10,
+        2,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "K97awxp38a8uXg2",
+      "runId": 163344387
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "VoideonLord",
+      "char": 10,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 13,
+      "win": false,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        9,
+        13
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 163344387
     }
   }
 }
