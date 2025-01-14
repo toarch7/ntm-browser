@@ -128,6 +128,68 @@
       "version": 2616,
       "uid": "f8W067UI9nqz7Et",
       "runId": 1778473402
+    },
+    "0I4f46776wVlH7B": {
+      "name": "Ballfondler",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 14,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0I4f46776wVlH7B",
+      "runId": 1778473402
+    },
+    "0R7VgqKSB8MAnd9": {
+      "name": "Seeker271700446",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 3,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0R7VgqKSB8MAnd9",
+      "runId": 1778473402
+    },
+    "u2vXbYQ72oCQEr1": {
+      "name": "Seeke",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "u2vXbYQ72oCQEr1",
+      "runId": 1778473402
     }
   }
 }
