@@ -1692,19 +1692,19 @@
       "name": "Crifster",
       "char": 4,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 1,
       "loops": 0,
-      "wep": 22,
+      "wep": 29,
       "bwep": 26,
       "win": false,
-      "kills": 222,
+      "kills": 305,
       "ultra": 0,
       "skills": [
         1,
-        7,
-        10,
-        8
+        8,
+        14,
+        10
       ],
       "crown": 13,
       "version": 2616,
@@ -1957,6 +1957,75 @@
       "crown": 13,
       "version": 2616,
       "uid": "Xuk9oMa9zE7ctfe",
+      "runId": 278413910
+    },
+    "laG1tFrymGGMFh7": {
+      "name": "santiago",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 53,
+      "win": false,
+      "kills": 202,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        14,
+        12,
+        28
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "laG1tFrymGGMFh7",
+      "runId": 278413910
+    },
+    "U591M0Vk7j93Sl0": {
+      "name": "tatinha",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 26,
+      "win": false,
+      "kills": 220,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        27,
+        10
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "U591M0Vk7j93Sl0",
+      "runId": 278413910
+    },
+    "R6y2G9h8pMVtS62": {
+      "name": "Seeker0",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 17,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        14
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "R6y2G9h8pMVtS62",
       "runId": 278413910
     }
   }
