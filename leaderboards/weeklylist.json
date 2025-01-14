@@ -177,15 +177,15 @@
       "area": 3,
       "subarea": 3,
       "loops": 0,
-      "wep": 34,
-      "bwep": 3,
+      "wep": 33,
+      "bwep": 45,
       "win": false,
-      "kills": 138,
+      "kills": 159,
       "ultra": 0,
       "skills": [
-        8,
         1,
-        4
+        8,
+        9
       ],
       "crown": 13,
       "version": 2616,
@@ -2077,22 +2077,45 @@
       "char": 4,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 33,
+      "wep": 9,
       "bwep": 13,
       "win": false,
-      "kills": 109,
+      "kills": 134,
       "ultra": 0,
       "skills": [
         1,
         7,
-        16,
         13
       ],
       "crown": 13,
       "version": 2616,
       "uid": "D0o7kk1DE7REMe6",
+      "runId": 278413910
+    },
+    "Q2yF3532doWd1jC": {
+      "name": "NSJ_012",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 26,
+      "win": false,
+      "kills": 354,
+      "ultra": 1,
+      "skills": [
+        1,
+        21,
+        14,
+        23,
+        10
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "Q2yF3532doWd1jC",
       "runId": 278413910
     }
   }
