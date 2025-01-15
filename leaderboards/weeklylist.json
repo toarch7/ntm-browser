@@ -28,19 +28,22 @@
       "name": "Meleemoose",
       "char": 10,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
       "wep": 8,
-      "bwep": 116,
+      "bwep": 17,
       "win": false,
-      "kills": 180,
+      "kills": 292,
       "ultra": 0,
       "skills": [
         1,
         8,
+        7,
+        9,
+        27,
         4,
-        10
+        14
       ],
       "crown": 13,
       "version": 2616,
@@ -66,6 +69,55 @@
       "crown": 13,
       "version": 2616,
       "uid": "0l6gj4Fx2U1E258",
+      "runId": 1598218433
+    },
+    "8dJKA25olB5rM0L": {
+      "name": "Luis",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 17,
+      "win": false,
+      "kills": 267,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        27,
+        4,
+        10
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "8dJKA25olB5rM0L",
+      "runId": 1598218433
+    },
+    "24yl93223ziSXyj": {
+      "name": "Am_356_323",
+      "char": 10,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 22,
+      "bwep": 77,
+      "win": false,
+      "kills": 1336,
+      "ultra": 1,
+      "skills": [
+        1,
+        8,
+        4,
+        9,
+        27,
+        29
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "24yl93223ziSXyj",
       "runId": 1598218433
     }
   }
