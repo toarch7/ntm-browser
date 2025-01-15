@@ -441,6 +441,29 @@
       "version": 2616,
       "uid": "9EkyKX48VdSH7VW",
       "runId": 1598218433
+    },
+    "0KxC2CPmG08w2B9": {
+      "name": "Monocromatic",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 3,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        8,
+        13,
+        1,
+        2
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "0KxC2CPmG08w2B9",
+      "runId": 1598218433
     }
   }
 }
