@@ -845,19 +845,19 @@
       "name": "Elsolitario",
       "char": 10,
       "skin": true,
-      "area": 4,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
       "wep": 8,
-      "bwep": 55,
+      "bwep": 13,
       "win": false,
-      "kills": 192,
+      "kills": 232,
       "ultra": 0,
       "skills": [
         1,
         7,
-        10,
-        6
+        6,
+        10
       ],
       "crown": 13,
       "version": 2616,
@@ -1347,6 +1347,48 @@
       "crown": 13,
       "version": 2616,
       "uid": "3XDsO11gxN5Azlx",
+      "runId": 1598218433
+    },
+    "Y2a05fMfxT7z3HS": {
+      "name": "Herald",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 17,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        9,
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "Y2a05fMfxT7z3HS",
+      "runId": 1598218433
+    },
+    "EjZ5H6CVcoKKa38": {
+      "name": "mpk",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 0,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        1,
+        14
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "EjZ5H6CVcoKKa38",
       "runId": 1598218433
     }
   }
