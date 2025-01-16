@@ -845,20 +845,18 @@
       "name": "Elsolitario",
       "char": 10,
       "skin": true,
-      "area": 5,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
       "wep": 8,
-      "bwep": 114,
+      "bwep": 0,
       "win": false,
-      "kills": 180,
+      "kills": 181,
       "ultra": 0,
       "skills": [
         1,
         7,
-        4,
-        10,
-        3
+        4
       ],
       "crown": 13,
       "version": 2616,
@@ -1296,6 +1294,30 @@
       "crown": 13,
       "version": 2616,
       "uid": "CvbNTL1hh7pdGOE",
+      "runId": 1598218433
+    },
+    "OG6oUWfDQdLREP4": {
+      "name": "abusamadresjone",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 76,
+      "win": false,
+      "kills": 263,
+      "ultra": 0,
+      "skills": [
+        28,
+        8,
+        1,
+        2,
+        12
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
       "runId": 1598218433
     }
   }
