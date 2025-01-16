@@ -585,16 +585,16 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 8,
-      "bwep": 71,
+      "wep": 14,
+      "bwep": 8,
       "win": false,
-      "kills": 225,
+      "kills": 234,
       "ultra": 0,
       "skills": [
         8,
         1,
-        7,
-        12
+        12,
+        7
       ],
       "crown": 13,
       "version": 2616,
@@ -1117,6 +1117,46 @@
       "crown": 13,
       "version": 2616,
       "uid": "45V2d8ua5aaktC5",
+      "runId": 1598218433
+    },
+    "Th6G1Cu0yzI0Re0": {
+      "name": "milane",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 8,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "Th6G1Cu0yzI0Re0",
+      "runId": 1598218433
+    },
+    "7F608VW4d28Pd06": {
+      "name": "Patty",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 66,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "7F608VW4d28Pd06",
       "runId": 1598218433
     }
   }
