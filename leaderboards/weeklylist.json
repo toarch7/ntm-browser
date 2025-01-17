@@ -1788,15 +1788,16 @@
       "name": "jheangatao",
       "char": 10,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 14,
-      "bwep": 8,
+      "wep": 40,
+      "bwep": 27,
       "win": false,
-      "kills": 92,
+      "kills": 147,
       "ultra": 0,
       "skills": [
+        13,
         7,
         1
       ],
@@ -1876,6 +1877,27 @@
       "crown": 13,
       "version": 2616,
       "uid": "T7mOEfK5K6LN8ys",
+      "runId": 1598218433
+    },
+    "sX8RyuDc8EG6t46": {
+      "name": "Jeiber21",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 2,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        1,
+        14
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "sX8RyuDc8EG6t46",
       "runId": 1598218433
     }
   }
