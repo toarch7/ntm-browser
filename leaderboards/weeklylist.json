@@ -727,18 +727,19 @@
       "name": "YokaPendejo",
       "char": 10,
       "skin": true,
-      "area": 5,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
       "wep": 88,
-      "bwep": 37,
+      "bwep": 25,
       "win": false,
-      "kills": 202,
+      "kills": 279,
       "ultra": 0,
       "skills": [
         28,
         13,
-        16
+        19,
+        1
       ],
       "crown": 13,
       "version": 2616,
@@ -1573,6 +1574,55 @@
       "crown": 13,
       "version": 2616,
       "uid": "8SfzfXW7oP6xJqn",
+      "runId": 1598218433
+    },
+    "M1B9I9dL7Yr3go9": {
+      "name": "Seeker16",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 52,
+      "win": false,
+      "kills": 280,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        1,
+        16
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "M1B9I9dL7Yr3go9",
+      "runId": 1598218433
+    },
+    "ECs8Gulq55e4iBr": {
+      "name": "men",
+      "char": 10,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 60,
+      "win": false,
+      "kills": 378,
+      "ultra": 2,
+      "skills": [
+        4,
+        1,
+        23,
+        3,
+        9,
+        17,
+        10
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "ECs8Gulq55e4iBr",
       "runId": 1598218433
     }
   }
