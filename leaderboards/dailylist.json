@@ -470,6 +470,78 @@
       "version": 2616,
       "uid": "Kg9y6XE1GH67J4D",
       "runId": 892661325
+    },
+    "f8W067UI9nqz7Et": {
+      "name": "Random",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 3,
+      "win": false,
+      "kills": 212,
+      "ultra": 0,
+      "skills": [
+        8,
+        23,
+        13,
+        27,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f8W067UI9nqz7Et",
+      "runId": 892661325
+    },
+    "W36AYDnfg5H5mwJ": {
+      "name": "badger",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 57,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        12,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W36AYDnfg5H5mwJ",
+      "runId": 892661325
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "VoideonLord",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 92,
+      "bwep": 111,
+      "win": false,
+      "kills": 1069,
+      "ultra": 1,
+      "skills": [
+        1,
+        23,
+        7,
+        3,
+        17,
+        27,
+        13,
+        22
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 892661325
     }
   }
 }

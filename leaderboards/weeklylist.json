@@ -1649,6 +1649,72 @@
       "version": 2616,
       "uid": "pH6jSZRtBbGFjs0",
       "runId": 1598218433
+    },
+    "Yz0jrjVK1Ff99xm": {
+      "name": "blastlight",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 8,
+      "win": false,
+      "kills": 292,
+      "ultra": 0,
+      "skills": [
+        29,
+        4,
+        28,
+        10,
+        1,
+        19
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "Yz0jrjVK1Ff99xm",
+      "runId": 1598218433
+    },
+    "vjA4QRopr1c3kKJ": {
+      "name": "KFisher",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 66,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "vjA4QRopr1c3kKJ",
+      "runId": 1598218433
+    },
+    "IL19qjiCwlHtQ37": {
+      "name": "FILIACH",
+      "char": 10,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 27,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        4,
+        6
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "IL19qjiCwlHtQ37",
+      "runId": 1598218433
     }
   }
 }
