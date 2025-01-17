@@ -115,6 +115,67 @@
       "version": 2616,
       "uid": "0R7VgqKSB8MAnd9",
       "runId": 892661325
+    },
+    "BBQ6o8B029Q01rW": {
+      "name": "Bakurama1234",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        16,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BBQ6o8B029Q01rW",
+      "runId": 892661325
+    },
+    "g6g70a775pxEcDU": {
+      "name": "Diego",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 3,
+      "win": false,
+      "kills": 24,
+      "crown": 1,
+      "version": 2616,
+      "uid": "g6g70a775pxEcDU",
+      "runId": 892661325
+    },
+    "LL7wmay4z14fx2T": {
+      "name": "Жигуль",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 12,
+      "win": false,
+      "kills": 175,
+      "ultra": 0,
+      "skills": [
+        1,
+        22,
+        13,
+        4,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "LL7wmay4z14fx2T",
+      "runId": 892661325
     }
   }
 }
