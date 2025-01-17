@@ -604,6 +604,48 @@
       "version": 2616,
       "uid": "y668jghF890H477",
       "runId": 892661325
+    },
+    "o5hN6f312C2t9QN": {
+      "name": "Grim_bot",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 10,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "o5hN6f312C2t9QN",
+      "runId": 892661325
+    },
+    "M7BCl4nl338d6pp": {
+      "name": "Lpknight",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 3,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "M7BCl4nl338d6pp",
+      "runId": 892661325
     }
   }
 }
