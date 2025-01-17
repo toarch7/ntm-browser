@@ -307,6 +307,55 @@
       "version": 2616,
       "uid": "pH6jSZRtBbGFjs0",
       "runId": 892661325
+    },
+    "0x7hFdP71a11un2": {
+      "name": "iso_042aze",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0x7hFdP71a11un2",
+      "runId": 892661325
+    },
+    "aBrYq2bcSKE8mTl": {
+      "name": "Nigaslav",
+      "char": 6,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 92,
+      "bwep": 111,
+      "win": false,
+      "kills": 4006,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        13,
+        1,
+        27,
+        17,
+        23,
+        14
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "aBrYq2bcSKE8mTl",
+      "runId": 892661325
     }
   }
 }
