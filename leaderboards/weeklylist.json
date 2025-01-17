@@ -943,23 +943,23 @@
       "name": "huevo_minion_YT",
       "char": 10,
       "skin": true,
-      "area": 7,
+      "area": 1,
       "subarea": 2,
-      "loops": 0,
-      "wep": 29,
-      "bwep": 55,
+      "loops": 1,
+      "wep": 14,
+      "bwep": 35,
       "win": false,
-      "kills": 378,
+      "kills": 541,
       "ultra": 2,
       "skills": [
-        4,
         9,
+        4,
         23,
         1,
+        27,
         10,
         14,
-        17,
-        27
+        17
       ],
       "crown": 13,
       "version": 2616,
@@ -1803,6 +1803,31 @@
       "crown": 13,
       "version": 2616,
       "uid": "y668jghF890H477",
+      "runId": 1598218433
+    },
+    "M7BCl4nl338d6pp": {
+      "name": "Lpknight",
+      "char": 10,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 65,
+      "win": false,
+      "kills": 370,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        27,
+        16,
+        9,
+        3
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "M7BCl4nl338d6pp",
       "runId": 1598218433
     }
   }
