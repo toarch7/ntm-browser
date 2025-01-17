@@ -1829,6 +1829,54 @@
       "version": 2616,
       "uid": "M7BCl4nl338d6pp",
       "runId": 1598218433
+    },
+    "46eN010tegPjO54": {
+      "name": "Muck-et",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 8,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        8,
+        23
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "46eN010tegPjO54",
+      "runId": 1598218433
+    },
+    "T7mOEfK5K6LN8ys": {
+      "name": "Seeker",
+      "char": 10,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 17,
+      "win": false,
+      "kills": 379,
+      "ultra": 0,
+      "skills": [
+        9,
+        7,
+        27,
+        1,
+        23,
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "T7mOEfK5K6LN8ys",
+      "runId": 1598218433
     }
   }
 }
