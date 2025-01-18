@@ -290,6 +290,50 @@
       "version": 2616,
       "uid": "0R7VgqKSB8MAnd9",
       "runId": 40487285
+    },
+    "1Et4fKfc45P26Q5": {
+      "name": "Яр52",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 4,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1Et4fKfc45P26Q5",
+      "runId": 40487285
+    },
+    "g2Q1du6j6F1tSqS": {
+      "name": "Andusias",
+      "char": 2,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 6,
+      "win": false,
+      "kills": 289,
+      "ultra": 0,
+      "skills": [
+        14,
+        4,
+        9,
+        27,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g2Q1du6j6F1tSqS",
+      "runId": 40487285
     }
   }
 }
