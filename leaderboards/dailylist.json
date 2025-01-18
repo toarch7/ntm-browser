@@ -740,6 +740,47 @@
       "version": 2616,
       "uid": "FLbI9sBN7AhoeGB",
       "runId": 40487285
+    },
+    "bxiPGOq7y19t2Bp": {
+      "name": "Pelusin45",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 4,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bxiPGOq7y19t2Bp",
+      "runId": 40487285
+    },
+    "9P8BCCDQYLNv806": {
+      "name": "DelitY",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 17,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        8,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9P8BCCDQYLNv806",
+      "runId": 40487285
     }
   }
 }
