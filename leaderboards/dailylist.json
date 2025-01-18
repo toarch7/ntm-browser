@@ -695,6 +695,51 @@
       "version": 2616,
       "uid": "f8W067UI9nqz7Et",
       "runId": 40487285
+    },
+    "8SfzfXW7oP6xJqn": {
+      "name": "lexa.0",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 78,
+      "bwep": 17,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "8SfzfXW7oP6xJqn",
+      "runId": 40487285
+    },
+    "FLbI9sBN7AhoeGB": {
+      "name": "Tom",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        7,
+        10,
+        6,
+        1
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "FLbI9sBN7AhoeGB",
+      "runId": 40487285
     }
   }
 }
