@@ -247,6 +247,49 @@
       "version": 2616,
       "uid": "VMCB84Sc650572Q",
       "runId": 40487285
+    },
+    "K6WY0fss05Av6ru": {
+      "name": "Nox",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        1,
+        13,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "K6WY0fss05Av6ru",
+      "runId": 40487285
+    },
+    "0R7VgqKSB8MAnd9": {
+      "name": "Seeker271700446",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 17,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        1,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0R7VgqKSB8MAnd9",
+      "runId": 40487285
     }
   }
 }
