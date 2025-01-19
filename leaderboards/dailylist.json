@@ -1,4 +1,51 @@
 {
   "day": 19,
-  "entries": {}
+  "entries": {
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 25,
+      "bwep": 2,
+      "win": false,
+      "kills": 333,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        4,
+        10,
+        9,
+        27,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 494680339
+    },
+    "0l6gj4Fx2U1E258": {
+      "name": "Ian",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 39,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0l6gj4Fx2U1E258",
+      "runId": 494680339
+    }
+  }
 }
