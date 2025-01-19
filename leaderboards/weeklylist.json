@@ -2142,19 +2142,44 @@
       "area": 3,
       "subarea": 3,
       "loops": 0,
-      "wep": 72,
-      "bwep": 8,
+      "wep": 124,
+      "bwep": 62,
       "win": false,
-      "kills": 139,
+      "kills": 147,
       "ultra": 0,
       "skills": [
-        7,
         8,
-        1
+        7,
+        1,
+        4
       ],
       "crown": 13,
       "version": 2616,
       "uid": "D0o7kk1DE7REMe6",
+      "runId": 1598218433
+    },
+    "xMhIzG51UGJ72Un": {
+      "name": "Уёба",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 66,
+      "win": false,
+      "kills": 201,
+      "ultra": 0,
+      "skills": [
+        27,
+        8,
+        23,
+        1,
+        9
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "xMhIzG51UGJ72Un",
       "runId": 1598218433
     }
   }
