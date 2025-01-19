@@ -137,6 +137,44 @@
       "version": 2616,
       "uid": "2728KI1Th4A027P",
       "runId": 494680339
+    },
+    "u2vXbYQ72oCQEr1": {
+      "name": "Seeke",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 27,
+      "crown": 1,
+      "version": 2616,
+      "uid": "u2vXbYQ72oCQEr1",
+      "runId": 494680339
+    },
+    "7c75P5t06c7580y": {
+      "name": "Nukuler",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 13,
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        8,
+        29,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7c75P5t06c7580y",
+      "runId": 494680339
     }
   }
 }
