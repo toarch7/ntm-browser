@@ -1411,16 +1411,18 @@
       "area": 1,
       "subarea": 3,
       "loops": 1,
-      "wep": 9,
-      "bwep": 11,
+      "wep": 77,
+      "bwep": 49,
       "win": false,
-      "kills": 427,
+      "kills": 456,
       "ultra": 1,
       "skills": [
         4,
-        10,
         19,
-        16
+        10,
+        12,
+        3,
+        23
       ],
       "crown": 13,
       "version": 2616,
