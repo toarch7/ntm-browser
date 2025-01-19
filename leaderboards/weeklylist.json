@@ -2134,6 +2134,27 @@
       "version": 2616,
       "uid": "654mOtj7IRrSLdn",
       "runId": 1598218433
+    },
+    "D0o7kk1DE7REMe6": {
+      "name": "scarf",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "D0o7kk1DE7REMe6",
+      "runId": 1598218433
     }
   }
 }
