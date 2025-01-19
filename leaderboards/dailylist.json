@@ -307,6 +307,27 @@
       "version": 2616,
       "uid": "D0o7kk1DE7REMe6",
       "runId": 494680339
+    },
+    "cE47A80Cg40vI0K": {
+      "name": "magma",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 19,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        8,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cE47A80Cg40vI0K",
+      "runId": 494680339
     }
   }
 }
