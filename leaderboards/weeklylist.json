@@ -2109,6 +2109,27 @@
       "version": 2616,
       "uid": "FLbI9sBN7AhoeGB",
       "runId": 1598218433
+    },
+    "654mOtj7IRrSLdn": {
+      "name": "Afk",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 8,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        13,
+        29
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "654mOtj7IRrSLdn",
+      "runId": 1598218433
     }
   }
 }
