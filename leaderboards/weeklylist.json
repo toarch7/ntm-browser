@@ -871,18 +871,21 @@
       "name": "Seeker90",
       "char": 10,
       "skin": true,
-      "area": 3,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 66,
-      "bwep": 8,
+      "wep": 26,
+      "bwep": 20,
       "win": false,
-      "kills": 177,
+      "kills": 349,
       "ultra": 0,
       "skills": [
+        4,
         8,
+        14,
         1,
-        14
+        17,
+        10
       ],
       "crown": 13,
       "version": 2616,
@@ -2180,6 +2183,29 @@
       "crown": 13,
       "version": 2616,
       "uid": "xMhIzG51UGJ72Un",
+      "runId": 1598218433
+    },
+    "r57z2Bj3hjv9tAI": {
+      "name": "integra",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 8,
+      "win": false,
+      "kills": 253,
+      "ultra": 0,
+      "skills": [
+        13,
+        1,
+        4,
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "r57z2Bj3hjv9tAI",
       "runId": 1598218433
     }
   }
