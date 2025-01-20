@@ -129,6 +129,53 @@
       "version": 2616,
       "uid": "FBT9ViR6SFCj8yZ",
       "runId": 878473359
+    },
+    "vtU32lqgVdSA2x9": {
+      "name": "VicBoss",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "vtU32lqgVdSA2x9",
+      "runId": 878473359
+    },
+    "24yl93223ziSXyj": {
+      "name": "Am_356_323",
+      "char": 9,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 77,
+      "bwep": 118,
+      "win": false,
+      "kills": 1295,
+      "ultra": 1,
+      "skills": [
+        4,
+        7,
+        9,
+        1,
+        27,
+        8,
+        25,
+        14
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "24yl93223ziSXyj",
+      "runId": 878473359
     }
   }
 }
