@@ -1900,11 +1900,11 @@
       "wep": 3,
       "bwep": 2,
       "win": false,
-      "kills": 61,
+      "kills": 65,
       "ultra": 0,
       "skills": [
         1,
-        14
+        13
       ],
       "crown": 13,
       "version": 2616,
@@ -2275,6 +2275,26 @@
       "crown": 13,
       "version": 2616,
       "uid": "08O1SlA9x53yD2Q",
+      "runId": 1598218433
+    },
+    "6s98e9ttr8042z2": {
+      "name": "dani",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 66,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "6s98e9ttr8042z2",
       "runId": 1598218433
     }
   }
