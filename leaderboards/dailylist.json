@@ -147,6 +147,46 @@
       "version": 2616,
       "uid": "FSo38VP7v8v7m6J",
       "runId": 205803858
+    },
+    "Q2yF3532doWd1jC": {
+      "name": "NSJ_012",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Q2yF3532doWd1jC",
+      "runId": 205803858
+    },
+    "Z96m9O8w4tG8qs0": {
+      "name": "EnemySovonoK",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 2,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Z96m9O8w4tG8qs0",
+      "runId": 205803858
     }
   }
 }
