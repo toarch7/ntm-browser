@@ -2546,6 +2546,32 @@
       "version": 2616,
       "uid": "320gIru6eM8BL8M",
       "runId": 1598218433
+    },
+    "f8W067UI9nqz7Et": {
+      "name": "Random",
+      "char": 10,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 20,
+      "bwep": 10,
+      "win": false,
+      "kills": 360,
+      "ultra": 1,
+      "skills": [
+        4,
+        9,
+        7,
+        1,
+        27,
+        23,
+        29
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "f8W067UI9nqz7Et",
+      "runId": 1598218433
     }
   }
 }
