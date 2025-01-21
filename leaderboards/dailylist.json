@@ -187,6 +187,50 @@
       "version": 2616,
       "uid": "Z96m9O8w4tG8qs0",
       "runId": 205803858
+    },
+    "2728KI1Th4A027P": {
+      "name": "JASPIELL",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 26,
+      "win": false,
+      "kills": 369,
+      "ultra": 0,
+      "skills": [
+        10,
+        1,
+        7,
+        4,
+        14
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "2728KI1Th4A027P",
+      "runId": 205803858
+    },
+    "7c75P5t06c7580y": {
+      "name": "Nukuler",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7c75P5t06c7580y",
+      "runId": 205803858
     }
   }
 }
