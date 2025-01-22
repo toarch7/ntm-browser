@@ -674,18 +674,21 @@
       "name": "Seeke",
       "char": 2,
       "skin": true,
-      "area": 2,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 6,
-      "bwep": 77,
+      "wep": 77,
+      "bwep": 3,
       "win": false,
-      "kills": 78,
+      "kills": 311,
       "ultra": 0,
       "skills": [
         10,
         3,
-        14
+        1,
+        14,
+        8,
+        7
       ],
       "crown": 8,
       "version": 2616,
@@ -743,6 +746,54 @@
       "crown": 8,
       "version": 2616,
       "uid": "Gid6L3lPfjZCt81",
+      "runId": 1329084681
+    },
+    "bxiPGOq7y19t2Bp": {
+      "name": "Pelusin45",
+      "char": 2,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 30,
+      "win": false,
+      "kills": 280,
+      "ultra": 0,
+      "skills": [
+        13,
+        1,
+        28,
+        9,
+        10,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "bxiPGOq7y19t2Bp",
+      "runId": 1329084681
+    },
+    "kj7qj7OjvMAdlM0": {
+      "name": "izark",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 77,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        19,
+        6,
+        10,
+        4
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "kj7qj7OjvMAdlM0",
       "runId": 1329084681
     }
   }
