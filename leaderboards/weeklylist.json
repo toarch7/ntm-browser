@@ -1131,6 +1131,58 @@
       "version": 2616,
       "uid": "Z96m9O8w4tG8qs0",
       "runId": 1329084681
+    },
+    "14aeU8O05ssfF4t": {
+      "name": "ZeKnight",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 16,
+      "win": false,
+      "kills": 334,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        4,
+        2,
+        7,
+        1,
+        27
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "14aeU8O05ssfF4t",
+      "runId": 1329084681
+    },
+    "LL7wmay4z14fx2T": {
+      "name": "Жигуль",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 0,
+      "win": false,
+      "kills": 351,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        22,
+        1,
+        19,
+        27,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "LL7wmay4z14fx2T",
+      "runId": 1329084681
     }
   }
 }

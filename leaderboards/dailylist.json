@@ -85,6 +85,62 @@
       "version": 2616,
       "uid": "f8W067UI9nqz7Et",
       "runId": 1709971875
+    },
+    "R0WbS6bB94ZX5z3": {
+      "name": "Dagi",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "R0WbS6bB94ZX5z3",
+      "runId": 1709971875
+    },
+    "FSo38VP7v8v7m6J": {
+      "name": "Seeker16911",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "FSo38VP7v8v7m6J",
+      "runId": 1709971875
+    },
+    "LL7wmay4z14fx2T": {
+      "name": "Жигуль",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 27,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "LL7wmay4z14fx2T",
+      "runId": 1709971875
     }
   }
 }
