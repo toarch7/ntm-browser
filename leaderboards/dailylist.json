@@ -264,6 +264,49 @@
       "version": 2616,
       "uid": "G3p97JVJnQIPHZq",
       "runId": 1709971875
+    },
+    "77fA1nswC9GRAua": {
+      "name": "Seekerdkik",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 76,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        3,
+        1,
+        4,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "77fA1nswC9GRAua",
+      "runId": 1709971875
+    },
+    "5SFCLAy1ghQ9E7e": {
+      "name": "Sage",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 4,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5SFCLAy1ghQ9E7e",
+      "runId": 1709971875
     }
   }
 }

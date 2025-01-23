@@ -259,16 +259,21 @@
       "name": "INTOXICAT3D",
       "char": 2,
       "skin": true,
-      "area": 2,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 77,
-      "bwep": 0,
+      "wep": 63,
+      "bwep": 33,
       "win": false,
-      "kills": 82,
+      "kills": 320,
       "ultra": 0,
       "skills": [
-        4
+        4,
+        8,
+        3,
+        27,
+        19,
+        21
       ],
       "crown": 8,
       "version": 2616,
@@ -536,14 +541,15 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 77,
-      "bwep": 19,
+      "wep": 18,
+      "bwep": 16,
       "win": false,
-      "kills": 67,
+      "kills": 84,
       "ultra": 0,
       "skills": [
         3,
-        4
+        4,
+        1
       ],
       "crown": 8,
       "version": 2616,
@@ -1381,6 +1387,33 @@
       "crown": 8,
       "version": 2616,
       "uid": "z4xSp40o784yH6V",
+      "runId": 1329084681
+    },
+    "R8f223sTJFx876P": {
+      "name": "Seee",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 65,
+      "win": false,
+      "kills": 386,
+      "ultra": 1,
+      "skills": [
+        1,
+        4,
+        23,
+        7,
+        17,
+        27,
+        10,
+        6
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "R8f223sTJFx876P",
       "runId": 1329084681
     }
   }
