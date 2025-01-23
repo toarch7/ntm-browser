@@ -230,19 +230,21 @@
       "name": "Diego",
       "char": 2,
       "skin": true,
-      "area": 104,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
       "wep": 9,
       "bwep": 77,
       "win": false,
-      "kills": 166,
-      "ultra": 0,
+      "kills": 388,
+      "ultra": 1,
       "skills": [
         1,
         8,
+        27,
         4,
         9,
+        24,
         10
       ],
       "crown": 8,
@@ -1076,6 +1078,32 @@
       "crown": 8,
       "version": 2616,
       "uid": "3XDsO11gxN5Azlx",
+      "runId": 1329084681
+    },
+    "4UDa6zWdOl49XlR": {
+      "name": "JesusDavidXZ",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 90,
+      "bwep": 22,
+      "win": false,
+      "kills": 536,
+      "ultra": 1,
+      "skills": [
+        8,
+        9,
+        7,
+        1,
+        4,
+        27,
+        14
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "4UDa6zWdOl49XlR",
       "runId": 1329084681
     }
   }
