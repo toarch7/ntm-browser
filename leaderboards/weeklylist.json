@@ -1238,17 +1238,21 @@
       "name": "Jill",
       "char": 2,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 7,
-      "bwep": 77,
+      "wep": 3,
+      "bwep": 6,
       "win": false,
-      "kills": 74,
+      "kills": 305,
       "ultra": 0,
       "skills": [
+        13,
+        23,
+        1,
         4,
-        1
+        9,
+        27
       ],
       "crown": 8,
       "version": 2616,
@@ -1280,6 +1284,31 @@
       "crown": 8,
       "version": 2616,
       "uid": "g2Q1du6j6F1tSqS",
+      "runId": 1329084681
+    },
+    "0KxC2CPmG08w2B9": {
+      "name": "Monocromatic",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 11,
+      "win": false,
+      "kills": 200,
+      "ultra": 0,
+      "skills": [
+        19,
+        29,
+        8,
+        2,
+        21,
+        13
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "0KxC2CPmG08w2B9",
       "runId": 1329084681
     }
   }
