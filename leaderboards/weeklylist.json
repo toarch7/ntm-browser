@@ -1428,18 +1428,18 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 58,
-      "bwep": 75,
+      "wep": 77,
+      "bwep": 30,
       "win": false,
-      "kills": 245,
+      "kills": 246,
       "ultra": 0,
       "skills": [
-        28,
         8,
+        28,
+        10,
         4,
         12,
-        10,
-        17
+        7
       ],
       "crown": 8,
       "version": 2616,
@@ -1646,6 +1646,33 @@
       "crown": 8,
       "version": 2616,
       "uid": "m96PH9ISC2JCNsw",
+      "runId": 1329084681
+    },
+    "u653s9UiyPh3mG5": {
+      "name": "Jesus.0711",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 49,
+      "win": false,
+      "kills": 338,
+      "ultra": 0,
+      "skills": [
+        8,
+        7,
+        6,
+        28,
+        12,
+        4,
+        1,
+        9
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "u653s9UiyPh3mG5",
       "runId": 1329084681
     }
   }
