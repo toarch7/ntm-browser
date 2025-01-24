@@ -1893,6 +1893,80 @@
       "version": 2616,
       "uid": "e0MPwTB6akvSsWm",
       "runId": 1329084681
+    },
+    "2SR39lgJwgc8sB7": {
+      "name": "S",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 77,
+      "win": false,
+      "kills": 181,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        10,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "2SR39lgJwgc8sB7",
+      "runId": 1329084681
+    },
+    "BBQ6o8B029Q01rW": {
+      "name": "Bakurama1234",
+      "char": 2,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 84,
+      "bwep": 77,
+      "win": false,
+      "kills": 373,
+      "ultra": 1,
+      "skills": [
+        4,
+        10,
+        14,
+        9,
+        7,
+        8,
+        1,
+        28
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "BBQ6o8B029Q01rW",
+      "runId": 1329084681
+    },
+    "HEwI6PgWh6Exo2b": {
+      "name": "Lux",
+      "char": 2,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 76,
+      "win": false,
+      "kills": 181,
+      "ultra": 0,
+      "skills": [
+        7,
+        6,
+        4,
+        1,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "HEwI6PgWh6Exo2b",
+      "runId": 1329084681
     }
   }
 }
