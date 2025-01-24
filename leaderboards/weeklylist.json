@@ -1772,6 +1772,55 @@
       "version": 2616,
       "uid": "0l6gj4Fx2U1E258",
       "runId": 1329084681
+    },
+    "R0WbS6bB94ZX5z3": {
+      "name": "Dagi",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 35,
+      "win": false,
+      "kills": 324,
+      "ultra": 0,
+      "skills": [
+        3,
+        27,
+        17,
+        1,
+        7,
+        23,
+        22
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "R0WbS6bB94ZX5z3",
+      "runId": 1329084681
+    },
+    "TqP0kzADTfBSCIl": {
+      "name": "dima",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 62,
+      "win": false,
+      "kills": 180,
+      "ultra": 0,
+      "skills": [
+        2,
+        4,
+        3,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "TqP0kzADTfBSCIl",
+      "runId": 1329084681
     }
   }
 }

@@ -324,6 +324,67 @@
       "version": 2616,
       "uid": "HJ7G87oXRypnPMd",
       "runId": 1824998983
+    },
+    "J1310A51338h9Tx": {
+      "name": "FROGETIQ",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 23,
+      "win": false,
+      "kills": 328,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        4,
+        9,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J1310A51338h9Tx",
+      "runId": 1824998983
+    },
+    "Go61RF3lvT1gF2x": {
+      "name": "Zluken",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 27,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Go61RF3lvT1gF2x",
+      "runId": 1824998983
+    },
+    "oZPgFt94E78T49m": {
+      "name": "valent",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "oZPgFt94E78T49m",
+      "runId": 1824998983
     }
   }
 }
