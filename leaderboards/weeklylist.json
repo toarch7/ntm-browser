@@ -1428,17 +1428,17 @@
       "subarea": 3,
       "loops": 0,
       "wep": 77,
-      "bwep": 30,
+      "bwep": 58,
       "win": false,
-      "kills": 246,
+      "kills": 254,
       "ultra": 0,
       "skills": [
-        8,
-        28,
         10,
         4,
-        12,
-        7
+        8,
+        16,
+        7,
+        12
       ],
       "crown": 8,
       "version": 2616,
@@ -1869,6 +1869,27 @@
       "crown": 8,
       "version": 2616,
       "uid": "3Bq3YcM6wv2ap4H",
+      "runId": 1329084681
+    },
+    "e0MPwTB6akvSsWm": {
+      "name": "Winchester",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 77,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        4,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "e0MPwTB6akvSsWm",
       "runId": 1329084681
     }
   }
