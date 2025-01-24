@@ -218,6 +218,66 @@
       "version": 2616,
       "uid": "0l6gj4Fx2U1E258",
       "runId": 1824998983
+    },
+    "W36AYDnfg5H5mwJ": {
+      "name": "badger",
+      "char": 12,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 81,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W36AYDnfg5H5mwJ",
+      "runId": 1824998983
+    },
+    "7c75P5t06c7580y": {
+      "name": "Nukuler",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 17,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        29
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7c75P5t06c7580y",
+      "runId": 1824998983
+    },
+    "LL7wmay4z14fx2T": {
+      "name": "Жигуль",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "LL7wmay4z14fx2T",
+      "runId": 1824998983
     }
   }
 }
