@@ -1,4 +1,92 @@
 {
   "day": 25,
-  "entries": {}
+  "entries": {
+    "m3Ghf170HISs120": {
+      "name": "Thwelnwzaaa",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 202,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7,
+        4,
+        2
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "m3Ghf170HISs120",
+      "runId": 1045883809
+    },
+    "Is5F2iVekK2V7O8": {
+      "name": "El",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 16,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Is5F2iVekK2V7O8",
+      "runId": 1045883809
+    },
+    "W36AYDnfg5H5mwJ": {
+      "name": "badger",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        4,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W36AYDnfg5H5mwJ",
+      "runId": 1045883809
+    },
+    "0V960yqUJ9EK22g": {
+      "name": "Ranchero",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0V960yqUJ9EK22g",
+      "runId": 1045883809
+    }
+  }
 }
