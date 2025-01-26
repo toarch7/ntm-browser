@@ -1534,13 +1534,13 @@
       "name": "DarthurV",
       "char": 2,
       "skin": true,
-      "area": 2,
+      "area": 7,
       "subarea": 1,
       "loops": 1,
-      "wep": 77,
-      "bwep": 89,
+      "wep": 29,
+      "bwep": 22,
       "win": false,
-      "kills": 612,
+      "kills": 1255,
       "ultra": 1,
       "skills": [
         4,
@@ -1548,7 +1548,7 @@
         19,
         3,
         12,
-        14
+        23
       ],
       "crown": 8,
       "version": 2616,
@@ -2381,6 +2381,31 @@
       "crown": 8,
       "version": 2616,
       "uid": "K97awxp38a8uXg2",
+      "runId": 1329084681
+    },
+    "381k70Ct0SbXK82": {
+      "name": "PsykomonD",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 77,
+      "win": false,
+      "kills": 185,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        13,
+        9,
+        12,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "381k70Ct0SbXK82",
       "runId": 1329084681
     }
   }
