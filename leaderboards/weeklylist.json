@@ -2412,19 +2412,21 @@
       "name": "spaguetilord78",
       "char": 2,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
       "wep": 77,
-      "bwep": 66,
+      "bwep": 84,
       "win": false,
-      "kills": 141,
+      "kills": 224,
       "ultra": 0,
       "skills": [
-        4,
         1,
-        2,
-        3
+        4,
+        9,
+        3,
+        8,
+        19
       ],
       "crown": 8,
       "version": 2616,
@@ -2457,6 +2459,53 @@
       "crown": 8,
       "version": 2616,
       "uid": "X0x8Q4vP1g357ZD",
+      "runId": 1329084681
+    },
+    "j5Llrw0zZsk3j21": {
+      "name": "Yiovet5",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 31,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        6,
+        16
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "j5Llrw0zZsk3j21",
+      "runId": 1329084681
+    },
+    "L7UNSGORlRw2uC9": {
+      "name": "nicolaaas",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 31,
+      "win": false,
+      "kills": 238,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7,
+        4,
+        6
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "L7UNSGORlRw2uC9",
       "runId": 1329084681
     }
   }
