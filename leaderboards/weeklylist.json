@@ -2465,19 +2465,22 @@
       "name": "Yiovet5",
       "char": 2,
       "skin": true,
-      "area": 3,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
       "wep": 77,
-      "bwep": 31,
+      "bwep": 17,
       "win": false,
-      "kills": 105,
+      "kills": 320,
       "ultra": 0,
       "skills": [
         1,
         7,
-        6,
-        16
+        16,
+        4,
+        12,
+        3,
+        2
       ],
       "crown": 8,
       "version": 2616,
@@ -2506,6 +2509,29 @@
       "crown": 8,
       "version": 2616,
       "uid": "L7UNSGORlRw2uC9",
+      "runId": 1329084681
+    },
+    "lW6DpykxI67j109": {
+      "name": "Buck",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 71,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        12,
+        13
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "lW6DpykxI67j109",
       "runId": 1329084681
     }
   }
