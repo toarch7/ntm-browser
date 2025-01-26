@@ -1,4 +1,41 @@
 {
   "day": 26,
-  "entries": {}
+  "entries": {
+    "0l6gj4Fx2U1E258": {
+      "name": "Ian",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 5,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0l6gj4Fx2U1E258",
+      "runId": 597442565
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 597442565
+    }
+  }
 }
