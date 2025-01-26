@@ -214,6 +214,48 @@
       "version": 2616,
       "uid": "5SFCLAy1ghQ9E7e",
       "runId": 597442565
+    },
+    "J1310A51338h9Tx": {
+      "name": "FROGETIQ",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 8,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J1310A51338h9Tx",
+      "runId": 597442565
+    },
+    "0Vg845wKltzii2A": {
+      "name": "Ala",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 7,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0Vg845wKltzii2A",
+      "runId": 597442565
     }
   }
 }
