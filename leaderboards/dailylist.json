@@ -172,6 +172,46 @@
       "version": 2616,
       "uid": "Ci88Mn6I3C1l8O6",
       "runId": 1234877074
+    },
+    "0Vg845wKltzii2A": {
+      "name": "Ala",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 5,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0Vg845wKltzii2A",
+      "runId": 1234877074
+    },
+    "mzZl1yf8k410ct2": {
+      "name": "Seeker90",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 17,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mzZl1yf8k410ct2",
+      "runId": 1234877074
     }
   }
 }
