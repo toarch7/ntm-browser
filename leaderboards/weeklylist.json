@@ -2744,22 +2744,50 @@
       "name": "Mamat",
       "char": 2,
       "skin": true,
-      "area": 5,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 77,
-      "bwep": 66,
+      "wep": 75,
+      "bwep": 30,
       "win": false,
-      "kills": 83,
+      "kills": 144,
       "ultra": 0,
       "skills": [
-        29,
+        2,
         6,
-        2
+        19,
+        14,
+        1
       ],
       "crown": 8,
       "version": 2616,
       "uid": "Z377Kkhczn4nZHw",
+      "runId": 1329084681
+    },
+    "730vnjh2Fy89dtn": {
+      "name": "Aboba",
+      "char": 2,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 65,
+      "win": false,
+      "kills": 292,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7,
+        4,
+        13,
+        12,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "730vnjh2Fy89dtn",
       "runId": 1329084681
     }
   }
