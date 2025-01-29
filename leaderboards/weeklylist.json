@@ -163,6 +163,53 @@
       "version": 2616,
       "uid": "Qq1EV7Y1HZ2207W",
       "runId": 667252569
+    },
+    "Z377Kkhczn4nZHw": {
+      "name": "Mamat",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 20,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "Z377Kkhczn4nZHw",
+      "runId": 667252569
+    },
+    "7c75P5t06c7580y": {
+      "name": "Nukuler",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 13,
+      "win": false,
+      "kills": 154,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8,
+        14
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "7c75P5t06c7580y",
+      "runId": 667252569
     }
   }
 }
