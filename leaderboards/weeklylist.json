@@ -618,6 +618,55 @@
       "version": 2616,
       "uid": "WaV3Xrx6pu1mrf4",
       "runId": 667252569
+    },
+    "kj7qj7OjvMAdlM0": {
+      "name": "izark",
+      "char": 6,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 21,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "kj7qj7OjvMAdlM0",
+      "runId": 667252569
+    },
+    "xMhIzG51UGJ72Un": {
+      "name": "Уёба",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 62,
+      "win": false,
+      "kills": 250,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8,
+        14,
+        7,
+        17
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "xMhIzG51UGJ72Un",
+      "runId": 667252569
     }
   }
 }
