@@ -294,6 +294,44 @@
       "version": 2616,
       "uid": "Yz0jrjVK1Ff99xm",
       "runId": 919295388
+    },
+    "mmar8Kos2aaAeT2": {
+      "name": "Seeker90",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "mmar8Kos2aaAeT2",
+      "runId": 919295388
+    },
+    "9P8BCCDQYLNv806": {
+      "name": "DelitY",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        1,
+        25,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9P8BCCDQYLNv806",
+      "runId": 919295388
     }
   }
 }
