@@ -124,13 +124,13 @@
       "name": "Aboba",
       "char": 6,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
       "wep": 13,
-      "bwep": 50,
+      "bwep": 2,
       "win": false,
-      "kills": 93,
+      "kills": 112,
       "ultra": 0,
       "skills": [
         10,
@@ -499,6 +499,75 @@
       "crown": 8,
       "version": 2616,
       "uid": "9EkyKX48VdSH7VW",
+      "runId": 667252569
+    },
+    "cE47A80Cg40vI0K": {
+      "name": "magma",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 20,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "cE47A80Cg40vI0K",
+      "runId": 667252569
+    },
+    "XnuijQ7DbjwUcHJ": {
+      "name": "Russell",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 20,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "XnuijQ7DbjwUcHJ",
+      "runId": 667252569
+    },
+    "24yl93223ziSXyj": {
+      "name": "Am_356_323",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 52,
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "24yl93223ziSXyj",
       "runId": 667252569
     }
   }
