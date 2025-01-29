@@ -125,12 +125,12 @@
       "char": 6,
       "skin": true,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
       "wep": 13,
-      "bwep": 2,
+      "bwep": 50,
       "win": false,
-      "kills": 112,
+      "kills": 141,
       "ultra": 0,
       "skills": [
         10,
@@ -571,6 +571,29 @@
       "crown": 8,
       "version": 2616,
       "uid": "24yl93223ziSXyj",
+      "runId": 667252569
+    },
+    "dfDu8MRTumj4SRU": {
+      "name": "thefina",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 20,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "dfDu8MRTumj4SRU",
       "runId": 667252569
     }
   }
