@@ -96,19 +96,22 @@
       "name": "Nox",
       "char": 6,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 13,
-      "bwep": 5,
+      "wep": 5,
+      "bwep": 112,
       "win": false,
-      "kills": 142,
+      "kills": 243,
       "ultra": 0,
       "skills": [
         10,
         6,
         22,
-        8
+        8,
+        14,
+        7,
+        17
       ],
       "crown": 8,
       "version": 2616,
@@ -136,6 +139,29 @@
       "crown": 8,
       "version": 2616,
       "uid": "730vnjh2Fy89dtn",
+      "runId": 667252569
+    },
+    "Qq1EV7Y1HZ2207W": {
+      "name": "Lol$",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 71,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "Qq1EV7Y1HZ2207W",
       "runId": 667252569
     }
   }
