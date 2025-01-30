@@ -817,19 +817,22 @@
       "name": "hollowknight616",
       "char": 6,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 20,
-      "bwep": 4,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 110,
+      "bwep": 98,
       "win": false,
-      "kills": 151,
-      "ultra": 0,
+      "kills": 355,
+      "ultra": 1,
       "skills": [
         10,
         6,
         22,
-        8
+        8,
+        14,
+        7,
+        17
       ],
       "crown": 8,
       "version": 2616,
@@ -1097,6 +1100,29 @@
       "crown": 8,
       "version": 2616,
       "uid": "4060WGBo0ZwVG4B",
+      "runId": 667252569
+    },
+    "ba1hfW0QLkE6RfS": {
+      "name": "LightSoul",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 20,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "ba1hfW0QLkE6RfS",
       "runId": 667252569
     }
   }
