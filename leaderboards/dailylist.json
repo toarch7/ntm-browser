@@ -231,6 +231,42 @@
       "version": 2616,
       "uid": "Yz0jrjVK1Ff99xm",
       "runId": 219717535
+    },
+    "KAkQB8xRwgI67b0": {
+      "name": "peciim",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "KAkQB8xRwgI67b0",
+      "runId": 219717535
+    },
+    "BtMS9gFZnFC0714": {
+      "name": "PopCat",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 7,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BtMS9gFZnFC0714",
+      "runId": 219717535
     }
   }
 }
