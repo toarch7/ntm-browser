@@ -54,10 +54,10 @@
       "area": 3,
       "subarea": 3,
       "loops": 0,
-      "wep": 15,
-      "bwep": 13,
+      "wep": 30,
+      "bwep": 20,
       "win": false,
-      "kills": 146,
+      "kills": 150,
       "ultra": 0,
       "skills": [
         10,
@@ -1452,6 +1452,52 @@
       "crown": 8,
       "version": 2616,
       "uid": "2SR39lgJwgc8sB7",
+      "runId": 667252569
+    },
+    "s1San3NoIh89d7Q": {
+      "name": "ammigo",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 5,
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "s1San3NoIh89d7Q",
+      "runId": 667252569
+    },
+    "3XDsO11gxN5Azlx": {
+      "name": "Seeker90",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 20,
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "3XDsO11gxN5Azlx",
       "runId": 667252569
     }
   }
