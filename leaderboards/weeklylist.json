@@ -194,20 +194,19 @@
       "name": "Nukuler",
       "char": 6,
       "skin": true,
-      "area": 104,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 38,
-      "bwep": 13,
+      "wep": 21,
+      "bwep": 50,
       "win": false,
-      "kills": 154,
+      "kills": 160,
       "ultra": 0,
       "skills": [
         10,
         6,
         22,
-        8,
-        14
+        8
       ],
       "crown": 8,
       "version": 2616,
@@ -1310,6 +1309,29 @@
       "crown": 8,
       "version": 2616,
       "uid": "IcJNn3hrK7l4285",
+      "runId": 667252569
+    },
+    "uuG618z3fKffVMh": {
+      "name": "0",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "uuG618z3fKffVMh",
       "runId": 667252569
     }
   }
