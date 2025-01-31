@@ -1,4 +1,76 @@
 {
   "day": 31,
-  "entries": {}
+  "entries": {
+    "Yz0jrjVK1Ff99xm": {
+      "name": "blastlight",
+      "char": 11,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 13,
+      "bwep": 22,
+      "win": false,
+      "kills": 499,
+      "ultra": 2,
+      "skills": [
+        1,
+        25,
+        13,
+        3,
+        4,
+        12,
+        2,
+        17,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Yz0jrjVK1Ff99xm",
+      "runId": 658605787
+    },
+    "HDzIZwtei0eq6Gz": {
+      "name": "dust",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "HDzIZwtei0eq6Gz",
+      "runId": 658605787
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 96,
+      "bwep": 89,
+      "win": false,
+      "kills": 515,
+      "ultra": 1,
+      "skills": [
+        8,
+        25,
+        6,
+        1,
+        4,
+        10,
+        28,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 658605787
+    }
+  }
 }
