@@ -1405,6 +1405,54 @@
       "version": 2616,
       "uid": "W36AYDnfg5H5mwJ",
       "runId": 667252569
+    },
+    "DCSxlbIRP6s306X": {
+      "name": "CAT.endiablado",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 124,
+      "win": false,
+      "kills": 214,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8,
+        14,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "DCSxlbIRP6s306X",
+      "runId": 667252569
+    },
+    "2SR39lgJwgc8sB7": {
+      "name": "S",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 4,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "2SR39lgJwgc8sB7",
+      "runId": 667252569
     }
   }
 }
