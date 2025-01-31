@@ -206,6 +206,49 @@
       "version": 2616,
       "uid": "f8W067UI9nqz7Et",
       "runId": 658605787
+    },
+    "W36AYDnfg5H5mwJ": {
+      "name": "Ardillita",
+      "char": 3,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 75,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        4,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W36AYDnfg5H5mwJ",
+      "runId": 658605787
+    },
+    "u2vXbYQ72oCQEr1": {
+      "name": "Seeke",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 69,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "u2vXbYQ72oCQEr1",
+      "runId": 658605787
     }
   }
 }
