@@ -159,6 +159,53 @@
       "version": 2616,
       "uid": "g2Q1du6j6F1tSqS",
       "runId": 658605787
+    },
+    "7PM42yZR9TIFn44": {
+      "name": "duck",
+      "char": 5,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 22,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7PM42yZR9TIFn44",
+      "runId": 658605787
+    },
+    "f8W067UI9nqz7Et": {
+      "name": "Random",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 94,
+      "bwep": 35,
+      "win": false,
+      "kills": 610,
+      "ultra": 1,
+      "skills": [
+        1,
+        25,
+        17,
+        23,
+        14,
+        28,
+        21,
+        29
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "f8W067UI9nqz7Et",
+      "runId": 658605787
     }
   }
 }
