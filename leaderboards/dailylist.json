@@ -249,6 +249,48 @@
       "version": 2616,
       "uid": "u2vXbYQ72oCQEr1",
       "runId": 658605787
+    },
+    "IcJNn3hrK7l4285": {
+      "name": "Geminiaz",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        1,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "IcJNn3hrK7l4285",
+      "runId": 658605787
+    },
+    "G3p97JVJnQIPHZq": {
+      "name": "ltp4",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        1,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "G3p97JVJnQIPHZq",
+      "runId": 658605787
     }
   }
 }
