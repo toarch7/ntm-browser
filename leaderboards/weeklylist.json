@@ -1356,6 +1356,55 @@
       "version": 2616,
       "uid": "D3dq83z8TCMrju2",
       "runId": 667252569
+    },
+    "0l6gj4Fx2U1E258": {
+      "name": "Ian",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 20,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "0l6gj4Fx2U1E258",
+      "runId": 667252569
+    },
+    "W36AYDnfg5H5mwJ": {
+      "name": "Ardillita",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 100,
+      "bwep": 92,
+      "win": false,
+      "kills": 630,
+      "ultra": 1,
+      "skills": [
+        10,
+        6,
+        22,
+        8,
+        14,
+        7,
+        17
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "W36AYDnfg5H5mwJ",
+      "runId": 667252569
     }
   }
 }
