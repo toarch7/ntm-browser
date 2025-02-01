@@ -253,6 +253,48 @@
       "version": 2616,
       "uid": "W36AYDnfg5H5mwJ",
       "runId": 1670461467
+    },
+    "HDzIZwtei0eq6Gz": {
+      "name": "dust",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 7,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HDzIZwtei0eq6Gz",
+      "runId": 1670461467
+    },
+    "K6WY0fss05Av6ru": {
+      "name": "Nox",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 9,
+      "win": false,
+      "kills": 174,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        6,
+        3,
+        14
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "K6WY0fss05Av6ru",
+      "runId": 1670461467
     }
   }
 }
