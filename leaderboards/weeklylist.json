@@ -54,10 +54,10 @@
       "area": 3,
       "subarea": 3,
       "loops": 0,
-      "wep": 30,
+      "wep": 50,
       "bwep": 20,
       "win": false,
-      "kills": 150,
+      "kills": 155,
       "ultra": 0,
       "skills": [
         10,
@@ -1803,6 +1803,29 @@
       "crown": 8,
       "version": 2616,
       "uid": "FmYjvE73jPWS19A",
+      "runId": 667252569
+    },
+    "w443K3MRK7oQlOg": {
+      "name": "Max",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 17,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "w443K3MRK7oQlOg",
       "runId": 667252569
     }
   }
