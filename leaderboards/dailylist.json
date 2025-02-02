@@ -40,6 +40,28 @@
       "version": 2616,
       "uid": "tVU794NAx2lGlJo",
       "runId": 1881567633
+    },
+    "veNM445KoAqLS4N": {
+      "name": "Тобепизда",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 21,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        3,
+        7,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "veNM445KoAqLS4N",
+      "runId": 1881567633
     }
   }
 }
