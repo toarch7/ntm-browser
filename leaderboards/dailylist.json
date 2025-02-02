@@ -308,6 +308,50 @@
       "version": 2616,
       "uid": "G37Fx6kMs7NT00t",
       "runId": 1881567633
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 114,
+      "bwep": 66,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        10,
+        14,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 1881567633
+    },
+    "0l6gj4Fx2U1E258": {
+      "name": "Ian",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 16,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        10,
+        7,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0l6gj4Fx2U1E258",
+      "runId": 1881567633
     }
   }
 }

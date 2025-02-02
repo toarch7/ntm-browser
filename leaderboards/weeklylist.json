@@ -2000,13 +2000,39 @@
       "name": "stinkycrow",
       "char": 6,
       "skin": true,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 20,
-      "bwep": 27,
+      "wep": 117,
+      "bwep": 20,
       "win": false,
-      "kills": 93,
+      "kills": 259,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8,
+        14,
+        7,
+        17
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "dD86763GUG0Y00r",
+      "runId": 667252569
+    },
+    "oS1G0Mkfyz96Iah": {
+      "name": "CrimsonFuckr",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 20,
+      "win": false,
+      "kills": 109,
       "ultra": 0,
       "skills": [
         10,
@@ -2016,7 +2042,7 @@
       ],
       "crown": 8,
       "version": 2616,
-      "uid": "dD86763GUG0Y00r",
+      "uid": "oS1G0Mkfyz96Iah",
       "runId": 667252569
     }
   }
