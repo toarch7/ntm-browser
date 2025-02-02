@@ -269,6 +269,45 @@
       "version": 2616,
       "uid": "M37r0hlvHhYgQ5m",
       "runId": 1881567633
+    },
+    "h1U1dg3Bp50iw45": {
+      "name": "Max",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "h1U1dg3Bp50iw45",
+      "runId": 1881567633
+    },
+    "G37Fx6kMs7NT00t": {
+      "name": "Stal",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 10,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        13,
+        25,
+        16,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "G37Fx6kMs7NT00t",
+      "runId": 1881567633
     }
   }
 }
