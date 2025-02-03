@@ -1,4 +1,133 @@
 {
   "day": 3,
-  "entries": {}
+  "entries": {
+    "5rKlOrO6a0eemt5": {
+      "name": "Seeke",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 5,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5rKlOrO6a0eemt5",
+      "runId": 1981099719
+    },
+    "eNFpzu4qSUc4JAX": {
+      "name": "Nisheo",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "eNFpzu4qSUc4JAX",
+      "runId": 1981099719
+    },
+    "FSo38VP7v8v7m6J": {
+      "name": "Seeker16911",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 17,
+      "win": false,
+      "kills": 173,
+      "ultra": 0,
+      "skills": [
+        1,
+        24,
+        6,
+        3
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "FSo38VP7v8v7m6J",
+      "runId": 1981099719
+    },
+    "XE3LPd4oBa5p10H": {
+      "name": "pebe",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 7,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XE3LPd4oBa5p10H",
+      "runId": 1981099719
+    },
+    "C2dR3t6EC5o9LN5": {
+      "name": "Shion",
+      "char": 15,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 255,
+      "win": false,
+      "kills": 161,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        8,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "C2dR3t6EC5o9LN5",
+      "runId": 1981099719
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 17,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 1981099719
+    }
+  }
 }
