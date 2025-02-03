@@ -681,6 +681,67 @@
       "version": 2616,
       "uid": "GiPqcF8uMF1R092",
       "runId": 1981099719
+    },
+    "f8W067UI9nqz7Et": {
+      "name": "Random",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 6,
+      "win": false,
+      "kills": 251,
+      "ultra": 0,
+      "skills": [
+        1,
+        24,
+        27,
+        10,
+        9,
+        22
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "f8W067UI9nqz7Et",
+      "runId": 1981099719
+    },
+    "m7I4xwC1kqvXanx": {
+      "name": "Cafetin",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 6,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "m7I4xwC1kqvXanx",
+      "runId": 1981099719
+    },
+    "8PUwLwLq9jF2Ni0": {
+      "name": "Djabo",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 3,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8PUwLwLq9jF2Ni0",
+      "runId": 1981099719
     }
   }
 }
