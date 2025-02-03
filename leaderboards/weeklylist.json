@@ -362,10 +362,10 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 20,
-      "bwep": 6,
+      "wep": 117,
+      "bwep": 74,
       "win": false,
-      "kills": 245,
+      "kills": 264,
       "ultra": 0,
       "skills": [
         10,
@@ -373,7 +373,8 @@
         22,
         8,
         14,
-        7
+        7,
+        17
       ],
       "crown": 8,
       "version": 2616,
@@ -2097,6 +2098,29 @@
       "crown": 8,
       "version": 2616,
       "uid": "A76Wa1TXa8R36Qv",
+      "runId": 667252569
+    },
+    "GiPqcF8uMF1R092": {
+      "name": "TobIi",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 16,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "GiPqcF8uMF1R092",
       "runId": 667252569
     }
   }
