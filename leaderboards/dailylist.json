@@ -635,6 +635,30 @@
       "version": 2616,
       "uid": "0x7hFdP71a11un2",
       "runId": 1981099719
+    },
+    "24oC1l0J5YFnEP6": {
+      "name": "Centinela",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 21,
+      "win": false,
+      "kills": 178,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        8,
+        7,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "24oC1l0J5YFnEP6",
+      "runId": 1981099719
     }
   }
 }
