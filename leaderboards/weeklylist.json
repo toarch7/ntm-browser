@@ -1408,16 +1408,16 @@
       "runId": 667252569
     },
     "DCSxlbIRP6s306X": {
-      "name": "CAT.endiablado",
+      "name": "CAT.endiblado",
       "char": 6,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 4,
-      "bwep": 124,
+      "wep": 116,
+      "bwep": 14,
       "win": false,
-      "kills": 214,
+      "kills": 313,
       "ultra": 0,
       "skills": [
         10,
@@ -1425,7 +1425,8 @@
         22,
         8,
         14,
-        7
+        7,
+        17
       ],
       "crown": 8,
       "version": 2616,
