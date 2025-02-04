@@ -440,6 +440,47 @@
       "version": 2616,
       "uid": "m7I4xwC1kqvXanx",
       "runId": 1719144275
+    },
+    "zh7Sd68F1QrAG20": {
+      "name": "chupamelonga",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 4,
+      "win": false,
+      "kills": 175,
+      "ultra": 0,
+      "skills": [
+        10,
+        7,
+        1,
+        12
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "zh7Sd68F1QrAG20",
+      "runId": 1719144275
+    },
+    "762rb7r97kIUm9J": {
+      "name": "migby",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 6,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "762rb7r97kIUm9J",
+      "runId": 1719144275
     }
   }
 }

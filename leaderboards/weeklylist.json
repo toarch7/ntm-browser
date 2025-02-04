@@ -1059,13 +1059,13 @@
       "name": "abusamadresjone",
       "char": 6,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 77,
-      "bwep": 15,
+      "wep": 35,
+      "bwep": 11,
       "win": false,
-      "kills": 252,
+      "kills": 364,
       "ultra": 0,
       "skills": [
         10,
@@ -2216,6 +2216,53 @@
       "crown": 8,
       "version": 2616,
       "uid": "m7I4xwC1kqvXanx",
+      "runId": 667252569
+    },
+    "Kd9cpjAs99ocs6P": {
+      "name": "kilo",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 55,
+      "win": false,
+      "kills": 174,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8,
+        14
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "Kd9cpjAs99ocs6P",
+      "runId": 667252569
+    },
+    "zh7Sd68F1QrAG20": {
+      "name": "chupamelonga",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "zh7Sd68F1QrAG20",
       "runId": 667252569
     }
   }
