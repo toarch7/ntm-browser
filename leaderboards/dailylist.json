@@ -321,6 +321,64 @@
       "version": 2616,
       "uid": "K97awxp38a8uXg2",
       "runId": 1719144275
+    },
+    "XnuijQ7DbjwUcHJ": {
+      "name": "Russell",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XnuijQ7DbjwUcHJ",
+      "runId": 1719144275
+    },
+    "8PUwLwLq9jF2Ni0": {
+      "name": "Djabo",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8PUwLwLq9jF2Ni0",
+      "runId": 1719144275
+    },
+    "XdkMQGTJf3cq1KQ": {
+      "name": "XDoctor",
+      "char": 14,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XdkMQGTJf3cq1KQ",
+      "runId": 1719144275
     }
   }
 }
