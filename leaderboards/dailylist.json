@@ -256,6 +256,47 @@
       "version": 2616,
       "uid": "iqF52ZBch4X25XJ",
       "runId": 1719144275
+    },
+    "h1U1dg3Bp50iw45": {
+      "name": "Max",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 7,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h1U1dg3Bp50iw45",
+      "runId": 1719144275
+    },
+    "Q3uBKsbSC4rpT2y": {
+      "name": "lox",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 34,
+      "win": false,
+      "kills": 206,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        3,
+        14
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "Q3uBKsbSC4rpT2y",
+      "runId": 1719144275
     }
   }
 }
