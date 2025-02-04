@@ -1,4 +1,47 @@
 {
   "day": 4,
-  "entries": {}
+  "entries": {
+    "G3p97JVJnQIPHZq": {
+      "name": "ltp4",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 4,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        19,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "G3p97JVJnQIPHZq",
+      "runId": 1719144275
+    },
+    "f8W067UI9nqz7Et": {
+      "name": "Random",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 6,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        10,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f8W067UI9nqz7Et",
+      "runId": 1719144275
+    }
+  }
 }
