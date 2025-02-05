@@ -2428,6 +2428,29 @@
       "version": 2616,
       "uid": "dg2NGuEtk90t2b8",
       "runId": 667252569
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 20,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 667252569
     }
   }
 }
