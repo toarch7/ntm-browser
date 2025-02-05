@@ -1226,19 +1226,20 @@
       "name": "dust",
       "char": 6,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 13,
-      "bwep": 69,
+      "wep": 12,
+      "bwep": 13,
       "win": false,
-      "kills": 137,
+      "kills": 169,
       "ultra": 0,
       "skills": [
         10,
         6,
         22,
-        8
+        8,
+        14
       ],
       "crown": 8,
       "version": 2616,
@@ -2263,6 +2264,29 @@
       "crown": 8,
       "version": 2616,
       "uid": "zh7Sd68F1QrAG20",
+      "runId": 667252569
+    },
+    "QG253Pt5dYzFRCL": {
+      "name": "RZleonardo",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 17,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "QG253Pt5dYzFRCL",
       "runId": 667252569
     }
   }
