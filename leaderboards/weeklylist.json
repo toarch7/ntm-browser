@@ -2334,6 +2334,29 @@
       "version": 2616,
       "uid": "L7BRJoMB9khbE2K",
       "runId": 667252569
+    },
+    "o7Z7ErSBQ9sKR7C": {
+      "name": "P_Diddy",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 16,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "o7Z7ErSBQ9sKR7C",
+      "runId": 667252569
     }
   }
 }
