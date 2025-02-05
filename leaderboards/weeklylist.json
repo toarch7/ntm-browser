@@ -2311,6 +2311,29 @@
       "version": 2616,
       "uid": "UJ9StPDkl0A940L",
       "runId": 667252569
+    },
+    "L7BRJoMB9khbE2K": {
+      "name": "Zlayer",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 20,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        22,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "L7BRJoMB9khbE2K",
+      "runId": 667252569
     }
   }
 }
