@@ -57,6 +57,47 @@
       "version": 2616,
       "uid": "W839Xi5Dn2725YX",
       "runId": 1341778828
+    },
+    "730vnjh2Fy89dtn": {
+      "name": "Aboba",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 15,
+      "crown": 1,
+      "version": 2616,
+      "uid": "730vnjh2Fy89dtn",
+      "runId": 1341778828
+    },
+    "aBrYq2bcSKE8mTl": {
+      "name": "Nigaslav",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 105,
+      "win": false,
+      "kills": 813,
+      "ultra": 1,
+      "skills": [
+        27,
+        23,
+        13,
+        1,
+        17,
+        4
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "aBrYq2bcSKE8mTl",
+      "runId": 1341778828
     }
   }
 }
