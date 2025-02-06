@@ -182,6 +182,47 @@
       "version": 2616,
       "uid": "45V2d8ua5aaktC5",
       "runId": 1341778828
+    },
+    "F36yOjxf9gRKFyE": {
+      "name": "BadEnglishPL",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "F36yOjxf9gRKFyE",
+      "runId": 1341778828
+    },
+    "7c75P5t06c7580y": {
+      "name": "Nukuler",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 21,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        10,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7c75P5t06c7580y",
+      "runId": 1341778828
     }
   }
 }
