@@ -548,16 +548,17 @@
       "name": "slayer",
       "char": 5,
       "skin": false,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 13,
-      "bwep": 43,
+      "wep": 43,
+      "bwep": 117,
       "win": false,
-      "kills": 105,
+      "kills": 113,
       "ultra": 0,
       "skills": [
-        8
+        8,
+        16
       ],
       "crown": 2,
       "version": 2616,
