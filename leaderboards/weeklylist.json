@@ -572,18 +572,22 @@
       "name": "Random",
       "char": 5,
       "skin": false,
-      "area": 104,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 76,
-      "bwep": 13,
+      "wep": 9,
+      "bwep": 114,
       "win": false,
-      "kills": 136,
+      "kills": 343,
       "ultra": 0,
       "skills": [
         8,
         12,
-        25
+        25,
+        7,
+        27,
+        9,
+        23
       ],
       "crown": 2,
       "version": 2616,
@@ -650,6 +654,72 @@
       "crown": 2,
       "version": 2616,
       "uid": "veNM445KoAqLS4N",
+      "runId": 1770391355
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "1000THR",
+      "char": 5,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 13,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        8,
+        25
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
+      "runId": 1770391355
+    },
+    "EjZ5H6CVcoKKa38": {
+      "name": "mpk",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 88,
+      "win": false,
+      "kills": 183,
+      "ultra": 0,
+      "skills": [
+        8,
+        12,
+        25,
+        10,
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "EjZ5H6CVcoKKa38",
+      "runId": 1770391355
+    },
+    "L7BRJoMB9khbE2K": {
+      "name": "Zlayer",
+      "char": 5,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 88,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        8,
+        2
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "L7BRJoMB9khbE2K",
       "runId": 1770391355
     }
   }
