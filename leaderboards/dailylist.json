@@ -1,4 +1,48 @@
 {
   "day": 7,
-  "entries": {}
+  "entries": {
+    "0l6gj4Fx2U1E258": {
+      "name": "Ian",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 38,
+      "win": false,
+      "kills": 195,
+      "ultra": 0,
+      "skills": [
+        1,
+        9,
+        10,
+        26
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "0l6gj4Fx2U1E258",
+      "runId": 526976192
+    },
+    "bpa1O1p16Br2s0o": {
+      "name": "angru",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bpa1O1p16Br2s0o",
+      "runId": 526976192
+    }
+  }
 }
