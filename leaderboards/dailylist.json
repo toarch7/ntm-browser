@@ -107,6 +107,50 @@
       "version": 2616,
       "uid": "L63tx9fWu1RI72p",
       "runId": 1201139994
+    },
+    "730vnjh2Fy89dtn": {
+      "name": "Aboba",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 17,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        1,
+        16
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "730vnjh2Fy89dtn",
+      "runId": 1201139994
+    },
+    "veNM445KoAqLS4N": {
+      "name": "Тобепизда",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 7,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        7,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "veNM445KoAqLS4N",
+      "runId": 1201139994
     }
   }
 }
