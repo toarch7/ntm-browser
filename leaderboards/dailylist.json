@@ -198,6 +198,51 @@
       "version": 2616,
       "uid": "aBrYq2bcSKE8mTl",
       "runId": 1201139994
+    },
+    "omZ12rhMYLD191e": {
+      "name": "Clunky",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        9,
+        23,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "omZ12rhMYLD191e",
+      "runId": 1201139994
+    },
+    "XdkMQGTJf3cq1KQ": {
+      "name": "XDoctor",
+      "char": 14,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 7,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        2,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XdkMQGTJf3cq1KQ",
+      "runId": 1201139994
     }
   }
 }
