@@ -6,16 +6,16 @@
       "char": 5,
       "skin": false,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 30,
-      "bwep": 76,
+      "wep": 90,
+      "bwep": 28,
       "win": false,
-      "kills": 153,
+      "kills": 198,
       "ultra": 0,
       "skills": [
-        6,
-        16
+        8,
+        27
       ],
       "crown": 2,
       "version": 2616,
@@ -853,6 +853,29 @@
       "crown": 2,
       "version": 2616,
       "uid": "L7UNSGORlRw2uC9",
+      "runId": 1770391355
+    },
+    "bpa1O1p16Br2s0o": {
+      "name": "angru",
+      "char": 5,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 2,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        9,
+        12,
+        10,
+        25
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "bpa1O1p16Br2s0o",
       "runId": 1770391355
     }
   }
