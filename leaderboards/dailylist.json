@@ -1,4 +1,41 @@
 {
   "day": 9,
-  "entries": {}
+  "entries": {
+    "u2vXbYQ72oCQEr1": {
+      "name": "Seeke",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "u2vXbYQ72oCQEr1",
+      "runId": 898746652
+    },
+    "W36AYDnfg5H5mwJ": {
+      "name": "Ardillita",
+      "char": 14,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 21,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W36AYDnfg5H5mwJ",
+      "runId": 898746652
+    }
+  }
 }
