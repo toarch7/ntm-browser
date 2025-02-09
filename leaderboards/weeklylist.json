@@ -932,15 +932,16 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 76,
-      "bwep": 90,
+      "wep": 5,
+      "bwep": 2,
       "win": false,
-      "kills": 217,
+      "kills": 218,
       "ultra": 0,
       "skills": [
         9,
         8,
         10,
+        16,
         27
       ],
       "crown": 2,
@@ -987,6 +988,26 @@
       "crown": 2,
       "version": 2616,
       "uid": "QXCuF42ymqS0v3p",
+      "runId": 1770391355
+    },
+    "X0x8Q4vP1g357ZD": {
+      "name": "cristian",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 13,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "X0x8Q4vP1g357ZD",
       "runId": 1770391355
     }
   }
