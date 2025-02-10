@@ -1,4 +1,63 @@
 {
   "day": 10,
-  "entries": {}
+  "entries": {
+    "C2dR3t6EC5o9LN5": {
+      "name": "Shion",
+      "char": 15,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 13,
+      "win": false,
+      "kills": 278,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        3,
+        7,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "C2dR3t6EC5o9LN5",
+      "runId": 1990801209
+    },
+    "6C5tl8BY8j8sX6S": {
+      "name": "JESUS444",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "6C5tl8BY8j8sX6S",
+      "runId": 1990801209
+    },
+    "wcX8m72OsiDi49E": {
+      "name": "tio7roberto",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wcX8m72OsiDi49E",
+      "runId": 1990801209
+    }
+  }
 }
