@@ -712,17 +712,17 @@
       "name": "Zlayer",
       "char": 5,
       "skin": false,
-      "area": 103,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 14,
-      "bwep": 88,
+      "wep": 2,
+      "bwep": 76,
       "win": false,
-      "kills": 96,
+      "kills": 114,
       "ultra": 0,
       "skills": [
         8,
-        2
+        16
       ],
       "crown": 2,
       "version": 2616,
