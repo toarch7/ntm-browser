@@ -116,6 +116,50 @@
       "version": 2616,
       "uid": "7AXX8m6OFLrE3zR",
       "runId": 1690226543
+    },
+    "9L2g103zcTG5u38": {
+      "name": "DEV_DONUT",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9L2g103zcTG5u38",
+      "runId": 1690226543
+    },
+    "aBrYq2bcSKE8mTl": {
+      "name": "Scermitz",
+      "char": 6,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 90,
+      "win": false,
+      "kills": 309,
+      "ultra": 0,
+      "skills": [
+        17,
+        23,
+        7,
+        6,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aBrYq2bcSKE8mTl",
+      "runId": 1690226543
     }
   }
 }
