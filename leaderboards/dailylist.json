@@ -224,6 +224,48 @@
       "version": 2616,
       "uid": "TqP0kzADTfBSCIl",
       "runId": 1690226543
+    },
+    "4XR5yN7dEN64F81": {
+      "name": "Адепт",
+      "char": 2,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 11,
+      "win": false,
+      "kills": 321,
+      "ultra": 0,
+      "skills": [
+        17,
+        23,
+        7,
+        6,
+        4,
+        21,
+        27
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "4XR5yN7dEN64F81",
+      "runId": 1690226543
+    },
+    "F36yOjxf9gRKFyE": {
+      "name": "BadEnglishPL",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 39,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "F36yOjxf9gRKFyE",
+      "runId": 1690226543
     }
   }
 }
