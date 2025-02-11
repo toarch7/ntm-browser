@@ -1,4 +1,47 @@
 {
   "day": 11,
-  "entries": {}
+  "entries": {
+    "2or1Sk6i4Vw43KM": {
+      "name": "Agehlit",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 4,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2or1Sk6i4Vw43KM",
+      "runId": 1690226543
+    },
+    "u2vXbYQ72oCQEr1": {
+      "name": "Seeke",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 19,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        6,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "u2vXbYQ72oCQEr1",
+      "runId": 1690226543
+    }
+  }
 }
