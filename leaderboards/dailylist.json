@@ -412,6 +412,50 @@
       "version": 2616,
       "uid": "oAM5j35n3Y4IwZB",
       "runId": 461482048
+    },
+    "Xa00D1HUJ6653IM": {
+      "name": "Overkill",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 16,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Xa00D1HUJ6653IM",
+      "runId": 461482048
+    },
+    "f8W067UI9nqz7Et": {
+      "name": "Random",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 8,
+      "win": false,
+      "kills": 213,
+      "ultra": 0,
+      "skills": [
+        25,
+        6,
+        8,
+        27,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f8W067UI9nqz7Et",
+      "runId": 461482048
     }
   }
 }
