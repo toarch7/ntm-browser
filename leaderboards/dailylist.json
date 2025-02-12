@@ -310,6 +310,27 @@
       "version": 2616,
       "uid": "F36yOjxf9gRKFyE",
       "runId": 461482048
+    },
+    "7AXX8m6OFLrE3zR": {
+      "name": "ОбамаЛох",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 30,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        8,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7AXX8m6OFLrE3zR",
+      "runId": 461482048
     }
   }
 }
