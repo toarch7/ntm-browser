@@ -799,18 +799,19 @@
       "name": "Seeker16911",
       "char": 5,
       "skin": false,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 13,
-      "bwep": 69,
+      "wep": 112,
+      "bwep": 89,
       "win": false,
-      "kills": 72,
+      "kills": 217,
       "ultra": 0,
       "skills": [
         8,
-        6,
-        10
+        10,
+        16,
+        9
       ],
       "crown": 2,
       "version": 2616,
@@ -1309,6 +1310,29 @@
       "crown": 2,
       "version": 2616,
       "uid": "r57z2Bj3hjv9tAI",
+      "runId": 1770391355
+    },
+    "Xa00D1HUJ6653IM": {
+      "name": "Overkill",
+      "char": 5,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 13,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        8,
+        12,
+        2,
+        26
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "Xa00D1HUJ6653IM",
       "runId": 1770391355
     }
   }
