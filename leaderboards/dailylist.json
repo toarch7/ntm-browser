@@ -317,6 +317,57 @@
       "version": 2616,
       "uid": "G37Fx6kMs7NT00t",
       "runId": 1403068562
+    },
+    "C2dR3t6EC5o9LN5": {
+      "name": "Shion",
+      "char": 15,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 255,
+      "win": false,
+      "kills": 326,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        17,
+        4,
+        28,
+        8,
+        23
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "C2dR3t6EC5o9LN5",
+      "runId": 1403068562
+    },
+    "G3p97JVJnQIPHZq": {
+      "name": "ltp4",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 4,
+      "win": false,
+      "kills": 249,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        12,
+        7,
+        4,
+        2
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "G3p97JVJnQIPHZq",
+      "runId": 1403068562
     }
   }
 }
