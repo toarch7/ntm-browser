@@ -256,6 +256,67 @@
       "version": 2616,
       "uid": "RmA77yQP40TR7Ik",
       "runId": 1403068562
+    },
+    "3R2uFaPM4T8ne0s": {
+      "name": "Papunci0",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 19,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3R2uFaPM4T8ne0s",
+      "runId": 1403068562
+    },
+    "730vnjh2Fy89dtn": {
+      "name": "Aboba",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 27,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        7,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "730vnjh2Fy89dtn",
+      "runId": 1403068562
+    },
+    "G37Fx6kMs7NT00t": {
+      "name": "Stal",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 2,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "G37Fx6kMs7NT00t",
+      "runId": 1403068562
     }
   }
 }
