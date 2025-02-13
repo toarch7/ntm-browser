@@ -1,4 +1,27 @@
 {
   "seed": 2082790893,
-  "entries": {}
+  "entries": {
+    "C2dR3t6EC5o9LN5": {
+      "name": "Shion",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 4,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        9,
+        7,
+        3
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "C2dR3t6EC5o9LN5",
+      "runId": 2082790893
+    }
+  }
 }
