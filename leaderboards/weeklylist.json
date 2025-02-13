@@ -66,6 +66,79 @@
       "version": 2616,
       "uid": "mzZl1yf8k410ct2",
       "runId": 2082790893
+    },
+    "oAM5j35n3Y4IwZB": {
+      "name": "Kuroi",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 6,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        13,
+        12,
+        17
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "oAM5j35n3Y4IwZB",
+      "runId": 2082790893
+    },
+    "HCTUk6KfGX9zyb6": {
+      "name": "Bomber_man",
+      "char": 4,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 23,
+      "win": false,
+      "kills": 309,
+      "ultra": 0,
+      "skills": [
+        13,
+        12,
+        17,
+        23,
+        29
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "HCTUk6KfGX9zyb6",
+      "runId": 2082790893
+    },
+    "W36AYDnfg5H5mwJ": {
+      "name": "Ardillita",
+      "char": 4,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 22,
+      "win": false,
+      "kills": 536,
+      "ultra": 2,
+      "skills": [
+        6,
+        12,
+        3,
+        21,
+        27,
+        1,
+        14,
+        13
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "W36AYDnfg5H5mwJ",
+      "runId": 2082790893
     }
   }
 }
