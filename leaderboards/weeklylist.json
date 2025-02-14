@@ -508,6 +508,29 @@
       "version": 2616,
       "uid": "0GRPNJZB7nqiaiV",
       "runId": 2082790893
+    },
+    "DCSxlbIRP6s306X": {
+      "name": "CAT.endiblado",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 75,
+      "win": false,
+      "kills": 233,
+      "ultra": 0,
+      "skills": [
+        6,
+        12,
+        3,
+        23
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "DCSxlbIRP6s306X",
+      "runId": 2082790893
     }
   }
 }
