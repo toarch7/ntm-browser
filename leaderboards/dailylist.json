@@ -378,6 +378,51 @@
       "version": 2616,
       "uid": "8PUwLwLq9jF2Ni0",
       "runId": 71176124
+    },
+    "58s58o09UzkjMK7": {
+      "name": "Chesito",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        1,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "58s58o09UzkjMK7",
+      "runId": 71176124
+    },
+    "K97awxp38a8uXg2": {
+      "name": "Ninja_Panas",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 16,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        8,
+        25,
+        24,
+        10,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "K97awxp38a8uXg2",
+      "runId": 71176124
     }
   }
 }
