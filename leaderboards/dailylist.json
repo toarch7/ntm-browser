@@ -423,6 +423,52 @@
       "version": 2616,
       "uid": "K97awxp38a8uXg2",
       "runId": 71176124
+    },
+    "opC2x8rRxMV8C46": {
+      "name": "gl!tch",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 13,
+      "win": false,
+      "kills": 233,
+      "ultra": 0,
+      "skills": [
+        8,
+        25,
+        26,
+        9,
+        13,
+        4,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "opC2x8rRxMV8C46",
+      "runId": 71176124
+    },
+    "730vnjh2Fy89dtn": {
+      "name": "Aboba",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "730vnjh2Fy89dtn",
+      "runId": 71176124
     }
   }
 }
