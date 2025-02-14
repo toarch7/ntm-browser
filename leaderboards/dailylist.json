@@ -250,6 +250,48 @@
       "version": 2616,
       "uid": "pH6jSZRtBbGFjs0",
       "runId": 71176124
+    },
+    "oAM5j35n3Y4IwZB": {
+      "name": "Kuroi",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 90,
+      "bwep": 74,
+      "win": false,
+      "kills": 1354,
+      "ultra": 1,
+      "skills": [
+        17,
+        9,
+        13,
+        29,
+        24,
+        7,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "oAM5j35n3Y4IwZB",
+      "runId": 71176124
+    },
+    "s4HD8UF9YlocVKg": {
+      "name": "dan",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "s4HD8UF9YlocVKg",
+      "runId": 71176124
     }
   }
 }
