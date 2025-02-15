@@ -188,6 +188,55 @@
       "version": 2616,
       "uid": "MK86zQf0IWPIJRn",
       "runId": 1784577387
+    },
+    "W36AYDnfg5H5mwJ": {
+      "name": "Ardillita",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 93,
+      "win": false,
+      "kills": 773,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        13,
+        1,
+        27,
+        8,
+        22
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "W36AYDnfg5H5mwJ",
+      "runId": 1784577387
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "VoideonLord",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 6,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        7,
+        23,
+        13,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 1784577387
     }
   }
 }
