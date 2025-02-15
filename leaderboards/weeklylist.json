@@ -337,13 +337,13 @@
       "name": "Ian",
       "char": 4,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 61,
-      "bwep": 6,
+      "wep": 6,
+      "bwep": 61,
       "win": false,
-      "kills": 134,
+      "kills": 274,
       "ultra": 0,
       "skills": [
         6,
@@ -620,6 +620,28 @@
       "crown": 7,
       "version": 2616,
       "uid": "GS1xgI7lM6hX7oL",
+      "runId": 2082790893
+    },
+    "Qx29M52t9AnkY6w": {
+      "name": "EvilCat",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 37,
+      "win": false,
+      "kills": 189,
+      "ultra": 0,
+      "skills": [
+        13,
+        7,
+        3
+      ],
+      "crown": 7,
+      "version": 2620,
+      "uid": "Qx29M52t9AnkY6w",
       "runId": 2082790893
     }
   }
