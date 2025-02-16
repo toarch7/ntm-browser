@@ -285,6 +285,53 @@
       "version": 2616,
       "uid": "p6KHvaIIKk6110B",
       "runId": 278367446
+    },
+    "L7BRJoMB9khbE2K": {
+      "name": "Zlayer",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 69,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        8,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L7BRJoMB9khbE2K",
+      "runId": 278367446
+    },
+    "oAM5j35n3Y4IwZB": {
+      "name": "Kuroi",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 119,
+      "bwep": 74,
+      "win": false,
+      "kills": 766,
+      "ultra": 1,
+      "skills": [
+        8,
+        7,
+        23,
+        1,
+        17,
+        6,
+        2
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "oAM5j35n3Y4IwZB",
+      "runId": 278367446
     }
   }
 }
