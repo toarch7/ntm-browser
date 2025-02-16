@@ -1,4 +1,72 @@
 {
   "day": 16,
-  "entries": {}
+  "entries": {
+    "0xmz045qXLAdd99": {
+      "name": "weepingdevil",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 52,
+      "bwep": 111,
+      "win": false,
+      "kills": 705,
+      "ultra": 2,
+      "skills": [
+        23,
+        7,
+        9,
+        1,
+        25,
+        14,
+        21,
+        29
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "0xmz045qXLAdd99",
+      "runId": 278367446
+    },
+    "cE47A80Cg40vI0K": {
+      "name": "magma",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 17,
+      "win": false,
+      "kills": 16,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cE47A80Cg40vI0K",
+      "runId": 278367446
+    },
+    "0l6gj4Fx2U1E258": {
+      "name": "Ian",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 69,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0l6gj4Fx2U1E258",
+      "runId": 278367446
+    }
+  }
 }
