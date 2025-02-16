@@ -555,6 +555,48 @@
       "version": 2616,
       "uid": "0ZdyO5jBNnDg78B",
       "runId": 278367446
+    },
+    "Fw8c34cknmEBkEI": {
+      "name": "mmlo",
+      "char": 2,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 17,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        8,
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Fw8c34cknmEBkEI",
+      "runId": 278367446
+    },
+    "2or1Sk6i4Vw43KM": {
+      "name": "Agehlit",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2or1Sk6i4Vw43KM",
+      "runId": 278367446
     }
   }
 }
