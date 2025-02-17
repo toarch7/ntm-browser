@@ -356,6 +356,59 @@
       "version": 2616,
       "uid": "0l6gj4Fx2U1E258",
       "runId": 996471789
+    },
+    "oAM5j35n3Y4IwZB": {
+      "name": "Kuroi",
+      "char": 8,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 64,
+      "win": false,
+      "kills": 295,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        17,
+        13,
+        10,
+        1,
+        16,
+        29
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "oAM5j35n3Y4IwZB",
+      "runId": 996471789
+    },
+    "C2dR3t6EC5o9LN5": {
+      "name": "FROG!!",
+      "char": 15,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 23,
+      "win": false,
+      "kills": 368,
+      "ultra": 0,
+      "skills": [
+        10,
+        8,
+        23,
+        27,
+        1,
+        9,
+        7
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "C2dR3t6EC5o9LN5",
+      "runId": 996471789
     }
   }
 }
