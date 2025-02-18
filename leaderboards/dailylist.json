@@ -340,6 +340,48 @@
       "version": 2616,
       "uid": "L7BRJoMB9khbE2K",
       "runId": 1962236551
+    },
+    "5TkkDG7GSSQa712": {
+      "name": "Max",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 10,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5TkkDG7GSSQa712",
+      "runId": 1962236551
+    },
+    "730vnjh2Fy89dtn": {
+      "name": "Aboba",
+      "char": 9,
+      "skin": false,
+      "area": 100,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "730vnjh2Fy89dtn",
+      "runId": 1962236551
     }
   }
 }
