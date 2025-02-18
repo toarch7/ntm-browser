@@ -295,6 +295,51 @@
       "version": 2616,
       "uid": "pH6jSZRtBbGFjs0",
       "runId": 1962236551
+    },
+    "HCTUk6KfGX9zyb6": {
+      "name": "Bomber_man",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 37,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        13,
+        27,
+        23,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HCTUk6KfGX9zyb6",
+      "runId": 1962236551
+    },
+    "L7BRJoMB9khbE2K": {
+      "name": "Zlayer",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 3,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L7BRJoMB9khbE2K",
+      "runId": 1962236551
     }
   }
 }
