@@ -424,6 +424,53 @@
       "version": 2616,
       "uid": "3R2uFaPM4T8ne0s",
       "runId": 1962236551
+    },
+    "RmA77yQP40TR7Ik": {
+      "name": "YokaPendejo",
+      "char": 2,
+      "skin": true,
+      "area": 100,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 6,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RmA77yQP40TR7Ik",
+      "runId": 1962236551
+    },
+    "oAM5j35n3Y4IwZB": {
+      "name": "Kuroi",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 89,
+      "win": false,
+      "kills": 275,
+      "ultra": 0,
+      "skills": [
+        13,
+        25,
+        4,
+        28,
+        7,
+        12
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "oAM5j35n3Y4IwZB",
+      "runId": 1962236551
     }
   }
 }
