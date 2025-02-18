@@ -1040,6 +1040,28 @@
       "version": 2616,
       "uid": "9H982TJ42rZ00an",
       "runId": 2082790893
+    },
+    "cNSHte3t99gRVyY": {
+      "name": "doomseeker",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 61,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        6,
+        12,
+        3
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "cNSHte3t99gRVyY",
+      "runId": 2082790893
     }
   }
 }
