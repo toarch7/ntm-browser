@@ -155,6 +155,57 @@
       "version": 2616,
       "uid": "G37Fx6kMs7NT00t",
       "runId": 1962236551
+    },
+    "G3p97JVJnQIPHZq": {
+      "name": "ltp4",
+      "char": 7,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 26,
+      "win": false,
+      "kills": 308,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        27,
+        4,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "G3p97JVJnQIPHZq",
+      "runId": 1962236551
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 26,
+      "win": false,
+      "kills": 297,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        25,
+        6,
+        4,
+        28,
+        7,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 1962236551
     }
   }
 }
