@@ -110,6 +110,72 @@
       "version": 2616,
       "uid": "4XR5yN7dEN64F81",
       "runId": 1485184089
+    },
+    "T311Gd1XlAaSv6D": {
+      "name": "Seeker90",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "T311Gd1XlAaSv6D",
+      "runId": 1485184089
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 39,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 1485184089
+    },
+    "HCTUk6KfGX9zyb6": {
+      "name": "Bomber_man",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 119,
+      "bwep": 74,
+      "win": false,
+      "kills": 311,
+      "ultra": 0,
+      "skills": [
+        25,
+        10,
+        4,
+        23,
+        14,
+        9,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HCTUk6KfGX9zyb6",
+      "runId": 1485184089
     }
   }
 }
