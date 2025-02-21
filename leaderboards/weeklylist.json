@@ -404,6 +404,29 @@
       "version": 2616,
       "uid": "bK2S3zV0lk0BoqQ",
       "runId": 150734631
+    },
+    "OFx1nPXuZ59Xqx8": {
+      "name": "silksong",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 76,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        7,
+        27
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "OFx1nPXuZ59Xqx8",
+      "runId": 150734631
     }
   }
 }
