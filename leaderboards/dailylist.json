@@ -214,6 +214,54 @@
       "version": 2616,
       "uid": "M37r0hlvHhYgQ5m",
       "runId": 267952824
+    },
+    "K6WY0fss05Av6ru": {
+      "name": "Nox",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        10,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "K6WY0fss05Av6ru",
+      "runId": 267952824
+    },
+    "HCTUk6KfGX9zyb6": {
+      "name": "Bomber_man",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 13,
+      "win": false,
+      "kills": 343,
+      "ultra": 0,
+      "skills": [
+        7,
+        27,
+        23,
+        3,
+        9,
+        13,
+        17,
+        10
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "HCTUk6KfGX9zyb6",
+      "runId": 267952824
     }
   }
 }
