@@ -67,6 +67,46 @@
       "version": 2616,
       "uid": "3Y3wc6htj6I97kh",
       "runId": 113285019
+    },
+    "9L2g103zcTG5u38": {
+      "name": "DEV_DONUT",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 39,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9L2g103zcTG5u38",
+      "runId": 113285019
+    },
+    "JfO6hA52pnaHKqO": {
+      "name": "elpendejo",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 3,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "JfO6hA52pnaHKqO",
+      "runId": 113285019
     }
   }
 }
