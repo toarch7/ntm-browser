@@ -128,6 +128,69 @@
       "version": 2616,
       "uid": "7FOZAL877R8s3T1",
       "runId": 113285019
+    },
+    "K6WY0fss05Av6ru": {
+      "name": "Nox",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 2,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "K6WY0fss05Av6ru",
+      "runId": 113285019
+    },
+    "24oC1l0J5YFnEP6": {
+      "name": "Centinela",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        7,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "24oC1l0J5YFnEP6",
+      "runId": 113285019
+    },
+    "HCTUk6KfGX9zyb6": {
+      "name": "Bomber_man",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 30,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        13,
+        17,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HCTUk6KfGX9zyb6",
+      "runId": 113285019
     }
   }
 }
