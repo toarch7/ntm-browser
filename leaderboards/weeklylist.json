@@ -738,6 +738,27 @@
       "version": 2616,
       "uid": "s01Rv2Hyku31eKo",
       "runId": 150734631
+    },
+    "buf55I20R944RQq": {
+      "name": "ASESINO",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 101,
+      "bwep": 69,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "buf55I20R944RQq",
+      "runId": 150734631
     }
   }
 }
