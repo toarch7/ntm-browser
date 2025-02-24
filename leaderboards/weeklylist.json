@@ -760,6 +760,28 @@
       "version": 2616,
       "uid": "buf55I20R944RQq",
       "runId": 150734631
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 101,
+      "bwep": 19,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        7
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 150734631
     }
   }
 }
