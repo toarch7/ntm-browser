@@ -150,6 +150,44 @@
       "version": 2616,
       "uid": "HCTUk6KfGX9zyb6",
       "runId": 285682832
+    },
+    "4XR5yN7dEN64F81": {
+      "name": "Адепт",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 16,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4XR5yN7dEN64F81",
+      "runId": 285682832
+    },
+    "7c75P5t06c7580y": {
+      "name": "Nukuler",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7c75P5t06c7580y",
+      "runId": 285682832
     }
   }
 }
