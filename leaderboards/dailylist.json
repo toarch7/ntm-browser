@@ -188,6 +188,76 @@
       "version": 2616,
       "uid": "7c75P5t06c7580y",
       "runId": 285682832
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "1000THR",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 26,
+      "win": false,
+      "kills": 234,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        27,
+        4,
+        25,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
+      "runId": 285682832
+    },
+    "Uwk8yTljYbPc8QQ": {
+      "name": "CourierSix",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 6,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Uwk8yTljYbPc8QQ",
+      "runId": 285682832
+    },
+    "K6WY0fss05Av6ru": {
+      "name": "Nox",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 7,
+      "win": false,
+      "kills": 265,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        27,
+        25,
+        26,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "K6WY0fss05Av6ru",
+      "runId": 285682832
     }
   }
 }
