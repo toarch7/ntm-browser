@@ -309,6 +309,27 @@
       "version": 2616,
       "uid": "HJ7G87oXRypnPMd",
       "runId": 696024044
+    },
+    "3Y3wc6htj6I97kh": {
+      "name": "Yalem",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        3,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3Y3wc6htj6I97kh",
+      "runId": 696024044
     }
   }
 }
