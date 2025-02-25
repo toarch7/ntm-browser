@@ -266,6 +266,49 @@
       "version": 2616,
       "uid": "R13j1l6wiz6a9jb",
       "runId": 696024044
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 1,
+      "win": false,
+      "kills": 176,
+      "ultra": 0,
+      "skills": [
+        28,
+        9,
+        8,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 696024044
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "1000THR",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
+      "runId": 696024044
     }
   }
 }
