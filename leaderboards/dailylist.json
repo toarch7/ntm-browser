@@ -450,6 +450,48 @@
       "version": 2616,
       "uid": "M37r0hlvHhYgQ5m",
       "runId": 696024044
+    },
+    "24oC1l0J5YFnEP6": {
+      "name": "Centinela",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        3,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "24oC1l0J5YFnEP6",
+      "runId": 696024044
+    },
+    "571Y8x7pDcmMMRF": {
+      "name": "Seeker82",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        19,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "571Y8x7pDcmMMRF",
+      "runId": 696024044
     }
   }
 }
