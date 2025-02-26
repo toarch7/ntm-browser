@@ -211,6 +211,48 @@
       "version": 2616,
       "uid": "n1bU7ok51mgqEJ4",
       "runId": 1710108814
+    },
+    "cuClQz71810v24k": {
+      "name": "t0xicch4os",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "cuClQz71810v24k",
+      "runId": 1710108814
+    },
+    "M37r0hlvHhYgQ5m": {
+      "name": "EugeshA",
+      "char": 1,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 34,
+      "win": false,
+      "kills": 477,
+      "ultra": 2,
+      "skills": [
+        1,
+        3,
+        27,
+        4,
+        13,
+        9,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "M37r0hlvHhYgQ5m",
+      "runId": 1710108814
     }
   }
 }
