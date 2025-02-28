@@ -1,4 +1,48 @@
 {
   "day": 28,
-  "entries": {}
+  "entries": {
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 71,
+      "win": false,
+      "kills": 176,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        12,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 97847856
+    },
+    "WaV3Xrx6pu1mrf4": {
+      "name": "mastranzo2349",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 66,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "WaV3Xrx6pu1mrf4",
+      "runId": 97847856
+    }
+  }
 }
