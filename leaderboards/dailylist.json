@@ -295,6 +295,88 @@
       "version": 2616,
       "uid": "1Et4fKfc45P26Q5",
       "runId": 443630798
+    },
+    "oAM5j35n3Y4IwZB": {
+      "name": "Kuroi",
+      "char": 2,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 59,
+      "win": false,
+      "kills": 254,
+      "ultra": 0,
+      "skills": [
+        10,
+        1,
+        8,
+        25,
+        22
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "oAM5j35n3Y4IwZB",
+      "runId": 443630798
+    },
+    "R13j1l6wiz6a9jb": {
+      "name": "lelito_yiw",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 3,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "R13j1l6wiz6a9jb",
+      "runId": 443630798
+    },
+    "K6WY0fss05Av6ru": {
+      "name": "Nox",
+      "char": 12,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 6,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "K6WY0fss05Av6ru",
+      "runId": 443630798
+    },
+    "4060WGBo0ZwVG4B": {
+      "name": "ishak",
+      "char": 2,
+      "skin": true,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 13,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4060WGBo0ZwVG4B",
+      "runId": 443630798
     }
   }
 }
