@@ -1,4 +1,109 @@
 {
   "day": 1,
-  "entries": {}
+  "entries": {
+    "51d6dX3U5vbo2k3": {
+      "name": "Al3xZS",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 9,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        10,
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "51d6dX3U5vbo2k3",
+      "runId": 443630798
+    },
+    "RQd5jeyjl8bqLSv": {
+      "name": "Tobias",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 88,
+      "win": false,
+      "kills": 220,
+      "ultra": 0,
+      "skills": [
+        3,
+        1,
+        27,
+        2,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RQd5jeyjl8bqLSv",
+      "runId": 443630798
+    },
+    "K97awxp38a8uXg2": {
+      "name": "Ninja_Panas",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 34,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        3,
+        28,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "K97awxp38a8uXg2",
+      "runId": 443630798
+    },
+    "qNVNIz0TQ4S1sh2": {
+      "name": "drago",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "qNVNIz0TQ4S1sh2",
+      "runId": 443630798
+    },
+    "WaV3Xrx6pu1mrf4": {
+      "name": "mastranzo2349",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 0,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "WaV3Xrx6pu1mrf4",
+      "runId": 443630798
+    }
+  }
 }
