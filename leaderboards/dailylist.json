@@ -417,6 +417,27 @@
       "version": 2616,
       "uid": "0l6gj4Fx2U1E258",
       "runId": 443630798
+    },
+    "9L2g103zcTG5u38": {
+      "name": "DEV_DONUT",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9L2g103zcTG5u38",
+      "runId": 443630798
     }
   }
 }
