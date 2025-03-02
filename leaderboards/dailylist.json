@@ -1,4 +1,60 @@
 {
   "day": 2,
-  "entries": {}
+  "entries": {
+    "0867tN0rd7NP2x4": {
+      "name": "Nuclipse",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "0867tN0rd7NP2x4",
+      "runId": 472087816
+    },
+    "K97awxp38a8uXg2": {
+      "name": "Ninja_Panas",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 0,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        3,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "K97awxp38a8uXg2",
+      "runId": 472087816
+    },
+    "RQd5jeyjl8bqLSv": {
+      "name": "Tobi",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RQd5jeyjl8bqLSv",
+      "runId": 472087816
+    }
+  }
 }
