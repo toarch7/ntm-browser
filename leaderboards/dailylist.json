@@ -129,6 +129,43 @@
       "version": 2616,
       "uid": "F8YS03gE7Doi4m4",
       "runId": 472087816
+    },
+    "07G6h6Y87K3t72h": {
+      "name": "roronoa",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "07G6h6Y87K3t72h",
+      "runId": 472087816
+    },
+    "7AXX8m6OFLrE3zR": {
+      "name": "ОбамаЛох",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 7,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        3,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7AXX8m6OFLrE3zR",
+      "runId": 472087816
     }
   }
 }
