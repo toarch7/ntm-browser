@@ -208,6 +208,70 @@
       "version": 2616,
       "uid": "HCTUk6KfGX9zyb6",
       "runId": 472087816
+    },
+    "veNM445KoAqLS4N": {
+      "name": "Тобепизда",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 78,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        3,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "veNM445KoAqLS4N",
+      "runId": 472087816
+    },
+    "68bs8pnuGhKMMKX": {
+      "name": "Riorex1O",
+      "char": 3,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        3,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "68bs8pnuGhKMMKX",
+      "runId": 472087816
+    },
+    "0xmz045qXLAdd99": {
+      "name": "weepingdevil",
+      "char": 1,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 16,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        23,
+        3,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0xmz045qXLAdd99",
+      "runId": 472087816
     }
   }
 }

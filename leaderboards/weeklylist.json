@@ -190,19 +190,20 @@
       "name": "weepingdevil",
       "char": 7,
       "skin": true,
-      "area": 3,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 71,
-      "bwep": 92,
+      "wep": 124,
+      "bwep": 2,
       "win": false,
-      "kills": 105,
+      "kills": 177,
       "ultra": 0,
       "skills": [
         27,
         3,
         1,
-        23
+        23,
+        7
       ],
       "crown": 6,
       "version": 2616,
@@ -507,6 +508,31 @@
       "crown": 6,
       "version": 2616,
       "uid": "9L2g103zcTG5u38",
+      "runId": 1350493067
+    },
+    "veNM445KoAqLS4N": {
+      "name": "Тобепизда",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 92,
+      "win": false,
+      "kills": 225,
+      "ultra": 0,
+      "skills": [
+        16,
+        3,
+        1,
+        23,
+        7,
+        22
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "veNM445KoAqLS4N",
       "runId": 1350493067
     }
   }
