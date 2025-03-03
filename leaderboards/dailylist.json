@@ -425,6 +425,51 @@
       "version": 2616,
       "uid": "3Y3wc6htj6I97kh",
       "runId": 1412305314
+    },
+    "jt4E04t8LKJrePq": {
+      "name": "Wint",
+      "char": 15,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 255,
+      "win": false,
+      "kills": 301,
+      "ultra": 0,
+      "skills": [
+        25,
+        4,
+        13,
+        6,
+        7,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "jt4E04t8LKJrePq",
+      "runId": 1412305314
+    },
+    "bSUh6woN5zWkel8": {
+      "name": "Capy",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 3,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bSUh6woN5zWkel8",
+      "runId": 1412305314
     }
   }
 }
