@@ -692,6 +692,28 @@
       "version": 2616,
       "uid": "9EkyKX48VdSH7VW",
       "runId": 1350493067
+    },
+    "14F0lbI53M4n5qE": {
+      "name": "gungeon",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 66,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        1
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "14F0lbI53M4n5qE",
+      "runId": 1350493067
     }
   }
 }
