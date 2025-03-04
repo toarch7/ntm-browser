@@ -306,6 +306,32 @@
       "version": 2616,
       "uid": "4060WGBo0ZwVG4B",
       "runId": 354923061
+    },
+    "AI6iJjRkYwnAiAK": {
+      "name": "Kelvin",
+      "char": 2,
+      "skin": true,
+      "area": 106,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 22,
+      "win": false,
+      "kills": 603,
+      "ultra": 1,
+      "skills": [
+        7,
+        12,
+        9,
+        27,
+        1,
+        22,
+        4
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "AI6iJjRkYwnAiAK",
+      "runId": 354923061
     }
   }
 }
