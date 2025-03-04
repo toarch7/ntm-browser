@@ -1,4 +1,51 @@
 {
   "day": 4,
-  "entries": {}
+  "entries": {
+    "7AXX8m6OFLrE3zR": {
+      "name": "ОбамаЛох",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7AXX8m6OFLrE3zR",
+      "runId": 354923061
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 114,
+      "bwep": 17,
+      "win": false,
+      "kills": 333,
+      "ultra": 0,
+      "skills": [
+        7,
+        6,
+        9,
+        27,
+        8,
+        25,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 354923061
+    }
+  }
 }
