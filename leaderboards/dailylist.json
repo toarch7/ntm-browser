@@ -166,6 +166,43 @@
       "version": 2616,
       "uid": "1AVTvZ57z74L05k",
       "runId": 377030867
+    },
+    "0nwg68x87WCl2Kw": {
+      "name": "ErickFL",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "0nwg68x87WCl2Kw",
+      "runId": 377030867
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        9,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 377030867
     }
   }
 }
