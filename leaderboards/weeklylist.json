@@ -139,17 +139,19 @@
       "name": "ультрапердун402",
       "char": 5,
       "skin": false,
-      "area": 2,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 2,
-      "bwep": 27,
+      "wep": 13,
+      "bwep": 3,
       "win": false,
-      "kills": 70,
+      "kills": 188,
       "ultra": 0,
       "skills": [
         10,
-        27
+        27,
+        14,
+        1
       ],
       "crown": 13,
       "version": 2616,
@@ -217,6 +219,32 @@
       "crown": 13,
       "version": 2616,
       "uid": "r7t67rvYe60qV09",
+      "runId": 155800677
+    },
+    "jt4E04t8LKJrePq": {
+      "name": "Wint",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 118,
+      "win": false,
+      "kills": 526,
+      "ultra": 1,
+      "skills": [
+        27,
+        25,
+        17,
+        3,
+        13,
+        6,
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "jt4E04t8LKJrePq",
       "runId": 155800677
     }
   }
