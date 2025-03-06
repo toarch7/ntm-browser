@@ -389,6 +389,72 @@
       "version": 2616,
       "uid": "9EkyKX48VdSH7VW",
       "runId": 155800677
+    },
+    "654mOtj7IRrSLdn": {
+      "name": "Afk",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 28,
+      "win": false,
+      "kills": 170,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        3,
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "654mOtj7IRrSLdn",
+      "runId": 155800677
+    },
+    "OtN9670sg1fHoXw": {
+      "name": "Ae",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 27,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        8,
+        25
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "OtN9670sg1fHoXw",
+      "runId": 155800677
+    },
+    "3Y3wc6htj6I97kh": {
+      "name": "Yalem",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 5,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        2,
+        6,
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "3Y3wc6htj6I97kh",
+      "runId": 155800677
     }
   }
 }

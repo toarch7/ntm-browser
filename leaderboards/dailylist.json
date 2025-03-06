@@ -406,6 +406,73 @@
       "version": 2616,
       "uid": "192XaJG20ZO9Se5",
       "runId": 1094978204
+    },
+    "bSUh6woN5zWkel8": {
+      "name": "Capy",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 3,
+      "win": false,
+      "kills": 203,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        13,
+        25,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bSUh6woN5zWkel8",
+      "runId": 1094978204
+    },
+    "K97awxp38a8uXg2": {
+      "name": "Ninja_Panas",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 10,
+      "win": false,
+      "kills": 187,
+      "ultra": 0,
+      "skills": [
+        19,
+        8,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "K97awxp38a8uXg2",
+      "runId": 1094978204
+    },
+    "OtN9670sg1fHoXw": {
+      "name": "Ae",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        1,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OtN9670sg1fHoXw",
+      "runId": 1094978204
     }
   }
 }
