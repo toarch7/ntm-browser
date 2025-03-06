@@ -51,6 +51,43 @@
       "version": 2616,
       "uid": "ckSD2t2wYgR9J7N",
       "runId": 1094978204
+    },
+    "7AXX8m6OFLrE3zR": {
+      "name": "ОбамаЛох",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "7AXX8m6OFLrE3zR",
+      "runId": 1094978204
+    },
+    "rjp80SXrYI88093": {
+      "name": "Тайнодёрнул",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        1,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rjp80SXrYI88093",
+      "runId": 1094978204
     }
   }
 }
