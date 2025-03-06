@@ -455,6 +455,50 @@
       "version": 2616,
       "uid": "3Y3wc6htj6I97kh",
       "runId": 155800677
+    },
+    "EjZ5H6CVcoKKa38": {
+      "name": "mpk",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 2,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        2,
+        3
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "EjZ5H6CVcoKKa38",
+      "runId": 155800677
+    },
+    "5e7Hxyw8lbpgfU8": {
+      "name": "RGB",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 28,
+      "win": false,
+      "kills": 172,
+      "ultra": 0,
+      "skills": [
+        8,
+        25,
+        16,
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "5e7Hxyw8lbpgfU8",
+      "runId": 155800677
     }
   }
 }
