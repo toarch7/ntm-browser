@@ -103,6 +103,47 @@
       "version": 2616,
       "uid": "AH0Y41jWyfK1tF0",
       "runId": 729319437
+    },
+    "1Et4fKfc45P26Q5": {
+      "name": "Yr52",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 19,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1Et4fKfc45P26Q5",
+      "runId": 729319437
+    },
+    "0oGyoKfZo06LCjB": {
+      "name": "squeaker",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 6,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        23,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0oGyoKfZo06LCjB",
+      "runId": 729319437
     }
   }
 }
