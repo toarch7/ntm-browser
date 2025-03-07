@@ -238,6 +238,53 @@
       "version": 2616,
       "uid": "mlQ8B1Qt8FI480r",
       "runId": 729319437
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "VoideonLord",
+      "char": 5,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 29,
+      "win": false,
+      "kills": 310,
+      "ultra": 0,
+      "skills": [
+        23,
+        27,
+        25,
+        6,
+        7,
+        3,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 729319437
+    },
+    "mQ6dxSp1osVs2vM": {
+      "name": "bloodhail",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 69,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        8,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mQ6dxSp1osVs2vM",
+      "runId": 729319437
     }
   }
 }
