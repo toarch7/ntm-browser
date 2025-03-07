@@ -627,6 +627,49 @@
       "version": 2616,
       "uid": "M37r0hlvHhYgQ5m",
       "runId": 155800677
+    },
+    "70671bV7C165znb": {
+      "name": "Hikari",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 5,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        25
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "70671bV7C165znb",
+      "runId": 155800677
+    },
+    "mlQ8B1Qt8FI480r": {
+      "name": "fleperd",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 31,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        8,
+        6
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "mlQ8B1Qt8FI480r",
+      "runId": 155800677
     }
   }
 }
