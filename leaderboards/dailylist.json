@@ -333,6 +333,28 @@
       "version": 2616,
       "uid": "R93z99C6953rv3y",
       "runId": 729319437
+    },
+    "W839Xi5Dn2725YX": {
+      "name": "slayer",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        8,
+        28,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W839Xi5Dn2725YX",
+      "runId": 729319437
     }
   }
 }
