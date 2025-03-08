@@ -703,10 +703,10 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 47,
-      "bwep": 16,
+      "wep": 80,
+      "bwep": 24,
       "win": false,
-      "kills": 265,
+      "kills": 282,
       "ultra": 0,
       "skills": [
         8,
@@ -714,7 +714,7 @@
         14,
         1,
         7,
-        10
+        6
       ],
       "crown": 13,
       "version": 2616,
@@ -886,6 +886,31 @@
       "crown": 13,
       "version": 2616,
       "uid": "RQ1H5A5ASt11t56",
+      "runId": 155800677
+    },
+    "14aeU8O05ssfF4t": {
+      "name": "ZeKnight",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 26,
+      "win": false,
+      "kills": 273,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        14,
+        1,
+        7,
+        6
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "14aeU8O05ssfF4t",
       "runId": 155800677
     }
   }
