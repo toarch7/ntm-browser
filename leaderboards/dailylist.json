@@ -1,4 +1,31 @@
 {
   "day": 8,
-  "entries": {}
+  "entries": {
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 34,
+      "win": false,
+      "kills": 411,
+      "ultra": 0,
+      "skills": [
+        8,
+        22,
+        1,
+        27,
+        3,
+        25,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 1724422758
+    }
+  }
 }
