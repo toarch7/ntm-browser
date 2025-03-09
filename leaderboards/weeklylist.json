@@ -1162,6 +1162,28 @@
       "version": 2616,
       "uid": "9L2g103zcTG5u38",
       "runId": 155800677
+    },
+    "opC2x8rRxMV8C46": {
+      "name": "Player07",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 16,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        8,
+        3,
+        14
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "opC2x8rRxMV8C46",
+      "runId": 155800677
     }
   }
 }
