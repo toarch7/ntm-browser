@@ -918,18 +918,19 @@
       "name": "hombert",
       "char": 5,
       "skin": false,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 2,
-      "bwep": 5,
+      "wep": 6,
+      "bwep": 27,
       "win": false,
-      "kills": 91,
+      "kills": 238,
       "ultra": 0,
       "skills": [
         8,
         3,
-        25
+        6,
+        1
       ],
       "crown": 13,
       "version": 2616,
@@ -1065,6 +1066,30 @@
       "crown": 13,
       "version": 2616,
       "uid": "3P1tDhrqU0K5JPT",
+      "runId": 155800677
+    },
+    "66ncmRxvyA4876j": {
+      "name": "straekedition",
+      "char": 5,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 28,
+      "bwep": 50,
+      "win": false,
+      "kills": 181,
+      "ultra": 0,
+      "skills": [
+        2,
+        27,
+        14,
+        1,
+        17
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "66ncmRxvyA4876j",
       "runId": 155800677
     }
   }
