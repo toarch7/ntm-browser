@@ -250,18 +250,21 @@
       "name": "AlanCDP",
       "char": 5,
       "skin": false,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 6,
-      "bwep": 2,
+      "wep": 76,
+      "bwep": 12,
       "win": false,
-      "kills": 106,
+      "kills": 316,
       "ultra": 0,
       "skills": [
         8,
-        27,
-        25
+        6,
+        1,
+        10,
+        3,
+        28
       ],
       "crown": 13,
       "version": 2616,
@@ -1347,6 +1350,49 @@
       "crown": 13,
       "version": 2616,
       "uid": "L9mjy4hS6zkf8A0",
+      "runId": 155800677
+    },
+    "9381i64P901WAXw": {
+      "name": "Tanukichi",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 2,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        10,
+        2
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "9381i64P901WAXw",
+      "runId": 155800677
+    },
+    "aWF54o38x28133x": {
+      "name": "Exert",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 27,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        8,
+        2,
+        25
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "aWF54o38x28133x",
       "runId": 155800677
     }
   }

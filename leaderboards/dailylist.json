@@ -503,6 +503,45 @@
       "version": 2616,
       "uid": "ckSD2t2wYgR9J7N",
       "runId": 602484466
+    },
+    "aWF54o38x28133x": {
+      "name": "Exert",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 17,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        25,
+        6,
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aWF54o38x28133x",
+      "runId": 602484466
+    },
+    "9381i64P901WAXw": {
+      "name": "Tanukichi",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "9381i64P901WAXw",
+      "runId": 602484466
     }
   }
 }
