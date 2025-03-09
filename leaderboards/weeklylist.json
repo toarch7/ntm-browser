@@ -1116,6 +1116,52 @@
       "version": 2616,
       "uid": "XY7km771w11q8rv",
       "runId": 155800677
+    },
+    "9Q7wTupgOJm03t3": {
+      "name": "gt23",
+      "char": 5,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 83,
+      "win": false,
+      "kills": 378,
+      "ultra": 0,
+      "skills": [
+        27,
+        25,
+        8,
+        1,
+        10,
+        7,
+        13
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "9Q7wTupgOJm03t3",
+      "runId": 155800677
+    },
+    "9L2g103zcTG5u38": {
+      "name": "DEV_DONUT",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 27,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "9L2g103zcTG5u38",
+      "runId": 155800677
     }
   }
 }
