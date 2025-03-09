@@ -1394,6 +1394,56 @@
       "version": 2616,
       "uid": "aWF54o38x28133x",
       "runId": 155800677
+    },
+    "0D16823mFg2vTrJ": {
+      "name": "Слабейший",
+      "char": 5,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 47,
+      "win": false,
+      "kills": 180,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        6,
+        1,
+        10
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "0D16823mFg2vTrJ",
+      "runId": 155800677
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 12,
+      "bwep": 83,
+      "win": false,
+      "kills": 504,
+      "ultra": 2,
+      "skills": [
+        8,
+        27,
+        25,
+        1,
+        10,
+        7,
+        28
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 155800677
     }
   }
 }
