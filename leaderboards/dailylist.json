@@ -70,6 +70,45 @@
       "version": 2616,
       "uid": "Wq5hi79WLR11VL2",
       "runId": 602484466
+    },
+    "7AXX8m6OFLrE3zR": {
+      "name": "ОбамаЛох",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "7AXX8m6OFLrE3zR",
+      "runId": 602484466
+    },
+    "0xmz045qXLAdd99": {
+      "name": "weepingdevil",
+      "char": 15,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 13,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        22,
+        7,
+        25,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0xmz045qXLAdd99",
+      "runId": 602484466
     }
   }
 }
