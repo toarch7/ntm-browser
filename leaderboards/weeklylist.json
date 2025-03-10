@@ -138,19 +138,20 @@
       "name": "ультрапердун402",
       "char": 5,
       "skin": false,
-      "area": 4,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 13,
+      "wep": 2,
       "bwep": 3,
       "win": false,
-      "kills": 188,
+      "kills": 215,
       "ultra": 0,
       "skills": [
-        10,
         27,
         14,
-        1
+        1,
+        10,
+        6
       ],
       "crown": 13,
       "version": 2616,
@@ -1515,6 +1516,26 @@
       "crown": 13,
       "version": 2616,
       "uid": "0oGyoKfZo06LCjB",
+      "runId": 155800677
+    },
+    "B29m1sn37UpMVVZ": {
+      "name": "via_dolorosa",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 69,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "B29m1sn37UpMVVZ",
       "runId": 155800677
     }
   }
