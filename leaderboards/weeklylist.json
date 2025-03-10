@@ -1560,6 +1560,48 @@
       "version": 2616,
       "uid": "2663h5j1kv965PF",
       "runId": 155800677
+    },
+    "iObNy1ZE83FUkRi": {
+      "name": "Throneseeker4",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 6,
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        27,
+        14,
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "iObNy1ZE83FUkRi",
+      "runId": 155800677
+    },
+    "G3p97JVJnQIPHZq": {
+      "name": "ltp4",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 2,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "G3p97JVJnQIPHZq",
+      "runId": 155800677
     }
   }
 }
