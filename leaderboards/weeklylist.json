@@ -1470,6 +1470,52 @@
       "version": 2616,
       "uid": "00HdYo5vEM08ikN",
       "runId": 155800677
+    },
+    "95m99FcS8xSL7Ft": {
+      "name": "Neutro",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        8,
+        27
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "95m99FcS8xSL7Ft",
+      "runId": 155800677
+    },
+    "0oGyoKfZo06LCjB": {
+      "name": "squeaker",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 30,
+      "win": false,
+      "kills": 283,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        17,
+        3,
+        7,
+        10
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "0oGyoKfZo06LCjB",
+      "runId": 155800677
     }
   }
 }
