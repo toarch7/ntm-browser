@@ -1669,6 +1669,28 @@
       "version": 2616,
       "uid": "9jYNDG7ZYN4F99C",
       "runId": 155800677
+    },
+    "mzBOYTuI58634CA": {
+      "name": "ELIASTCRAFT",
+      "char": 5,
+      "skin": false,
+      "area": 105,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 5,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        3
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "mzBOYTuI58634CA",
+      "runId": 155800677
     }
   }
 }
