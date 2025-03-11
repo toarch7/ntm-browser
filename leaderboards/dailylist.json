@@ -83,6 +83,43 @@
       "version": 2616,
       "uid": "AUbSKKEMwY57s51",
       "runId": 810100081
+    },
+    "9jYNDG7ZYN4F99C": {
+      "name": "rading_nugget",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 0,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "9jYNDG7ZYN4F99C",
+      "runId": 810100081
+    },
+    "s01Rv2Hyku31eKo": {
+      "name": "Agoty666",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        3,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "s01Rv2Hyku31eKo",
+      "runId": 810100081
     }
   }
 }
