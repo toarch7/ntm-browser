@@ -1766,6 +1766,27 @@
       "version": 2616,
       "uid": "u2vXbYQ72oCQEr1",
       "runId": 155800677
+    },
+    "F36yOjxf9gRKFyE": {
+      "name": "BadEnglishPL",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 27,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        27,
+        25
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "F36yOjxf9gRKFyE",
+      "runId": 155800677
     }
   }
 }
