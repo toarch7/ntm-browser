@@ -209,6 +209,74 @@
       "version": 2616,
       "uid": "3Bq3YcM6wv2ap4H",
       "runId": 1790426585
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 88,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 1790426585
+    },
+    "opC2x8rRxMV8C46": {
+      "name": "Wildcard",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 69,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "opC2x8rRxMV8C46",
+      "runId": 1790426585
+    },
+    "HCTUk6KfGX9zyb6": {
+      "name": "Bomber_man",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 28,
+      "bwep": 90,
+      "win": false,
+      "kills": 648,
+      "ultra": 1,
+      "skills": [
+        10,
+        6,
+        17,
+        4,
+        3,
+        27,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HCTUk6KfGX9zyb6",
+      "runId": 1790426585
     }
   }
 }
