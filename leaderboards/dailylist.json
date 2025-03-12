@@ -525,6 +525,49 @@
       "version": 2616,
       "uid": "XwyBZ12875rtdb9",
       "runId": 1790426585
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 47,
+      "bwep": 116,
+      "win": false,
+      "kills": 503,
+      "ultra": 1,
+      "skills": [
+        1,
+        8,
+        25,
+        14,
+        24,
+        9,
+        7,
+        27
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 1790426585
+    },
+    "e3Jo4ABlKGl70rs": {
+      "name": "Seeker264.80",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "e3Jo4ABlKGl70rs",
+      "runId": 1790426585
     }
   }
 }
