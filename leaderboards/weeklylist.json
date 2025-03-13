@@ -227,6 +227,53 @@
       "version": 2616,
       "uid": "7a7U3SeW6v94RD6",
       "runId": 281753107
+    },
+    "HCTUk6KfGX9zyb6": {
+      "name": "Bomber_man",
+      "char": 5,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 35,
+      "bwep": 24,
+      "win": false,
+      "kills": 347,
+      "ultra": 2,
+      "skills": [
+        28,
+        7,
+        6,
+        27,
+        23,
+        13,
+        8
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "HCTUk6KfGX9zyb6",
+      "runId": 281753107
+    },
+    "y01T7u3YZ77Ycxi": {
+      "name": "S.W",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 6,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        28,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "y01T7u3YZ77Ycxi",
+      "runId": 281753107
     }
   }
 }
