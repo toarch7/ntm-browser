@@ -232,20 +232,21 @@
       "name": "Bomber_man",
       "char": 5,
       "skin": false,
-      "area": 0,
+      "area": 1,
       "subarea": 1,
       "loops": 1,
       "wep": 35,
-      "bwep": 24,
+      "bwep": 105,
       "win": false,
-      "kills": 347,
+      "kills": 437,
       "ultra": 2,
       "skills": [
         28,
         7,
-        6,
         27,
         23,
+        25,
+        4,
         13,
         8
       ],
@@ -273,6 +274,31 @@
       "crown": 10,
       "version": 2616,
       "uid": "y01T7u3YZ77Ycxi",
+      "runId": 281753107
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "VoideonLord",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 35,
+      "win": false,
+      "kills": 556,
+      "ultra": 1,
+      "skills": [
+        2,
+        7,
+        23,
+        9,
+        17,
+        22
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
       "runId": 281753107
     }
   }
