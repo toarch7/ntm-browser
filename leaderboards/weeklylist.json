@@ -484,6 +484,48 @@
       "version": 2616,
       "uid": "i8jXu9yUPBjv3yp",
       "runId": 281753107
+    },
+    "e3Jo4ABlKGl70rs": {
+      "name": "Seeker264.80",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 6,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        28,
+        7
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "e3Jo4ABlKGl70rs",
+      "runId": 281753107
+    },
+    "mzBOYTuI58634CA": {
+      "name": "ELIASTCRAFT",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 51,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        2,
+        3
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "mzBOYTuI58634CA",
+      "runId": 281753107
     }
   }
 }
