@@ -1,4 +1,47 @@
 {
   "seed": 281753107,
-  "entries": {}
+  "entries": {
+    "4y8N5raCdF3gcL4": {
+      "name": "Seeker89",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 51,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        2,
+        7
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "4y8N5raCdF3gcL4",
+      "runId": 281753107
+    },
+    "5e7Hxyw8lbpgfU8": {
+      "name": "RGB",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 2,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        28,
+        3
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "5e7Hxyw8lbpgfU8",
+      "runId": 281753107
+    }
+  }
 }
