@@ -1,4 +1,45 @@
 {
   "day": 15,
-  "entries": {}
+  "entries": {
+    "e3Jo4ABlKGl70rs": {
+      "name": "Seeker264.80",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "e3Jo4ABlKGl70rs",
+      "runId": 1089944876
+    },
+    "hw9wD27GtVe6r9w": {
+      "name": "hombert",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 20,
+      "win": false,
+      "kills": 174,
+      "ultra": 0,
+      "skills": [
+        3,
+        25,
+        8
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "hw9wD27GtVe6r9w",
+      "runId": 1089944876
+    }
+  }
 }
