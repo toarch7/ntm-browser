@@ -106,6 +106,65 @@
       "version": 2616,
       "uid": "aBrYq2bcSKE8mTl",
       "runId": 1089944876
+    },
+    "eoh9CxW1Z74Xz4q": {
+      "name": "Иса",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "eoh9CxW1Z74Xz4q",
+      "runId": 1089944876
+    },
+    "mGLyNhPc0182xQl": {
+      "name": "LemonBun",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 17,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        4,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mGLyNhPc0182xQl",
+      "runId": 1089944876
+    },
+    "HCTUk6KfGX9zyb6": {
+      "name": "Bomber_man",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 52,
+      "bwep": 75,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        4,
+        17,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HCTUk6KfGX9zyb6",
+      "runId": 1089944876
     }
   }
 }
