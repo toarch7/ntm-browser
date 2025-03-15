@@ -272,6 +272,48 @@
       "version": 2616,
       "uid": "0xmz045qXLAdd99",
       "runId": 1089944876
+    },
+    "uuG618z3fKffVMh": {
+      "name": "0",
+      "char": 3,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 5,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uuG618z3fKffVMh",
+      "runId": 1089944876
+    },
+    "cE47A80Cg40vI0K": {
+      "name": "magma",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 20,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        28
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "cE47A80Cg40vI0K",
+      "runId": 1089944876
     }
   }
 }
