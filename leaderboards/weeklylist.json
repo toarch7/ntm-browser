@@ -26,18 +26,21 @@
       "name": "RGB",
       "char": 5,
       "skin": false,
-      "area": 104,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 10,
-      "bwep": 9,
+      "wep": 20,
+      "bwep": 113,
       "win": false,
-      "kills": 166,
+      "kills": 232,
       "ultra": 0,
       "skills": [
         28,
-        4,
-        1
+        3,
+        7,
+        17,
+        23,
+        12
       ],
       "crown": 10,
       "version": 2616,
@@ -887,6 +890,48 @@
       "crown": 10,
       "version": 2616,
       "uid": "opC2x8rRxMV8C46",
+      "runId": 281753107
+    },
+    "3Bq3YcM6wv2ap4H": {
+      "name": "FAKE",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 51,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        2,
+        7
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "3Bq3YcM6wv2ap4H",
+      "runId": 281753107
+    },
+    "lqUfxSBMP5nRcPZ": {
+      "name": "happytube",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 66,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        21,
+        3
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "lqUfxSBMP5nRcPZ",
       "runId": 281753107
     }
   }
