@@ -845,6 +845,49 @@
       "version": 2616,
       "uid": "94XE1O4y12I8NfM",
       "runId": 281753107
+    },
+    "yWJ6vbQF7Dc3db0": {
+      "name": "SoulKepper",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 51,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        28,
+        7,
+        6
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "yWJ6vbQF7Dc3db0",
+      "runId": 281753107
+    },
+    "opC2x8rRxMV8C46": {
+      "name": "Wildcard",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 51,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        2,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "opC2x8rRxMV8C46",
+      "runId": 281753107
     }
   }
 }
