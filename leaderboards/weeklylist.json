@@ -1123,16 +1123,17 @@
       "char": 5,
       "skin": false,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 6,
-      "bwep": 51,
+      "wep": 20,
+      "bwep": 66,
       "win": false,
-      "kills": 84,
+      "kills": 146,
       "ultra": 0,
       "skills": [
         21,
-        7
+        4,
+        1
       ],
       "crown": 10,
       "version": 2616,
