@@ -275,6 +275,47 @@
       "version": 2616,
       "uid": "88vSpBULhQl2Vgc",
       "runId": 2087831175
+    },
+    "y01T7u3YZ77Ycxi": {
+      "name": "S.W",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 30,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        28,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "y01T7u3YZ77Ycxi",
+      "runId": 2087831175
+    },
+    "bdf6t6719BsHkON": {
+      "name": "gilbex",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 7,
+      "win": false,
+      "kills": 22,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bdf6t6719BsHkON",
+      "runId": 2087831175
     }
   }
 }
