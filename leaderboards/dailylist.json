@@ -414,6 +414,50 @@
       "version": 2616,
       "uid": "bdf6t6719BsHkON",
       "runId": 330948460
+    },
+    "ckSD2t2wYgR9J7N": {
+      "name": "Hy",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 72,
+      "bwep": 21,
+      "win": false,
+      "kills": 257,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        3,
+        10,
+        27
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "ckSD2t2wYgR9J7N",
+      "runId": 330948460
+    },
+    "0xmz045qXLAdd99": {
+      "name": "weepingdevil",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 3,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0xmz045qXLAdd99",
+      "runId": 330948460
     }
   }
 }
