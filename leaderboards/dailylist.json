@@ -223,6 +223,45 @@
       "version": 2616,
       "uid": "5lt0Z25sybR4vo0",
       "runId": 330948460
+    },
+    "vpBPRAcvTBl1U25": {
+      "name": "so1ch1k",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "vpBPRAcvTBl1U25",
+      "runId": 330948460
+    },
+    "wcw8p29P1BxW88g": {
+      "name": "Kira",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 50,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        21,
+        4,
+        27,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wcw8p29P1BxW88g",
+      "runId": 330948460
     }
   }
 }
