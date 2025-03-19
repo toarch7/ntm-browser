@@ -361,6 +361,56 @@
       "version": 2616,
       "uid": "9EkyKX48VdSH7VW",
       "runId": 1890625674
+    },
+    "JfO6hA52pnaHKqO": {
+      "name": "elpendejon",
+      "char": 11,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 113,
+      "win": false,
+      "kills": 343,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        22,
+        28,
+        27,
+        14,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "JfO6hA52pnaHKqO",
+      "runId": 1890625674
+    },
+    "HCTUk6KfGX9zyb6": {
+      "name": "Bomber_man",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 37,
+      "win": false,
+      "kills": 201,
+      "ultra": 0,
+      "skills": [
+        7,
+        13,
+        17,
+        4,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HCTUk6KfGX9zyb6",
+      "runId": 1890625674
     }
   }
 }
