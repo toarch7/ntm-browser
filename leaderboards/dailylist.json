@@ -183,6 +183,46 @@
       "version": 2616,
       "uid": "WhSJY2DcTM60yKX",
       "runId": 1890625674
+    },
+    "5e7Hxyw8lbpgfU8": {
+      "name": "RGB",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5e7Hxyw8lbpgfU8",
+      "runId": 1890625674
+    },
+    "TqP0kzADTfBSCIl": {
+      "name": "dima",
+      "char": 6,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "TqP0kzADTfBSCIl",
+      "runId": 1890625674
     }
   }
 }
