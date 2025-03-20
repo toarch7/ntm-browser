@@ -276,6 +276,59 @@
       "version": 2616,
       "uid": "KZgY3024p1Srfrz",
       "runId": 1723717101
+    },
+    "aBrYq2bcSKE8mTl": {
+      "name": "Scermitz",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 92,
+      "bwep": 35,
+      "win": false,
+      "kills": 1270,
+      "ultra": 2,
+      "skills": [
+        1,
+        4,
+        25,
+        23,
+        27,
+        13,
+        22,
+        3
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "aBrYq2bcSKE8mTl",
+      "runId": 1723717101
+    },
+    "JfO6hA52pnaHKqO": {
+      "name": "elpendejon",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 68,
+      "win": false,
+      "kills": 314,
+      "ultra": 0,
+      "skills": [
+        6,
+        25,
+        4,
+        27,
+        28,
+        10,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "JfO6hA52pnaHKqO",
+      "runId": 1723717101
     }
   }
 }
