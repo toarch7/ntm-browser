@@ -404,6 +404,43 @@
       "version": 2616,
       "uid": "8tqnu0fu1S92L42",
       "runId": 652144348
+    },
+    "1pg0055Q4SHZ44T": {
+      "name": "capsatsuckblood",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        12,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1pg0055Q4SHZ44T",
+      "runId": 652144348
+    },
+    "9b93cS95RuEmd7t": {
+      "name": "thronenuclear",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "9b93cS95RuEmd7t",
+      "runId": 652144348
     }
   }
 }
