@@ -513,6 +513,48 @@
       "version": 2616,
       "uid": "Aj8pcUvkuZy6yul",
       "runId": 1896703903
+    },
+    "5lt0Z25sybR4vo0": {
+      "name": "Willker",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "5lt0Z25sybR4vo0",
+      "runId": 1896703903
+    },
+    "8tqnu0fu1S92L42": {
+      "name": "Spooky",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 113,
+      "win": false,
+      "kills": 288,
+      "ultra": 0,
+      "skills": [
+        12,
+        8,
+        4,
+        21,
+        1,
+        7,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8tqnu0fu1S92L42",
+      "runId": 1896703903
     }
   }
 }
