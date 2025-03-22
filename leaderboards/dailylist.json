@@ -410,6 +410,50 @@
       "version": 2616,
       "uid": "Is5F2iVekK2V7O8",
       "runId": 1896703903
+    },
+    "3QHy1aoCWg083Cq": {
+      "name": "yoHel",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 15,
+      "bwep": 117,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        17,
+        8,
+        9,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3QHy1aoCWg083Cq",
+      "runId": 1896703903
+    },
+    "0Ipno9Td654DDAv": {
+      "name": "nys",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 69,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        12,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0Ipno9Td654DDAv",
+      "runId": 1896703903
     }
   }
 }
