@@ -501,6 +501,28 @@
       "version": 2616,
       "uid": "Y063TM4dy1422hJ",
       "runId": 162996905
+    },
+    "oRIX7V24M8F6M3D": {
+      "name": "Seeker",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 88,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        7,
+        16,
+        9
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "oRIX7V24M8F6M3D",
+      "runId": 162996905
     }
   }
 }
