@@ -132,6 +132,56 @@
       "version": 2616,
       "uid": "1rJ9L9292Pdr089",
       "runId": 1881756081
+    },
+    "HCTUk6KfGX9zyb6": {
+      "name": "Bomber_man",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 96,
+      "win": false,
+      "kills": 339,
+      "ultra": 0,
+      "skills": [
+        17,
+        27,
+        1,
+        13,
+        3,
+        23
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "HCTUk6KfGX9zyb6",
+      "runId": 1881756081
+    },
+    "wcw8p29P1BxW88g": {
+      "name": "Kira",
+      "char": 6,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 60,
+      "win": false,
+      "kills": 329,
+      "ultra": 0,
+      "skills": [
+        7,
+        27,
+        16,
+        23,
+        21,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wcw8p29P1BxW88g",
+      "runId": 1881756081
     }
   }
 }
