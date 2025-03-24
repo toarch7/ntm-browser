@@ -299,6 +299,80 @@
       "version": 2616,
       "uid": "9EkyKX48VdSH7VW",
       "runId": 1881756081
+    },
+    "16vZ0V3sFU1ffh0": {
+      "name": "daron",
+      "char": 1,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 60,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        1,
+        13,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "16vZ0V3sFU1ffh0",
+      "runId": 1881756081
+    },
+    "V40H2ZMBm50SB9L": {
+      "name": "Toxic",
+      "char": 7,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 10,
+      "win": false,
+      "kills": 244,
+      "ultra": 0,
+      "skills": [
+        7,
+        27,
+        1,
+        9,
+        23,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "V40H2ZMBm50SB9L",
+      "runId": 1881756081
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "1000THR",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 36,
+      "win": false,
+      "kills": 258,
+      "ultra": 0,
+      "skills": [
+        17,
+        10,
+        1,
+        9,
+        23,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
+      "runId": 1881756081
     }
   }
 }
