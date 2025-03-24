@@ -587,6 +587,54 @@
       "version": 2616,
       "uid": "4t572Cj60gZ5i9e",
       "runId": 162996905
+    },
+    "AI6iJjRkYwnAiAK": {
+      "name": "Kelvin",
+      "char": 8,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 9,
+      "win": false,
+      "kills": 288,
+      "ultra": 0,
+      "skills": [
+        16,
+        22,
+        9,
+        8,
+        1,
+        26
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "AI6iJjRkYwnAiAK",
+      "runId": 162996905
+    },
+    "8LvUnW87474e0m2": {
+      "name": "Sако.com",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 14,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        3,
+        25,
+        9,
+        24
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "8LvUnW87474e0m2",
+      "runId": 162996905
     }
   }
 }
