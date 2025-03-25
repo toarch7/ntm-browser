@@ -680,6 +680,29 @@
       "version": 2616,
       "uid": "RwSmFhfr4aUyjy4",
       "runId": 162996905
+    },
+    "G0h4eqEfSnruFK9": {
+      "name": "DarkenedStar",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 61,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        9,
+        8
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "G0h4eqEfSnruFK9",
+      "runId": 162996905
     }
   }
 }
