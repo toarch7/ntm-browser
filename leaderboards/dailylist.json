@@ -387,6 +387,51 @@
       "version": 2616,
       "uid": "GKco2O0HTm485N5",
       "runId": 1736843797
+    },
+    "hw9wD27GtVe6r9w": {
+      "name": "hombert",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 13,
+      "win": false,
+      "kills": 257,
+      "ultra": 0,
+      "skills": [
+        3,
+        10,
+        4,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "hw9wD27GtVe6r9w",
+      "runId": 1736843797
+    },
+    "OJVEZuWsdt5aQ4q": {
+      "name": "Seeker",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 8,
+      "win": false,
+      "kills": 146,
+      "ultra": 0,
+      "skills": [
+        8,
+        12,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OJVEZuWsdt5aQ4q",
+      "runId": 1736843797
     }
   }
 }
