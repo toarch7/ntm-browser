@@ -686,22 +686,42 @@
       "char": 8,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
       "wep": 14,
-      "bwep": 61,
+      "bwep": 76,
       "win": false,
-      "kills": 103,
+      "kills": 128,
       "ultra": 0,
       "skills": [
         7,
         25,
         9,
-        8
+        10
       ],
       "crown": 6,
       "version": 2616,
       "uid": "G0h4eqEfSnruFK9",
+      "runId": 162996905
+    },
+    "9L2g103zcTG5u38": {
+      "name": "DEV_DONUT",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 0,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "9L2g103zcTG5u38",
       "runId": 162996905
     }
   }
