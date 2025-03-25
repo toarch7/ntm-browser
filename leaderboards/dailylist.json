@@ -63,6 +63,49 @@
       "version": 2616,
       "uid": "W25BjBz4SWfb8m1",
       "runId": 1736843797
+    },
+    "9L2g103zcTG5u38": {
+      "name": "DEV_DONUT",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 39,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9L2g103zcTG5u38",
+      "runId": 1736843797
+    },
+    "U64t7305641Cbar": {
+      "name": "eclipnote",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 60,
+      "bwep": 24,
+      "win": false,
+      "kills": 714,
+      "ultra": 1,
+      "skills": [
+        8,
+        12,
+        4,
+        17,
+        13,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "U64t7305641Cbar",
+      "runId": 1736843797
     }
   }
 }
