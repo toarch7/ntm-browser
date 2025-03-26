@@ -93,6 +93,53 @@
       "version": 2616,
       "uid": "ZcPf8r7gi20UY56",
       "runId": 750061325
+    },
+    "aBrYq2bcSKE8mTl": {
+      "name": "Scermitz",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 33,
+      "bwep": 26,
+      "win": false,
+      "kills": 1043,
+      "ultra": 3,
+      "skills": [
+        7,
+        27,
+        25,
+        4,
+        1,
+        23,
+        12
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "aBrYq2bcSKE8mTl",
+      "runId": 750061325
+    },
+    "3R11BJXMpb4Zy80": {
+      "name": "Ark",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 71,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        9,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3R11BJXMpb4Zy80",
+      "runId": 750061325
     }
   }
 }
