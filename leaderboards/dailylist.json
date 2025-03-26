@@ -140,6 +140,45 @@
       "version": 2616,
       "uid": "3R11BJXMpb4Zy80",
       "runId": 750061325
+    },
+    "7p3Fi9VErzI1K0V": {
+      "name": "Kiodide",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7p3Fi9VErzI1K0V",
+      "runId": 750061325
+    },
+    "9L2g103zcTG5u38": {
+      "name": "DEV_DONUT",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        19,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9L2g103zcTG5u38",
+      "runId": 750061325
     }
   }
 }
