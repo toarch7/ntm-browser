@@ -235,6 +235,45 @@
       "version": 2616,
       "uid": "9P8BCCDQYLNv806",
       "runId": 1303928179
+    },
+    "9TO0oNJLQfUNbQT": {
+      "name": "bea",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9TO0oNJLQfUNbQT",
+      "runId": 1303928179
+    },
+    "V40H2ZMBm50SB9L": {
+      "name": "Toxic",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 20,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        3,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "V40H2ZMBm50SB9L",
+      "runId": 1303928179
     }
   }
 }
