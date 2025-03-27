@@ -1,4 +1,28 @@
 {
   "seed": 2098805880,
-  "entries": {}
+  "entries": {
+    "EZ6Y8Jpa1l49gtu": {
+      "name": "Seeker90",
+      "char": 12,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 92,
+      "bwep": 16,
+      "win": false,
+      "kills": 307,
+      "ultra": 0,
+      "skills": [
+        27,
+        7,
+        4,
+        23
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "EZ6Y8Jpa1l49gtu",
+      "runId": 2098805880
+    }
+  }
 }
