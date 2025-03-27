@@ -292,6 +292,44 @@
       "version": 2616,
       "uid": "cPWqHp1iuKGheDp",
       "runId": 1303928179
+    },
+    "0N2Mj6e3Wqc8rse": {
+      "name": "ijrojas123",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 33,
+      "crown": 1,
+      "version": 2616,
+      "uid": "0N2Mj6e3Wqc8rse",
+      "runId": 1303928179
+    },
+    "8tqnu0fu1S92L42": {
+      "name": "Spooky",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 8,
+      "win": false,
+      "kills": 154,
+      "ultra": 0,
+      "skills": [
+        3,
+        10,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8tqnu0fu1S92L42",
+      "runId": 1303928179
     }
   }
 }
