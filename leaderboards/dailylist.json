@@ -296,6 +296,42 @@
       "version": 2616,
       "uid": "G37Fx6kMs7NT00t",
       "runId": 574914157
+    },
+    "990K0Xm830XTsx2": {
+      "name": "Slayer",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "990K0Xm830XTsx2",
+      "runId": 574914157
+    },
+    "h1U1dg3Bp50iw45": {
+      "name": "Max",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "h1U1dg3Bp50iw45",
+      "runId": 574914157
     }
   }
 }
