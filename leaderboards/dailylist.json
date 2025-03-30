@@ -1,4 +1,84 @@
 {
   "day": 30,
-  "entries": {}
+  "entries": {
+    "Ut40yeFbIRCkUA6": {
+      "name": "CJWATON",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ut40yeFbIRCkUA6",
+      "runId": 1281306479
+    },
+    "CW70744WBWL302O": {
+      "name": "jirobi",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 18,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CW70744WBWL302O",
+      "runId": 1281306479
+    },
+    "e3Jo4ABlKGl70rs": {
+      "name": "Elfornikiador11",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "e3Jo4ABlKGl70rs",
+      "runId": 1281306479
+    },
+    "Tke2znHtHEQJOt5": {
+      "name": "malum",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        9,
+        10,
+        28,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Tke2znHtHEQJOt5",
+      "runId": 1281306479
+    }
+  }
 }
