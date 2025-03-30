@@ -162,6 +162,53 @@
       "version": 2616,
       "uid": "9L2g103zcTG5u38",
       "runId": 1281306479
+    },
+    "OJVEZuWsdt5aQ4q": {
+      "name": "Seeker",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 12,
+      "win": false,
+      "kills": 254,
+      "ultra": 0,
+      "skills": [
+        7,
+        3,
+        12,
+        8,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OJVEZuWsdt5aQ4q",
+      "runId": 1281306479
+    },
+    "eFm04KEjs94NcFq": {
+      "name": "ElLo",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 30,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        7,
+        10,
+        28,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "eFm04KEjs94NcFq",
+      "runId": 1281306479
     }
   }
 }
