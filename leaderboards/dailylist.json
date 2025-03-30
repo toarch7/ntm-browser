@@ -209,6 +209,49 @@
       "version": 2616,
       "uid": "eFm04KEjs94NcFq",
       "runId": 1281306479
+    },
+    "nav0uFZXshKu675": {
+      "name": "newkos",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "nav0uFZXshKu675",
+      "runId": 1281306479
+    },
+    "JfO6hA52pnaHKqO": {
+      "name": "elpendejon",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 12,
+      "win": false,
+      "kills": 181,
+      "ultra": 0,
+      "skills": [
+        9,
+        10,
+        25,
+        1
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "JfO6hA52pnaHKqO",
+      "runId": 1281306479
     }
   }
 }
