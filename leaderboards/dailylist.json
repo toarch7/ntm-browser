@@ -264,6 +264,45 @@
       "version": 2616,
       "uid": "7Act526BQc5Qs0g",
       "runId": 231349235
+    },
+    "c1J6Y2Pe0dd3p9b": {
+      "name": "пингвин",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        8,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "c1J6Y2Pe0dd3p9b",
+      "runId": 231349235
+    },
+    "75j7iMFy0AJG68o": {
+      "name": "Danilix_.",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 39,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "75j7iMFy0AJG68o",
+      "runId": 231349235
     }
   }
 }
