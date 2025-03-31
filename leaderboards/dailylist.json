@@ -1,4 +1,41 @@
 {
   "day": 31,
-  "entries": {}
+  "entries": {
+    "i77B8iGtPaIEUuw": {
+      "name": "Vi0laP3rr0s",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "i77B8iGtPaIEUuw",
+      "runId": 231349235
+    },
+    "Ut40yeFbIRCkUA6": {
+      "name": "CJWATON",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ut40yeFbIRCkUA6",
+      "runId": 231349235
+    }
+  }
 }
