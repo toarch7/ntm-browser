@@ -1,4 +1,65 @@
 {
   "day": 1,
-  "entries": {}
+  "entries": {
+    "6vr6G4V8NFt15eB": {
+      "name": "Danirun",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 7,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6vr6G4V8NFt15eB",
+      "runId": 1917950145
+    },
+    "f3epTGx348x8hVF": {
+      "name": "101st",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f3epTGx348x8hVF",
+      "runId": 1917950145
+    },
+    "yrr93eb9MoURQCM": {
+      "name": "Jacob333",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 69,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "yrr93eb9MoURQCM",
+      "runId": 1917950145
+    }
+  }
 }
