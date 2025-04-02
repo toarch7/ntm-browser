@@ -227,18 +227,21 @@
       "name": "Madrid.x55",
       "char": 12,
       "skin": false,
-      "area": 3,
-      "subarea": 2,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 72,
-      "bwep": 13,
+      "wep": 88,
+      "bwep": 75,
       "win": false,
-      "kills": 209,
+      "kills": 210,
       "ultra": 0,
       "skills": [
         28,
         8,
-        4
+        4,
+        1,
+        25,
+        9
       ],
       "crown": 7,
       "version": 2616,
@@ -264,6 +267,49 @@
       "crown": 7,
       "version": 2616,
       "uid": "5TeFSXVp2gN41W2",
+      "runId": 2098805880
+    },
+    "YZ13k157XQNIXZ5": {
+      "name": "eclipselunar3",
+      "char": 12,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 92,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "YZ13k157XQNIXZ5",
+      "runId": 2098805880
+    },
+    "uuG618z3fKffVMh": {
+      "name": "0",
+      "char": 12,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 34,
+      "win": false,
+      "kills": 221,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        3,
+        23
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "uuG618z3fKffVMh",
       "runId": 2098805880
     }
   }
