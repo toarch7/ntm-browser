@@ -201,6 +201,54 @@
       "version": 2616,
       "uid": "A0w8YZr6wk5I7sj",
       "runId": 29724520
+    },
+    "9L2g103zcTG5u38": {
+      "name": "DEV_DONUT",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 13,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        16,
+        3,
+        14,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9L2g103zcTG5u38",
+      "runId": 29724520
+    },
+    "C5NK0x36H7C06FF": {
+      "name": "Соплежуй",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 25,
+      "bwep": 70,
+      "win": false,
+      "kills": 241,
+      "ultra": 0,
+      "skills": [
+        9,
+        3,
+        27,
+        10,
+        4,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "C5NK0x36H7C06FF",
+      "runId": 29724520
     }
   }
 }
