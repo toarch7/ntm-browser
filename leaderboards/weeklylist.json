@@ -1,4 +1,80 @@
 {
   "seed": 29724520,
-  "entries": {}
+  "entries": {
+    "EZ6Y8Jpa1l49gtu": {
+      "name": "Seeker90",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 23,
+      "bwep": 107,
+      "win": false,
+      "kills": 281,
+      "ultra": 0,
+      "skills": [
+        9,
+        3,
+        27,
+        22,
+        4,
+        7,
+        23,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EZ6Y8Jpa1l49gtu",
+      "runId": 29724520
+    },
+    "OG6oUWfDQdLREP4": {
+      "name": "abusamadresjone",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 25,
+      "bwep": 9,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        16,
+        24,
+        23,
+        10,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
+      "runId": 29724520
+    },
+    "xMmYMoQ6e57Wq2W": {
+      "name": "ihtbasm",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 25,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        16,
+        3,
+        14,
+        10,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xMmYMoQ6e57Wq2W",
+      "runId": 29724520
+    }
+  }
 }
