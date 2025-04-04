@@ -586,21 +586,47 @@
       "name": "lancy890",
       "char": 5,
       "skin": false,
-      "area": 2,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
+      "wep": 66,
       "bwep": 25,
       "win": false,
-      "kills": 56,
+      "kills": 312,
       "ultra": 0,
       "skills": [
         26,
-        24
+        9,
+        23,
+        2,
+        7,
+        12
       ],
       "crown": 1,
       "version": 2616,
       "uid": "t5qJV6XzujRQ6MV",
+      "runId": 29724520
+    },
+    "3Bq3YcM6wv2ap4H": {
+      "name": "FAKE",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 25,
+      "bwep": 62,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        9,
+        3,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3Bq3YcM6wv2ap4H",
       "runId": 29724520
     }
   }
