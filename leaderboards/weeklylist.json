@@ -913,6 +913,49 @@
       "version": 2616,
       "uid": "16asEwA35C2q3ZD",
       "runId": 29724520
+    },
+    "0x7hFdP71a11un2": {
+      "name": "iso_042aze",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 8,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        3,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0x7hFdP71a11un2",
+      "runId": 29724520
+    },
+    "mOnI97vyav77CsE": {
+      "name": "See",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 25,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        9,
+        16,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mOnI97vyav77CsE",
+      "runId": 29724520
     }
   }
 }
