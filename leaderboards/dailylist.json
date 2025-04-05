@@ -1,4 +1,48 @@
 {
   "day": 5,
-  "entries": {}
+  "entries": {
+    "yytn63XZKB6yYds": {
+      "name": "GH0$T2OO7",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "yytn63XZKB6yYds",
+      "runId": 1115883265
+    },
+    "bdb14YjzN3x9ECz": {
+      "name": "Rispolo",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bdb14YjzN3x9ECz",
+      "runId": 1115883265
+    }
+  }
 }
