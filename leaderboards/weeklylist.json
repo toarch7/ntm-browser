@@ -693,17 +693,19 @@
       "name": "nicolaaas",
       "char": 5,
       "skin": false,
-      "area": 2,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 17,
+      "wep": 9,
       "bwep": 25,
       "win": false,
-      "kills": 59,
+      "kills": 192,
       "ultra": 0,
       "skills": [
         3,
-        27
+        27,
+        10,
+        7
       ],
       "crown": 1,
       "version": 2616,
