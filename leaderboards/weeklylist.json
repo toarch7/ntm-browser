@@ -847,6 +847,49 @@
       "version": 2616,
       "uid": "43QAEjcSg6AFqUS",
       "runId": 29724520
+    },
+    "cPWqHp1iuKGheDp": {
+      "name": "Xanny",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 25,
+      "bwep": 17,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        3,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cPWqHp1iuKGheDp",
+      "runId": 29724520
+    },
+    "Pt2Q60770EkCpBZ": {
+      "name": "DARKSALA",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 25,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        9,
+        17,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Pt2Q60770EkCpBZ",
+      "runId": 29724520
     }
   }
 }
