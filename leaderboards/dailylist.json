@@ -1,4 +1,26 @@
 {
   "day": 8,
-  "entries": {}
+  "entries": {
+    "DS258022CN4SkrD": {
+      "name": "Alamo",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        10,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "DS258022CN4SkrD",
+      "runId": 629608929
+    }
+  }
 }
