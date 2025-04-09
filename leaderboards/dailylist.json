@@ -63,6 +63,97 @@
       "version": 2616,
       "uid": "W36AYDnfg5H5mwJ",
       "runId": 1587125527
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 4,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        23,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 1587125527
+    },
+    "s01Rv2Hyku31eKo": {
+      "name": "Agoty666",
+      "char": 8,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 60,
+      "bwep": 55,
+      "win": false,
+      "kills": 356,
+      "ultra": 1,
+      "skills": [
+        4,
+        1,
+        23,
+        9,
+        13,
+        25,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "s01Rv2Hyku31eKo",
+      "runId": 1587125527
+    },
+    "9L2g103zcTG5u38": {
+      "name": "DEV_DONUT",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 39,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        4,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9L2g103zcTG5u38",
+      "runId": 1587125527
+    },
+    "0xmz045qXLAdd99": {
+      "name": "weepingdevil",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 61,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        12,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0xmz045qXLAdd99",
+      "runId": 1587125527
     }
   }
 }
