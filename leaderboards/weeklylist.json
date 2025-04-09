@@ -1529,6 +1529,46 @@
       "version": 2616,
       "uid": "1MR6a6o890Kfx32",
       "runId": 29724520
+    },
+    "HDzIZwtei0eq6Gz": {
+      "name": "dust",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 25,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HDzIZwtei0eq6Gz",
+      "runId": 29724520
+    },
+    "buf55I20R944RQq": {
+      "name": "ASESINO",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 25,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "buf55I20R944RQq",
+      "runId": 29724520
     }
   }
 }
