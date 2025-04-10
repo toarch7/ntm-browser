@@ -220,17 +220,18 @@
       "name": "Kelvin",
       "char": 8,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 2,
       "loops": 0,
-      "wep": 62,
-      "bwep": 88,
+      "wep": 13,
+      "bwep": 91,
       "win": false,
-      "kills": 152,
+      "kills": 244,
       "ultra": 0,
       "skills": [
         22,
-        9
+        9,
+        13
       ],
       "crown": 10,
       "version": 2616,
