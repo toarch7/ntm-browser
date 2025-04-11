@@ -56,6 +56,42 @@
       "version": 2616,
       "uid": "16asEwA35C2q3ZD",
       "runId": 1655282793
+    },
+    "x91r1RkqydZU52i": {
+      "name": "Robo4016",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 15,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "x91r1RkqydZU52i",
+      "runId": 1655282793
+    },
+    "M7BCl4nl338d6pp": {
+      "name": "Lpknight",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "M7BCl4nl338d6pp",
+      "runId": 1655282793
     }
   }
 }
