@@ -28,17 +28,18 @@
       "name": "Maiki!",
       "char": 8,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 13,
-      "bwep": 10,
+      "wep": 75,
+      "bwep": 0,
       "win": false,
-      "kills": 75,
+      "kills": 143,
       "ultra": 0,
       "skills": [
         23,
-        3
+        3,
+        22
       ],
       "crown": 10,
       "version": 2616,
@@ -307,6 +308,28 @@
       "crown": 10,
       "version": 2616,
       "uid": "0xmz045qXLAdd99",
+      "runId": 1693422739
+    },
+    "Fw8c34cknmEBkEI": {
+      "name": "mmlo",
+      "char": 8,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 9,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        8,
+        19,
+        10
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "Fw8c34cknmEBkEI",
       "runId": 1693422739
     }
   }
