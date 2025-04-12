@@ -233,6 +233,48 @@
       "version": 2616,
       "uid": "5O16m6T7PbwSku9",
       "runId": 1182523919
+    },
+    "9L2g103zcTG5u38": {
+      "name": "DEV_DONUT",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 39,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        7,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9L2g103zcTG5u38",
+      "runId": 1182523919
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        27,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 1182523919
     }
   }
 }
