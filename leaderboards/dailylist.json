@@ -275,6 +275,52 @@
       "version": 2616,
       "uid": "c07luZTdz4Tt34E",
       "runId": 1182523919
+    },
+    "wcw8p29P1BxW88g": {
+      "name": "Kira",
+      "char": 10,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 89,
+      "bwep": 59,
+      "win": false,
+      "kills": 316,
+      "ultra": 2,
+      "skills": [
+        7,
+        23,
+        22,
+        27,
+        17,
+        16,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wcw8p29P1BxW88g",
+      "runId": 1182523919
+    },
+    "2022xqq9UQvmhMz": {
+      "name": "Dymitrius",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 16,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2022xqq9UQvmhMz",
+      "runId": 1182523919
     }
   }
 }
