@@ -405,6 +405,48 @@
       "version": 2616,
       "uid": "B59hu1KAQeHsizB",
       "runId": 1182523919
+    },
+    "yWJ6vbQF7Dc3db0": {
+      "name": "SoulKepper",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 27,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "yWJ6vbQF7Dc3db0",
+      "runId": 1182523919
+    },
+    "h1U1dg3Bp50iw45": {
+      "name": "Max",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 17,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h1U1dg3Bp50iw45",
+      "runId": 1182523919
     }
   }
 }
