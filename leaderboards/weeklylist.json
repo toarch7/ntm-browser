@@ -581,6 +581,50 @@
       "version": 2616,
       "uid": "L9mjy4hS6zkf8A0",
       "runId": 1693422739
+    },
+    "717n7YHK1wnjG2K": {
+      "name": "Shan",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 13,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        4,
+        22
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "717n7YHK1wnjG2K",
+      "runId": 1693422739
+    },
+    "xUh409VehuY6n9y": {
+      "name": "gaela",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 0,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        22,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "xUh409VehuY6n9y",
+      "runId": 1693422739
     }
   }
 }
