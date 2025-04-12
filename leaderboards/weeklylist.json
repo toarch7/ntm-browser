@@ -673,22 +673,48 @@
       "name": "David",
       "char": 8,
       "skin": true,
-      "area": 2,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 75,
-      "bwep": 13,
+      "wep": 13,
+      "bwep": 22,
       "win": false,
-      "kills": 69,
+      "kills": 267,
       "ultra": 0,
       "skills": [
         23,
         22,
-        9
+        9,
+        10,
+        13,
+        24
       ],
       "crown": 10,
       "version": 2616,
       "uid": "02dlUAMl8M41n61",
+      "runId": 1693422739
+    },
+    "8LvUnW87474e0m2": {
+      "name": "Sако.com",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 13,
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        23,
+        8,
+        9,
+        14
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "8LvUnW87474e0m2",
       "runId": 1693422739
     }
   }
