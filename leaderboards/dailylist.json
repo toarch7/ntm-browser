@@ -118,6 +118,91 @@
       "version": 2616,
       "uid": "5SFCLAy1ghQ9E7e",
       "runId": 445130629
+    },
+    "J1310A51338h9Tx": {
+      "name": "FROGETIQ",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 13,
+      "win": false,
+      "kills": 285,
+      "ultra": 0,
+      "skills": [
+        9,
+        21,
+        14,
+        8,
+        1,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J1310A51338h9Tx",
+      "runId": 445130629
+    },
+    "HJ7G87oXRypnPMd": {
+      "name": "1000THR",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 17,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        28,
+        21,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HJ7G87oXRypnPMd",
+      "runId": 445130629
+    },
+    "4JAn8d4aQoJI4Od": {
+      "name": "dmblk",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 31,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        26,
+        28,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4JAn8d4aQoJI4Od",
+      "runId": 445130629
+    },
+    "45Zy8eV2O1J5X10": {
+      "name": "Cantonero",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "45Zy8eV2O1J5X10",
+      "runId": 445130629
     }
   }
 }
