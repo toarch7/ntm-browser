@@ -610,17 +610,22 @@
       "name": "gaela",
       "char": 8,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 13,
+      "wep": 91,
       "bwep": 0,
       "win": false,
-      "kills": 86,
+      "kills": 279,
       "ultra": 0,
       "skills": [
+        23,
         22,
-        9
+        9,
+        14,
+        27,
+        28,
+        3
       ],
       "crown": 10,
       "version": 2616,
@@ -659,11 +664,11 @@
       "wep": 13,
       "bwep": 72,
       "win": false,
-      "kills": 91,
+      "kills": 112,
       "ultra": 0,
       "skills": [
         8,
-        9
+        10
       ],
       "crown": 10,
       "version": 2616,
@@ -1073,6 +1078,54 @@
       "crown": 10,
       "version": 2616,
       "uid": "23qMNVFxOgW28dk",
+      "runId": 1693422739
+    },
+    "Pmdlp44MK7PdWW1": {
+      "name": "elpendejo",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 0,
+      "win": false,
+      "kills": 263,
+      "ultra": 0,
+      "skills": [
+        3,
+        9,
+        23,
+        22,
+        14,
+        1
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "Pmdlp44MK7PdWW1",
+      "runId": 1693422739
+    },
+    "A0w8YZr6wk5I7sj": {
+      "name": "Abstralic",
+      "char": 8,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 13,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        9,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "A0w8YZr6wk5I7sj",
       "runId": 1693422739
     }
   }
