@@ -360,20 +360,21 @@
       "name": "Lpknight",
       "char": 8,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 1,
       "loops": 0,
-      "wep": 22,
-      "bwep": 88,
+      "wep": 13,
+      "bwep": 11,
       "win": false,
-      "kills": 254,
+      "kills": 281,
       "ultra": 0,
       "skills": [
         23,
         8,
         9,
         14,
-        13
+        13,
+        22
       ],
       "crown": 10,
       "version": 2616,
@@ -999,6 +1000,32 @@
       "crown": 10,
       "version": 2616,
       "uid": "4GO416cYDkqPYkR",
+      "runId": 1693422739
+    },
+    "4XR5yN7dEN64F81": {
+      "name": "Адепт",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 0,
+      "win": false,
+      "kills": 313,
+      "ultra": 0,
+      "skills": [
+        23,
+        8,
+        9,
+        14,
+        13,
+        26,
+        27
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "4XR5yN7dEN64F81",
       "runId": 1693422739
     }
   }
