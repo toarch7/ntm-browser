@@ -117,17 +117,19 @@
       "name": "Jimmyl",
       "char": 8,
       "skin": true,
-      "area": 2,
+      "area": 103,
       "subarea": 1,
       "loops": 0,
       "wep": 13,
-      "bwep": 0,
+      "bwep": 16,
       "win": false,
-      "kills": 115,
+      "kills": 144,
       "ultra": 0,
       "skills": [
+        23,
         8,
-        9
+        16,
+        14
       ],
       "crown": 10,
       "version": 2616,
