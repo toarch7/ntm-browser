@@ -276,6 +276,80 @@
       "version": 2616,
       "uid": "9EkyKX48VdSH7VW",
       "runId": 2134853923
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 89,
+      "bwep": 35,
+      "win": false,
+      "kills": 492,
+      "ultra": 1,
+      "skills": [
+        10,
+        7,
+        25,
+        22,
+        8,
+        1,
+        9,
+        23,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
+      "runId": 2134853923
+    },
+    "9L2g103zcTG5u38": {
+      "name": "DEV_DONUT",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 219,
+      "ultra": 0,
+      "skills": [
+        14,
+        7,
+        8,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9L2g103zcTG5u38",
+      "runId": 2134853923
+    },
+    "51jTc2y2p63icka": {
+      "name": "Lancer",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 14,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        17,
+        3
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "51jTc2y2p63icka",
+      "runId": 2134853923
     }
   }
 }
