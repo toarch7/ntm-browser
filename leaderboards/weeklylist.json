@@ -658,17 +658,20 @@
       "name": "Seeker39",
       "char": 8,
       "skin": true,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 13,
-      "bwep": 72,
+      "wep": 66,
+      "bwep": 70,
       "win": false,
-      "kills": 112,
+      "kills": 262,
       "ultra": 0,
       "skills": [
+        23,
         8,
-        10
+        10,
+        24,
+        14
       ],
       "crown": 10,
       "version": 2616,
@@ -1150,6 +1153,28 @@
       "crown": 10,
       "version": 2616,
       "uid": "16vZ0V3sFU1ffh0",
+      "runId": 1693422739
+    },
+    "Xf0O7tb3KGz2t28": {
+      "name": "Seeke😍",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 5,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        23,
+        8,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "Xf0O7tb3KGz2t28",
       "runId": 1693422739
     }
   }
