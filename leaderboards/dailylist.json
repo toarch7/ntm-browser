@@ -1,4 +1,47 @@
 {
   "day": 16,
-  "entries": {}
+  "entries": {
+    "Z96m9O8w4tG8qs0": {
+      "name": "EnemySovonoK",
+      "char": 8,
+      "skin": true,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 0,
+      "win": false,
+      "kills": 22,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Z96m9O8w4tG8qs0",
+      "runId": 1437407361
+    },
+    "b70RLSd27T5G7IQ": {
+      "name": "zay",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        8,
+        28,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "b70RLSd27T5G7IQ",
+      "runId": 1437407361
+    }
+  }
 }
