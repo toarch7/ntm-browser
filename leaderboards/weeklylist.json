@@ -1205,17 +1205,17 @@
       "char": 8,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 9,
-      "bwep": 23,
+      "wep": 17,
+      "bwep": 13,
       "win": false,
-      "kills": 91,
+      "kills": 162,
       "ultra": 0,
       "skills": [
-        25,
+        22,
         9,
-        4
+        10
       ],
       "crown": 10,
       "version": 2616,
@@ -1285,6 +1285,28 @@
       "crown": 10,
       "version": 2616,
       "uid": "yWJ6vbQF7Dc3db0",
+      "runId": 1693422739
+    },
+    "sbQghkw5s2IftXE": {
+      "name": "jimmyl",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 88,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        23,
+        8,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "sbQghkw5s2IftXE",
       "runId": 1693422739
     }
   }
