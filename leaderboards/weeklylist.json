@@ -1,4 +1,70 @@
 {
   "seed": 1539866504,
-  "entries": {}
+  "entries": {
+    "080u4SqFBlda904": {
+      "name": "Rambo",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 2,
+      "win": false,
+      "kills": 185,
+      "ultra": 0,
+      "skills": [
+        28,
+        14,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "080u4SqFBlda904",
+      "runId": 1539866504
+    },
+    "5O16m6T7PbwSku9": {
+      "name": "WaluigiDIE",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 26,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        23,
+        13
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "5O16m6T7PbwSku9",
+      "runId": 1539866504
+    },
+    "16vZ0V3sFU1ffh0": {
+      "name": "daron",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 9,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        28,
+        13,
+        8
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "16vZ0V3sFU1ffh0",
+      "runId": 1539866504
+    }
+  }
 }
