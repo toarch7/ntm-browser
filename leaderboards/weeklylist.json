@@ -507,6 +507,56 @@
       "version": 2616,
       "uid": "buf55I20R944RQq",
       "runId": 1539866504
+    },
+    "4JAn8d4aQoJI4Od": {
+      "name": "dmblk",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 72,
+      "win": false,
+      "kills": 190,
+      "ultra": 0,
+      "skills": [
+        8,
+        16,
+        22,
+        2,
+        1,
+        9,
+        19
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "4JAn8d4aQoJI4Od",
+      "runId": 1539866504
+    },
+    "hw9wD27GtVe6r9w": {
+      "name": "hombert",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 13,
+      "win": false,
+      "kills": 255,
+      "ultra": 0,
+      "skills": [
+        28,
+        23,
+        1,
+        9,
+        19
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "hw9wD27GtVe6r9w",
+      "runId": 1539866504
     }
   }
 }
