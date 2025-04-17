@@ -1,4 +1,42 @@
 {
   "day": 17,
-  "entries": {}
+  "entries": {
+    "Z8oDQHzYYX5a2Ko": {
+      "name": "Seeker17",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 19,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Z8oDQHzYYX5a2Ko",
+      "runId": 585513152
+    },
+    "4JAn8d4aQoJI4Od": {
+      "name": "dmblk",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 5,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        4,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4JAn8d4aQoJI4Od",
+      "runId": 585513152
+    }
+  }
 }
