@@ -151,6 +151,46 @@
       "version": 2616,
       "uid": "J1310A51338h9Tx",
       "runId": 585513152
+    },
+    "P1ker263J3xeLp1": {
+      "name": "Jack",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "P1ker263J3xeLp1",
+      "runId": 585513152
+    },
+    "KWKKzZjN54S8szP": {
+      "name": "S",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "KWKKzZjN54S8szP",
+      "runId": 585513152
     }
   }
 }
