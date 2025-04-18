@@ -658,18 +658,19 @@
       "name": "nicolaaas",
       "char": 6,
       "skin": false,
-      "area": 104,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
       "wep": 26,
-      "bwep": 50,
+      "bwep": 12,
       "win": false,
-      "kills": 143,
+      "kills": 199,
       "ultra": 0,
       "skills": [
         8,
         10,
         14,
+        26,
         1
       ],
       "crown": 5,
@@ -788,6 +789,29 @@
       "crown": 5,
       "version": 2616,
       "uid": "dgwaFELz35C5ry9",
+      "runId": 1539866504
+    },
+    "xUh409VehuY6n9y": {
+      "name": "gaela",
+      "char": 6,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 26,
+      "win": false,
+      "kills": 160,
+      "ultra": 0,
+      "skills": [
+        8,
+        16,
+        14,
+        10
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "xUh409VehuY6n9y",
       "runId": 1539866504
     }
   }
