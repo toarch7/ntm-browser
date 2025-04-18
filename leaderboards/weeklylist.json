@@ -813,6 +813,50 @@
       "version": 2616,
       "uid": "xUh409VehuY6n9y",
       "runId": 1539866504
+    },
+    "7f1yikTtvFh13C2": {
+      "name": "Skeletonking",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 23,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        28,
+        14
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "7f1yikTtvFh13C2",
+      "runId": 1539866504
+    },
+    "zIpMjkLEZOB036P": {
+      "name": "BrMan",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 26,
+      "win": false,
+      "kills": 187,
+      "ultra": 0,
+      "skills": [
+        8,
+        16,
+        22,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "zIpMjkLEZOB036P",
+      "runId": 1539866504
     }
   }
 }
