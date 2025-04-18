@@ -147,15 +147,16 @@
       "subarea": 3,
       "loops": 0,
       "wep": 26,
-      "bwep": 3,
+      "bwep": 12,
       "win": false,
-      "kills": 227,
+      "kills": 231,
       "ultra": 0,
       "skills": [
+        8,
         16,
         13,
-        8,
         2,
+        10,
         23
       ],
       "crown": 5,
@@ -765,6 +766,28 @@
       "crown": 5,
       "version": 2616,
       "uid": "316b58ln7rGlhw6",
+      "runId": 1539866504
+    },
+    "dgwaFELz35C5ry9": {
+      "name": "Помогитеблять",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 80,
+      "win": false,
+      "kills": 165,
+      "ultra": 0,
+      "skills": [
+        16,
+        23,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "dgwaFELz35C5ry9",
       "runId": 1539866504
     }
   }
