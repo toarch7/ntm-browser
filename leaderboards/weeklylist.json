@@ -168,18 +168,20 @@
       "name": "Lpknight",
       "char": 6,
       "skin": false,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 3,
-      "bwep": 26,
+      "wep": 26,
+      "bwep": 25,
       "win": false,
-      "kills": 158,
+      "kills": 240,
       "ultra": 0,
       "skills": [
-        23,
-        13,
-        27
+        28,
+        14,
+        8,
+        1,
+        9
       ],
       "crown": 5,
       "version": 2616,
@@ -1268,6 +1270,50 @@
       "crown": 5,
       "version": 2616,
       "uid": "G3p97JVJnQIPHZq",
+      "runId": 1539866504
+    },
+    "P6PtM0uC7GZ3Wtp": {
+      "name": "Seeker71",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 6,
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        14,
+        2
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "P6PtM0uC7GZ3Wtp",
+      "runId": 1539866504
+    },
+    "3J6p1hS00QwNjw3": {
+      "name": "jack69",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 26,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        23,
+        22
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "3J6p1hS00QwNjw3",
       "runId": 1539866504
     }
   }
