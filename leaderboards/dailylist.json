@@ -1,4 +1,89 @@
 {
   "day": 19,
-  "entries": {}
+  "entries": {
+    "7F4ok218C0Q493u": {
+      "name": "kyle",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7F4ok218C0Q493u",
+      "runId": 447094119
+    },
+    "3Kn86M633ZG0aiB": {
+      "name": "YellowTheFool",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 26,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3Kn86M633ZG0aiB",
+      "runId": 447094119
+    },
+    "080u4SqFBlda904": {
+      "name": "Rambo",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 21,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        26,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "080u4SqFBlda904",
+      "runId": 447094119
+    },
+    "L159Z242ODEZkNA": {
+      "name": "andreded",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 66,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        13,
+        4,
+        12,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L159Z242ODEZkNA",
+      "runId": 447094119
+    }
+  }
 }

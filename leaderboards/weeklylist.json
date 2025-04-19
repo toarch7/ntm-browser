@@ -752,19 +752,19 @@
       "char": 6,
       "skin": false,
       "area": 5,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
       "wep": 13,
       "bwep": 26,
       "win": false,
-      "kills": 201,
+      "kills": 231,
       "ultra": 0,
       "skills": [
         8,
         28,
         14,
         1,
-        9
+        12
       ],
       "crown": 5,
       "version": 2616,
@@ -973,6 +973,48 @@
       "crown": 5,
       "version": 2616,
       "uid": "0uN1V5qr0aF930k",
+      "runId": 1539866504
+    },
+    "48Hj07E8MEmLwZb": {
+      "name": "Seeker51222",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 69,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        16,
+        22
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "48Hj07E8MEmLwZb",
+      "runId": 1539866504
+    },
+    "3Kn86M633ZG0aiB": {
+      "name": "YellowTheFool",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 26,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        10,
+        22
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "3Kn86M633ZG0aiB",
       "runId": 1539866504
     }
   }
