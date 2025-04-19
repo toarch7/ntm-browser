@@ -1162,22 +1162,45 @@
       "name": "Fanday1333",
       "char": 6,
       "skin": false,
-      "area": 103,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 26,
-      "bwep": 3,
+      "wep": 67,
+      "bwep": 26,
       "win": false,
-      "kills": 128,
+      "kills": 192,
       "ultra": 0,
       "skills": [
         28,
         13,
-        26
+        26,
+        1
       ],
       "crown": 5,
       "version": 2616,
       "uid": "66YJK4spYp2K6Ry",
+      "runId": 1539866504
+    },
+    "b70RLSd27T5G7IQ": {
+      "name": "zay",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 26,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        22
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "b70RLSd27T5G7IQ",
       "runId": 1539866504
     }
   }
