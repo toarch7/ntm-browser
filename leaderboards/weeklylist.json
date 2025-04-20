@@ -1386,6 +1386,30 @@
       "version": 2616,
       "uid": "09cKrKEH62Q4z9i",
       "runId": 1539866504
+    },
+    "hlWz9ThOR08L1Go": {
+      "name": "MaxwellLink",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 11,
+      "win": false,
+      "kills": 228,
+      "ultra": 0,
+      "skills": [
+        23,
+        27,
+        8,
+        1,
+        9
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "hlWz9ThOR08L1Go",
+      "runId": 1539866504
     }
   }
 }
