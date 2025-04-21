@@ -618,17 +618,17 @@
       "name": "andreded",
       "char": 6,
       "skin": false,
-      "area": 4,
+      "area": 0,
       "subarea": 1,
-      "loops": 1,
+      "loops": 2,
       "wep": 74,
       "bwep": 94,
       "win": false,
-      "kills": 887,
+      "kills": 1285,
       "ultra": 1,
       "skills": [
         8,
-        10,
+        16,
         13,
         1,
         9,
@@ -1457,6 +1457,28 @@
       "crown": 5,
       "version": 2616,
       "uid": "e85NaX957FzwpGk",
+      "runId": 1539866504
+    },
+    "C79epfpu9tSFH4a": {
+      "name": "Fortuno",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 26,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        22
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "C79epfpu9tSFH4a",
       "runId": 1539866504
     }
   }
