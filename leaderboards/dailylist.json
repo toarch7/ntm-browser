@@ -1,4 +1,45 @@
 {
   "day": 21,
-  "entries": {}
+  "entries": {
+    "VMCB84Sc650572Q": {
+      "name": "kido",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "VMCB84Sc650572Q",
+      "runId": 42609084
+    },
+    "316b58ln7rGlhw6": {
+      "name": "hombrema",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 69,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "316b58ln7rGlhw6",
+      "runId": 42609084
+    }
+  }
 }
