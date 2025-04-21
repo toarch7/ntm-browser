@@ -164,6 +164,53 @@
       "version": 2616,
       "uid": "4JAn8d4aQoJI4Od",
       "runId": 42609084
+    },
+    "s01Rv2Hyku31eKo": {
+      "name": "Agoty666",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 21,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        9,
+        14,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "s01Rv2Hyku31eKo",
+      "runId": 42609084
+    },
+    "wcw8p29P1BxW88g": {
+      "name": "Kira",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 114,
+      "win": false,
+      "kills": 230,
+      "ultra": 0,
+      "skills": [
+        16,
+        21,
+        7,
+        13,
+        3,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wcw8p29P1BxW88g",
+      "runId": 42609084
     }
   }
 }
