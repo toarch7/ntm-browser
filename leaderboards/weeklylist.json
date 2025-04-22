@@ -926,19 +926,18 @@
       "char": 6,
       "skin": false,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 76,
-      "bwep": 12,
+      "wep": 80,
+      "bwep": 22,
       "win": false,
-      "kills": 216,
+      "kills": 238,
       "ultra": 0,
       "skills": [
         8,
         10,
         14,
-        1,
-        26
+        1
       ],
       "crown": 5,
       "version": 2616,
@@ -1684,6 +1683,32 @@
       "crown": 5,
       "version": 2616,
       "uid": "0AeD009ZKe7Cbs6",
+      "runId": 1539866504
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 111,
+      "win": false,
+      "kills": 682,
+      "ultra": 1,
+      "skills": [
+        8,
+        28,
+        14,
+        1,
+        9,
+        25,
+        7
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
       "runId": 1539866504
     }
   }
