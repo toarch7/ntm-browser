@@ -1506,21 +1506,24 @@
       "runId": 1539866504
     },
     "x15C7Lr56Z2HLWR": {
-      "name": "SkankHunter69",
+      "name": "Clint_Oris",
       "char": 6,
       "skin": false,
-      "area": 103,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 26,
-      "bwep": 14,
+      "wep": 25,
+      "bwep": 88,
       "win": false,
-      "kills": 131,
+      "kills": 348,
       "ultra": 0,
       "skills": [
         8,
         10,
-        14
+        14,
+        27,
+        9,
+        25
       ],
       "crown": 5,
       "version": 2616,
@@ -1636,6 +1639,28 @@
       "crown": 5,
       "version": 2616,
       "uid": "43QAEjcSg6AFqUS",
+      "runId": 1539866504
+    },
+    "0oGyoKfZo06LCjB": {
+      "name": "squeaker",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 26,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        17,
+        10,
+        13
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "0oGyoKfZo06LCjB",
       "runId": 1539866504
     }
   }
