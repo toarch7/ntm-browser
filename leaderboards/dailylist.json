@@ -383,6 +383,86 @@
       "version": 2616,
       "uid": "U3aH509qvuHp684",
       "runId": 1998491043
+    },
+    "bh58VR26z6270zu": {
+      "name": "PossumSauce",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 8,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        6,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bh58VR26z6270zu",
+      "runId": 1998491043
+    },
+    "GkiG8HtdnYHeRYZ": {
+      "name": "ADRIAN",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 3,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GkiG8HtdnYHeRYZ",
+      "runId": 1998491043
+    },
+    "buf55I20R944RQq": {
+      "name": "ASESINO",
+      "char": 12,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 26,
+      "crown": 1,
+      "version": 2616,
+      "uid": "buf55I20R944RQq",
+      "runId": 1998491043
+    },
+    "23qMNVFxOgW28dk": {
+      "name": "tu",
+      "char": 12,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 4,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        21,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "23qMNVFxOgW28dk",
+      "runId": 1998491043
     }
   }
 }
