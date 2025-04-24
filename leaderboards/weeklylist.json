@@ -455,6 +455,49 @@
       "version": 2616,
       "uid": "kCYSmJ6emz05igU",
       "runId": 900936754
+    },
+    "5NXn94sI2jpM51T": {
+      "name": "Confusion",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 106,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        4,
+        23
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "5NXn94sI2jpM51T",
+      "runId": 900936754
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 106,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        12
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 900936754
     }
   }
 }
