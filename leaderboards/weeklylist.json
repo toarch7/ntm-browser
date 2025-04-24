@@ -365,20 +365,22 @@
       "name": "Bomber_man",
       "char": 2,
       "skin": false,
-      "area": 5,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 106,
-      "bwep": 0,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 106,
       "win": false,
-      "kills": 222,
-      "ultra": 0,
+      "kills": 731,
+      "ultra": 1,
       "skills": [
         4,
         23,
         16,
         17,
-        7
+        7,
+        27,
+        28
       ],
       "crown": 7,
       "version": 2616,
@@ -426,6 +428,32 @@
       "crown": 7,
       "version": 2616,
       "uid": "WY2zkoE1p5TWsf3",
+      "runId": 900936754
+    },
+    "kCYSmJ6emz05igU": {
+      "name": "Meleemoose",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 28,
+      "bwep": 106,
+      "win": false,
+      "kills": 855,
+      "ultra": 1,
+      "skills": [
+        4,
+        23,
+        12,
+        7,
+        14,
+        27,
+        28
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "kCYSmJ6emz05igU",
       "runId": 900936754
     }
   }
