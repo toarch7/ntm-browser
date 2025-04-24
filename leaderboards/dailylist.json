@@ -227,6 +227,67 @@
       "version": 2616,
       "uid": "wcw8p29P1BxW88g",
       "runId": 1562014511
+    },
+    "KrY9LTvVCb299Xq": {
+      "name": "Gos",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 27,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "KrY9LTvVCb299Xq",
+      "runId": 1562014511
+    },
+    "B5n5zl358h2LemW": {
+      "name": "Erick",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "B5n5zl358h2LemW",
+      "runId": 1562014511
+    },
+    "F7Y8x5q8C7u0I2e": {
+      "name": "",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 35,
+      "win": false,
+      "kills": 264,
+      "ultra": 0,
+      "skills": [
+        21,
+        3,
+        26,
+        9,
+        27,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "F7Y8x5q8C7u0I2e",
+      "runId": 1562014511
     }
   }
 }
