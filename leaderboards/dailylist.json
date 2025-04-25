@@ -63,6 +63,49 @@
       "version": 2616,
       "uid": "316b58ln7rGlhw6",
       "runId": 390947708
+    },
+    "c33ykD518ltmQ38": {
+      "name": "Asvelz",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "c33ykD518ltmQ38",
+      "runId": 390947708
+    },
+    "x738ILjQc9rT24P": {
+      "name": "Arbolverde",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 55,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        7,
+        3,
+        28,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "x738ILjQc9rT24P",
+      "runId": 390947708
     }
   }
 }
