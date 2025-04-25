@@ -366,13 +366,13 @@
       "name": "Bomber_man",
       "char": 2,
       "skin": false,
-      "area": 1,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 1,
-      "wep": 24,
-      "bwep": 106,
+      "wep": 92,
+      "bwep": 96,
       "win": false,
-      "kills": 731,
+      "kills": 1843,
       "ultra": 1,
       "skills": [
         4,
@@ -381,7 +381,7 @@
         17,
         7,
         27,
-        28
+        13
       ],
       "crown": 7,
       "version": 2616,
@@ -627,6 +627,27 @@
       "crown": 7,
       "version": 2616,
       "uid": "x738ILjQc9rT24P",
+      "runId": 900936754
+    },
+    "aBrYq2bcSKE8mTl": {
+      "name": "Scermitz",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 106,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        4,
+        23
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "aBrYq2bcSKE8mTl",
       "runId": 900936754
     }
   }
