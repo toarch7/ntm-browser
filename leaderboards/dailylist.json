@@ -364,6 +364,48 @@
       "version": 2616,
       "uid": "Cm64048vE858p7T",
       "runId": 1667794595
+    },
+    "3m9Ban8K670meMl": {
+      "name": "Throneseeker",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "3m9Ban8K670meMl",
+      "runId": 1667794595
+    },
+    "7ubOdXT7em9IJqo": {
+      "name": "Minimonk",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 114,
+      "bwep": 36,
+      "win": false,
+      "kills": 268,
+      "ultra": 0,
+      "skills": [
+        7,
+        10,
+        1,
+        4,
+        22,
+        14,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7ubOdXT7em9IJqo",
+      "runId": 1667794595
     }
   }
 }
