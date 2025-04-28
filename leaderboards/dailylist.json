@@ -183,6 +183,54 @@
       "version": 2616,
       "uid": "T20TP290zD9KsDf",
       "runId": 2107296060
+    },
+    "r57z2Bj3hjv9tAI": {
+      "name": "СНЮСИК228ТТ",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 13,
+      "bwep": 4,
+      "win": false,
+      "kills": 465,
+      "ultra": 2,
+      "skills": [
+        1,
+        13,
+        23,
+        14,
+        9,
+        27,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "r57z2Bj3hjv9tAI",
+      "runId": 2107296060
+    },
+    "3Bq3YcM6wv2ap4H": {
+      "name": "FAKE",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 9,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        17
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "3Bq3YcM6wv2ap4H",
+      "runId": 2107296060
     }
   }
 }
