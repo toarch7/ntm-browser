@@ -1687,6 +1687,51 @@
       "version": 2616,
       "uid": "B59hu1KAQeHsizB",
       "runId": 900936754
+    },
+    "o5hN6f312C2t9QN": {
+      "name": "Grim_bot",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 106,
+      "bwep": 10,
+      "win": false,
+      "kills": 297,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        16,
+        6,
+        22
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "o5hN6f312C2t9QN",
+      "runId": 900936754
+    },
+    "e2EQt72h7aQ6y24": {
+      "name": "Narowheng",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 106,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        4,
+        24
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "e2EQt72h7aQ6y24",
+      "runId": 900936754
     }
   }
 }
