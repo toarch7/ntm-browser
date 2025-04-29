@@ -1539,17 +1539,18 @@
       "name": "DarkenedStar",
       "char": 2,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 27,
+      "wep": 88,
       "bwep": 106,
       "win": false,
-      "kills": 111,
+      "kills": 161,
       "ultra": 0,
       "skills": [
         4,
-        26
+        23,
+        12
       ],
       "crown": 7,
       "version": 2616,
