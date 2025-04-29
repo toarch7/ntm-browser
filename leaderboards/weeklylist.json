@@ -256,20 +256,21 @@
       "char": 2,
       "skin": false,
       "area": 7,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 26,
+      "wep": 25,
       "bwep": 59,
       "win": false,
-      "kills": 589,
+      "kills": 591,
       "ultra": 2,
       "skills": [
-        23,
+        17,
         12,
         28,
         7,
-        2,
-        9
+        25,
+        24,
+        2
       ],
       "crown": 7,
       "version": 2616,
@@ -1731,6 +1732,27 @@
       "crown": 7,
       "version": 2616,
       "uid": "e2EQt72h7aQ6y24",
+      "runId": 900936754
+    },
+    "wt0p0Bx44sHRm89": {
+      "name": "Joyboy130421",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 106,
+      "bwep": 4,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        4,
+        26
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "wt0p0Bx44sHRm89",
       "runId": 900936754
     }
   }
