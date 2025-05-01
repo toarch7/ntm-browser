@@ -119,6 +119,45 @@
       "version": 2616,
       "uid": "J1310A51338h9Tx",
       "runId": 374937042
+    },
+    "GSw6tFnA7O73lNv": {
+      "name": "blinana",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "GSw6tFnA7O73lNv",
+      "runId": 374937042
+    },
+    "2iwms89dAbG7bRM": {
+      "name": "Ушлепленец777",
+      "char": 1,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 11,
+      "win": false,
+      "kills": 154,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        4,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2iwms89dAbG7bRM",
+      "runId": 374937042
     }
   }
 }
