@@ -701,6 +701,56 @@
       "version": 2616,
       "uid": "QicgSah6h6Y8KG7",
       "runId": 1409018657
+    },
+    "DCS8H5IULl5plWl": {
+      "name": "NERGIG",
+      "char": 9,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 74,
+      "win": false,
+      "kills": 324,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        7,
+        24,
+        10,
+        22
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "DCS8H5IULl5plWl",
+      "runId": 1409018657
+    },
+    "6v71N333DDGq4Kp": {
+      "name": "Nar",
+      "char": 9,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 29,
+      "win": false,
+      "kills": 277,
+      "ultra": 0,
+      "skills": [
+        1,
+        16,
+        7,
+        19,
+        10,
+        22
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "6v71N333DDGq4Kp",
+      "runId": 1409018657
     }
   }
 }
