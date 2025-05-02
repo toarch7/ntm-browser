@@ -776,6 +776,27 @@
       "version": 2616,
       "uid": "5NXn94sI2jpM51T",
       "runId": 1409018657
+    },
+    "0AeD009ZKe7Cbs6": {
+      "name": "режуножомнегров",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 0,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        1,
+        16
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "0AeD009ZKe7Cbs6",
+      "runId": 1409018657
     }
   }
 }
