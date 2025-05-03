@@ -243,17 +243,17 @@
       "name": "azaelxd",
       "char": 9,
       "skin": true,
-      "area": 104,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 55,
-      "bwep": 78,
+      "wep": 26,
+      "bwep": 21,
       "win": false,
-      "kills": 153,
+      "kills": 160,
       "ultra": 0,
       "skills": [
         1,
-        3,
+        16,
         7,
         24
       ],
@@ -1092,6 +1092,32 @@
       "crown": 11,
       "version": 2616,
       "uid": "320gIru6eM8BL8M",
+      "runId": 1409018657
+    },
+    "2iwms89dAbG7bRM": {
+      "name": "Ушлепленец777",
+      "char": 9,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 26,
+      "bwep": 24,
+      "win": false,
+      "kills": 273,
+      "ultra": 0,
+      "skills": [
+        23,
+        3,
+        4,
+        1,
+        8,
+        27,
+        10
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "2iwms89dAbG7bRM",
       "runId": 1409018657
     }
   }
