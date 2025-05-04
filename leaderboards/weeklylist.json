@@ -888,18 +888,19 @@
       "name": "Joshuamastergam",
       "char": 9,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 34,
-      "bwep": 0,
+      "wep": 26,
+      "bwep": 14,
       "win": false,
-      "kills": 78,
+      "kills": 125,
       "ultra": 0,
       "skills": [
         1,
-        17,
-        14
+        22,
+        14,
+        4
       ],
       "crown": 11,
       "version": 2616,
@@ -1305,6 +1306,27 @@
       "crown": 11,
       "version": 2616,
       "uid": "pqCAowOj6L17J4E",
+      "runId": 1409018657
+    },
+    "0JiXbS98HW8W09N": {
+      "name": "cockmuncher",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 26,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        1,
+        14
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "0JiXbS98HW8W09N",
       "runId": 1409018657
     }
   }
