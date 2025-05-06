@@ -506,17 +506,22 @@
       "name": "dmblk",
       "char": 9,
       "skin": true,
-      "area": 2,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
       "wep": 26,
-      "bwep": 117,
+      "bwep": 57,
       "win": false,
-      "kills": 60,
+      "kills": 301,
       "ultra": 0,
       "skills": [
         1,
-        16
+        17,
+        16,
+        4,
+        10,
+        27,
+        2
       ],
       "crown": 11,
       "version": 2616,
@@ -1658,6 +1663,30 @@
       "crown": 11,
       "version": 2616,
       "uid": "43QAEjcSg6AFqUS",
+      "runId": 1409018657
+    },
+    "RSsmCCqF97Otj1T": {
+      "name": "T14N",
+      "char": 9,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 11,
+      "win": false,
+      "kills": 207,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        4,
+        19,
+        8
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "RSsmCCqF97Otj1T",
       "runId": 1409018657
     }
   }
