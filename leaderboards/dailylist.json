@@ -366,6 +366,51 @@
       "version": 2616,
       "uid": "HJ7G87oXRypnPMd",
       "runId": 1557751361
+    },
+    "RSsmCCqF97Otj1T": {
+      "name": "T14N",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 27,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        1,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RSsmCCqF97Otj1T",
+      "runId": 1557751361
+    },
+    "mQ6dxSp1osVs2vM": {
+      "name": "bloodhail",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 3,
+      "win": false,
+      "kills": 261,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        8,
+        12,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mQ6dxSp1osVs2vM",
+      "runId": 1557751361
     }
   }
 }
