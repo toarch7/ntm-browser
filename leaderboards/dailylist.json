@@ -267,6 +267,83 @@
       "version": 2616,
       "uid": "NOTg6xB2k5HzN33",
       "runId": 1557751361
+    },
+    "rs95b6Vg6X4530I": {
+      "name": "Веселей1488",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "rs95b6Vg6X4530I",
+      "runId": 1557751361
+    },
+    "sbQghkw5s2IftXE": {
+      "name": "jimmyl",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sbQghkw5s2IftXE",
+      "runId": 1557751361
+    },
+    "J1310A51338h9Tx": {
+      "name": "FROGETIQ",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 3,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        14,
+        9,
+        8,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J1310A51338h9Tx",
+      "runId": 1557751361
+    },
+    "4X6Zq24ks0r8Bvy": {
+      "name": "dudu",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4X6Zq24ks0r8Bvy",
+      "runId": 1557751361
     }
   }
 }
