@@ -193,17 +193,20 @@
       "name": "bloodhail",
       "char": 3,
       "skin": false,
-      "area": 2,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 46,
-      "bwep": 16,
+      "wep": 30,
+      "bwep": 46,
       "win": false,
-      "kills": 81,
+      "kills": 190,
       "ultra": 0,
       "skills": [
         2,
-        13
+        13,
+        3,
+        24,
+        4
       ],
       "crown": 1,
       "version": 2616,
@@ -233,6 +236,29 @@
       "crown": 1,
       "version": 2616,
       "uid": "2iwms89dAbG7bRM",
+      "runId": 1001783380
+    },
+    "8LvUnW87474e0m2": {
+      "name": "Sако.com",
+      "char": 3,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 11,
+      "win": false,
+      "kills": 180,
+      "ultra": 0,
+      "skills": [
+        28,
+        23,
+        27,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8LvUnW87474e0m2",
       "runId": 1001783380
     }
   }
