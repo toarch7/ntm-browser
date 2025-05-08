@@ -323,6 +323,44 @@
       "version": 2616,
       "uid": "s01Rv2Hyku31eKo",
       "runId": 227934789
+    },
+    "KmT4L6pL2y4t94o": {
+      "name": "ляпис",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "KmT4L6pL2y4t94o",
+      "runId": 227934789
+    },
+    "wcw8p29P1BxW88g": {
+      "name": "Kira",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wcw8p29P1BxW88g",
+      "runId": 227934789
     }
   }
 }
