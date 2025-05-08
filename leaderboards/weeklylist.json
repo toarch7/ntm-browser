@@ -1,4 +1,32 @@
 {
   "seed": 1001783380,
-  "entries": {}
+  "entries": {
+    "L159Z242ODEZkNA": {
+      "name": "andreded",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 111,
+      "win": false,
+      "kills": 1033,
+      "ultra": 2,
+      "skills": [
+        28,
+        23,
+        25,
+        10,
+        12,
+        27,
+        9,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L159Z242ODEZkNA",
+      "runId": 1001783380
+    }
+  }
 }

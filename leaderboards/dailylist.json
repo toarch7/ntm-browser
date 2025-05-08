@@ -1,4 +1,55 @@
 {
   "day": 8,
-  "entries": {}
+  "entries": {
+    "36lyg6gDZf31lew": {
+      "name": "Seeker4",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "36lyg6gDZf31lew",
+      "runId": 227934789
+    },
+    "316b58ln7rGlhw6": {
+      "name": "hombrema",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "316b58ln7rGlhw6",
+      "runId": 227934789
+    },
+    "L159Z242ODEZkNA": {
+      "name": "andreded",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L159Z242ODEZkNA",
+      "runId": 227934789
+    }
+  }
 }
