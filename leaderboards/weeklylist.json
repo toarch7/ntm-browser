@@ -597,19 +597,20 @@
       "name": "JohnnV",
       "char": 3,
       "skin": false,
-      "area": 3,
-      "subarea": 2,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 46,
-      "bwep": 31,
+      "wep": 114,
+      "bwep": 66,
       "win": false,
-      "kills": 132,
+      "kills": 272,
       "ultra": 0,
       "skills": [
         28,
         1,
-        27,
-        10
+        25,
+        3,
+        4
       ],
       "crown": 1,
       "version": 2616,
@@ -637,6 +638,27 @@
       "crown": 1,
       "version": 2616,
       "uid": "acRd6U1N3x57L16",
+      "runId": 1001783380
+    },
+    "3L8uK2H6N15766W": {
+      "name": "Dubof",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        6,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3L8uK2H6N15766W",
       "runId": 1001783380
     }
   }
