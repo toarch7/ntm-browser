@@ -84,6 +84,50 @@
       "version": 2616,
       "uid": "5x2u27tc48r9SkA",
       "runId": 1998445989
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 5,
+      "skin": false,
+      "area": 105,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 116,
+      "win": false,
+      "kills": 202,
+      "ultra": 0,
+      "skills": [
+        3,
+        10,
+        1,
+        14,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 1998445989
+    },
+    "E3gI7quBH9qA245": {
+      "name": "Fake",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "E3gI7quBH9qA245",
+      "runId": 1998445989
     }
   }
 }
