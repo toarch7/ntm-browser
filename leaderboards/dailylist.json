@@ -282,6 +282,50 @@
       "version": 2616,
       "uid": "Bl27jzn1CN71VV0",
       "runId": 884819380
+    },
+    "M7BCl4nl338d6pp": {
+      "name": "Lpknight",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 61,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        14,
+        26,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "M7BCl4nl338d6pp",
+      "runId": 884819380
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 46,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 884819380
     }
   }
 }

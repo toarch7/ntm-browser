@@ -1119,6 +1119,51 @@
       "version": 2616,
       "uid": "sbQghkw5s2IftXE",
       "runId": 1001783380
+    },
+    "H0j8vlNSIDyHEHF": {
+      "name": "S",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 46,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        6,
+        7,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "H0j8vlNSIDyHEHF",
+      "runId": 1001783380
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 117,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        2,
+        1,
+        27,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 1001783380
     }
   }
 }
