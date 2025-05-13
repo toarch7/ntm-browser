@@ -1187,6 +1187,30 @@
       "version": 2616,
       "uid": "QicgSah6h6Y8KG7",
       "runId": 1001783380
+    },
+    "82MGH14yDp1WEQ7": {
+      "name": "grunt",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 7,
+      "win": false,
+      "kills": 252,
+      "ultra": 0,
+      "skills": [
+        2,
+        1,
+        27,
+        10,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "82MGH14yDp1WEQ7",
+      "runId": 1001783380
     }
   }
 }
