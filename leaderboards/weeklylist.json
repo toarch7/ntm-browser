@@ -313,6 +313,28 @@
       "version": 2616,
       "uid": "mQ6dxSp1osVs2vM",
       "runId": 1938389469
+    },
+    "HDzIZwtei0eq6Gz": {
+      "name": "dust",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 97,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        28,
+        16,
+        14
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "HDzIZwtei0eq6Gz",
+      "runId": 1938389469
     }
   }
 }
