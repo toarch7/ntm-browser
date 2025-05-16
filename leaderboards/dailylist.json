@@ -229,6 +229,52 @@
       "version": 2616,
       "uid": "GSw6tFnA7O73lNv",
       "runId": 190385137
+    },
+    "M7BCl4nl338d6pp": {
+      "name": "Lpknight",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "M7BCl4nl338d6pp",
+      "runId": 190385137
+    },
+    "wcw8p29P1BxW88g": {
+      "name": "Kira",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 83,
+      "bwep": 26,
+      "win": false,
+      "kills": 771,
+      "ultra": 0,
+      "skills": [
+        28,
+        4,
+        1,
+        16,
+        25,
+        6,
+        27
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "wcw8p29P1BxW88g",
+      "runId": 190385137
     }
   }
 }
