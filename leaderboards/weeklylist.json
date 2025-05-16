@@ -623,6 +623,48 @@
       "version": 2616,
       "uid": "79HhAWlMJf62Kii",
       "runId": 1938389469
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 97,
+      "bwep": 69,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 1938389469
+    },
+    "VfUlpCWzPFQu58v": {
+      "name": "Seekershotgun",
+      "char": 2,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 78,
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        22,
+        3,
+        21
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "VfUlpCWzPFQu58v",
+      "runId": 1938389469
     }
   }
 }
