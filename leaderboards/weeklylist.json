@@ -486,12 +486,13 @@
       "wep": 116,
       "bwep": 8,
       "win": false,
-      "kills": 130,
+      "kills": 141,
       "ultra": 0,
       "skills": [
-        16,
+        26,
         1,
-        14
+        14,
+        28
       ],
       "crown": 11,
       "version": 2616,
@@ -959,6 +960,26 @@
       "crown": 11,
       "version": 2616,
       "uid": "HJ7G87oXRypnPMd",
+      "runId": 1938389469
+    },
+    "SocoZWsUnG3J748": {
+      "name": "nick/her",
+      "char": 2,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 97,
+      "bwep": 9,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "SocoZWsUnG3J748",
       "runId": 1938389469
     }
   }
