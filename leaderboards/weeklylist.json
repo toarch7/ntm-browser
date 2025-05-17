@@ -969,13 +969,15 @@
       "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 97,
-      "bwep": 9,
+      "wep": 30,
+      "bwep": 28,
       "win": false,
-      "kills": 47,
+      "kills": 143,
       "ultra": 0,
       "skills": [
-        16
+        16,
+        1,
+        21
       ],
       "crown": 11,
       "version": 2616,
