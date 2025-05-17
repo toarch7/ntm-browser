@@ -1,4 +1,82 @@
 {
   "day": 17,
-  "entries": {}
+  "entries": {
+    "0O6FfAsBWvv0Q4h": {
+      "name": "RageSempai",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 27,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0O6FfAsBWvv0Q4h",
+      "runId": 245546799
+    },
+    "aw50AWtoBlR67uI": {
+      "name": "GORR",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aw50AWtoBlR67uI",
+      "runId": 245546799
+    },
+    "9ul6222ZCkNg72n": {
+      "name": "Juniorxables",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        9,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9ul6222ZCkNg72n",
+      "runId": 245546799
+    },
+    "0jenRc9K0I4xbdT": {
+      "name": "joseju",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "0jenRc9K0I4xbdT",
+      "runId": 245546799
+    }
+  }
 }
