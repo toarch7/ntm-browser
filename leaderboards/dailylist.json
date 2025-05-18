@@ -88,6 +88,49 @@
       "version": 2616,
       "uid": "7eS3Pw409LFCS6f",
       "runId": 1752606908
+    },
+    "43QAEjcSg6AFqUS": {
+      "name": "ligmaballs",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        10,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "43QAEjcSg6AFqUS",
+      "runId": 1752606908
+    },
+    "UeYmvwxJTejVs9i": {
+      "name": "Seeker",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 17,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        1,
+        3,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "UeYmvwxJTejVs9i",
+      "runId": 1752606908
     }
   }
 }
