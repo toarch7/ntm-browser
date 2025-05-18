@@ -1147,6 +1147,33 @@
       "version": 2616,
       "uid": "L159Z242ODEZkNA",
       "runId": 1938389469
+    },
+    "HCTUk6KfGX9zyb6": {
+      "name": "Bomber_man",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 105,
+      "bwep": 97,
+      "win": false,
+      "kills": 637,
+      "ultra": 1,
+      "skills": [
+        28,
+        3,
+        22,
+        1,
+        25,
+        21,
+        27,
+        9
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "HCTUk6KfGX9zyb6",
+      "runId": 1938389469
     }
   }
 }
