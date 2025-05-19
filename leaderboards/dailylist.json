@@ -253,6 +253,42 @@
       "version": 2616,
       "uid": "0jenRc9K0I4xbdT",
       "runId": 1500185465
+    },
+    "5x2u27tc48r9SkA": {
+      "name": "Karoly",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "5x2u27tc48r9SkA",
+      "runId": 1500185465
+    },
+    "FbS4gzS3l5l33L3": {
+      "name": "Steve",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 27,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "FbS4gzS3l5l33L3",
+      "runId": 1500185465
     }
   }
 }
