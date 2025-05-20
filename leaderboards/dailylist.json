@@ -42,6 +42,44 @@
       "version": 2616,
       "uid": "KmT4L6pL2y4t94o",
       "runId": 890253789
+    },
+    "9523z9TocEaEqx5": {
+      "name": "RadioActivist",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 6,
+      "win": false,
+      "kills": 21,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9523z9TocEaEqx5",
+      "runId": 890253789
+    },
+    "QP7Q7i0Ed1f73VY": {
+      "name": "Sam",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "QP7Q7i0Ed1f73VY",
+      "runId": 890253789
     }
   }
 }
