@@ -1397,6 +1397,51 @@
       "version": 2616,
       "uid": "kHLHIB9neMKBtDc",
       "runId": 1938389469
+    },
+    "L1n8gzQ71vG3yPU": {
+      "name": "Dogeater",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 78,
+      "bwep": 88,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        28,
+        26,
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "L1n8gzQ71vG3yPU",
+      "runId": 1938389469
+    },
+    "9523z9TocEaEqx5": {
+      "name": "RadioActivist",
+      "char": 2,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 116,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        22,
+        3,
+        1,
+        14
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "9523z9TocEaEqx5",
+      "runId": 1938389469
     }
   }
 }
