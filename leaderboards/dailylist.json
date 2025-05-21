@@ -1,4 +1,47 @@
 {
   "day": 21,
-  "entries": {}
+  "entries": {
+    "w0lLS9ZG8kZQYQ5": {
+      "name": "XENKKK",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 7,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        4,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "w0lLS9ZG8kZQYQ5",
+      "runId": 1213895341
+    },
+    "E3gI7quBH9qA245": {
+      "name": "Fake",
+      "char": 1,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        4,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "E3gI7quBH9qA245",
+      "runId": 1213895341
+    }
+  }
 }
