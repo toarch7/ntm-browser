@@ -1541,19 +1541,19 @@
       "name": "brazzer18",
       "char": 2,
       "skin": true,
-      "area": 104,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 76,
-      "bwep": 28,
+      "wep": 80,
+      "bwep": 117,
       "win": false,
-      "kills": 150,
+      "kills": 166,
       "ultra": 0,
       "skills": [
-        28,
-        26,
+        3,
         1,
-        14
+        14,
+        24
       ],
       "crown": 11,
       "version": 2616,
@@ -1622,6 +1622,26 @@
       "crown": 11,
       "version": 2616,
       "uid": "laG1tFrymGGMFh7",
+      "runId": 1938389469
+    },
+    "XvtEAP4pC4rx8KO": {
+      "name": "Vinicius",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 30,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "XvtEAP4pC4rx8KO",
       "runId": 1938389469
     }
   }
