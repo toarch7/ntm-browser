@@ -403,6 +403,52 @@
       "version": 2616,
       "uid": "FbS4gzS3l5l33L3",
       "runId": 1213895341
+    },
+    "Q4CO0v3cITysn7W": {
+      "name": "Seeker13",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 16,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        16,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Q4CO0v3cITysn7W",
+      "runId": 1213895341
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 28,
+      "win": false,
+      "kills": 293,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        10,
+        1,
+        27,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 1213895341
     }
   }
 }

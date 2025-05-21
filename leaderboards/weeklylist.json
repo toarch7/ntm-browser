@@ -1727,6 +1727,26 @@
       "version": 2616,
       "uid": "S9Z31CYTR2W08Fw",
       "runId": 1938389469
+    },
+    "Q4CO0v3cITysn7W": {
+      "name": "Seeker13",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 97,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "Q4CO0v3cITysn7W",
+      "runId": 1938389469
     }
   }
 }
