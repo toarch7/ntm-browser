@@ -1,4 +1,45 @@
 {
   "day": 22,
-  "entries": {}
+  "entries": {
+    "QP7Q7i0Ed1f73VY": {
+      "name": "Sam",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "QP7Q7i0Ed1f73VY",
+      "runId": 2067291586
+    },
+    "7C7UIq3Dr1Dh51n": {
+      "name": "brazzer18",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7C7UIq3Dr1Dh51n",
+      "runId": 2067291586
+    }
+  }
 }
