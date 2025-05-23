@@ -459,6 +459,27 @@
       "version": 2616,
       "uid": "FBT9ViR6SFCj8yZ",
       "runId": 1429065686
+    },
+    "CFBED28M1HoRAKX": {
+      "name": "mambo",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 94,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        1,
+        8
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "CFBED28M1HoRAKX",
+      "runId": 1429065686
     }
   }
 }
