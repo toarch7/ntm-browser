@@ -341,6 +341,48 @@
       "version": 2616,
       "uid": "n18Nh0mQU4TPFu6",
       "runId": 145776599
+    },
+    "l4Jde5CduPkhNGC": {
+      "name": "Orestes",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "l4Jde5CduPkhNGC",
+      "runId": 145776599
+    },
+    "QP7Q7i0Ed1f73VY": {
+      "name": "Sam",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 5,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        24,
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "QP7Q7i0Ed1f73VY",
+      "runId": 145776599
     }
   }
 }
