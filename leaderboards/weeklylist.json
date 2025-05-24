@@ -299,18 +299,20 @@
       "name": "M0n",
       "char": 11,
       "skin": true,
-      "area": 3,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 31,
-      "bwep": 94,
+      "wep": 79,
+      "bwep": 13,
       "win": false,
-      "kills": 83,
+      "kills": 169,
       "ultra": 0,
       "skills": [
+        17,
+        14,
+        22,
         16,
-        8,
-        22
+        29
       ],
       "crown": 11,
       "version": 2616,
@@ -616,6 +618,27 @@
       "crown": 11,
       "version": 2616,
       "uid": "W1mkf49L9O5XpJw",
+      "runId": 1429065686
+    },
+    "4JAn8d4aQoJI4Od": {
+      "name": "dmblk",
+      "char": 11,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 94,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        16,
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "4JAn8d4aQoJI4Od",
       "runId": 1429065686
     }
   }
