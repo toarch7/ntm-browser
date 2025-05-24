@@ -224,22 +224,23 @@
       "name": "hollowknight616",
       "char": 11,
       "skin": true,
-      "area": 7,
-      "subarea": 2,
-      "loops": 0,
-      "wep": 63,
-      "bwep": 35,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 61,
+      "bwep": 54,
       "win": false,
-      "kills": 317,
-      "ultra": 0,
+      "kills": 342,
+      "ultra": 3,
       "skills": [
         1,
         8,
-        12,
+        2,
         27,
         14,
         4,
-        7
+        7,
+        12
       ],
       "crown": 11,
       "version": 2616,
@@ -534,12 +535,12 @@
       "char": 11,
       "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 13,
-      "bwep": 11,
+      "wep": 23,
+      "bwep": 30,
       "win": false,
-      "kills": 187,
+      "kills": 244,
       "ultra": 0,
       "skills": [
         1,
@@ -548,7 +549,7 @@
         9,
         3,
         4,
-        13
+        7
       ],
       "crown": 11,
       "version": 2616,
@@ -595,6 +596,26 @@
       "crown": 11,
       "version": 2616,
       "uid": "L159Z242ODEZkNA",
+      "runId": 1429065686
+    },
+    "W1mkf49L9O5XpJw": {
+      "name": "Wazi",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 94,
+      "bwep": 50,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "W1mkf49L9O5XpJw",
       "runId": 1429065686
     }
   }
