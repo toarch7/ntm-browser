@@ -40,6 +40,96 @@
       "version": 2616,
       "uid": "S9Z31CYTR2W08Fw",
       "runId": 145776599
+    },
+    "6v71N333DDGq4Kp": {
+      "name": "Nar",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 0,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6v71N333DDGq4Kp",
+      "runId": 145776599
+    },
+    "262DL53S0uoTAav": {
+      "name": "fay",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 21,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "262DL53S0uoTAav",
+      "runId": 145776599
+    },
+    "7C7UIq3Dr1Dh51n": {
+      "name": "brazzer18",
+      "char": 2,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 76,
+      "win": false,
+      "kills": 366,
+      "ultra": 1,
+      "skills": [
+        24,
+        1,
+        27,
+        3,
+        14,
+        8,
+        16
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "7C7UIq3Dr1Dh51n",
+      "runId": 145776599
+    },
+    "5WN1j8x24Z0s84r": {
+      "name": "JenLee",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 13,
+      "win": false,
+      "kills": 250,
+      "ultra": 0,
+      "skills": [
+        13,
+        1,
+        4,
+        3,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5WN1j8x24Z0s84r",
+      "runId": 145776599
     }
   }
 }
