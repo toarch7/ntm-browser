@@ -213,6 +213,42 @@
       "version": 2616,
       "uid": "95ilxk2183M6d3B",
       "runId": 145776599
+    },
+    "8Z7DE6333Jp6bKG": {
+      "name": "Boba.",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 1,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8Z7DE6333Jp6bKG",
+      "runId": 145776599
+    },
+    "W1mkf49L9O5XpJw": {
+      "name": "Wazi",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "W1mkf49L9O5XpJw",
+      "runId": 145776599
     }
   }
 }
