@@ -602,6 +602,64 @@
       "version": 2616,
       "uid": "QP7Q7i0Ed1f73VY",
       "runId": 44213412
+    },
+    "uuG618z3fKffVMh": {
+      "name": "0",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 7,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        27,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uuG618z3fKffVMh",
+      "runId": 44213412
+    },
+    "h2D24xGtEaYuFXe": {
+      "name": "Misao",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 5,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        27,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h2D24xGtEaYuFXe",
+      "runId": 44213412
+    },
+    "n18Nh0mQU4TPFu6": {
+      "name": "NH3YD",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "n18Nh0mQU4TPFu6",
+      "runId": 44213412
     }
   }
 }
