@@ -984,6 +984,49 @@
       "version": 2616,
       "uid": "EjZ5H6CVcoKKa38",
       "runId": 1429065686
+    },
+    "fp6E4p3J50Jq7mV": {
+      "name": "myamsar",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 94,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "fp6E4p3J50Jq7mV",
+      "runId": 1429065686
+    },
+    "rS70BFgXrI0nY2O": {
+      "name": "berserk",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 76,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        14,
+        8,
+        1,
+        27
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "rS70BFgXrI0nY2O",
+      "runId": 1429065686
     }
   }
 }
