@@ -1070,6 +1070,27 @@
       "version": 2616,
       "uid": "03v5WN4W5zY7E6m",
       "runId": 1429065686
+    },
+    "R585zvTuOo16HDa": {
+      "name": "SERPUB",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 94,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        1,
+        8
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "R585zvTuOo16HDa",
+      "runId": 1429065686
     }
   }
 }
