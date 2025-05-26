@@ -102,6 +102,46 @@
       "version": 2616,
       "uid": "s01Rv2Hyku31eKo",
       "runId": 99696912
+    },
+    "Gid6L3lPfjZCt81": {
+      "name": "DragonBlue",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 13,
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        28,
+        4,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Gid6L3lPfjZCt81",
+      "runId": 99696912
+    },
+    "5MOOYmNhdv98hAL": {
+      "name": "finoyes",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 88,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5MOOYmNhdv98hAL",
+      "runId": 99696912
     }
   }
 }
