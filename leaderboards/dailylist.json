@@ -481,6 +481,27 @@
       "version": 2616,
       "uid": "g2Q1du6j6F1tSqS",
       "runId": 381718979
+    },
+    "Q17V0he8Fd8Tb03": {
+      "name": "GriltChess",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 7,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        4,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Q17V0he8Fd8Tb03",
+      "runId": 381718979
     }
   }
 }
