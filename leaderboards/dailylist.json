@@ -240,6 +240,54 @@
       "version": 2616,
       "uid": "0x7hFdP71a11un2",
       "runId": 801681773
+    },
+    "95ilxk2183M6d3B": {
+      "name": "LotusFlower",
+      "char": 9,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 90,
+      "win": false,
+      "kills": 322,
+      "ultra": 0,
+      "skills": [
+        10,
+        7,
+        28,
+        14,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "95ilxk2183M6d3B",
+      "runId": 801681773
+    },
+    "CM312LhJ9lrKk0s": {
+      "name": "zaqmad",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 60,
+      "bwep": 58,
+      "win": false,
+      "kills": 496,
+      "ultra": 2,
+      "skills": [
+        10,
+        27,
+        22,
+        14,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CM312LhJ9lrKk0s",
+      "runId": 801681773
     }
   }
 }
