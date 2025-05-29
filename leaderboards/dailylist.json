@@ -510,6 +510,43 @@
       "version": 2616,
       "uid": "9j26bkgDJy7EIOB",
       "runId": 173009611
+    },
+    "IBg9ru40b203994": {
+      "name": "Dezax",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 6,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        27,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "IBg9ru40b203994",
+      "runId": 173009611
+    },
+    "Koknbf7qTj7sdtw": {
+      "name": "Hank",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Koknbf7qTj7sdtw",
+      "runId": 173009611
     }
   }
 }
