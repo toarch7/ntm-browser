@@ -120,17 +120,18 @@
       "name": "EgirlHunter",
       "char": 11,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 7,
-      "bwep": 5,
+      "wep": 20,
+      "bwep": 88,
       "win": false,
-      "kills": 133,
+      "kills": 174,
       "ultra": 0,
       "skills": [
         22,
-        27
+        8,
+        13
       ],
       "crown": 7,
       "version": 2616,
