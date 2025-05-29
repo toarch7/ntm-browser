@@ -45,6 +45,54 @@
       "version": 2616,
       "uid": "559m20TnnPeI646",
       "runId": 26696948
+    },
+    "95ilxk2183M6d3B": {
+      "name": "LotusFlower",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 27,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        14
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "95ilxk2183M6d3B",
+      "runId": 26696948
+    },
+    "AZLdd0P63t3ik95": {
+      "name": "Drakex",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 37,
+      "bwep": 63,
+      "win": false,
+      "kills": 747,
+      "ultra": 1,
+      "skills": [
+        8,
+        17,
+        16,
+        27,
+        2,
+        4,
+        9
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "AZLdd0P63t3ik95",
+      "runId": 26696948
     }
   }
 }
