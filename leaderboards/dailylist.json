@@ -441,6 +441,53 @@
       "version": 2616,
       "uid": "5Xwu1cn8Zr5us63",
       "runId": 173009611
+    },
+    "6v71N333DDGq4Kp": {
+      "name": "Nar",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 57,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        27,
+        12,
+        28,
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6v71N333DDGq4Kp",
+      "runId": 173009611
+    },
+    "QG253Pt5dYzFRCL": {
+      "name": "RZleonardo",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 2,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        27,
+        8,
+        7,
+        1
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "QG253Pt5dYzFRCL",
+      "runId": 173009611
     }
   }
 }
