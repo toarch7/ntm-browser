@@ -184,16 +184,21 @@
       "name": "abusamadresjone",
       "char": 11,
       "skin": false,
-      "area": 3,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 19,
-      "bwep": 7,
+      "wep": 124,
+      "bwep": 59,
       "win": false,
-      "kills": 176,
-      "ultra": 0,
+      "kills": 543,
+      "ultra": 2,
       "skills": [
-        8
+        8,
+        24,
+        2,
+        7,
+        12,
+        28
       ],
       "crown": 7,
       "version": 2616,
@@ -239,6 +244,27 @@
       "crown": 7,
       "version": 2616,
       "uid": "QicgSah6h6Y8KG7",
+      "runId": 26696948
+    },
+    "S9Z31CYTR2W08Fw": {
+      "name": "unsencitive",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 6,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        10,
+        14
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "S9Z31CYTR2W08Fw",
       "runId": 26696948
     }
   }
