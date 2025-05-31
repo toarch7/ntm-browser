@@ -306,6 +306,53 @@
       "version": 2616,
       "uid": "E3gI7quBH9qA245",
       "runId": 1554529364
+    },
+    "CFBED28M1HoRAKX": {
+      "name": "mambo",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 6,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        7,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CFBED28M1HoRAKX",
+      "runId": 1554529364
+    },
+    "uuG618z3fKffVMh": {
+      "name": "0",
+      "char": 3,
+      "skin": true,
+      "area": 106,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 35,
+      "win": false,
+      "kills": 475,
+      "ultra": 2,
+      "skills": [
+        3,
+        13,
+        27,
+        21,
+        4,
+        23,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uuG618z3fKffVMh",
+      "runId": 1554529364
     }
   }
 }
