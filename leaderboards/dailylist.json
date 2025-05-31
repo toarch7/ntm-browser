@@ -1,4 +1,87 @@
 {
   "day": 31,
-  "entries": {}
+  "entries": {
+    "bhgaA75W9P9OCqF": {
+      "name": "A26",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "bhgaA75W9P9OCqF",
+      "runId": 1554529364
+    },
+    "7C7UIq3Dr1Dh51n": {
+      "name": "brazzer18",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 15,
+      "crown": 1,
+      "version": 2616,
+      "uid": "7C7UIq3Dr1Dh51n",
+      "runId": 1554529364
+    },
+    "mZ1E3HFD334wi1j": {
+      "name": "Vaas",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 71,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mZ1E3HFD334wi1j",
+      "runId": 1554529364
+    },
+    "S9Z31CYTR2W08Fw": {
+      "name": "unsencitive",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": 2616,
+      "uid": "S9Z31CYTR2W08Fw",
+      "runId": 1554529364
+    },
+    "T01v8Fg6VPC54V8": {
+      "name": "Calensk",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 1,
+      "win": false,
+      "kills": 16,
+      "crown": 1,
+      "version": 2616,
+      "uid": "T01v8Fg6VPC54V8",
+      "runId": 1554529364
+    }
+  }
 }
