@@ -271,6 +271,67 @@
       "version": 2616,
       "uid": "7UpofKDW2O76mmd",
       "runId": 1473276686
+    },
+    "95ilxk2183M6d3B": {
+      "name": "LotusFlower",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "95ilxk2183M6d3B",
+      "runId": 1473276686
+    },
+    "x79YU94tYqM3pit": {
+      "name": "влад",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "x79YU94tYqM3pit",
+      "runId": 1473276686
+    },
+    "6qS758MGI7th4DP": {
+      "name": "brettgrizzly",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        21,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6qS758MGI7th4DP",
+      "runId": 1473276686
     }
   }
 }
