@@ -1,4 +1,97 @@
 {
   "day": 1,
-  "entries": {}
+  "entries": {
+    "7C7UIq3Dr1Dh51n": {
+      "name": "brazzer18",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 10,
+      "win": false,
+      "kills": 188,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7,
+        4
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "7C7UIq3Dr1Dh51n",
+      "runId": 1473276686
+    },
+    "fp6E4p3J50Jq7mV": {
+      "name": "myamsar",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 14,
+      "crown": 1,
+      "version": 2616,
+      "uid": "fp6E4p3J50Jq7mV",
+      "runId": 1473276686
+    },
+    "LR4Z0Y51PeF9C72": {
+      "name": "TB_neitor38",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": 2616,
+      "uid": "LR4Z0Y51PeF9C72",
+      "runId": 1473276686
+    },
+    "QP7Q7i0Ed1f73VY": {
+      "name": "Sam",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 17,
+      "crown": 1,
+      "version": 2616,
+      "uid": "QP7Q7i0Ed1f73VY",
+      "runId": 1473276686
+    },
+    "l4Jde5CduPkhNGC": {
+      "name": "Orestes",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        8,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "l4Jde5CduPkhNGC",
+      "runId": 1473276686
+    }
+  }
 }
