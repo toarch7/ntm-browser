@@ -332,6 +332,90 @@
       "version": 2616,
       "uid": "6qS758MGI7th4DP",
       "runId": 1473276686
+    },
+    "559m20TnnPeI646": {
+      "name": "DuckGhost732",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 72,
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        12,
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "559m20TnnPeI646",
+      "runId": 1473276686
+    },
+    "r92xr0N6TFH6O2R": {
+      "name": "kamado",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "r92xr0N6TFH6O2R",
+      "runId": 1473276686
+    },
+    "6v71N333DDGq4Kp": {
+      "name": "Nar",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 7,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6v71N333DDGq4Kp",
+      "runId": 1473276686
+    },
+    "wcw8p29P1BxW88g": {
+      "name": "Kira",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 53,
+      "win": false,
+      "kills": 358,
+      "ultra": 0,
+      "skills": [
+        21,
+        22,
+        27,
+        1,
+        7,
+        3,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wcw8p29P1BxW88g",
+      "runId": 1473276686
     }
   }
 }
