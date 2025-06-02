@@ -257,6 +257,70 @@
       "version": 2616,
       "uid": "CM312LhJ9lrKk0s",
       "runId": 396711888
+    },
+    "95ilxk2183M6d3B": {
+      "name": "LotusFlower",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "95ilxk2183M6d3B",
+      "runId": 396711888
+    },
+    "fp6E4p3J50Jq7mV": {
+      "name": "myamsar",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 20,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        27,
+        7,
+        10,
+        4,
+        26
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "fp6E4p3J50Jq7mV",
+      "runId": 396711888
+    },
+    "Z96m9O8w4tG8qs0": {
+      "name": "EnemySovonoK",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Z96m9O8w4tG8qs0",
+      "runId": 396711888
     }
   }
 }
