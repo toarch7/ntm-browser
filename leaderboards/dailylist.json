@@ -589,6 +589,29 @@
       "version": 2616,
       "uid": "bhgaA75W9P9OCqF",
       "runId": 396711888
+    },
+    "0oGyoKfZo06LCjB": {
+      "name": "squeaker",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 75,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        23,
+        7,
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0oGyoKfZo06LCjB",
+      "runId": 396711888
     }
   }
 }
