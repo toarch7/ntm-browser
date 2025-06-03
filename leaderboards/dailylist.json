@@ -430,6 +430,45 @@
       "version": 2616,
       "uid": "QG253Pt5dYzFRCL",
       "runId": 1727196543
+    },
+    "24yl93223ziSXyj": {
+      "name": "Am_356_323",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 116,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        27,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "24yl93223ziSXyj",
+      "runId": 1727196543
+    },
+    "95ilxk2183M6d3B": {
+      "name": "LotusFlower",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 37,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "95ilxk2183M6d3B",
+      "runId": 1727196543
     }
   }
 }
