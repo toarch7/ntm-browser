@@ -461,6 +461,46 @@
       "version": 2616,
       "uid": "9b93cS95RuEmd7t",
       "runId": 1572595386
+    },
+    "95ilxk2183M6d3B": {
+      "name": "LotusFlower",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 30,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        4,
+        25,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "95ilxk2183M6d3B",
+      "runId": 1572595386
+    },
+    "QP7Q7i0Ed1f73VY": {
+      "name": "Sam",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "QP7Q7i0Ed1f73VY",
+      "runId": 1572595386
     }
   }
 }
