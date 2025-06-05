@@ -345,6 +345,92 @@
       "version": 2616,
       "uid": "65N2xz7gE656Xlg",
       "runId": 1918020578
+    },
+    "9b93cS95RuEmd7t": {
+      "name": "thronenuclear",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 14,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        14,
+        27,
+        23
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "9b93cS95RuEmd7t",
+      "runId": 1918020578
+    },
+    "5NXn94sI2jpM51T": {
+      "name": "Confusion",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 67,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        22,
+        23,
+        27
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "5NXn94sI2jpM51T",
+      "runId": 1918020578
+    },
+    "LA7DCL2j67X3Nnh": {
+      "name": "Macheteknight",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 7,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        14,
+        27,
+        13
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "LA7DCL2j67X3Nnh",
+      "runId": 1918020578
+    },
+    "s4gorF2Dv2Jvj2U": {
+      "name": "Seeker90",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 7,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "s4gorF2Dv2Jvj2U",
+      "runId": 1918020578
     }
   }
 }
