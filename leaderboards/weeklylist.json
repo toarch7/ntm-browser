@@ -111,16 +111,18 @@
       "name": "MrLong",
       "char": 6,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 67,
-      "bwep": 2,
+      "wep": 117,
+      "bwep": 67,
       "win": false,
-      "kills": 74,
+      "kills": 130,
       "ultra": 0,
       "skills": [
-        24
+        24,
+        12,
+        13
       ],
       "crown": 3,
       "version": 2616,
@@ -321,6 +323,27 @@
       "crown": 3,
       "version": 2616,
       "uid": "s01Rv2Hyku31eKo",
+      "runId": 1918020578
+    },
+    "65N2xz7gE656Xlg": {
+      "name": "Xeleleb",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 88,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        14,
+        12
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "65N2xz7gE656Xlg",
       "runId": 1918020578
     }
   }
