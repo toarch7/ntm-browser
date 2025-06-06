@@ -312,16 +312,22 @@
       "name": "Agoty666",
       "char": 6,
       "skin": true,
-      "area": 2,
+      "area": 5,
       "subarea": 1,
-      "loops": 0,
-      "wep": 7,
-      "bwep": 67,
+      "loops": 1,
+      "wep": 77,
+      "bwep": 111,
       "win": false,
-      "kills": 62,
-      "ultra": 0,
+      "kills": 995,
+      "ultra": 1,
       "skills": [
-        23
+        23,
+        27,
+        13,
+        4,
+        1,
+        21,
+        14
       ],
       "crown": 3,
       "version": 2616,
@@ -498,6 +504,27 @@
       "crown": 3,
       "version": 2616,
       "uid": "R585zvTuOo16HDa",
+      "runId": 1918020578
+    },
+    "Ze987o1KQcQ7o1i": {
+      "name": "зелятоп",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 14,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        14,
+        12
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "Ze987o1KQcQ7o1i",
       "runId": 1918020578
     }
   }
