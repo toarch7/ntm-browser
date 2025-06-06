@@ -526,6 +526,47 @@
       "version": 2616,
       "uid": "Ze987o1KQcQ7o1i",
       "runId": 1918020578
+    },
+    "x5R8J8D23C4rkte": {
+      "name": "Seeker07",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 67,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "x5R8J8D23C4rkte",
+      "runId": 1918020578
+    },
+    "SocoZWsUnG3J748": {
+      "name": "nick/her",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 69,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        22,
+        14
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "SocoZWsUnG3J748",
+      "runId": 1918020578
     }
   }
 }
