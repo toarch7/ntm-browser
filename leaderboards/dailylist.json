@@ -589,6 +589,69 @@
       "version": 2616,
       "uid": "D97qG0fu6AB6Nz5",
       "runId": 706256746
+    },
+    "q6Wp0ea94Ve3U77": {
+      "name": "KingInYellow666",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "q6Wp0ea94Ve3U77",
+      "runId": 706256746
+    },
+    "suZvHC50B8UVEPf": {
+      "name": "deadpoo",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 14,
+      "win": false,
+      "kills": 266,
+      "ultra": 0,
+      "skills": [
+        10,
+        1,
+        14
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "suZvHC50B8UVEPf",
+      "runId": 706256746
+    },
+    "l4Jde5CduPkhNGC": {
+      "name": "Orestes",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 34,
+      "win": false,
+      "kills": 315,
+      "ultra": 0,
+      "skills": [
+        10,
+        1,
+        14,
+        27,
+        3,
+        7
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "l4Jde5CduPkhNGC",
+      "runId": 706256746
     }
   }
 }
