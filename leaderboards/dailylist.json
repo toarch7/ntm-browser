@@ -135,6 +135,43 @@
       "version": 2616,
       "uid": "0x7hFdP71a11un2",
       "runId": 121911917
+    },
+    "79V2nOsHmmIi0M3": {
+      "name": "Rust",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        4,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "79V2nOsHmmIi0M3",
+      "runId": 121911917
+    },
+    "q6Wp0ea94Ve3U77": {
+      "name": "KingInYellow666",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "q6Wp0ea94Ve3U77",
+      "runId": 121911917
     }
   }
 }
