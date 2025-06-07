@@ -643,9 +643,10 @@
       "wep": 67,
       "bwep": 69,
       "win": false,
-      "kills": 88,
+      "kills": 95,
       "ultra": 0,
       "skills": [
+        24,
         10,
         27
       ],
@@ -819,6 +820,26 @@
       "crown": 3,
       "version": 2616,
       "uid": "fB3TK622tO6h8Tw",
+      "runId": 1918020578
+    },
+    "ii83fy305oxZJpq": {
+      "name": "poopy69",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 69,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "ii83fy305oxZJpq",
       "runId": 1918020578
     }
   }
