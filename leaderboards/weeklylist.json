@@ -682,15 +682,16 @@
       "name": "Seeker712dante7",
       "char": 6,
       "skin": true,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 67,
-      "bwep": 0,
+      "wep": 14,
+      "bwep": 67,
       "win": false,
-      "kills": 66,
+      "kills": 147,
       "ultra": 0,
       "skills": [
+        14,
         23
       ],
       "crown": 3,
@@ -840,6 +841,27 @@
       "crown": 3,
       "version": 2616,
       "uid": "ii83fy305oxZJpq",
+      "runId": 1918020578
+    },
+    "LR4Z0Y51PeF9C72": {
+      "name": "TB_neitor38",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 116,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        10,
+        27
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "LR4Z0Y51PeF9C72",
       "runId": 1918020578
     }
   }
