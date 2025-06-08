@@ -595,17 +595,19 @@
       "name": "Bomber_man",
       "char": 6,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 67,
-      "bwep": 7,
+      "wep": 7,
+      "bwep": 67,
       "win": false,
-      "kills": 96,
+      "kills": 187,
       "ultra": 0,
       "skills": [
         23,
-        27
+        27,
+        13,
+        4
       ],
       "crown": 3,
       "version": 2616,
@@ -702,17 +704,18 @@
       "name": "Norekoreko",
       "char": 6,
       "skin": true,
-      "area": 2,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
       "wep": 67,
-      "bwep": 5,
+      "bwep": 117,
       "win": false,
-      "kills": 82,
+      "kills": 139,
       "ultra": 0,
       "skills": [
         22,
-        10
+        23,
+        27
       ],
       "crown": 3,
       "version": 2616,
@@ -1090,6 +1093,27 @@
       "crown": 3,
       "version": 2616,
       "uid": "6v71N333DDGq4Kp",
+      "runId": 1918020578
+    },
+    "D26q2RDHNhHvZKo": {
+      "name": "PinWii",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 117,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        14,
+        27
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "D26q2RDHNhHvZKo",
       "runId": 1918020578
     }
   }
