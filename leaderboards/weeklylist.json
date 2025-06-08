@@ -269,15 +269,14 @@
       "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 57,
-      "bwep": 105,
+      "wep": 60,
+      "bwep": 35,
       "win": false,
-      "kills": 337,
+      "kills": 380,
       "ultra": 0,
       "skills": [
-        23,
+        24,
         12,
-        17,
         7,
         1,
         28
@@ -707,12 +706,13 @@
       "subarea": 1,
       "loops": 0,
       "wep": 67,
-      "bwep": 69,
+      "bwep": 5,
       "win": false,
-      "kills": 71,
+      "kills": 82,
       "ultra": 0,
       "skills": [
-        23
+        22,
+        10
       ],
       "crown": 3,
       "version": 2616,
@@ -902,6 +902,29 @@
       "crown": 3,
       "version": 2616,
       "uid": "buf55I20R944RQq",
+      "runId": 1918020578
+    },
+    "M3q90bnZ7zzqN14": {
+      "name": "я_это_я",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 7,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        22,
+        14,
+        27,
+        13
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "M3q90bnZ7zzqN14",
       "runId": 1918020578
     }
   }
