@@ -1115,6 +1115,68 @@
       "version": 2616,
       "uid": "D26q2RDHNhHvZKo",
       "runId": 1918020578
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "Fanton",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 69,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        14,
+        23
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 1918020578
+    },
+    "DS2CUccioZ5b6Lv": {
+      "name": "mana",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 69,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "DS2CUccioZ5b6Lv",
+      "runId": 1918020578
+    },
+    "9j26bkgDJy7EIOB": {
+      "name": "zelo",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 0,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        23,
+        27
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "9j26bkgDJy7EIOB",
+      "runId": 1918020578
     }
   }
 }
