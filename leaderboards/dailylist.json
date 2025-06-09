@@ -69,6 +69,46 @@
       "version": 2616,
       "uid": "0x7hFdP71a11un2",
       "runId": 1644179137
+    },
+    "36lyg6gDZf31lew": {
+      "name": "Seeker4",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2616,
+      "uid": "36lyg6gDZf31lew",
+      "runId": 1644179137
+    },
+    "NEjQBnLw19uTlL5": {
+      "name": "Smolfrog",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 8,
+      "win": false,
+      "kills": 209,
+      "ultra": 0,
+      "skills": [
+        4,
+        14,
+        27,
+        1,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "NEjQBnLw19uTlL5",
+      "runId": 1644179137
     }
   }
 }
