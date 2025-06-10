@@ -1095,16 +1095,18 @@
       "name": "Nar",
       "char": 6,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 7,
-      "bwep": 67,
+      "wep": 67,
+      "bwep": 117,
       "win": false,
-      "kills": 74,
+      "kills": 141,
       "ultra": 0,
       "skills": [
-        14
+        10,
+        27,
+        13
       ],
       "crown": 3,
       "version": 2616,
@@ -1406,20 +1408,43 @@
       "name": "brazzer18",
       "char": 6,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 50,
+      "wep": 116,
       "bwep": 67,
       "win": false,
-      "kills": 81,
+      "kills": 92,
       "ultra": 0,
       "skills": [
-        14
+        24,
+        27
       ],
       "crown": 3,
       "version": 2616,
       "uid": "7C7UIq3Dr1Dh51n",
+      "runId": 1918020578
+    },
+    "5TeFSXVp2gN41W2": {
+      "name": "M0n",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 67,
+      "bwep": 89,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        22,
+        14,
+        27
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "5TeFSXVp2gN41W2",
       "runId": 1918020578
     }
   }
