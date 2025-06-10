@@ -384,6 +384,65 @@
       "version": 2616,
       "uid": "U4Wk5ZWxl7zl7L6",
       "runId": 1680480007
+    },
+    "t2C5Vn0u7G82s42": {
+      "name": "Seeker",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "t2C5Vn0u7G82s42",
+      "runId": 1680480007
+    },
+    "YBCY9M8C14Id2IB": {
+      "name": "greyber",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 18,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "YBCY9M8C14Id2IB",
+      "runId": 1680480007
+    },
+    "UY383lpD7x1FZJs": {
+      "name": "Farao",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 34,
+      "win": false,
+      "kills": 175,
+      "ultra": 0,
+      "skills": [
+        13,
+        27,
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "UY383lpD7x1FZJs",
+      "runId": 1680480007
     }
   }
 }
