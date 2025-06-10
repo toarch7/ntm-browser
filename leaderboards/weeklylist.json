@@ -1384,21 +1384,42 @@
       "name": "myamsar",
       "char": 6,
       "skin": true,
-      "area": 104,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 89,
-      "bwep": 67,
+      "wep": 67,
+      "bwep": 63,
       "win": false,
-      "kills": 147,
+      "kills": 155,
       "ultra": 0,
       "skills": [
-        23,
-        27
+        24,
+        21,
+        12
       ],
       "crown": 3,
       "version": 2616,
       "uid": "fp6E4p3J50Jq7mV",
+      "runId": 1918020578
+    },
+    "7C7UIq3Dr1Dh51n": {
+      "name": "brazzer18",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 67,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "7C7UIq3Dr1Dh51n",
       "runId": 1918020578
     }
   }
