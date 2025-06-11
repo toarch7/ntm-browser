@@ -1,4 +1,48 @@
 {
   "day": 11,
-  "entries": {}
+  "entries": {
+    "559m20TnnPeI646": {
+      "name": "DuckGhost732",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 5,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "559m20TnnPeI646",
+      "runId": 690952115
+    },
+    "5WN1j8x24Z0s84r": {
+      "name": "JenLee",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 5,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        10,
+        13,
+        27,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5WN1j8x24Z0s84r",
+      "runId": 690952115
+    }
+  }
 }
