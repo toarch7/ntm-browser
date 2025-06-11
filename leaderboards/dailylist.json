@@ -451,6 +451,32 @@
       "version": 2616,
       "uid": "xhX48dQZA175Zt8",
       "runId": 690952115
+    },
+    "M7BCl4nl338d6pp": {
+      "name": "Lpknight",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 25,
+      "bwep": 83,
+      "win": false,
+      "kills": 510,
+      "ultra": 1,
+      "skills": [
+        10,
+        12,
+        27,
+        14,
+        3,
+        4,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "M7BCl4nl338d6pp",
+      "runId": 690952115
     }
   }
 }
