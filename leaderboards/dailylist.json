@@ -197,6 +197,70 @@
       "version": 2616,
       "uid": "64lsh4Hwg4ysAv1",
       "runId": 690952115
+    },
+    "L553a39cOrx5L3e": {
+      "name": "skullnoise",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        16,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L553a39cOrx5L3e",
+      "runId": 690952115
+    },
+    "75j7iMFy0AJG68o": {
+      "name": "Danilix_.",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 3,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "75j7iMFy0AJG68o",
+      "runId": 690952115
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "Fanton",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 72,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        2,
+        13,
+        23,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 690952115
     }
   }
 }
