@@ -689,17 +689,20 @@
       "name": "Seeker712dante7",
       "char": 6,
       "skin": true,
-      "area": 104,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 14,
-      "bwep": 67,
+      "wep": 35,
+      "bwep": 89,
       "win": false,
-      "kills": 147,
+      "kills": 327,
       "ultra": 0,
       "skills": [
         14,
-        23
+        23,
+        7,
+        1,
+        28
       ],
       "crown": 3,
       "version": 2616,
@@ -1515,6 +1518,27 @@
       "crown": 3,
       "version": 2616,
       "uid": "82w7h429R1p2898",
+      "runId": 1918020578
+    },
+    "IzkVew52rs1EOst": {
+      "name": "National",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 72,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        14,
+        27
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "IzkVew52rs1EOst",
       "runId": 1918020578
     }
   }
