@@ -185,16 +185,16 @@
       "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 13,
-      "bwep": 12,
+      "wep": 17,
+      "bwep": 13,
       "win": false,
-      "kills": 144,
+      "kills": 169,
       "ultra": 0,
       "skills": [
         7,
         1,
         8,
-        27
+        6
       ],
       "crown": 11,
       "version": 2616,
@@ -244,6 +244,47 @@
       "crown": 11,
       "version": 2616,
       "uid": "9ul6222ZCkNg72n",
+      "runId": 1674467335
+    },
+    "mQ6dxSp1osVs2vM": {
+      "name": "bloodhail",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 109,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "mQ6dxSp1osVs2vM",
+      "runId": 1674467335
+    },
+    "65N2xz7gE656Xlg": {
+      "name": "Xeleleb",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 66,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        16,
+        8
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "65N2xz7gE656Xlg",
       "runId": 1674467335
     }
   }
