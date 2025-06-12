@@ -1,4 +1,157 @@
 {
   "day": 12,
-  "entries": {}
+  "entries": {
+    "0cHEJzssd48bOzz": {
+      "name": "asmodeus",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 20,
+      "win": false,
+      "kills": 215,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        6,
+        14,
+        26
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "0cHEJzssd48bOzz",
+      "runId": 523803755
+    },
+    "7C7UIq3Dr1Dh51n": {
+      "name": "brazzer18",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 24,
+      "win": false,
+      "kills": 211,
+      "ultra": 0,
+      "skills": [
+        4,
+        27,
+        9,
+        14,
+        1
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "7C7UIq3Dr1Dh51n",
+      "runId": 523803755
+    },
+    "bhgaA75W9P9OCqF": {
+      "name": "A26",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 21,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bhgaA75W9P9OCqF",
+      "runId": 523803755
+    },
+    "W1mkf49L9O5XpJw": {
+      "name": "Wazi",
+      "char": 12,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 34,
+      "win": false,
+      "kills": 185,
+      "ultra": 0,
+      "skills": [
+        17,
+        27,
+        9,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W1mkf49L9O5XpJw",
+      "runId": 523803755
+    },
+    "W36AYDnfg5H5mwJ": {
+      "name": "Ardillita",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 9,
+      "win": false,
+      "kills": 272,
+      "ultra": 0,
+      "skills": [
+        23,
+        9,
+        17,
+        1,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W36AYDnfg5H5mwJ",
+      "runId": 523803755
+    },
+    "LR4Z0Y51PeF9C72": {
+      "name": "TB_neitor38",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 21,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        4,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "LR4Z0Y51PeF9C72",
+      "runId": 523803755
+    },
+    "dONZ7J2Q581v218": {
+      "name": "juANITO",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 21,
+      "win": false,
+      "kills": 26,
+      "crown": 1,
+      "version": 2616,
+      "uid": "dONZ7J2Q581v218",
+      "runId": 523803755
+    }
+  }
 }
