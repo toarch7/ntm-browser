@@ -705,16 +705,18 @@
       "name": "abusamadresjone",
       "char": 6,
       "skin": false,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 13,
-      "bwep": 7,
+      "wep": 7,
+      "bwep": 117,
       "win": false,
-      "kills": 64,
+      "kills": 170,
       "ultra": 0,
       "skills": [
-        19
+        1,
+        8,
+        28
       ],
       "crown": 11,
       "version": 2616,
