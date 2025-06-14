@@ -610,17 +610,19 @@
       "name": "Seeker7",
       "char": 6,
       "skin": false,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 117,
-      "bwep": 69,
+      "wep": 71,
+      "bwep": 30,
       "win": false,
-      "kills": 65,
+      "kills": 152,
       "ultra": 0,
       "skills": [
         9,
-        1
+        1,
+        7,
+        27
       ],
       "crown": 11,
       "version": 2616,
@@ -877,6 +879,27 @@
       "crown": 11,
       "version": 2616,
       "uid": "Rm73Dyo9J1j07T9",
+      "runId": 1674467335
+    },
+    "q6Wp0ea94Ve3U77": {
+      "name": "KingInYellow666",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 13,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        7,
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "q6Wp0ea94Ve3U77",
       "runId": 1674467335
     }
   }
