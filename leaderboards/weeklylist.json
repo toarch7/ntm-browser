@@ -708,18 +708,21 @@
       "name": "abusamadresjone",
       "char": 6,
       "skin": false,
-      "area": 104,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 7,
-      "bwep": 117,
+      "wep": 58,
+      "bwep": 66,
       "win": false,
-      "kills": 170,
+      "kills": 271,
       "ultra": 0,
       "skills": [
         1,
-        8,
-        28
+        19,
+        28,
+        12,
+        16,
+        23
       ],
       "crown": 11,
       "version": 2616,
@@ -1012,6 +1015,69 @@
       "crown": 11,
       "version": 2616,
       "uid": "RwSmFhfr4aUyjy4",
+      "runId": 1674467335
+    },
+    "P0vKiYTE5Lj7c9d": {
+      "name": "Doomshroom",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 10,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        7,
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "P0vKiYTE5Lj7c9d",
+      "runId": 1674467335
+    },
+    "P6PtM0uC7GZ3Wtp": {
+      "name": "Seeker71",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 104,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "P6PtM0uC7GZ3Wtp",
+      "runId": 1674467335
+    },
+    "7C7UIq3Dr1Dh51n": {
+      "name": "brazzer18",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 10,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        27
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "7C7UIq3Dr1Dh51n",
       "runId": 1674467335
     }
   }
