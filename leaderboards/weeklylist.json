@@ -913,12 +913,12 @@
       "char": 6,
       "skin": false,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
       "wep": 13,
-      "bwep": 117,
+      "bwep": 71,
       "win": false,
-      "kills": 99,
+      "kills": 127,
       "ultra": 0,
       "skills": [
         7,
@@ -1106,6 +1106,29 @@
       "crown": 11,
       "version": 2616,
       "uid": "QicgSah6h6Y8KG7",
+      "runId": 1674467335
+    },
+    "BQ94DK9W2PvEZUx": {
+      "name": "Byebye",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 61,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        8,
+        28
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "BQ94DK9W2PvEZUx",
       "runId": 1674467335
     }
   }
