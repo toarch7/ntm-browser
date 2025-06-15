@@ -99,6 +99,66 @@
       "version": 2616,
       "uid": "H7I7XB81X1Bs7F2",
       "runId": 474943800
+    },
+    "iObNy1ZE83FUkRi": {
+      "name": "Throneseeker4",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "iObNy1ZE83FUkRi",
+      "runId": 474943800
+    },
+    "0x7hFdP71a11un2": {
+      "name": "iso_042aze",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 3,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        25,
+        7,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0x7hFdP71a11un2",
+      "runId": 474943800
+    },
+    "P0vKiYTE5Lj7c9d": {
+      "name": "Doomshroom",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 3,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        25,
+        7,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "P0vKiYTE5Lj7c9d",
+      "runId": 474943800
     }
   }
 }
