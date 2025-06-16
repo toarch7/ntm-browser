@@ -1184,15 +1184,15 @@
       "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 28,
-      "bwep": 62,
+      "wep": 4,
+      "bwep": 113,
       "win": false,
-      "kills": 141,
+      "kills": 150,
       "ultra": 0,
       "skills": [
         7,
         1,
-        21
+        6
       ],
       "crown": 11,
       "version": 2616,
@@ -1237,6 +1237,29 @@
       "crown": 11,
       "version": 2616,
       "uid": "kj7qj7OjvMAdlM0",
+      "runId": 1674467335
+    },
+    "3jBGlG89k7C1r0f": {
+      "name": "Diegovvvj",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 104,
+      "bwep": 13,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        12,
+        1,
+        8,
+        21
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "3jBGlG89k7C1r0f",
       "runId": 1674467335
     }
   }
