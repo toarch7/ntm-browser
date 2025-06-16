@@ -1,4 +1,63 @@
 {
   "day": 16,
-  "entries": {}
+  "entries": {
+    "VMCB84Sc650572Q": {
+      "name": "kido",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "VMCB84Sc650572Q",
+      "runId": 1865032898
+    },
+    "7C7UIq3Dr1Dh51n": {
+      "name": "brazzer18",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 17,
+      "win": false,
+      "kills": 235,
+      "ultra": 0,
+      "skills": [
+        4,
+        27,
+        10,
+        12,
+        19
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "7C7UIq3Dr1Dh51n",
+      "runId": 1865032898
+    },
+    "skNZm59J1T2O252": {
+      "name": "RZ_09",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 3,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "skNZm59J1T2O252",
+      "runId": 1865032898
+    }
+  }
 }
