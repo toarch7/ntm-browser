@@ -1470,6 +1470,74 @@
       "version": 2616,
       "uid": "8LvUnW87474e0m2",
       "runId": 1674467335
+    },
+    "4JAn8d4aQoJI4Od": {
+      "name": "dmblk",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 10,
+      "win": false,
+      "kills": 161,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        27
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "4JAn8d4aQoJI4Od",
+      "runId": 1674467335
+    },
+    "9j26bkgDJy7EIOB": {
+      "name": "zelo",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 12,
+      "win": false,
+      "kills": 238,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        27,
+        6,
+        26,
+        23
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "9j26bkgDJy7EIOB",
+      "runId": 1674467335
+    },
+    "eRKtQRUuw9a6wgo": {
+      "name": "A.Aguero",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 61,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        1,
+        8
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "eRKtQRUuw9a6wgo",
+      "runId": 1674467335
     }
   }
 }
