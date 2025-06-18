@@ -269,6 +269,47 @@
       "version": 2616,
       "uid": "skNZm59J1T2O252",
       "runId": 1732372247
+    },
+    "5MOOYmNhdv98hAL": {
+      "name": "finoyes",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 1,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5MOOYmNhdv98hAL",
+      "runId": 1732372247
+    },
+    "K97awxp38a8uXg2": {
+      "name": "Ninja_Panas",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 6,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        14,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "K97awxp38a8uXg2",
+      "runId": 1732372247
     }
   }
 }
