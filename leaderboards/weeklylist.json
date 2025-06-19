@@ -1,4 +1,73 @@
 {
   "seed": 56184947,
-  "entries": {}
+  "entries": {
+    "OG6oUWfDQdLREP4": {
+      "name": "abusamadresjone",
+      "char": 12,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 59,
+      "win": false,
+      "kills": 367,
+      "ultra": 0,
+      "skills": [
+        12,
+        7,
+        1,
+        2,
+        8,
+        25,
+        17
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
+      "runId": 56184947
+    },
+    "acRd6U1N3x57L16": {
+      "name": "Danzzak",
+      "char": 12,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 6,
+      "win": false,
+      "kills": 161,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        4
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "acRd6U1N3x57L16",
+      "runId": 56184947
+    },
+    "fp6E4p3J50Jq7mV": {
+      "name": "myamsar",
+      "char": 12,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 90,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "fp6E4p3J50Jq7mV",
+      "runId": 56184947
+    }
+  }
 }

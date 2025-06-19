@@ -1,4 +1,82 @@
 {
   "day": 19,
-  "entries": {}
+  "entries": {
+    "uBy8EwUNd50HG00": {
+      "name": "NoxGladius",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 19,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uBy8EwUNd50HG00",
+      "runId": 2007242856
+    },
+    "0jenRc9K0I4xbdT": {
+      "name": "joseju",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 6,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0jenRc9K0I4xbdT",
+      "runId": 2007242856
+    },
+    "559m20TnnPeI646": {
+      "name": "DuckGhost732",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "559m20TnnPeI646",
+      "runId": 2007242856
+    },
+    "2H0VQQ04vMwblL8": {
+      "name": "hellborn",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 7,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        23,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2H0VQQ04vMwblL8",
+      "runId": 2007242856
+    }
+  }
 }
