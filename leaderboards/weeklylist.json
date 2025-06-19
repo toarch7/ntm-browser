@@ -223,18 +223,18 @@
       "name": "BASOKA",
       "char": 12,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 90,
-      "bwep": 7,
+      "wep": 114,
+      "bwep": 90,
       "win": false,
-      "kills": 129,
+      "kills": 206,
       "ultra": 0,
       "skills": [
-        12,
         7,
-        1
+        1,
+        4
       ],
       "crown": 4,
       "version": 2616,
@@ -327,6 +327,24 @@
       "crown": 4,
       "version": 2616,
       "uid": "RwSmFhfr4aUyjy4",
+      "runId": 56184947
+    },
+    "w30zty75Cl4St2p": {
+      "name": "жгпа5",
+      "char": 12,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 7,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [],
+      "crown": 4,
+      "version": 2616,
+      "uid": "w30zty75Cl4St2p",
       "runId": 56184947
     }
   }
