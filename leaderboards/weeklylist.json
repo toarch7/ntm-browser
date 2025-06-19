@@ -135,16 +135,17 @@
       "name": "ErickMarlo",
       "char": 12,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 27,
-      "bwep": 90,
+      "wep": 90,
+      "bwep": 17,
       "win": false,
-      "kills": 74,
+      "kills": 159,
       "ultra": 0,
       "skills": [
-        7
+        7,
+        1
       ],
       "crown": 4,
       "version": 2616,
