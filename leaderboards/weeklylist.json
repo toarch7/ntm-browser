@@ -184,17 +184,22 @@
       "name": "DARKSALA",
       "char": 12,
       "skin": true,
-      "area": 5,
+      "area": 106,
       "subarea": 3,
-      "loops": 0,
-      "wep": 90,
-      "bwep": 88,
+      "loops": 1,
+      "wep": 118,
+      "bwep": 105,
       "win": false,
-      "kills": 129,
-      "ultra": 0,
+      "kills": 557,
+      "ultra": 1,
       "skills": [
         13,
-        1
+        1,
+        4,
+        8,
+        27,
+        10,
+        14
       ],
       "crown": 4,
       "version": 2616,
@@ -437,6 +442,27 @@
       "crown": 4,
       "version": 2616,
       "uid": "ab25r4ETlL2Myj6",
+      "runId": 56184947
+    },
+    "s4gorF2Dv2Jvj2U": {
+      "name": "Seeker90",
+      "char": 12,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 9,
+      "win": false,
+      "kills": 173,
+      "ultra": 0,
+      "skills": [
+        14,
+        4
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "s4gorF2Dv2Jvj2U",
       "runId": 56184947
     }
   }
