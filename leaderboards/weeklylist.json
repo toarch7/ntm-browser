@@ -74,17 +74,19 @@
       "name": "firetide78",
       "char": 12,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 6,
+      "subarea": 1,
       "loops": 0,
-      "wep": 90,
-      "bwep": 114,
+      "wep": 41,
+      "bwep": 23,
       "win": false,
-      "kills": 163,
+      "kills": 333,
       "ultra": 0,
       "skills": [
         7,
-        1
+        1,
+        16,
+        27
       ],
       "crown": 4,
       "version": 2616,
@@ -742,6 +744,24 @@
       "crown": 4,
       "version": 2616,
       "uid": "yo1dr98o1gW3tZ7",
+      "runId": 56184947
+    },
+    "48yrH1Dxj4C2TbG": {
+      "name": "Zelkyu",
+      "char": 12,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 21,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [],
+      "crown": 4,
+      "version": 2616,
+      "uid": "48yrH1Dxj4C2TbG",
       "runId": 56184947
     }
   }
