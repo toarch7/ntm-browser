@@ -886,17 +886,37 @@
       "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 90,
-      "bwep": 27,
+      "wep": 5,
+      "bwep": 90,
       "win": false,
-      "kills": 89,
+      "kills": 90,
       "ultra": 0,
       "skills": [
-        14
+        7
       ],
       "crown": 4,
       "version": 2616,
       "uid": "ICLf7sJNFCMG879",
+      "runId": 56184947
+    },
+    "du416bm8naaJi1y": {
+      "name": "Kser",
+      "char": 12,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 90,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "du416bm8naaJi1y",
       "runId": 56184947
     }
   }
