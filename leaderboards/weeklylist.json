@@ -854,6 +854,30 @@
       "version": 2616,
       "uid": "1G3Svz9Qt3FjFjJ",
       "runId": 56184947
+    },
+    "yWJ6vbQF7Dc3db0": {
+      "name": "SoulKepper",
+      "char": 12,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 20,
+      "win": false,
+      "kills": 160,
+      "ultra": 0,
+      "skills": [
+        12,
+        14,
+        25,
+        9,
+        4
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "yWJ6vbQF7Dc3db0",
+      "runId": 56184947
     }
   }
 }
