@@ -95,6 +95,50 @@
       "version": 2616,
       "uid": "CM312LhJ9lrKk0s",
       "runId": 1055301349
+    },
+    "l4Jde5CduPkhNGC": {
+      "name": "Orestes",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 81,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        25,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "l4Jde5CduPkhNGC",
+      "runId": 1055301349
+    },
+    "LR4Z0Y51PeF9C72": {
+      "name": "TB_neitor38",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 27,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        28,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "LR4Z0Y51PeF9C72",
+      "runId": 1055301349
     }
   }
 }
