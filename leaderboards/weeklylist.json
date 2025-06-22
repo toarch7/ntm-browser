@@ -981,6 +981,48 @@
       "version": 2616,
       "uid": "z2yfj1EE5VX80N2",
       "runId": 56184947
+    },
+    "C79epfpu9tSFH4a": {
+      "name": "Fortuno",
+      "char": 12,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 30,
+      "win": false,
+      "kills": 190,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        2
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "C79epfpu9tSFH4a",
+      "runId": 56184947
+    },
+    "6p0joFd4I4y77Ao": {
+      "name": "tiocaifan",
+      "char": 12,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 90,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "6p0joFd4I4y77Ao",
+      "runId": 56184947
     }
   }
 }
