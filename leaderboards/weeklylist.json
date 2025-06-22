@@ -941,6 +941,46 @@
       "version": 2616,
       "uid": "x15C7Lr56Z2HLWR",
       "runId": 56184947
+    },
+    "Uds2rS9gq6oSL6a": {
+      "name": "Quesito_Master",
+      "char": 12,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 9,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "Uds2rS9gq6oSL6a",
+      "runId": 56184947
+    },
+    "z2yfj1EE5VX80N2": {
+      "name": "santiago",
+      "char": 12,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 90,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "z2yfj1EE5VX80N2",
+      "runId": 56184947
     }
   }
 }
