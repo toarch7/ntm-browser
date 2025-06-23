@@ -384,6 +384,55 @@
       "version": 2616,
       "uid": "QP7Q7i0Ed1f73VY",
       "runId": 1089126483
+    },
+    "fXnUW4Oznt203Nd": {
+      "name": "markmen",
+      "char": 9,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 22,
+      "win": false,
+      "kills": 334,
+      "ultra": 0,
+      "skills": [
+        7,
+        10,
+        27,
+        9,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "fXnUW4Oznt203Nd",
+      "runId": 1089126483
+    },
+    "M7BCl4nl338d6pp": {
+      "name": "Lpknight",
+      "char": 5,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 34,
+      "win": false,
+      "kills": 352,
+      "ultra": 0,
+      "skills": [
+        7,
+        27,
+        14,
+        8,
+        1,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "M7BCl4nl338d6pp",
+      "runId": 1089126483
     }
   }
 }
