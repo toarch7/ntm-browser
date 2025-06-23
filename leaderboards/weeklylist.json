@@ -322,18 +322,20 @@
       "name": "hollowknight616",
       "char": 12,
       "skin": true,
-      "area": 104,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 57,
-      "bwep": 9,
+      "wep": 90,
+      "bwep": 8,
       "win": false,
-      "kills": 201,
+      "kills": 285,
       "ultra": 0,
       "skills": [
-        14,
+        7,
         1,
-        4
+        4,
+        8,
+        27
       ],
       "crown": 4,
       "version": 2616,
@@ -1215,6 +1217,27 @@
       "crown": 4,
       "version": 2616,
       "uid": "rIc5PjwcmN6P4CI",
+      "runId": 56184947
+    },
+    "A76Wa1TXa8R36Qv": {
+      "name": "MadChizhick",
+      "char": 12,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 34,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        7,
+        21
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "A76Wa1TXa8R36Qv",
       "runId": 56184947
     }
   }
