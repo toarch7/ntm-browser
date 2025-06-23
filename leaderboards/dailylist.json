@@ -1,4 +1,78 @@
 {
   "day": 23,
-  "entries": {}
+  "entries": {
+    "fnOwKpvpbR2u6A1": {
+      "name": "firetide78",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "fnOwKpvpbR2u6A1",
+      "runId": 1089126483
+    },
+    "LR4Z0Y51PeF9C72": {
+      "name": "TB_neitor38",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "LR4Z0Y51PeF9C72",
+      "runId": 1089126483
+    },
+    "NtSlK3615EOGa5z": {
+      "name": "andrei888",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 16,
+      "crown": 1,
+      "version": 2616,
+      "uid": "NtSlK3615EOGa5z",
+      "runId": 1089126483
+    },
+    "Jo15FH78b0v5884": {
+      "name": "Ram",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 17,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        10,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Jo15FH78b0v5884",
+      "runId": 1089126483
+    }
+  }
 }
