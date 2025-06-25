@@ -713,19 +713,20 @@
       "runId": 56184947
     },
     "NEjQBnLw19uTlL5": {
-      "name": "Faus7",
+      "name": "Hades",
       "char": 12,
       "skin": true,
       "area": 3,
       "subarea": 1,
       "loops": 0,
       "wep": 90,
-      "bwep": 0,
+      "bwep": 5,
       "win": false,
-      "kills": 112,
+      "kills": 131,
       "ultra": 0,
       "skills": [
-        7
+        7,
+        1
       ],
       "crown": 4,
       "version": 2616,
