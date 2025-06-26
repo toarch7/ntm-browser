@@ -73,18 +73,21 @@
       "name": "firetide78",
       "char": 1,
       "skin": true,
-      "area": 104,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 11,
-      "bwep": 8,
+      "wep": 23,
+      "bwep": 89,
       "win": false,
-      "kills": 169,
+      "kills": 243,
       "ultra": 0,
       "skills": [
         9,
         7,
-        28
+        14,
+        28,
+        1,
+        4
       ],
       "crown": 11,
       "version": 2616,
@@ -315,6 +318,28 @@
       "crown": 11,
       "version": 2616,
       "uid": "NkgYgAk2njh3ARl",
+      "runId": 383954171
+    },
+    "X7HAP4mmVaX45zq": {
+      "name": "huevo_minion.2",
+      "char": 1,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 23,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        21,
+        14,
+        22
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "X7HAP4mmVaX45zq",
       "runId": 383954171
     }
   }
