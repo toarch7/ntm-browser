@@ -411,17 +411,18 @@
       "name": "poopy69",
       "char": 1,
       "skin": true,
-      "area": 3,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 62,
-      "bwep": 34,
+      "wep": 75,
+      "bwep": 11,
       "win": false,
-      "kills": 83,
+      "kills": 154,
       "ultra": 0,
       "skills": [
         21,
-        28
+        28,
+        23
       ],
       "crown": 11,
       "version": 2616,
@@ -452,6 +453,28 @@
       "crown": 11,
       "version": 2616,
       "uid": "5NXn94sI2jpM51T",
+      "runId": 383954171
+    },
+    "10XDHp1TVHD7S5k": {
+      "name": "say",
+      "char": 1,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 10,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        9,
+        28,
+        6
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "10XDHp1TVHD7S5k",
       "runId": 383954171
     }
   }
