@@ -1022,6 +1022,80 @@
       "version": 2616,
       "uid": "EKpdR1MUZP9V5j4",
       "runId": 383954171
+    },
+    "du416bm8naaJi1y": {
+      "name": "Kser",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 124,
+      "win": false,
+      "kills": 224,
+      "ultra": 0,
+      "skills": [
+        21,
+        7,
+        14,
+        22,
+        8,
+        4
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "du416bm8naaJi1y",
+      "runId": 383954171
+    },
+    "I85182v0q9beOjb": {
+      "name": "jin",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 22,
+      "win": false,
+      "kills": 233,
+      "ultra": 0,
+      "skills": [
+        9,
+        8,
+        14,
+        21,
+        7,
+        25
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "I85182v0q9beOjb",
+      "runId": 383954171
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "Fanton",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 62,
+      "win": false,
+      "kills": 194,
+      "ultra": 0,
+      "skills": [
+        3,
+        7,
+        6,
+        13,
+        10
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 383954171
     }
   }
 }
