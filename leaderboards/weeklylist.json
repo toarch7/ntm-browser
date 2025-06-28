@@ -1096,6 +1096,32 @@
       "version": 2616,
       "uid": "9EkyKX48VdSH7VW",
       "runId": 383954171
+    },
+    "D9q677j9QZu9E39": {
+      "name": "Seek",
+      "char": 1,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 92,
+      "bwep": 111,
+      "win": false,
+      "kills": 1010,
+      "ultra": 1,
+      "skills": [
+        8,
+        28,
+        21,
+        1,
+        4,
+        17,
+        27
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "D9q677j9QZu9E39",
+      "runId": 383954171
     }
   }
 }
