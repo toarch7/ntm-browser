@@ -1,4 +1,87 @@
 {
   "day": 29,
-  "entries": {}
+  "entries": {
+    "W36AYDnfg5H5mwJ": {
+      "name": "Ardillita",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 12,
+      "bwep": 22,
+      "win": false,
+      "kills": 623,
+      "ultra": 2,
+      "skills": [
+        12,
+        23,
+        2,
+        8,
+        1,
+        25,
+        21
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "W36AYDnfg5H5mwJ",
+      "runId": 874705458
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 25,
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 874705458
+    },
+    "L159Z242ODEZkNA": {
+      "name": "andreded",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L159Z242ODEZkNA",
+      "runId": 874705458
+    },
+    "M4463L5j78lwMa2": {
+      "name": "DaRELFinklDnkle",
+      "char": 14,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "M4463L5j78lwMa2",
+      "runId": 874705458
+    }
+  }
 }
