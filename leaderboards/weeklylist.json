@@ -760,16 +760,19 @@
       "name": "Skibidi",
       "char": 1,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 62,
-      "bwep": 69,
+      "wep": 76,
+      "bwep": 2,
       "win": false,
-      "kills": 110,
+      "kills": 155,
       "ultra": 0,
       "skills": [
-        7
+        3,
+        7,
+        14,
+        28
       ],
       "crown": 11,
       "version": 2616,
@@ -1417,6 +1420,28 @@
       "crown": 11,
       "version": 2616,
       "uid": "3RoF5v1ODl922wE",
+      "runId": 383954171
+    },
+    "bK2S3zV0lk0BoqQ": {
+      "name": "fiveeyes",
+      "char": 1,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 112,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        21,
+        8,
+        28
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "bK2S3zV0lk0BoqQ",
       "runId": 383954171
     }
   }
