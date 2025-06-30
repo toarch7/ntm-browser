@@ -125,17 +125,17 @@
       "name": "markmen",
       "char": 1,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 13,
-      "bwep": 34,
+      "wep": 10,
+      "bwep": 62,
       "win": false,
-      "kills": 75,
+      "kills": 98,
       "ultra": 0,
       "skills": [
-        9,
-        7
+        21,
+        28
       ],
       "crown": 11,
       "version": 2616,
@@ -1597,6 +1597,55 @@
       "crown": 11,
       "version": 2616,
       "uid": "1E12l56CDLfRvup",
+      "runId": 383954171
+    },
+    "1a3aKH9R68c6qB1": {
+      "name": "Jj77jonas",
+      "char": 1,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 62,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        21,
+        28,
+        22
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "1a3aKH9R68c6qB1",
+      "runId": 383954171
+    },
+    "Yz0jrjVK1Ff99xm": {
+      "name": "blastlight",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 62,
+      "win": false,
+      "kills": 310,
+      "ultra": 0,
+      "skills": [
+        3,
+        21,
+        28,
+        6,
+        1,
+        4,
+        10,
+        27
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "Yz0jrjVK1Ff99xm",
       "runId": 383954171
     }
   }
