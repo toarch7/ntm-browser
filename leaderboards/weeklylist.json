@@ -194,13 +194,12 @@
       "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 2,
-      "bwep": 62,
+      "wep": 75,
+      "bwep": 2,
       "win": false,
-      "kills": 145,
+      "kills": 153,
       "ultra": 0,
       "skills": [
-        21,
         7,
         14,
         6
@@ -1572,6 +1571,26 @@
       "crown": 11,
       "version": 2616,
       "uid": "eHr4ty59h76IavD",
+      "runId": 383954171
+    },
+    "1E12l56CDLfRvup": {
+      "name": "XD099",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 62,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "1E12l56CDLfRvup",
       "runId": 383954171
     }
   }
