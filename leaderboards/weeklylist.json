@@ -1691,6 +1691,48 @@
       "version": 2616,
       "uid": "C79epfpu9tSFH4a",
       "runId": 383954171
+    },
+    "L1n8gzQ71vG3yPU": {
+      "name": "Dogeater",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 13,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        3,
+        7,
+        28
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "L1n8gzQ71vG3yPU",
+      "runId": 383954171
+    },
+    "acRd6U1N3x57L16": {
+      "name": "Danzzak",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 69,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "acRd6U1N3x57L16",
+      "runId": 383954171
     }
   }
 }

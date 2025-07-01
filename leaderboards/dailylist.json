@@ -1,4 +1,49 @@
 {
   "day": 1,
-  "entries": {}
+  "entries": {
+    "K97awxp38a8uXg2": {
+      "name": "Ninja_Panas",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 2,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        14,
+        8,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "K97awxp38a8uXg2",
+      "runId": 1103799234
+    },
+    "ipKgRjn5aK4K4T7": {
+      "name": "izaki",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 3,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        12,
+        8,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ipKgRjn5aK4K4T7",
+      "runId": 1103799234
+    }
+  }
 }
