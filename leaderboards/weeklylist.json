@@ -1718,16 +1718,18 @@
       "name": "Danzzak",
       "char": 1,
       "skin": true,
-      "area": 3,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 62,
-      "bwep": 69,
+      "wep": 11,
+      "bwep": 26,
       "win": false,
-      "kills": 82,
+      "kills": 171,
       "ultra": 0,
       "skills": [
-        14
+        14,
+        6,
+        8
       ],
       "crown": 11,
       "version": 2616,
