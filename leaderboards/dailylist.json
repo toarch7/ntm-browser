@@ -198,6 +198,50 @@
       "version": 2616,
       "uid": "ICLf7sJNFCMG879",
       "runId": 1103799234
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 10,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        21,
+        8,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 1103799234
+    },
+    "rjp80SXrYI88093": {
+      "name": "Тайнодёрнул",
+      "char": 15,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 11,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        14,
+        8,
+        9
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "rjp80SXrYI88093",
+      "runId": 1103799234
     }
   }
 }
