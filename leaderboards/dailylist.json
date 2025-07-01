@@ -284,6 +284,53 @@
       "version": 2616,
       "uid": "cuClQz71810v24k",
       "runId": 1103799234
+    },
+    "8gETd3Y71iYr459": {
+      "name": "JFMAESTRO",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        12,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8gETd3Y71iYr459",
+      "runId": 1103799234
+    },
+    "7L6k7fkDwqhleD2": {
+      "name": "RamiDeluxe",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 11,
+      "win": false,
+      "kills": 336,
+      "ultra": 0,
+      "skills": [
+        14,
+        8,
+        3,
+        25,
+        1,
+        24,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7L6k7fkDwqhleD2",
+      "runId": 1103799234
     }
   }
 }
