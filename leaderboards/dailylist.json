@@ -242,6 +242,48 @@
       "version": 2616,
       "uid": "rjp80SXrYI88093",
       "runId": 1103799234
+    },
+    "nxSF5cY852Z4o97": {
+      "name": "Breserker",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        14,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "nxSF5cY852Z4o97",
+      "runId": 1103799234
+    },
+    "cuClQz71810v24k": {
+      "name": "spaghetti",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        14,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cuClQz71810v24k",
+      "runId": 1103799234
     }
   }
 }
