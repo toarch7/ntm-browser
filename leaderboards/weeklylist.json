@@ -1900,6 +1900,30 @@
       "version": 2616,
       "uid": "9iWzoW28ezWxa88",
       "runId": 383954171
+    },
+    "xMhIzG51UGJ72Un": {
+      "name": "quirrel",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 25,
+      "win": false,
+      "kills": 238,
+      "ultra": 0,
+      "skills": [
+        21,
+        8,
+        22,
+        7,
+        25
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "xMhIzG51UGJ72Un",
+      "runId": 383954171
     }
   }
 }
