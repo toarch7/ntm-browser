@@ -1,4 +1,81 @@
 {
   "day": 3,
-  "entries": {}
+  "entries": {
+    "nygh78ZpeHR56nu": {
+      "name": "feer",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "nygh78ZpeHR56nu",
+      "runId": 1815854232
+    },
+    "rIc5PjwcmN6P4CI": {
+      "name": "Seeke",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 5,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rIc5PjwcmN6P4CI",
+      "runId": 1815854232
+    },
+    "W1mkf49L9O5XpJw": {
+      "name": "Wazi",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "W1mkf49L9O5XpJw",
+      "runId": 1815854232
+    },
+    "7Apc2a81cRel30u": {
+      "name": "PedroFF",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 5,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7Apc2a81cRel30u",
+      "runId": 1815854232
+    }
+  }
 }
