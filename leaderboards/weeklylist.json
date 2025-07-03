@@ -211,15 +211,19 @@
       "name": "RahmadNaigajo",
       "char": 3,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
       "wep": 9,
-      "bwep": 0,
+      "bwep": 34,
       "win": false,
-      "kills": 65,
+      "kills": 242,
       "ultra": 0,
       "skills": [
+        8,
+        21,
+        13,
+        14,
         10
       ],
       "crown": 9,
@@ -371,6 +375,73 @@
       "crown": 9,
       "version": 2616,
       "uid": "35qaJHuCEC2I7fr",
+      "runId": 1720393040
+    },
+    "0jenRc9K0I4xbdT": {
+      "name": "joseju",
+      "char": 3,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 9,
+      "win": false,
+      "kills": 330,
+      "ultra": 0,
+      "skills": [
+        8,
+        12,
+        4,
+        10,
+        19
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "0jenRc9K0I4xbdT",
+      "runId": 1720393040
+    },
+    "p79pv5lCpXcjsft": {
+      "name": "BASOKA",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 0,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        8,
+        9,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "p79pv5lCpXcjsft",
+      "runId": 1720393040
+    },
+    "VSud32ynq8BeWOF": {
+      "name": "elmalodla8..",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 9,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        10,
+        8
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "VSud32ynq8BeWOF",
       "runId": 1720393040
     }
   }
