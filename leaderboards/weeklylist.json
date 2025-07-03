@@ -226,6 +226,54 @@
       "version": 2616,
       "uid": "ICLf7sJNFCMG879",
       "runId": 1720393040
+    },
+    "C5NK0x36H7C06FF": {
+      "name": "Соплежуй",
+      "char": 3,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 0,
+      "win": false,
+      "kills": 314,
+      "ultra": 0,
+      "skills": [
+        25,
+        23,
+        9,
+        8,
+        14,
+        4,
+        27
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "C5NK0x36H7C06FF",
+      "runId": 1720393040
+    },
+    "fXnUW4Oznt203Nd": {
+      "name": "markmen",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 3,
+      "win": false,
+      "kills": 193,
+      "ultra": 0,
+      "skills": [
+        10,
+        13,
+        28
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "fXnUW4Oznt203Nd",
+      "runId": 1720393040
     }
   }
 }
