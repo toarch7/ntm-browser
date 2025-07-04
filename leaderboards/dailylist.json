@@ -450,6 +450,70 @@
       "version": 2616,
       "uid": "9Oq9e3Mb4ZJG9Z4",
       "runId": 1285851488
+    },
+    "1z550N238wl7QQj": {
+      "name": "Huesosor",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 117,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        8,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1z550N238wl7QQj",
+      "runId": 1285851488
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        8,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 1285851488
+    },
+    "88XebJEFXlocBWl": {
+      "name": "Frobit",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "88XebJEFXlocBWl",
+      "runId": 1285851488
     }
   }
 }
