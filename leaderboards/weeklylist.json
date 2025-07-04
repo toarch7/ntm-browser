@@ -164,20 +164,23 @@
       "name": "happytube",
       "char": 3,
       "skin": false,
-      "area": 7,
+      "area": 0,
       "subarea": 1,
-      "loops": 0,
-      "wep": 34,
+      "loops": 1,
+      "wep": 37,
       "bwep": 9,
       "win": false,
-      "kills": 319,
+      "kills": 361,
       "ultra": 0,
       "skills": [
-        10,
+        25,
         8,
         12,
+        14,
         7,
-        4
+        10,
+        27,
+        3
       ],
       "crown": 9,
       "version": 2616,
@@ -689,6 +692,28 @@
       "crown": 9,
       "version": 2616,
       "uid": "RwSmFhfr4aUyjy4",
+      "runId": 1720393040
+    },
+    "3FQSX1KQYGDXBwU": {
+      "name": "CB6HDRG12OXG6",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 0,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        10,
+        9,
+        22
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "3FQSX1KQYGDXBwU",
       "runId": 1720393040
     }
   }
