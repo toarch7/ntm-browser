@@ -715,6 +715,49 @@
       "version": 2616,
       "uid": "3FQSX1KQYGDXBwU",
       "runId": 1720393040
+    },
+    "n75h7UIKoVj25SG": {
+      "name": "Seeker6",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 9,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        8,
+        9,
+        22
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "n75h7UIKoVj25SG",
+      "runId": 1720393040
+    },
+    "Vn0QP832mC9khS8": {
+      "name": "Norekoreko",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 16,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        10,
+        9
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "Vn0QP832mC9khS8",
+      "runId": 1720393040
     }
   }
 }
