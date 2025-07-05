@@ -1339,19 +1339,40 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 34,
-      "bwep": 9,
+      "wep": 9,
+      "bwep": 23,
       "win": false,
-      "kills": 236,
+      "kills": 240,
       "ultra": 0,
       "skills": [
+        10,
+        9,
         8,
-        4,
         26
       ],
       "crown": 9,
       "version": 2616,
       "uid": "3A8mY81214oB3uU",
+      "runId": 1720393040
+    },
+    "5YpA7E933ACe0G3": {
+      "name": "Poseidon",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 0,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "5YpA7E933ACe0G3",
       "runId": 1720393040
     }
   }
