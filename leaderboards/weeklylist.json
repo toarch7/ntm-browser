@@ -525,22 +525,21 @@
       "name": "Seek",
       "char": 3,
       "skin": false,
-      "area": 1,
-      "subarea": 3,
+      "area": 2,
+      "subarea": 1,
       "loops": 1,
       "wep": 13,
-      "bwep": 26,
+      "bwep": 9,
       "win": false,
-      "kills": 563,
-      "ultra": 1,
+      "kills": 708,
+      "ultra": 2,
       "skills": [
-        8,
-        12,
-        4,
-        28,
         10,
-        27,
-        2
+        9,
+        8,
+        28,
+        4,
+        27
       ],
       "crown": 9,
       "version": 2616,
@@ -1149,6 +1148,27 @@
       "crown": 9,
       "version": 2616,
       "uid": "5O16m6T7PbwSku9",
+      "runId": 1720393040
+    },
+    "QG253Pt5dYzFRCL": {
+      "name": "RZleonardo",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 0,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        8,
+        9
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "QG253Pt5dYzFRCL",
       "runId": 1720393040
     }
   }
