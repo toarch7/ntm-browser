@@ -194,6 +194,46 @@
       "version": 2616,
       "uid": "rjp80SXrYI88093",
       "runId": 1989695253
+    },
+    "Q86F1f9l9fPlB1z": {
+      "name": "GoGa",
+      "char": 9,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 4,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Q86F1f9l9fPlB1z",
+      "runId": 1989695253
+    },
+    "5WN1j8x24Z0s84r": {
+      "name": "JenLee",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 21,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5WN1j8x24Z0s84r",
+      "runId": 1989695253
     }
   }
 }
