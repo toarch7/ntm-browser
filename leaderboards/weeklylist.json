@@ -952,13 +952,13 @@
       "name": "TB_neitor38",
       "char": 3,
       "skin": false,
-      "area": 7,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 23,
-      "bwep": 105,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 105,
+      "bwep": 26,
       "win": false,
-      "kills": 340,
+      "kills": 355,
       "ultra": 0,
       "skills": [
         10,
@@ -967,7 +967,8 @@
         14,
         28,
         4,
-        27
+        27,
+        2
       ],
       "crown": 9,
       "version": 2616,
@@ -1572,13 +1573,13 @@
       "name": "Seeker712dante7",
       "char": 3,
       "skin": false,
-      "area": 0,
+      "area": 1,
       "subarea": 1,
       "loops": 1,
-      "wep": 67,
+      "wep": 97,
       "bwep": 9,
       "win": false,
-      "kills": 347,
+      "kills": 393,
       "ultra": 0,
       "skills": [
         10,
@@ -1587,7 +1588,7 @@
         14,
         23,
         4,
-        19
+        2
       ],
       "crown": 9,
       "version": 2616,
@@ -1792,6 +1793,27 @@
       "crown": 9,
       "version": 2616,
       "uid": "0qx68nR42Dk5k1W",
+      "runId": 1720393040
+    },
+    "iRN1vKhe0rnwjKQ": {
+      "name": "funktastico",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 0,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        10,
+        12
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "iRN1vKhe0rnwjKQ",
       "runId": 1720393040
     }
   }
