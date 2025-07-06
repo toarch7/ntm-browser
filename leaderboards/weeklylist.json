@@ -1069,19 +1069,20 @@
       "name": "Seeker90",
       "char": 3,
       "skin": false,
-      "area": 5,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 3,
-      "bwep": 34,
+      "wep": 23,
+      "bwep": 26,
       "win": false,
-      "kills": 179,
+      "kills": 305,
       "ultra": 0,
       "skills": [
         10,
-        9,
+        12,
         8,
-        28
+        14,
+        4
       ],
       "crown": 9,
       "version": 2616,
@@ -1703,6 +1704,31 @@
       "crown": 9,
       "version": 2616,
       "uid": "ky84JsFF2bIV98S",
+      "runId": 1720393040
+    },
+    "QCuF3Tq0085A195": {
+      "name": "cavees",
+      "char": 3,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 34,
+      "win": false,
+      "kills": 309,
+      "ultra": 0,
+      "skills": [
+        10,
+        9,
+        8,
+        14,
+        4,
+        27
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "QCuF3Tq0085A195",
       "runId": 1720393040
     }
   }
