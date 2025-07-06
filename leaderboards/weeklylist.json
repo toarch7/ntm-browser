@@ -1666,17 +1666,18 @@
       "name": "est",
       "char": 3,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
       "wep": 3,
       "bwep": 9,
       "win": false,
-      "kills": 75,
+      "kills": 123,
       "ultra": 0,
       "skills": [
         10,
-        9
+        9,
+        13
       ],
       "crown": 9,
       "version": 2616,
