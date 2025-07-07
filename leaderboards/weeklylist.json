@@ -2091,6 +2091,53 @@
       "version": 2616,
       "uid": "XM5kS0JhrPz4jEs",
       "runId": 1720393040
+    },
+    "b706OO4wIRc4Vt6": {
+      "name": "Orpheus",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 34,
+      "win": false,
+      "kills": 258,
+      "ultra": 0,
+      "skills": [
+        25,
+        12,
+        8,
+        14,
+        19
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "b706OO4wIRc4Vt6",
+      "runId": 1720393040
+    },
+    "Iq3wvuR5Qa6cqC6": {
+      "name": "Luxers",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 9,
+      "win": false,
+      "kills": 247,
+      "ultra": 0,
+      "skills": [
+        10,
+        12,
+        8,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "Iq3wvuR5Qa6cqC6",
+      "runId": 1720393040
     }
   }
 }
