@@ -296,10 +296,10 @@
       "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 9,
-      "bwep": 0,
+      "wep": 74,
+      "bwep": 9,
       "win": false,
-      "kills": 285,
+      "kills": 312,
       "ultra": 0,
       "skills": [
         25,
@@ -418,18 +418,19 @@
       "char": 3,
       "skin": false,
       "area": 5,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 9,
-      "bwep": 5,
+      "wep": 3,
+      "bwep": 9,
       "win": false,
-      "kills": 186,
+      "kills": 221,
       "ultra": 0,
       "skills": [
         10,
-        12,
+        9,
         8,
-        26
+        13,
+        28
       ],
       "crown": 9,
       "version": 2616,
@@ -2231,6 +2232,31 @@
       "crown": 9,
       "version": 2616,
       "uid": "ni79Jw2Lma8PY5z",
+      "runId": 1720393040
+    },
+    "1noI4gU1PX1U3X0": {
+      "name": "harushee",
+      "char": 3,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 9,
+      "win": false,
+      "kills": 349,
+      "ultra": 0,
+      "skills": [
+        10,
+        21,
+        8,
+        12,
+        3,
+        27
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "1noI4gU1PX1U3X0",
       "runId": 1720393040
     }
   }
