@@ -883,21 +883,22 @@
       "name": "hunter",
       "char": 3,
       "skin": false,
-      "area": 7,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 14,
-      "bwep": 74,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 9,
+      "bwep": 111,
       "win": false,
-      "kills": 333,
+      "kills": 414,
       "ultra": 0,
       "skills": [
         8,
         9,
         4,
-        14,
-        25,
-        27
+        12,
+        10,
+        27,
+        14
       ],
       "crown": 9,
       "version": 2616,
@@ -2137,6 +2138,29 @@
       "crown": 9,
       "version": 2616,
       "uid": "Iq3wvuR5Qa6cqC6",
+      "runId": 1720393040
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 9,
+      "win": false,
+      "kills": 170,
+      "ultra": 0,
+      "skills": [
+        10,
+        12,
+        8,
+        26
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
       "runId": 1720393040
     }
   }
