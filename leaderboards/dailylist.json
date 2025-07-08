@@ -251,6 +251,50 @@
       "version": 2616,
       "uid": "TvbX5np2U8A70y4",
       "runId": 715197601
+    },
+    "00zAg1lhco3H59J": {
+      "name": "muxamaca",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 117,
+      "win": false,
+      "kills": 253,
+      "ultra": 0,
+      "skills": [
+        13,
+        28,
+        1,
+        4,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "00zAg1lhco3H59J",
+      "runId": 715197601
+    },
+    "rjp80SXrYI88093": {
+      "name": "Тайнодёрнул",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rjp80SXrYI88093",
+      "runId": 715197601
     }
   }
 }
