@@ -190,6 +190,44 @@
       "version": 2616,
       "uid": "rjp80SXrYI88093",
       "runId": 1309812338
+    },
+    "6v71N333DDGq4Kp": {
+      "name": "Nar",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "6v71N333DDGq4Kp",
+      "runId": 1309812338
+    },
+    "1Aw79ByHPBzcDb5": {
+      "name": "See",
+      "char": 1,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 7,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        16,
+        1,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1Aw79ByHPBzcDb5",
+      "runId": 1309812338
     }
   }
 }
