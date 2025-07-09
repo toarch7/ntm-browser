@@ -2351,22 +2351,44 @@
       "char": 3,
       "skin": false,
       "area": 5,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 71,
-      "bwep": 9,
+      "wep": 58,
+      "bwep": 31,
       "win": false,
-      "kills": 224,
+      "kills": 263,
       "ultra": 0,
       "skills": [
         8,
         9,
         4,
-        12
+        12,
+        3
       ],
       "crown": 9,
       "version": 2616,
       "uid": "CywlPvxA7mKYDfc",
+      "runId": 1720393040
+    },
+    "gwosmJN8e10l4wp": {
+      "name": "Grikasu",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 16,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        10,
+        12
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "gwosmJN8e10l4wp",
       "runId": 1720393040
     }
   }
