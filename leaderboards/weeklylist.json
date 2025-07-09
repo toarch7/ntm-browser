@@ -1780,17 +1780,19 @@
       "name": "Kser",
       "char": 3,
       "skin": false,
-      "area": 4,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 34,
+      "wep": 57,
       "bwep": 9,
       "win": false,
-      "kills": 155,
+      "kills": 162,
       "ultra": 0,
       "skills": [
-        25,
-        22
+        17,
+        21,
+        13,
+        29
       ],
       "crown": 9,
       "version": 2616,
@@ -2414,6 +2416,28 @@
       "crown": 9,
       "version": 2616,
       "uid": "Uo9d0T9Q9awAOfT",
+      "runId": 1720393040
+    },
+    "x5M1gFq39RjPl2O": {
+      "name": "Seeker867.75",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 23,
+      "win": false,
+      "kills": 183,
+      "ultra": 0,
+      "skills": [
+        10,
+        8,
+        12
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "x5M1gFq39RjPl2O",
       "runId": 1720393040
     }
   }
