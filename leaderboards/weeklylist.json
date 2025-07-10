@@ -1,4 +1,30 @@
 {
   "seed": 1672847183,
-  "entries": {}
+  "entries": {
+    "3OoIaH6qdTEAsYl": {
+      "name": "Seeker37",
+      "char": 8,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 14,
+      "bwep": 0,
+      "win": false,
+      "kills": 389,
+      "ultra": 2,
+      "skills": [
+        10,
+        7,
+        4,
+        6,
+        14,
+        27
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "3OoIaH6qdTEAsYl",
+      "runId": 1672847183
+    }
+  }
 }
