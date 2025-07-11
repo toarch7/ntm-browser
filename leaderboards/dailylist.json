@@ -146,6 +146,62 @@
       "version": 2616,
       "uid": "1R0bZX0YdhGwkQ3",
       "runId": 850387281
+    },
+    "EX6yc5Q4o64i4AS": {
+      "name": "Takeda_Sakai",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EX6yc5Q4o64i4AS",
+      "runId": 850387281
+    },
+    "TvbX5np2U8A70y4": {
+      "name": "chrimsy",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 0,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "TvbX5np2U8A70y4",
+      "runId": 850387281
+    },
+    "Yz0jrjVK1Ff99xm": {
+      "name": "blastlight",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 0,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Yz0jrjVK1Ff99xm",
+      "runId": 850387281
     }
   }
 }
