@@ -1,4 +1,52 @@
 {
   "day": 12,
-  "entries": {}
+  "entries": {
+    "6v71N333DDGq4Kp": {
+      "name": "Nar",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 119,
+      "bwep": 53,
+      "win": false,
+      "kills": 341,
+      "ultra": 0,
+      "skills": [
+        14,
+        23,
+        27,
+        1,
+        4,
+        7,
+        2,
+        12
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "6v71N333DDGq4Kp",
+      "runId": 583589400
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 583589400
+    }
+  }
 }
