@@ -52,17 +52,18 @@
       "name": "jododendron",
       "char": 8,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 14,
+      "wep": 50,
       "bwep": 87,
       "win": false,
-      "kills": 60,
+      "kills": 122,
       "ultra": 0,
       "skills": [
         3,
-        14
+        1,
+        10
       ],
       "crown": 12,
       "version": 2616,
