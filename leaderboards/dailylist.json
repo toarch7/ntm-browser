@@ -1,4 +1,50 @@
 {
   "day": 14,
-  "entries": {}
+  "entries": {
+    "9lhdWZGe307739K": {
+      "name": "buttpipe",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 69,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9lhdWZGe307739K",
+      "runId": 1555442211
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 66,
+      "win": false,
+      "kills": 224,
+      "ultra": 0,
+      "skills": [
+        6,
+        3,
+        8,
+        7,
+        9,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 1555442211
+    }
+  }
 }
