@@ -320,6 +320,51 @@
       "version": 2616,
       "uid": "8gETd3Y71iYr459",
       "runId": 845703912
+    },
+    "V6yY50ul8w5zh56": {
+      "name": "árbol-verde",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 4,
+      "win": false,
+      "kills": 242,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        7,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "V6yY50ul8w5zh56",
+      "runId": 845703912
+    },
+    "kIRH45mFKf66AM4": {
+      "name": "Prol",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 3,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kIRH45mFKf66AM4",
+      "runId": 845703912
     }
   }
 }
