@@ -278,6 +278,48 @@
       "version": 2616,
       "uid": "0jenRc9K0I4xbdT",
       "runId": 845703912
+    },
+    "Qx29M52t9AnkY6w": {
+      "name": "EvilCat",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 20,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        13,
+        3,
+        8
+      ],
+      "crown": 11,
+      "version": 2620,
+      "uid": "Qx29M52t9AnkY6w",
+      "runId": 845703912
+    },
+    "8gETd3Y71iYr459": {
+      "name": "JFMAESTRO",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 17,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8gETd3Y71iYr459",
+      "runId": 845703912
     }
   }
 }
