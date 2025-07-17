@@ -131,6 +131,73 @@
       "version": 2616,
       "uid": "7UjeSnnc07ij35o",
       "runId": 33614
+    },
+    "00zAg1lhco3H59J": {
+      "name": "muxamaca",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 36,
+      "bwep": 11,
+      "win": false,
+      "kills": 194,
+      "ultra": 0,
+      "skills": [
+        25,
+        28,
+        1,
+        23,
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "00zAg1lhco3H59J",
+      "runId": 33614
+    },
+    "qO8bAIon2eMt9tC": {
+      "name": "est",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 36,
+      "bwep": 4,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        10,
+        2
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "qO8bAIon2eMt9tC",
+      "runId": 33614
+    },
+    "pJPo8fwo79udRY6": {
+      "name": "Schnecken_Huhn",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 36,
+      "bwep": 0,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        25,
+        12,
+        3
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "pJPo8fwo79udRY6",
+      "runId": 33614
     }
   }
 }
