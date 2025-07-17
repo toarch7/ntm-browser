@@ -225,17 +225,19 @@
       "name": "hernando",
       "char": 1,
       "skin": true,
-      "area": 103,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 36,
-      "bwep": 42,
+      "wep": 112,
+      "bwep": 23,
       "win": false,
-      "kills": 123,
+      "kills": 153,
       "ultra": 0,
       "skills": [
         24,
-        28
+        28,
+        1,
+        22
       ],
       "crown": 2,
       "version": 2616,
@@ -262,6 +264,48 @@
       "crown": 2,
       "version": 2616,
       "uid": "54C8OX9Ig02SLmF",
+      "runId": 33614
+    },
+    "gd3d4U4D3IdRc75": {
+      "name": "DarthurV",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 36,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        3,
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "gd3d4U4D3IdRc75",
+      "runId": 33614
+    },
+    "RwSmFhfr4aUyjy4": {
+      "name": "hollowknight616",
+      "char": 1,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 36,
+      "bwep": 9,
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        2,
+        1
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
       "runId": 33614
     }
   }
