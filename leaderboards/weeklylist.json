@@ -714,6 +714,96 @@
       "version": 2616,
       "uid": "U8044vatUm6Lmdv",
       "runId": 33614
+    },
+    "b706OO4wIRc4Vt6": {
+      "name": "Orpheus",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 36,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        25,
+        3
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "b706OO4wIRc4Vt6",
+      "runId": 33614
+    },
+    "UJ28z78WvQUreaF": {
+      "name": "Mati",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 36,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        3,
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "UJ28z78WvQUreaF",
+      "runId": 33614
+    },
+    "G37Fx6kMs7NT00t": {
+      "name": "Stal",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 59,
+      "win": false,
+      "kills": 213,
+      "ultra": 0,
+      "skills": [
+        25,
+        16,
+        3,
+        1,
+        23,
+        13
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "G37Fx6kMs7NT00t",
+      "runId": 33614
+    },
+    "ni79Jw2Lma8PY5z": {
+      "name": "Fropolimpus",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 36,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        1,
+        13
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "ni79Jw2Lma8PY5z",
+      "runId": 33614
     }
   }
 }
