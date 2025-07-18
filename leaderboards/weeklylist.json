@@ -804,6 +804,27 @@
       "version": 2616,
       "uid": "ni79Jw2Lma8PY5z",
       "runId": 33614
+    },
+    "xJ3s4A7UAkK4BV9": {
+      "name": "Seeker90",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 36,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        10,
+        6
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "xJ3s4A7UAkK4BV9",
+      "runId": 33614
     }
   }
 }
