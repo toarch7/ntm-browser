@@ -414,6 +414,49 @@
       "version": 2616,
       "uid": "0jenRc9K0I4xbdT",
       "runId": 1643235315
+    },
+    "g8y5Hjq19F13h7R": {
+      "name": "Mr.Pickles",
+      "char": 3,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 63,
+      "bwep": 36,
+      "win": false,
+      "kills": 349,
+      "ultra": 2,
+      "skills": [
+        27,
+        17,
+        9,
+        14,
+        4,
+        8,
+        23,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g8y5Hjq19F13h7R",
+      "runId": 1643235315
+    },
+    "lSf3bDSVLeRUUW2": {
+      "name": "mate_arg",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "lSf3bDSVLeRUUW2",
+      "runId": 1643235315
     }
   }
 }
