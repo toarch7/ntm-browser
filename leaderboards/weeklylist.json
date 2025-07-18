@@ -576,18 +576,20 @@
       "name": "markmen",
       "char": 1,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 36,
-      "bwep": 9,
+      "wep": 9,
+      "bwep": 12,
       "win": false,
-      "kills": 115,
+      "kills": 216,
       "ultra": 0,
       "skills": [
         10,
         28,
-        1
+        1,
+        23,
+        13
       ],
       "crown": 2,
       "version": 2616,
@@ -663,6 +665,54 @@
       "crown": 2,
       "version": 2616,
       "uid": "jG7KUse9hcHnsBj",
+      "runId": 33614
+    },
+    "z9Vscmm5Z5y6xws": {
+      "name": "Ealzomboy",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 36,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        10,
+        6
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "z9Vscmm5Z5y6xws",
+      "runId": 33614
+    },
+    "U8044vatUm6Lmdv": {
+      "name": "inst4",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 117,
+      "win": false,
+      "kills": 300,
+      "ultra": 0,
+      "skills": [
+        25,
+        7,
+        3,
+        1,
+        23,
+        13,
+        4,
+        17
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "U8044vatUm6Lmdv",
       "runId": 33614
     }
   }
