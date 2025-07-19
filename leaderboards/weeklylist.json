@@ -852,15 +852,17 @@
       "char": 1,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 61,
+      "wep": 16,
       "bwep": 36,
       "win": false,
-      "kills": 83,
+      "kills": 104,
       "ultra": 0,
       "skills": [
-        28
+        10,
+        28,
+        1
       ],
       "crown": 2,
       "version": 2616,
@@ -1104,6 +1106,27 @@
       "crown": 2,
       "version": 2616,
       "uid": "h30016ztn34lR34",
+      "runId": 33614
+    },
+    "0l6gj4Fx2U1E258": {
+      "name": "Ian",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 36,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        10,
+        28
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "0l6gj4Fx2U1E258",
       "runId": 33614
     }
   }
