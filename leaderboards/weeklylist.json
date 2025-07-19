@@ -97,13 +97,12 @@
       "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 16,
+      "wep": 69,
       "bwep": 36,
       "win": false,
-      "kills": 74,
+      "kills": 78,
       "ultra": 0,
       "skills": [
-        10,
         28
       ],
       "crown": 2,
@@ -356,19 +355,19 @@
       "name": "Seeker712dante7",
       "char": 1,
       "skin": true,
-      "area": 5,
-      "subarea": 2,
+      "area": 6,
+      "subarea": 1,
       "loops": 0,
       "wep": 10,
-      "bwep": 59,
+      "bwep": 64,
       "win": false,
-      "kills": 227,
+      "kills": 265,
       "ultra": 0,
       "skills": [
-        28,
+        6,
         4,
         23,
-        6
+        1
       ],
       "crown": 2,
       "version": 2616,
@@ -1039,6 +1038,49 @@
       "crown": 2,
       "version": 2616,
       "uid": "9b93cS95RuEmd7t",
+      "runId": 33614
+    },
+    "g957F46O3pj61no": {
+      "name": "BRUCE",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 36,
+      "bwep": 17,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        10,
+        28
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "g957F46O3pj61no",
+      "runId": 33614
+    },
+    "oj865M3BNz740Hg": {
+      "name": "Se",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 36,
+      "bwep": 8,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        25,
+        7,
+        6
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "oj865M3BNz740Hg",
       "runId": 33614
     }
   }
