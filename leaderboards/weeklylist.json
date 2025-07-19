@@ -94,16 +94,19 @@
       "name": "Seeke",
       "char": 1,
       "skin": true,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 69,
-      "bwep": 36,
+      "wep": 76,
+      "bwep": 9,
       "win": false,
-      "kills": 78,
+      "kills": 211,
       "ultra": 0,
       "skills": [
-        28
+        6,
+        4,
+        22,
+        1
       ],
       "crown": 2,
       "version": 2616,
@@ -1169,6 +1172,51 @@
       "crown": 2,
       "version": 2616,
       "uid": "qZ0A11MvYtwI52r",
+      "runId": 33614
+    },
+    "xGYszVsTKzUJc3c": {
+      "name": "agazeta",
+      "char": 1,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 50,
+      "win": false,
+      "kills": 161,
+      "ultra": 0,
+      "skills": [
+        10,
+        28,
+        1,
+        24
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "xGYszVsTKzUJc3c",
+      "runId": 33614
+    },
+    "75z1Q3o6AIx5AvT": {
+      "name": "destro",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 36,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        25,
+        16,
+        6
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "75z1Q3o6AIx5AvT",
       "runId": 33614
     }
   }
