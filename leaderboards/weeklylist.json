@@ -1004,13 +1004,13 @@
       "name": "jododendron",
       "char": 1,
       "skin": true,
-      "area": 104,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 62,
+      "wep": 112,
       "bwep": 36,
       "win": false,
-      "kills": 147,
+      "kills": 153,
       "ultra": 0,
       "skills": [
         25,
@@ -1268,23 +1268,44 @@
       "name": "Luxers",
       "char": 1,
       "skin": true,
-      "area": 4,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 75,
+      "wep": 17,
       "bwep": 36,
       "win": false,
-      "kills": 147,
+      "kills": 166,
       "ultra": 0,
       "skills": [
         10,
         6,
         1,
-        23
+        23,
+        4
       ],
       "crown": 2,
       "version": 2616,
       "uid": "Iq3wvuR5Qa6cqC6",
+      "runId": 33614
+    },
+    "0P8iCkGJA0r5dwE": {
+      "name": "Seeker",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 8,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "0P8iCkGJA0r5dwE",
       "runId": 33614
     }
   }
