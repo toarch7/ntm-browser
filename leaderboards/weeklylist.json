@@ -1608,6 +1608,54 @@
       "version": 2616,
       "uid": "xkk92kT737SBLxZ",
       "runId": 33614
+    },
+    "r5LAS2QQkrwMFvc": {
+      "name": "Cebolla",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 36,
+      "bwep": 4,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        10,
+        3
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "r5LAS2QQkrwMFvc",
+      "runId": 33614
+    },
+    "Pt2Q60770EkCpBZ": {
+      "name": "DARKSALA",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 35,
+      "win": false,
+      "kills": 446,
+      "ultra": 0,
+      "skills": [
+        10,
+        28,
+        4,
+        22,
+        13,
+        25,
+        12,
+        8
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "Pt2Q60770EkCpBZ",
+      "runId": 33614
     }
   }
 }
