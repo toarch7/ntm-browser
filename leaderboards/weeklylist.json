@@ -1747,6 +1747,28 @@
       "version": 2616,
       "uid": "3Y3wc6htj6I97kh",
       "runId": 33614
+    },
+    "1mrFLYp63g1ECP2": {
+      "name": "Ikari",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 8,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "1mrFLYp63g1ECP2",
+      "runId": 33614
     }
   }
 }
