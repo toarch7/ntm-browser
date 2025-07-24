@@ -1,4 +1,45 @@
 {
   "day": 24,
-  "entries": {}
+  "entries": {
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 13,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 87488688
+    },
+    "X4gK04fG8wP8HH2": {
+      "name": "Arjuna",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "X4gK04fG8wP8HH2",
+      "runId": 87488688
+    }
+  }
 }
