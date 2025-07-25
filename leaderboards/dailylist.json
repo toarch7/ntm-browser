@@ -1,4 +1,76 @@
 {
   "day": 25,
-  "entries": {}
+  "entries": {
+    "1mrFLYp63g1ECP2": {
+      "name": "Ikari",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 14,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        25,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1mrFLYp63g1ECP2",
+      "runId": 405603152
+    },
+    "m5OOYVo9Ts38fY6": {
+      "name": "Genus",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 113,
+      "win": false,
+      "kills": 227,
+      "ultra": 0,
+      "skills": [
+        4,
+        25,
+        8,
+        23,
+        1,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "m5OOYVo9Ts38fY6",
+      "runId": 405603152
+    },
+    "BmHUB93ALbN0Yg6": {
+      "name": "bajnmen",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 117,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        3,
+        13,
+        25,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BmHUB93ALbN0Yg6",
+      "runId": 405603152
+    }
+  }
 }
