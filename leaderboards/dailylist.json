@@ -499,6 +499,48 @@
       "version": 2616,
       "uid": "VR7EaKwvx489Nmr",
       "runId": 1114407791
+    },
+    "W52U2Xi2m8qZWu2": {
+      "name": "KRATOSan",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 15,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W52U2Xi2m8qZWu2",
+      "runId": 1114407791
+    },
+    "z9Vscmm5Z5y6xws": {
+      "name": "Ealzomboy",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 4,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        19,
+        7,
+        8
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "z9Vscmm5Z5y6xws",
+      "runId": 1114407791
     }
   }
 }
