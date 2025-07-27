@@ -1,4 +1,91 @@
 {
   "day": 27,
-  "entries": {}
+  "entries": {
+    "00zAg1lhco3H59J": {
+      "name": "muxamaca",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 18,
+      "crown": 1,
+      "version": 2616,
+      "uid": "00zAg1lhco3H59J",
+      "runId": 1807884983
+    },
+    "VpVV8c6bUU6umtg": {
+      "name": "Ikari",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 27,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        17,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "VpVV8c6bUU6umtg",
+      "runId": 1807884983
+    },
+    "QG253Pt5dYzFRCL": {
+      "name": "RZleonardo",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "QG253Pt5dYzFRCL",
+      "runId": 1807884983
+    },
+    "U8044vatUm6Lmdv": {
+      "name": "inst4",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 43,
+      "bwep": 24,
+      "win": false,
+      "kills": 230,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        22,
+        10,
+        23,
+        27
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "U8044vatUm6Lmdv",
+      "runId": 1807884983
+    }
+  }
 }
