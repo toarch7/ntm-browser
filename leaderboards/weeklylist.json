@@ -289,18 +289,19 @@
       "name": "Rika",
       "char": 12,
       "skin": false,
-      "area": 3,
-      "subarea": 2,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 34,
+      "wep": 38,
+      "bwep": 88,
       "win": false,
-      "kills": 154,
+      "kills": 196,
       "ultra": 0,
       "skills": [
         4,
         1,
-        22
+        22,
+        25
       ],
       "crown": 11,
       "version": 2616,
@@ -347,6 +348,50 @@
       "crown": 11,
       "version": 2616,
       "uid": "9iWzoW28ezWxa88",
+      "runId": 527925949
+    },
+    "OG6oUWfDQdLREP4": {
+      "name": "abusamadresjone",
+      "char": 12,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 91,
+      "bwep": 20,
+      "win": false,
+      "kills": 229,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        2
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
+      "runId": 527925949
+    },
+    "1z550N238wl7QQj": {
+      "name": "Huesosor",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 91,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        22
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "1z550N238wl7QQj",
       "runId": 527925949
     }
   }
