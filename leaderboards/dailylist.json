@@ -1,4 +1,109 @@
 {
   "day": 29,
-  "entries": {}
+  "entries": {
+    "Ap07NC2a5GDEf8h": {
+      "name": "Seeker68",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 3,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ap07NC2a5GDEf8h",
+      "runId": 417843542
+    },
+    "1z550N238wl7QQj": {
+      "name": "Huesosor",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1z550N238wl7QQj",
+      "runId": 417843542
+    },
+    "TvbX5np2U8A70y4": {
+      "name": "chrimsy",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 27,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "TvbX5np2U8A70y4",
+      "runId": 417843542
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 2,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 62,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        16
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 417843542
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 71,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        1,
+        21,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 417843542
+    }
+  }
 }
