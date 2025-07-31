@@ -96,13 +96,13 @@
       "name": "quirrel",
       "char": 4,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 51,
-      "bwep": 23,
+      "wep": 34,
+      "bwep": 51,
       "win": false,
-      "kills": 148,
+      "kills": 165,
       "ultra": 0,
       "skills": [
         19,
@@ -137,6 +137,28 @@
       "crown": 8,
       "version": 2616,
       "uid": "xkk92kT737SBLxZ",
+      "runId": 1275821313
+    },
+    "Iq3wvuR5Qa6cqC6": {
+      "name": "Luxers",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 18,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        19,
+        4,
+        25
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "Iq3wvuR5Qa6cqC6",
       "runId": 1275821313
     }
   }
