@@ -341,6 +341,42 @@
       "version": 2616,
       "uid": "K97awxp38a8uXg2",
       "runId": 307148167
+    },
+    "1R0bZX0YdhGwkQ3": {
+      "name": "يمن",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 27,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "1R0bZX0YdhGwkQ3",
+      "runId": 307148167
+    },
+    "L82EQ9Ef7j12W2D": {
+      "name": "Seeker",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 69,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L82EQ9Ef7j12W2D",
+      "runId": 307148167
     }
   }
 }
