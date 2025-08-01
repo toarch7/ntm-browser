@@ -324,6 +324,31 @@
       "version": 2616,
       "uid": "7981C1Xo48p7S3B",
       "runId": 1832962689
+    },
+    "kAI1Wrgio87PA40": {
+      "name": "Xanny",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 166,
+      "ultra": 0,
+      "skills": [
+        1,
+        25,
+        22,
+        4,
+        10,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kAI1Wrgio87PA40",
+      "runId": 1832962689
     }
   }
 }
