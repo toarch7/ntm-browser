@@ -488,6 +488,53 @@
       "version": 2616,
       "uid": "b706OO4wIRc4Vt6",
       "runId": 1275821313
+    },
+    "oS1oq50Jssr3vAV": {
+      "name": "Theprodigy",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 19,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        19,
+        4,
+        25
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "oS1oq50Jssr3vAV",
+      "runId": 1275821313
+    },
+    "7L6k7fkDwqhleD2": {
+      "name": "RamiDeluxe",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 4,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        19,
+        4,
+        25,
+        9,
+        17,
+        22
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "7L6k7fkDwqhleD2",
+      "runId": 1275821313
     }
   }
 }
