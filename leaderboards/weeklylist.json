@@ -74,18 +74,21 @@
       "name": "「🜲Ляпис🜲」",
       "char": 4,
       "skin": true,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 27,
+      "wep": 34,
       "bwep": 51,
       "win": false,
-      "kills": 63,
+      "kills": 168,
       "ultra": 0,
       "skills": [
         19,
         4,
-        25
+        25,
+        9,
+        17,
+        22
       ],
       "crown": 8,
       "version": 2616,
@@ -167,18 +170,21 @@
       "name": "myamsar2",
       "char": 4,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 51,
-      "bwep": 34,
+      "wep": 20,
+      "bwep": 51,
       "win": false,
-      "kills": 85,
+      "kills": 157,
       "ultra": 0,
       "skills": [
         19,
         4,
-        25
+        25,
+        9,
+        17,
+        22
       ],
       "crown": 8,
       "version": 2616,
@@ -649,6 +655,28 @@
       "crown": 8,
       "version": 2616,
       "uid": "V6yY50ul8w5zh56",
+      "runId": 1275821313
+    },
+    "emStfy92zj09xmQ": {
+      "name": "uieira",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 71,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        19,
+        4,
+        25
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "emStfy92zj09xmQ",
       "runId": 1275821313
     }
   }
