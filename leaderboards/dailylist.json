@@ -155,6 +155,137 @@
       "version": 2616,
       "uid": "Sxo8ZbgKylEbyE3",
       "runId": 1832962689
+    },
+    "H6wB23ibc0L34X6": {
+      "name": "Vinizera",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 0,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        1,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "H6wB23ibc0L34X6",
+      "runId": 1832962689
+    },
+    "e0D4AFEC519n8R1": {
+      "name": "lafiesta",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 0,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        8,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "e0D4AFEC519n8R1",
+      "runId": 1832962689
+    },
+    "xMhIzG51UGJ72Un": {
+      "name": "quirrel",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 21,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        1,
+        25,
+        23,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xMhIzG51UGJ72Un",
+      "runId": 1832962689
+    },
+    "ERZK4IDZWZK66yz": {
+      "name": "silver",
+      "char": 3,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        19,
+        25,
+        4,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ERZK4IDZWZK66yz",
+      "runId": 1832962689
+    },
+    "yG17K80HELq2uEZ": {
+      "name": "prenco",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 17,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "yG17K80HELq2uEZ",
+      "runId": 1832962689
+    },
+    "K97awxp38a8uXg2": {
+      "name": "Ninja_Panas",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 0,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        8,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "K97awxp38a8uXg2",
+      "runId": 1832962689
     }
   }
 }
