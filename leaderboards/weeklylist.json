@@ -223,7 +223,7 @@
       "wep": 20,
       "bwep": 51,
       "win": false,
-      "kills": 179,
+      "kills": 187,
       "ultra": 0,
       "skills": [
         19,
@@ -231,8 +231,7 @@
         25,
         9,
         17,
-        22,
-        7
+        22
       ],
       "crown": 8,
       "version": 2616,
@@ -843,6 +842,28 @@
       "crown": 8,
       "version": 2616,
       "uid": "TvbX5np2U8A70y4",
+      "runId": 1275821313
+    },
+    "C79epfpu9tSFH4a": {
+      "name": "Fortuno",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 51,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        19,
+        4,
+        25
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "C79epfpu9tSFH4a",
       "runId": 1275821313
     }
   }
