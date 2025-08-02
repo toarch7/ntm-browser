@@ -439,6 +439,51 @@
       "version": 2616,
       "uid": "TD33975kpGbAe5N",
       "runId": 1265531935
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 13,
+      "win": false,
+      "kills": 202,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        4,
+        27,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 1265531935
+    },
+    "QG253Pt5dYzFRCL": {
+      "name": "RZleonardo",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 2,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        24,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "QG253Pt5dYzFRCL",
+      "runId": 1265531935
     }
   }
 }
