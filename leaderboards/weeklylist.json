@@ -859,18 +859,21 @@
       "name": "Fortuno",
       "char": 4,
       "skin": true,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
+      "wep": 59,
       "bwep": 51,
       "win": false,
-      "kills": 71,
+      "kills": 153,
       "ultra": 0,
       "skills": [
         19,
         4,
-        25
+        25,
+        9,
+        17,
+        22
       ],
       "crown": 8,
       "version": 2616,
@@ -1418,6 +1421,31 @@
       "crown": 8,
       "version": 2616,
       "uid": "ni79Jw2Lma8PY5z",
+      "runId": 1275821313
+    },
+    "5jd817aTNehB4Sq": {
+      "name": "Akustik",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 117,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        19,
+        4,
+        25,
+        9,
+        17,
+        22
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "5jd817aTNehB4Sq",
       "runId": 1275821313
     }
   }
