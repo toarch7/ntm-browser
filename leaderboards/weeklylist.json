@@ -288,13 +288,13 @@
       "name": "IsmaaBoiii",
       "char": 4,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 69,
-      "bwep": 10,
+      "wep": 49,
+      "bwep": 61,
       "win": false,
-      "kills": 165,
+      "kills": 272,
       "ultra": 0,
       "skills": [
         19,
@@ -303,7 +303,8 @@
         9,
         17,
         22,
-        7
+        7,
+        24
       ],
       "crown": 8,
       "version": 2616,
