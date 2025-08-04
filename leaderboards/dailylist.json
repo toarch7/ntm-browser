@@ -232,6 +232,70 @@
       "version": 2616,
       "uid": "J1310A51338h9Tx",
       "runId": 301656764
+    },
+    "xMhIzG51UGJ72Un": {
+      "name": "quirrel",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 23,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        17,
+        23,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xMhIzG51UGJ72Un",
+      "runId": 301656764
+    },
+    "89k83aJYI0vEGrX": {
+      "name": "ilyich",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 37,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "89k83aJYI0vEGrX",
+      "runId": 301656764
+    },
+    "e0D4AFEC519n8R1": {
+      "name": "lafiesta",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "e0D4AFEC519n8R1",
+      "runId": 301656764
     }
   }
 }
