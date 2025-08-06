@@ -265,6 +265,57 @@
       "version": 2616,
       "uid": "2jn9sMH2IkmDw3q",
       "runId": 1284466414
+    },
+    "00zAg1lhco3H59J": {
+      "name": "muxamaca",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 12,
+      "win": false,
+      "kills": 1008,
+      "ultra": 1,
+      "skills": [
+        22,
+        1,
+        4,
+        23,
+        27,
+        13,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "00zAg1lhco3H59J",
+      "runId": 1284466414
+    },
+    "qO8bAIon2eMt9tC": {
+      "name": "est",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 14,
+      "win": false,
+      "kills": 254,
+      "ultra": 0,
+      "skills": [
+        2,
+        3,
+        9,
+        4,
+        1,
+        17
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "qO8bAIon2eMt9tC",
+      "runId": 1284466414
     }
   }
 }
