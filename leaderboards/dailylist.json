@@ -227,6 +227,44 @@
       "version": 2616,
       "uid": "xMhIzG51UGJ72Un",
       "runId": 1284466414
+    },
+    "19PdU7YsFJvS709": {
+      "name": "geo",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "19PdU7YsFJvS709",
+      "runId": 1284466414
+    },
+    "2jn9sMH2IkmDw3q": {
+      "name": "jododendron",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 0,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        17,
+        3,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2jn9sMH2IkmDw3q",
+      "runId": 1284466414
     }
   }
 }
