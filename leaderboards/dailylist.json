@@ -232,6 +232,51 @@
       "version": 2616,
       "uid": "h1U1dg3Bp50iw45",
       "runId": 259776167
+    },
+    "L159Z242ODEZkNA": {
+      "name": "andreded",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L159Z242ODEZkNA",
+      "runId": 259776167
+    },
+    "W1mkf49L9O5XpJw": {
+      "name": "Wazi",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 15,
+      "win": false,
+      "kills": 246,
+      "ultra": 0,
+      "skills": [
+        8,
+        13,
+        4,
+        27,
+        22,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W1mkf49L9O5XpJw",
+      "runId": 259776167
     }
   }
 }
