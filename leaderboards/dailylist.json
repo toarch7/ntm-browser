@@ -283,6 +283,43 @@
       "version": 2616,
       "uid": "ZmYxACR2AGvWjT1",
       "runId": 63007328
+    },
+    "7v9fpLlx026be65": {
+      "name": "lom",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 5,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        7,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7v9fpLlx026be65",
+      "runId": 63007328
+    },
+    "qO8bAIon2eMt9tC": {
+      "name": "est",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "qO8bAIon2eMt9tC",
+      "runId": 63007328
     }
   }
 }
