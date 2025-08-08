@@ -425,6 +425,42 @@
       "version": 2616,
       "uid": "e0D4AFEC519n8R1",
       "runId": 63007328
+    },
+    "s9Q1j7s9wihP9kd": {
+      "name": "MondongoJose",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "s9Q1j7s9wihP9kd",
+      "runId": 63007328
+    },
+    "jx08PIg8e8Xp082": {
+      "name": "ShyGuy",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 5,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "jx08PIg8e8Xp082",
+      "runId": 63007328
     }
   }
 }
