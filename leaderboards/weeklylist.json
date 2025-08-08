@@ -205,6 +205,27 @@
       "version": 2616,
       "uid": "RTx9ksGpIv4SHjC",
       "runId": 1007498276
+    },
+    "73L50VKG05l31Rl": {
+      "name": "DairyProduct",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 3,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        4,
+        12
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "73L50VKG05l31Rl",
+      "runId": 1007498276
     }
   }
 }
