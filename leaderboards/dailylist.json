@@ -213,6 +213,52 @@
       "version": 2616,
       "uid": "RTx9ksGpIv4SHjC",
       "runId": 63007328
+    },
+    "gTAWOb8mn4YlGz7": {
+      "name": "Omar",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        7,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gTAWOb8mn4YlGz7",
+      "runId": 63007328
+    },
+    "xMhIzG51UGJ72Un": {
+      "name": "quirrel",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 57,
+      "win": false,
+      "kills": 246,
+      "ultra": 0,
+      "skills": [
+        7,
+        19,
+        23,
+        25,
+        22,
+        17
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "xMhIzG51UGJ72Un",
+      "runId": 63007328
     }
   }
 }
