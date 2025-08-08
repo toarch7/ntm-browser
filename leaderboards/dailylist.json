@@ -1,4 +1,151 @@
 {
   "day": 8,
-  "entries": {}
+  "entries": {
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 5,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        28,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 63007328
+    },
+    "VFt33YS85TZMOFu": {
+      "name": "DIO",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        28,
+        19,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "VFt33YS85TZMOFu",
+      "runId": 63007328
+    },
+    "3PtB4y137bpX0zl": {
+      "name": "Pofeticus11",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 71,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        2,
+        26,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3PtB4y137bpX0zl",
+      "runId": 63007328
+    },
+    "OG6oUWfDQdLREP4": {
+      "name": "abusamadresjone",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 25,
+      "crown": 1,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
+      "runId": 63007328
+    },
+    "W1mkf49L9O5XpJw": {
+      "name": "Wazi",
+      "char": 4,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 23,
+      "win": false,
+      "kills": 335,
+      "ultra": 0,
+      "skills": [
+        10,
+        26,
+        1,
+        14,
+        23
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "W1mkf49L9O5XpJw",
+      "runId": 63007328
+    },
+    "V6yY50ul8w5zh56": {
+      "name": "árbol-verde",
+      "char": 5,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 18,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "V6yY50ul8w5zh56",
+      "runId": 63007328
+    },
+    "r6OBDghyUQajSKP": {
+      "name": "EXlape",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 21,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        7,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "r6OBDghyUQajSKP",
+      "runId": 63007328
+    }
+  }
 }
