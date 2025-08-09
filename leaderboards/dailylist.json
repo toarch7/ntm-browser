@@ -1,4 +1,75 @@
 {
   "day": 9,
-  "entries": {}
+  "entries": {
+    "RwSmFhfr4aUyjy4": {
+      "name": "hollowknight616",
+      "char": 4,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 9,
+      "bwep": 35,
+      "win": false,
+      "kills": 351,
+      "ultra": 2,
+      "skills": [
+        27,
+        8,
+        1,
+        14,
+        28,
+        4,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
+      "runId": 769410004
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 21,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        27,
+        8,
+        3,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
+      "runId": 769410004
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 23,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        8,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 769410004
+    }
+  }
 }
