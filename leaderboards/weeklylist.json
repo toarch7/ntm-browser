@@ -52,17 +52,19 @@
       "name": "myamsar2",
       "char": 12,
       "skin": false,
-      "area": 3,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 5,
-      "bwep": 3,
+      "wep": 76,
+      "bwep": 88,
       "win": false,
-      "kills": 102,
+      "kills": 188,
       "ultra": 0,
       "skills": [
-        4,
-        12
+        25,
+        1,
+        26,
+        24
       ],
       "crown": 3,
       "version": 2616,
@@ -267,6 +269,32 @@
       "crown": 3,
       "version": 2616,
       "uid": "jnAVG3Cantc8sK9",
+      "runId": 1007498276
+    },
+    "Iq3wvuR5Qa6cqC6": {
+      "name": "Luxers",
+      "char": 12,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 75,
+      "win": false,
+      "kills": 292,
+      "ultra": 0,
+      "skills": [
+        4,
+        22,
+        7,
+        3,
+        1,
+        25,
+        23
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "Iq3wvuR5Qa6cqC6",
       "runId": 1007498276
     }
   }
