@@ -1,4 +1,70 @@
 {
   "day": 10,
-  "entries": {}
+  "entries": {
+    "tGZmKv08DGc8sFL": {
+      "name": "md7k",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        10,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "tGZmKv08DGc8sFL",
+      "runId": 1129090965
+    },
+    "ZUkPS4Expo6eX0p": {
+      "name": "tumama",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ZUkPS4Expo6eX0p",
+      "runId": 1129090965
+    },
+    "L159Z242ODEZkNA": {
+      "name": "andreded",
+      "char": 3,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 11,
+      "win": false,
+      "kills": 324,
+      "ultra": 0,
+      "skills": [
+        10,
+        1,
+        17,
+        6,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L159Z242ODEZkNA",
+      "runId": 1129090965
+    }
+  }
 }
