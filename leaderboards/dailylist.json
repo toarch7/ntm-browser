@@ -453,6 +453,49 @@
       "version": 2616,
       "uid": "QG253Pt5dYzFRCL",
       "runId": 884932672
+    },
+    "4lY0SWpfET1p5ri": {
+      "name": "Zero",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 4,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4lY0SWpfET1p5ri",
+      "runId": 884932672
+    },
+    "Y3R293Uw3en8B6c": {
+      "name": "Rika",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 13,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y3R293Uw3en8B6c",
+      "runId": 884932672
     }
   }
 }
