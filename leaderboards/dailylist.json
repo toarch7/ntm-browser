@@ -299,6 +299,49 @@
       "version": 2616,
       "uid": "e0D4AFEC519n8R1",
       "runId": 930692828
+    },
+    "xMhIzG51UGJ72Un": {
+      "name": "quirrel",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 16,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        27,
+        25,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xMhIzG51UGJ72Un",
+      "runId": 930692828
+    },
+    "3A8mY81214oB3uU": {
+      "name": "DemoFeelsHungry",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 81,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        26,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3A8mY81214oB3uU",
+      "runId": 930692828
     }
   }
 }
