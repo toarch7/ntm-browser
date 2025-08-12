@@ -210,6 +210,50 @@
       "version": 2616,
       "uid": "9TO0oNJLQfUNbQT",
       "runId": 930692828
+    },
+    "XHdqyQ4W4T37Jwg": {
+      "name": "Sunset",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        21,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XHdqyQ4W4T37Jwg",
+      "runId": 930692828
+    },
+    "VFt33YS85TZMOFu": {
+      "name": "DIO",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 9,
+      "win": false,
+      "kills": 271,
+      "ultra": 0,
+      "skills": [
+        27,
+        10,
+        4,
+        16
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "VFt33YS85TZMOFu",
+      "runId": 930692828
     }
   }
 }
