@@ -342,6 +342,53 @@
       "version": 2616,
       "uid": "3A8mY81214oB3uU",
       "runId": 930692828
+    },
+    "Xn1P9GEFDT0EhiQ": {
+      "name": "$TI34N",
+      "char": 4,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 116,
+      "win": false,
+      "kills": 313,
+      "ultra": 0,
+      "skills": [
+        27,
+        25,
+        10,
+        8,
+        13
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "Xn1P9GEFDT0EhiQ",
+      "runId": 930692828
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "Fanton",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 52,
+      "bwep": 17,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        26,
+        8
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 930692828
     }
   }
 }
