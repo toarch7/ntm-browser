@@ -1,4 +1,88 @@
 {
   "day": 12,
-  "entries": {}
+  "entries": {
+    "TvbX5np2U8A70y4": {
+      "name": "chrimsy",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 13,
+      "win": false,
+      "kills": 175,
+      "ultra": 0,
+      "skills": [
+        10,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "TvbX5np2U8A70y4",
+      "runId": 930692828
+    },
+    "V6yY50ul8w5zh56": {
+      "name": "árbol-verde",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 21,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        27,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "V6yY50ul8w5zh56",
+      "runId": 930692828
+    },
+    "JhSX0SfwelmaMyD": {
+      "name": "pipo",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 27,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "JhSX0SfwelmaMyD",
+      "runId": 930692828
+    },
+    "qO8bAIon2eMt9tC": {
+      "name": "est",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 21,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        27,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qO8bAIon2eMt9tC",
+      "runId": 930692828
+    }
+  }
 }
