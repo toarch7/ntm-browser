@@ -1,4 +1,69 @@
 {
   "day": 13,
-  "entries": {}
+  "entries": {
+    "RwSmFhfr4aUyjy4": {
+      "name": "hollowknight616",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        8,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
+      "runId": 160830082
+    },
+    "qO8bAIon2eMt9tC": {
+      "name": "est",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        9,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qO8bAIon2eMt9tC",
+      "runId": 160830082
+    },
+    "7C7UIq3Dr1Dh51n": {
+      "name": "brazzer250",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 17,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7C7UIq3Dr1Dh51n",
+      "runId": 160830082
+    }
+  }
 }
