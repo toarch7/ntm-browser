@@ -460,6 +460,51 @@
       "version": 2616,
       "uid": "UBfz78T0mNwK91n",
       "runId": 160830082
+    },
+    "I33vf0rl8ugq784": {
+      "name": "putos",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "I33vf0rl8ugq784",
+      "runId": 160830082
+    },
+    "ym5id4Ib9bK1yf3": {
+      "name": "LEO",
+      "char": 1,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 72,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        4,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ym5id4Ib9bK1yf3",
+      "runId": 160830082
     }
   }
 }
