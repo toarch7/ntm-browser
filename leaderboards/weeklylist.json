@@ -545,18 +545,19 @@
       "name": "exo",
       "char": 7,
       "skin": false,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
       "wep": 56,
       "bwep": 1,
       "win": false,
-      "kills": 163,
+      "kills": 259,
       "ultra": 0,
       "skills": [
         2,
         7,
-        6
+        6,
+        4
       ],
       "crown": 9,
       "version": 2616,
@@ -582,6 +583,27 @@
       "crown": 9,
       "version": 2616,
       "uid": "oh2565pUL5bJ90K",
+      "runId": 504801822
+    },
+    "I33vf0rl8ugq784": {
+      "name": "putos",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 56,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        12,
+        25
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "I33vf0rl8ugq784",
       "runId": 504801822
     }
   }
