@@ -519,6 +519,48 @@
       "version": 2616,
       "uid": "6a30bn828j9ZNr4",
       "runId": 504801822
+    },
+    "Yj24jXnMDoKZKvt": {
+      "name": "isa",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 56,
+      "bwep": 1,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        23,
+        8
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "Yj24jXnMDoKZKvt",
+      "runId": 504801822
+    },
+    "RTx9ksGpIv4SHjC": {
+      "name": "exo",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 56,
+      "bwep": 1,
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        23,
+        3
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "RTx9ksGpIv4SHjC",
+      "runId": 504801822
     }
   }
 }
