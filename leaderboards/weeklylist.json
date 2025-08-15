@@ -356,13 +356,13 @@
       "name": "seaman",
       "char": 7,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
       "wep": 56,
       "bwep": 1,
       "win": false,
-      "kills": 79,
+      "kills": 146,
       "ultra": 0,
       "skills": [
         12,
@@ -551,15 +551,37 @@
       "wep": 56,
       "bwep": 1,
       "win": false,
-      "kills": 141,
+      "kills": 163,
       "ultra": 0,
       "skills": [
-        23,
-        3
+        2,
+        7,
+        6
       ],
       "crown": 9,
       "version": 2616,
       "uid": "RTx9ksGpIv4SHjC",
+      "runId": 504801822
+    },
+    "oh2565pUL5bJ90K": {
+      "name": "Seeke",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 56,
+      "bwep": 1,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        22,
+        7
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "oh2565pUL5bJ90K",
       "runId": 504801822
     }
   }
