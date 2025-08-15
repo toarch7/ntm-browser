@@ -419,6 +419,75 @@
       "version": 2616,
       "uid": "DI4TbwokJGLq4N5",
       "runId": 2016511800
+    },
+    "QG253Pt5dYzFRCL": {
+      "name": "RZleonardo",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 119,
+      "bwep": 26,
+      "win": false,
+      "kills": 683,
+      "ultra": 2,
+      "skills": [
+        25,
+        8,
+        9,
+        27,
+        10,
+        12,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "QG253Pt5dYzFRCL",
+      "runId": 2016511800
+    },
+    "QV5o9028Z7HOy2X": {
+      "name": "Moonsttone",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "QV5o9028Z7HOy2X",
+      "runId": 2016511800
+    },
+    "1gi6wSBiifj3D7s": {
+      "name": "snake_eater",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 110,
+      "bwep": 60,
+      "win": false,
+      "kills": 559,
+      "ultra": 1,
+      "skills": [
+        25,
+        7,
+        4,
+        27,
+        3,
+        17,
+        1,
+        16
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "1gi6wSBiifj3D7s",
+      "runId": 2016511800
     }
   }
 }

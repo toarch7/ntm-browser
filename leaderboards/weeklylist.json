@@ -605,6 +605,52 @@
       "version": 2616,
       "uid": "I33vf0rl8ugq784",
       "runId": 504801822
+    },
+    "1Z3q45AL6cp0q5G": {
+      "name": "Fuxleep13",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 56,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        23,
+        25
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "1Z3q45AL6cp0q5G",
+      "runId": 504801822
+    },
+    "1gi6wSBiifj3D7s": {
+      "name": "snake_eater",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 25,
+      "bwep": 1,
+      "win": false,
+      "kills": 265,
+      "ultra": 0,
+      "skills": [
+        12,
+        25,
+        3,
+        6,
+        4,
+        7
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "1gi6wSBiifj3D7s",
+      "runId": 504801822
     }
   }
 }
