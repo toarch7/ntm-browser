@@ -49,16 +49,20 @@
       "name": "myamsar2",
       "char": 7,
       "skin": false,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 88,
+      "wep": 9,
       "bwep": 1,
       "win": false,
-      "kills": 143,
+      "kills": 263,
       "ultra": 0,
       "skills": [
-        23
+        12,
+        8,
+        25,
+        7,
+        4
       ],
       "crown": 9,
       "version": 2616,
@@ -346,6 +350,69 @@
       "crown": 9,
       "version": 2616,
       "uid": "QG253Pt5dYzFRCL",
+      "runId": 504801822
+    },
+    "ZK6mKw1y5b1xcsn": {
+      "name": "seaman",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 56,
+      "bwep": 1,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        12,
+        7
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "ZK6mKw1y5b1xcsn",
+      "runId": 504801822
+    },
+    "uh564KJ9cx3VULf": {
+      "name": "Draicon7",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 56,
+      "bwep": 1,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        22,
+        7
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "uh564KJ9cx3VULf",
+      "runId": 504801822
+    },
+    "fB3TK622tO6h8Tw": {
+      "name": "SoyWiter",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 56,
+      "bwep": 88,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        23,
+        25
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "fB3TK622tO6h8Tw",
       "runId": 504801822
     }
   }
