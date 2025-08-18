@@ -384,6 +384,49 @@
       "version": 2616,
       "uid": "Y3R293Uw3en8B6c",
       "runId": 1649644590
+    },
+    "3A8mY81214oB3uU": {
+      "name": "DemoFeelsHungry",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 6,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        26,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3A8mY81214oB3uU",
+      "runId": 1649644590
+    },
+    "g8y5Hjq19F13h7R": {
+      "name": "Mr.Pickles",
+      "char": 7,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 88,
+      "win": false,
+      "kills": 171,
+      "ultra": 0,
+      "skills": [
+        2,
+        23,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g8y5Hjq19F13h7R",
+      "runId": 1649644590
     }
   }
 }
