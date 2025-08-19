@@ -704,16 +704,17 @@
       "char": 7,
       "skin": false,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
       "wep": 56,
       "bwep": 1,
       "win": false,
-      "kills": 96,
+      "kills": 148,
       "ultra": 0,
       "skills": [
-        23,
-        8
+        2,
+        8,
+        23
       ],
       "crown": 9,
       "version": 2616,
@@ -1297,6 +1298,69 @@
       "crown": 9,
       "version": 2616,
       "uid": "9Oq9e3Mb4ZJG9Z4",
+      "runId": 504801822
+    },
+    "9ul6222ZCkNg72n": {
+      "name": "Juniorxables",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 56,
+      "bwep": 1,
+      "win": false,
+      "kills": 175,
+      "ultra": 0,
+      "skills": [
+        2,
+        8,
+        6
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "9ul6222ZCkNg72n",
+      "runId": 504801822
+    },
+    "4WZEG5Wnw2445C7": {
+      "name": "Seeker90",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 56,
+      "bwep": 1,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "4WZEG5Wnw2445C7",
+      "runId": 504801822
+    },
+    "4lY0SWpfET1p5ri": {
+      "name": "Zero",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 56,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        12,
+        8
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "4lY0SWpfET1p5ri",
       "runId": 504801822
     }
   }
