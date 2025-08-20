@@ -1479,20 +1479,21 @@
       "name": "Leonidas",
       "char": 7,
       "skin": false,
-      "area": 7,
+      "area": 2,
       "subarea": 1,
-      "loops": 0,
-      "wep": 74,
-      "bwep": 80,
+      "loops": 1,
+      "wep": 20,
+      "bwep": 96,
       "win": false,
-      "kills": 354,
+      "kills": 713,
       "ultra": 0,
       "skills": [
         12,
         8,
+        4,
         14,
-        7,
-        3
+        10,
+        27
       ],
       "crown": 9,
       "version": 2616,
@@ -1522,6 +1523,28 @@
       "crown": 9,
       "version": 2616,
       "uid": "4ziBE6xdmNKz5zY",
+      "runId": 504801822
+    },
+    "TvU2hI7ZA7KFNu9": {
+      "name": "ffdadd",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 13,
+      "win": false,
+      "kills": 169,
+      "ultra": 0,
+      "skills": [
+        12,
+        7,
+        6
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "TvU2hI7ZA7KFNu9",
       "runId": 504801822
     }
   }
