@@ -1546,6 +1546,48 @@
       "version": 2616,
       "uid": "TvU2hI7ZA7KFNu9",
       "runId": 504801822
+    },
+    "zbS3D6ImRi2RQ2C": {
+      "name": "ligmaballer",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 56,
+      "bwep": 1,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        12,
+        7
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "zbS3D6ImRi2RQ2C",
+      "runId": 504801822
+    },
+    "E02Iovo3RDibk0d": {
+      "name": "fran",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 21,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        22,
+        3
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "E02Iovo3RDibk0d",
+      "runId": 504801822
     }
   }
 }
