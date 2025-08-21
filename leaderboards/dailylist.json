@@ -1,4 +1,46 @@
 {
   "day": 21,
-  "entries": {}
+  "entries": {
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 348076846
+    },
+    "4WZEG5Wnw2445C7": {
+      "name": "Seeker90",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        1,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4WZEG5Wnw2445C7",
+      "runId": 348076846
+    }
+  }
 }
