@@ -429,6 +429,49 @@
       "version": 2616,
       "uid": "TvU2hI7ZA7KFNu9",
       "runId": 169972803
+    },
+    "A5i3QQN6T9iDNRo": {
+      "name": "penelargo",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 75,
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        10,
+        8
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "A5i3QQN6T9iDNRo",
+      "runId": 169972803
+    },
+    "9b93cS95RuEmd7t": {
+      "name": "thronenuclear",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 29,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "9b93cS95RuEmd7t",
+      "runId": 169972803
     }
   }
 }
