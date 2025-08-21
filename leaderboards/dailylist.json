@@ -246,6 +246,67 @@
       "version": 2616,
       "uid": "Nw1FJukR6rpb331",
       "runId": 348076846
+    },
+    "9Oq9e3Mb4ZJG9Z4": {
+      "name": "Лоло",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 39,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9Oq9e3Mb4ZJG9Z4",
+      "runId": 348076846
+    },
+    "7v9fpLlx026be65": {
+      "name": "lom",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7v9fpLlx026be65",
+      "runId": 348076846
+    },
+    "Xn1P9GEFDT0EhiQ": {
+      "name": "$T134N",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 13,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        12,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Xn1P9GEFDT0EhiQ",
+      "runId": 348076846
     }
   }
 }
