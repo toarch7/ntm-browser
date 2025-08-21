@@ -345,6 +345,42 @@
       "version": 2616,
       "uid": "q8L9g13xS5S4SPp",
       "runId": 348076846
+    },
+    "1gi6wSBiifj3D7s": {
+      "name": "snake_eater",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1gi6wSBiifj3D7s",
+      "runId": 348076846
+    },
+    "HkNj012cCv302Tg": {
+      "name": "Sigma",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": 2616,
+      "uid": "HkNj012cCv302Tg",
+      "runId": 348076846
     }
   }
 }
