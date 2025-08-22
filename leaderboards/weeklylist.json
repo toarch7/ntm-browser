@@ -723,6 +723,55 @@
       "version": 2616,
       "uid": "Ie8RhEdh1sH504U",
       "runId": 169972803
+    },
+    "2jn9sMH2IkmDw3q": {
+      "name": "jododendron",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 57,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        3,
+        27,
+        10,
+        8
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "2jn9sMH2IkmDw3q",
+      "runId": 169972803
+    },
+    "2w2vD0FG76RYoQ3": {
+      "name": "NandoBacanudo",
+      "char": 7,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 35,
+      "win": false,
+      "kills": 360,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        23,
+        8,
+        14,
+        17,
+        29
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "2w2vD0FG76RYoQ3",
+      "runId": 169972803
     }
   }
 }
