@@ -1044,15 +1044,17 @@
       "char": 7,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 4,
+      "wep": 21,
       "bwep": 29,
       "win": false,
-      "kills": 83,
+      "kills": 133,
       "ultra": 0,
       "skills": [
-        6
+        27,
+        10,
+        23
       ],
       "crown": 5,
       "version": 2616,
@@ -1253,6 +1255,32 @@
       "crown": 5,
       "version": 2616,
       "uid": "fEquph596lE0cO7",
+      "runId": 169972803
+    },
+    "G3oMQWhBVA4Qhja": {
+      "name": "Seeker",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 35,
+      "bwep": 43,
+      "win": false,
+      "kills": 723,
+      "ultra": 2,
+      "skills": [
+        27,
+        13,
+        22,
+        4,
+        14,
+        17,
+        23
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "G3oMQWhBVA4Qhja",
       "runId": 169972803
     }
   }
