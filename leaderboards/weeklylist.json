@@ -527,17 +527,19 @@
       "name": "Rambo",
       "char": 7,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 17,
+      "wep": 61,
       "bwep": 29,
       "win": false,
-      "kills": 105,
+      "kills": 152,
       "ultra": 0,
       "skills": [
         1,
-        6
+        27,
+        10,
+        17
       ],
       "crown": 5,
       "version": 2616,
@@ -1121,6 +1123,48 @@
       "crown": 5,
       "version": 2616,
       "uid": "f1Lf8jAH6K636zl",
+      "runId": 169972803
+    },
+    "w5dz45ZLRjHVPw8": {
+      "name": "Wx78",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 29,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        3,
+        6
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "w5dz45ZLRjHVPw8",
+      "runId": 169972803
+    },
+    "6ngjk2lhaN1bAD4": {
+      "name": "TehDetroit!",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 3,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        1,
+        13
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "6ngjk2lhaN1bAD4",
       "runId": 169972803
     }
   }
