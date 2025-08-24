@@ -422,6 +422,49 @@
       "version": 2616,
       "uid": "0l6gj4Fx2U1E258",
       "runId": 1546393548
+    },
+    "g8y5Hjq19F13h7R": {
+      "name": "Mr.Pickles",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        1,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g8y5Hjq19F13h7R",
+      "runId": 1546393548
+    },
+    "Y3R293Uw3en8B6c": {
+      "name": "Rika",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 30,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y3R293Uw3en8B6c",
+      "runId": 1546393548
     }
   }
 }
