@@ -292,6 +292,68 @@
       "version": 2616,
       "uid": "7UjeSnnc07ij35o",
       "runId": 1546393548
+    },
+    "c5dda2550L3v4bS": {
+      "name": "Alvinxd",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "c5dda2550L3v4bS",
+      "runId": 1546393548
+    },
+    "1gi6wSBiifj3D7s": {
+      "name": "snake_eater",
+      "char": 6,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 35,
+      "win": false,
+      "kills": 263,
+      "ultra": 0,
+      "skills": [
+        3,
+        25,
+        7,
+        17,
+        13,
+        27,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1gi6wSBiifj3D7s",
+      "runId": 1546393548
+    },
+    "89k83aJYI0vEGrX": {
+      "name": "ilyich",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 3,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "89k83aJYI0vEGrX",
+      "runId": 1546393548
     }
   }
 }
