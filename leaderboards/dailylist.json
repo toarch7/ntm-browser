@@ -177,6 +177,52 @@
       "version": 2616,
       "uid": "Z8oDQHzYYX5a2Ko",
       "runId": 1546393548
+    },
+    "xMhIzG51UGJ72Un": {
+      "name": "quirrel",
+      "char": 12,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 20,
+      "bwep": 66,
+      "win": false,
+      "kills": 390,
+      "ultra": 0,
+      "skills": [
+        1,
+        17,
+        27,
+        6,
+        22,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xMhIzG51UGJ72Un",
+      "runId": 1546393548
+    },
+    "EVl3A0wZ9bTFs7w": {
+      "name": "Attreu",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 16,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        1,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EVl3A0wZ9bTFs7w",
+      "runId": 1546393548
     }
   }
 }
