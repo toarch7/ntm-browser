@@ -1283,6 +1283,29 @@
       "version": 2616,
       "uid": "G3oMQWhBVA4Qhja",
       "runId": 169972803
+    },
+    "3A8mY81214oB3uU": {
+      "name": "DemoFeelsHungry",
+      "char": 7,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 61,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        10,
+        23
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "3A8mY81214oB3uU",
+      "runId": 169972803
     }
   }
 }
