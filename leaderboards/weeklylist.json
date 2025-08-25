@@ -1,4 +1,31 @@
 {
   "seed": 1786865705,
-  "entries": {}
+  "entries": {
+    "G3oMQWhBVA4Qhja": {
+      "name": "Seeker",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 24,
+      "win": false,
+      "kills": 275,
+      "ultra": 1,
+      "skills": [
+        7,
+        22,
+        12,
+        9,
+        25,
+        21,
+        23
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "G3oMQWhBVA4Qhja",
+      "runId": 1786865705
+    }
+  }
 }
