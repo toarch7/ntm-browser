@@ -302,17 +302,16 @@
       "char": 10,
       "skin": false,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 88,
+      "wep": 13,
       "bwep": 9,
       "win": false,
-      "kills": 90,
+      "kills": 126,
       "ultra": 0,
       "skills": [
         4,
-        10,
-        28
+        12
       ],
       "crown": 6,
       "version": 2616,
@@ -424,6 +423,52 @@
       "crown": 6,
       "version": 2616,
       "uid": "B5Gro1yH81Vvjze",
+      "runId": 1786865705
+    },
+    "OG6oUWfDQdLREP4": {
+      "name": "abusamadresjone",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 41,
+      "bwep": 6,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        10,
+        12,
+        2
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
+      "runId": 1786865705
+    },
+    "Cm99n24nr15n016": {
+      "name": "Erikcioso16",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 7,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        28,
+        10,
+        27
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "Cm99n24nr15n016",
       "runId": 1786865705
     }
   }
