@@ -1,4 +1,31 @@
 {
   "day": 26,
-  "entries": {}
+  "entries": {
+    "G3oMQWhBVA4Qhja": {
+      "name": "Seeker",
+      "char": 7,
+      "skin": true,
+      "area": 100,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 36,
+      "bwep": 10,
+      "win": false,
+      "kills": 586,
+      "ultra": 2,
+      "skills": [
+        17,
+        22,
+        25,
+        14,
+        4,
+        19,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "G3oMQWhBVA4Qhja",
+      "runId": 978559409
+    }
+  }
 }
