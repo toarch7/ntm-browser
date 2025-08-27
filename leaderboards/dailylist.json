@@ -181,6 +181,42 @@
       "version": 2616,
       "uid": "9b93cS95RuEmd7t",
       "runId": 213945154
+    },
+    "QG253Pt5dYzFRCL": {
+      "name": "RZleonardo",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "QG253Pt5dYzFRCL",
+      "runId": 213945154
+    },
+    "E02Iovo3RDibk0d": {
+      "name": "doodle",
+      "char": 8,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 13,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "E02Iovo3RDibk0d",
+      "runId": 213945154
     }
   }
 }
