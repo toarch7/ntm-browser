@@ -466,13 +466,15 @@
       "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 9,
-      "bwep": 7,
+      "wep": 7,
+      "bwep": 9,
       "win": false,
-      "kills": 100,
+      "kills": 111,
       "ultra": 0,
       "skills": [
         28,
+        25,
+        9,
         10,
         27
       ],
@@ -967,6 +969,49 @@
       "crown": 6,
       "version": 2616,
       "uid": "BrKViVDZ8d89555",
+      "runId": 1786865705
+    },
+    "I5mjek6tTJfXA55": {
+      "name": "Seeke0",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 9,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        4,
+        9,
+        10
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "I5mjek6tTJfXA55",
+      "runId": 1786865705
+    },
+    "ZK6mKw1y5b1xcsn": {
+      "name": "seaman",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 6,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        4,
+        10
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "ZK6mKw1y5b1xcsn",
       "runId": 1786865705
     }
   }
