@@ -869,13 +869,13 @@
       "name": "DARKSALA",
       "char": 10,
       "skin": false,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 1,
       "loops": 0,
-      "wep": 20,
-      "bwep": 114,
+      "wep": 10,
+      "bwep": 35,
       "win": false,
-      "kills": 254,
+      "kills": 325,
       "ultra": 0,
       "skills": [
         4,
@@ -884,7 +884,7 @@
         12,
         7,
         25,
-        13,
+        17,
         8
       ],
       "crown": 6,
@@ -1285,6 +1285,29 @@
       "crown": 6,
       "version": 2616,
       "uid": "8MummZ40m9023Pe",
+      "runId": 1786865705
+    },
+    "l4Jde5CduPkhNGC": {
+      "name": "Orestes",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 6,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        10,
+        2
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "l4Jde5CduPkhNGC",
       "runId": 1786865705
     }
   }
