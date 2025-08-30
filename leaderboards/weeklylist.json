@@ -1208,18 +1208,20 @@
       "name": "quirrel",
       "char": 10,
       "skin": false,
-      "area": 5,
+      "area": 105,
       "subarea": 1,
       "loops": 0,
-      "wep": 9,
-      "bwep": 11,
+      "wep": 11,
+      "bwep": 9,
       "win": false,
-      "kills": 182,
+      "kills": 212,
       "ultra": 0,
       "skills": [
         4,
         2,
-        7
+        7,
+        10,
+        23
       ],
       "crown": 6,
       "version": 2616,
@@ -1443,6 +1445,28 @@
       "crown": 6,
       "version": 2616,
       "uid": "JhSX0SfwelmaMyD",
+      "runId": 1786865705
+    },
+    "lWYUe5KvicXf7n7": {
+      "name": "BlackKidBoy",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        16
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "lWYUe5KvicXf7n7",
       "runId": 1786865705
     }
   }
