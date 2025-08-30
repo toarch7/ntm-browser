@@ -1114,20 +1114,20 @@
       "name": "IsmaaBoiii",
       "char": 10,
       "skin": false,
-      "area": 5,
-      "subarea": 2,
+      "area": 7,
+      "subarea": 1,
       "loops": 0,
-      "wep": 119,
-      "bwep": 26,
+      "wep": 26,
+      "bwep": 28,
       "win": false,
-      "kills": 218,
+      "kills": 364,
       "ultra": 0,
       "skills": [
         7,
         9,
-        10,
         24,
         1,
+        10,
         16,
         8
       ],
@@ -1467,6 +1467,28 @@
       "crown": 6,
       "version": 2616,
       "uid": "lWYUe5KvicXf7n7",
+      "runId": 1786865705
+    },
+    "q8xqShxSYCjYdF1": {
+      "name": "m4kr",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 9,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        10
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "q8xqShxSYCjYdF1",
       "runId": 1786865705
     }
   }
