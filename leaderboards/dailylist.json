@@ -381,6 +381,33 @@
       "version": 2616,
       "uid": "m5OOYVo9Ts38fY6",
       "runId": 1125051453
+    },
+    "1gi6wSBiifj3D7s": {
+      "name": "snake_eater",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 58,
+      "win": false,
+      "kills": 406,
+      "ultra": 0,
+      "skills": [
+        28,
+        13,
+        27,
+        25,
+        17,
+        4,
+        3,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1gi6wSBiifj3D7s",
+      "runId": 1125051453
     }
   }
 }
