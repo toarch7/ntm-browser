@@ -181,21 +181,64 @@
       "name": "jododendron",
       "char": 1,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
       "wep": 7,
       "bwep": 16,
       "win": false,
-      "kills": 64,
+      "kills": 74,
       "ultra": 0,
       "skills": [
         28,
+        4,
         1
       ],
       "crown": 12,
       "version": 2616,
       "uid": "2jn9sMH2IkmDw3q",
+      "runId": 2067690148
+    },
+    "QG253Pt5dYzFRCL": {
+      "name": "RZleonardo",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 2,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        10,
+        7
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "QG253Pt5dYzFRCL",
+      "runId": 2067690148
+    },
+    "RwSmFhfr4aUyjy4": {
+      "name": "hollowknight616",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 75,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        2,
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
       "runId": 2067690148
     }
   }
