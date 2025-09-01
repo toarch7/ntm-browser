@@ -224,6 +224,49 @@
       "version": 2616,
       "uid": "RQfiiQeCURK78f6",
       "runId": 846814342
+    },
+    "27980ftxdKmg6ip": {
+      "name": "goku",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 57,
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        25,
+        13,
+        27,
+        23
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "27980ftxdKmg6ip",
+      "runId": 846814342
+    },
+    "yWJ6vbQF7Dc3db0": {
+      "name": "SoulKepper",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "yWJ6vbQF7Dc3db0",
+      "runId": 846814342
     }
   }
 }
