@@ -166,10 +166,10 @@
       "wep": 26,
       "bwep": 75,
       "win": false,
-      "kills": 103,
+      "kills": 108,
       "ultra": 0,
       "skills": [
-        10,
+        6,
         1
       ],
       "crown": 12,
@@ -239,6 +239,28 @@
       "crown": 12,
       "version": 2616,
       "uid": "RwSmFhfr4aUyjy4",
+      "runId": 2067690148
+    },
+    "J2m0M059Lb6GuPX": {
+      "name": "Lesser",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 75,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        10,
+        1,
+        13
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "J2m0M059Lb6GuPX",
       "runId": 2067690148
     }
   }
