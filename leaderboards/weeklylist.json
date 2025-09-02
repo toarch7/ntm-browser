@@ -309,16 +309,16 @@
       "name": "jonkk",
       "char": 1,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
       "wep": 75,
-      "bwep": 0,
+      "bwep": 31,
       "win": false,
-      "kills": 59,
+      "kills": 77,
       "ultra": 0,
       "skills": [
-        10,
+        8,
         1
       ],
       "crown": 12,
@@ -480,10 +480,10 @@
       "area": 3,
       "subarea": 2,
       "loops": 0,
-      "wep": 75,
-      "bwep": 21,
+      "wep": 88,
+      "bwep": 75,
       "win": false,
-      "kills": 104,
+      "kills": 109,
       "ultra": 0,
       "skills": [
         8,
@@ -779,6 +779,27 @@
       "crown": 12,
       "version": 2616,
       "uid": "1a3aKH9R68c6qB1",
+      "runId": 2067690148
+    },
+    "H0j8c0sF1E3tcbX": {
+      "name": "compo",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 75,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        1,
+        27
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "H0j8c0sF1E3tcbX",
       "runId": 2067690148
     }
   }
