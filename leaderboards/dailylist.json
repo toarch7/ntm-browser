@@ -616,6 +616,68 @@
       "version": 2616,
       "uid": "dQCU2vU5Zf723ha",
       "runId": 259208739
+    },
+    "27980ftxdKmg6ip": {
+      "name": "goku",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 35,
+      "bwep": 13,
+      "win": false,
+      "kills": 627,
+      "ultra": 1,
+      "skills": [
+        29,
+        25,
+        8,
+        13,
+        10,
+        27
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "27980ftxdKmg6ip",
+      "runId": 259208739
+    },
+    "q688By5QaAD1Sh0": {
+      "name": "Seeker71",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 116,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        21,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "q688By5QaAD1Sh0",
+      "runId": 259208739
+    },
+    "YgoJBTeqB90U3j6": {
+      "name": "Manuh",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "YgoJBTeqB90U3j6",
+      "runId": 259208739
     }
   }
 }
