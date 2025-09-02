@@ -452,6 +452,47 @@
       "version": 2616,
       "uid": "652o70OEj5I3eGr",
       "runId": 2067690148
+    },
+    "0oGyoKfZo06LCjB": {
+      "name": "squeaker",
+      "char": 1,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 27,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "0oGyoKfZo06LCjB",
+      "runId": 2067690148
+    },
+    "g396XPaOZpLQdI0": {
+      "name": "Angelus",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 21,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        8,
+        7
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "g396XPaOZpLQdI0",
+      "runId": 2067690148
     }
   }
 }
