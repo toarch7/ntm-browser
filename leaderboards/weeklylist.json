@@ -720,19 +720,22 @@
       "name": "IsmaaBoiii",
       "char": 1,
       "skin": false,
-      "area": 3,
+      "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 17,
+      "wep": 26,
       "bwep": 75,
       "win": false,
-      "kills": 146,
+      "kills": 244,
       "ultra": 0,
       "skills": [
         27,
-        8,
         7,
-        4
+        9,
+        4,
+        8,
+        29,
+        1
       ],
       "crown": 12,
       "version": 2616,
@@ -1170,6 +1173,28 @@
       "crown": 12,
       "version": 2616,
       "uid": "YTLFloSafh51499",
+      "runId": 2067690148
+    },
+    "15R7I5xrZnvtA16": {
+      "name": "The_joakoX",
+      "char": 1,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 27,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        14
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "15R7I5xrZnvtA16",
       "runId": 2067690148
     }
   }
