@@ -912,6 +912,48 @@
       "version": 2616,
       "uid": "5H823Pk39LSlv99",
       "runId": 2067690148
+    },
+    "CjCq8Gx44Hg9JU5": {
+      "name": "K_REAL",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 75,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        16,
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "CjCq8Gx44Hg9JU5",
+      "runId": 2067690148
+    },
+    "eor1gAGK7ad8C2C": {
+      "name": "FRIZER",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 4,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        27,
+        29
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "eor1gAGK7ad8C2C",
+      "runId": 2067690148
     }
   }
 }
