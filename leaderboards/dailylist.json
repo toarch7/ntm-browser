@@ -1,4 +1,104 @@
 {
   "day": 4,
-  "entries": {}
+  "entries": {
+    "JhSX0SfwelmaMyD": {
+      "name": "pipo",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "JhSX0SfwelmaMyD",
+      "runId": 30659092
+    },
+    "7C7UIq3Dr1Dh51n": {
+      "name": "brazzer250",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 17,
+      "win": false,
+      "kills": 230,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        1,
+        12,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7C7UIq3Dr1Dh51n",
+      "runId": 30659092
+    },
+    "Aggffpgphbq2jK4": {
+      "name": "jhon_DD",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 3,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        8,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Aggffpgphbq2jK4",
+      "runId": 30659092
+    },
+    "9Y0p089SqO3qER9": {
+      "name": "Santiago",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 6,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9Y0p089SqO3qER9",
+      "runId": 30659092
+    },
+    "02InQqD0AaZ1ryj": {
+      "name": "David",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "02InQqD0AaZ1ryj",
+      "runId": 30659092
+    }
+  }
 }
