@@ -961,6 +961,48 @@
       "version": 2616,
       "uid": "963u75Kl264933H",
       "runId": 30659092
+    },
+    "PYN7zUw415K5hHh": {
+      "name": "MR.",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 69,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        29,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "PYN7zUw415K5hHh",
+      "runId": 30659092
+    },
+    "I7bg95DRQQlP278": {
+      "name": "Yenet",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 69,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        1,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "I7bg95DRQQlP278",
+      "runId": 30659092
     }
   }
 }
