@@ -207,6 +207,49 @@
       "version": 2616,
       "uid": "rw81FsKopY7QW59",
       "runId": 30659092
+    },
+    "Z96m9O8w4tG8qs0": {
+      "name": "EnemySovonoK",
+      "char": 8,
+      "skin": true,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 0,
+      "win": false,
+      "kills": 20,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Z96m9O8w4tG8qs0",
+      "runId": 30659092
+    },
+    "RwSmFhfr4aUyjy4": {
+      "name": "hollowknight616",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        8,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
+      "runId": 30659092
     }
   }
 }
