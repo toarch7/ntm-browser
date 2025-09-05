@@ -263,6 +263,45 @@
       "version": 2616,
       "uid": "359Ib9IC5P1y296",
       "runId": 757625991
+    },
+    "zY1nvRqjLgnG5hY": {
+      "name": "diego",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "zY1nvRqjLgnG5hY",
+      "runId": 757625991
+    },
+    "M7BCl4nl338d6pp": {
+      "name": "Lpknight",
+      "char": 10,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 27,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        7,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "M7BCl4nl338d6pp",
+      "runId": 757625991
     }
   }
 }
