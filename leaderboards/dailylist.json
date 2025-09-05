@@ -302,6 +302,51 @@
       "version": 2616,
       "uid": "M7BCl4nl338d6pp",
       "runId": 757625991
+    },
+    "eor1gAGK7ad8C2C": {
+      "name": "FRIZER",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 35,
+      "win": false,
+      "kills": 328,
+      "ultra": 0,
+      "skills": [
+        27,
+        8,
+        4,
+        9,
+        1,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "eor1gAGK7ad8C2C",
+      "runId": 757625991
+    },
+    "d5bNcGTyv6I9C4d": {
+      "name": "Izum080",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "d5bNcGTyv6I9C4d",
+      "runId": 757625991
     }
   }
 }
