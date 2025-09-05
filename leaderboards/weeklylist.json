@@ -1644,19 +1644,20 @@
       "name": "Zarb",
       "char": 1,
       "skin": false,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 75,
+      "wep": 63,
       "bwep": 26,
       "win": false,
-      "kills": 158,
+      "kills": 244,
       "ultra": 0,
       "skills": [
+        1,
         27,
         8,
-        10,
-        2
+        7,
+        9
       ],
       "crown": 12,
       "version": 2616,
@@ -1821,6 +1822,71 @@
       "crown": 12,
       "version": 2616,
       "uid": "1UuXg99250Ba5eM",
+      "runId": 2067690148
+    },
+    "VQo62X5JEHz4S5A": {
+      "name": "jaly009",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 75,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        1,
+        9
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "VQo62X5JEHz4S5A",
+      "runId": 2067690148
+    },
+    "694pSGc5IyuhA92": {
+      "name": "Makro",
+      "char": 1,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 75,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        10,
+        8,
+        4,
+        9
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "694pSGc5IyuhA92",
+      "runId": 2067690148
+    },
+    "mQ6dxSp1osVs2vM": {
+      "name": "bloodhail",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 0,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        8,
+        10
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "mQ6dxSp1osVs2vM",
       "runId": 2067690148
     }
   }
