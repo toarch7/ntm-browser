@@ -1556,16 +1556,18 @@
       "name": "Yaels08",
       "char": 1,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 5,
-      "bwep": 16,
+      "wep": 75,
+      "bwep": 27,
       "win": false,
-      "kills": 48,
+      "kills": 82,
       "ultra": 0,
       "skills": [
-        4
+        8,
+        27,
+        13
       ],
       "crown": 12,
       "version": 2616,
