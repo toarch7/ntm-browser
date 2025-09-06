@@ -736,6 +736,58 @@
       "version": 2616,
       "uid": "625CNC69DBEW4HY",
       "runId": 763490843
+    },
+    "1gi6wSBiifj3D7s": {
+      "name": "snake_eater",
+      "char": 6,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 35,
+      "bwep": 25,
+      "win": false,
+      "kills": 319,
+      "ultra": 0,
+      "skills": [
+        4,
+        27,
+        7,
+        14,
+        23,
+        13,
+        17
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "1gi6wSBiifj3D7s",
+      "runId": 763490843
+    },
+    "W1mkf49L9O5XpJw": {
+      "name": "Wazi",
+      "char": 2,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 33,
+      "bwep": 13,
+      "win": false,
+      "kills": 408,
+      "ultra": 1,
+      "skills": [
+        8,
+        13,
+        23,
+        27,
+        4,
+        3,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W1mkf49L9O5XpJw",
+      "runId": 763490843
     }
   }
 }
