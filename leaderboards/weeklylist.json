@@ -2099,11 +2099,11 @@
       "wep": 75,
       "bwep": 19,
       "win": false,
-      "kills": 47,
+      "kills": 68,
       "ultra": 0,
       "skills": [
-        7,
-        14
+        4,
+        27
       ],
       "crown": 12,
       "version": 2616,
@@ -2129,6 +2129,30 @@
       "crown": 12,
       "version": 2616,
       "uid": "359Ib9IC5P1y296",
+      "runId": 2067690148
+    },
+    "adFDXI0y5jUDZjh": {
+      "name": "Seeking",
+      "char": 1,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 91,
+      "bwep": 11,
+      "win": false,
+      "kills": 344,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        1,
+        27,
+        23
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "adFDXI0y5jUDZjh",
       "runId": 2067690148
     }
   }
