@@ -548,6 +548,66 @@
       "version": 2616,
       "uid": "EVl3A0wZ9bTFs7w",
       "runId": 763490843
+    },
+    "9b93cS95RuEmd7t": {
+      "name": "thronenuclear",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "9b93cS95RuEmd7t",
+      "runId": 763490843
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 75,
+      "win": false,
+      "kills": 164,
+      "ultra": 0,
+      "skills": [
+        22,
+        19
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 763490843
+    },
+    "359Ib9IC5P1y296": {
+      "name": "Yupinejo25",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 22,
+      "win": false,
+      "kills": 236,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        3,
+        7
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "359Ib9IC5P1y296",
+      "runId": 763490843
     }
   }
 }
