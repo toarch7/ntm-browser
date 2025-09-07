@@ -2202,16 +2202,17 @@
       "name": "Skully903",
       "char": 1,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
       "wep": 75,
       "bwep": 0,
       "win": false,
-      "kills": 63,
+      "kills": 96,
       "ultra": 0,
       "skills": [
-        4
+        19,
+        1
       ],
       "crown": 12,
       "version": 2616,
