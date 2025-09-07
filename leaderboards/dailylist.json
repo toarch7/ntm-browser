@@ -912,6 +912,52 @@
       "version": 2616,
       "uid": "EVl3A0wZ9bTFs7w",
       "runId": 694743335
+    },
+    "LJQUriaK1fQsRvL": {
+      "name": "Isaac",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 15,
+      "bwep": 118,
+      "win": false,
+      "kills": 311,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        10,
+        23,
+        1,
+        9
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "LJQUriaK1fQsRvL",
+      "runId": 694743335
+    },
+    "27980ftxdKmg6ip": {
+      "name": "Okarun",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 3,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        27,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "27980ftxdKmg6ip",
+      "runId": 694743335
     }
   }
 }
