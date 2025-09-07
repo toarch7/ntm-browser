@@ -681,6 +681,101 @@
       "version": 2616,
       "uid": "h1U1dg3Bp50iw45",
       "runId": 694743335
+    },
+    "3d2d78aJLDU617A": {
+      "name": "3d2d78aJLDU617A",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 118,
+      "bwep": 34,
+      "win": false,
+      "kills": 382,
+      "ultra": 0,
+      "skills": [
+        1,
+        29,
+        8,
+        27,
+        7,
+        3,
+        14,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3d2d78aJLDU617A",
+      "runId": 694743335
+    },
+    "637rYap8Ip542ss": {
+      "name": "HECTOR",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        27,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "637rYap8Ip542ss",
+      "runId": 694743335
+    },
+    "a9Q2SQ2FN13Y6ax": {
+      "name": "Racnar",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 2,
+      "win": false,
+      "kills": 185,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a9Q2SQ2FN13Y6ax",
+      "runId": 694743335
+    },
+    "w5Hi24yZ9mJJwqr": {
+      "name": "Seeker90",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 119,
+      "bwep": 3,
+      "win": false,
+      "kills": 270,
+      "ultra": 0,
+      "skills": [
+        27,
+        8,
+        4,
+        14,
+        10,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "w5Hi24yZ9mJJwqr",
+      "runId": 694743335
     }
   }
 }
