@@ -2333,6 +2333,53 @@
       "version": 2616,
       "uid": "iVBj5889008iMV3",
       "runId": 2067690148
+    },
+    "l4Jde5CduPkhNGC": {
+      "name": "Orestes",
+      "char": 1,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 26,
+      "win": false,
+      "kills": 309,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        10,
+        4,
+        9,
+        2
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "l4Jde5CduPkhNGC",
+      "runId": 2067690148
+    },
+    "X3TDNX0YwmOwF22": {
+      "name": "Seeker45",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 75,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        10,
+        1,
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "X3TDNX0YwmOwF22",
+      "runId": 2067690148
     }
   }
 }

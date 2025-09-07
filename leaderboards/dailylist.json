@@ -776,6 +776,96 @@
       "version": 2616,
       "uid": "w5Hi24yZ9mJJwqr",
       "runId": 694743335
+    },
+    "g396XPaOZpLQdI0": {
+      "name": "Angelus",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g396XPaOZpLQdI0",
+      "runId": 694743335
+    },
+    "4Gm6Lf3sj6QV2tX": {
+      "name": "HRique",
+      "char": 4,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 22,
+      "win": false,
+      "kills": 283,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        4,
+        9,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4Gm6Lf3sj6QV2tX",
+      "runId": 694743335
+    },
+    "Le0BsCrjK25alYZ": {
+      "name": "KillerFromUras",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 9,
+      "win": false,
+      "kills": 243,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        3,
+        6,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Le0BsCrjK25alYZ",
+      "runId": 694743335
+    },
+    "l4Jde5CduPkhNGC": {
+      "name": "Orestes",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "l4Jde5CduPkhNGC",
+      "runId": 694743335
     }
   }
 }
