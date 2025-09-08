@@ -371,6 +371,53 @@
       "version": 2616,
       "uid": "U94n1qoF5IFwSi3",
       "runId": 1545638102
+    },
+    "52rHf55VMHgj7Ax": {
+      "name": "Seeke",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        17,
+        29
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "52rHf55VMHgj7Ax",
+      "runId": 1545638102
+    },
+    "W6l3Mpr5O381m92": {
+      "name": "Konraddo",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 11,
+      "win": false,
+      "kills": 181,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        9,
+        27,
+        6
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "W6l3Mpr5O381m92",
+      "runId": 1545638102
     }
   }
 }
