@@ -1,4 +1,133 @@
 {
   "seed": 1545638102,
-  "entries": {}
+  "entries": {
+    "VD33VZjX0J3LKIx": {
+      "name": "rhoveen",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 16,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        8,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "VD33VZjX0J3LKIx",
+      "runId": 1545638102
+    },
+    "4D59gecn4omH04h": {
+      "name": "Seeker",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 26,
+      "win": false,
+      "kills": 205,
+      "ultra": 0,
+      "skills": [
+        13,
+        4,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "4D59gecn4omH04h",
+      "runId": 1545638102
+    },
+    "5KwOwlTvkzWRACx": {
+      "name": "trononutelar",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 27,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "5KwOwlTvkzWRACx",
+      "runId": 1545638102
+    },
+    "00zAg1lhco3H59J": {
+      "name": "muxamaca",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 3,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        6,
+        22
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "00zAg1lhco3H59J",
+      "runId": 1545638102
+    },
+    "q8xqShxSYCjYdF1": {
+      "name": "m4kr",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 20,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "q8xqShxSYCjYdF1",
+      "runId": 1545638102
+    },
+    "we290zG2yFU7Q46": {
+      "name": "tizinatorghots",
+      "char": 11,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 20,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        28,
+        29
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "we290zG2yFU7Q46",
+      "runId": 1545638102
+    }
+  }
 }
