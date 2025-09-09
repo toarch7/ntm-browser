@@ -601,18 +601,20 @@
       "name": "ALE17$",
       "char": 11,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 41,
-      "bwep": 10,
+      "wep": 8,
+      "bwep": 24,
       "win": false,
-      "kills": 123,
+      "kills": 225,
       "ultra": 0,
       "skills": [
+        7,
+        4,
         8,
         1,
-        7
+        29
       ],
       "crown": 5,
       "version": 2616,
@@ -986,6 +988,136 @@
       "crown": 5,
       "version": 2616,
       "uid": "nINok3AdSTPRq34",
+      "runId": 1545638102
+    },
+    "r806QDLkd2yCEBU": {
+      "name": "Scrotum",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 8,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "r806QDLkd2yCEBU",
+      "runId": 1545638102
+    },
+    "5jQ0C4EoUQGA4yD": {
+      "name": "Leonardo",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 19,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "5jQ0C4EoUQGA4yD",
+      "runId": 1545638102
+    },
+    "4H5AW4507WNdY4z": {
+      "name": "aña",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 8,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        9
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "4H5AW4507WNdY4z",
+      "runId": 1545638102
+    },
+    "vd82KZ5X2Q6Gw4U": {
+      "name": "tralalero",
+      "char": 11,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 47,
+      "win": false,
+      "kills": 343,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        9,
+        14
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "vd82KZ5X2Q6Gw4U",
+      "runId": 1545638102
+    },
+    "m5OOYVo9Ts38fY6": {
+      "name": "Genus",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 7,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "m5OOYVo9Ts38fY6",
+      "runId": 1545638102
+    },
+    "fe8w78XS4N6FJvm": {
+      "name": "insano3D_XD",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        10,
+        1,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "fe8w78XS4N6FJvm",
       "runId": 1545638102
     }
   }
