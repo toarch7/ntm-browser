@@ -1038,15 +1038,15 @@
       "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 75,
-      "bwep": 8,
+      "wep": 27,
+      "bwep": 61,
       "win": false,
-      "kills": 72,
+      "kills": 88,
       "ultra": 0,
       "skills": [
         4,
         7,
-        9
+        12
       ],
       "crown": 5,
       "version": 2616,
@@ -1385,22 +1385,64 @@
       "name": "ffdadd",
       "char": 11,
       "skin": true,
-      "area": 104,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
       "wep": 13,
-      "bwep": 52,
+      "bwep": 14,
       "win": false,
-      "kills": 141,
+      "kills": 234,
       "ultra": 0,
       "skills": [
-        4,
-        12,
-        13
+        8,
+        1,
+        13,
+        12
       ],
       "crown": 5,
       "version": 2616,
       "uid": "TvU2hI7ZA7KFNu9",
+      "runId": 1545638102
+    },
+    "DG64z57U5f696MH": {
+      "name": "Gallo",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 61,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "DG64z57U5f696MH",
+      "runId": 1545638102
+    },
+    "cI76SgYO00u8JA4": {
+      "name": "Epoxa",
+      "char": 11,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 6,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        8,
+        12
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "cI76SgYO00u8JA4",
       "runId": 1545638102
     }
   }
