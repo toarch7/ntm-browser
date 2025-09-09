@@ -785,17 +785,19 @@
       "name": "Jinx",
       "char": 11,
       "skin": true,
-      "area": 103,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 13,
-      "bwep": 61,
+      "wep": 3,
+      "bwep": 38,
       "win": false,
-      "kills": 117,
+      "kills": 153,
       "ultra": 0,
       "skills": [
         1,
-        27
+        4,
+        27,
+        9
       ],
       "crown": 5,
       "version": 2616,
@@ -1443,6 +1445,31 @@
       "crown": 5,
       "version": 2616,
       "uid": "cI76SgYO00u8JA4",
+      "runId": 1545638102
+    },
+    "O83p04cDEV6r5m7": {
+      "name": "Saifer",
+      "char": 11,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 15,
+      "win": false,
+      "kills": 269,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        16,
+        27,
+        4,
+        7
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "O83p04cDEV6r5m7",
       "runId": 1545638102
     }
   }

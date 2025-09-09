@@ -673,6 +673,69 @@
       "version": 2616,
       "uid": "cI76SgYO00u8JA4",
       "runId": 684163105
+    },
+    "vX2141J8chEWN9s": {
+      "name": "Fontalvo",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 35,
+      "crown": 1,
+      "version": 2616,
+      "uid": "vX2141J8chEWN9s",
+      "runId": 684163105
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 684163105
+    },
+    "1gi6wSBiifj3D7s": {
+      "name": "snake_eater",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 93,
+      "bwep": 35,
+      "win": false,
+      "kills": 1513,
+      "ultra": 1,
+      "skills": [
+        4,
+        27,
+        14,
+        13,
+        23,
+        17,
+        3,
+        7
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "1gi6wSBiifj3D7s",
+      "runId": 684163105
     }
   }
 }
