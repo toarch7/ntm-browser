@@ -1271,6 +1271,49 @@
       "version": 2616,
       "uid": "a9C9Svqk436O6hO",
       "runId": 1545638102
+    },
+    "6w6G9gpVk2w06r9": {
+      "name": "SigiFR",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 44,
+      "bwep": 61,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "6w6G9gpVk2w06r9",
+      "runId": 1545638102
+    },
+    "ZXkX0j0x1f5jzlS": {
+      "name": "Seeker90",
+      "char": 11,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 75,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        1,
+        29,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "ZXkX0j0x1f5jzlS",
+      "runId": 1545638102
     }
   }
 }
