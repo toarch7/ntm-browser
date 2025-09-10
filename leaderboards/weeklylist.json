@@ -587,17 +587,21 @@
       "name": "Rika",
       "char": 11,
       "skin": true,
-      "area": 104,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 75,
-      "bwep": 13,
+      "wep": 74,
+      "bwep": 38,
       "win": false,
-      "kills": 151,
-      "ultra": 0,
+      "kills": 379,
+      "ultra": 3,
       "skills": [
         1,
-        9
+        22,
+        4,
+        7,
+        14,
+        13
       ],
       "crown": 5,
       "version": 2616,
@@ -1784,6 +1788,27 @@
       "crown": 5,
       "version": 2616,
       "uid": "8IwgxZO8MPVmH7k",
+      "runId": 1545638102
+    },
+    "625CNC69DBEW4HY": {
+      "name": "Coco",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 8,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "625CNC69DBEW4HY",
       "runId": 1545638102
     }
   }
