@@ -1,4 +1,49 @@
 {
   "day": 10,
-  "entries": {}
+  "entries": {
+    "vd82KZ5X2Q6Gw4U": {
+      "name": "tralalero",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 38,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        10,
+        9,
+        1,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "vd82KZ5X2Q6Gw4U",
+      "runId": 776551860
+    },
+    "a9Q2SQ2FN13Y6ax": {
+      "name": "Racnar",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 3,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a9Q2SQ2FN13Y6ax",
+      "runId": 776551860
+    }
+  }
 }
