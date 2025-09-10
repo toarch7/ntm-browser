@@ -474,6 +474,52 @@
       "version": 2616,
       "uid": "5KwOwlTvkzWRACx",
       "runId": 776551860
+    },
+    "gYhD4AWn138242F": {
+      "name": "Finn",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 27,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gYhD4AWn138242F",
+      "runId": 776551860
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "Fanton",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 12,
+      "bwep": 65,
+      "win": false,
+      "kills": 435,
+      "ultra": 1,
+      "skills": [
+        1,
+        7,
+        3,
+        27,
+        23,
+        13,
+        17
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 776551860
     }
   }
 }
