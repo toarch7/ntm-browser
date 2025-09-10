@@ -1738,6 +1738,53 @@
       "version": 2616,
       "uid": "gYhD4AWn138242F",
       "runId": 1545638102
+    },
+    "2jn9sMH2IkmDw3q": {
+      "name": "jododendron",
+      "char": 11,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 61,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        25,
+        3,
+        27,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "2jn9sMH2IkmDw3q",
+      "runId": 1545638102
+    },
+    "8IwgxZO8MPVmH7k": {
+      "name": "w.g.gaster",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 11,
+      "win": false,
+      "kills": 176,
+      "ultra": 0,
+      "skills": [
+        8,
+        9,
+        1,
+        27,
+        14
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "8IwgxZO8MPVmH7k",
+      "runId": 1545638102
     }
   }
 }
