@@ -604,20 +604,22 @@
       "name": "ALE17$",
       "char": 11,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 8,
-      "bwep": 24,
+      "wep": 60,
+      "bwep": 13,
       "win": false,
-      "kills": 225,
+      "kills": 356,
       "ultra": 0,
       "skills": [
-        7,
         4,
         8,
+        13,
+        23,
         1,
-        29
+        7,
+        9
       ],
       "crown": 5,
       "version": 2616,
@@ -1597,6 +1599,29 @@
       "crown": 5,
       "version": 2616,
       "uid": "a9Q2SQ2FN13Y6ax",
+      "runId": 1545638102
+    },
+    "9Oq9e3Mb4ZJG9Z4": {
+      "name": "Лоло",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 28,
+      "win": false,
+      "kills": 211,
+      "ultra": 0,
+      "skills": [
+        1,
+        16,
+        19,
+        10
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "9Oq9e3Mb4ZJG9Z4",
       "runId": 1545638102
     }
   }
