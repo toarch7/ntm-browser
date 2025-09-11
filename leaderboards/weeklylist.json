@@ -2178,6 +2178,46 @@
       "version": 2616,
       "uid": "4mLJlNqKa80CiPZ",
       "runId": 1545638102
+    },
+    "3Hph4gRT807jCLW": {
+      "name": "warlordsha24",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 27,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [],
+      "crown": 5,
+      "version": 2616,
+      "uid": "3Hph4gRT807jCLW",
+      "runId": 1545638102
+    },
+    "DpgW3hvi67i0JrB": {
+      "name": "cocoduro",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 75,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        29,
+        1,
+        14
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "DpgW3hvi67i0JrB",
+      "runId": 1545638102
     }
   }
 }
