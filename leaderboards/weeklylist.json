@@ -1017,12 +1017,14 @@
       "subarea": 1,
       "loops": 0,
       "wep": 88,
-      "bwep": 8,
+      "bwep": 72,
       "win": false,
-      "kills": 73,
+      "kills": 95,
       "ultra": 0,
       "skills": [
-        8
+        8,
+        14,
+        10
       ],
       "crown": 5,
       "version": 2616,
@@ -1888,17 +1890,17 @@
       "name": "Ronin47",
       "char": 11,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 13,
-      "bwep": 6,
+      "wep": 5,
+      "bwep": 31,
       "win": false,
-      "kills": 57,
+      "kills": 87,
       "ultra": 0,
       "skills": [
-        13,
-        22
+        7,
+        3
       ],
       "crown": 5,
       "version": 2616,
