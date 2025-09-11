@@ -1664,16 +1664,17 @@
       "name": "squeaker",
       "char": 11,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 75,
+      "wep": 88,
       "bwep": 6,
       "win": false,
-      "kills": 60,
+      "kills": 71,
       "ultra": 0,
       "skills": [
         21,
+        10,
         1
       ],
       "crown": 5,
@@ -1890,14 +1891,14 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 6,
-      "bwep": 3,
+      "wep": 13,
+      "bwep": 6,
       "win": false,
-      "kills": 56,
+      "kills": 57,
       "ultra": 0,
       "skills": [
-        3,
-        21
+        13,
+        22
       ],
       "crown": 5,
       "version": 2616,
@@ -1945,6 +1946,49 @@
       "crown": 5,
       "version": 2616,
       "uid": "UBfz78T0mNwK91n",
+      "runId": 1545638102
+    },
+    "sdyijVf7wKOO62p": {
+      "name": "kaledps5",
+      "char": 11,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 116,
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        1,
+        10
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "sdyijVf7wKOO62p",
+      "runId": 1545638102
+    },
+    "KtqG3bjdNH9hvV8": {
+      "name": "rey2101",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 61,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "KtqG3bjdNH9hvV8",
       "runId": 1545638102
     }
   }
