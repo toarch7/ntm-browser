@@ -1558,16 +1558,18 @@
       "name": "elmalodla8..",
       "char": 11,
       "skin": true,
-      "area": 104,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 5,
-      "bwep": 116,
+      "wep": 69,
+      "bwep": 30,
       "win": false,
-      "kills": 134,
+      "kills": 144,
       "ultra": 0,
       "skills": [
-        8
+        8,
+        2,
+        1
       ],
       "crown": 5,
       "version": 2616,
@@ -2183,15 +2185,18 @@
       "name": "warlordsha24",
       "char": 11,
       "skin": true,
-      "area": 2,
+      "area": 103,
       "subarea": 1,
       "loops": 0,
-      "wep": 61,
+      "wep": 16,
       "bwep": 27,
       "win": false,
-      "kills": 57,
+      "kills": 96,
       "ultra": 0,
-      "skills": [],
+      "skills": [
+        3,
+        19
+      ],
       "crown": 5,
       "version": 2616,
       "uid": "3Hph4gRT807jCLW",
@@ -2217,6 +2222,28 @@
       "crown": 5,
       "version": 2616,
       "uid": "DpgW3hvi67i0JrB",
+      "runId": 1545638102
+    },
+    "9Y0p089SqO3qER9": {
+      "name": "Santiago",
+      "char": 11,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 61,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "9Y0p089SqO3qER9",
       "runId": 1545638102
     }
   }

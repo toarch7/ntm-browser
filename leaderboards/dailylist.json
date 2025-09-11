@@ -573,6 +573,50 @@
       "version": 2616,
       "uid": "DpgW3hvi67i0JrB",
       "runId": 481850046
+    },
+    "9Y0p089SqO3qER9": {
+      "name": "Santiago",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 16,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9Y0p089SqO3qER9",
+      "runId": 481850046
+    },
+    "WoxUmfP37M78eln": {
+      "name": "YES_KING",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 89,
+      "win": false,
+      "kills": 405,
+      "ultra": 1,
+      "skills": [
+        1,
+        14,
+        27,
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "WoxUmfP37M78eln",
+      "runId": 481850046
     }
   }
 }
