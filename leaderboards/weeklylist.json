@@ -1646,15 +1646,15 @@
       "area": 3,
       "subarea": 3,
       "loops": 0,
-      "wep": 13,
-      "bwep": 66,
+      "wep": 26,
+      "bwep": 15,
       "win": false,
-      "kills": 129,
+      "kills": 142,
       "ultra": 0,
       "skills": [
         28,
         29,
-        3,
+        4,
         14
       ],
       "crown": 5,
@@ -1991,6 +1991,26 @@
       "crown": 5,
       "version": 2616,
       "uid": "KtqG3bjdNH9hvV8",
+      "runId": 1545638102
+    },
+    "RqwB83w6DAO8fZi": {
+      "name": "EVC17",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 16,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "RqwB83w6DAO8fZi",
       "runId": 1545638102
     }
   }
