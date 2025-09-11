@@ -2055,6 +2055,72 @@
       "version": 2616,
       "uid": "kj7qj7OjvMAdlM0",
       "runId": 1545638102
+    },
+    "hM9S93mK3IDAq6r": {
+      "name": "Meicake",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 116,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        8,
+        7,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "hM9S93mK3IDAq6r",
+      "runId": 1545638102
+    },
+    "hj29OL28y7G9y7W": {
+      "name": "Elconsole",
+      "char": 11,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 6,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        7
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "hj29OL28y7G9y7W",
+      "runId": 1545638102
+    },
+    "yWJ6vbQF7Dc3db0": {
+      "name": "SoulKepper",
+      "char": 11,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 61,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "yWJ6vbQF7Dc3db0",
+      "runId": 1545638102
     }
   }
 }
