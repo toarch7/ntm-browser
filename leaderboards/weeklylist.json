@@ -1343,17 +1343,20 @@
       "name": "Nobboy",
       "char": 11,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 8,
-      "bwep": 13,
+      "wep": 11,
+      "bwep": 61,
       "win": false,
-      "kills": 138,
+      "kills": 209,
       "ultra": 0,
       "skills": [
+        7,
         4,
-        19
+        25,
+        17,
+        27
       ],
       "crown": 5,
       "version": 2616,
@@ -2739,16 +2742,17 @@
       "name": "Matt",
       "char": 11,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 13,
-      "bwep": 8,
+      "wep": 79,
+      "bwep": 20,
       "win": false,
-      "kills": 50,
+      "kills": 124,
       "ultra": 0,
       "skills": [
-        7
+        7,
+        21
       ],
       "crown": 5,
       "version": 2616,
@@ -2773,6 +2777,69 @@
       "crown": 5,
       "version": 2616,
       "uid": "0u8Bx5FjzyS9M2a",
+      "runId": 1545638102
+    },
+    "d20mRfnMuFrQzSt": {
+      "name": "Chernomor",
+      "char": 11,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 30,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        17,
+        7
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "d20mRfnMuFrQzSt",
+      "runId": 1545638102
+    },
+    "15R7I5xrZnvtA16": {
+      "name": "The_joakoX",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 16,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "15R7I5xrZnvtA16",
+      "runId": 1545638102
+    },
+    "x79YU94tYqM3pit": {
+      "name": "влад",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 16,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "x79YU94tYqM3pit",
       "runId": 1545638102
     }
   }

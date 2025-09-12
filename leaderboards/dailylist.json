@@ -1088,6 +1088,51 @@
       "version": 2616,
       "uid": "2Gdsc5hJYm7D0qd",
       "runId": 1101758607
+    },
+    "a9Q2SQ2FN13Y6ax": {
+      "name": "Racnar",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 0,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a9Q2SQ2FN13Y6ax",
+      "runId": 1101758607
+    },
+    "QxFbs71xsqr8o5P": {
+      "name": "TimxN",
+      "char": 4,
+      "skin": true,
+      "area": 100,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 12,
+      "bwep": 60,
+      "win": false,
+      "kills": 991,
+      "ultra": 1,
+      "skills": [
+        14,
+        3,
+        21,
+        25,
+        22,
+        27,
+        10,
+        12
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "QxFbs71xsqr8o5P",
+      "runId": 1101758607
     }
   }
 }
