@@ -1670,18 +1670,18 @@
       "name": "squeaker",
       "char": 11,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 6,
+      "wep": 11,
+      "bwep": 28,
       "win": false,
-      "kills": 71,
+      "kills": 169,
       "ultra": 0,
       "skills": [
-        21,
-        10,
-        1
+        19,
+        1,
+        4
       ],
       "crown": 5,
       "version": 2616,
@@ -2577,6 +2577,55 @@
       "crown": 5,
       "version": 2616,
       "uid": "nKvd4Gazu0vYdbZ",
+      "runId": 1545638102
+    },
+    "eor1gAGK7ad8C2C": {
+      "name": "FRIZER",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 13,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        27,
+        16,
+        25
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "eor1gAGK7ad8C2C",
+      "runId": 1545638102
+    },
+    "PyyF15qyPd7sjH8": {
+      "name": "ikky",
+      "char": 11,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 60,
+      "bwep": 74,
+      "win": false,
+      "kills": 364,
+      "ultra": 1,
+      "skills": [
+        27,
+        13,
+        23,
+        1,
+        8,
+        10,
+        4,
+        3
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "PyyF15qyPd7sjH8",
       "runId": 1545638102
     }
   }
