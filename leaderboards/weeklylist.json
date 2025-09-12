@@ -2690,6 +2690,70 @@
       "version": 2616,
       "uid": "jfA41jN3w411Raf",
       "runId": 1545638102
+    },
+    "8SfzfXW7oP6xJqn": {
+      "name": "lexa.0",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 5,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        7,
+        21,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "8SfzfXW7oP6xJqn",
+      "runId": 1545638102
+    },
+    "96Xg3WCgJgzk0US": {
+      "name": "ff",
+      "char": 11,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 34,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "96Xg3WCgJgzk0US",
+      "runId": 1545638102
+    },
+    "D0y3f79xV8972Ve": {
+      "name": "Matt",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 8,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "D0y3f79xV8972Ve",
+      "runId": 1545638102
     }
   }
 }
