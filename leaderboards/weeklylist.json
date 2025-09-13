@@ -2132,13 +2132,18 @@
       "name": "Izum080",
       "char": 11,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 5,
-      "bwep": 4,
+      "wep": 57,
+      "bwep": 75,
       "win": false,
-      "kills": 49,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        6,
+        1
+      ],
       "crown": 5,
       "version": 2616,
       "uid": "d5bNcGTyv6I9C4d",
@@ -3012,6 +3017,27 @@
       "crown": 5,
       "version": 2616,
       "uid": "2w2vD0FG76RYoQ3",
+      "runId": 1545638102
+    },
+    "Q0U6a0WNJf7T0vY": {
+      "name": "JaGG",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 31,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        6,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "Q0U6a0WNJf7T0vY",
       "runId": 1545638102
     }
   }
