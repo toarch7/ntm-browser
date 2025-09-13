@@ -720,6 +720,76 @@
       "version": 2616,
       "uid": "4mLJlNqKa80CiPZ",
       "runId": 1718688292
+    },
+    "KZgY3024p1Srfrz": {
+      "name": "S3CZ0",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "KZgY3024p1Srfrz",
+      "runId": 1718688292
+    },
+    "7t144N1t748jSdk": {
+      "name": "Seeker75",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "7t144N1t748jSdk",
+      "runId": 1718688292
+    },
+    "O5nAotio7pL6la6": {
+      "name": "santiago",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2616,
+      "uid": "O5nAotio7pL6la6",
+      "runId": 1718688292
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "Fanton",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 23,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 1718688292
     }
   }
 }
