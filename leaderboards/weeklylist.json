@@ -2861,6 +2861,49 @@
       "version": 2616,
       "uid": "3A8mY81214oB3uU",
       "runId": 1545638102
+    },
+    "7o7JZ8UI0BzCg0I": {
+      "name": "0K4RUN23",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 8,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        7,
+        6,
+        10
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "7o7JZ8UI0BzCg0I",
+      "runId": 1545638102
+    },
+    "JhSX0SfwelmaMyD": {
+      "name": "pipo",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 61,
+      "win": false,
+      "kills": 121,
+      "ultra": 0,
+      "skills": [
+        7,
+        19
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "JhSX0SfwelmaMyD",
+      "runId": 1545638102
     }
   }
 }
