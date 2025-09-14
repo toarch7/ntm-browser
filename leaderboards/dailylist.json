@@ -1,4 +1,63 @@
 {
   "day": 14,
-  "entries": {}
+  "entries": {
+    "t6B9h58vewCwOgM": {
+      "name": "balasar003",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 31,
+      "crown": 1,
+      "version": 2616,
+      "uid": "t6B9h58vewCwOgM",
+      "runId": 490891180
+    },
+    "6l3hF8qzWdS5A9s": {
+      "name": "Skully903",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 3,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        25,
+        28,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6l3hF8qzWdS5A9s",
+      "runId": 490891180
+    },
+    "IojZgiy0PWA7fkH": {
+      "name": "jonkk",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 27,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "IojZgiy0PWA7fkH",
+      "runId": 490891180
+    }
+  }
 }
