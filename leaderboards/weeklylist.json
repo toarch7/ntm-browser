@@ -2661,17 +2661,17 @@
       "char": 11,
       "skin": true,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
       "wep": 13,
-      "bwep": 8,
+      "bwep": 55,
       "win": false,
-      "kills": 97,
+      "kills": 124,
       "ultra": 0,
       "skills": [
-        6,
+        7,
         9,
-        7
+        4
       ],
       "crown": 5,
       "version": 2616,
@@ -3297,6 +3297,26 @@
       "crown": 5,
       "version": 2616,
       "uid": "ckSD2t2wYgR9J7N",
+      "runId": 1545638102
+    },
+    "lGocB90tI2e8ZEB": {
+      "name": "foopa",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 75,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "lGocB90tI2e8ZEB",
       "runId": 1545638102
     }
   }
