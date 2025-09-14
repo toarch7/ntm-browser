@@ -2214,18 +2214,21 @@
       "name": "cocoduro",
       "char": 11,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 88,
-      "bwep": 75,
+      "wep": 25,
+      "bwep": 33,
       "win": false,
-      "kills": 97,
+      "kills": 227,
       "ultra": 0,
       "skills": [
-        29,
-        1,
-        14
+        7,
+        9,
+        10,
+        16,
+        14,
+        27
       ],
       "crown": 5,
       "version": 2616,
@@ -3061,18 +3064,19 @@
       "name": "papafrita666x",
       "char": 11,
       "skin": true,
-      "area": 104,
+      "area": 105,
       "subarea": 1,
       "loops": 0,
-      "wep": 75,
+      "wep": 53,
       "bwep": 6,
       "win": false,
-      "kills": 145,
+      "kills": 186,
       "ultra": 0,
       "skills": [
         7,
         21,
-        4
+        19,
+        26
       ],
       "crown": 5,
       "version": 2616,
@@ -3249,6 +3253,49 @@
       "crown": 5,
       "version": 2616,
       "uid": "8952P207qF705c2",
+      "runId": 1545638102
+    },
+    "OsxgvlAxT2yL6T0": {
+      "name": "Ghistnon",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 55,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        7,
+        6,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "OsxgvlAxT2yL6T0",
+      "runId": 1545638102
+    },
+    "ckSD2t2wYgR9J7N": {
+      "name": "Hy",
+      "char": 11,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 72,
+      "win": false,
+      "kills": 182,
+      "ultra": 0,
+      "skills": [
+        7,
+        6
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "ckSD2t2wYgR9J7N",
       "runId": 1545638102
     }
   }
