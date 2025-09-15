@@ -151,6 +151,29 @@
       "version": 2616,
       "uid": "g396XPaOZpLQdI0",
       "runId": 123683139
+    },
+    "7R3C9ZpZ41cZX2R": {
+      "name": "RELOOPED",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 61,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        4,
+        6,
+        25,
+        10
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "7R3C9ZpZ41cZX2R",
+      "runId": 123683139
     }
   }
 }
