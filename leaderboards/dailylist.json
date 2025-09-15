@@ -229,6 +229,68 @@
       "version": 2616,
       "uid": "av0q145264FdBD3",
       "runId": 238269113
+    },
+    "C5NK0x36H7C06FF": {
+      "name": "Соплежуй",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 35,
+      "win": false,
+      "kills": 292,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        17,
+        3,
+        16,
+        23,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "C5NK0x36H7C06FF",
+      "runId": 238269113
+    },
+    "d5bNcGTyv6I9C4d": {
+      "name": "Izum080",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "d5bNcGTyv6I9C4d",
+      "runId": 238269113
+    },
+    "12BtJh3KA09n4EU": {
+      "name": "ПИДОРАС",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "12BtJh3KA09n4EU",
+      "runId": 238269113
     }
   }
 }
