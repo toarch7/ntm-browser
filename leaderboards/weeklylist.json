@@ -198,6 +198,49 @@
       "version": 2616,
       "uid": "j9FX768QENXZj26",
       "runId": 123683139
+    },
+    "DG64z57U5f696MH": {
+      "name": "Gallo",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 8,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        4,
+        8
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "DG64z57U5f696MH",
+      "runId": 123683139
+    },
+    "SQthknh0sGlvAbu": {
+      "name": "ALE17$",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 88,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        12
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "SQthknh0sGlvAbu",
+      "runId": 123683139
     }
   }
 }
