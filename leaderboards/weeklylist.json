@@ -437,6 +437,53 @@
       "version": 2616,
       "uid": "Le0BsCrjK25alYZ",
       "runId": 123683139
+    },
+    "1Ywum4O7HssyE1K": {
+      "name": "Sam",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 15,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        8,
+        25
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "1Ywum4O7HssyE1K",
+      "runId": 123683139
+    },
+    "PyyF15qyPd7sjH8": {
+      "name": "ikky",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 59,
+      "win": false,
+      "kills": 609,
+      "ultra": 1,
+      "skills": [
+        4,
+        8,
+        25,
+        10,
+        27,
+        23,
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "PyyF15qyPd7sjH8",
+      "runId": 123683139
     }
   }
 }
