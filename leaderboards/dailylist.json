@@ -516,6 +516,43 @@
       "version": 2616,
       "uid": "gt794K2ytkIP5tI",
       "runId": 301706825
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "Fanton",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 43,
+      "crown": 1,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 301706825
+    },
+    "Le0BsCrjK25alYZ": {
+      "name": "KillerFromUras",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 39,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        6,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Le0BsCrjK25alYZ",
+      "runId": 301706825
     }
   }
 }
