@@ -618,17 +618,16 @@
       "name": "Matt",
       "char": 8,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 6,
-      "bwep": 23,
+      "wep": 75,
+      "bwep": 72,
       "win": false,
-      "kills": 53,
+      "kills": 68,
       "ultra": 0,
       "skills": [
-        12,
-        24
+        6
       ],
       "crown": 12,
       "version": 2616,
@@ -654,6 +653,27 @@
       "crown": 12,
       "version": 2616,
       "uid": "8COC7H04gQj38o4",
+      "runId": 123683139
+    },
+    "95w2oKW4JBexn8F": {
+      "name": "tiago82828",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 0,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        4,
+        6
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "95w2oKW4JBexn8F",
       "runId": 123683139
     }
   }
