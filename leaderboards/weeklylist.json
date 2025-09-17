@@ -822,6 +822,48 @@
       "version": 2616,
       "uid": "9Oq9e3Mb4ZJG9Z4",
       "runId": 123683139
+    },
+    "cE6W3fvh74w6VRA": {
+      "name": "coco33",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 16,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "cE6W3fvh74w6VRA",
+      "runId": 123683139
+    },
+    "rrJlOHz7G2h1EFh": {
+      "name": "jesus",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 8,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        4,
+        28,
+        6
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "rrJlOHz7G2h1EFh",
+      "runId": 123683139
     }
   }
 }
