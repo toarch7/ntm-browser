@@ -365,6 +365,46 @@
       "version": 2616,
       "uid": "cI76SgYO00u8JA4",
       "runId": 190881830
+    },
+    "Dq3r3UA7j219ieK": {
+      "name": "ZENITH",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 27,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Dq3r3UA7j219ieK",
+      "runId": 190881830
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 18,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 190881830
     }
   }
 }
