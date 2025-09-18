@@ -608,6 +608,49 @@
       "version": 2616,
       "uid": "wc37yrCMYxeoT5H",
       "runId": 190881830
+    },
+    "45cSQIfbQth1oH6": {
+      "name": "leyend1",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "45cSQIfbQth1oH6",
+      "runId": 190881830
+    },
+    "eor1gAGK7ad8C2C": {
+      "name": "FRIZER",
+      "char": 11,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 4,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        8,
+        25,
+        13,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "eor1gAGK7ad8C2C",
+      "runId": 190881830
     }
   }
 }
