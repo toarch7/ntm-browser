@@ -427,6 +427,44 @@
       "version": 2616,
       "uid": "c07luZTdz4Tt34E",
       "runId": 1600367897
+    },
+    "1z5Qekd38P8W52x": {
+      "name": "Elian",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "1z5Qekd38P8W52x",
+      "runId": 1600367897
+    },
+    "Le0BsCrjK25alYZ": {
+      "name": "KillerFromUras",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        3,
+        13,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Le0BsCrjK25alYZ",
+      "runId": 1600367897
     }
   }
 }
