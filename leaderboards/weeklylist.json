@@ -951,6 +951,27 @@
       "version": 2616,
       "uid": "f6G24D9lR3u5XDt",
       "runId": 123683139
+    },
+    "g957F46O3pj61no": {
+      "name": "BRUCE",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 72,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        4,
+        28
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "g957F46O3pj61no",
+      "runId": 123683139
     }
   }
 }
