@@ -602,6 +602,73 @@
       "version": 2616,
       "uid": "625CNC69DBEW4HY",
       "runId": 844683016
+    },
+    "ku5ArAJK046Nd0H": {
+      "name": "Sayomi",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 3,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        4,
+        14,
+        23,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ku5ArAJK046Nd0H",
+      "runId": 844683016
+    },
+    "zkvH7Li9B1a079Q": {
+      "name": "Judicial",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "zkvH7Li9B1a079Q",
+      "runId": 844683016
+    },
+    "a8P4U8Dy1IUnKE4": {
+      "name": "jesus",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 12,
+      "win": false,
+      "kills": 336,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        8,
+        14,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a8P4U8Dy1IUnKE4",
+      "runId": 844683016
     }
   }
 }
