@@ -1,4 +1,107 @@
 {
   "day": 20,
-  "entries": {}
+  "entries": {
+    "926rI0RW88H59dj": {
+      "name": "Seeker",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 7,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        21,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "926rI0RW88H59dj",
+      "runId": 844683016
+    },
+    "27980ftxdKmg6ip": {
+      "name": "Okarun",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 9,
+      "win": false,
+      "kills": 199,
+      "ultra": 0,
+      "skills": [
+        4,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "27980ftxdKmg6ip",
+      "runId": 844683016
+    },
+    "RwSmFhfr4aUyjy4": {
+      "name": "hollowknight616",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
+      "runId": 844683016
+    },
+    "lGocB90tI2e8ZEB": {
+      "name": "foopa",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 71,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "lGocB90tI2e8ZEB",
+      "runId": 844683016
+    },
+    "eor1gAGK7ad8C2C": {
+      "name": "FRIZER",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 6,
+      "win": false,
+      "kills": 169,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        13
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "eor1gAGK7ad8C2C",
+      "runId": 844683016
+    }
+  }
 }
