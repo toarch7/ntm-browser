@@ -1183,6 +1183,29 @@
       "version": 2616,
       "uid": "w0u2g7h16JrY5yx",
       "runId": 123683139
+    },
+    "wk8Rn4Fye72W715": {
+      "name": "Seek",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 88,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        4,
+        6,
+        25,
+        10
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "wk8Rn4Fye72W715",
+      "runId": 123683139
     }
   }
 }
