@@ -132,6 +132,65 @@
       "version": 2616,
       "uid": "XS6YQZ8LBHxbhN5",
       "runId": 1147981878
+    },
+    "eor1gAGK7ad8C2C": {
+      "name": "FRIZER",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 5,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "eor1gAGK7ad8C2C",
+      "runId": 1147981878
+    },
+    "2l6LJ5a68Th2aL2": {
+      "name": "nicU",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        8,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2l6LJ5a68Th2aL2",
+      "runId": 1147981878
+    },
+    "0Wf12rHJsJ31Hv9": {
+      "name": "lyon",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0Wf12rHJsJ31Hv9",
+      "runId": 1147981878
     }
   }
 }
