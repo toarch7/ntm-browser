@@ -798,6 +798,72 @@
       "version": 2616,
       "uid": "I0p6EOLc6IDkuXQ",
       "runId": 940140146
+    },
+    "9L2g103zcTG5u38": {
+      "name": "A_DONUT",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 73,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        10,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9L2g103zcTG5u38",
+      "runId": 940140146
+    },
+    "f8EHF3hx1tKY0f6": {
+      "name": "FBeagle2662",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 73,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        10,
+        3,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f8EHF3hx1tKY0f6",
+      "runId": 940140146
+    },
+    "RwSmFhfr4aUyjy4": {
+      "name": "hollowknight616",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 26,
+      "win": false,
+      "kills": 228,
+      "ultra": 0,
+      "skills": [
+        7,
+        14,
+        27,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
+      "runId": 940140146
     }
   }
 }
