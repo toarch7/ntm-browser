@@ -473,16 +473,17 @@
       "name": "Nobboy",
       "char": 8,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
       "wep": 73,
-      "bwep": 2,
+      "bwep": 0,
       "win": false,
-      "kills": 82,
+      "kills": 110,
       "ultra": 0,
       "skills": [
-        10
+        7,
+        14
       ],
       "crown": 1,
       "version": 2616,
@@ -659,6 +660,72 @@
       "crown": 1,
       "version": 2616,
       "uid": "2AT2WJe578i501j",
+      "runId": 940140146
+    },
+    "W6l3Mpr5O381m92": {
+      "name": "Konraddo",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 73,
+      "win": false,
+      "kills": 180,
+      "ultra": 0,
+      "skills": [
+        10,
+        3,
+        25,
+        8,
+        27,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W6l3Mpr5O381m92",
+      "runId": 940140146
+    },
+    "EBy6YJ1vhz3CYBe": {
+      "name": "GOLGO",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 72,
+      "bwep": 73,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EBy6YJ1vhz3CYBe",
+      "runId": 940140146
+    },
+    "fB3TK622tO6h8Tw": {
+      "name": "SoyWiter",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 73,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        3,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "fB3TK622tO6h8Tw",
       "runId": 940140146
     }
   }
