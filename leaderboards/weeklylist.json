@@ -935,6 +935,30 @@
       "version": 2616,
       "uid": "2svfT1Gc5ihMH0u",
       "runId": 940140146
+    },
+    "UC28bHJnpnX5w2N": {
+      "name": "SAs",
+      "char": 8,
+      "skin": false,
+      "area": 105,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 25,
+      "bwep": 73,
+      "win": false,
+      "kills": 226,
+      "ultra": 0,
+      "skills": [
+        10,
+        25,
+        26,
+        27,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "UC28bHJnpnX5w2N",
+      "runId": 940140146
     }
   }
 }
