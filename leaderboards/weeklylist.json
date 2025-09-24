@@ -781,10 +781,10 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 73,
-      "bwep": 0,
+      "wep": 6,
+      "bwep": 47,
       "win": false,
-      "kills": 234,
+      "kills": 236,
       "ultra": 0,
       "skills": [
         3,
@@ -1210,6 +1210,27 @@
       "crown": 1,
       "version": 2616,
       "uid": "Ea245AC1U32JZxg",
+      "runId": 940140146
+    },
+    "MvY5xUWcItZXXK8": {
+      "name": "CUgames",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 73,
+      "win": false,
+      "kills": 121,
+      "ultra": 0,
+      "skills": [
+        10,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MvY5xUWcItZXXK8",
       "runId": 940140146
     }
   }
