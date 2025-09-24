@@ -1387,6 +1387,55 @@
       "version": 2616,
       "uid": "P4607VZ9s8kI1n7",
       "runId": 940140146
+    },
+    "9b93cS95RuEmd7t": {
+      "name": "thronenuclear",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 25,
+      "bwep": 0,
+      "win": false,
+      "kills": 251,
+      "ultra": 0,
+      "skills": [
+        7,
+        14,
+        27,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9b93cS95RuEmd7t",
+      "runId": 940140146
+    },
+    "G37Fx6kMs7NT00t": {
+      "name": "Stal",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 25,
+      "win": false,
+      "kills": 358,
+      "ultra": 0,
+      "skills": [
+        13,
+        19,
+        27,
+        25,
+        8,
+        10,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "G37Fx6kMs7NT00t",
+      "runId": 940140146
     }
   }
 }
