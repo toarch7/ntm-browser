@@ -1,4 +1,95 @@
 {
   "day": 24,
-  "entries": {}
+  "entries": {
+    "av0q145264FdBD3": {
+      "name": "Aran",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        9
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "av0q145264FdBD3",
+      "runId": 443844402
+    },
+    "wOzhN1iKgzjO2qu": {
+      "name": "._.",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wOzhN1iKgzjO2qu",
+      "runId": 443844402
+    },
+    "VD33VZjX0J3LKIx": {
+      "name": "rhoveen",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 0,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "VD33VZjX0J3LKIx",
+      "runId": 443844402
+    },
+    "UbFTr3wLX43rO91": {
+      "name": "Jose",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 26,
+      "crown": 1,
+      "version": 2616,
+      "uid": "UbFTr3wLX43rO91",
+      "runId": 443844402
+    },
+    "67kh34quN72865q": {
+      "name": "bestia",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2616,
+      "uid": "67kh34quN72865q",
+      "runId": 443844402
+    }
+  }
 }
