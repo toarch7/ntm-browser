@@ -1436,6 +1436,48 @@
       "version": 2616,
       "uid": "G37Fx6kMs7NT00t",
       "runId": 940140146
+    },
+    "0qx68nR42Dk5k1W": {
+      "name": "Seeker52",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 73,
+      "bwep": 0,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0qx68nR42Dk5k1W",
+      "runId": 940140146
+    },
+    "DZhUswP2I6lLM43": {
+      "name": "Jezodoel",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 73,
+      "bwep": 62,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        17,
+        3,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "DZhUswP2I6lLM43",
+      "runId": 940140146
     }
   }
 }
