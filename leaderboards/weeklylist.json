@@ -1593,6 +1593,49 @@
       "version": 2616,
       "uid": "TvbX5np2U8A70y4",
       "runId": 940140146
+    },
+    "L8B1pWE5hFjH02l": {
+      "name": "stinky",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 73,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        17,
+        3,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L8B1pWE5hFjH02l",
+      "runId": 940140146
+    },
+    "AiWxaCdP64Hk6gu": {
+      "name": "Smx",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 73,
+      "bwep": 0,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        10,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "AiWxaCdP64Hk6gu",
+      "runId": 940140146
     }
   }
 }
