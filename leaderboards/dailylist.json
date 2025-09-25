@@ -123,6 +123,72 @@
       "version": 2616,
       "uid": "56esG2tjVN5Kwoc",
       "runId": 496409402
+    },
+    "fXnUW4Oznt203Nd": {
+      "name": "markmen",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 27,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "fXnUW4Oznt203Nd",
+      "runId": 496409402
+    },
+    "mmHcskSf5lESu64": {
+      "name": "advokat",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 27,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        10,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mmHcskSf5lESu64",
+      "runId": 496409402
+    },
+    "kLtRs3jmi31dZ55": {
+      "name": "Printerer",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 76,
+      "bwep": 92,
+      "win": false,
+      "kills": 469,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        23,
+        4,
+        21,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kLtRs3jmi31dZ55",
+      "runId": 496409402
     }
   }
 }
