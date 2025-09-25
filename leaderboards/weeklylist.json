@@ -1683,6 +1683,56 @@
       "version": 2616,
       "uid": "O3ZM2Uq5rYC4b41",
       "runId": 940140146
+    },
+    "49EP1S62b0c6UrX": {
+      "name": "Astaroth",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 26,
+      "win": false,
+      "kills": 822,
+      "ultra": 2,
+      "skills": [
+        10,
+        14,
+        27,
+        9,
+        25,
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "49EP1S62b0c6UrX",
+      "runId": 940140146
+    },
+    "GNvkaIhVACEK2PT": {
+      "name": "fly",
+      "char": 8,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 0,
+      "win": false,
+      "kills": 196,
+      "ultra": 0,
+      "skills": [
+        17,
+        3,
+        1,
+        27,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNvkaIhVACEK2PT",
+      "runId": 940140146
     }
   }
 }

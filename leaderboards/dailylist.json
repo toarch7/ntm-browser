@@ -550,6 +550,51 @@
       "version": 2616,
       "uid": "m5OOYVo9Ts38fY6",
       "runId": 496409402
+    },
+    "MvY5xUWcItZXXK8": {
+      "name": "CUgames",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 4,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        12,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MvY5xUWcItZXXK8",
+      "runId": 496409402
+    },
+    "eor1gAGK7ad8C2C": {
+      "name": "FRIZER",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 192,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        4,
+        23,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "eor1gAGK7ad8C2C",
+      "runId": 496409402
     }
   }
 }
