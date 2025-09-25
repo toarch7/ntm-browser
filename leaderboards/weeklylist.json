@@ -1505,6 +1505,27 @@
       "version": 2616,
       "uid": "6v36y34ejG4GN8L",
       "runId": 940140146
+    },
+    "0qY4s60eTylwO4c": {
+      "name": "glitch",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 2,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        7,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0qY4s60eTylwO4c",
+      "runId": 940140146
     }
   }
 }
