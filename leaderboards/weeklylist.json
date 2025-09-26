@@ -1840,6 +1840,29 @@
       "version": 2616,
       "uid": "r6OBDghyUQajSKP",
       "runId": 940140146
+    },
+    "Pt2Q60770EkCpBZ": {
+      "name": "DARKSALA",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 66,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        10,
+        13,
+        17,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Pt2Q60770EkCpBZ",
+      "runId": 940140146
     }
   }
 }

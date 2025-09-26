@@ -625,6 +625,52 @@
       "version": 2616,
       "uid": "X7b1wDnL95f38N7",
       "runId": 1262188786
+    },
+    "qk7e3XddyF0TtYZ": {
+      "name": "Extremus",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 7,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qk7e3XddyF0TtYZ",
+      "runId": 1262188786
+    },
+    "GNvkaIhVACEK2PT": {
+      "name": "fly",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 24,
+      "bwep": 113,
+      "win": false,
+      "kills": 879,
+      "ultra": 1,
+      "skills": [
+        1,
+        4,
+        17,
+        12,
+        7,
+        13,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GNvkaIhVACEK2PT",
+      "runId": 1262188786
     }
   }
 }
