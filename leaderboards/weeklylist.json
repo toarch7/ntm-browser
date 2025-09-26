@@ -1556,17 +1556,18 @@
       "name": "BRUCE",
       "char": 8,
       "skin": false,
-      "area": 2,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
+      "wep": 16,
       "bwep": 73,
       "win": false,
-      "kills": 68,
+      "kills": 157,
       "ultra": 0,
       "skills": [
-        13,
-        7
+        7,
+        19,
+        13
       ],
       "crown": 1,
       "version": 2616,
