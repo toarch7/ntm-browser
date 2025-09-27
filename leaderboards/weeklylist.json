@@ -2055,6 +2055,71 @@
       "version": 2616,
       "uid": "U94n1qoF5IFwSi3",
       "runId": 940140146
+    },
+    "Ef1MW0z7A3a0c4t": {
+      "name": "mimi2",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 73,
+      "bwep": 16,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ef1MW0z7A3a0c4t",
+      "runId": 940140146
+    },
+    "syW5WsAkY7sv0Ed": {
+      "name": "esmeril",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 73,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        10,
+        3,
+        25,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "syW5WsAkY7sv0Ed",
+      "runId": 940140146
+    },
+    "RE9kYU4hMIVIN79": {
+      "name": "sopoi",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 73,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RE9kYU4hMIVIN79",
+      "runId": 940140146
     }
   }
 }
