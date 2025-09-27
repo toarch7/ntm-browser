@@ -1145,16 +1145,17 @@
       "name": "S3CZ0",
       "char": 8,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
       "wep": 73,
-      "bwep": 0,
+      "bwep": 16,
       "win": false,
-      "kills": 55,
+      "kills": 81,
       "ultra": 0,
       "skills": [
-        10
+        10,
+        19
       ],
       "crown": 1,
       "version": 2616,
