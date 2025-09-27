@@ -1165,16 +1165,16 @@
       "name": "lyon",
       "char": 8,
       "skin": false,
-      "area": 4,
+      "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 73,
+      "wep": 73,
+      "bwep": 0,
       "win": false,
-      "kills": 40,
+      "kills": 75,
       "ultra": 0,
       "skills": [
-        13
+        10
       ],
       "crown": 1,
       "version": 2616,
@@ -1966,6 +1966,47 @@
       "crown": 1,
       "version": 2616,
       "uid": "NIzH0a7oL6Ib1JD",
+      "runId": 940140146
+    },
+    "JhSX0SfwelmaMyD": {
+      "name": "pipo",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 73,
+      "bwep": 0,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "JhSX0SfwelmaMyD",
+      "runId": 940140146
+    },
+    "a8P4U8Dy1IUnKE4": {
+      "name": "jesus",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 72,
+      "bwep": 0,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        7,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a8P4U8Dy1IUnKE4",
       "runId": 940140146
     }
   }
