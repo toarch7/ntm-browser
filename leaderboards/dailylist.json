@@ -294,6 +294,88 @@
       "version": 2616,
       "uid": "g8y5Hjq19F13h7R",
       "runId": 1561838924
+    },
+    "pd61c5Nm26cPltY": {
+      "name": "Seeker",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "pd61c5Nm26cPltY",
+      "runId": 1561838924
+    },
+    "L1O96R2vX7ElLKU": {
+      "name": "Macintosh",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L1O96R2vX7ElLKU",
+      "runId": 1561838924
+    },
+    "LTVynl4y33PE412": {
+      "name": "BlackVoidHole",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 30,
+      "win": false,
+      "kills": 220,
+      "ultra": 0,
+      "skills": [
+        7,
+        4,
+        1,
+        27,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "LTVynl4y33PE412",
+      "runId": 1561838924
+    },
+    "4Gm6Lf3sj6QV2tX": {
+      "name": "HRique",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        28,
+        4,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4Gm6Lf3sj6QV2tX",
+      "runId": 1561838924
     }
   }
 }
