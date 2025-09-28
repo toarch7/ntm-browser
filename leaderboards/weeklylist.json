@@ -1785,13 +1785,13 @@
       "name": "pandit4",
       "char": 8,
       "skin": false,
-      "area": 5,
-      "subarea": 3,
+      "area": 6,
+      "subarea": 1,
       "loops": 0,
-      "wep": 52,
-      "bwep": 112,
+      "wep": 66,
+      "bwep": 0,
       "win": false,
-      "kills": 124,
+      "kills": 157,
       "ultra": 0,
       "skills": [
         7,
@@ -2271,6 +2271,27 @@
       "crown": 1,
       "version": 2616,
       "uid": "r806QDLkd2yCEBU",
+      "runId": 940140146
+    },
+    "VQo62X5JEHz4S5A": {
+      "name": "jaly009",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 73,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        3,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "VQo62X5JEHz4S5A",
       "runId": 940140146
     }
   }
