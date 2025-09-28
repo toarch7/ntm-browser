@@ -193,6 +193,65 @@
       "version": 2616,
       "uid": "Le0BsCrjK25alYZ",
       "runId": 1561838924
+    },
+    "zkvH7Li9B1a079Q": {
+      "name": "Judicial",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "zkvH7Li9B1a079Q",
+      "runId": 1561838924
+    },
+    "0Z83561lAo3cs3E": {
+      "name": "alivama",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "0Z83561lAo3cs3E",
+      "runId": 1561838924
+    },
+    "n553k26KD948RPB": {
+      "name": "Seeker43.00",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        7,
+        22,
+        12,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n553k26KD948RPB",
+      "runId": 1561838924
     }
   }
 }
