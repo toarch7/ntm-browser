@@ -228,6 +228,31 @@
       "version": 2616,
       "uid": "mmHcskSf5lESu64",
       "runId": 323989425
+    },
+    "eor1gAGK7ad8C2C": {
+      "name": "FRIZER",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 105,
+      "win": false,
+      "kills": 200,
+      "ultra": 0,
+      "skills": [
+        25,
+        14,
+        4,
+        13,
+        9,
+        17
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "eor1gAGK7ad8C2C",
+      "runId": 323989425
     }
   }
 }
