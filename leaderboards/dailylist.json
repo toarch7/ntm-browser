@@ -232,6 +232,28 @@
       "version": 2616,
       "uid": "kLtRs3jmi31dZ55",
       "runId": 636363065
+    },
+    "0x7hFdP71a11un2": {
+      "name": "iso_042aze",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 116,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        23
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "0x7hFdP71a11un2",
+      "runId": 636363065
     }
   }
 }
