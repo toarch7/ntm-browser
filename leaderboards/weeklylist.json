@@ -1,4 +1,52 @@
 {
   "seed": 323989425,
-  "entries": {}
+  "entries": {
+    "iiP3JJy9KGhDVf9": {
+      "name": "Seeker712",
+      "char": 1,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 24,
+      "win": false,
+      "kills": 317,
+      "ultra": 0,
+      "skills": [
+        23,
+        1,
+        13,
+        21,
+        9,
+        3
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "iiP3JJy9KGhDVf9",
+      "runId": 323989425
+    },
+    "kopeqqQ8EOF8Dsr": {
+      "name": "cazaputas3000",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 105,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        27
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "kopeqqQ8EOF8Dsr",
+      "runId": 323989425
+    }
+  }
 }
