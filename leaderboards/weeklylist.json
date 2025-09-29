@@ -682,6 +682,58 @@
       "version": 2616,
       "uid": "0Wf12rHJsJ31Hv9",
       "runId": 323989425
+    },
+    "j9FX768QENXZj26": {
+      "name": "Dante777",
+      "char": 1,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 105,
+      "win": false,
+      "kills": 345,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        10,
+        21,
+        16,
+        4,
+        27
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "j9FX768QENXZj26",
+      "runId": 323989425
+    },
+    "2w2vD0FG76RYoQ3": {
+      "name": "NandoBacanudo",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 105,
+      "bwep": 115,
+      "win": false,
+      "kills": 750,
+      "ultra": 2,
+      "skills": [
+        23,
+        8,
+        13,
+        21,
+        9,
+        4,
+        27
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "2w2vD0FG76RYoQ3",
+      "runId": 323989425
     }
   }
 }
