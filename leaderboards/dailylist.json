@@ -254,6 +254,50 @@
       "version": 2616,
       "uid": "0x7hFdP71a11un2",
       "runId": 636363065
+    },
+    "d20mRfnMuFrQzSt": {
+      "name": "Chernomor",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 10,
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        4,
+        2,
+        23,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "d20mRfnMuFrQzSt",
+      "runId": 636363065
+    },
+    "d5bNcGTyv6I9C4d": {
+      "name": "Izum080",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        14,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "d5bNcGTyv6I9C4d",
+      "runId": 636363065
     }
   }
 }
