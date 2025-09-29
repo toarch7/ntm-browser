@@ -762,23 +762,49 @@
       "name": "Nobboy",
       "char": 1,
       "skin": false,
-      "area": 3,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 105,
-      "bwep": 5,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 115,
+      "bwep": 105,
       "win": false,
-      "kills": 159,
+      "kills": 334,
       "ultra": 0,
       "skills": [
-        23,
-        4,
         1,
-        21
+        4,
+        8,
+        21,
+        9,
+        10,
+        7
       ],
       "crown": 10,
       "version": 2616,
       "uid": "PKF78LZn00s7jaF",
+      "runId": 323989425
+    },
+    "2MT17XgDXG57T6P": {
+      "name": "farias",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 18,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        7,
+        8
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "2MT17XgDXG57T6P",
       "runId": 323989425
     }
   }
