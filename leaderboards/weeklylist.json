@@ -308,21 +308,20 @@
       "name": "ffdadd",
       "char": 1,
       "skin": false,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 58,
-      "bwep": 107,
+      "wep": 35,
+      "bwep": 89,
       "win": false,
-      "kills": 237,
+      "kills": 310,
       "ultra": 0,
       "skills": [
         1,
         8,
         28,
-        4,
         19,
-        10
+        3
       ],
       "crown": 10,
       "version": 2616,
@@ -480,10 +479,10 @@
       "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 8,
-      "bwep": 88,
+      "wep": 3,
+      "bwep": 105,
       "win": false,
-      "kills": 105,
+      "kills": 111,
       "ultra": 0,
       "skills": [
         1,
@@ -517,6 +516,28 @@
       "crown": 10,
       "version": 2616,
       "uid": "IojZgiy0PWA7fkH",
+      "runId": 323989425
+    },
+    "6KQpPSnPE87IWYz": {
+      "name": "Metal",
+      "char": 1,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 27,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        1,
+        22,
+        28
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "6KQpPSnPE87IWYz",
       "runId": 323989425
     }
   }
