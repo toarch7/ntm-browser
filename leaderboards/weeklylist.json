@@ -521,13 +521,13 @@
       "name": "Metal",
       "char": 1,
       "skin": false,
-      "area": 103,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 2,
-      "bwep": 27,
+      "wep": 38,
+      "bwep": 71,
       "win": false,
-      "kills": 109,
+      "kills": 112,
       "ultra": 0,
       "skills": [
         1,
@@ -585,6 +585,54 @@
       "crown": 10,
       "version": 2616,
       "uid": "3GZo7apJSlE8mkL",
+      "runId": 323989425
+    },
+    "2jn9sMH2IkmDw3q": {
+      "name": "jododendron",
+      "char": 1,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 13,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        25,
+        14,
+        8,
+        13,
+        4,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "2jn9sMH2IkmDw3q",
+      "runId": 323989425
+    },
+    "9L2g103zcTG5u38": {
+      "name": "A_DONUT",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 16,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        12,
+        4,
+        13,
+        19
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "9L2g103zcTG5u38",
       "runId": 323989425
     }
   }

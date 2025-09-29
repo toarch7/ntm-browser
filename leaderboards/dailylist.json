@@ -487,6 +487,42 @@
       "version": 2616,
       "uid": "A0yB0H88pGmHHE5",
       "runId": 636363065
+    },
+    "s1wHy0Sy7P718I9": {
+      "name": "ishi",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 13,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "s1wHy0Sy7P718I9",
+      "runId": 636363065
+    },
+    "9L2g103zcTG5u38": {
+      "name": "A_DONUT",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": 2616,
+      "uid": "9L2g103zcTG5u38",
+      "runId": 636363065
     }
   }
 }
