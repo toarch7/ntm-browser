@@ -234,21 +234,22 @@
       "name": "FRIZER",
       "char": 1,
       "skin": false,
-      "area": 5,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 17,
-      "bwep": 105,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 77,
+      "bwep": 116,
       "win": false,
-      "kills": 232,
-      "ultra": 0,
+      "kills": 337,
+      "ultra": 2,
       "skills": [
         1,
         4,
         8,
         21,
         9,
-        3
+        10,
+        27
       ],
       "crown": 10,
       "version": 2616,
@@ -1143,6 +1144,31 @@
       "crown": 10,
       "version": 2616,
       "uid": "ReLsc0yHb5tE6JP",
+      "runId": 323989425
+    },
+    "QG253Pt5dYzFRCL": {
+      "name": "RZleonardo",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 21,
+      "win": false,
+      "kills": 196,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        27,
+        4,
+        9,
+        10
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "QG253Pt5dYzFRCL",
       "runId": 323989425
     }
   }
