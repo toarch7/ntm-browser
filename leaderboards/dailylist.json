@@ -112,6 +112,70 @@
       "version": 2616,
       "uid": "c3dBA95CN7iEPSM",
       "runId": 142233040
+    },
+    "mmHcskSf5lESu64": {
+      "name": "advokat",
+      "char": 6,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 62,
+      "win": false,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        12,
+        7,
+        27,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mmHcskSf5lESu64",
+      "runId": 142233040
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 142233040
+    },
+    "0c1tTgNFkHnO33y": {
+      "name": "dextroy90",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 17,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        24,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0c1tTgNFkHnO33y",
+      "runId": 142233040
     }
   }
 }
