@@ -938,20 +938,20 @@
       "char": 1,
       "skin": false,
       "area": 5,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 105,
-      "bwep": 17,
+      "wep": 2,
+      "bwep": 105,
       "win": false,
-      "kills": 192,
+      "kills": 244,
       "ultra": 0,
       "skills": [
-        23,
+        1,
         8,
         10,
-        4,
+        21,
         9,
-        12
+        3
       ],
       "crown": 10,
       "version": 2616,
@@ -1194,6 +1194,29 @@
       "crown": 10,
       "version": 2616,
       "uid": "Qox764Q8t5D26B9",
+      "runId": 323989425
+    },
+    "jTvgP6a80p39fPT": {
+      "name": "jTvgP6a80p39fPT",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 2,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        10,
+        21
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "jTvgP6a80p39fPT",
       "runId": 323989425
     }
   }
