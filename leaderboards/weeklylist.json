@@ -477,18 +477,20 @@
       "name": "m4kr",
       "char": 1,
       "skin": false,
-      "area": 3,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 3,
-      "bwep": 105,
+      "wep": 12,
+      "bwep": 3,
       "win": false,
-      "kills": 111,
+      "kills": 168,
       "ultra": 0,
       "skills": [
         1,
         8,
-        28
+        28,
+        4,
+        9
       ],
       "crown": 10,
       "version": 2616,
@@ -1313,6 +1315,74 @@
       "crown": 10,
       "version": 2616,
       "uid": "b706OO4wIRc4Vt6",
+      "runId": 323989425
+    },
+    "v339An8P84W2K62": {
+      "name": "GabrielVr",
+      "char": 1,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 66,
+      "win": false,
+      "kills": 169,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        28,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "v339An8P84W2K62",
+      "runId": 323989425
+    },
+    "g957F46O3pj61no": {
+      "name": "BRUCE",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 12,
+      "win": false,
+      "kills": 161,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        28,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "g957F46O3pj61no",
+      "runId": 323989425
+    },
+    "UC28bHJnpnX5w2N": {
+      "name": "SAs",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 105,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        28
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "UC28bHJnpnX5w2N",
       "runId": 323989425
     }
   }
