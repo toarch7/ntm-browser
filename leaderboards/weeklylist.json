@@ -1431,6 +1431,54 @@
       "version": 2616,
       "uid": "x2YECef4w3Bdvvl",
       "runId": 323989425
+    },
+    "W2L4lFT3v62437e": {
+      "name": "ACAB_LEGIA",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 112,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        10,
+        19
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "W2L4lFT3v62437e",
+      "runId": 323989425
+    },
+    "2svfT1Gc5ihMH0u": {
+      "name": "baby66",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 3,
+      "win": false,
+      "kills": 238,
+      "ultra": 0,
+      "skills": [
+        23,
+        8,
+        13,
+        21,
+        9,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "2svfT1Gc5ihMH0u",
+      "runId": 323989425
     }
   }
 }
