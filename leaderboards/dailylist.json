@@ -1,4 +1,117 @@
 {
   "day": 30,
-  "entries": {}
+  "entries": {
+    "JhSX0SfwelmaMyD": {
+      "name": "pipo",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 5,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "JhSX0SfwelmaMyD",
+      "runId": 142233040
+    },
+    "4PpNVQT7sw5L6an": {
+      "name": "SømbraXXL",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 43,
+      "win": false,
+      "kills": 332,
+      "ultra": 0,
+      "skills": [
+        12,
+        14,
+        7,
+        3,
+        17,
+        4,
+        22
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "4PpNVQT7sw5L6an",
+      "runId": 142233040
+    },
+    "625CNC69DBEW4HY": {
+      "name": "Coco",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 17,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        19,
+        24,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "625CNC69DBEW4HY",
+      "runId": 142233040
+    },
+    "4mLJlNqKa80CiPZ": {
+      "name": "Denbiii",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 39,
+      "win": false,
+      "kills": 205,
+      "ultra": 0,
+      "skills": [
+        24,
+        14,
+        4,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4mLJlNqKa80CiPZ",
+      "runId": 142233040
+    },
+    "c3dBA95CN7iEPSM": {
+      "name": "y31k3r",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        12,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "c3dBA95CN7iEPSM",
+      "runId": 142233040
+    }
+  }
 }
