@@ -1710,6 +1710,76 @@
       "version": 2616,
       "uid": "0oGyoKfZo06LCjB",
       "runId": 323989425
+    },
+    "6Emm1T6zy7w2W2I": {
+      "name": "Crosswrighter",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 12,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        10,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "6Emm1T6zy7w2W2I",
+      "runId": 323989425
+    },
+    "OG6oUWfDQdLREP4": {
+      "name": "abusamadresjone",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 34,
+      "win": false,
+      "kills": 248,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        10,
+        4,
+        19,
+        12
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
+      "runId": 323989425
+    },
+    "HOuRYAJMpcX2FQL": {
+      "name": "Ngoen_Gus",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 57,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        13
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "HOuRYAJMpcX2FQL",
+      "runId": 323989425
     }
   }
 }
