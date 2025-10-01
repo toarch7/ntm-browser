@@ -1326,10 +1326,10 @@
       "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 23,
-      "bwep": 66,
+      "wep": 114,
+      "bwep": 17,
       "win": false,
-      "kills": 169,
+      "kills": 184,
       "ultra": 0,
       "skills": [
         1,
@@ -1478,6 +1478,76 @@
       "crown": 10,
       "version": 2616,
       "uid": "2svfT1Gc5ihMH0u",
+      "runId": 323989425
+    },
+    "lGocB90tI2e8ZEB": {
+      "name": "foopa",
+      "char": 1,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 38,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        10,
+        21
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "lGocB90tI2e8ZEB",
+      "runId": 323989425
+    },
+    "yWJ6vbQF7Dc3db0": {
+      "name": "SoulKepper",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 105,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        28,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "yWJ6vbQF7Dc3db0",
+      "runId": 323989425
+    },
+    "V11Z73g09ffD8MA": {
+      "name": "Aspeck74",
+      "char": 1,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 12,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        7,
+        28,
+        19
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "V11Z73g09ffD8MA",
       "runId": 323989425
     }
   }
