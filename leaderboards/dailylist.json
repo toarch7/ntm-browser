@@ -622,6 +622,90 @@
       "version": 2616,
       "uid": "Z1fC898Bk1aP4a2",
       "runId": 1639360449
+    },
+    "rW94l68X6ycxw7T": {
+      "name": "CrossX",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        7,
+        13,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rW94l68X6ycxw7T",
+      "runId": 1639360449
+    },
+    "NjWUAkacw3O4kuN": {
+      "name": "marwin",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 8,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        7,
+        13,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "NjWUAkacw3O4kuN",
+      "runId": 1639360449
+    },
+    "h1U1dg3Bp50iw45": {
+      "name": "Max",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h1U1dg3Bp50iw45",
+      "runId": 1639360449
+    },
+    "m5OOYVo9Ts38fY6": {
+      "name": "Genus",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 11,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "m5OOYVo9Ts38fY6",
+      "runId": 1639360449
     }
   }
 }
