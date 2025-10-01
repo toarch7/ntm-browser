@@ -1788,18 +1788,19 @@
       "name": "si",
       "char": 1,
       "skin": false,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 88,
-      "bwep": 105,
+      "wep": 105,
+      "bwep": 20,
       "win": false,
-      "kills": 94,
+      "kills": 130,
       "ultra": 0,
       "skills": [
         23,
-        4,
-        10
+        8,
+        10,
+        4
       ],
       "crown": 10,
       "version": 2616,
@@ -2061,6 +2062,33 @@
       "crown": 10,
       "version": 2616,
       "uid": "94P8dHSk56qToW8",
+      "runId": 323989425
+    },
+    "27980ftxdKmg6ip": {
+      "name": "Okarun",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 23,
+      "bwep": 115,
+      "win": false,
+      "kills": 361,
+      "ultra": 2,
+      "skills": [
+        1,
+        7,
+        8,
+        21,
+        9,
+        10,
+        28,
+        27
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "27980ftxdKmg6ip",
       "runId": 323989425
     }
   }
