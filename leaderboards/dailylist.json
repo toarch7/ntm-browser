@@ -920,6 +920,48 @@
       "version": 2616,
       "uid": "Gi2lxPlFE4nC6Ca",
       "runId": 1639360449
+    },
+    "3761551r8WZDaKn": {
+      "name": "Edgar",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3761551r8WZDaKn",
+      "runId": 1639360449
+    },
+    "3Q4FeqO5pC23cis": {
+      "name": "Zekere",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 3,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        7,
+        28,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3Q4FeqO5pC23cis",
+      "runId": 1639360449
     }
   }
 }
