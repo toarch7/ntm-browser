@@ -1742,17 +1742,17 @@
       "subarea": 3,
       "loops": 0,
       "wep": 105,
-      "bwep": 34,
+      "bwep": 19,
       "win": false,
-      "kills": 248,
+      "kills": 269,
       "ultra": 0,
       "skills": [
         1,
         8,
-        10,
+        28,
         4,
         19,
-        12
+        10
       ],
       "crown": 10,
       "version": 2616,
@@ -1779,6 +1779,75 @@
       "crown": 10,
       "version": 2616,
       "uid": "HOuRYAJMpcX2FQL",
+      "runId": 323989425
+    },
+    "3Zfng7XeqC2QkH4": {
+      "name": "si",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 105,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        23,
+        4,
+        10
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "3Zfng7XeqC2QkH4",
+      "runId": 323989425
+    },
+    "TvbX5np2U8A70y4": {
+      "name": "chrimsy",
+      "char": 1,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 25,
+      "win": false,
+      "kills": 292,
+      "ultra": 0,
+      "skills": [
+        23,
+        4,
+        10,
+        21,
+        9,
+        16
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "TvbX5np2U8A70y4",
+      "runId": 323989425
+    },
+    "iE0J98B4jf6uEP4": {
+      "name": "djkskddk",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 69,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        10
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "iE0J98B4jf6uEP4",
       "runId": 323989425
     }
   }
