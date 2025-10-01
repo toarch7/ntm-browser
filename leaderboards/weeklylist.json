@@ -99,17 +99,18 @@
       "char": 1,
       "skin": false,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 16,
-      "bwep": 105,
+      "wep": 5,
+      "bwep": 12,
       "win": false,
-      "kills": 83,
+      "kills": 120,
       "ultra": 0,
       "skills": [
         1,
         8,
-        10
+        10,
+        4
       ],
       "crown": 10,
       "version": 2616,
@@ -1694,18 +1695,19 @@
       "name": "squeaker",
       "char": 1,
       "skin": false,
-      "area": 3,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
       "wep": 105,
-      "bwep": 12,
+      "bwep": 30,
       "win": false,
-      "kills": 152,
+      "kills": 166,
       "ultra": 0,
       "skills": [
         1,
         7,
-        10
+        13,
+        21
       ],
       "crown": 10,
       "version": 2616,
@@ -1896,6 +1898,54 @@
       "crown": 10,
       "version": 2616,
       "uid": "Ef1MW0z7A3a0c4t",
+      "runId": 323989425
+    },
+    "jkhJoj7lxIaR13t": {
+      "name": "Chesco",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 40,
+      "bwep": 9,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        27,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "jkhJoj7lxIaR13t",
+      "runId": 323989425
+    },
+    "64lsh4Hwg4ysAv1": {
+      "name": "Kenned",
+      "char": 1,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 105,
+      "win": false,
+      "kills": 278,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        10,
+        19,
+        9,
+        3
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "64lsh4Hwg4ysAv1",
       "runId": 323989425
     }
   }
