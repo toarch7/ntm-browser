@@ -744,6 +744,44 @@
       "version": 2616,
       "uid": "pgMAfI1ROMp3Tvq",
       "runId": 472216134
+    },
+    "59q314ndid84VLj": {
+      "name": "ASSASSIN'S",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 16,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "59q314ndid84VLj",
+      "runId": 472216134
+    },
+    "3Hph4gRT807jCLW": {
+      "name": "shadowmanfx",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 7,
+      "win": false,
+      "kills": 11,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3Hph4gRT807jCLW",
+      "runId": 472216134
     }
   }
 }
