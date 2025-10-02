@@ -2507,6 +2507,56 @@
       "version": 2616,
       "uid": "cuClQz71810v24k",
       "runId": 323989425
+    },
+    "G37Fx6kMs7NT00t": {
+      "name": "Stal",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 10,
+      "win": false,
+      "kills": 256,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        13,
+        21,
+        9,
+        23
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "G37Fx6kMs7NT00t",
+      "runId": 323989425
+    },
+    "Y3R293Uw3en8B6c": {
+      "name": "Rika",
+      "char": 1,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 115,
+      "bwep": 23,
+      "win": false,
+      "kills": 213,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        10,
+        4,
+        9,
+        3
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "Y3R293Uw3en8B6c",
+      "runId": 323989425
     }
   }
 }
