@@ -2581,6 +2581,31 @@
       "version": 2616,
       "uid": "wc37yrCMYxeoT5H",
       "runId": 323989425
+    },
+    "59q314ndid84VLj": {
+      "name": "ASSASSIN'S",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 57,
+      "win": false,
+      "kills": 224,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        28,
+        4,
+        9,
+        16
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "59q314ndid84VLj",
+      "runId": 323989425
     }
   }
 }
