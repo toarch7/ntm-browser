@@ -2822,6 +2822,52 @@
       "version": 2616,
       "uid": "A5i3QQN6T9iDNRo",
       "runId": 323989425
+    },
+    "zkvH7Li9B1a079Q": {
+      "name": "Judicial",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 112,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        8,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "zkvH7Li9B1a079Q",
+      "runId": 323989425
+    },
+    "jx08PIg8e8Xp082": {
+      "name": "Shyguy",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 105,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        4,
+        10
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "jx08PIg8e8Xp082",
+      "runId": 323989425
     }
   }
 }
