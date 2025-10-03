@@ -522,6 +522,47 @@
       "version": 2616,
       "uid": "mQ6dxSp1osVs2vM",
       "runId": 1522832485
+    },
+    "nXdFFUUSJX13esk": {
+      "name": "Afton",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 19,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "nXdFFUUSJX13esk",
+      "runId": 1522832485
+    },
+    "Ef1MW0z7A3a0c4t": {
+      "name": "mimi2",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        8,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ef1MW0z7A3a0c4t",
+      "runId": 1522832485
     }
   }
 }
