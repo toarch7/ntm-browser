@@ -2680,13 +2680,13 @@
       "name": "Mr.Pickles",
       "char": 1,
       "skin": false,
-      "area": 0,
+      "area": 4,
       "subarea": 1,
       "loops": 1,
-      "wep": 115,
-      "bwep": 105,
+      "wep": 105,
+      "bwep": 115,
       "win": false,
-      "kills": 354,
+      "kills": 681,
       "ultra": 2,
       "skills": [
         23,
@@ -2797,6 +2797,30 @@
       "crown": 10,
       "version": 2616,
       "uid": "YZ968OZu7z4Z8xl",
+      "runId": 323989425
+    },
+    "A5i3QQN6T9iDNRo": {
+      "name": "penelargo",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 105,
+      "win": false,
+      "kills": 173,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        27,
+        4,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "A5i3QQN6T9iDNRo",
       "runId": 323989425
     }
   }
