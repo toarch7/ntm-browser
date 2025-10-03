@@ -605,6 +605,72 @@
       "version": 2616,
       "uid": "Kp3bkbQf3EGjCc0",
       "runId": 1522832485
+    },
+    "Le0BsCrjK25alYZ": {
+      "name": "KillerFromUras",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 17,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        23,
+        6,
+        17,
+        27,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Le0BsCrjK25alYZ",
+      "runId": 1522832485
+    },
+    "mmHcskSf5lESu64": {
+      "name": "advokat",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        23,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mmHcskSf5lESu64",
+      "runId": 1522832485
+    },
+    "49EP1S62b0c6UrX": {
+      "name": "Astaroth",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        8,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "49EP1S62b0c6UrX",
+      "runId": 1522832485
     }
   }
 }
