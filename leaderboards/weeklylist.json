@@ -3160,6 +3160,28 @@
       "version": 2616,
       "uid": "A0w8YZr6wk5I7sj",
       "runId": 323989425
+    },
+    "5Y7x895z5426GGJ": {
+      "name": "Orgullo",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 105,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        10
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "5Y7x895z5426GGJ",
+      "runId": 323989425
     }
   }
 }
