@@ -620,6 +620,83 @@
       "version": 2616,
       "uid": "926rI0RW88H59dj",
       "runId": 2032490884
+    },
+    "ndLBP3485cnqGhB": {
+      "name": "loco",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "ndLBP3485cnqGhB",
+      "runId": 2032490884
+    },
+    "Le0BsCrjK25alYZ": {
+      "name": "KillerFromUras",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 6,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Le0BsCrjK25alYZ",
+      "runId": 2032490884
+    },
+    "j9FX768QENXZj26": {
+      "name": "Dante777",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "j9FX768QENXZj26",
+      "runId": 2032490884
+    },
+    "zIpMjkLEZOB036P": {
+      "name": "BrMan",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 6,
+      "win": false,
+      "kills": 250,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        14,
+        16,
+        6,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "zIpMjkLEZOB036P",
+      "runId": 2032490884
     }
   }
 }
