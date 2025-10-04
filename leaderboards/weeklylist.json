@@ -3036,6 +3036,29 @@
       "version": 2616,
       "uid": "g396XPaOZpLQdI0",
       "runId": 323989425
+    },
+    "C3ghMzYpK12IXQp": {
+      "name": "yama",
+      "char": 1,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 3,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        13,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "C3ghMzYpK12IXQp",
+      "runId": 323989425
     }
   }
 }
