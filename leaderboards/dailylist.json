@@ -142,6 +142,83 @@
       "version": 2616,
       "uid": "rksu7Vox8W0NKVy",
       "runId": 2032490884
+    },
+    "4aEcoD03c3OMlym": {
+      "name": "LegioVII",
+      "char": 10,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 12,
+      "bwep": 3,
+      "win": false,
+      "kills": 463,
+      "ultra": 2,
+      "skills": [
+        3,
+        4,
+        9,
+        21,
+        7,
+        8,
+        1,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4aEcoD03c3OMlym",
+      "runId": 2032490884
+    },
+    "g396XPaOZpLQdI0": {
+      "name": "Angelus",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 62,
+      "win": false,
+      "kills": 172,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        28,
+        16,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g396XPaOZpLQdI0",
+      "runId": 2032490884
+    },
+    "94BcAr1YtpD5CyW": {
+      "name": "Monsutakir4",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 107,
+      "bwep": 60,
+      "win": false,
+      "kills": 853,
+      "ultra": 0,
+      "skills": [
+        16,
+        14,
+        8,
+        23,
+        13,
+        29,
+        12
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "94BcAr1YtpD5CyW",
+      "runId": 2032490884
     }
   }
 }
