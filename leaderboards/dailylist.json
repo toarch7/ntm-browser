@@ -1,4 +1,86 @@
 {
   "day": 4,
-  "entries": {}
+  "entries": {
+    "v339An8P84W2K62": {
+      "name": "GabrielVr",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        4,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "v339An8P84W2K62",
+      "runId": 2032490884
+    },
+    "we290zG2yFU7Q46": {
+      "name": "tizinatorghots",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 6,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        28,
+        14,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "we290zG2yFU7Q46",
+      "runId": 2032490884
+    },
+    "sT36SqH0EpwJ5Zl": {
+      "name": "Satcoa",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 5,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sT36SqH0EpwJ5Zl",
+      "runId": 2032490884
+    },
+    "s7Yj9jB40yA19Z5": {
+      "name": "negro",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "s7Yj9jB40yA19Z5",
+      "runId": 2032490884
+    }
+  }
 }
