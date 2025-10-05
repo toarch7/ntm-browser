@@ -1885,20 +1885,19 @@
       "char": 1,
       "skin": false,
       "area": 5,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
       "wep": 105,
-      "bwep": 7,
+      "bwep": 116,
       "win": false,
-      "kills": 190,
+      "kills": 198,
       "ultra": 0,
       "skills": [
         1,
         8,
         10,
         4,
-        9,
-        23
+        9
       ],
       "crown": 10,
       "version": 2616,
@@ -3543,6 +3542,29 @@
       "crown": 10,
       "version": 2616,
       "uid": "e8nItYCEj1sX5tT",
+      "runId": 323989425
+    },
+    "h7J1tFy3cQjGci0": {
+      "name": "Ricky",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 105,
+      "win": false,
+      "kills": 118,
+      "ultra": 0,
+      "skills": [
+        25,
+        3,
+        4,
+        10
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "h7J1tFy3cQjGci0",
       "runId": 323989425
     }
   }
