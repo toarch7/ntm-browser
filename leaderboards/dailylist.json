@@ -388,6 +388,48 @@
       "version": 2616,
       "uid": "mmHcskSf5lESu64",
       "runId": 543025434
+    },
+    "4aEcoD03c3OMlym": {
+      "name": "LegioVII",
+      "char": 10,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 75,
+      "win": false,
+      "kills": 324,
+      "ultra": 0,
+      "skills": [
+        9,
+        13,
+        25,
+        22,
+        27,
+        4,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4aEcoD03c3OMlym",
+      "runId": 543025434
+    },
+    "Q3yvSR46T9HVgFq": {
+      "name": "ichi",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Q3yvSR46T9HVgFq",
+      "runId": 543025434
     }
   }
 }
