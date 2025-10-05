@@ -2360,15 +2360,15 @@
       "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 105,
-      "bwep": 27,
+      "wep": 17,
+      "bwep": 105,
       "win": false,
-      "kills": 105,
+      "kills": 120,
       "ultra": 0,
       "skills": [
         1,
         7,
-        10
+        8
       ],
       "crown": 10,
       "version": 2616,
@@ -3395,6 +3395,102 @@
       "crown": 10,
       "version": 2616,
       "uid": "95ilxk2183M6d3B",
+      "runId": 323989425
+    },
+    "463eF28z96obRq4": {
+      "name": "Rellkaz",
+      "char": 1,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 17,
+      "win": false,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        23,
+        22,
+        13,
+        4,
+        17
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "463eF28z96obRq4",
+      "runId": 323989425
+    },
+    "45V2d8ua5aaktC5": {
+      "name": "PotatoWithSugar",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 41,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        10,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "45V2d8ua5aaktC5",
+      "runId": 323989425
+    },
+    "XF5RzyZQmt9H2xN": {
+      "name": "Seeker71",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 75,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        27,
+        19
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "XF5RzyZQmt9H2xN",
+      "runId": 323989425
+    },
+    "7L6k7fkDwqhleD2": {
+      "name": "RamiDeluxe",
+      "char": 1,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 105,
+      "win": false,
+      "kills": 228,
+      "ultra": 0,
+      "skills": [
+        25,
+        3,
+        4,
+        1,
+        21,
+        16,
+        10
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "7L6k7fkDwqhleD2",
       "runId": 323989425
     }
   }
