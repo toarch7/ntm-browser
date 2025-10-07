@@ -433,6 +433,104 @@
       "version": 2616,
       "uid": "19YeW537Im0tZpR",
       "runId": 1512737144
+    },
+    "58aDqIh6u7490iE": {
+      "name": "ШТЕПСЕЛЬ",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 22,
+      "bwep": 24,
+      "win": false,
+      "kills": 397,
+      "ultra": 2,
+      "skills": [
+        27,
+        1,
+        4,
+        9,
+        14,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "58aDqIh6u7490iE",
+      "runId": 1512737144
+    },
+    "zIpMjkLEZOB036P": {
+      "name": "BrMan",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 76,
+      "bwep": 96,
+      "win": false,
+      "kills": 435,
+      "ultra": 1,
+      "skills": [
+        3,
+        16,
+        6,
+        9,
+        4,
+        28,
+        27,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "zIpMjkLEZOB036P",
+      "runId": 1512737144
+    },
+    "4mLJlNqKa80CiPZ": {
+      "name": "Denbiii",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        19,
+        16,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4mLJlNqKa80CiPZ",
+      "runId": 1512737144
+    },
+    "Ef1MW0z7A3a0c4t": {
+      "name": "mimi2",
+      "char": 3,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 20,
+      "win": false,
+      "kills": 204,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        4,
+        9,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ef1MW0z7A3a0c4t",
+      "runId": 1512737144
     }
   }
 }
