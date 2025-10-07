@@ -1,4 +1,43 @@
 {
   "day": 7,
-  "entries": {}
+  "entries": {
+    "eZaCkrw22ZxgDc0": {
+      "name": "sanx_box",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 1,
+      "win": false,
+      "kills": 17,
+      "crown": 1,
+      "version": 2616,
+      "uid": "eZaCkrw22ZxgDc0",
+      "runId": 1512737144
+    },
+    "6aK07AutNH1mk2a": {
+      "name": "Elian000",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 16,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6aK07AutNH1mk2a",
+      "runId": 1512737144
+    }
+  }
 }
