@@ -737,6 +737,45 @@
       "version": 2616,
       "uid": "zkvH7Li9B1a079Q",
       "runId": 1512737144
+    },
+    "fmojXsE7064lln3": {
+      "name": "tumama",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "fmojXsE7064lln3",
+      "runId": 1512737144
+    },
+    "Fb2ReKQv2e1TDOO": {
+      "name": "ALIEN",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 88,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        4,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Fb2ReKQv2e1TDOO",
+      "runId": 1512737144
     }
   }
 }
