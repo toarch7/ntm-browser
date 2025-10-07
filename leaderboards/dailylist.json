@@ -531,6 +531,78 @@
       "version": 2616,
       "uid": "Ef1MW0z7A3a0c4t",
       "runId": 1512737144
+    },
+    "uMt5xoZy1223E6J": {
+      "name": "Golden",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 116,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uMt5xoZy1223E6J",
+      "runId": 1512737144
+    },
+    "AiWxaCdP64Hk6gu": {
+      "name": "Smx",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 10,
+      "win": false,
+      "kills": 188,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        4,
+        9,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "AiWxaCdP64Hk6gu",
+      "runId": 1512737144
+    },
+    "mmHcskSf5lESu64": {
+      "name": "advokat",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 47,
+      "win": false,
+      "kills": 267,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        4,
+        25,
+        1,
+        14,
+        16
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "mmHcskSf5lESu64",
+      "runId": 1512737144
     }
   }
 }
