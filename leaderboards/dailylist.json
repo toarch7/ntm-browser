@@ -1,4 +1,112 @@
 {
   "day": 8,
-  "entries": {}
+  "entries": {
+    "94BcAr1YtpD5CyW": {
+      "name": "Monsutakir4",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 10,
+      "bwep": 111,
+      "win": false,
+      "kills": 654,
+      "ultra": 1,
+      "skills": [
+        23,
+        14,
+        8,
+        27,
+        12,
+        22,
+        4
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "94BcAr1YtpD5CyW",
+      "runId": 1368240363
+    },
+    "4PpNVQT7sw5L6an": {
+      "name": "SømbraXXL",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 11,
+      "win": false,
+      "kills": 260,
+      "ultra": 0,
+      "skills": [
+        23,
+        7,
+        14,
+        8,
+        27,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4PpNVQT7sw5L6an",
+      "runId": 1368240363
+    },
+    "6aK07AutNH1mk2a": {
+      "name": "Segyfdt",
+      "char": 15,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 7,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6aK07AutNH1mk2a",
+      "runId": 1368240363
+    },
+    "5tvGkI3o1r94dPC": {
+      "name": "comando_124",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 26,
+      "crown": 1,
+      "version": 2616,
+      "uid": "5tvGkI3o1r94dPC",
+      "runId": 1368240363
+    },
+    "s54192A0jGfl9F3": {
+      "name": "chichi",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 17,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "s54192A0jGfl9F3",
+      "runId": 1368240363
+    }
+  }
 }
