@@ -151,6 +151,69 @@
       "version": 2616,
       "uid": "v339An8P84W2K62",
       "runId": 1368240363
+    },
+    "aUW0T18H8x1qY2B": {
+      "name": "MalaPraxi",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 11,
+      "win": false,
+      "kills": 309,
+      "ultra": 0,
+      "skills": [
+        6,
+        7,
+        14,
+        1,
+        21,
+        12,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aUW0T18H8x1qY2B",
+      "runId": 1368240363
+    },
+    "RwSmFhfr4aUyjy4": {
+      "name": "hollowknight616",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        6,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
+      "runId": 1368240363
+    },
+    "SAo3p03DDb6uN6F": {
+      "name": "Rizky",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 21,
+      "crown": 1,
+      "version": 2616,
+      "uid": "SAo3p03DDb6uN6F",
+      "runId": 1368240363
     }
   }
 }
