@@ -384,6 +384,71 @@
       "version": 2616,
       "uid": "BrKViVDZ8d89555",
       "runId": 1677850188
+    },
+    "5ZV3L6G3WvP7o8J": {
+      "name": "Yinjuro",
+      "char": 12,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 30,
+      "win": false,
+      "kills": 270,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        25,
+        16,
+        1,
+        2
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "5ZV3L6G3WvP7o8J",
+      "runId": 1677850188
+    },
+    "q8xqShxSYCjYdF1": {
+      "name": "m4kr",
+      "char": 12,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 87,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "q8xqShxSYCjYdF1",
+      "runId": 1677850188
+    },
+    "RQfiiQeCURK78f6": {
+      "name": "eduardo",
+      "char": 12,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 23,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "RQfiiQeCURK78f6",
+      "runId": 1677850188
     }
   }
 }
