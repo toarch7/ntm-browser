@@ -232,18 +232,23 @@
       "name": "Ignacio",
       "char": 12,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 5,
-      "bwep": 87,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 75,
+      "bwep": 23,
       "win": false,
-      "kills": 158,
+      "kills": 364,
       "ultra": 0,
       "skills": [
         17,
         27,
-        19
+        25,
+        3,
+        1,
+        21,
+        10,
+        14
       ],
       "crown": 3,
       "version": 2616,
@@ -469,6 +474,28 @@
       "crown": 3,
       "version": 2616,
       "uid": "vQ8EQPhnnflEl2d",
+      "runId": 1677850188
+    },
+    "r6j0O582v209lzt": {
+      "name": "UliDaysooo",
+      "char": 12,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 5,
+      "win": false,
+      "kills": 118,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        27
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "r6j0O582v209lzt",
       "runId": 1677850188
     }
   }
