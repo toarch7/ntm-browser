@@ -266,6 +266,45 @@
       "version": 2616,
       "uid": "401qU81S4JAu2qk",
       "runId": 1063941059
+    },
+    "4mLJlNqKa80CiPZ": {
+      "name": "Denbiii",
+      "char": 10,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 23,
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        24,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4mLJlNqKa80CiPZ",
+      "runId": 1063941059
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 69,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 1063941059
     }
   }
 }
