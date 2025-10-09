@@ -84,6 +84,64 @@
       "version": 2616,
       "uid": "QP7Q7i0Ed1f73VY",
       "runId": 1063941059
+    },
+    "V6yY50ul8w5zh56": {
+      "name": "árbol-verde",
+      "char": 5,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "V6yY50ul8w5zh56",
+      "runId": 1063941059
+    },
+    "RwSmFhfr4aUyjy4": {
+      "name": "hollowknight616",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 21,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
+      "runId": 1063941059
+    },
+    "v339An8P84W2K62": {
+      "name": "GabrielVr",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 21,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "v339An8P84W2K62",
+      "runId": 1063941059
     }
   }
 }
