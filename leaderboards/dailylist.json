@@ -335,6 +335,48 @@
       "version": 2616,
       "uid": "aUW0T18H8x1qY2B",
       "runId": 1443372208
+    },
+    "Fb2ReKQv2e1TDOO": {
+      "name": "ALIEN",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Fb2ReKQv2e1TDOO",
+      "runId": 1443372208
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "Fanton",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 8,
+      "win": false,
+      "kills": 118,
+      "ultra": 0,
+      "skills": [
+        7,
+        3,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 1443372208
     }
   }
 }
