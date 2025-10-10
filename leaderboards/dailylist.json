@@ -271,6 +271,70 @@
       "version": 2616,
       "uid": "jTvgP6a80p39fPT",
       "runId": 1443372208
+    },
+    "zkvH7Li9B1a079Q": {
+      "name": "Judicial",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 31,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "zkvH7Li9B1a079Q",
+      "runId": 1443372208
+    },
+    "fB6FB33009w2H6m": {
+      "name": "Svo",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        7,
+        3,
+        9,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "fB6FB33009w2H6m",
+      "runId": 1443372208
+    },
+    "aUW0T18H8x1qY2B": {
+      "name": "MalaPraxi",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 2,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        7,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aUW0T18H8x1qY2B",
+      "runId": 1443372208
     }
   }
 }
