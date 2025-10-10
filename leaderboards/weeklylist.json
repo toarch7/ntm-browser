@@ -480,18 +480,21 @@
       "name": "UliDaysooo",
       "char": 12,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 13,
-      "bwep": 18,
+      "wep": 30,
+      "bwep": 13,
       "win": false,
-      "kills": 159,
+      "kills": 265,
       "ultra": 0,
       "skills": [
         8,
+        14,
         27,
-        19
+        1,
+        28,
+        21
       ],
       "crown": 3,
       "version": 2616,
@@ -664,6 +667,27 @@
       "crown": 3,
       "version": 2616,
       "uid": "TvU2hI7ZA7KFNu9",
+      "runId": 1677850188
+    },
+    "YZ968OZu7z4Z8xl": {
+      "name": "Ramy",
+      "char": 12,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 87,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        8,
+        14
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "YZ968OZu7z4Z8xl",
       "runId": 1677850188
     }
   }
