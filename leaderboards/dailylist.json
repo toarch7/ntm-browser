@@ -128,6 +128,48 @@
       "version": 2616,
       "uid": "7UjeSnnc07ij35o",
       "runId": 1443372208
+    },
+    "g2FyNI2jGpW54Pm": {
+      "name": "Jesus.0711",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        7,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g2FyNI2jGpW54Pm",
+      "runId": 1443372208
+    },
+    "DG64z57U5f696MH": {
+      "name": "Gallo",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 6,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        2,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "DG64z57U5f696MH",
+      "runId": 1443372208
     }
   }
 }
