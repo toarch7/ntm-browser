@@ -868,6 +868,42 @@
       "version": 2616,
       "uid": "19r8OlCE9yMpS4F",
       "runId": 685060701
+    },
+    "Dd9Xqb2Fw9kYzwA": {
+      "name": "hola",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Dd9Xqb2Fw9kYzwA",
+      "runId": 685060701
+    },
+    "iADyi5gV6VfZ7kL": {
+      "name": "shepar",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 7,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "iADyi5gV6VfZ7kL",
+      "runId": 685060701
     }
   }
 }
