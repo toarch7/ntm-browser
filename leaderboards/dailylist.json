@@ -543,6 +543,52 @@
       "version": 2616,
       "uid": "U9m6992pUED06QR",
       "runId": 685060701
+    },
+    "98I29gL031Y36NJ": {
+      "name": "yackob",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 60,
+      "bwep": 110,
+      "win": false,
+      "kills": 384,
+      "ultra": 0,
+      "skills": [
+        27,
+        26,
+        9,
+        21,
+        14,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "98I29gL031Y36NJ",
+      "runId": 685060701
+    },
+    "3LG4025znJyxm9Q": {
+      "name": "mango",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 5,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        1,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3LG4025znJyxm9Q",
+      "runId": 685060701
     }
   }
 }
