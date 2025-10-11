@@ -688,6 +688,47 @@
       "version": 2616,
       "uid": "1z5Qekd38P8W52x",
       "runId": 685060701
+    },
+    "d34G142M3tIm4NH": {
+      "name": "Porta",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "d34G142M3tIm4NH",
+      "runId": 685060701
+    },
+    "4PpNVQT7sw5L6an": {
+      "name": "SømbraXXL",
+      "char": 5,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 3,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        1,
+        14
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "4PpNVQT7sw5L6an",
+      "runId": 685060701
     }
   }
 }
