@@ -1,4 +1,72 @@
 {
   "day": 11,
-  "entries": {}
+  "entries": {
+    "zIpMjkLEZOB036P": {
+      "name": "BrMan",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 90,
+      "win": false,
+      "kills": 228,
+      "ultra": 0,
+      "skills": [
+        4,
+        3,
+        14,
+        25,
+        16,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "zIpMjkLEZOB036P",
+      "runId": 685060701
+    },
+    "4mLJlNqKa80CiPZ": {
+      "name": "Denbiii",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4mLJlNqKa80CiPZ",
+      "runId": 685060701
+    },
+    "6aK07AutNH1mk2a": {
+      "name": "Segyfdt",
+      "char": 6,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 75,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6aK07AutNH1mk2a",
+      "runId": 685060701
+    }
+  }
 }
