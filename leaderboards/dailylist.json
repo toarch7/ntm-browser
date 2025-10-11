@@ -779,6 +779,58 @@
       "version": 2616,
       "uid": "iiP3JJy9KGhDVf9",
       "runId": 685060701
+    },
+    "94BcAr1YtpD5CyW": {
+      "name": "Monsutakir4",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 2,
+      "wep": 28,
+      "bwep": 110,
+      "win": false,
+      "kills": 1654,
+      "ultra": 2,
+      "skills": [
+        27,
+        14,
+        4,
+        17,
+        22,
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "94BcAr1YtpD5CyW",
+      "runId": 685060701
+    },
+    "m6q2fl2882567RZ": {
+      "name": "bansi",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 60,
+      "bwep": 0,
+      "win": false,
+      "kills": 329,
+      "ultra": 0,
+      "skills": [
+        4,
+        3,
+        23,
+        25,
+        1,
+        22,
+        6,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "m6q2fl2882567RZ",
+      "runId": 685060701
     }
   }
 }
