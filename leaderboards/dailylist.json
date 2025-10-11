@@ -421,6 +421,44 @@
       "version": 2616,
       "uid": "0028aZog02J5L1F",
       "runId": 685060701
+    },
+    "y4QT90ooYy3RsOc": {
+      "name": "Seeker",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "y4QT90ooYy3RsOc",
+      "runId": 685060701
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 38,
+      "win": false,
+      "kills": 171,
+      "ultra": 0,
+      "skills": [
+        9,
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 685060701
     }
   }
 }
