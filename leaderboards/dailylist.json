@@ -173,6 +173,48 @@
       "version": 2616,
       "uid": "FV616s8cvi5ueQ3",
       "runId": 803323483
+    },
+    "ui97xf0qNTgsckH": {
+      "name": "Seeker9",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 5,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        26,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ui97xf0qNTgsckH",
+      "runId": 803323483
+    },
+    "RwSmFhfr4aUyjy4": {
+      "name": "hollowknight616",
+      "char": 15,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 6,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        7,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
+      "runId": 803323483
     }
   }
 }
