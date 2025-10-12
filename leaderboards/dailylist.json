@@ -739,6 +739,51 @@
       "version": 2616,
       "uid": "0l6gj4Fx2U1E258",
       "runId": 803323483
+    },
+    "X2eOF7Uvo7Eg0v4": {
+      "name": "johanderson",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 1,
+      "win": false,
+      "kills": 223,
+      "ultra": 0,
+      "skills": [
+        7,
+        25,
+        3,
+        24,
+        9,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "X2eOF7Uvo7Eg0v4",
+      "runId": 803323483
+    },
+    "RvcHQxI00g0vHoX": {
+      "name": "schez",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RvcHQxI00g0vHoX",
+      "runId": 803323483
     }
   }
 }
