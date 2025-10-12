@@ -820,6 +820,29 @@
       "version": 2616,
       "uid": "h7J1tFy3cQjGci0",
       "runId": 1677850188
+    },
+    "V6yY50ul8w5zh56": {
+      "name": "árbol-verde",
+      "char": 12,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 53,
+      "win": false,
+      "kills": 184,
+      "ultra": 0,
+      "skills": [
+        12,
+        14,
+        27,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "V6yY50ul8w5zh56",
+      "runId": 1677850188
     }
   }
 }
