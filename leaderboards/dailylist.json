@@ -1,4 +1,75 @@
 {
   "day": 12,
-  "entries": {}
+  "entries": {
+    "TvbX5np2U8A70y4": {
+      "name": "chrimsy",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 46,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        7,
+        10,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "TvbX5np2U8A70y4",
+      "runId": 803323483
+    },
+    "VSud32ynq8BeWOF": {
+      "name": "elmalodla8..",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 69,
+      "win": false,
+      "kills": 248,
+      "ultra": 0,
+      "skills": [
+        22,
+        9,
+        2,
+        24,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "VSud32ynq8BeWOF",
+      "runId": 803323483
+    },
+    "YZ968OZu7z4Z8xl": {
+      "name": "Ramy",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 9,
+      "win": false,
+      "kills": 226,
+      "ultra": 0,
+      "skills": [
+        9,
+        10,
+        14,
+        28,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "YZ968OZu7z4Z8xl",
+      "runId": 803323483
+    }
+  }
 }
