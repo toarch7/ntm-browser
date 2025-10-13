@@ -674,17 +674,18 @@
       "name": "elmalodla8..",
       "char": 1,
       "skin": true,
-      "area": 3,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
+      "wep": 10,
       "bwep": 105,
       "win": false,
-      "kills": 118,
+      "kills": 179,
       "ultra": 0,
       "skills": [
         2,
-        8
+        1,
+        9
       ],
       "crown": 2,
       "version": 2616,
@@ -984,6 +985,53 @@
       "crown": 2,
       "version": 2616,
       "uid": "N65n27A9w0ffuB8",
+      "runId": 1073983451
+    },
+    "u4TxRl2pA8f6X6x": {
+      "name": "ZGinner",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 105,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        1,
+        8
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "u4TxRl2pA8f6X6x",
+      "runId": 1073983451
+    },
+    "95ilxk2183M6d3B": {
+      "name": "LotusFlower",
+      "char": 1,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 105,
+      "win": false,
+      "kills": 356,
+      "ultra": 0,
+      "skills": [
+        28,
+        6,
+        1,
+        25,
+        10,
+        14,
+        23
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "95ilxk2183M6d3B",
       "runId": 1073983451
     }
   }
