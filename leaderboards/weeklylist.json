@@ -142,20 +142,23 @@
       "name": "Aran",
       "char": 1,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
       "wep": 105,
-      "bwep": 75,
+      "bwep": 89,
       "win": false,
-      "kills": 260,
+      "kills": 374,
       "ultra": 0,
       "skills": [
-        25,
-        10,
+        1,
+        12,
         27,
+        25,
         9,
-        14
+        14,
+        21,
+        28
       ],
       "crown": 2,
       "version": 2616,
@@ -206,6 +209,52 @@
       "crown": 2,
       "version": 2616,
       "uid": "QNtPpG6N09cxi9r",
+      "runId": 1073983451
+    },
+    "27980ftxdKmg6ip": {
+      "name": "Okarun",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 72,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        1,
+        8
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "27980ftxdKmg6ip",
+      "runId": 1073983451
+    },
+    "94BcAr1YtpD5CyW": {
+      "name": "Monsutakir4",
+      "char": 1,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 3,
+      "wep": 96,
+      "bwep": 107,
+      "win": false,
+      "kills": 3595,
+      "ultra": 1,
+      "skills": [
+        1,
+        27,
+        17,
+        14,
+        23,
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "94BcAr1YtpD5CyW",
       "runId": 1073983451
     }
   }
