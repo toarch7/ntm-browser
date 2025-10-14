@@ -26,13 +26,13 @@
       "name": "Coco",
       "char": 1,
       "skin": true,
-      "area": 6,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
       "wep": 9,
       "bwep": 105,
       "win": false,
-      "kills": 321,
+      "kills": 358,
       "ultra": 0,
       "skills": [
         28,
@@ -1535,6 +1535,48 @@
       "crown": 2,
       "version": 2616,
       "uid": "6M2TyCH8drN9RYT",
+      "runId": 1073983451
+    },
+    "we290zG2yFU7Q46": {
+      "name": "tizinatorghots",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 14,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "we290zG2yFU7Q46",
+      "runId": 1073983451
+    },
+    "V2cE665049JjhYH": {
+      "name": "Isbell",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 3,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        1,
+        8
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "V2cE665049JjhYH",
       "runId": 1073983451
     }
   }
