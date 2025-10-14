@@ -1450,18 +1450,20 @@
       "name": "DARKSALA",
       "char": 1,
       "skin": true,
-      "area": 0,
+      "area": 1,
       "subarea": 1,
       "loops": 1,
-      "wep": 115,
-      "bwep": 116,
+      "wep": 105,
+      "bwep": 2,
       "win": false,
-      "kills": 224,
+      "kills": 270,
       "ultra": 0,
       "skills": [
-        28,
+        25,
+        10,
         12,
         27,
+        4,
         9,
         14
       ],
@@ -1489,6 +1491,29 @@
       "crown": 2,
       "version": 2616,
       "uid": "f8EHF3hx1tKY0f6",
+      "runId": 1073983451
+    },
+    "ZXS8GN89PjT5zq3": {
+      "name": "hope",
+      "char": 1,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 105,
+      "win": false,
+      "kills": 310,
+      "ultra": 0,
+      "skills": [
+        1,
+        21,
+        7,
+        28
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "ZXS8GN89PjT5zq3",
       "runId": 1073983451
     }
   }
