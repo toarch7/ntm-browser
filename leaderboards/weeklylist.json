@@ -123,19 +123,19 @@
       "char": 1,
       "skin": true,
       "area": 1,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 1,
-      "wep": 105,
-      "bwep": 115,
+      "wep": 115,
+      "bwep": 107,
       "win": false,
-      "kills": 282,
+      "kills": 457,
       "ultra": 0,
       "skills": [
         1,
         12,
         7,
         25,
-        17,
+        9,
         14
       ],
       "crown": 2,
@@ -1514,6 +1514,27 @@
       "crown": 2,
       "version": 2616,
       "uid": "ZXS8GN89PjT5zq3",
+      "runId": 1073983451
+    },
+    "6M2TyCH8drN9RYT": {
+      "name": "A.D.ZI",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 4,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        1,
+        27
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "6M2TyCH8drN9RYT",
       "runId": 1073983451
     }
   }
