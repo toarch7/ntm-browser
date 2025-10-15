@@ -337,6 +337,65 @@
       "version": 2616,
       "uid": "4mLJlNqKa80CiPZ",
       "runId": 1558343826
+    },
+    "XdwA3Y2TLhny89n": {
+      "name": "Krilos",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "XdwA3Y2TLhny89n",
+      "runId": 1558343826
+    },
+    "1a3aKH9R68c6qB1": {
+      "name": "Jj77jonas",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 18,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1a3aKH9R68c6qB1",
+      "runId": 1558343826
+    },
+    "aUW0T18H8x1qY2B": {
+      "name": "MalaPraxi",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 34,
+      "win": false,
+      "kills": 166,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        27,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aUW0T18H8x1qY2B",
+      "runId": 1558343826
     }
   }
 }
