@@ -300,6 +300,43 @@
       "version": 2616,
       "uid": "U9m6992pUED06QR",
       "runId": 1558343826
+    },
+    "WB7J88LhsC5IW42": {
+      "name": "Mari",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 0,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "WB7J88LhsC5IW42",
+      "runId": 1558343826
+    },
+    "4mLJlNqKa80CiPZ": {
+      "name": "Denbiii",
+      "char": 10,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 4,
+      "win": false,
+      "kills": 121,
+      "ultra": 0,
+      "skills": [
+        19,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4mLJlNqKa80CiPZ",
+      "runId": 1558343826
     }
   }
 }
