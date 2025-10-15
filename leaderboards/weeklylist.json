@@ -122,13 +122,13 @@
       "name": "Seeker90",
       "char": 1,
       "skin": true,
-      "area": 1,
+      "area": 106,
       "subarea": 3,
       "loops": 1,
       "wep": 115,
-      "bwep": 107,
+      "bwep": 105,
       "win": false,
-      "kills": 457,
+      "kills": 528,
       "ultra": 0,
       "skills": [
         1,
@@ -1706,6 +1706,27 @@
       "crown": 2,
       "version": 2616,
       "uid": "Vhle76yM5L8g7OZ",
+      "runId": 1073983451
+    },
+    "8Triu94SC6X6G51": {
+      "name": "alasto",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 105,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        1,
+        8
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "8Triu94SC6X6G51",
       "runId": 1073983451
     }
   }
