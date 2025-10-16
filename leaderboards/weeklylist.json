@@ -2150,6 +2150,51 @@
       "version": 2616,
       "uid": "5F1T08TleE154C6",
       "runId": 1073983451
+    },
+    "2Z2fzU34uSWIiU6": {
+      "name": "Soltar.20",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 105,
+      "win": false,
+      "kills": 232,
+      "ultra": 0,
+      "skills": [
+        25,
+        9,
+        1,
+        27,
+        14
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "2Z2fzU34uSWIiU6",
+      "runId": 1073983451
+    },
+    "v478O65v47T6MNS": {
+      "name": "KennethJC",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 105,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        1,
+        6
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "v478O65v47T6MNS",
+      "runId": 1073983451
     }
   }
 }

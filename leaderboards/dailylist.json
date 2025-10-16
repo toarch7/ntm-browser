@@ -756,6 +756,47 @@
       "version": 2616,
       "uid": "U9m6992pUED06QR",
       "runId": 1372002489
+    },
+    "n4w00cwQ3hqg258": {
+      "name": "terreaster",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 4,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n4w00cwQ3hqg258",
+      "runId": 1372002489
+    },
+    "8d6UM19I996vy5B": {
+      "name": "david",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 44,
+      "bwep": 71,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        22,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8d6UM19I996vy5B",
+      "runId": 1372002489
     }
   }
 }
