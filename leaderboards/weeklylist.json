@@ -987,11 +987,10 @@
       "wep": 105,
       "bwep": 27,
       "win": false,
-      "kills": 126,
+      "kills": 131,
       "ultra": 0,
       "skills": [
         1,
-        6,
         27
       ],
       "crown": 2,
@@ -2194,6 +2193,33 @@
       "crown": 2,
       "version": 2616,
       "uid": "v478O65v47T6MNS",
+      "runId": 1073983451
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "Fanton",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 33,
+      "win": false,
+      "kills": 374,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        27,
+        7,
+        25,
+        22,
+        14,
+        21
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
       "runId": 1073983451
     }
   }
