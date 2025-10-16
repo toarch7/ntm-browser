@@ -5,17 +5,21 @@
       "name": "árbol-verde",
       "char": 1,
       "skin": true,
-      "area": 3,
+      "area": 1,
       "subarea": 2,
-      "loops": 0,
-      "wep": 105,
-      "bwep": 4,
+      "loops": 1,
+      "wep": 90,
+      "bwep": 105,
       "win": false,
-      "kills": 137,
+      "kills": 309,
       "ultra": 0,
       "skills": [
         1,
-        2
+        27,
+        25,
+        22,
+        2,
+        12
       ],
       "crown": 2,
       "version": 2616,
@@ -2002,6 +2006,29 @@
       "crown": 2,
       "version": 2616,
       "uid": "G3p97JVJnQIPHZq",
+      "runId": 1073983451
+    },
+    "YZ968OZu7z4Z8xl": {
+      "name": "Ramy",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 105,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        21,
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "YZ968OZu7z4Z8xl",
       "runId": 1073983451
     }
   }
