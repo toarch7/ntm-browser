@@ -122,12 +122,12 @@
       "char": 1,
       "skin": true,
       "area": 7,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 1,
-      "wep": 105,
-      "bwep": 115,
+      "wep": 111,
+      "bwep": 105,
       "win": false,
-      "kills": 1054,
+      "kills": 1086,
       "ultra": 2,
       "skills": [
         1,
@@ -1980,6 +1980,28 @@
       "crown": 2,
       "version": 2616,
       "uid": "G37Fx6kMs7NT00t",
+      "runId": 1073983451
+    },
+    "G3p97JVJnQIPHZq": {
+      "name": "ltp4",
+      "char": 1,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 41,
+      "win": false,
+      "kills": 146,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        27
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "G3p97JVJnQIPHZq",
       "runId": 1073983451
     }
   }
