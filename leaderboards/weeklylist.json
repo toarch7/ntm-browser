@@ -2221,6 +2221,125 @@
       "version": 2616,
       "uid": "9EkyKX48VdSH7VW",
       "runId": 1073983451
+    },
+    "45V2d8ua5aaktC5": {
+      "name": "potato",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 91,
+      "bwep": 105,
+      "win": false,
+      "kills": 381,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        27,
+        7,
+        9,
+        14,
+        23
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "45V2d8ua5aaktC5",
+      "runId": 1073983451
+    },
+    "0x7hFdP71a11un2": {
+      "name": "iso_042aze",
+      "char": 1,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 105,
+      "win": false,
+      "kills": 185,
+      "ultra": 0,
+      "skills": [
+        1,
+        17,
+        21,
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "0x7hFdP71a11un2",
+      "runId": 1073983451
+    },
+    "K1p56nAA1yjPYy1": {
+      "name": "yoswar",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 4,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        27
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "K1p56nAA1yjPYy1",
+      "runId": 1073983451
+    },
+    "ReLsc0yHb5tE6JP": {
+      "name": "daemonic",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 31,
+      "win": false,
+      "kills": 154,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "ReLsc0yHb5tE6JP",
+      "runId": 1073983451
+    },
+    "7L6k7fkDwqhleD2": {
+      "name": "RamiDeluxe",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 3,
+      "win": false,
+      "kills": 330,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        21,
+        25,
+        22,
+        14,
+        16
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "7L6k7fkDwqhleD2",
+      "runId": 1073983451
     }
   }
 }
