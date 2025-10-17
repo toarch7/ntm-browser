@@ -134,6 +134,54 @@
       "version": 2616,
       "uid": "aUW0T18H8x1qY2B",
       "runId": 1786286517
+    },
+    "d5bNcGTyv6I9C4d": {
+      "name": "Izum080",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 20,
+      "win": false,
+      "kills": 205,
+      "ultra": 0,
+      "skills": [
+        6,
+        27,
+        14,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "d5bNcGTyv6I9C4d",
+      "runId": 1786286517
+    },
+    "0x7hFdP71a11un2": {
+      "name": "iso_042aze",
+      "char": 8,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 33,
+      "win": false,
+      "kills": 329,
+      "ultra": 0,
+      "skills": [
+        27,
+        10,
+        14,
+        4,
+        21,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0x7hFdP71a11un2",
+      "runId": 1786286517
     }
   }
 }
