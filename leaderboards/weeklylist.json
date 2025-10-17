@@ -2520,6 +2520,56 @@
       "version": 2616,
       "uid": "rw81FsKopY7QW59",
       "runId": 1073983451
+    },
+    "Hr4TH74eR8v4t6M": {
+      "name": "venomgun",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 83,
+      "bwep": 105,
+      "win": false,
+      "kills": 356,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        21,
+        27,
+        14,
+        2
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "Hr4TH74eR8v4t6M",
+      "runId": 1073983451
+    },
+    "g4Z7U6m9hRgrw1q": {
+      "name": "gordaputa",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 105,
+      "win": false,
+      "kills": 271,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        21,
+        4,
+        28,
+        14
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "g4Z7U6m9hRgrw1q",
+      "runId": 1073983451
     }
   }
 }
