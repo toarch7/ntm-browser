@@ -2364,6 +2364,28 @@
       "version": 2616,
       "uid": "592195qhYyxI8bg",
       "runId": 1073983451
+    },
+    "rPCfQLNP015692C": {
+      "name": "CrossWrighter",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 105,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        2
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "rPCfQLNP015692C",
+      "runId": 1073983451
     }
   }
 }
