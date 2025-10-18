@@ -2852,6 +2852,51 @@
       "version": 2616,
       "uid": "M515J52gtkqwUih",
       "runId": 1073983451
+    },
+    "6grHGD15mM3fEdH": {
+      "name": "Seeker",
+      "char": 1,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 105,
+      "win": false,
+      "kills": 186,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "6grHGD15mM3fEdH",
+      "runId": 1073983451
+    },
+    "cXHNK5B5AKbIP8R": {
+      "name": "Pancrasio",
+      "char": 1,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 105,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        21,
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "cXHNK5B5AKbIP8R",
+      "runId": 1073983451
     }
   }
 }
