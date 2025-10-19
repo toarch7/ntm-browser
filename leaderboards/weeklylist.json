@@ -1154,9 +1154,9 @@
       "subarea": 3,
       "loops": 0,
       "wep": 105,
-      "bwep": 26,
+      "bwep": 24,
       "win": false,
-      "kills": 371,
+      "kills": 398,
       "ultra": 0,
       "skills": [
         1,
@@ -1164,7 +1164,7 @@
         27,
         9,
         25,
-        10,
+        22,
         14,
         21
       ],
@@ -2669,21 +2669,24 @@
       "runId": 1073983451
     },
     "RQlEP1pl66sQMm5": {
-      "name": "Seeker937.71",
+      "name": "Karma",
       "char": 1,
       "skin": true,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 105,
-      "bwep": 69,
+      "wep": 36,
+      "bwep": 65,
       "win": false,
-      "kills": 93,
+      "kills": 281,
       "ultra": 0,
       "skills": [
         1,
         12,
-        21
+        21,
+        7,
+        28,
+        14
       ],
       "crown": 2,
       "version": 2616,
@@ -3082,12 +3085,12 @@
       "char": 1,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 88,
-      "bwep": 105,
+      "wep": 105,
+      "bwep": 45,
       "win": false,
-      "kills": 120,
+      "kills": 153,
       "ultra": 0,
       "skills": [
         1,
@@ -3165,6 +3168,27 @@
       "crown": 2,
       "version": 2616,
       "uid": "buCZR8t6Qm2i1S6",
+      "runId": 1073983451
+    },
+    "zY1nvRqjLgnG5hY": {
+      "name": "diego",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 105,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        1,
+        21
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "zY1nvRqjLgnG5hY",
       "runId": 1073983451
     }
   }
