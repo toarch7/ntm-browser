@@ -668,6 +668,68 @@
       "version": 2616,
       "uid": "0qmC73kjMEXMDJN",
       "runId": 733823810
+    },
+    "9Oq9e3Mb4ZJG9Z4": {
+      "name": "Керзоp",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 16,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        10,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9Oq9e3Mb4ZJG9Z4",
+      "runId": 733823810
+    },
+    "49EP1S62b0c6UrX": {
+      "name": "Astaroth",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 119,
+      "win": false,
+      "kills": 265,
+      "ultra": 0,
+      "skills": [
+        9,
+        27,
+        14,
+        4,
+        16,
+        22
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "49EP1S62b0c6UrX",
+      "runId": 733823810
+    },
+    "6s4b6Q32PK88o6J": {
+      "name": "MACKACO",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "6s4b6Q32PK88o6J",
+      "runId": 733823810
     }
   }
 }

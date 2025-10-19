@@ -3190,6 +3190,56 @@
       "version": 2616,
       "uid": "zY1nvRqjLgnG5hY",
       "runId": 1073983451
+    },
+    "27R46fP11O7G7rM": {
+      "name": "Lesser2G",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 105,
+      "win": false,
+      "kills": 361,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        21,
+        9,
+        25,
+        10,
+        14,
+        26
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "27R46fP11O7G7rM",
+      "runId": 1073983451
+    },
+    "6s4b6Q32PK88o6J": {
+      "name": "MACKACO",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 105,
+      "win": false,
+      "kills": 154,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        27,
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "6s4b6Q32PK88o6J",
+      "runId": 1073983451
     }
   }
 }
