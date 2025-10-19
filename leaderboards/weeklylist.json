@@ -2116,15 +2116,15 @@
       "area": 3,
       "subarea": 2,
       "loops": 0,
-      "wep": 69,
+      "wep": 4,
       "bwep": 105,
       "win": false,
-      "kills": 129,
+      "kills": 133,
       "ultra": 0,
       "skills": [
-        1,
+        28,
         6,
-        21,
+        1,
         9
       ],
       "crown": 2,
@@ -2882,16 +2882,16 @@
       "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 61,
+      "wep": 23,
       "bwep": 105,
       "win": false,
-      "kills": 143,
+      "kills": 152,
       "ultra": 0,
       "skills": [
         1,
-        6,
+        12,
         21,
-        4
+        7
       ],
       "crown": 2,
       "version": 2616,
@@ -2941,6 +2941,27 @@
       "crown": 2,
       "version": 2616,
       "uid": "J3wHN3Ggb67yE1j",
+      "runId": 1073983451
+    },
+    "CuMeWCMBLJ1HJHb": {
+      "name": "Ronin47",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 105,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        1,
+        6
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "CuMeWCMBLJ1HJHb",
       "runId": 1073983451
     }
   }

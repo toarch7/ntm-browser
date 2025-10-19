@@ -1,4 +1,49 @@
 {
   "day": 19,
-  "entries": {}
+  "entries": {
+    "6aK07AutNH1mk2a": {
+      "name": "Segyfdt",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 38,
+      "win": false,
+      "kills": 167,
+      "ultra": 0,
+      "skills": [
+        23,
+        27,
+        14,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "6aK07AutNH1mk2a",
+      "runId": 733823810
+    },
+    "5rgE6v6yN8x5Xm4": {
+      "name": "Soxi",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 4,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        7,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5rgE6v6yN8x5Xm4",
+      "runId": 733823810
+    }
+  }
 }
