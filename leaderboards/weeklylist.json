@@ -207,21 +207,63 @@
       "name": "👀",
       "char": 6,
       "skin": true,
-      "area": 4,
+      "area": 102,
       "subarea": 1,
       "loops": 0,
-      "wep": 3,
+      "wep": 11,
       "bwep": 102,
       "win": false,
-      "kills": 49,
+      "kills": 87,
       "ultra": 0,
       "skills": [
         14,
-        4
+        3,
+        16
       ],
       "crown": 3,
       "version": 2616,
       "uid": "3AQ8UM0jcAfFGot",
+      "runId": 406787120
+    },
+    "Ef1MW0z7A3a0c4t": {
+      "name": "mimi2",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 102,
+      "bwep": 17,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        4,
+        24
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "Ef1MW0z7A3a0c4t",
+      "runId": 406787120
+    },
+    "5Gg5XmRRbN4x9NU": {
+      "name": "ManotazzZ",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 102,
+      "bwep": 16,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "5Gg5XmRRbN4x9NU",
       "runId": 406787120
     }
   }
