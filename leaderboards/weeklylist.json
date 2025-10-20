@@ -467,6 +467,49 @@
       "version": 2616,
       "uid": "NccPs0zy48Kx4pS",
       "runId": 406787120
+    },
+    "cuClQz71810v24k": {
+      "name": "venuz",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 88,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        14,
+        4,
+        25
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "cuClQz71810v24k",
+      "runId": 406787120
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 102,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        4,
+        25
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 406787120
     }
   }
 }
