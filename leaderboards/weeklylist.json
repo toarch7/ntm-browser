@@ -271,18 +271,21 @@
       "name": "Ninja_Panas",
       "char": 6,
       "skin": true,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 16,
-      "bwep": 4,
+      "wep": 76,
+      "bwep": 11,
       "win": false,
-      "kills": 54,
+      "kills": 168,
       "ultra": 0,
       "skills": [
         14,
         3,
-        25
+        25,
+        7,
+        12,
+        21
       ],
       "crown": 3,
       "version": 2616,
@@ -374,6 +377,49 @@
       "crown": 3,
       "version": 2616,
       "uid": "TvU2hI7ZA7KFNu9",
+      "runId": 406787120
+    },
+    "8d6UM19I996vy5B": {
+      "name": "david",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 31,
+      "win": false,
+      "kills": 189,
+      "ultra": 0,
+      "skills": [
+        14,
+        3,
+        24
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "8d6UM19I996vy5B",
+      "runId": 406787120
+    },
+    "aUW0T18H8x1qY2B": {
+      "name": "MalaPraxi",
+      "char": 6,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 102,
+      "bwep": 62,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        4,
+        16
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "aUW0T18H8x1qY2B",
       "runId": 406787120
     }
   }
