@@ -92,23 +92,48 @@
       "name": "Aran",
       "char": 6,
       "skin": true,
-      "area": 102,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 16,
+      "wep": 11,
       "bwep": 102,
       "win": false,
-      "kills": 80,
+      "kills": 157,
       "ultra": 0,
       "skills": [
-        14,
         4,
         25,
-        7
+        7,
+        12,
+        21
       ],
       "crown": 3,
       "version": 2616,
       "uid": "av0q145264FdBD3",
+      "runId": 406787120
+    },
+    "625CNC69DBEW4HY": {
+      "name": "Coco",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 102,
+      "win": false,
+      "kills": 167,
+      "ultra": 0,
+      "skills": [
+        4,
+        25,
+        3,
+        12,
+        19
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "625CNC69DBEW4HY",
       "runId": 406787120
     }
   }
