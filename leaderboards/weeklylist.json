@@ -1,4 +1,115 @@
 {
   "seed": 406787120,
-  "entries": {}
+  "entries": {
+    "jz89GzV3Rf5olXL": {
+      "name": "Aysean",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 102,
+      "bwep": 3,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        4,
+        16,
+        24
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "jz89GzV3Rf5olXL",
+      "runId": 406787120
+    },
+    "4Y7nRhuXFo281uC": {
+      "name": "Isa",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 11,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        16,
+        2
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "4Y7nRhuXFo281uC",
+      "runId": 406787120
+    },
+    "4mLJlNqKa80CiPZ": {
+      "name": "Denbiii",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        4,
+        16,
+        21
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "4mLJlNqKa80CiPZ",
+      "runId": 406787120
+    },
+    "ypDbrCuFX1L2bCA": {
+      "name": "joce",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 102,
+      "bwep": 4,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        14,
+        4,
+        24
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "ypDbrCuFX1L2bCA",
+      "runId": 406787120
+    },
+    "av0q145264FdBD3": {
+      "name": "Aran",
+      "char": 6,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 102,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        14,
+        4,
+        25,
+        7
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "av0q145264FdBD3",
+      "runId": 406787120
+    }
+  }
 }
