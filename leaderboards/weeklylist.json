@@ -421,6 +421,52 @@
       "version": 2616,
       "uid": "aUW0T18H8x1qY2B",
       "runId": 406787120
+    },
+    "ncwuq4AvXm0L2J0": {
+      "name": "Akustik",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 102,
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        4,
+        25,
+        7,
+        13,
+        19
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "ncwuq4AvXm0L2J0",
+      "runId": 406787120
+    },
+    "NccPs0zy48Kx4pS": {
+      "name": "Ler",
+      "char": 6,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 102,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        14,
+        4,
+        25
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "NccPs0zy48Kx4pS",
+      "runId": 406787120
     }
   }
 }
