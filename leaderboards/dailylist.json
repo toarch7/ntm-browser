@@ -595,6 +595,72 @@
       "version": 2616,
       "uid": "GNvkaIhVACEK2PT",
       "runId": 434465959
+    },
+    "5tvGkI3o1r94dPC": {
+      "name": "comando_124",
+      "char": 9,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 46,
+      "win": false,
+      "kills": 260,
+      "ultra": 0,
+      "skills": [
+        4,
+        22,
+        24,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5tvGkI3o1r94dPC",
+      "runId": 434465959
+    },
+    "X999506f28477U2": {
+      "name": "juan0109",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 5,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        4,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "X999506f28477U2",
+      "runId": 434465959
+    },
+    "27980ftxdKmg6ip": {
+      "name": "Okarun",
+      "char": 4,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        8,
+        22,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "27980ftxdKmg6ip",
+      "runId": 434465959
     }
   }
 }
