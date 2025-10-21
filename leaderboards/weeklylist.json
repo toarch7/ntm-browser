@@ -723,23 +723,22 @@
       "runId": 406787120
     },
     "Y6Y4dVM4THo617k": {
-      "name": "1331",
+      "name": "€",
       "char": 6,
       "skin": true,
-      "area": 4,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
       "wep": 102,
-      "bwep": 8,
+      "bwep": 30,
       "win": false,
-      "kills": 151,
+      "kills": 188,
       "ultra": 0,
       "skills": [
         14,
-        6,
-        25,
-        7,
-        24
+        4,
+        24,
+        21
       ],
       "crown": 3,
       "version": 2616,
@@ -771,6 +770,27 @@
       "crown": 3,
       "version": 2616,
       "uid": "27R46fP11O7G7rM",
+      "runId": 406787120
+    },
+    "BvhiJ401918aoXA": {
+      "name": "ellanoteamaport",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 102,
+      "bwep": 4,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        16,
+        2
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "BvhiJ401918aoXA",
       "runId": 406787120
     }
   }
