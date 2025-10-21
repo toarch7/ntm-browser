@@ -1001,6 +1001,29 @@
       "version": 2616,
       "uid": "8LvUnW87474e0m2",
       "runId": 406787120
+    },
+    "5F1T08TleE154C6": {
+      "name": "pericles",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 52,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        14,
+        4,
+        21,
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "5F1T08TleE154C6",
+      "runId": 406787120
     }
   }
 }
