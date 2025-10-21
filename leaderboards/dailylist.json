@@ -147,6 +147,74 @@
       "version": 2616,
       "uid": "4mLJlNqKa80CiPZ",
       "runId": 1725111241
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 69,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 1725111241
+    },
+    "UEWU6D22DP479AD": {
+      "name": "ComradeZel",
+      "char": 2,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 77,
+      "win": false,
+      "kills": 1210,
+      "ultra": 2,
+      "skills": [
+        9,
+        12,
+        27,
+        3,
+        23,
+        21
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "UEWU6D22DP479AD",
+      "runId": 1725111241
+    },
+    "h7J1tFy3cQjGci0": {
+      "name": "Ricky",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 88,
+      "win": false,
+      "kills": 146,
+      "ultra": 0,
+      "skills": [
+        8,
+        13,
+        27,
+        3
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "h7J1tFy3cQjGci0",
+      "runId": 1725111241
     }
   }
 }
