@@ -1052,21 +1052,20 @@
       "skin": true,
       "area": 7,
       "subarea": 1,
-      "loops": 0,
-      "wep": 22,
-      "bwep": 11,
+      "loops": 1,
+      "wep": 106,
+      "bwep": 12,
       "win": false,
-      "kills": 316,
-      "ultra": 0,
+      "kills": 1224,
+      "ultra": 1,
       "skills": [
-        14,
         3,
-        25,
-        7,
-        22,
+        21,
+        12,
+        4,
         23,
         1,
-        21
+        27
       ],
       "crown": 3,
       "version": 2616,
@@ -1093,6 +1092,30 @@
       "crown": 3,
       "version": 2616,
       "uid": "zIpMjkLEZOB036P",
+      "runId": 406787120
+    },
+    "G37Fx6kMs7NT00t": {
+      "name": "Stal",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 102,
+      "bwep": 10,
+      "win": false,
+      "kills": 164,
+      "ultra": 0,
+      "skills": [
+        14,
+        16,
+        25,
+        3,
+        22
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "G37Fx6kMs7NT00t",
       "runId": 406787120
     }
   }
