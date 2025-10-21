@@ -1117,6 +1117,26 @@
       "version": 2616,
       "uid": "G37Fx6kMs7NT00t",
       "runId": 406787120
+    },
+    "xEzwzC22Tkwsm3c": {
+      "name": "job",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 102,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "xEzwzC22Tkwsm3c",
+      "runId": 406787120
     }
   }
 }
