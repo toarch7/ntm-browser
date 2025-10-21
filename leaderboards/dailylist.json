@@ -316,6 +316,46 @@
       "version": 2616,
       "uid": "926rI0RW88H59dj",
       "runId": 1725111241
+    },
+    "Pk3S353Ww0c7ZC2": {
+      "name": "zonker",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Pk3S353Ww0c7ZC2",
+      "runId": 1725111241
+    },
+    "e0D4AFEC519n8R1": {
+      "name": "lafiesta",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 29,
+      "win": false,
+      "kills": 241,
+      "ultra": 0,
+      "skills": [
+        8,
+        13,
+        27,
+        28,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "e0D4AFEC519n8R1",
+      "runId": 1725111241
     }
   }
 }
