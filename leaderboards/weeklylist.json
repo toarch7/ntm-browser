@@ -1378,21 +1378,89 @@
       "char": 6,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 2,
-      "bwep": 102,
+      "wep": 116,
+      "bwep": 5,
       "win": false,
-      "kills": 92,
+      "kills": 135,
       "ultra": 0,
       "skills": [
-        14,
         4,
-        24
+        24,
+        12
       ],
       "crown": 3,
       "version": 2616,
       "uid": "lVHDrt98CmlTTVy",
+      "runId": 406787120
+    },
+    "JJxbG9UZI5APwLV": {
+      "name": "Seeker",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 102,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        14,
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "JJxbG9UZI5APwLV",
+      "runId": 406787120
+    },
+    "49EP1S62b0c6UrX": {
+      "name": "Astaroth",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 16,
+      "win": false,
+      "kills": 175,
+      "ultra": 0,
+      "skills": [
+        16,
+        25,
+        7,
+        13,
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "49EP1S62b0c6UrX",
+      "runId": 406787120
+    },
+    "8cu60yj9tI7VKT8": {
+      "name": "Darkwin",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 102,
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        14,
+        4,
+        16,
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "8cu60yj9tI7VKT8",
       "runId": 406787120
     }
   }
