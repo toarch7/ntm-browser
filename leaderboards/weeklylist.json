@@ -1317,6 +1317,59 @@
       "version": 2616,
       "uid": "68jkK1tUH0aicdR",
       "runId": 406787120
+    },
+    "Iq3wvuR5Qa6cqC6": {
+      "name": "Luxers",
+      "char": 6,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 65,
+      "bwep": 11,
+      "win": false,
+      "kills": 368,
+      "ultra": 1,
+      "skills": [
+        4,
+        25,
+        3,
+        12,
+        21,
+        9,
+        1,
+        7
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "Iq3wvuR5Qa6cqC6",
+      "runId": 406787120
+    },
+    "Pt2Q60770EkCpBZ": {
+      "name": "DARKSALA",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 102,
+      "bwep": 10,
+      "win": false,
+      "kills": 279,
+      "ultra": 0,
+      "skills": [
+        4,
+        17,
+        25,
+        3,
+        13,
+        28,
+        10
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "Pt2Q60770EkCpBZ",
+      "runId": 406787120
     }
   }
 }
