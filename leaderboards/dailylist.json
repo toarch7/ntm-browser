@@ -147,6 +147,52 @@
       "version": 2616,
       "uid": "5Gx1GFD5Mp7Ydd3",
       "runId": 1914949830
+    },
+    "942Vk1ILjuQPGTh": {
+      "name": "arbol-verde",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 53,
+      "win": false,
+      "kills": 232,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        4,
+        6
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "942Vk1ILjuQPGTh",
+      "runId": 1914949830
+    },
+    "4XR5yN7dEN64F81": {
+      "name": "Адепт",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        27,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4XR5yN7dEN64F81",
+      "runId": 1914949830
     }
   }
 }
