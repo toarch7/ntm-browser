@@ -1747,6 +1747,56 @@
       "version": 2616,
       "uid": "-1",
       "runId": 406787120
+    },
+    "nXdFFUUSJX13esk": {
+      "name": "Afton",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 102,
+      "win": false,
+      "kills": 246,
+      "ultra": 0,
+      "skills": [
+        3,
+        25,
+        12,
+        21,
+        23,
+        9
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "nXdFFUUSJX13esk",
+      "runId": 406787120
+    },
+    "iiP3JJy9KGhDVf9": {
+      "name": "null",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 66,
+      "win": false,
+      "kills": 328,
+      "ultra": 0,
+      "skills": [
+        3,
+        21,
+        17,
+        23,
+        1,
+        7
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "iiP3JJy9KGhDVf9",
+      "runId": 406787120
     }
   }
 }
