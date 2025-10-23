@@ -683,19 +683,20 @@
       "name": "Monsutakir4",
       "char": 6,
       "skin": true,
-      "area": 7,
+      "area": 2,
       "subarea": 1,
-      "loops": 0,
-      "wep": 49,
-      "bwep": 104,
+      "loops": 1,
+      "wep": 93,
+      "bwep": 118,
       "win": false,
-      "kills": 285,
-      "ultra": 1,
+      "kills": 608,
+      "ultra": 0,
       "skills": [
         14,
-        4,
+        3,
         25,
         7,
+        22,
         23,
         1,
         12
@@ -2032,6 +2033,50 @@
       "crown": 3,
       "version": 2616,
       "uid": "Eo0p5sljdo1ce8p",
+      "runId": 406787120
+    },
+    "T5j24pP92ziUpf7": {
+      "name": "Seeker71",
+      "char": 6,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 102,
+      "bwep": 10,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        4,
+        16,
+        2
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "T5j24pP92ziUpf7",
+      "runId": 406787120
+    },
+    "2dNPtu201zd0831": {
+      "name": "іванпрпрпр",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 102,
+      "bwep": 17,
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        4,
+        21,
+        17
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "2dNPtu201zd0831",
       "runId": 406787120
     }
   }

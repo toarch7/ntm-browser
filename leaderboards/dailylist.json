@@ -634,6 +634,69 @@
       "version": 2616,
       "uid": "926rI0RW88H59dj",
       "runId": 1914949830
+    },
+    "49EP1S62b0c6UrX": {
+      "name": "Astaroth",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 1,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        22,
+        6,
+        27,
+        23,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "49EP1S62b0c6UrX",
+      "runId": 1914949830
+    },
+    "Y3R293Uw3en8B6c": {
+      "name": "Rika",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 4,
+      "win": false,
+      "kills": 26,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y3R293Uw3en8B6c",
+      "runId": 1914949830
+    },
+    "0R3AFV206qpTj64": {
+      "name": "Reaper",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        14,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0R3AFV206qpTj64",
+      "runId": 1914949830
     }
   }
 }
