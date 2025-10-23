@@ -2078,6 +2078,29 @@
       "version": 2616,
       "uid": "2dNPtu201zd0831",
       "runId": 406787120
+    },
+    "d20mRfnMuFrQzSt": {
+      "name": "Chernomor",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 102,
+      "bwep": 38,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        4,
+        25,
+        3,
+        12
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "d20mRfnMuFrQzSt",
+      "runId": 406787120
     }
   }
 }
