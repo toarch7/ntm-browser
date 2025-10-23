@@ -2108,18 +2108,19 @@
       "name": "Jesus.0711",
       "char": 6,
       "skin": true,
-      "area": 2,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
-      "bwep": 102,
+      "wep": 102,
+      "bwep": 13,
       "win": false,
-      "kills": 77,
+      "kills": 179,
       "ultra": 0,
       "skills": [
         14,
         4,
-        25
+        25,
+        7
       ],
       "crown": 3,
       "version": 2616,
@@ -2169,6 +2170,29 @@
       "crown": 3,
       "version": 2616,
       "uid": "AI6iJjRkYwnAiAK",
+      "runId": 406787120
+    },
+    "cXHNK5B5AKbIP8R": {
+      "name": "Pancrasio",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 102,
+      "bwep": 55,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        4,
+        6,
+        25,
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "cXHNK5B5AKbIP8R",
       "runId": 406787120
     }
   }
