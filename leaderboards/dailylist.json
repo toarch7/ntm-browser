@@ -305,6 +305,51 @@
       "version": 2616,
       "uid": "4mLJlNqKa80CiPZ",
       "runId": 1914949830
+    },
+    "J1310A51338h9Tx": {
+      "name": "FROGETIQ",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 50,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J1310A51338h9Tx",
+      "runId": 1914949830
+    },
+    "h7J1tFy3cQjGci0": {
+      "name": "Ricky",
+      "char": 3,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 8,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        23,
+        14,
+        4,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h7J1tFy3cQjGci0",
+      "runId": 1914949830
     }
   }
 }
