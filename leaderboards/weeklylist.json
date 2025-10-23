@@ -1847,6 +1847,53 @@
       "version": 2616,
       "uid": "MHC1lZEEd9KbN24",
       "runId": 406787120
+    },
+    "PY1DlQUEa8Dcmnc": {
+      "name": "Зупа",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 102,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        14,
+        4,
+        24
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "PY1DlQUEa8Dcmnc",
+      "runId": 406787120
+    },
+    "p3eUbC2tVK47I24": {
+      "name": "zalupula",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 49,
+      "bwep": 4,
+      "win": false,
+      "kills": 250,
+      "ultra": 0,
+      "skills": [
+        16,
+        25,
+        7,
+        13,
+        23,
+        1
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "p3eUbC2tVK47I24",
+      "runId": 406787120
     }
   }
 }
