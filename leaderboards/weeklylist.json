@@ -1257,17 +1257,18 @@
       "name": "foopa",
       "char": 6,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 69,
-      "bwep": 7,
+      "wep": 23,
+      "bwep": 10,
       "win": false,
-      "kills": 58,
+      "kills": 97,
       "ultra": 0,
       "skills": [
+        12,
         6,
-        24
+        16
       ],
       "crown": 3,
       "version": 2616,
@@ -1699,6 +1700,52 @@
       "crown": 3,
       "version": 2616,
       "uid": "592195qhYyxI8bg",
+      "runId": 406787120
+    },
+    "6366ni09qq32280": {
+      "name": "armada",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 4,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        4,
+        25,
+        7,
+        17,
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "6366ni09qq32280",
+      "runId": 406787120
+    },
+    "-1": {
+      "name": "null",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 11,
+      "win": false,
+      "kills": 167,
+      "ultra": 0,
+      "skills": [
+        3,
+        21,
+        13
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "-1",
       "runId": 406787120
     }
   }
