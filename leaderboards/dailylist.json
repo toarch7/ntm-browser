@@ -343,6 +343,44 @@
       "version": 2616,
       "uid": "n553k26KD948RPB",
       "runId": 1990112134
+    },
+    "cyEq5LVrxtURrbB": {
+      "name": "Glaazz",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2616,
+      "uid": "cyEq5LVrxtURrbB",
+      "runId": 1990112134
+    },
+    "HOuRYAJMpcX2FQL": {
+      "name": "Ngoen_Gus",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 13,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        10,
+        13,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HOuRYAJMpcX2FQL",
+      "runId": 1990112134
     }
   }
 }
