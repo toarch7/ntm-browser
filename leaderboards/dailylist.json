@@ -88,6 +88,47 @@
       "version": 2616,
       "uid": "M7BCl4nl338d6pp",
       "runId": 1990112134
+    },
+    "bGkocSu4vx3UE7y": {
+      "name": "$$$",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 26,
+      "crown": 1,
+      "version": 2616,
+      "uid": "bGkocSu4vx3UE7y",
+      "runId": 1990112134
+    },
+    "Kc4G7422oQZN187": {
+      "name": "SuperKaban228",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 11,
+      "win": false,
+      "kills": 235,
+      "ultra": 0,
+      "skills": [
+        3,
+        9,
+        12,
+        7,
+        14,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Kc4G7422oQZN187",
+      "runId": 1990112134
     }
   }
 }
