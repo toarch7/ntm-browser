@@ -1781,13 +1781,13 @@
       "char": 6,
       "skin": true,
       "area": 7,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 22,
-      "bwep": 66,
+      "wep": 11,
+      "bwep": 30,
       "win": false,
-      "kills": 328,
-      "ultra": 0,
+      "kills": 349,
+      "ultra": 1,
       "skills": [
         3,
         21,
@@ -2041,18 +2041,18 @@
       "name": "Seeker71",
       "char": 6,
       "skin": true,
-      "area": 102,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
       "wep": 102,
       "bwep": 10,
       "win": false,
-      "kills": 71,
+      "kills": 137,
       "ultra": 0,
       "skills": [
-        4,
+        3,
         16,
-        2
+        12
       ],
       "crown": 3,
       "version": 2616,
@@ -2193,6 +2193,48 @@
       "crown": 3,
       "version": 2616,
       "uid": "cXHNK5B5AKbIP8R",
+      "runId": 406787120
+    },
+    "j3yAT0m26uVTcMh": {
+      "name": "Seeker9",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 102,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        4,
+        16,
+        24
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "j3yAT0m26uVTcMh",
+      "runId": 406787120
+    },
+    "6s4b6Q32PK88o6J": {
+      "name": "MACKACO",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 102,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "6s4b6Q32PK88o6J",
       "runId": 406787120
     }
   }
