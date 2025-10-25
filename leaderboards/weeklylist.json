@@ -1783,18 +1783,18 @@
       "name": "null",
       "char": 6,
       "skin": true,
-      "area": 7,
+      "area": 1,
       "subarea": 3,
-      "loops": 0,
-      "wep": 11,
-      "bwep": 30,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 111,
       "win": false,
-      "kills": 349,
+      "kills": 591,
       "ultra": 1,
       "skills": [
         3,
         21,
-        17,
+        13,
         23,
         1,
         7
@@ -2558,6 +2558,30 @@
       "crown": 3,
       "version": 2616,
       "uid": "VfUlpCWzPFQu58v",
+      "runId": 406787120
+    },
+    "uTIk4zo2q02YZ1x": {
+      "name": "Yun",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 102,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        14,
+        3,
+        24,
+        12,
+        22
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "uTIk4zo2q02YZ1x",
       "runId": 406787120
     }
   }
