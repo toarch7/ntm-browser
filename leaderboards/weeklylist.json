@@ -2444,6 +2444,50 @@
       "version": 2616,
       "uid": "VpVV8c6bUU6umtg",
       "runId": 406787120
+    },
+    "S1FRk5h0k4XXi5l": {
+      "name": "Ale",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 102,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "S1FRk5h0k4XXi5l",
+      "runId": 406787120
+    },
+    "3NBR0LO17i8h5B1": {
+      "name": "GayBreed",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 102,
+      "bwep": 88,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        14,
+        4,
+        25,
+        3,
+        22
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "3NBR0LO17i8h5B1",
+      "runId": 406787120
     }
   }
 }
