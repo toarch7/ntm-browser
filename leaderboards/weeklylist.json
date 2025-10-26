@@ -2702,6 +2702,49 @@
       "version": 2616,
       "uid": "0GL86Ffy5TWQb67",
       "runId": 406787120
+    },
+    "e0D4AFEC519n8R1": {
+      "name": "lafiesta",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 102,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        4,
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "e0D4AFEC519n8R1",
+      "runId": 406787120
+    },
+    "JuaJrq51i4V0S9Y": {
+      "name": "david",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 102,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        12,
+        16,
+        21
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "JuaJrq51i4V0S9Y",
+      "runId": 406787120
     }
   }
 }
