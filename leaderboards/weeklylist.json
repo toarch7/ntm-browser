@@ -170,6 +170,54 @@
       "version": 2616,
       "uid": "KM2quFgysWxqkt7",
       "runId": 1688008482
+    },
+    "Iq3wvuR5Qa6cqC6": {
+      "name": "Luxers",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 66,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        1,
+        3
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "Iq3wvuR5Qa6cqC6",
+      "runId": 1688008482
+    },
+    "uTIk4zo2q02YZ1x": {
+      "name": "Yun",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 76,
+      "win": false,
+      "kills": 488,
+      "ultra": 1,
+      "skills": [
+        8,
+        1,
+        6,
+        9,
+        3,
+        24,
+        25,
+        4
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "uTIk4zo2q02YZ1x",
+      "runId": 1688008482
     }
   }
 }
