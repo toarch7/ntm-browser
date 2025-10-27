@@ -1,4 +1,54 @@
 {
   "seed": 1688008482,
-  "entries": {}
+  "entries": {
+    "iiP3JJy9KGhDVf9": {
+      "name": "null",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 88,
+      "win": false,
+      "kills": 227,
+      "ultra": 0,
+      "skills": [
+        17,
+        3,
+        21,
+        23
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "iiP3JJy9KGhDVf9",
+      "runId": 1688008482
+    },
+    "942Vk1ILjuQPGTh": {
+      "name": "arbol-verde",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 70,
+      "win": false,
+      "kills": 447,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        4,
+        23,
+        21,
+        12,
+        9
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "942Vk1ILjuQPGTh",
+      "runId": 1688008482
+    }
+  }
 }

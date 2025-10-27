@@ -1,4 +1,61 @@
 {
   "day": 27,
-  "entries": {}
+  "entries": {
+    "8KcfzqV53vfm832": {
+      "name": "Chini",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 16,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8KcfzqV53vfm832",
+      "runId": 343067183
+    },
+    "T5j24pP92ziUpf7": {
+      "name": "Seeker71",
+      "char": 3,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "T5j24pP92ziUpf7",
+      "runId": 343067183
+    },
+    "M0VX9ESjawNcT8E": {
+      "name": "Adriel",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 21,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "M0VX9ESjawNcT8E",
+      "runId": 343067183
+    }
+  }
 }
