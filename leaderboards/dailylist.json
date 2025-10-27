@@ -386,6 +386,46 @@
       "version": 2616,
       "uid": "68jkK1tUH0aicdR",
       "runId": 343067183
+    },
+    "627Ws046u1IHN9C": {
+      "name": "Yilver",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "627Ws046u1IHN9C",
+      "runId": 343067183
+    },
+    "zIpMjkLEZOB036P": {
+      "name": "BrMan",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 106,
+      "bwep": 33,
+      "win": false,
+      "kills": 311,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        1,
+        21,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "zIpMjkLEZOB036P",
+      "runId": 343067183
     }
   }
 }
