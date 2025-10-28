@@ -549,6 +549,29 @@
       "version": 2616,
       "uid": "p3eUbC2tVK47I24",
       "runId": 1688008482
+    },
+    "14aeU8O05ssfF4t": {
+      "name": "ZeKnight",
+      "char": 3,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 27,
+      "win": false,
+      "kills": 197,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        3,
+        4
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "14aeU8O05ssfF4t",
+      "runId": 1688008482
     }
   }
 }
