@@ -464,6 +464,45 @@
       "version": 2616,
       "uid": "e0D4AFEC519n8R1",
       "runId": 2094254622
+    },
+    "h1U1dg3Bp50iw45": {
+      "name": "Max",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "h1U1dg3Bp50iw45",
+      "runId": 2094254622
+    },
+    "3KZ60bc3nn3I8Uv": {
+      "name": "ZONORIO",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 9,
+      "win": false,
+      "kills": 224,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        12,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3KZ60bc3nn3I8Uv",
+      "runId": 2094254622
     }
   }
 }
