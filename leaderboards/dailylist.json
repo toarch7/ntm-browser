@@ -1,4 +1,41 @@
 {
   "day": 28,
-  "entries": {}
+  "entries": {
+    "lGocB90tI2e8ZEB": {
+      "name": "foopa",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "lGocB90tI2e8ZEB",
+      "runId": 2094254622
+    },
+    "TvbX5np2U8A70y4": {
+      "name": "chrimsy",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 21,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "TvbX5np2U8A70y4",
+      "runId": 2094254622
+    }
+  }
 }
