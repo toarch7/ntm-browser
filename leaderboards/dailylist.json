@@ -190,6 +190,42 @@
       "version": 2616,
       "uid": "r806QDLkd2yCEBU",
       "runId": 2094254622
+    },
+    "d20mRfnMuFrQzSt": {
+      "name": "Chernomor",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 19,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "d20mRfnMuFrQzSt",
+      "runId": 2094254622
+    },
+    "x91r1RkqydZU52i": {
+      "name": "Robo4016",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "x91r1RkqydZU52i",
+      "runId": 2094254622
     }
   }
 }
