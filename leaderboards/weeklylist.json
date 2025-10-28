@@ -643,6 +643,28 @@
       "version": 2616,
       "uid": "Pt2Q60770EkCpBZ",
       "runId": 1688008482
+    },
+    "e0D4AFEC519n8R1": {
+      "name": "lafiesta",
+      "char": 3,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 66,
+      "win": false,
+      "kills": 210,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        4
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "e0D4AFEC519n8R1",
+      "runId": 1688008482
     }
   }
 }
