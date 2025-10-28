@@ -367,20 +367,89 @@
       "area": 3,
       "subarea": 2,
       "loops": 0,
-      "wep": 8,
-      "bwep": 50,
+      "wep": 7,
+      "bwep": 12,
       "win": false,
-      "kills": 183,
+      "kills": 219,
       "ultra": 0,
       "skills": [
-        1,
+        14,
         8,
-        10,
-        4
+        1,
+        4,
+        23
       ],
       "crown": 7,
       "version": 2616,
       "uid": "2jn9sMH2IkmDw3q",
+      "runId": 1688008482
+    },
+    "94BcAr1YtpD5CyW": {
+      "name": "Monsutakir4",
+      "char": 3,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 14,
+      "win": false,
+      "kills": 283,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        2,
+        23,
+        21,
+        12
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "94BcAr1YtpD5CyW",
+      "runId": 1688008482
+    },
+    "5Gg5XmRRbN4x9NU": {
+      "name": "ManotazzZ",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 5,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        1,
+        8
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "5Gg5XmRRbN4x9NU",
+      "runId": 1688008482
+    },
+    "1OeJE0116y7ilQS": {
+      "name": "david",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 66,
+      "win": false,
+      "kills": 184,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        21
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "1OeJE0116y7ilQS",
       "runId": 1688008482
     }
   }
