@@ -65,6 +65,29 @@
       "version": 2616,
       "uid": "r806QDLkd2yCEBU",
       "runId": 1570687361
+    },
+    "g396XPaOZpLQdI0": {
+      "name": "Angelus",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 23,
+      "win": false,
+      "kills": 183,
+      "ultra": 0,
+      "skills": [
+        8,
+        9,
+        10,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g396XPaOZpLQdI0",
+      "runId": 1570687361
     }
   }
 }
