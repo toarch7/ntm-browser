@@ -313,6 +313,26 @@
       "version": 2616,
       "uid": "40B4TA4WM7ayoJ6",
       "runId": 1570687361
+    },
+    "x536SRg6K0n43V0": {
+      "name": "spider-shadow",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "x536SRg6K0n43V0",
+      "runId": 1570687361
     }
   }
 }
