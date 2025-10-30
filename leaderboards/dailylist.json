@@ -386,6 +386,47 @@
       "version": 2616,
       "uid": "qC32ciI1me428Q1",
       "runId": 920962674
+    },
+    "UEWU6D22DP479AD": {
+      "name": "ComradeZel",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 12,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "UEWU6D22DP479AD",
+      "runId": 920962674
+    },
+    "IzkVew52rs1EOst": {
+      "name": "Nihilist",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 39,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        19,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "IzkVew52rs1EOst",
+      "runId": 920962674
     }
   }
 }
