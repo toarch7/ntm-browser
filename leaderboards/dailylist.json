@@ -185,6 +185,48 @@
       "version": 2616,
       "uid": "aUW0T18H8x1qY2B",
       "runId": 920962674
+    },
+    "lVHDrt98CmlTTVy": {
+      "name": "ThunderAxe",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 27,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "lVHDrt98CmlTTVy",
+      "runId": 920962674
+    },
+    "e0D4AFEC519n8R1": {
+      "name": "lafiesta",
+      "char": 6,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 27,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        19,
+        13,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "e0D4AFEC519n8R1",
+      "runId": 920962674
     }
   }
 }
