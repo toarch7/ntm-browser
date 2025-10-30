@@ -427,6 +427,44 @@
       "version": 2616,
       "uid": "IzkVew52rs1EOst",
       "runId": 920962674
+    },
+    "762rb7r97kIUm9J": {
+      "name": "migby",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 27,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "762rb7r97kIUm9J",
+      "runId": 920962674
+    },
+    "5190hW03Zoq365b": {
+      "name": "Deiker",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5190hW03Zoq365b",
+      "runId": 920962674
     }
   }
 }
