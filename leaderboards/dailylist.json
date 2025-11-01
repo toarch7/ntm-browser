@@ -740,6 +740,51 @@
       "version": 2616,
       "uid": "8SfzfXW7oP6xJqn",
       "runId": 1173872682
+    },
+    "iiP3JJy9KGhDVf9": {
+      "name": "null",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 117,
+      "win": false,
+      "kills": 269,
+      "ultra": 0,
+      "skills": [
+        13,
+        23,
+        27,
+        22,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "iiP3JJy9KGhDVf9",
+      "runId": 1173872682
+    },
+    "8KcfzqV53vfm832": {
+      "name": "Chini",
+      "char": 7,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 69,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        1,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8KcfzqV53vfm832",
+      "runId": 1173872682
     }
   }
 }
