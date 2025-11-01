@@ -552,6 +552,49 @@
       "version": 2616,
       "uid": "TvbX5np2U8A70y4",
       "runId": 1173872682
+    },
+    "e0D4AFEC519n8R1": {
+      "name": "lafiesta",
+      "char": 4,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 15,
+      "win": false,
+      "kills": 174,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        27,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "e0D4AFEC519n8R1",
+      "runId": 1173872682
+    },
+    "dI5uMvmMY36mk82": {
+      "name": "dante",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 27,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "dI5uMvmMY36mk82",
+      "runId": 1173872682
     }
   }
 }
