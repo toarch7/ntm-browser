@@ -345,6 +345,57 @@
       "version": 2616,
       "uid": "IojZgiy0PWA7fkH",
       "runId": 1173872682
+    },
+    "Nw1FJukR6rpb331": {
+      "name": "IsmaaBoiii",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 1,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        27,
+        25,
+        9,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Nw1FJukR6rpb331",
+      "runId": 1173872682
+    },
+    "aBrYq2bcSKE8mTl": {
+      "name": "Scermitz",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 76,
+      "bwep": 70,
+      "win": false,
+      "kills": 512,
+      "ultra": 1,
+      "skills": [
+        1,
+        27,
+        25,
+        9,
+        4,
+        23,
+        22,
+        13,
+        17
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "aBrYq2bcSKE8mTl",
+      "runId": 1173872682
     }
   }
 }
