@@ -1588,6 +1588,29 @@
       "version": 2616,
       "uid": "3KZ60bc3nn3I8Uv",
       "runId": 1688008482
+    },
+    "Y6Y4dVM4THo617k": {
+      "name": "YouGPT",
+      "char": 3,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 75,
+      "win": false,
+      "kills": 270,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        3,
+        4
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "Y6Y4dVM4THo617k",
+      "runId": 1688008482
     }
   }
 }
