@@ -1564,6 +1564,30 @@
       "version": 2616,
       "uid": "0GL86Ffy5TWQb67",
       "runId": 1688008482
+    },
+    "3KZ60bc3nn3I8Uv": {
+      "name": "ZONORIO",
+      "char": 3,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 3,
+      "win": false,
+      "kills": 285,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        10,
+        4,
+        9
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "3KZ60bc3nn3I8Uv",
+      "runId": 1688008482
     }
   }
 }
