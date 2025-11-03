@@ -257,6 +257,43 @@
       "version": 2616,
       "uid": "TvbX5np2U8A70y4",
       "runId": 470776407
+    },
+    "7p8nZ53HcM67bwo": {
+      "name": "qiwizila",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "7p8nZ53HcM67bwo",
+      "runId": 470776407
+    },
+    "lVHDrt98CmlTTVy": {
+      "name": "ThunderAxe",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 6,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        23,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "lVHDrt98CmlTTVy",
+      "runId": 470776407
     }
   }
 }
