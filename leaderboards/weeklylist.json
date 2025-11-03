@@ -183,6 +183,44 @@
       "version": 2616,
       "uid": "4mLJlNqKa80CiPZ",
       "runId": 1646313757
+    },
+    "8d6UM19I996vy5B": {
+      "name": "david",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 31,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [],
+      "crown": 7,
+      "version": 2616,
+      "uid": "8d6UM19I996vy5B",
+      "runId": 1646313757
+    },
+    "cuClQz71810v24k": {
+      "name": "venuz",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 31,
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "cuClQz71810v24k",
+      "runId": 1646313757
     }
   }
 }
