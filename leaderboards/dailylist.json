@@ -489,6 +489,77 @@
       "version": 2616,
       "uid": "7e2nE464IfBt63r",
       "runId": 287502821
+    },
+    "cEw77y1OV7beq9j": {
+      "name": "Kionix",
+      "char": 11,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 10,
+      "bwep": 100,
+      "win": false,
+      "kills": 729,
+      "ultra": 3,
+      "skills": [
+        4,
+        10,
+        27,
+        3,
+        28,
+        12,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "cEw77y1OV7beq9j",
+      "runId": 287502821
+    },
+    "mXUY5f2Jh803I7Z": {
+      "name": "Ichika",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 61,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        14,
+        9,
+        7,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mXUY5f2Jh803I7Z",
+      "runId": 287502821
+    },
+    "t38j47zm04z250x": {
+      "name": "Agnis24",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 21,
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "t38j47zm04z250x",
+      "runId": 287502821
     }
   }
 }
