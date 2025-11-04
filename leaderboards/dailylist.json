@@ -445,6 +445,30 @@
       "version": 2616,
       "uid": "4mLJlNqKa80CiPZ",
       "runId": 287502821
+    },
+    "lVHDrt98CmlTTVy": {
+      "name": "ThunderAxe",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 16,
+      "win": false,
+      "kills": 172,
+      "ultra": 0,
+      "skills": [
+        14,
+        10,
+        7,
+        3,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "lVHDrt98CmlTTVy",
+      "runId": 287502821
     }
   }
 }
