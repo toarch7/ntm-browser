@@ -309,6 +309,51 @@
       "version": 2616,
       "uid": "j9FX768QENXZj26",
       "runId": 287502821
+    },
+    "5Gx1GFD5Mp7Ydd3": {
+      "name": "kusogake",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 116,
+      "win": false,
+      "kills": 210,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        7,
+        3,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5Gx1GFD5Mp7Ydd3",
+      "runId": 287502821
+    },
+    "8OHp6Wdb3TzbeT0": {
+      "name": "See",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 71,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        14,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8OHp6Wdb3TzbeT0",
+      "runId": 287502821
     }
   }
 }
