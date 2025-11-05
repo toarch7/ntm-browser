@@ -653,6 +653,32 @@
       "version": 2616,
       "uid": "e0D4AFEC519n8R1",
       "runId": 1646313757
+    },
+    "45E16Dbycda8V7M": {
+      "name": "PotatoWithSugar",
+      "char": 9,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 36,
+      "win": false,
+      "kills": 603,
+      "ultra": 1,
+      "skills": [
+        4,
+        1,
+        9,
+        12,
+        8,
+        27,
+        17
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "45E16Dbycda8V7M",
+      "runId": 1646313757
     }
   }
 }
