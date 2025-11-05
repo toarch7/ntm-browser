@@ -536,6 +536,49 @@
       "version": 2616,
       "uid": "45E16Dbycda8V7M",
       "runId": 2065666871
+    },
+    "iiP3JJy9KGhDVf9": {
+      "name": "null",
+      "char": 11,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 116,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        13,
+        4,
+        1,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "iiP3JJy9KGhDVf9",
+      "runId": 2065666871
+    },
+    "h1U1dg3Bp50iw45": {
+      "name": "Max",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 18,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h1U1dg3Bp50iw45",
+      "runId": 2065666871
     }
   }
 }
