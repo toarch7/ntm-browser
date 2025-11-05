@@ -603,6 +603,47 @@
       "version": 2616,
       "uid": "5190hW03Zoq365b",
       "runId": 2065666871
+    },
+    "n4w00cwQ3hqg258": {
+      "name": "terreaster",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 16,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n4w00cwQ3hqg258",
+      "runId": 2065666871
+    },
+    "hoHc534sH7J1727": {
+      "name": "Seeker90",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 4,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        13,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "hoHc534sH7J1727",
+      "runId": 2065666871
     }
   }
 }
