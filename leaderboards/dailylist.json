@@ -1,4 +1,107 @@
 {
   "day": 5,
-  "entries": {}
+  "entries": {
+    "98I29gL031Y36NJ": {
+      "name": "yackob",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 27,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "98I29gL031Y36NJ",
+      "runId": 2065666871
+    },
+    "8q5fG405p47SjK1": {
+      "name": "Throneseeker228",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 1,
+      "win": false,
+      "kills": 24,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8q5fG405p47SjK1",
+      "runId": 2065666871
+    },
+    "T9Pu21p8Am56Whn": {
+      "name": "Kalash2451",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 30,
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        13,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "T9Pu21p8Am56Whn",
+      "runId": 2065666871
+    },
+    "6v71N333DDGq4Kp": {
+      "name": "Nar",
+      "char": 9,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 3,
+      "win": false,
+      "kills": 314,
+      "ultra": 0,
+      "skills": [
+        13,
+        4,
+        16,
+        22,
+        12,
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "6v71N333DDGq4Kp",
+      "runId": 2065666871
+    },
+    "4mLJlNqKa80CiPZ": {
+      "name": "Denbiii",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "4mLJlNqKa80CiPZ",
+      "runId": 2065666871
+    }
+  }
 }
