@@ -258,6 +258,48 @@
       "version": 2616,
       "uid": "UEWU6D22DP479AD",
       "runId": 1823862157
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 1823862157
+    },
+    "lVHDrt98CmlTTVy": {
+      "name": "ThunderAxe",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 30,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        16,
+        21,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "lVHDrt98CmlTTVy",
+      "runId": 1823862157
     }
   }
 }
