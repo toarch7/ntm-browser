@@ -237,6 +237,54 @@
       "version": 2616,
       "uid": "mXUY5f2Jh803I7Z",
       "runId": 655322260
+    },
+    "aUW0T18H8x1qY2B": {
+      "name": "MalaPraxi",
+      "char": 6,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 90,
+      "win": false,
+      "kills": 277,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aUW0T18H8x1qY2B",
+      "runId": 655322260
+    },
+    "aBrYq2bcSKE8mTl": {
+      "name": "Scermitz",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 3,
+      "wep": 24,
+      "bwep": 76,
+      "win": false,
+      "kills": 4338,
+      "ultra": 2,
+      "skills": [
+        23,
+        21,
+        1,
+        7,
+        8,
+        9,
+        27
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "aBrYq2bcSKE8mTl",
+      "runId": 655322260
     }
   }
 }
