@@ -582,10 +582,10 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 7,
+      "wep": 7,
+      "bwep": 19,
       "win": false,
-      "kills": 111,
+      "kills": 144,
       "ultra": 0,
       "skills": [
         4
@@ -728,6 +728,52 @@
       "crown": 7,
       "version": 2616,
       "uid": "UdVFduPKTKPQPSz",
+      "runId": 1646313757
+    },
+    "942Vk1ILjuQPGTh": {
+      "name": "arbol-verde",
+      "char": 9,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 12,
+      "win": false,
+      "kills": 607,
+      "ultra": 1,
+      "skills": [
+        4,
+        1,
+        9,
+        12,
+        3,
+        27,
+        2
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "942Vk1ILjuQPGTh",
+      "runId": 1646313757
+    },
+    "oVHR4MU8y0T9CVt": {
+      "name": "Seeker71",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 0,
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "oVHR4MU8y0T9CVt",
       "runId": 1646313757
     }
   }
