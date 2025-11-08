@@ -224,6 +224,46 @@
       "version": 2616,
       "uid": "8q5fG405p47SjK1",
       "runId": 953749499
+    },
+    "lGocB90tI2e8ZEB": {
+      "name": "foopa",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 16,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "lGocB90tI2e8ZEB",
+      "runId": 953749499
+    },
+    "C5NK0x36H7C06FF": {
+      "name": "Соплежуй",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "C5NK0x36H7C06FF",
+      "runId": 953749499
     }
   }
 }
