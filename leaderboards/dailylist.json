@@ -690,6 +690,68 @@
       "version": 2616,
       "uid": "86n2w3nANrhN613",
       "runId": 953749499
+    },
+    "n4w00cwQ3hqg258": {
+      "name": "terreaster",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "n4w00cwQ3hqg258",
+      "runId": 953749499
+    },
+    "7p8nZ53HcM67bwo": {
+      "name": "qiwizila",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 17,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7p8nZ53HcM67bwo",
+      "runId": 953749499
+    },
+    "8KcfzqV53vfm832": {
+      "name": "Chini",
+      "char": 7,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 5,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        22,
+        17,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8KcfzqV53vfm832",
+      "runId": 953749499
     }
   }
 }

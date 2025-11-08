@@ -326,17 +326,20 @@
       "name": "Chini",
       "char": 9,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 9,
-      "bwep": 5,
+      "wep": 63,
+      "bwep": 117,
       "win": false,
-      "kills": 178,
+      "kills": 370,
       "ultra": 0,
       "skills": [
         4,
-        1
+        1,
+        9,
+        13,
+        8
       ],
       "crown": 7,
       "version": 2616,
@@ -1048,6 +1051,26 @@
       "crown": 7,
       "version": 2616,
       "uid": "27980ftxdKmg6ip",
+      "runId": 1646313757
+    },
+    "N65n27A9w0ffuB8": {
+      "name": "Seekeuwsksk",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 6,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "N65n27A9w0ffuB8",
       "runId": 1646313757
     }
   }
