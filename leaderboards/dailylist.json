@@ -860,6 +860,46 @@
       "version": 2616,
       "uid": "n4w00cwQ3hqg258",
       "runId": 603975927
+    },
+    "274LEdH9Yd69DDt": {
+      "name": "keiber",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 25,
+      "win": false,
+      "kills": 211,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        1,
+        10,
+        23
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "274LEdH9Yd69DDt",
+      "runId": 603975927
+    },
+    "791O79285hJ0RR4": {
+      "name": "hank",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 15,
+      "crown": 1,
+      "version": 2616,
+      "uid": "791O79285hJ0RR4",
+      "runId": 603975927
     }
   }
 }
