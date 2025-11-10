@@ -1,4 +1,51 @@
 {
   "day": 10,
-  "entries": {}
+  "entries": {
+    "4mLJlNqKa80CiPZ": {
+      "name": "Denbiii",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 6,
+      "win": false,
+      "kills": 362,
+      "ultra": 0,
+      "skills": [
+        9,
+        21,
+        8,
+        27,
+        17,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4mLJlNqKa80CiPZ",
+      "runId": 1406242359
+    },
+    "SAce9Ti5I43ln7R": {
+      "name": "Neon",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "SAce9Ti5I43ln7R",
+      "runId": 1406242359
+    }
+  }
 }
