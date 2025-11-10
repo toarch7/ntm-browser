@@ -46,6 +46,26 @@
       "version": 2616,
       "uid": "SAce9Ti5I43ln7R",
       "runId": 1406242359
+    },
+    "u1Z7Jl985CQ97VI": {
+      "name": "Assassin",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 17,
+      "win": false,
+      "kills": 206,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "u1Z7Jl985CQ97VI",
+      "runId": 1406242359
     }
   }
 }
