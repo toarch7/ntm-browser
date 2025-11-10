@@ -1,4 +1,27 @@
 {
   "seed": 838938200,
-  "entries": {}
+  "entries": {
+    "nXdFFUUSJX13esk": {
+      "name": "Afton",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 41,
+      "bwep": 7,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        17,
+        6,
+        7
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "nXdFFUUSJX13esk",
+      "runId": 838938200
+    }
+  }
 }
