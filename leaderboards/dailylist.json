@@ -311,6 +311,72 @@
       "version": 2616,
       "uid": "Gs5ObHF34q38N96",
       "runId": 1406242359
+    },
+    "Pt2Q60770EkCpBZ": {
+      "name": "DARKSALA",
+      "char": 4,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 34,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        21,
+        10,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Pt2Q60770EkCpBZ",
+      "runId": 1406242359
+    },
+    "AhNAO5qEa432SwX": {
+      "name": "emma",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 30,
+      "win": false,
+      "kills": 171,
+      "ultra": 0,
+      "skills": [
+        9,
+        10,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "AhNAO5qEa432SwX",
+      "runId": 1406242359
+    },
+    "8q5fG405p47SjK1": {
+      "name": "teetrone",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 30,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        7,
+        27,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8q5fG405p47SjK1",
+      "runId": 1406242359
     }
   }
 }
