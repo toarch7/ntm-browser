@@ -181,6 +181,76 @@
       "version": 2616,
       "uid": "uk3TixldZtvMa6a",
       "runId": 1094804114
+    },
+    "3NBR0LO17i8h5B1": {
+      "name": "GayBreed",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 36,
+      "bwep": 13,
+      "win": false,
+      "kills": 239,
+      "ultra": 0,
+      "skills": [
+        23,
+        10,
+        13,
+        26,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3NBR0LO17i8h5B1",
+      "runId": 1094804114
+    },
+    "068N233UCT2udDY": {
+      "name": "Angel",
+      "char": 2,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 17,
+      "win": false,
+      "kills": 278,
+      "ultra": 0,
+      "skills": [
+        25,
+        7,
+        6,
+        4,
+        27,
+        26,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "068N233UCT2udDY",
+      "runId": 1094804114
+    },
+    "SAce9Ti5I43ln7R": {
+      "name": "Neon",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "SAce9Ti5I43ln7R",
+      "runId": 1094804114
     }
   }
 }
