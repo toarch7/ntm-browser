@@ -595,6 +595,43 @@
       "version": 2616,
       "uid": "jPPbRc5oe8c1G7g",
       "runId": 1094804114
+    },
+    "fL09R5G608OMk2k": {
+      "name": "Kimi",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        23,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "fL09R5G608OMk2k",
+      "runId": 1094804114
+    },
+    "VEs6Xo6swhg0qA3": {
+      "name": "Derek",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 19,
+      "crown": 1,
+      "version": 2616,
+      "uid": "VEs6Xo6swhg0qA3",
+      "runId": 1094804114
     }
   }
 }
