@@ -722,6 +722,69 @@
       "version": 2616,
       "uid": "lsv7f5050J2ro7i",
       "runId": 1358230978
+    },
+    "Yz0jrjVK1Ff99xm": {
+      "name": "blastlight",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "win": false,
+      "kills": 171,
+      "ultra": 0,
+      "skills": [
+        10,
+        23,
+        9,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Yz0jrjVK1Ff99xm",
+      "runId": 1358230978
+    },
+    "iTp3hpOSGT4tZeO": {
+      "name": "Patata",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "iTp3hpOSGT4tZeO",
+      "runId": 1358230978
+    },
+    "0cuzMaWmK04pxXX": {
+      "name": "Джорек",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 91,
+      "bwep": 4,
+      "win": false,
+      "kills": 218,
+      "ultra": 0,
+      "skills": [
+        23,
+        7,
+        16,
+        25,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0cuzMaWmK04pxXX",
+      "runId": 1358230978
     }
   }
 }
