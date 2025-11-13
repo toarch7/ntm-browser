@@ -353,17 +353,19 @@
       "name": "Bub",
       "char": 9,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 7,
-      "bwep": 41,
+      "wep": 41,
+      "bwep": 34,
       "win": false,
-      "kills": 127,
+      "kills": 210,
       "ultra": 0,
       "skills": [
         17,
-        13
+        13,
+        7,
+        23
       ],
       "crown": 7,
       "version": 2616,
@@ -589,6 +591,52 @@
       "crown": 7,
       "version": 2616,
       "uid": "Yc2mNm588mt73G8",
+      "runId": 838938200
+    },
+    "88VDBENJ8RhOuV2": {
+      "name": "break3312",
+      "char": 9,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 116,
+      "bwep": 72,
+      "win": false,
+      "kills": 303,
+      "ultra": 0,
+      "skills": [
+        6,
+        7,
+        3,
+        1
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "88VDBENJ8RhOuV2",
+      "runId": 838938200
+    },
+    "we290zG2yFU7Q46": {
+      "name": "tizinatorghots",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 34,
+      "win": false,
+      "kills": 174,
+      "ultra": 0,
+      "skills": [
+        22,
+        7,
+        23,
+        1
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "we290zG2yFU7Q46",
       "runId": 838938200
     }
   }
