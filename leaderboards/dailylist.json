@@ -1,4 +1,137 @@
 {
   "day": 13,
-  "entries": {}
+  "entries": {
+    "RuBP3cv5esn30I4": {
+      "name": "Bub",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 4,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        23,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RuBP3cv5esn30I4",
+      "runId": 1358230978
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 16,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        19,
+        16,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 1358230978
+    },
+    "4mLJlNqKa80CiPZ": {
+      "name": "Denbiii",
+      "char": 4,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 6,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        21,
+        10,
+        12,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4mLJlNqKa80CiPZ",
+      "runId": 1358230978
+    },
+    "322i9OEnYPbgt6y": {
+      "name": "Rafa",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 21,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        19,
+        23,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "322i9OEnYPbgt6y",
+      "runId": 1358230978
+    },
+    "Lv3O8aYA2GO4L1H": {
+      "name": "Danzzak",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "win": false,
+      "kills": 198,
+      "ultra": 0,
+      "skills": [
+        16,
+        7,
+        12,
+        17,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Lv3O8aYA2GO4L1H",
+      "runId": 1358230978
+    },
+    "67kh34quN72865q": {
+      "name": "bestia",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "67kh34quN72865q",
+      "runId": 1358230978
+    }
+  }
 }
