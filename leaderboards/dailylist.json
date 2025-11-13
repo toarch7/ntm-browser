@@ -785,6 +785,46 @@
       "version": 2616,
       "uid": "0cuzMaWmK04pxXX",
       "runId": 1358230978
+    },
+    "lGocB90tI2e8ZEB": {
+      "name": "foopa",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 17,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "lGocB90tI2e8ZEB",
+      "runId": 1358230978
+    },
+    "2ikSsp5u1e4yF0M": {
+      "name": "Alien",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 10,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2ikSsp5u1e4yF0M",
+      "runId": 1358230978
     }
   }
 }
