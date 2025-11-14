@@ -339,6 +339,47 @@
       "version": 2616,
       "uid": "Kxz7u871a9sq4sg",
       "runId": 300957555
+    },
+    "SAce9Ti5I43ln7R": {
+      "name": "Neon",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 0,
+      "bwep": 0,
+      "win": false,
+      "kills": 19,
+      "crown": 1,
+      "version": 2616,
+      "uid": "SAce9Ti5I43ln7R",
+      "runId": 300957555
+    },
+    "Nw1FJukR6rpb331": {
+      "name": "IsmaaBoiii",
+      "char": 9,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 15,
+      "win": false,
+      "kills": 232,
+      "ultra": 0,
+      "skills": [
+        7,
+        10,
+        27,
+        16,
+        24,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Nw1FJukR6rpb331",
+      "runId": 300957555
     }
   }
 }
