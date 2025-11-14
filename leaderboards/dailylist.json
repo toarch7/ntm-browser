@@ -557,6 +557,56 @@
       "version": 2616,
       "uid": "jTvgP6a80p39fPT",
       "runId": 300957555
+    },
+    "3NBR0LO17i8h5B1": {
+      "name": "GayBreed",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 3,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        23,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3NBR0LO17i8h5B1",
+      "runId": 300957555
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "Fanton",
+      "char": 2,
+      "skin": false,
+      "area": 106,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 25,
+      "bwep": 26,
+      "win": false,
+      "kills": 747,
+      "ultra": 2,
+      "skills": [
+        23,
+        21,
+        27,
+        13,
+        25,
+        17,
+        3,
+        8,
+        9,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 300957555
     }
   }
 }
