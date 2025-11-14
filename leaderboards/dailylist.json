@@ -672,6 +672,115 @@
       "version": 2616,
       "uid": "xg3DP48cCXGCnD1",
       "runId": 300957555
+    },
+    "3KZ60bc3nn3I8Uv": {
+      "name": "ZONORIO",
+      "char": 14,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 56,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "3KZ60bc3nn3I8Uv",
+      "runId": 300957555
+    },
+    "0dkV4hc88PCNdVK": {
+      "name": "Canela",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 5,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        7,
+        10,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0dkV4hc88PCNdVK",
+      "runId": 300957555
+    },
+    "4hips8OPVM0Fkf6": {
+      "name": "LaPerraChente",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 16,
+      "win": false,
+      "kills": 208,
+      "ultra": 0,
+      "skills": [
+        7,
+        10,
+        17,
+        9,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4hips8OPVM0Fkf6",
+      "runId": 300957555
+    },
+    "QIRMNkX7PBu5kJ8": {
+      "name": "Elcapi",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 5,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        7,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "QIRMNkX7PBu5kJ8",
+      "runId": 300957555
+    },
+    "ujsXi2fT7x0YfHE": {
+      "name": "Спинчик",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 119,
+      "win": false,
+      "kills": 294,
+      "ultra": 0,
+      "skills": [
+        14,
+        27,
+        17,
+        25,
+        12,
+        8,
+        4
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "ujsXi2fT7x0YfHE",
+      "runId": 300957555
     }
   }
 }
