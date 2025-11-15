@@ -280,6 +280,49 @@
       "version": 2616,
       "uid": "iZ6LR28nY4zxxv3",
       "runId": 863867825
+    },
+    "hz58VVhCFgTYtLG": {
+      "name": "Seeker4",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 17,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        16,
+        4,
+        23,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "hz58VVhCFgTYtLG",
+      "runId": 863867825
+    },
+    "g8y5Hjq19F13h7R": {
+      "name": "Mr.Pickles",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g8y5Hjq19F13h7R",
+      "runId": 863867825
     }
   }
 }
