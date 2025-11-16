@@ -1,4 +1,110 @@
 {
   "day": 16,
-  "entries": {}
+  "entries": {
+    "J99meZT71t9P3gl": {
+      "name": "loooh",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        13,
+        4,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J99meZT71t9P3gl",
+      "runId": 2057919179
+    },
+    "8q5fG405p47SjK1": {
+      "name": "teetrone",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 5,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        13,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8q5fG405p47SjK1",
+      "runId": 2057919179
+    },
+    "4mLJlNqKa80CiPZ": {
+      "name": "Denbiii",
+      "char": 10,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 28,
+      "win": false,
+      "kills": 354,
+      "ultra": 0,
+      "skills": [
+        4,
+        14,
+        27,
+        1,
+        24,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4mLJlNqKa80CiPZ",
+      "runId": 2057919179
+    },
+    "i08X5ClmmEPc8ZC": {
+      "name": "Aleee",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "i08X5ClmmEPc8ZC",
+      "runId": 2057919179
+    },
+    "sYSh2ri8uG7iyIL": {
+      "name": "...",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 61,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        4,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sYSh2ri8uG7iyIL",
+      "runId": 2057919179
+    }
+  }
 }
