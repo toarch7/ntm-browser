@@ -668,6 +668,49 @@
       "version": 2616,
       "uid": "55FL427Aw0tMxK7",
       "runId": 2057919179
+    },
+    "87GSBQKt03RnW8H": {
+      "name": "LukasPrado",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 3,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        13,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "87GSBQKt03RnW8H",
+      "runId": 2057919179
+    },
+    "pXdI4J1XR0Fl96C": {
+      "name": "Seeker71",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 88,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pXdI4J1XR0Fl96C",
+      "runId": 2057919179
     }
   }
 }
