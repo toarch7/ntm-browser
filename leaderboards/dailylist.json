@@ -173,6 +173,70 @@
       "version": 2616,
       "uid": "oVHR4MU8y0T9CVt",
       "runId": 2057919179
+    },
+    "pg83m5BN5fdCK9J": {
+      "name": "kikonop",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 35,
+      "win": false,
+      "kills": 261,
+      "ultra": 0,
+      "skills": [
+        4,
+        14,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pg83m5BN5fdCK9J",
+      "runId": 2057919179
+    },
+    "u1ofC7CR28Ip125": {
+      "name": "jalyna",
+      "char": 9,
+      "skin": false,
+      "area": 100,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 30,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "u1ofC7CR28Ip125",
+      "runId": 2057919179
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 2057919179
     }
   }
 }
