@@ -561,6 +561,49 @@
       "version": 2616,
       "uid": "6M2TyCH8drN9RYT",
       "runId": 2057919179
+    },
+    "9Oq9e3Mb4ZJG9Z4": {
+      "name": "Керзоp",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 22,
+      "win": false,
+      "kills": 256,
+      "ultra": 0,
+      "skills": [
+        4,
+        16,
+        27,
+        1
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "9Oq9e3Mb4ZJG9Z4",
+      "runId": 2057919179
+    },
+    "6l3hF8qzWdS5A9s": {
+      "name": "Skully903",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 0,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6l3hF8qzWdS5A9s",
+      "runId": 2057919179
     }
   }
 }
