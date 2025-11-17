@@ -184,18 +184,19 @@
       "name": "ThunderAxe",
       "char": 8,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 4,
-      "bwep": 105,
+      "wep": 105,
+      "bwep": 4,
       "win": false,
-      "kills": 140,
+      "kills": 168,
       "ultra": 0,
       "skills": [
         7,
         9,
-        25
+        25,
+        14
       ],
       "crown": 10,
       "version": 2616,
@@ -272,6 +273,50 @@
       "crown": 10,
       "version": 2616,
       "uid": "E1dq22lRFC6Id2K",
+      "runId": 548229852
+    },
+    "eHr4ty59h76IavD": {
+      "name": "não",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 105,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        23
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "eHr4ty59h76IavD",
+      "runId": 548229852
+    },
+    "qj3ZIhpb12Dc47B": {
+      "name": "siniorito",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 105,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        7,
+        12,
+        26
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "qj3ZIhpb12Dc47B",
       "runId": 548229852
     }
   }
