@@ -365,6 +365,50 @@
       "version": 2616,
       "uid": "n553k26KD948RPB",
       "runId": 1889745537
+    },
+    "c0lG03xLc88OiHH": {
+      "name": "Moon_Rose",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "c0lG03xLc88OiHH",
+      "runId": 1889745537
+    },
+    "50Jwd800uU0M30t": {
+      "name": "Seeker71",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 225,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        27,
+        1,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "50Jwd800uU0M30t",
+      "runId": 1889745537
     }
   }
 }
