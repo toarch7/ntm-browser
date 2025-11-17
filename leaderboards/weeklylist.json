@@ -1,4 +1,72 @@
 {
   "seed": 548229852,
-  "entries": {}
+  "entries": {
+    "8q5fG405p47SjK1": {
+      "name": "teetrone",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 105,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "8q5fG405p47SjK1",
+      "runId": 548229852
+    },
+    "S5498ewsG921Lmd": {
+      "name": "Seeker2",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 25,
+      "win": false,
+      "kills": 227,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        12,
+        10,
+        28
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "S5498ewsG921Lmd",
+      "runId": 548229852
+    },
+    "1s11c48vo8q6G7U": {
+      "name": "felipe",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 0,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        12,
+        25,
+        4
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "1s11c48vo8q6G7U",
+      "runId": 548229852
+    }
+  }
 }
