@@ -703,20 +703,22 @@
       "name": "abusamadresjhon",
       "char": 8,
       "skin": true,
-      "area": 104,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
       "wep": 105,
       "bwep": 59,
       "win": false,
-      "kills": 190,
-      "ultra": 0,
+      "kills": 388,
+      "ultra": 1,
       "skills": [
         12,
         25,
         4,
         2,
-        10
+        10,
+        1,
+        23
       ],
       "crown": 10,
       "version": 2616,
@@ -870,6 +872,30 @@
       "crown": 10,
       "version": 2616,
       "uid": "7L6k7fkDwqhleD2",
+      "runId": 548229852
+    },
+    "oVHR4MU8y0T9CVt": {
+      "name": "GABORRSSS",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 67,
+      "win": false,
+      "kills": 252,
+      "ultra": 0,
+      "skills": [
+        9,
+        23,
+        12,
+        10,
+        13
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "oVHR4MU8y0T9CVt",
       "runId": 548229852
     }
   }
