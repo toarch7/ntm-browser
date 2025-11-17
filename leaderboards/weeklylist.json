@@ -512,15 +512,16 @@
       "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 26,
-      "bwep": 105,
+      "wep": 105,
+      "bwep": 4,
       "win": false,
-      "kills": 156,
+      "kills": 163,
       "ultra": 0,
       "skills": [
+        7,
         9,
         23,
-        4
+        12
       ],
       "crown": 10,
       "version": 2616,
@@ -600,17 +601,59 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 7,
+      "wep": 4,
       "bwep": 21,
       "win": false,
-      "kills": 63,
+      "kills": 81,
       "ultra": 0,
-      "skills": [
-        9
-      ],
+      "skills": [],
       "crown": 10,
       "version": 2616,
       "uid": "zCRiN10GV1dU0mq",
+      "runId": 548229852
+    },
+    "r806QDLkd2yCEBU": {
+      "name": "Scrotum",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 105,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        22,
+        26,
+        25
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "r806QDLkd2yCEBU",
+      "runId": 548229852
+    },
+    "Q2k0ywo5a87Kzr5": {
+      "name": "UnLuckyPoison",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 27,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        25
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "Q2k0ywo5a87Kzr5",
       "runId": 548229852
     }
   }
