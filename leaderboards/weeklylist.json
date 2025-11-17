@@ -67,6 +67,73 @@
       "version": 2616,
       "uid": "1s11c48vo8q6G7U",
       "runId": 548229852
+    },
+    "Y397eB1QIpXJb0H": {
+      "name": "Seeke",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 105,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        12
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "Y397eB1QIpXJb0H",
+      "runId": 548229852
+    },
+    "mXUY5f2Jh803I7Z": {
+      "name": "Ichika",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 105,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "mXUY5f2Jh803I7Z",
+      "runId": 548229852
+    },
+    "u1ofC7CR28Ip125": {
+      "name": "jalyna",
+      "char": 8,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 0,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        22,
+        9,
+        23,
+        12,
+        10
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "u1ofC7CR28Ip125",
+      "runId": 548229852
     }
   }
 }
