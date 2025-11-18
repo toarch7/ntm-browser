@@ -1,4 +1,98 @@
 {
   "day": 18,
-  "entries": {}
+  "entries": {
+    "SAce9Ti5I43ln7R": {
+      "name": "Tori",
+      "char": 9,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 12,
+      "win": false,
+      "kills": 274,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        9,
+        2,
+        4,
+        25,
+        21,
+        28
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "SAce9Ti5I43ln7R",
+      "runId": 111632583
+    },
+    "z8TitRh41dRw60o": {
+      "name": "...",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 5,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "z8TitRh41dRw60o",
+      "runId": 111632583
+    },
+    "vYI8uV4QNg113uX": {
+      "name": "Leeofos",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 5,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        27,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "vYI8uV4QNg113uX",
+      "runId": 111632583
+    },
+    "i08X5ClmmEPc8ZC": {
+      "name": "Aleee",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 2,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        9,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "i08X5ClmmEPc8ZC",
+      "runId": 111632583
+    }
+  }
 }
