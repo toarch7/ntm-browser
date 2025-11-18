@@ -1159,17 +1159,22 @@
       "name": "arbol-verde",
       "char": 8,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
       "wep": 105,
-      "bwep": 16,
+      "bwep": 65,
       "win": false,
-      "kills": 41,
+      "kills": 197,
       "ultra": 0,
       "skills": [
         7,
-        9
+        9,
+        25,
+        14,
+        12,
+        4,
+        1
       ],
       "crown": 10,
       "version": 2616,
@@ -1242,6 +1247,31 @@
       "crown": 10,
       "version": 2616,
       "uid": "ZHu80lIj4vjGJ3p",
+      "runId": 548229852
+    },
+    "8KcfzqV53vfm832": {
+      "name": "Chini",
+      "char": 8,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 63,
+      "win": false,
+      "kills": 327,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        25,
+        14,
+        4,
+        1
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "8KcfzqV53vfm832",
       "runId": 548229852
     }
   }
