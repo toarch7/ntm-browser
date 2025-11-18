@@ -889,16 +889,16 @@
       "subarea": 3,
       "loops": 0,
       "wep": 105,
-      "bwep": 67,
+      "bwep": 89,
       "win": false,
-      "kills": 252,
+      "kills": 253,
       "ultra": 0,
       "skills": [
-        9,
-        23,
         12,
+        23,
+        3,
         10,
-        13
+        1
       ],
       "crown": 10,
       "version": 2616,
@@ -1494,6 +1494,32 @@
       "crown": 10,
       "version": 2616,
       "uid": "Ef1MW0z7A3a0c4t",
+      "runId": 548229852
+    },
+    "iSW1g25J593JBRX": {
+      "name": "tsiger",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 26,
+      "win": false,
+      "kills": 347,
+      "ultra": 0,
+      "skills": [
+        9,
+        21,
+        25,
+        4,
+        23,
+        1,
+        14
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "iSW1g25J593JBRX",
       "runId": 548229852
     }
   }
