@@ -1387,19 +1387,18 @@
       "name": "pitym",
       "char": 8,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
       "wep": 75,
       "bwep": 105,
       "win": false,
-      "kills": 125,
+      "kills": 164,
       "ultra": 0,
       "skills": [
-        7,
-        25,
-        4,
-        12
+        21,
+        12,
+        10
       ],
       "crown": 10,
       "version": 2616,
@@ -1672,6 +1671,27 @@
       "crown": 10,
       "version": 2616,
       "uid": "T92qOk4x6440rt3",
+      "runId": 548229852
+    },
+    "2hE0KvNP41ta72a": {
+      "name": "larrycapinga",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 0,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "2hE0KvNP41ta72a",
       "runId": 548229852
     }
   }
