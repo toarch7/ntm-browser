@@ -358,6 +358,50 @@
       "version": 2616,
       "uid": "3jMU2g7u40C9Bas",
       "runId": 111632583
+    },
+    "5190hW03Zoq365b": {
+      "name": "Deiker",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 10,
+      "win": false,
+      "kills": 203,
+      "ultra": 0,
+      "skills": [
+        1,
+        22,
+        9,
+        6,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5190hW03Zoq365b",
+      "runId": 111632583
+    },
+    "r806QDLkd2yCEBU": {
+      "name": "Scrotum",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 6,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "r806QDLkd2yCEBU",
+      "runId": 111632583
     }
   }
 }
