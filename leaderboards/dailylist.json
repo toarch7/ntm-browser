@@ -270,6 +270,94 @@
       "version": 2616,
       "uid": "M4463L5j78lwMa2",
       "runId": 111632583
+    },
+    "e0D4AFEC519n8R1": {
+      "name": "lafiesta",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "e0D4AFEC519n8R1",
+      "runId": 111632583
+    },
+    "g8y5Hjq19F13h7R": {
+      "name": "Mr.Pickles",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 6,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g8y5Hjq19F13h7R",
+      "runId": 111632583
+    },
+    "o56HTt2a1lO31aZ": {
+      "name": "Seeker90",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "o56HTt2a1lO31aZ",
+      "runId": 111632583
+    },
+    "3jMU2g7u40C9Bas": {
+      "name": "xpun_TpynHblu",
+      "char": 3,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 11,
+      "win": false,
+      "kills": 318,
+      "ultra": 0,
+      "skills": [
+        1,
+        13,
+        9,
+        6,
+        8,
+        27,
+        3
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "3jMU2g7u40C9Bas",
+      "runId": 111632583
     }
   }
 }

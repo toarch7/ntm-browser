@@ -187,19 +187,23 @@
       "name": "ThunderAxe",
       "char": 8,
       "skin": true,
-      "area": 4,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 105,
-      "bwep": 4,
+      "wep": 22,
+      "bwep": 105,
       "win": false,
-      "kills": 168,
+      "kills": 282,
       "ultra": 0,
       "skills": [
         7,
         9,
         25,
-        14
+        14,
+        12,
+        10,
+        1,
+        23
       ],
       "crown": 10,
       "version": 2616,
@@ -1337,6 +1341,48 @@
       "crown": 10,
       "version": 2616,
       "uid": "lmhsR5d3l3h5UJp",
+      "runId": 548229852
+    },
+    "Iq3wvuR5Qa6cqC6": {
+      "name": "Luxers",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 105,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        7,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "Iq3wvuR5Qa6cqC6",
+      "runId": 548229852
+    },
+    "1OeJE0116y7ilQS": {
+      "name": "david",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 105,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        7,
+        12
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "1OeJE0116y7ilQS",
       "runId": 548229852
     }
   }
