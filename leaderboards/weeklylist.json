@@ -53,16 +53,14 @@
       "area": 3,
       "subarea": 3,
       "loops": 0,
-      "wep": 105,
-      "bwep": 43,
+      "wep": 2,
+      "bwep": 0,
       "win": false,
-      "kills": 159,
+      "kills": 171,
       "ultra": 0,
       "skills": [
         7,
         9,
-        25,
-        4,
         12
       ],
       "crown": 10,
@@ -1692,6 +1690,28 @@
       "crown": 10,
       "version": 2616,
       "uid": "2hE0KvNP41ta72a",
+      "runId": 548229852
+    },
+    "HOuRYAJMpcX2FQL": {
+      "name": "Ngoen_Gus",
+      "char": 8,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 69,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        2
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "HOuRYAJMpcX2FQL",
       "runId": 548229852
     }
   }
