@@ -672,6 +672,49 @@
       "version": 2616,
       "uid": "8KcfzqV53vfm832",
       "runId": 1488649771
+    },
+    "xiodTk649PRp0lS": {
+      "name": "kattsuwo",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 76,
+      "win": false,
+      "kills": 146,
+      "ultra": 0,
+      "skills": [
+        12,
+        7,
+        22,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xiodTk649PRp0lS",
+      "runId": 1488649771
+    },
+    "IOC2qxvUyaScg06": {
+      "name": "Nergal",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "IOC2qxvUyaScg06",
+      "runId": 1488649771
     }
   }
 }
