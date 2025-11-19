@@ -1479,17 +1479,18 @@
       "name": "mimi2",
       "char": 8,
       "skin": true,
-      "area": 2,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 105,
-      "bwep": 50,
+      "wep": 19,
+      "bwep": 3,
       "win": false,
-      "kills": 77,
+      "kills": 154,
       "ultra": 0,
       "skills": [
         7,
-        12
+        12,
+        2
       ],
       "crown": 10,
       "version": 2616,
@@ -1722,16 +1723,17 @@
       "char": 8,
       "skin": true,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 75,
-      "bwep": 105,
+      "wep": 105,
+      "bwep": 4,
       "win": false,
-      "kills": 130,
+      "kills": 144,
       "ultra": 0,
       "skills": [
         25,
-        14
+        14,
+        7
       ],
       "crown": 10,
       "version": 2616,
@@ -1780,6 +1782,27 @@
       "crown": 10,
       "version": 2616,
       "uid": "hjUdb4GtfNkX0X4",
+      "runId": 548229852
+    },
+    "Z96m9O8w4tG8qs0": {
+      "name": "EnemySovonoK",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 23,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        7,
+        23
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "Z96m9O8w4tG8qs0",
       "runId": 548229852
     }
   }
