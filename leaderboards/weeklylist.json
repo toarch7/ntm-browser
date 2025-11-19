@@ -606,15 +606,18 @@
       "name": "Shaka747",
       "char": 8,
       "skin": true,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 4,
-      "bwep": 21,
+      "wep": 20,
+      "bwep": 69,
       "win": false,
-      "kills": 81,
+      "kills": 155,
       "ultra": 0,
-      "skills": [],
+      "skills": [
+        7,
+        12
+      ],
       "crown": 10,
       "version": 2616,
       "uid": "zCRiN10GV1dU0mq",
@@ -1307,14 +1310,14 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 4,
-      "bwep": 105,
+      "wep": 105,
+      "bwep": 7,
       "win": false,
-      "kills": 68,
+      "kills": 71,
       "ultra": 0,
       "skills": [
         7,
-        9
+        26
       ],
       "crown": 10,
       "version": 2616,
@@ -1973,6 +1976,28 @@
       "crown": 10,
       "version": 2616,
       "uid": "IOC2qxvUyaScg06",
+      "runId": 548229852
+    },
+    "aUW0T18H8x1qY2B": {
+      "name": "MalaPraxi",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 0,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        23
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "aUW0T18H8x1qY2B",
       "runId": 548229852
     }
   }
