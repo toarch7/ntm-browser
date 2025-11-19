@@ -410,6 +410,49 @@
       "version": 2616,
       "uid": "3Q5VAngkZm1LfP3",
       "runId": 1488649771
+    },
+    "pg83m5BN5fdCK9J": {
+      "name": "kikonop",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        23,
+        14,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pg83m5BN5fdCK9J",
+      "runId": 1488649771
+    },
+    "iSW1g25J593JBRX": {
+      "name": "tsiger",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 6,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        23,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "iSW1g25J593JBRX",
+      "runId": 1488649771
     }
   }
 }
