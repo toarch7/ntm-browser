@@ -1,4 +1,64 @@
 {
   "day": 20,
-  "entries": {}
+  "entries": {
+    "V125N0NmHh97zfX": {
+      "name": "Raaaa",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 39,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "V125N0NmHh97zfX",
+      "runId": 456463023
+    },
+    "7t41QPeooh2Dv9d": {
+      "name": "fkffkfkfm",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 27,
+      "win": false,
+      "kills": 161,
+      "ultra": 0,
+      "skills": [
+        22,
+        7,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7t41QPeooh2Dv9d",
+      "runId": 456463023
+    },
+    "2g560IZ71YfbT57": {
+      "name": "GODKILLER_69",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        26,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2g560IZ71YfbT57",
+      "runId": 456463023
+    }
+  }
 }
