@@ -793,6 +793,48 @@
       "version": 2616,
       "uid": "L7962CaSc1G24HN",
       "runId": 456463023
+    },
+    "aUW0T18H8x1qY2B": {
+      "name": "MalaPraxi",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 66,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        19,
+        7,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aUW0T18H8x1qY2B",
+      "runId": 456463023
+    },
+    "xiodTk649PRp0lS": {
+      "name": "kattsuwo",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xiodTk649PRp0lS",
+      "runId": 456463023
     }
   }
 }
