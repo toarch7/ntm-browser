@@ -306,6 +306,49 @@
       "version": 2616,
       "uid": "h7J1tFy3cQjGci0",
       "runId": 456463023
+    },
+    "p3eUbC2tVK47I24": {
+      "name": "zalupula",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 4,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        22,
+        13,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "p3eUbC2tVK47I24",
+      "runId": 456463023
+    },
+    "3Q5VAngkZm1LfP3": {
+      "name": "i8cheese",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 5,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        26,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3Q5VAngkZm1LfP3",
+      "runId": 456463023
     }
   }
 }
