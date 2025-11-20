@@ -1573,17 +1573,20 @@
       "name": "yutu",
       "char": 8,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 117,
+      "wep": 70,
       "bwep": 105,
       "win": false,
-      "kills": 96,
+      "kills": 214,
       "ultra": 0,
       "skills": [
         9,
-        21
+        25,
+        4,
+        27,
+        1
       ],
       "crown": 10,
       "version": 2616,
@@ -1998,6 +2001,32 @@
       "crown": 10,
       "version": 2616,
       "uid": "aUW0T18H8x1qY2B",
+      "runId": 548229852
+    },
+    "fe8w78XS4N6FJvm": {
+      "name": "insano3D_XD",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 105,
+      "win": false,
+      "kills": 183,
+      "ultra": 0,
+      "skills": [
+        7,
+        12,
+        25,
+        4,
+        2,
+        10,
+        1
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "fe8w78XS4N6FJvm",
       "runId": 548229852
     }
   }
