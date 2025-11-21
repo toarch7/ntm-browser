@@ -628,17 +628,18 @@
       "char": 8,
       "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 88,
-      "bwep": 105,
+      "wep": 105,
+      "bwep": 21,
       "win": false,
-      "kills": 73,
+      "kills": 99,
       "ultra": 0,
       "skills": [
         22,
-        26,
-        25
+        9,
+        23,
+        12
       ],
       "crown": 10,
       "version": 2616,
@@ -2366,6 +2367,28 @@
       "crown": 10,
       "version": 2616,
       "uid": "2jn9sMH2IkmDw3q",
+      "runId": 548229852
+    },
+    "MHuTP3svO16vC1D": {
+      "name": "limon",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 105,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        7,
+        12,
+        25
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "MHuTP3svO16vC1D",
       "runId": 548229852
     }
   }
