@@ -766,6 +766,53 @@
       "version": 2616,
       "uid": "yWJ6vbQF7Dc3db0",
       "runId": 1814415021
+    },
+    "kRgwajrm9phf9s1": {
+      "name": "Vivaldi",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 13,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kRgwajrm9phf9s1",
+      "runId": 1814415021
+    },
+    "9b9yFz8c3hbulv5": {
+      "name": "El",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 11,
+      "win": false,
+      "kills": 265,
+      "ultra": 0,
+      "skills": [
+        1,
+        9,
+        2,
+        3,
+        22,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9b9yFz8c3hbulv5",
+      "runId": 1814415021
     }
   }
 }
