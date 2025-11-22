@@ -122,20 +122,20 @@
       "name": "jalyna",
       "char": 8,
       "skin": true,
-      "area": 6,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 105,
-      "bwep": 0,
+      "wep": 65,
+      "bwep": 105,
       "win": false,
-      "kills": 130,
+      "kills": 195,
       "ultra": 0,
       "skills": [
-        22,
         9,
         23,
         12,
-        10
+        10,
+        1
       ],
       "crown": 10,
       "version": 2616,
@@ -2730,6 +2730,30 @@
       "crown": 10,
       "version": 2616,
       "uid": "p3eUbC2tVK47I24",
+      "runId": 548229852
+    },
+    "3KZ60bc3nn3I8Uv": {
+      "name": "ZONORIO",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 105,
+      "win": false,
+      "kills": 258,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        12,
+        27,
+        1
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "3KZ60bc3nn3I8Uv",
       "runId": 548229852
     }
   }
