@@ -784,6 +784,42 @@
       "version": 2616,
       "uid": "oVHR4MU8y0T9CVt",
       "runId": 1435034281
+    },
+    "Ngj2I9UFLbNz84z": {
+      "name": "Seek",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ngj2I9UFLbNz84z",
+      "runId": 1435034281
+    },
+    "cFxLtsDLSDK0hnl": {
+      "name": "RukaBlood",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 4,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cFxLtsDLSDK0hnl",
+      "runId": 1435034281
     }
   }
 }
