@@ -2647,16 +2647,18 @@
       "name": "Erianñ",
       "char": 8,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 75,
+      "wep": 69,
       "bwep": 105,
       "win": false,
-      "kills": 80,
+      "kills": 97,
       "ultra": 0,
       "skills": [
-        9
+        9,
+        25,
+        4
       ],
       "crown": 10,
       "version": 2616,
@@ -2874,6 +2876,34 @@
       "crown": 10,
       "version": 2616,
       "uid": "P6PtM0uC7GZ3Wtp",
+      "runId": 548229852
+    },
+    "7sWu1btXx1F5IYG": {
+      "name": "Salv",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 49,
+      "bwep": 105,
+      "win": false,
+      "kills": 360,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        25,
+        4,
+        12,
+        27,
+        1,
+        28,
+        14
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "7sWu1btXx1F5IYG",
       "runId": 548229852
     }
   }
