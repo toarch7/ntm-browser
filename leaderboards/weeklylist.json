@@ -1541,18 +1541,20 @@
       "name": "kattsuwo",
       "char": 8,
       "skin": true,
-      "area": 102,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 72,
-      "bwep": 105,
+      "wep": 105,
+      "bwep": 16,
       "win": false,
-      "kills": 87,
+      "kills": 207,
       "ultra": 0,
       "skills": [
         7,
         26,
-        21
+        21,
+        12,
+        10
       ],
       "crown": 10,
       "version": 2616,
@@ -3088,6 +3090,31 @@
       "crown": 10,
       "version": 2616,
       "uid": "ALd6Z7Mk8ZV6JEy",
+      "runId": 548229852
+    },
+    "6v71N333DDGq4Kp": {
+      "name": "Nar",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 40,
+      "bwep": 105,
+      "win": false,
+      "kills": 375,
+      "ultra": 0,
+      "skills": [
+        22,
+        12,
+        23,
+        4,
+        13,
+        14
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "6v71N333DDGq4Kp",
       "runId": 548229852
     }
   }
