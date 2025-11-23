@@ -799,6 +799,46 @@
       "version": 2616,
       "uid": "3761551r8WZDaKn",
       "runId": 213764690
+    },
+    "3Q8Zr8vIF3HW69t": {
+      "name": "Hiroshi",
+      "char": 11,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "3Q8Zr8vIF3HW69t",
+      "runId": 213764690
+    },
+    "hf5papeu8lM6EE5": {
+      "name": "jooa",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 3,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        8,
+        25,
+        7,
+        27,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "hf5papeu8lM6EE5",
+      "runId": 213764690
     }
   }
 }
