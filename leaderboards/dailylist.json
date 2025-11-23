@@ -599,6 +599,105 @@
       "version": 2616,
       "uid": "6v71N333DDGq4Kp",
       "runId": 213764690
+    },
+    "Ngj2I9UFLbNz84z": {
+      "name": "Seek",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        8,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ngj2I9UFLbNz84z",
+      "runId": 213764690
+    },
+    "MPO9Q06d07gNr77": {
+      "name": "Clubstep",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 17,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MPO9Q06d07gNr77",
+      "runId": 213764690
+    },
+    "3KOC0eS9LuVl1yx": {
+      "name": "Benji",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 61,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        8,
+        26,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3KOC0eS9LuVl1yx",
+      "runId": 213764690
+    },
+    "27980ftxdKmg6ip": {
+      "name": "Okarun",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "27980ftxdKmg6ip",
+      "runId": 213764690
+    },
+    "h1U1dg3Bp50iw45": {
+      "name": "Max",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 18,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h1U1dg3Bp50iw45",
+      "runId": 213764690
     }
   }
 }
