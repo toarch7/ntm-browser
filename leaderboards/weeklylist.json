@@ -1381,17 +1381,17 @@
       "name": "david",
       "char": 8,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 13,
+      "wep": 23,
       "bwep": 105,
       "win": false,
-      "kills": 38,
+      "kills": 84,
       "ultra": 0,
       "skills": [
-        7,
-        12
+        12,
+        3
       ],
       "crown": 10,
       "version": 2616,
@@ -3115,6 +3115,55 @@
       "crown": 10,
       "version": 2616,
       "uid": "6v71N333DDGq4Kp",
+      "runId": 548229852
+    },
+    "CVuM6f6m6V8905t": {
+      "name": "Sjfire",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 69,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        25,
+        14
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "CVuM6f6m6V8905t",
+      "runId": 548229852
+    },
+    "s4z78zqE60UdIP5": {
+      "name": "Seeker9039999",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 22,
+      "win": false,
+      "kills": 359,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        25,
+        4,
+        27,
+        1,
+        23
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "s4z78zqE60UdIP5",
       "runId": 548229852
     }
   }
