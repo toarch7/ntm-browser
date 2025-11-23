@@ -1,4 +1,82 @@
 {
   "day": 23,
-  "entries": {}
+  "entries": {
+    "xiodTk649PRp0lS": {
+      "name": "kattsuwo",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xiodTk649PRp0lS",
+      "runId": 213764690
+    },
+    "GI4emd63HK0n36b": {
+      "name": "kitkivi",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 34,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        28,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GI4emd63HK0n36b",
+      "runId": 213764690
+    },
+    "r806QDLkd2yCEBU": {
+      "name": "Scrotum",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 21,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "r806QDLkd2yCEBU",
+      "runId": 213764690
+    },
+    "TvbX5np2U8A70y4": {
+      "name": "chrimsy",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 0,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": 2616,
+      "uid": "TvbX5np2U8A70y4",
+      "runId": 213764690
+    }
+  }
 }
