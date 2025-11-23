@@ -2362,16 +2362,19 @@
       "char": 8,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 27,
+      "wep": 77,
       "bwep": 105,
       "win": false,
-      "kills": 109,
+      "kills": 150,
       "ultra": 0,
       "skills": [
+        7,
         12,
-        25
+        25,
+        4,
+        3
       ],
       "crown": 10,
       "version": 2616,
@@ -3015,6 +3018,50 @@
       "crown": 10,
       "version": 2616,
       "uid": "175lqi2r5aY5tNK",
+      "runId": 548229852
+    },
+    "RmJnA7lN6mS4g7h": {
+      "name": "BOBCIUS",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 105,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        7,
+        12,
+        23
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "RmJnA7lN6mS4g7h",
+      "runId": 548229852
+    },
+    "87GSBQKt03RnW8H": {
+      "name": "LukasPrado",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 50,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        7,
+        9,
+        23
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "87GSBQKt03RnW8H",
       "runId": 548229852
     }
   }
