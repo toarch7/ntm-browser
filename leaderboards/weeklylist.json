@@ -789,6 +789,54 @@
       "version": 2616,
       "uid": "N2JcEOX6mb2Q79y",
       "runId": 364184555
+    },
+    "2jn9sMH2IkmDw3q": {
+      "name": "jododendron",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 37,
+      "win": false,
+      "kills": 266,
+      "ultra": 0,
+      "skills": [
+        14,
+        12,
+        25,
+        7,
+        1,
+        28,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2jn9sMH2IkmDw3q",
+      "runId": 364184555
+    },
+    "S46qz51eYBh8e2D": {
+      "name": "casa",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 0,
+      "win": false,
+      "kills": 189,
+      "ultra": 0,
+      "skills": [
+        9,
+        23,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "S46qz51eYBh8e2D",
+      "runId": 364184555
     }
   }
 }
