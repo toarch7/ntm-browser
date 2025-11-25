@@ -1165,6 +1165,97 @@
       "version": 2616,
       "uid": "mXUY5f2Jh803I7Z",
       "runId": 364184555
+    },
+    "iSW1g25J593JBRX": {
+      "name": "tsiger",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 35,
+      "win": false,
+      "kills": 175,
+      "ultra": 0,
+      "skills": [
+        9,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "iSW1g25J593JBRX",
+      "runId": 364184555
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 0,
+      "win": false,
+      "kills": 240,
+      "ultra": 0,
+      "skills": [
+        6,
+        1,
+        22,
+        21,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 364184555
+    },
+    "w41VsMfoWgjkim8": {
+      "name": "чел",
+      "char": 8,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 29,
+      "bwep": 37,
+      "win": false,
+      "kills": 355,
+      "ultra": 1,
+      "skills": [
+        9,
+        1,
+        4,
+        10,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "w41VsMfoWgjkim8",
+      "runId": 364184555
+    },
+    "HOuRYAJMpcX2FQL": {
+      "name": "Ngoen_Gus",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 71,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        14,
+        2,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HOuRYAJMpcX2FQL",
+      "runId": 364184555
     }
   }
 }
