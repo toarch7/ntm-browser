@@ -653,6 +653,64 @@
       "version": 2616,
       "uid": "M41HJTBjneN075w",
       "runId": 1797027443
+    },
+    "3KOC0eS9LuVl1yx": {
+      "name": "Benji",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 114,
+      "bwep": 117,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        14,
+        2,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3KOC0eS9LuVl1yx",
+      "runId": 1797027443
+    },
+    "l4GJ7wtGW6xt9E0": {
+      "name": "Seeker",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 1,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "l4GJ7wtGW6xt9E0",
+      "runId": 1797027443
+    },
+    "gvmrKpGdZ770456": {
+      "name": "Mahito",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 39,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": 2616,
+      "uid": "gvmrKpGdZ770456",
+      "runId": 1797027443
     }
   }
 }
