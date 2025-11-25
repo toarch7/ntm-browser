@@ -1256,6 +1256,30 @@
       "version": 2616,
       "uid": "HOuRYAJMpcX2FQL",
       "runId": 364184555
+    },
+    "79V2nOsHmmIi0M3": {
+      "name": "Balls",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 11,
+      "win": false,
+      "kills": 218,
+      "ultra": 0,
+      "skills": [
+        8,
+        9,
+        1,
+        28,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "79V2nOsHmmIi0M3",
+      "runId": 364184555
     }
   }
 }
