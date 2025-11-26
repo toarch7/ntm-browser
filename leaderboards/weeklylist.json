@@ -283,12 +283,12 @@
       "char": 8,
       "skin": false,
       "area": 5,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 9,
+      "wep": 2,
       "bwep": 29,
       "win": false,
-      "kills": 189,
+      "kills": 241,
       "ultra": 0,
       "skills": [
         8,
@@ -1244,15 +1244,13 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 29,
-      "bwep": 71,
+      "wep": 27,
+      "bwep": 29,
       "win": false,
-      "kills": 65,
+      "kills": 77,
       "ultra": 0,
       "skills": [
-        14,
-        2,
-        25
+        2
       ],
       "crown": 1,
       "version": 2616,
@@ -1762,6 +1760,74 @@
       "crown": 1,
       "version": 2616,
       "uid": "6v71N333DDGq4Kp",
+      "runId": 364184555
+    },
+    "u1ofC7CR28Ip125": {
+      "name": "jalyna",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 63,
+      "win": false,
+      "kills": 361,
+      "ultra": 0,
+      "skills": [
+        8,
+        9,
+        28,
+        1,
+        4,
+        10,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "u1ofC7CR28Ip125",
+      "runId": 364184555
+    },
+    "45Zy8eV2O1J5X10": {
+      "name": "Cantonero",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 105,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        14,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "45Zy8eV2O1J5X10",
+      "runId": 364184555
+    },
+    "TvbX5np2U8A70y4": {
+      "name": "chrimsy",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 29,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        9,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "TvbX5np2U8A70y4",
       "runId": 364184555
     }
   }
