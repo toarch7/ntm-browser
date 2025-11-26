@@ -436,6 +436,47 @@
       "version": 2616,
       "uid": "v1ODVNHFadt8uXU",
       "runId": 597462481
+    },
+    "3761551r8WZDaKn": {
+      "name": "Edgar",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3761551r8WZDaKn",
+      "runId": 597462481
+    },
+    "5Gx1GFD5Mp7Ydd3": {
+      "name": "kusogake",
+      "char": 6,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        4,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5Gx1GFD5Mp7Ydd3",
+      "runId": 597462481
     }
   }
 }
