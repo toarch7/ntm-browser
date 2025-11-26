@@ -1,4 +1,88 @@
 {
   "day": 26,
-  "entries": {}
+  "entries": {
+    "V125N0NmHh97zfX": {
+      "name": "Raaaa",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "V125N0NmHh97zfX",
+      "runId": 597462481
+    },
+    "8q5fG405p47SjK1": {
+      "name": "teetrone",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 52,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        4,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8q5fG405p47SjK1",
+      "runId": 597462481
+    },
+    "i08X5ClmmEPc8ZC": {
+      "name": "Aleee",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 55,
+      "win": false,
+      "kills": 160,
+      "ultra": 0,
+      "skills": [
+        14,
+        28,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "i08X5ClmmEPc8ZC",
+      "runId": 597462481
+    },
+    "79V2nOsHmmIi0M3": {
+      "name": "Balls",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "79V2nOsHmmIi0M3",
+      "runId": 597462481
+    }
+  }
 }
