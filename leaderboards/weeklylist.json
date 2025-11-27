@@ -739,16 +739,19 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 65,
-      "bwep": 113,
+      "wep": 29,
+      "bwep": 0,
       "win": false,
-      "kills": 211,
+      "kills": 258,
       "ultra": 0,
       "skills": [
         14,
         9,
+        25,
         1,
-        8
+        28,
+        8,
+        10
       ],
       "crown": 1,
       "version": 2616,
@@ -2071,6 +2074,30 @@
       "crown": 1,
       "version": 2616,
       "uid": "XnAJIQJLzW63LmH",
+      "runId": 364184555
+    },
+    "5Gx1GFD5Mp7Ydd3": {
+      "name": "kusogake",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 62,
+      "win": false,
+      "kills": 244,
+      "ultra": 0,
+      "skills": [
+        8,
+        2,
+        1,
+        22,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5Gx1GFD5Mp7Ydd3",
       "runId": 364184555
     }
   }
