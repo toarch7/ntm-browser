@@ -829,18 +829,20 @@
       "name": "casa",
       "char": 8,
       "skin": false,
-      "area": 5,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 29,
-      "bwep": 0,
+      "wep": 64,
+      "bwep": 29,
       "win": false,
-      "kills": 189,
+      "kills": 250,
       "ultra": 0,
       "skills": [
+        8,
         9,
         23,
-        1
+        1,
+        10
       ],
       "crown": 1,
       "version": 2616,
@@ -1957,6 +1959,74 @@
       "crown": 1,
       "version": 2616,
       "uid": "9EkyKX48VdSH7VW",
+      "runId": 364184555
+    },
+    "q8xqShxSYCjYdF1": {
+      "name": "m4kr",
+      "char": 8,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 0,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "q8xqShxSYCjYdF1",
+      "runId": 364184555
+    },
+    "Zq4nk7OhRsa65o7": {
+      "name": "Choripan2025",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 29,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        14,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Zq4nk7OhRsa65o7",
+      "runId": 364184555
+    },
+    "hjUdb4GtfNkX0X4": {
+      "name": "Fersitouwu",
+      "char": 8,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 29,
+      "win": false,
+      "kills": 258,
+      "ultra": 0,
+      "skills": [
+        8,
+        12,
+        1,
+        9,
+        4,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "hjUdb4GtfNkX0X4",
       "runId": 364184555
     }
   }
