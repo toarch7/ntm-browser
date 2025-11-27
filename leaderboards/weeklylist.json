@@ -2315,6 +2315,51 @@
       "version": 2616,
       "uid": "3Q5VAngkZm1LfP3",
       "runId": 364184555
+    },
+    "16aLq78Qiq5I7mb": {
+      "name": "korvidio",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 29,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        8,
+        2,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "16aLq78Qiq5I7mb",
+      "runId": 364184555
+    },
+    "WCCaRwLHqokg83E": {
+      "name": "el",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 38,
+      "win": false,
+      "kills": 166,
+      "ultra": 0,
+      "skills": [
+        8,
+        12,
+        1,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "WCCaRwLHqokg83E",
+      "runId": 364184555
     }
   }
 }
