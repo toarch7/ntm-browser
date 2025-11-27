@@ -317,6 +317,84 @@
       "version": 2616,
       "uid": "cFxLtsDLSDK0hnl",
       "runId": 970327608
+    },
+    "SiZ0m1F5de7vfpj": {
+      "name": "Seeker",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 28,
+      "bwep": 23,
+      "win": false,
+      "kills": 298,
+      "ultra": 0,
+      "skills": [
+        2,
+        27,
+        1,
+        4,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "SiZ0m1F5de7vfpj",
+      "runId": 970327608
+    },
+    "8q5fG405p47SjK1": {
+      "name": "teetrone",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 69,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8q5fG405p47SjK1",
+      "runId": 970327608
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 970327608
+    },
+    "MTetK7g8YA17jvj": {
+      "name": "..._",
+      "char": 1,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MTetK7g8YA17jvj",
+      "runId": 970327608
     }
   }
 }
