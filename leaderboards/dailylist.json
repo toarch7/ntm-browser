@@ -179,6 +179,42 @@
       "version": 2616,
       "uid": "pg83m5BN5fdCK9J",
       "runId": 970327608
+    },
+    "2rwMpyjR5DGylzB": {
+      "name": "пиздобол",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 14,
+      "crown": 1,
+      "version": 2616,
+      "uid": "2rwMpyjR5DGylzB",
+      "runId": 970327608
+    },
+    "68B8n6MdTClgSCx": {
+      "name": "absol11344",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 28,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "68B8n6MdTClgSCx",
+      "runId": 970327608
     }
   }
 }
