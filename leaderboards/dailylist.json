@@ -1,4 +1,83 @@
 {
   "day": 27,
-  "entries": {}
+  "entries": {
+    "V125N0NmHh97zfX": {
+      "name": "Raaaa",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 4,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "V125N0NmHh97zfX",
+      "runId": 970327608
+    },
+    "HL3y7i64MVLT5z8": {
+      "name": "...",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 106,
+      "win": false,
+      "kills": 250,
+      "ultra": 0,
+      "skills": [
+        7,
+        3,
+        1,
+        9,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HL3y7i64MVLT5z8",
+      "runId": 970327608
+    },
+    "Ngj2I9UFLbNz84z": {
+      "name": "Seek",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ngj2I9UFLbNz84z",
+      "runId": 970327608
+    },
+    "4mLJlNqKa80CiPZ": {
+      "name": "Denbiii",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 4,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4mLJlNqKa80CiPZ",
+      "runId": 970327608
+    }
+  }
 }
