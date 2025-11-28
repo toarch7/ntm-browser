@@ -102,6 +102,42 @@
       "version": 2616,
       "uid": "0qGaAeS8vd456Lj",
       "runId": 604932201
+    },
+    "79V2nOsHmmIi0M3": {
+      "name": "Balls",
+      "char": 5,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "79V2nOsHmmIi0M3",
+      "runId": 604932201
+    },
+    "V125N0NmHh97zfX": {
+      "name": "Raaaa",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "V125N0NmHh97zfX",
+      "runId": 604932201
     }
   }
 }
