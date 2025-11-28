@@ -138,6 +138,46 @@
       "version": 2616,
       "uid": "V125N0NmHh97zfX",
       "runId": 604932201
+    },
+    "Y7PmL4ynv5v0zCJ": {
+      "name": "DeadPhnx",
+      "char": 7,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 35,
+      "win": false,
+      "kills": 332,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        6,
+        7,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y7PmL4ynv5v0zCJ",
+      "runId": 604932201
+    },
+    "14aeU8O05ssfF4t": {
+      "name": "ZeKnight",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "14aeU8O05ssfF4t",
+      "runId": 604932201
     }
   }
 }
