@@ -178,6 +178,47 @@
       "version": 2616,
       "uid": "14aeU8O05ssfF4t",
       "runId": 604932201
+    },
+    "3KOC0eS9LuVl1yx": {
+      "name": "Benji",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 6,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        14,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3KOC0eS9LuVl1yx",
+      "runId": 604932201
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 1,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 604932201
     }
   }
 }
