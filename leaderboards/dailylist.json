@@ -904,6 +904,31 @@
       "version": 2616,
       "uid": "j2OmQhVqn8ZW6qa",
       "runId": 2032404347
+    },
+    "sks03jWuj1ow8X1": {
+      "name": "red",
+      "char": 4,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 70,
+      "bwep": 10,
+      "win": false,
+      "kills": 398,
+      "ultra": 1,
+      "skills": [
+        4,
+        27,
+        3,
+        7,
+        1,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sks03jWuj1ow8X1",
+      "runId": 2032404347
     }
   }
 }
