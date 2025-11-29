@@ -862,6 +862,48 @@
       "version": 2616,
       "uid": "UF5Yw19QNaha9fb",
       "runId": 2032404347
+    },
+    "OZ5bFzGd6LV62eP": {
+      "name": "KilDice",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 21,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OZ5bFzGd6LV62eP",
+      "runId": 2032404347
+    },
+    "j2OmQhVqn8ZW6qa": {
+      "name": "Astaroth",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 23,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        6,
+        14,
+        8
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "j2OmQhVqn8ZW6qa",
+      "runId": 2032404347
     }
   }
 }
