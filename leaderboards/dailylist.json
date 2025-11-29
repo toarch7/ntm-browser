@@ -1,4 +1,71 @@
 {
   "day": 29,
-  "entries": {}
+  "entries": {
+    "3KOC0eS9LuVl1yx": {
+      "name": "Benji",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 21,
+      "crown": 1,
+      "version": 2616,
+      "uid": "3KOC0eS9LuVl1yx",
+      "runId": 2032404347
+    },
+    "7aO5kajZEj06d84": {
+      "name": "MayMay",
+      "char": 15,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 255,
+      "win": false,
+      "kills": 377,
+      "ultra": 0,
+      "skills": [
+        4,
+        14,
+        8,
+        7,
+        13,
+        25,
+        12,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7aO5kajZEj06d84",
+      "runId": 2032404347
+    },
+    "T5j24pP92ziUpf7": {
+      "name": "Seeker71",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 9,
+      "win": false,
+      "kills": 166,
+      "ultra": 0,
+      "skills": [
+        4,
+        6,
+        8,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "T5j24pP92ziUpf7",
+      "runId": 2032404347
+    }
+  }
 }
