@@ -1,4 +1,150 @@
 {
   "day": 30,
-  "entries": {}
+  "entries": {
+    "ys6822Acm7lXo44": {
+      "name": "Fern",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "ys6822Acm7lXo44",
+      "runId": 1265804044
+    },
+    "i08X5ClmmEPc8ZC": {
+      "name": "Aleee",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        14,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "i08X5ClmmEPc8ZC",
+      "runId": 1265804044
+    },
+    "TvbX5np2U8A70y4": {
+      "name": "chrimsy",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 52,
+      "win": false,
+      "kills": 191,
+      "ultra": 0,
+      "skills": [
+        14,
+        3,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "TvbX5np2U8A70y4",
+      "runId": 1265804044
+    },
+    "iqXZf7JYso9kaDB": {
+      "name": "Alone_xd",
+      "char": 2,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 41,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        2,
+        7,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "iqXZf7JYso9kaDB",
+      "runId": 1265804044
+    },
+    "zQOkbUxmgz6iK9D": {
+      "name": "Sixkiller369",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        14,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "zQOkbUxmgz6iK9D",
+      "runId": 1265804044
+    },
+    "7aO5kajZEj06d84": {
+      "name": "MayMay",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 7,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        14,
+        25,
+        10,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7aO5kajZEj06d84",
+      "runId": 1265804044
+    },
+    "yX1uEUAc1Rv5lLo": {
+      "name": "Gustav",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "yX1uEUAc1Rv5lLo",
+      "runId": 1265804044
+    }
+  }
 }
