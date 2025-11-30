@@ -207,6 +207,47 @@
       "version": 2616,
       "uid": "REC2EXQvm6MqRR3",
       "runId": 1265804044
+    },
+    "L1O96R2vX7ElLKU": {
+      "name": "Macintosh",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        28,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L1O96R2vX7ElLKU",
+      "runId": 1265804044
+    },
+    "8LvUnW87474e0m2": {
+      "name": "sako.com",
+      "char": 15,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 255,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8LvUnW87474e0m2",
+      "runId": 1265804044
     }
   }
 }
