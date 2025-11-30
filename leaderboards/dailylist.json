@@ -292,6 +292,48 @@
       "version": 2616,
       "uid": "iE0J98B4jf6uEP4",
       "runId": 1265804044
+    },
+    "cFxLtsDLSDK0hnl": {
+      "name": "RukaBlood",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cFxLtsDLSDK0hnl",
+      "runId": 1265804044
+    },
+    "1s11c48vo8q6G7U": {
+      "name": "felipe",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 0,
+      "win": false,
+      "kills": 182,
+      "ultra": 0,
+      "skills": [
+        14,
+        3,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1s11c48vo8q6G7U",
+      "runId": 1265804044
     }
   }
 }
