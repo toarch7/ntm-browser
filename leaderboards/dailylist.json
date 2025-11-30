@@ -334,6 +334,69 @@
       "version": 2616,
       "uid": "1s11c48vo8q6G7U",
       "runId": 1265804044
+    },
+    "H26ZSZ4W1LY0m6K": {
+      "name": "V",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 6,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "H26ZSZ4W1LY0m6K",
+      "runId": 1265804044
+    },
+    "yBx3hX5zadHs8N7": {
+      "name": "Kaizen",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "yBx3hX5zadHs8N7",
+      "runId": 1265804044
+    },
+    "uuG618z3fKffVMh": {
+      "name": "0",
+      "char": 3,
+      "skin": true,
+      "area": 100,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 7,
+      "win": false,
+      "kills": 193,
+      "ultra": 0,
+      "skills": [
+        2,
+        4,
+        3,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uuG618z3fKffVMh",
+      "runId": 1265804044
     }
   }
 }
