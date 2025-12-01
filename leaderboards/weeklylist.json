@@ -691,6 +691,52 @@
       "version": 2616,
       "uid": "6ysiXs4D277sVGb",
       "runId": 1955945105
+    },
+    "l4GJ7wtGW6xt9E0": {
+      "name": "Seeker",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 17,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        2,
+        14
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "l4GJ7wtGW6xt9E0",
+      "runId": 1955945105
+    },
+    "27980ftxdKmg6ip": {
+      "name": "Okarun",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 112,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23,
+        12,
+        26,
+        24
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "27980ftxdKmg6ip",
+      "runId": 1955945105
     }
   }
 }
