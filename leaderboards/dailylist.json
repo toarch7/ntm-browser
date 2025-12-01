@@ -1,4 +1,127 @@
 {
   "day": 1,
-  "entries": {}
+  "entries": {
+    "6grHGD15mM3fEdH": {
+      "name": "Seeker",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 5,
+      "win": false,
+      "kills": 28,
+      "crown": 1,
+      "version": 2616,
+      "uid": "6grHGD15mM3fEdH",
+      "runId": 1968231227
+    },
+    "hf5papeu8lM6EE5": {
+      "name": "joao",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "hf5papeu8lM6EE5",
+      "runId": 1968231227
+    },
+    "i08X5ClmmEPc8ZC": {
+      "name": "Aleee",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 71,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "i08X5ClmmEPc8ZC",
+      "runId": 1968231227
+    },
+    "STX38t39jTLa71i": {
+      "name": "calama",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        1,
+        22,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "STX38t39jTLa71i",
+      "runId": 1968231227
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 11,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 25,
+      "win": false,
+      "kills": 335,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        22,
+        19,
+        1,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 1968231227
+    },
+    "r806QDLkd2yCEBU": {
+      "name": "Scrotum",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 72,
+      "win": false,
+      "kills": 169,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        22,
+        13
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "r806QDLkd2yCEBU",
+      "runId": 1968231227
+    }
+  }
 }
