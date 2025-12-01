@@ -150,13 +150,13 @@
       "name": "Seeker71",
       "char": 1,
       "skin": true,
-      "area": 4,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 13,
-      "bwep": 9,
+      "wep": 3,
+      "bwep": 63,
       "win": false,
-      "kills": 162,
+      "kills": 171,
       "ultra": 0,
       "skills": [
         2,
@@ -433,6 +433,54 @@
       "crown": 8,
       "version": 2616,
       "uid": "14aeU8O05ssfF4t",
+      "runId": 1955945105
+    },
+    "xiodTk649PRp0lS": {
+      "name": "kattsuwo",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 10,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23,
+        12
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "xiodTk649PRp0lS",
+      "runId": 1955945105
+    },
+    "4mLJlNqKa80CiPZ": {
+      "name": "Denbiii",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 90,
+      "win": false,
+      "kills": 232,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23,
+        12,
+        26,
+        24
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "4mLJlNqKa80CiPZ",
       "runId": 1955945105
     }
   }
