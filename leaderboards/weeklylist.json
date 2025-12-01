@@ -169,6 +169,54 @@
       "version": 2616,
       "uid": "T5j24pP92ziUpf7",
       "runId": 1955945105
+    },
+    "9Si5z6hQZn031Jl": {
+      "name": "Soratoba",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "9Si5z6hQZn031Jl",
+      "runId": 1955945105
+    },
+    "lVHDrt98CmlTTVy": {
+      "name": "ThunderAxe",
+      "char": 1,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 12,
+      "win": false,
+      "kills": 300,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23,
+        12,
+        26,
+        24,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "lVHDrt98CmlTTVy",
+      "runId": 1955945105
     }
   }
 }
