@@ -623,6 +623,74 @@
       "version": 2616,
       "uid": "Nw1FJukR6rpb331",
       "runId": 1955945105
+    },
+    "ujsXi2fT7x0YfHE": {
+      "name": "SpinUser",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 11,
+      "win": false,
+      "kills": 207,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23,
+        12,
+        26,
+        24
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "ujsXi2fT7x0YfHE",
+      "runId": 1955945105
+    },
+    "l565NP61pv9x08J": {
+      "name": "SantKont",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 50,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "l565NP61pv9x08J",
+      "runId": 1955945105
+    },
+    "6ysiXs4D277sVGb": {
+      "name": "detectuz",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        2,
+        14
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "6ysiXs4D277sVGb",
+      "runId": 1955945105
     }
   }
 }
