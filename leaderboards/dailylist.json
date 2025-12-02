@@ -623,6 +623,42 @@
       "version": 2616,
       "uid": "2g560IZ71YfbT57",
       "runId": 1755532300
+    },
+    "kT39F31CtrjhKCE": {
+      "name": "ICE",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "kT39F31CtrjhKCE",
+      "runId": 1755532300
+    },
+    "7e2nE464IfBt63r": {
+      "name": "Perone",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 6,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7e2nE464IfBt63r",
+      "runId": 1755532300
     }
   }
 }
