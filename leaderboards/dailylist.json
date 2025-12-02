@@ -434,6 +434,90 @@
       "version": 2616,
       "uid": "MTetK7g8YA17jvj",
       "runId": 1755532300
+    },
+    "o438IEyrl05BfJr": {
+      "name": "Haker",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        3,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "o438IEyrl05BfJr",
+      "runId": 1755532300
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 38,
+      "win": false,
+      "kills": 225,
+      "ultra": 0,
+      "skills": [
+        22,
+        19,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 1755532300
+    },
+    "aUW0T18H8x1qY2B": {
+      "name": "MalaPraxi",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 4,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        3,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aUW0T18H8x1qY2B",
+      "runId": 1755532300
+    },
+    "PJzBz3R8ybcGIqg": {
+      "name": "Ader",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "PJzBz3R8ybcGIqg",
+      "runId": 1755532300
     }
   }
 }
