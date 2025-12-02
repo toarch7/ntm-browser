@@ -370,20 +370,21 @@
       "name": "jalyna",
       "char": 1,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 11,
-      "bwep": 2,
+      "wep": 90,
+      "bwep": 23,
       "win": false,
-      "kills": 165,
+      "kills": 223,
       "ultra": 0,
       "skills": [
         2,
         14,
         23,
         12,
-        26
+        26,
+        24
       ],
       "crown": 8,
       "version": 2616,
@@ -1163,6 +1164,32 @@
       "crown": 8,
       "version": 2616,
       "uid": "a9Q2SQ2FN13Y6ax",
+      "runId": 1955945105
+    },
+    "I3eHlBTzorpGG6X": {
+      "name": "I3eHlBTzorpGG6X",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 6,
+      "win": false,
+      "kills": 273,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23,
+        12,
+        26,
+        24,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "I3eHlBTzorpGG6X",
       "runId": 1955945105
     }
   }
