@@ -254,6 +254,71 @@
       "version": 2616,
       "uid": "Ef1MW0z7A3a0c4t",
       "runId": 781917571
+    },
+    "mXUY5f2Jh803I7Z": {
+      "name": "Ichika",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        1,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mXUY5f2Jh803I7Z",
+      "runId": 781917571
+    },
+    "K97awxp38a8uXg2": {
+      "name": "Ninja_Panas",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 17,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        14,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "K97awxp38a8uXg2",
+      "runId": 781917571
+    },
+    "aBrYq2bcSKE8mTl": {
+      "name": "Scermitz",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        1,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aBrYq2bcSKE8mTl",
+      "runId": 781917571
     }
   }
 }
