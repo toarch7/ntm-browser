@@ -172,6 +172,88 @@
       "version": 2616,
       "uid": "V125N0NmHh97zfX",
       "runId": 781917571
+    },
+    "C5NK0x36H7C06FF": {
+      "name": "Соплежуй",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 2,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        24,
+        13,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "C5NK0x36H7C06FF",
+      "runId": 781917571
+    },
+    "as1aJ0zW5PS9RVo": {
+      "name": "joki",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "as1aJ0zW5PS9RVo",
+      "runId": 781917571
+    },
+    "KsFgJo2s7RkI9X2": {
+      "name": "Cristi21",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "KsFgJo2s7RkI9X2",
+      "runId": 781917571
+    },
+    "Ef1MW0z7A3a0c4t": {
+      "name": "mimic",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 11,
+      "win": false,
+      "kills": 246,
+      "ultra": 0,
+      "skills": [
+        1,
+        2,
+        7,
+        19,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ef1MW0z7A3a0c4t",
+      "runId": 781917571
     }
   }
 }
