@@ -1033,10 +1033,10 @@
       "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 112,
-      "bwep": 117,
+      "wep": 58,
+      "bwep": 9,
       "win": false,
-      "kills": 144,
+      "kills": 173,
       "ultra": 0,
       "skills": [
         2,
@@ -1584,6 +1584,51 @@
       "crown": 8,
       "version": 2616,
       "uid": "88VDBENJ8RhOuV2",
+      "runId": 1955945105
+    },
+    "cuClQz71810v24k": {
+      "name": "venuz",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 50,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "cuClQz71810v24k",
+      "runId": 1955945105
+    },
+    "r806QDLkd2yCEBU": {
+      "name": "Scrotum",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 6,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23,
+        12
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "r806QDLkd2yCEBU",
       "runId": 1955945105
     }
   }
