@@ -1630,6 +1630,54 @@
       "version": 2616,
       "uid": "r806QDLkd2yCEBU",
       "runId": 1955945105
+    },
+    "ed7KhR6ha1qiJm7": {
+      "name": "arbolverde",
+      "char": 1,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 90,
+      "bwep": 12,
+      "win": false,
+      "kills": 370,
+      "ultra": 1,
+      "skills": [
+        2,
+        14,
+        23,
+        12,
+        26,
+        24,
+        10,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "ed7KhR6ha1qiJm7",
+      "runId": 1955945105
+    },
+    "bL1Z37VY83Sg2WH": {
+      "name": "Grizzly_GOD",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 50,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        2,
+        14
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "bL1Z37VY83Sg2WH",
+      "runId": 1955945105
     }
   }
 }
