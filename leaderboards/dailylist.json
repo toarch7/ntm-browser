@@ -1,4 +1,63 @@
 {
   "day": 4,
-  "entries": {}
+  "entries": {
+    "z79E9cTd25fxK1i": {
+      "name": "peruanini",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "z79E9cTd25fxK1i",
+      "runId": 202389660
+    },
+    "i08X5ClmmEPc8ZC": {
+      "name": "Aleee",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 78,
+      "bwep": 116,
+      "win": false,
+      "kills": 169,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        7
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "i08X5ClmmEPc8ZC",
+      "runId": 202389660
+    },
+    "hf5papeu8lM6EE5": {
+      "name": "joao",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "hf5papeu8lM6EE5",
+      "runId": 202389660
+    }
+  }
 }
