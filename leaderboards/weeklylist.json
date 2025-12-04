@@ -1678,6 +1678,51 @@
       "version": 2616,
       "uid": "bL1Z37VY83Sg2WH",
       "runId": 1955945105
+    },
+    "6nmpr98eh1854a1": {
+      "name": "Anthony",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 2,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "6nmpr98eh1854a1",
+      "runId": 1955945105
+    },
+    "y62o57952jm6M96": {
+      "name": "jack",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 52,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23,
+        12
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "y62o57952jm6M96",
+      "runId": 1955945105
     }
   }
 }
