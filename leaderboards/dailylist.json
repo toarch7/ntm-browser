@@ -469,6 +469,50 @@
       "version": 2616,
       "uid": "068N233UCT2udDY",
       "runId": 202389660
+    },
+    "h0o70GpSxJbS9Dc": {
+      "name": "LowNeo",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 6,
+      "win": false,
+      "kills": 18,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h0o70GpSxJbS9Dc",
+      "runId": 202389660
+    },
+    "0U20VIG0bNnVouT": {
+      "name": "bad_boy",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 13,
+      "win": false,
+      "kills": 164,
+      "ultra": 0,
+      "skills": [
+        16,
+        1,
+        4,
+        9,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0U20VIG0bNnVouT",
+      "runId": 202389660
     }
   }
 }
