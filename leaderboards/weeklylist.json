@@ -1077,20 +1077,23 @@
       "name": "si",
       "char": 1,
       "skin": true,
-      "area": 104,
+      "area": 2,
       "subarea": 1,
-      "loops": 0,
-      "wep": 31,
-      "bwep": 33,
+      "loops": 1,
+      "wep": 115,
+      "bwep": 90,
       "win": false,
-      "kills": 174,
-      "ultra": 0,
+      "kills": 727,
+      "ultra": 1,
       "skills": [
         2,
         14,
         23,
         12,
-        26
+        26,
+        24,
+        10,
+        8
       ],
       "crown": 8,
       "version": 2616,
@@ -1467,6 +1470,29 @@
       "crown": 8,
       "version": 2616,
       "uid": "kRgwajrm9phf9s1",
+      "runId": 1955945105
+    },
+    "s4uW1CVk8c8V2w8": {
+      "name": "kazo",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 56,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23,
+        12
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "s4uW1CVk8c8V2w8",
       "runId": 1955945105
     }
   }
