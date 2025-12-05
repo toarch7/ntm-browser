@@ -730,6 +730,55 @@
       "version": 2616,
       "uid": "2g560IZ71YfbT57",
       "runId": 280897014
+    },
+    "baDwuCDZpbUhMU8": {
+      "name": "Travis",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 23,
+      "win": false,
+      "kills": 192,
+      "ultra": 0,
+      "skills": [
+        12,
+        9,
+        4,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "baDwuCDZpbUhMU8",
+      "runId": 280897014
+    },
+    "Pmdlp44MK7PdWW1": {
+      "name": "mailovelor",
+      "char": 11,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 76,
+      "win": false,
+      "kills": 368,
+      "ultra": 0,
+      "skills": [
+        21,
+        27,
+        9,
+        1,
+        7,
+        4,
+        25
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "Pmdlp44MK7PdWW1",
+      "runId": 280897014
     }
   }
 }
