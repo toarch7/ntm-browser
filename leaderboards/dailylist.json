@@ -610,6 +610,64 @@
       "version": 2616,
       "uid": "REC2EXQvm6MqRR3",
       "runId": 280897014
+    },
+    "y62o57952jm6M96": {
+      "name": "jack",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 0,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "y62o57952jm6M96",
+      "runId": 280897014
+    },
+    "xiodTk649PRp0lS": {
+      "name": "kattsuwo",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 5,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        10,
+        25,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xiodTk649PRp0lS",
+      "runId": 280897014
+    },
+    "Ef1MW0z7A3a0c4t": {
+      "name": "mimic",
+      "char": 12,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 27,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ef1MW0z7A3a0c4t",
+      "runId": 280897014
     }
   }
 }
