@@ -1,4 +1,93 @@
 {
   "day": 5,
-  "entries": {}
+  "entries": {
+    "l51LXSykUzH5A63": {
+      "name": "NOICANICULA",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "l51LXSykUzH5A63",
+      "runId": 280897014
+    },
+    "BebvNn3l9k8wbL1": {
+      "name": "yutu",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 28,
+      "bwep": 66,
+      "win": false,
+      "kills": 268,
+      "ultra": 0,
+      "skills": [
+        12,
+        27,
+        14,
+        1,
+        23,
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BebvNn3l9k8wbL1",
+      "runId": 280897014
+    },
+    "r806QDLkd2yCEBU": {
+      "name": "Scrotum",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 7,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "r806QDLkd2yCEBU",
+      "runId": 280897014
+    },
+    "JS3ai9DjUCN16h0": {
+      "name": "...",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 8,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        12,
+        9,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "JS3ai9DjUCN16h0",
+      "runId": 280897014
+    }
+  }
 }
