@@ -88,6 +88,48 @@
       "version": 2616,
       "uid": "JS3ai9DjUCN16h0",
       "runId": 280897014
+    },
+    "t70Y6t5wKe12GQ5": {
+      "name": "mbg",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 21,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "t70Y6t5wKe12GQ5",
+      "runId": 280897014
+    },
+    "i08X5ClmmEPc8ZC": {
+      "name": "Aleee",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 15,
+      "win": false,
+      "kills": 146,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "i08X5ClmmEPc8ZC",
+      "runId": 280897014
     }
   }
 }
