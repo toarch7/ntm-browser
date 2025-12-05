@@ -1054,19 +1054,22 @@
       "name": "Керзоp",
       "char": 1,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 2,
-      "bwep": 4,
+      "wep": 90,
+      "bwep": 12,
       "win": false,
-      "kills": 142,
+      "kills": 256,
       "ultra": 0,
       "skills": [
         2,
         14,
         23,
-        12
+        12,
+        26,
+        24,
+        10
       ],
       "crown": 8,
       "version": 2616,
@@ -1836,6 +1839,29 @@
       "crown": 8,
       "version": 2616,
       "uid": "q8xqShxSYCjYdF1",
+      "runId": 1955945105
+    },
+    "op1320st0RMhjrP": {
+      "name": "TheChoosenOne",
+      "char": 1,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 56,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23,
+        12
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "op1320st0RMhjrP",
       "runId": 1955945105
     }
   }
