@@ -797,6 +797,43 @@
       "version": 2616,
       "uid": "c07luZTdz4Tt34E",
       "runId": 637530893
+    },
+    "8cE2n74eN8hEDj9": {
+      "name": "elbajito001",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "8cE2n74eN8hEDj9",
+      "runId": 637530893
+    },
+    "t5sfi8BWmcobR0o": {
+      "name": "throner3000",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        27,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "t5sfi8BWmcobR0o",
+      "runId": 637530893
     }
   }
 }
