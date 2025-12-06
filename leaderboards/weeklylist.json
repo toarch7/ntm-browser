@@ -1715,19 +1715,20 @@
       "name": "jack",
       "char": 1,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 30,
-      "bwep": 52,
+      "wep": 2,
+      "bwep": 55,
       "win": false,
-      "kills": 148,
+      "kills": 151,
       "ultra": 0,
       "skills": [
         2,
         14,
         23,
-        12
+        12,
+        26
       ],
       "crown": 8,
       "version": 2616,
@@ -2192,6 +2193,28 @@
       "crown": 8,
       "version": 2616,
       "uid": "09H32Bak5brg3I2",
+      "runId": 1955945105
+    },
+    "LjqCn52ZKoIu0Ex": {
+      "name": "alexthewolf1009",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 56,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "LjqCn52ZKoIu0Ex",
       "runId": 1955945105
     }
   }
