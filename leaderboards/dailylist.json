@@ -834,6 +834,48 @@
       "version": 2616,
       "uid": "t5sfi8BWmcobR0o",
       "runId": 637530893
+    },
+    "8s0qV0Uuq2kK770": {
+      "name": "ashlan",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 21,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8s0qV0Uuq2kK770",
+      "runId": 637530893
+    },
+    "UjL3eHZK17i5H0B": {
+      "name": "Azazel",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 88,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        27,
+        23,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "UjL3eHZK17i5H0B",
+      "runId": 637530893
     }
   }
 }
