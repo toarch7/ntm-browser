@@ -538,16 +538,17 @@
       "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 10,
-      "bwep": 66,
+      "wep": 61,
+      "bwep": 13,
       "win": false,
-      "kills": 156,
+      "kills": 166,
       "ultra": 0,
       "skills": [
         2,
         14,
         23,
-        12
+        12,
+        26
       ],
       "crown": 8,
       "version": 2616,
@@ -2126,6 +2127,49 @@
       "crown": 8,
       "version": 2616,
       "uid": "lXlw6z83N4nvs89",
+      "runId": 1955945105
+    },
+    "fU8K24sYxP0SHPG": {
+      "name": "abmarkos",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 5,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "fU8K24sYxP0SHPG",
+      "runId": 1955945105
+    },
+    "HOuRYAJMpcX2FQL": {
+      "name": "Ngoen_Gus",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 88,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        2,
+        14
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "HOuRYAJMpcX2FQL",
       "runId": 1955945105
     }
   }
