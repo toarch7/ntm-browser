@@ -95,6 +95,66 @@
       "version": 2616,
       "uid": "sSZz8h3Dl38889B",
       "runId": 637530893
+    },
+    "4752OKScxkx5IxR": {
+      "name": "Saki",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": 2616,
+      "uid": "4752OKScxkx5IxR",
+      "runId": 637530893
+    },
+    "o3X7xDjuFVpHD00": {
+      "name": "Clyde",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 21,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        10,
+        4,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "o3X7xDjuFVpHD00",
+      "runId": 637530893
+    },
+    "JS3ai9DjUCN16h0": {
+      "name": "...",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 6,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        4
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "JS3ai9DjUCN16h0",
+      "runId": 637530893
     }
   }
 }
