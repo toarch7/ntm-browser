@@ -232,6 +232,73 @@
       "version": 2616,
       "uid": "4mLJlNqKa80CiPZ",
       "runId": 1173406545
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 16,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        17,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 1173406545
+    },
+    "C5NK0x36H7C06FF": {
+      "name": "Соплежуй",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 87,
+      "bwep": 22,
+      "win": false,
+      "kills": 494,
+      "ultra": 2,
+      "skills": [
+        3,
+        28,
+        25,
+        7,
+        4,
+        22,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "C5NK0x36H7C06FF",
+      "runId": 1173406545
+    },
+    "Ef1MW0z7A3a0c4t": {
+      "name": "mimic",
+      "char": 2,
+      "skin": true,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ef1MW0z7A3a0c4t",
+      "runId": 1173406545
     }
   }
 }
