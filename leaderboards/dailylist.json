@@ -124,6 +124,67 @@
       "version": 2616,
       "uid": "TvbX5np2U8A70y4",
       "runId": 1173406545
+    },
+    "r806QDLkd2yCEBU": {
+      "name": "Scrotum",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 19,
+      "win": false,
+      "kills": 27,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "r806QDLkd2yCEBU",
+      "runId": 1173406545
+    },
+    "7aO5kajZEj06d84": {
+      "name": "MayMay",
+      "char": 15,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 66,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        16,
+        25,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7aO5kajZEj06d84",
+      "runId": 1173406545
+    },
+    "K49UL7Y2H7vN6d8": {
+      "name": "Llesos190",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 6,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        3,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "K49UL7Y2H7vN6d8",
+      "runId": 1173406545
     }
   }
 }
