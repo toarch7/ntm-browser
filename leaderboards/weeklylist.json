@@ -2534,6 +2534,29 @@
       "version": 2616,
       "uid": "Y00hk9AMTG3fGn1",
       "runId": 1955945105
+    },
+    "0D16823mFg2vTrJ": {
+      "name": "Слабейший",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 4,
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23,
+        12
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "0D16823mFg2vTrJ",
+      "runId": 1955945105
     }
   }
 }
