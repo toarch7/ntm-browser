@@ -2461,6 +2461,55 @@
       "version": 2616,
       "uid": "48Hj07E8MEmLwZb",
       "runId": 1955945105
+    },
+    "t5sfi8BWmcobR0o": {
+      "name": "throner3000",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 7,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23,
+        12
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "t5sfi8BWmcobR0o",
+      "runId": 1955945105
+    },
+    "sks03jWuj1ow8X1": {
+      "name": "red",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 17,
+      "win": false,
+      "kills": 317,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23,
+        12,
+        26,
+        24,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "sks03jWuj1ow8X1",
+      "runId": 1955945105
     }
   }
 }
