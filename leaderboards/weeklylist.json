@@ -2157,17 +2157,18 @@
       "name": "Ngoen_Gus",
       "char": 1,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
-      "bwep": 88,
+      "wep": 5,
+      "bwep": 16,
       "win": false,
-      "kills": 81,
+      "kills": 97,
       "ultra": 0,
       "skills": [
         2,
-        14
+        14,
+        23
       ],
       "crown": 8,
       "version": 2616,
