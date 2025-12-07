@@ -1715,20 +1715,21 @@
       "name": "jack",
       "char": 1,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 2,
-      "bwep": 55,
+      "wep": 19,
+      "bwep": 76,
       "win": false,
-      "kills": 151,
+      "kills": 273,
       "ultra": 0,
       "skills": [
         2,
         14,
         23,
         12,
-        26
+        26,
+        24
       ],
       "crown": 8,
       "version": 2616,
@@ -2385,6 +2386,30 @@
       "crown": 8,
       "version": 2616,
       "uid": "K49UL7Y2H7vN6d8",
+      "runId": 1955945105
+    },
+    "JH213mi765J8XRe": {
+      "name": "deivi77",
+      "char": 1,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 50,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        2,
+        14,
+        23,
+        12,
+        26
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "JH213mi765J8XRe",
       "runId": 1955945105
     }
   }
