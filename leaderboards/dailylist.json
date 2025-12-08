@@ -426,6 +426,48 @@
       "version": 2616,
       "uid": "4mLJlNqKa80CiPZ",
       "runId": 959343314
+    },
+    "qgaweE0J6wW4Bk7": {
+      "name": "Peperyutte",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 5,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qgaweE0J6wW4Bk7",
+      "runId": 959343314
+    },
+    "3KOC0eS9LuVl1yx": {
+      "name": "Benji",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3KOC0eS9LuVl1yx",
+      "runId": 959343314
     }
   }
 }
