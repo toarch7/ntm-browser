@@ -696,16 +696,16 @@
       "name": "Pancrasio",
       "char": 6,
       "skin": false,
-      "area": 5,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 17,
-      "bwep": 19,
+      "wep": 10,
+      "bwep": 23,
       "win": false,
-      "kills": 72,
+      "kills": 148,
       "ultra": 0,
       "skills": [
-        4,
+        14,
         12,
         23
       ],
@@ -738,6 +738,31 @@
       "crown": 5,
       "version": 2616,
       "uid": "Vr4573V4QmKVzyC",
+      "runId": 679618477
+    },
+    "S46qz51eYBh8e2D": {
+      "name": "casa",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 88,
+      "win": false,
+      "kills": 289,
+      "ultra": 0,
+      "skills": [
+        4,
+        13,
+        23,
+        28,
+        10,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "S46qz51eYBh8e2D",
       "runId": 679618477
     }
   }
