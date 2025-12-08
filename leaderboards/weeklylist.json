@@ -1,4 +1,48 @@
 {
   "seed": 679618477,
-  "entries": {}
+  "entries": {
+    "3NBR0LO17i8h5B1": {
+      "name": "GayBreed",
+      "char": 6,
+      "skin": false,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 3,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        4,
+        13,
+        23
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "3NBR0LO17i8h5B1",
+      "runId": 679618477
+    },
+    "QIRMNkX7PBu5kJ8": {
+      "name": "Elcapi",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        6,
+        13
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "QIRMNkX7PBu5kJ8",
+      "runId": 679618477
+    }
+  }
 }
