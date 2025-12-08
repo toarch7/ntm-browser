@@ -667,6 +667,44 @@
       "version": 2616,
       "uid": "y62o57952jm6M96",
       "runId": 959343314
+    },
+    "25e0ZQ79zf144S0": {
+      "name": "tianyx",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "25e0ZQ79zf144S0",
+      "runId": 959343314
+    },
+    "1s11c48vo8q6G7U": {
+      "name": "felipe",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 69,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1s11c48vo8q6G7U",
+      "runId": 959343314
     }
   }
 }
