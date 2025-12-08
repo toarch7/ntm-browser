@@ -603,6 +603,49 @@
       "version": 2616,
       "uid": "jnAVG3Cantc8sK9",
       "runId": 959343314
+    },
+    "7aO5kajZEj06d84": {
+      "name": "MayMay",
+      "char": 15,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 61,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        10,
+        14,
+        7,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7aO5kajZEj06d84",
+      "runId": 959343314
+    },
+    "h1U1dg3Bp50iw45": {
+      "name": "Max",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h1U1dg3Bp50iw45",
+      "runId": 959343314
     }
   }
 }

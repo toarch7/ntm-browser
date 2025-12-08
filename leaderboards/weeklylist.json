@@ -534,6 +534,51 @@
       "version": 2616,
       "uid": "iE0J98B4jf6uEP4",
       "runId": 679618477
+    },
+    "R2Qt2F1WmXXT07C": {
+      "name": "Seeker3172",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 39,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        14,
+        12,
+        23
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "R2Qt2F1WmXXT07C",
+      "runId": 679618477
+    },
+    "lVHDrt98CmlTTVy": {
+      "name": "ThunderAxe",
+      "char": 6,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 57,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        14,
+        12,
+        17,
+        28
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "lVHDrt98CmlTTVy",
+      "runId": 679618477
     }
   }
 }
