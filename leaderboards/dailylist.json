@@ -133,6 +133,43 @@
       "version": 2616,
       "uid": "t6CIE85qDXrQt82",
       "runId": 959343314
+    },
+    "3Je0541CRo0C59e": {
+      "name": "Seeker9",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "3Je0541CRo0C59e",
+      "runId": 959343314
+    },
+    "bdb14YjzN3x9ECz": {
+      "name": "Rispolo",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 17,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        3,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bdb14YjzN3x9ECz",
+      "runId": 959343314
     }
   }
 }
