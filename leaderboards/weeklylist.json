@@ -1608,6 +1608,49 @@
       "version": 2616,
       "uid": "q4qc1yg2GY3l472",
       "runId": 679618477
+    },
+    "9b93cS95RuEmd7t": {
+      "name": "thronenuclear",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 2,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        6,
+        12
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "9b93cS95RuEmd7t",
+      "runId": 679618477
+    },
+    "i08X5ClmmEPc8ZC": {
+      "name": "Aleee",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 14,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        4,
+        13,
+        8
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "i08X5ClmmEPc8ZC",
+      "runId": 679618477
     }
   }
 }
