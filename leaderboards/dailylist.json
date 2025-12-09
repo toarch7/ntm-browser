@@ -359,6 +359,42 @@
       "version": 2616,
       "uid": "3KOC0eS9LuVl1yx",
       "runId": 192556949
+    },
+    "gt794K2ytkIP5tI": {
+      "name": "coolerputt",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "gt794K2ytkIP5tI",
+      "runId": 192556949
+    },
+    "l4Jde5CduPkhNGC": {
+      "name": "Orestes",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "l4Jde5CduPkhNGC",
+      "runId": 192556949
     }
   }
 }
