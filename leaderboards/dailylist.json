@@ -786,6 +786,62 @@
       "version": 2616,
       "uid": "C3k5f6K1q00GNPk",
       "runId": 192556949
+    },
+    "K421t105J2VE75p": {
+      "name": "huuuu",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "K421t105J2VE75p",
+      "runId": 192556949
+    },
+    "27R46fP11O7G7rM": {
+      "name": "Lesser2G",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 23,
+      "win": false,
+      "kills": 233,
+      "ultra": 0,
+      "skills": [
+        28,
+        1,
+        10,
+        4,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "27R46fP11O7G7rM",
+      "runId": 192556949
+    },
+    "biI8YzXN4l5Uo0d": {
+      "name": "dragon",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "biI8YzXN4l5Uo0d",
+      "runId": 192556949
     }
   }
 }
