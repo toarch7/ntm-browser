@@ -796,13 +796,12 @@
       "area": 3,
       "subarea": 3,
       "loops": 0,
-      "wep": 6,
-      "bwep": 8,
+      "wep": 66,
+      "bwep": 16,
       "win": false,
-      "kills": 144,
+      "kills": 148,
       "ultra": 0,
       "skills": [
-        4,
         13,
         23,
         21
@@ -1148,6 +1147,68 @@
       "crown": 5,
       "version": 2616,
       "uid": "pg83m5BN5fdCK9J",
+      "runId": 679618477
+    },
+    "92K0UP3LqVBzF64": {
+      "name": "See",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        14,
+        12
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "92K0UP3LqVBzF64",
+      "runId": 679618477
+    },
+    "M5IDi1f2509a2ja": {
+      "name": "alpino",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 50,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "M5IDi1f2509a2ja",
+      "runId": 679618477
+    },
+    "x94s4zTFUJ95zbk": {
+      "name": "Meme",
+      "char": 6,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 38,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        14,
+        13
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "x94s4zTFUJ95zbk",
       "runId": 679618477
     }
   }
