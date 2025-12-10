@@ -1353,19 +1353,20 @@
       "char": 6,
       "skin": false,
       "area": 5,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 14,
-      "bwep": 70,
+      "wep": 89,
+      "bwep": 11,
       "win": false,
-      "kills": 195,
+      "kills": 241,
       "ultra": 0,
       "skills": [
         4,
         12,
         8,
-        17,
-        1
+        13,
+        1,
+        2
       ],
       "crown": 5,
       "version": 2616,
@@ -2178,6 +2179,27 @@
       "crown": 5,
       "version": 2616,
       "uid": "PKF78LZn00s7jaF",
+      "runId": 679618477
+    },
+    "0mHoqGuWHIt8ZqT": {
+      "name": "flupi",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 13,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        14,
+        12
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "0mHoqGuWHIt8ZqT",
       "runId": 679618477
     }
   }
