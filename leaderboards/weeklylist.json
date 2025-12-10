@@ -883,17 +883,17 @@
       "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 57,
-      "bwep": 11,
+      "wep": 24,
+      "bwep": 66,
       "win": false,
-      "kills": 163,
+      "kills": 197,
       "ultra": 0,
       "skills": [
         4,
         28,
-        23,
-        21,
-        6
+        17,
+        8,
+        13
       ],
       "crown": 5,
       "version": 2616,
@@ -2132,6 +2132,52 @@
       "crown": 5,
       "version": 2616,
       "uid": "A7x6zCS0f536LQT",
+      "runId": 679618477
+    },
+    "m1gj3COA7FAXCc8": {
+      "name": "Manell",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 38,
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        4,
+        13,
+        24,
+        12
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "m1gj3COA7FAXCc8",
+      "runId": 679618477
+    },
+    "PKF78LZn00s7jaF": {
+      "name": "Nobboy",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 116,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        4,
+        13,
+        23,
+        8
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "PKF78LZn00s7jaF",
       "runId": 679618477
     }
   }
