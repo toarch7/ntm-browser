@@ -2019,6 +2019,51 @@
       "version": 2616,
       "uid": "zNP5HcR3f51wTv9",
       "runId": 679618477
+    },
+    "14aeU8O05ssfF4t": {
+      "name": "ZeKnight",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 3,
+      "win": false,
+      "kills": 142,
+      "ultra": 0,
+      "skills": [
+        4,
+        13,
+        23,
+        8
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "14aeU8O05ssfF4t",
+      "runId": 679618477
+    },
+    "tOnwpShSTDSvSfr": {
+      "name": "бю",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 39,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        14,
+        28,
+        17
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "tOnwpShSTDSvSfr",
+      "runId": 679618477
     }
   }
 }
