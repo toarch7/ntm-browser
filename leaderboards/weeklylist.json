@@ -1913,16 +1913,17 @@
       "char": 6,
       "skin": false,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 88,
-      "bwep": 5,
+      "wep": 75,
+      "bwep": 50,
       "win": false,
-      "kills": 79,
+      "kills": 146,
       "ultra": 0,
       "skills": [
         13,
-        23
+        23,
+        8
       ],
       "crown": 5,
       "version": 2616,
@@ -1972,6 +1973,51 @@
       "crown": 5,
       "version": 2616,
       "uid": "4oVhG2X6obMM49M",
+      "runId": 679618477
+    },
+    "4hips8OPVM0Fkf6": {
+      "name": "Chente",
+      "char": 6,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 38,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        4,
+        28,
+        23,
+        8
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "4hips8OPVM0Fkf6",
+      "runId": 679618477
+    },
+    "zNP5HcR3f51wTv9": {
+      "name": "Cassettuu",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 50,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        4,
+        12,
+        23
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "zNP5HcR3f51wTv9",
       "runId": 679618477
     }
   }

@@ -643,6 +643,70 @@
       "version": 2616,
       "uid": "1xl3T6w9aQ909Rn",
       "runId": 861643226
+    },
+    "aS2dL4qg1tr7C88": {
+      "name": "Lpknight",
+      "char": 3,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 2,
+      "win": false,
+      "kills": 230,
+      "ultra": 0,
+      "skills": [
+        14,
+        6,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aS2dL4qg1tr7C88",
+      "runId": 861643226
+    },
+    "on0dAvWkAy8R69v": {
+      "name": "groom1Fox",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "on0dAvWkAy8R69v",
+      "runId": 861643226
+    },
+    "1s11c48vo8q6G7U": {
+      "name": "felipe",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        14,
+        8,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1s11c48vo8q6G7U",
+      "runId": 861643226
     }
   }
 }
