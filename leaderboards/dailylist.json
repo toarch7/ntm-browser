@@ -102,6 +102,88 @@
       "version": 2616,
       "uid": "J1310A51338h9Tx",
       "runId": 861643226
+    },
+    "g909sJVvz2u4FXz": {
+      "name": "8bits",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 27,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g909sJVvz2u4FXz",
+      "runId": 861643226
+    },
+    "7aO5kajZEj06d84": {
+      "name": "MayMay",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "7aO5kajZEj06d84",
+      "runId": 861643226
+    },
+    "r806QDLkd2yCEBU": {
+      "name": "Scrotum",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 7,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        14,
+        8,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "r806QDLkd2yCEBU",
+      "runId": 861643226
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 11,
+      "skin": false,
+      "area": 100,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 9,
+      "win": false,
+      "kills": 289,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        7,
+        22,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 861643226
     }
   }
 }
