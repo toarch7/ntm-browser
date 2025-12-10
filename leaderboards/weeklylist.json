@@ -2070,17 +2070,17 @@
       "char": 6,
       "skin": false,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 5,
-      "bwep": 7,
+      "wep": 38,
+      "bwep": 75,
       "win": false,
-      "kills": 96,
+      "kills": 140,
       "ultra": 0,
       "skills": [
-        4,
-        28,
-        17
+        13,
+        17,
+        12
       ],
       "crown": 5,
       "version": 2616,
@@ -2109,6 +2109,29 @@
       "crown": 5,
       "version": 2616,
       "uid": "On760Ap2i5JZZXo",
+      "runId": 679618477
+    },
+    "A7x6zCS0f536LQT": {
+      "name": "cochoroco",
+      "char": 6,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 69,
+      "win": false,
+      "kills": 165,
+      "ultra": 0,
+      "skills": [
+        13,
+        23,
+        28,
+        10
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "A7x6zCS0f536LQT",
       "runId": 679618477
     }
   }
