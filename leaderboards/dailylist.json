@@ -907,6 +907,42 @@
       "version": 2616,
       "uid": "mfsHfnJy66KRYM4",
       "runId": 636186552
+    },
+    "00zAg1lhco3H59J": {
+      "name": "muxamaca",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 19,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "00zAg1lhco3H59J",
+      "runId": 636186552
+    },
+    "aHoONOIT93F9OuA": {
+      "name": "hyper",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "aHoONOIT93F9OuA",
+      "runId": 636186552
     }
   }
 }
