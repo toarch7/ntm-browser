@@ -429,6 +429,67 @@
       "version": 2616,
       "uid": "hf5papeu8lM6EE5",
       "runId": 636186552
+    },
+    "cEw77y1OV7beq9j": {
+      "name": "Kionix",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 12,
+      "win": false,
+      "kills": 236,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        10,
+        12,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cEw77y1OV7beq9j",
+      "runId": 636186552
+    },
+    "3ZZLi482uXeQYdm": {
+      "name": "RomelMg",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 51,
+      "crown": 1,
+      "version": 2616,
+      "uid": "3ZZLi482uXeQYdm",
+      "runId": 636186552
+    },
+    "vG4kGlH48C5RWD1": {
+      "name": "elias",
+      "char": 4,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        4,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "vG4kGlH48C5RWD1",
+      "runId": 636186552
     }
   }
 }
