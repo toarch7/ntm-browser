@@ -2347,19 +2347,21 @@
       "name": "Seeker9090",
       "char": 6,
       "skin": false,
-      "area": 3,
-      "subarea": 3,
+      "area": 6,
+      "subarea": 1,
       "loops": 0,
       "wep": 88,
-      "bwep": 9,
+      "bwep": 35,
       "win": false,
-      "kills": 172,
+      "kills": 311,
       "ultra": 0,
       "skills": [
         4,
-        28,
+        13,
         23,
-        13
+        8,
+        17,
+        1
       ],
       "crown": 5,
       "version": 2616,
@@ -2673,6 +2675,27 @@
       "crown": 5,
       "version": 2616,
       "uid": "VSuqlT41zrR5N4u",
+      "runId": 679618477
+    },
+    "3waGc5vN0rewwIJ": {
+      "name": "Zahar",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        4,
+        28
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "3waGc5vN0rewwIJ",
       "runId": 679618477
     }
   }
