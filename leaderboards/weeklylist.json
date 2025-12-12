@@ -2830,6 +2830,48 @@
       "version": 2616,
       "uid": "kKaMVFhEScs02XN",
       "runId": 679618477
+    },
+    "om77m2nE955625d": {
+      "name": "BANKAI",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 27,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        4,
+        28
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "om77m2nE955625d",
+      "runId": 679618477
+    },
+    "O699X6IM95jpfNG": {
+      "name": "SPIDER",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 39,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        4,
+        13
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "O699X6IM95jpfNG",
+      "runId": 679618477
     }
   }
 }
