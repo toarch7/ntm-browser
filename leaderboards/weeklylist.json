@@ -1988,15 +1988,14 @@
       "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 55,
-      "bwep": 38,
+      "wep": 24,
+      "bwep": 3,
       "win": false,
-      "kills": 151,
+      "kills": 157,
       "ultra": 0,
       "skills": [
         4,
-        28,
-        23,
+        13,
         8
       ],
       "crown": 5,
@@ -2564,6 +2563,26 @@
       "crown": 5,
       "version": 2616,
       "uid": "a18e84pZIHqXh1L",
+      "runId": 679618477
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
       "runId": 679618477
     }
   }
