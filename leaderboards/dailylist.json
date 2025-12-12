@@ -415,6 +415,46 @@
       "version": 2616,
       "uid": "VSuqlT41zrR5N4u",
       "runId": 357458066
+    },
+    "baDwuCDZpbUhMU8": {
+      "name": "Travis",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 30,
+      "crown": 1,
+      "version": 2616,
+      "uid": "baDwuCDZpbUhMU8",
+      "runId": 357458066
+    },
+    "1s11c48vo8q6G7U": {
+      "name": "felipe",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 65,
+      "win": false,
+      "kills": 238,
+      "ultra": 0,
+      "skills": [
+        1,
+        3,
+        2,
+        14,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1s11c48vo8q6G7U",
+      "runId": 357458066
     }
   }
 }
