@@ -2660,17 +2660,18 @@
       "name": "commi25",
       "char": 6,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
-      "bwep": 7,
+      "wep": 27,
+      "bwep": 5,
       "win": false,
-      "kills": 70,
+      "kills": 115,
       "ultra": 0,
       "skills": [
         14,
-        12
+        12,
+        17
       ],
       "crown": 5,
       "version": 2616,
@@ -2717,6 +2718,50 @@
       "crown": 5,
       "version": 2616,
       "uid": "dygIU98j7bNLB49",
+      "runId": 679618477
+    },
+    "fe8w78XS4N6FJvm": {
+      "name": "insano3D_XD",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 116,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        14,
+        12,
+        24,
+        28
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "fe8w78XS4N6FJvm",
+      "runId": 679618477
+    },
+    "9P7nth3X24c4X51": {
+      "name": "Seeker7ميمي",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 2,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        14,
+        13
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "9P7nth3X24c4X51",
       "runId": 679618477
     }
   }
