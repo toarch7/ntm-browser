@@ -1315,16 +1315,18 @@
       "char": 6,
       "skin": false,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 13,
-      "bwep": 2,
+      "wep": 76,
+      "bwep": 66,
       "win": false,
-      "kills": 97,
+      "kills": 156,
       "ultra": 0,
       "skills": [
         14,
-        12
+        12,
+        23,
+        8
       ],
       "crown": 5,
       "version": 2616,
@@ -3084,6 +3086,28 @@
       "crown": 5,
       "version": 2616,
       "uid": "w41VsMfoWgjkim8",
+      "runId": 679618477
+    },
+    "td3n2G1khzo89Ml": {
+      "name": "Heits",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 13,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        14,
+        12,
+        23
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "td3n2G1khzo89Ml",
       "runId": 679618477
     }
   }
