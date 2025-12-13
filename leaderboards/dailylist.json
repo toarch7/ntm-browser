@@ -703,6 +703,49 @@
       "version": 2616,
       "uid": "4zw06X5t8y0GxJD",
       "runId": 450814657
+    },
+    "LYWu4r0IhbqHV40": {
+      "name": "Fursquerade448",
+      "char": 6,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 25,
+      "bwep": 83,
+      "win": false,
+      "kills": 360,
+      "ultra": 0,
+      "skills": [
+        23,
+        4,
+        1,
+        8,
+        13,
+        25,
+        3,
+        17
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "LYWu4r0IhbqHV40",
+      "runId": 450814657
+    },
+    "ZuHfeH97xOY6jK1": {
+      "name": "ammonita",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "ZuHfeH97xOY6jK1",
+      "runId": 450814657
     }
   }
 }
