@@ -161,6 +161,58 @@
       "version": 2616,
       "uid": "r806QDLkd2yCEBU",
       "runId": 450814657
+    },
+    "504sL66nmxK137s": {
+      "name": "Bullseye",
+      "char": 14,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 56,
+      "bwep": 0,
+      "win": false,
+      "kills": 20,
+      "crown": 1,
+      "version": 2616,
+      "uid": "504sL66nmxK137s",
+      "runId": 450814657
+    },
+    "H7I7XB81X1Bs7F2": {
+      "name": "Quee",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 27,
+      "win": false,
+      "kills": 27,
+      "crown": 1,
+      "version": 2616,
+      "uid": "H7I7XB81X1Bs7F2",
+      "runId": 450814657
+    },
+    "Rqg7II9Bi1vpuav": {
+      "name": "Individ",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 21,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Rqg7II9Bi1vpuav",
+      "runId": 450814657
     }
   }
 }
