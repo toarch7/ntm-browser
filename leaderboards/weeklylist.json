@@ -818,16 +818,17 @@
       "name": "m4kr",
       "char": 6,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 13,
-      "bwep": 39,
+      "wep": 71,
+      "bwep": 11,
       "win": false,
-      "kills": 57,
+      "kills": 99,
       "ultra": 0,
       "skills": [
-        13
+        28,
+        9
       ],
       "crown": 5,
       "version": 2616,
@@ -2984,6 +2985,29 @@
       "crown": 5,
       "version": 2616,
       "uid": "sJmRM0v54iB9ouc",
+      "runId": 679618477
+    },
+    "7aO5kajZEj06d84": {
+      "name": "MayMay",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 31,
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        14,
+        13,
+        17,
+        8
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "7aO5kajZEj06d84",
       "runId": 679618477
     }
   }

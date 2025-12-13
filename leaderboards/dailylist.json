@@ -1,4 +1,61 @@
 {
   "day": 13,
-  "entries": {}
+  "entries": {
+    "7aO5kajZEj06d84": {
+      "name": "MayMay",
+      "char": 15,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 27,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7aO5kajZEj06d84",
+      "runId": 450814657
+    },
+    "3KOC0eS9LuVl1yx": {
+      "name": "Benji",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "3KOC0eS9LuVl1yx",
+      "runId": 450814657
+    },
+    "L8Sp5gBghvG1HBZ": {
+      "name": "holaXD",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 0,
+      "win": false,
+      "kills": 27,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L8Sp5gBghvG1HBZ",
+      "runId": 450814657
+    }
+  }
 }
