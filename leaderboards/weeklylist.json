@@ -1507,17 +1507,18 @@
       "name": "yutu",
       "char": 6,
       "skin": false,
-      "area": 2,
+      "area": 102,
       "subarea": 1,
       "loops": 0,
-      "wep": 19,
-      "bwep": 5,
+      "wep": 38,
+      "bwep": 66,
       "win": false,
-      "kills": 65,
+      "kills": 78,
       "ultra": 0,
       "skills": [
         6,
-        13
+        28,
+        23
       ],
       "crown": 5,
       "version": 2616,
@@ -3732,6 +3733,29 @@
       "crown": 5,
       "version": 2616,
       "uid": "8f414vK3DxYOVUd",
+      "runId": 679618477
+    },
+    "MHC1lZEEd9KbN24": {
+      "name": "анлрей",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 7,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        14,
+        13,
+        23,
+        8
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "MHC1lZEEd9KbN24",
       "runId": 679618477
     }
   }
