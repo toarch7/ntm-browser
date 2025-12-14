@@ -3581,20 +3581,42 @@
       "name": "QinShiHuang",
       "char": 6,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 7,
-      "bwep": 2,
+      "wep": 13,
+      "bwep": 4,
       "win": false,
-      "kills": 72,
+      "kills": 90,
       "ultra": 0,
       "skills": [
-        24
+        13
       ],
       "crown": 5,
       "version": 2616,
       "uid": "P12YMxu2hGIOJFd",
+      "runId": 679618477
+    },
+    "Ln17Fjt5DIsUe0I": {
+      "name": "JKM_BIJIX",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 19,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        14,
+        12,
+        23
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "Ln17Fjt5DIsUe0I",
       "runId": 679618477
     }
   }
