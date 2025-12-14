@@ -952,6 +952,52 @@
       "version": 2616,
       "uid": "3qJEjxNgl4gf6i8",
       "runId": 200339783
+    },
+    "uuG618z3fKffVMh": {
+      "name": "0",
+      "char": 3,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 11,
+      "win": false,
+      "kills": 368,
+      "ultra": 0,
+      "skills": [
+        7,
+        10,
+        14,
+        22,
+        3,
+        17,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uuG618z3fKffVMh",
+      "runId": 200339783
+    },
+    "8QO50FRWUed33YK": {
+      "name": "leandro",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8QO50FRWUed33YK",
+      "runId": 200339783
     }
   }
 }
