@@ -723,22 +723,22 @@
       "name": "Rolando_1234(+)",
       "char": 6,
       "skin": false,
-      "area": 7,
-      "subarea": 2,
-      "loops": 0,
-      "wep": 77,
-      "bwep": 35,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 93,
+      "bwep": 74,
       "win": false,
-      "kills": 407,
-      "ultra": 0,
+      "kills": 777,
+      "ultra": 1,
       "skills": [
-        6,
-        28,
+        4,
+        13,
         23,
         8,
         10,
         1,
-        2
+        22
       ],
       "crown": 5,
       "version": 2616,
@@ -3640,6 +3640,28 @@
       "crown": 5,
       "version": 2616,
       "uid": "43QAEjcSg6AFqUS",
+      "runId": 679618477
+    },
+    "nrP8433Nq947YjJ": {
+      "name": "Jesus.0711",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 5,
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        4,
+        13,
+        8
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "nrP8433Nq947YjJ",
       "runId": 679618477
     }
   }
