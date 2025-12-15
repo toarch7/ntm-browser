@@ -1,4 +1,139 @@
 {
   "seed": 155720061,
-  "entries": {}
+  "entries": {
+    "4mLJlNqKa80CiPZ": {
+      "name": "Denbiii",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 90,
+      "win": false,
+      "kills": 279,
+      "ultra": 0,
+      "skills": [
+        14,
+        3,
+        12,
+        8
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "4mLJlNqKa80CiPZ",
+      "runId": 155720061
+    },
+    "3KOC0eS9LuVl1yx": {
+      "name": "Benji",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 13,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        27,
+        6
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "3KOC0eS9LuVl1yx",
+      "runId": 155720061
+    },
+    "a18e84pZIHqXh1L": {
+      "name": "yoel",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 104,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        27,
+        6
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "a18e84pZIHqXh1L",
+      "runId": 155720061
+    },
+    "BebvNn3l9k8wbL1": {
+      "name": "yutu",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 35,
+      "win": false,
+      "kills": 213,
+      "ultra": 0,
+      "skills": [
+        13,
+        8,
+        17
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "BebvNn3l9k8wbL1",
+      "runId": 155720061
+    },
+    "nZ6cUyVRGHPDY90": {
+      "name": "hola",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 13,
+      "win": false,
+      "kills": 192,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        13,
+        8,
+        12,
+        2,
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "nZ6cUyVRGHPDY90",
+      "runId": 155720061
+    },
+    "V125N0NmHh97zfX": {
+      "name": "Raaaa",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 104,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        27,
+        3
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "V125N0NmHh97zfX",
+      "runId": 155720061
+    }
+  }
 }

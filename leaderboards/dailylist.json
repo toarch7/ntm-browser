@@ -1,4 +1,153 @@
 {
   "day": 15,
-  "entries": {}
+  "entries": {
+    "3KOC0eS9LuVl1yx": {
+      "name": "Benji",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 12,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3KOC0eS9LuVl1yx",
+      "runId": 151761584
+    },
+    "wY4Jt9S3eF5v11N": {
+      "name": "Bullshit",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "wY4Jt9S3eF5v11N",
+      "runId": 151761584
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 17,
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        4,
+        19,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 151761584
+    },
+    "DcNbQ7620551Wp3": {
+      "name": "Alicebell",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 88,
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        4,
+        12,
+        7,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "DcNbQ7620551Wp3",
+      "runId": 151761584
+    },
+    "1s11c48vo8q6G7U": {
+      "name": "felipe",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 75,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        27,
+        28,
+        1,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1s11c48vo8q6G7U",
+      "runId": 151761584
+    },
+    "2Z73j46SWj6EG6t": {
+      "name": "ok",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        4,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2Z73j46SWj6EG6t",
+      "runId": 151761584
+    },
+    "V125N0NmHh97zfX": {
+      "name": "Raaaa",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 16,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        27,
+        28,
+        1,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "V125N0NmHh97zfX",
+      "runId": 151761584
+    }
+  }
 }
