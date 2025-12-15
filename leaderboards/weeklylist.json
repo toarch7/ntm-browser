@@ -196,6 +196,54 @@
       "version": 2616,
       "uid": "3NBR0LO17i8h5B1",
       "runId": 155720061
+    },
+    "504sL66nmxK137s": {
+      "name": "Bullseye",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 24,
+      "win": false,
+      "kills": 244,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        8,
+        25,
+        4,
+        13,
+        17
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "504sL66nmxK137s",
+      "runId": 155720061
+    },
+    "Rqg7II9Bi1vpuav": {
+      "name": "Individ",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 5,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        8
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "Rqg7II9Bi1vpuav",
+      "runId": 155720061
     }
   }
 }
