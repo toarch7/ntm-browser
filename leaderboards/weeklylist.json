@@ -28,17 +28,19 @@
       "name": "Benji",
       "char": 4,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 6,
-      "bwep": 13,
+      "wep": 26,
+      "bwep": 11,
       "win": false,
-      "kills": 63,
+      "kills": 271,
       "ultra": 0,
       "skills": [
-        27,
-        6
+        14,
+        3,
+        12,
+        8
       ],
       "crown": 13,
       "version": 2616,
@@ -440,6 +442,45 @@
       "crown": 13,
       "version": 2616,
       "uid": "4hips8OPVM0Fkf6",
+      "runId": 155720061
+    },
+    "l565NP61pv9x08J": {
+      "name": "SantKont",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 13,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        6,
+        13
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "l565NP61pv9x08J",
+      "runId": 155720061
+    },
+    "SAce9Ti5I43ln7R": {
+      "name": "Laika",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 27,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [],
+      "crown": 13,
+      "version": 2616,
+      "uid": "SAce9Ti5I43ln7R",
       "runId": 155720061
     }
   }
