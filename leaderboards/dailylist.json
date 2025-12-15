@@ -215,6 +215,97 @@
       "version": 2616,
       "uid": "i08X5ClmmEPc8ZC",
       "runId": 151761584
+    },
+    "SAce9Ti5I43ln7R": {
+      "name": "Laika",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "SAce9Ti5I43ln7R",
+      "runId": 151761584
+    },
+    "CJFZrx92TpMf6T1": {
+      "name": "zoyagra",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 116,
+      "win": false,
+      "kills": 253,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        10,
+        7,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CJFZrx92TpMf6T1",
+      "runId": 151761584
+    },
+    "pH6jSZRtBbGFjs0": {
+      "name": "ультрапердун402",
+      "char": 3,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 23,
+      "bwep": 62,
+      "win": false,
+      "kills": 323,
+      "ultra": 0,
+      "skills": [
+        27,
+        19,
+        1,
+        10,
+        12,
+        4,
+        25
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "pH6jSZRtBbGFjs0",
+      "runId": 151761584
+    },
+    "r806QDLkd2yCEBU": {
+      "name": "Scrotum",
+      "char": 3,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 18,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        4,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "r806QDLkd2yCEBU",
+      "runId": 151761584
     }
   }
 }
