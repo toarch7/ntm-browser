@@ -1,4 +1,92 @@
 {
   "day": 16,
-  "entries": {}
+  "entries": {
+    "BebvNn3l9k8wbL1": {
+      "name": "yutu",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 12,
+      "bwep": 25,
+      "win": false,
+      "kills": 430,
+      "ultra": 1,
+      "skills": [
+        4,
+        8,
+        23,
+        1,
+        9,
+        21,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BebvNn3l9k8wbL1",
+      "runId": 115335083
+    },
+    "c6WclW3k22L6Q0M": {
+      "name": "vippeeee",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 0,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "c6WclW3k22L6Q0M",
+      "runId": 115335083
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 11,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 20,
+      "win": false,
+      "kills": 253,
+      "ultra": 0,
+      "skills": [
+        4,
+        22,
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 115335083
+    },
+    "oVHR4MU8y0T9CVt": {
+      "name": "GABORRSSS",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 21,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        10,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oVHR4MU8y0T9CVt",
+      "runId": 115335083
+    }
+  }
 }
