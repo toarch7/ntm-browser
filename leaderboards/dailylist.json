@@ -278,6 +278,71 @@
       "version": 2616,
       "uid": "X9x7IHm0nNg6Rtk",
       "runId": 115335083
+    },
+    "L1O96R2vX7ElLKU": {
+      "name": "Macintosh",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 0,
+      "win": false,
+      "kills": 264,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        8,
+        23,
+        28,
+        9
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "L1O96R2vX7ElLKU",
+      "runId": 115335083
+    },
+    "sXG40e6iP5grG0C": {
+      "name": "schoolbadNTgood",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 19,
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sXG40e6iP5grG0C",
+      "runId": 115335083
+    },
+    "t7RB2C6gJ9Y95kW": {
+      "name": "zymxc",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "t7RB2C6gJ9Y95kW",
+      "runId": 115335083
     }
   }
 }
