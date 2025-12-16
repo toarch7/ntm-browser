@@ -996,6 +996,28 @@
       "version": 2616,
       "uid": "504sL66nmxK137s",
       "runId": 115335083
+    },
+    "TJfjdn1weDhYO4X": {
+      "name": "Seeker7",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 23,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        2,
+        4,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "TJfjdn1weDhYO4X",
+      "runId": 115335083
     }
   }
 }
