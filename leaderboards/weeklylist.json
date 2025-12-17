@@ -975,16 +975,19 @@
       "name": "Grizzly_GOD",
       "char": 4,
       "skin": false,
-      "area": 102,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 3,
-      "bwep": 7,
+      "wep": 89,
+      "bwep": 24,
       "win": false,
-      "kills": 82,
+      "kills": 160,
       "ultra": 0,
       "skills": [
-        6
+        13,
+        8,
+        25,
+        17
       ],
       "crown": 13,
       "version": 2616,
@@ -1261,6 +1264,47 @@
       "crown": 13,
       "version": 2616,
       "uid": "eRUeP1CVVSZUhh1",
+      "runId": 155720061
+    },
+    "RcsS802quD6ALO2": {
+      "name": "LEN2905",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 17,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "RcsS802quD6ALO2",
+      "runId": 155720061
+    },
+    "40z5Xi3T0O441Zq": {
+      "name": "Seeker90₽",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 104,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        13,
+        14
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "40z5Xi3T0O441Zq",
       "runId": 155720061
     }
   }
