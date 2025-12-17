@@ -1071,6 +1071,42 @@
       "version": 2616,
       "uid": "4mLJlNqKa80CiPZ",
       "runId": 640154459
+    },
+    "09LQ5fPcD017oQS": {
+      "name": "stupidguy",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 18,
+      "crown": 1,
+      "version": 2616,
+      "uid": "09LQ5fPcD017oQS",
+      "runId": 640154459
+    },
+    "VR0OlY27ige89Pg": {
+      "name": "negro",
+      "char": 11,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 71,
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "VR0OlY27ige89Pg",
+      "runId": 640154459
     }
   }
 }
