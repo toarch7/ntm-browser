@@ -537,12 +537,14 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 13,
-      "bwep": 104,
+      "wep": 104,
+      "bwep": 3,
       "win": false,
-      "kills": 52,
+      "kills": 54,
       "ultra": 0,
-      "skills": [],
+      "skills": [
+        13
+      ],
       "crown": 13,
       "version": 2616,
       "uid": "q8xqShxSYCjYdF1",
