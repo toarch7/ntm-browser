@@ -314,6 +314,49 @@
       "version": 2616,
       "uid": "Rqg7II9Bi1vpuav",
       "runId": 640154459
+    },
+    "T5j24pP92ziUpf7": {
+      "name": "Seeker71",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 71,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        25,
+        12,
+        3,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "T5j24pP92ziUpf7",
+      "runId": 640154459
+    },
+    "h1U1dg3Bp50iw45": {
+      "name": "Max",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 18,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h1U1dg3Bp50iw45",
+      "runId": 640154459
     }
   }
 }
