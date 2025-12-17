@@ -1019,18 +1019,20 @@
       "name": "Lesser2G",
       "char": 4,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 13,
-      "bwep": 5,
+      "wep": 89,
+      "bwep": 13,
       "win": false,
-      "kills": 73,
+      "kills": 201,
       "ultra": 0,
       "skills": [
         27,
         3,
-        13
+        13,
+        8,
+        1
       ],
       "crown": 13,
       "version": 2616,
@@ -1060,6 +1062,48 @@
       "crown": 13,
       "version": 2616,
       "uid": "OG6oUWfDQdLREP4",
+      "runId": 155720061
+    },
+    "dOB1HE8Zg9wOayg": {
+      "name": "f1nn_the_human_",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 13,
+      "win": false,
+      "kills": 154,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        14
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "dOB1HE8Zg9wOayg",
+      "runId": 155720061
+    },
+    "ed7KhR6ha1qiJm7": {
+      "name": "arbolverde",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 31,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "ed7KhR6ha1qiJm7",
       "runId": 155720061
     }
   }
