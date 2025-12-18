@@ -539,16 +539,17 @@
       "name": "m4kr",
       "char": 4,
       "skin": false,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 104,
-      "bwep": 3,
+      "wep": 31,
+      "bwep": 13,
       "win": false,
-      "kills": 54,
+      "kills": 113,
       "ultra": 0,
       "skills": [
-        13
+        9,
+        8
       ],
       "crown": 13,
       "version": 2616,
@@ -1466,6 +1467,29 @@
       "crown": 13,
       "version": 2616,
       "uid": "hz58VVhCFgTYtLG",
+      "runId": 155720061
+    },
+    "3v99pj72QK4yFu2": {
+      "name": "Fraxel45",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 8,
+      "win": false,
+      "kills": 207,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        14,
+        12
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "3v99pj72QK4yFu2",
       "runId": 155720061
     }
   }

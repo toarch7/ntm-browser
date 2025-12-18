@@ -584,6 +584,76 @@
       "version": 2616,
       "uid": "MPL1m9U98j2r07t",
       "runId": 1363902435
+    },
+    "s5PTi1C5N52APyY": {
+      "name": "Marcusanchez",
+      "char": 4,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 33,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        4,
+        28
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "s5PTi1C5N52APyY",
+      "runId": 1363902435
+    },
+    "851NgyuXK2hj35S": {
+      "name": "fisting",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 16,
+      "win": false,
+      "kills": 106,
+      "ultra": 0,
+      "skills": [
+        27,
+        10,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "851NgyuXK2hj35S",
+      "runId": 1363902435
+    },
+    "u1ofC7CR28Ip125": {
+      "name": "jalyna",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 11,
+      "win": false,
+      "kills": 325,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        4,
+        8,
+        14,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "u1ofC7CR28Ip125",
+      "runId": 1363902435
     }
   }
 }
