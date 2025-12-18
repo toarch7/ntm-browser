@@ -776,11 +776,14 @@
       "subarea": 1,
       "loops": 0,
       "wep": 6,
-      "bwep": 5,
+      "bwep": 17,
       "win": false,
-      "kills": 58,
+      "kills": 76,
       "ultra": 0,
-      "skills": [],
+      "skills": [
+        27,
+        6
+      ],
       "crown": 13,
       "version": 2616,
       "uid": "QNtPpG6N09cxi9r",
