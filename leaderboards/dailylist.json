@@ -768,6 +768,55 @@
       "version": 2616,
       "uid": "4mLJlNqKa80CiPZ",
       "runId": 1363902435
+    },
+    "baDwuCDZpbUhMU8": {
+      "name": "Travis",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 71,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        4,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "baDwuCDZpbUhMU8",
+      "runId": 1363902435
+    },
+    "RwSmFhfr4aUyjy4": {
+      "name": "hollowknight616",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 106,
+      "bwep": 12,
+      "win": false,
+      "kills": 320,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        4,
+        8,
+        14,
+        6,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
+      "runId": 1363902435
     }
   }
 }
