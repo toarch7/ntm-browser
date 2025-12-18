@@ -1535,6 +1535,27 @@
       "version": 2616,
       "uid": "Sz0tL6tBQbGOFlW",
       "runId": 155720061
+    },
+    "6grHGD15mM3fEdH": {
+      "name": "Seeker",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 104,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        23,
+        6
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "6grHGD15mM3fEdH",
+      "runId": 155720061
     }
   }
 }
