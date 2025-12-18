@@ -165,13 +165,11 @@
       "subarea": 1,
       "loops": 0,
       "wep": 13,
-      "bwep": 7,
+      "bwep": 104,
       "win": false,
-      "kills": 58,
+      "kills": 66,
       "ultra": 0,
-      "skills": [
-        13
-      ],
+      "skills": [],
       "crown": 13,
       "version": 2616,
       "uid": "r806QDLkd2yCEBU",
@@ -1359,6 +1357,31 @@
       "crown": 13,
       "version": 2616,
       "uid": "UdVFduPKTKPQPSz",
+      "runId": 155720061
+    },
+    "eor1gAGK7ad8C2C": {
+      "name": "FRIZER",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 33,
+      "win": false,
+      "kills": 271,
+      "ultra": 0,
+      "skills": [
+        27,
+        3,
+        13,
+        14,
+        1,
+        8
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "eor1gAGK7ad8C2C",
       "runId": 155720061
     }
   }
