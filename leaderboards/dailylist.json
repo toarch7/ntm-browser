@@ -811,6 +811,62 @@
       "version": 2616,
       "uid": "tPotF1a06767OZM",
       "runId": 810022518
+    },
+    "Ec6R56SZ3Z442vj": {
+      "name": "bbb",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ec6R56SZ3Z442vj",
+      "runId": 810022518
+    },
+    "8LvUnW87474e0m2": {
+      "name": "sako.com",
+      "char": 14,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 56,
+      "bwep": 3,
+      "win": false,
+      "kills": 17,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8LvUnW87474e0m2",
+      "runId": 810022518
+    },
+    "504sL66nmxK137s": {
+      "name": "Bullseye",
+      "char": 14,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 21,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "504sL66nmxK137s",
+      "runId": 810022518
     }
   }
 }
