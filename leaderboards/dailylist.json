@@ -641,6 +641,49 @@
       "version": 2616,
       "uid": "hz58VVhCFgTYtLG",
       "runId": 810022518
+    },
+    "pg83m5BN5fdCK9J": {
+      "name": "kikonop",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": 2616,
+      "uid": "pg83m5BN5fdCK9J",
+      "runId": 810022518
+    },
+    "MHC1lZEEd9KbN24": {
+      "name": "анлрей",
+      "char": 3,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 119,
+      "bwep": 76,
+      "win": false,
+      "kills": 393,
+      "ultra": 0,
+      "skills": [
+        23,
+        8,
+        14,
+        1,
+        25,
+        17,
+        6,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MHC1lZEEd9KbN24",
+      "runId": 810022518
     }
   }
 }
