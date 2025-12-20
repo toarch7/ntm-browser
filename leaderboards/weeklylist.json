@@ -2088,6 +2088,49 @@
       "version": 2616,
       "uid": "8X0M5G9658Bcb83",
       "runId": 155720061
+    },
+    "dygIU98j7bNLB49": {
+      "name": "Fimoz",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 104,
+      "bwep": 71,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        27,
+        6,
+        21
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "dygIU98j7bNLB49",
+      "runId": 155720061
+    },
+    "Ef1MW0z7A3a0c4t": {
+      "name": "mimic",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 104,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        13,
+        8
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "Ef1MW0z7A3a0c4t",
+      "runId": 155720061
     }
   }
 }
