@@ -638,6 +638,52 @@
       "version": 2616,
       "uid": "t7RB2C6gJ9Y95kW",
       "runId": 1186240112
+    },
+    "O49rZ25qA1x6I7t": {
+      "name": "...",
+      "char": 8,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 91,
+      "bwep": 49,
+      "win": false,
+      "kills": 384,
+      "ultra": 1,
+      "skills": [
+        7,
+        25,
+        6,
+        10,
+        1,
+        23,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "O49rZ25qA1x6I7t",
+      "runId": 1186240112
+    },
+    "J6kW82l7aU8A6O6": {
+      "name": "elpiko",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J6kW82l7aU8A6O6",
+      "runId": 1186240112
     }
   }
 }
