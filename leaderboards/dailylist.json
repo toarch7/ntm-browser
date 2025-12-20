@@ -808,6 +808,48 @@
       "version": 2616,
       "uid": "Lw6VZQ48EP9obZu",
       "runId": 1186240112
+    },
+    "VSuqlT41zrR5N4u": {
+      "name": "commi25",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 17,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "VSuqlT41zrR5N4u",
+      "runId": 1186240112
+    },
+    "baDwuCDZpbUhMU8": {
+      "name": "Travis",
+      "char": 2,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 3,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "baDwuCDZpbUhMU8",
+      "runId": 1186240112
     }
   }
 }
