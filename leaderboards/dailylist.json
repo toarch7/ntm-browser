@@ -1212,6 +1212,72 @@
       "version": 2616,
       "uid": "DcNbQ7620551Wp3",
       "runId": 534458818
+    },
+    "r806QDLkd2yCEBU": {
+      "name": "Scrotum",
+      "char": 3,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 15,
+      "win": false,
+      "kills": 178,
+      "ultra": 0,
+      "skills": [
+        12,
+        9,
+        13,
+        14
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "r806QDLkd2yCEBU",
+      "runId": 534458818
+    },
+    "l4Jde5CduPkhNGC": {
+      "name": "Orestes",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        23,
+        28,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "l4Jde5CduPkhNGC",
+      "runId": 534458818
+    },
+    "5SY71890Za49i7o": {
+      "name": "Seeker71",
+      "char": 7,
+      "skin": false,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        3,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5SY71890Za49i7o",
+      "runId": 534458818
     }
   }
 }
