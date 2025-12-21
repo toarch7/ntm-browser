@@ -1596,9 +1596,9 @@
       "subarea": 1,
       "loops": 0,
       "wep": 13,
-      "bwep": 8,
+      "bwep": 104,
       "win": false,
-      "kills": 78,
+      "kills": 79,
       "ultra": 0,
       "skills": [
         3
@@ -2178,6 +2178,65 @@
       "crown": 13,
       "version": 2616,
       "uid": "625CNC69DBEW4HY",
+      "runId": 155720061
+    },
+    "M5YXPZ8K1zeB1ma": {
+      "name": "roy",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 5,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        23,
+        22
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "M5YXPZ8K1zeB1ma",
+      "runId": 155720061
+    },
+    "ALd6Z7Mk8ZV6JEy": {
+      "name": "howold",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 3,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "ALd6Z7Mk8ZV6JEy",
+      "runId": 155720061
+    },
+    "Cm99n24nr15n016": {
+      "name": "Erikcioso16",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 13,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [],
+      "crown": 13,
+      "version": 2616,
+      "uid": "Cm99n24nr15n016",
       "runId": 155720061
     }
   }
