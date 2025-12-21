@@ -2300,23 +2300,46 @@
       "name": "Mr.Pickles",
       "char": 4,
       "skin": false,
-      "area": 5,
-      "subarea": 3,
-      "loops": 0,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
       "wep": 24,
-      "bwep": 5,
+      "bwep": 35,
       "win": false,
-      "kills": 218,
-      "ultra": 0,
+      "kills": 298,
+      "ultra": 1,
       "skills": [
+        27,
+        13,
         8,
-        25,
-        21,
-        13
+        17,
+        4,
+        14
       ],
       "crown": 13,
       "version": 2616,
       "uid": "g8y5Hjq19F13h7R",
+      "runId": 155720061
+    },
+    "bGCro6DB8zahlLA": {
+      "name": "Vicx",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 104,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        27,
+        3
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "bGCro6DB8zahlLA",
       "runId": 155720061
     }
   }
