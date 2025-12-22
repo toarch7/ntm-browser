@@ -300,6 +300,73 @@
       "version": 2616,
       "uid": "6grHGD15mM3fEdH",
       "runId": 466530711
+    },
+    "14aeU8O05ssfF4t": {
+      "name": "ZeKnight",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 111,
+      "bwep": 21,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        22,
+        17,
+        6,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "14aeU8O05ssfF4t",
+      "runId": 466530711
+    },
+    "2Ei2MqLw3fF8ahd": {
+      "name": "bog",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 111,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        2,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2Ei2MqLw3fF8ahd",
+      "runId": 466530711
+    },
+    "w41VsMfoWgjkim8": {
+      "name": "чел",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 111,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        12,
+        17,
+        6,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "w41VsMfoWgjkim8",
+      "runId": 466530711
     }
   }
 }
