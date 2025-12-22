@@ -252,6 +252,54 @@
       "version": 2616,
       "uid": "4oVhG2X6obMM49M",
       "runId": 466530711
+    },
+    "05Yx6Zi3U6Mnf3W": {
+      "name": "popanegra",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 111,
+      "bwep": 0,
+      "win": false,
+      "kills": 170,
+      "ultra": 0,
+      "skills": [
+        12,
+        3,
+        6,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "05Yx6Zi3U6Mnf3W",
+      "runId": 466530711
+    },
+    "6grHGD15mM3fEdH": {
+      "name": "Seeker",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 111,
+      "win": false,
+      "kills": 240,
+      "ultra": 0,
+      "skills": [
+        2,
+        17,
+        6,
+        1,
+        27,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6grHGD15mM3fEdH",
+      "runId": 466530711
     }
   }
 }
