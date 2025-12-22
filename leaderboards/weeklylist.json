@@ -200,6 +200,58 @@
       "version": 2616,
       "uid": "jW4mQv08Lj793Rt",
       "runId": 466530711
+    },
+    "L1O96R2vX7ElLKU": {
+      "name": "Macintosh",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 111,
+      "bwep": 76,
+      "win": false,
+      "kills": 340,
+      "ultra": 0,
+      "skills": [
+        2,
+        17,
+        6,
+        7,
+        8,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L1O96R2vX7ElLKU",
+      "runId": 466530711
+    },
+    "4oVhG2X6obMM49M": {
+      "name": "fazan4ik",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 118,
+      "bwep": 111,
+      "win": false,
+      "kills": 348,
+      "ultra": 0,
+      "skills": [
+        22,
+        17,
+        13,
+        1,
+        25,
+        4,
+        23,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4oVhG2X6obMM49M",
+      "runId": 466530711
     }
   }
 }
