@@ -1057,6 +1057,67 @@
       "version": 2616,
       "uid": "ovUHhOyvBYnrZ8n",
       "runId": 655154630
+    },
+    "t7RB2C6gJ9Y95kW": {
+      "name": "zymxc",
+      "char": 11,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 6,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        3,
+        24,
+        4,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "t7RB2C6gJ9Y95kW",
+      "runId": 655154630
+    },
+    "X7HAP4mmVaX45zq": {
+      "name": "huevo_minion.2",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 14,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        13,
+        23,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "X7HAP4mmVaX45zq",
+      "runId": 655154630
+    },
+    "1txvcvXZFuaGg9p": {
+      "name": "Fish201",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "1txvcvXZFuaGg9p",
+      "runId": 655154630
     }
   }
 }
