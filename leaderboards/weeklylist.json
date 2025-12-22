@@ -999,6 +999,49 @@
       "version": 2616,
       "uid": "iSW1g25J593JBRX",
       "runId": 466530711
+    },
+    "NS5nj4IrXEeJ4rj": {
+      "name": "nuncanemvi",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 111,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        2,
+        3,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "NS5nj4IrXEeJ4rj",
+      "runId": 466530711
+    },
+    "ovUHhOyvBYnrZ8n": {
+      "name": "mk.robot",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 111,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        12,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ovUHhOyvBYnrZ8n",
+      "runId": 466530711
     }
   }
 }
