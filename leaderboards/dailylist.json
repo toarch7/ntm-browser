@@ -121,6 +121,68 @@
       "version": 2616,
       "uid": "8LvUnW87474e0m2",
       "runId": 655154630
+    },
+    "iSW1g25J593JBRX": {
+      "name": "tsiger",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 25,
+      "bwep": 24,
+      "win": false,
+      "kills": 360,
+      "ultra": 0,
+      "skills": [
+        28,
+        23,
+        21,
+        7,
+        25,
+        10,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "iSW1g25J593JBRX",
+      "runId": 655154630
+    },
+    "1B0ryXtdwn5xoU1": {
+      "name": "Ange",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "1B0ryXtdwn5xoU1",
+      "runId": 655154630
+    },
+    "bdb14YjzN3x9ECz": {
+      "name": "Rispolo",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bdb14YjzN3x9ECz",
+      "runId": 655154630
     }
   }
 }
