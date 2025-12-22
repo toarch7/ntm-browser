@@ -559,6 +559,58 @@
       "version": 2616,
       "uid": "oVHR4MU8y0T9CVt",
       "runId": 655154630
+    },
+    "w41VsMfoWgjkim8": {
+      "name": "чел",
+      "char": 2,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 36,
+      "win": false,
+      "kills": 293,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        27,
+        9,
+        7,
+        25,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "w41VsMfoWgjkim8",
+      "runId": 655154630
+    },
+    "fQXRuxs4bMbf4F8": {
+      "name": "Femlad",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 23,
+      "win": false,
+      "kills": 264,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        27,
+        26,
+        7,
+        13,
+        16
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "fQXRuxs4bMbf4F8",
+      "runId": 655154630
     }
   }
 }
