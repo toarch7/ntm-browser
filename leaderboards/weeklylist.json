@@ -832,17 +832,19 @@
       "name": "yoel",
       "char": 8,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 5,
+      "wep": 6,
       "bwep": 111,
       "win": false,
-      "kills": 43,
+      "kills": 128,
       "ultra": 0,
       "skills": [
         12,
-        9
+        9,
+        6,
+        10
       ],
       "crown": 1,
       "version": 2616,
@@ -1828,6 +1830,27 @@
       "crown": 1,
       "version": 2616,
       "uid": "1txvcvXZFuaGg9p",
+      "runId": 466530711
+    },
+    "cXHNK5B5AKbIP8R": {
+      "name": "Pancrasio",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 111,
+      "bwep": 0,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        12,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cXHNK5B5AKbIP8R",
       "runId": 466530711
     }
   }
