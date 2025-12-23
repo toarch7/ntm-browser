@@ -1015,10 +1015,10 @@
       "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 16,
+      "wep": 27,
       "bwep": 111,
       "win": false,
-      "kills": 58,
+      "kills": 72,
       "ultra": 0,
       "skills": [
         2,
@@ -1569,6 +1569,78 @@
       "crown": 1,
       "version": 2616,
       "uid": "c07luZTdz4Tt34E",
+      "runId": 466530711
+    },
+    "BebvNn3l9k8wbL1": {
+      "name": "yutu",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 111,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        2,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BebvNn3l9k8wbL1",
+      "runId": 466530711
+    },
+    "OImciZ21yg4z4hh": {
+      "name": "Micky's",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 22,
+      "bwep": 111,
+      "win": false,
+      "kills": 542,
+      "ultra": 2,
+      "skills": [
+        22,
+        9,
+        6,
+        1,
+        27,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OImciZ21yg4z4hh",
+      "runId": 466530711
+    },
+    "uuG618z3fKffVMh": {
+      "name": "0",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 111,
+      "bwep": 57,
+      "win": false,
+      "kills": 374,
+      "ultra": 0,
+      "skills": [
+        12,
+        17,
+        13,
+        10,
+        27,
+        23,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uuG618z3fKffVMh",
       "runId": 466530711
     }
   }
