@@ -579,23 +579,24 @@
       "runId": 466530711
     },
     "fQXRuxs4bMbf4F8": {
-      "name": "Femlad",
+      "name": "heinoric",
       "char": 8,
       "skin": true,
       "area": 6,
       "subarea": 1,
-      "loops": 0,
-      "wep": 8,
-      "bwep": 37,
+      "loops": 1,
+      "wep": 10,
+      "bwep": 111,
       "win": false,
-      "kills": 229,
-      "ultra": 0,
+      "kills": 1128,
+      "ultra": 1,
       "skills": [
         26,
         17,
         23,
         1,
-        27
+        27,
+        10
       ],
       "crown": 1,
       "version": 2616,
@@ -1110,6 +1111,115 @@
       "crown": 1,
       "version": 2616,
       "uid": "7L6k7fkDwqhleD2",
+      "runId": 466530711
+    },
+    "T5j24pP92ziUpf7": {
+      "name": "Seeker71",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 111,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        12,
+        3,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "T5j24pP92ziUpf7",
+      "runId": 466530711
+    },
+    "O83p04cDEV6r5m7": {
+      "name": "Saifer",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 111,
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        22,
+        17,
+        6,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "O83p04cDEV6r5m7",
+      "runId": 466530711
+    },
+    "lZ0008GK6QdFAU7": {
+      "name": "ronan",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 111,
+      "bwep": 4,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        12,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "lZ0008GK6QdFAU7",
+      "runId": 466530711
+    },
+    "RwSmFhfr4aUyjy4": {
+      "name": "hollowknight616",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 111,
+      "bwep": 69,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        2,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
+      "runId": 466530711
+    },
+    "OG6oUWfDQdLREP4": {
+      "name": "abusamadresjhon",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 111,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        12,
+        17,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
       "runId": 466530711
     }
   }
