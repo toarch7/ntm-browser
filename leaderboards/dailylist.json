@@ -974,6 +974,29 @@
       "version": 2616,
       "uid": "baDwuCDZpbUhMU8",
       "runId": 752964930
+    },
+    "X7HAP4mmVaX45zq": {
+      "name": "huevo_minion.2",
+      "char": 6,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 13,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        10,
+        14,
+        21,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "X7HAP4mmVaX45zq",
+      "runId": 752964930
     }
   }
 }
