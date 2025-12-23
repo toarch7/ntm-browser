@@ -1852,6 +1852,48 @@
       "version": 2616,
       "uid": "cXHNK5B5AKbIP8R",
       "runId": 466530711
+    },
+    "8O10TI341TGQX46": {
+      "name": "bbq",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 111,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        12,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8O10TI341TGQX46",
+      "runId": 466530711
+    },
+    "uE23hoFki0lkI3V": {
+      "name": "v.k",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 111,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        22,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uE23hoFki0lkI3V",
+      "runId": 466530711
     }
   }
 }
