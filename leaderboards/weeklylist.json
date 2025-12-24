@@ -1122,18 +1122,20 @@
       "name": "Seeker71",
       "char": 8,
       "skin": true,
-      "area": 3,
-      "subarea": 2,
+      "area": 5,
+      "subarea": 1,
       "loops": 0,
-      "wep": 5,
+      "wep": 4,
       "bwep": 111,
       "win": false,
-      "kills": 105,
+      "kills": 186,
       "ultra": 0,
       "skills": [
-        12,
-        3,
-        6
+        2,
+        17,
+        6,
+        10,
+        8
       ],
       "crown": 1,
       "version": 2616,
@@ -2233,6 +2235,71 @@
       "crown": 1,
       "version": 2616,
       "uid": "vWgsgF7MtzJ6d3m",
+      "runId": 466530711
+    },
+    "5m2ZL8tPvUORU1S": {
+      "name": "Seeker7",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 111,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        22,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5m2ZL8tPvUORU1S",
+      "runId": 466530711
+    },
+    "4F2v06kfEa8GTY6": {
+      "name": "diego",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 111,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        12,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4F2v06kfEa8GTY6",
+      "runId": 466530711
+    },
+    "nF8jGfFVc5gQtJf": {
+      "name": "Aelex",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 61,
+      "win": false,
+      "kills": 160,
+      "ultra": 0,
+      "skills": [
+        12,
+        9,
+        6,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "nF8jGfFVc5gQtJf",
       "runId": 466530711
     }
   }
