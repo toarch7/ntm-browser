@@ -1013,18 +1013,20 @@
       "name": "nuncanemvi",
       "char": 8,
       "skin": true,
-      "area": 5,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 27,
+      "wep": 6,
       "bwep": 111,
       "win": false,
-      "kills": 72,
+      "kills": 142,
       "ultra": 0,
       "skills": [
         2,
         3,
-        6
+        6,
+        1,
+        8
       ],
       "crown": 1,
       "version": 2616,
@@ -2241,17 +2243,20 @@
       "name": "Seeker7",
       "char": 8,
       "skin": true,
-      "area": 2,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 4,
+      "wep": 7,
       "bwep": 111,
       "win": false,
-      "kills": 81,
+      "kills": 165,
       "ultra": 0,
       "skills": [
         22,
-        3
+        3,
+        6,
+        7,
+        25
       ],
       "crown": 1,
       "version": 2616,
@@ -2300,6 +2305,71 @@
       "crown": 1,
       "version": 2616,
       "uid": "nF8jGfFVc5gQtJf",
+      "runId": 466530711
+    },
+    "VSuqlT41zrR5N4u": {
+      "name": "commi25",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 26,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        12,
+        17,
+        21,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "VSuqlT41zrR5N4u",
+      "runId": 466530711
+    },
+    "8FN8f4yXjwjPXx7": {
+      "name": "Goobert",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 111,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        12,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8FN8f4yXjwjPXx7",
+      "runId": 466530711
+    },
+    "lZikK5QMSqj989n": {
+      "name": "KILLERDark",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 111,
+      "bwep": 6,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        22,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "lZikK5QMSqj989n",
       "runId": 466530711
     }
   }
