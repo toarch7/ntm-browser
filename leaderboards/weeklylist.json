@@ -124,15 +124,15 @@
       "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 72,
+      "wep": 7,
       "bwep": 111,
       "win": false,
-      "kills": 52,
+      "kills": 73,
       "ultra": 0,
       "skills": [
         12,
         17,
-        13
+        21
       ],
       "crown": 1,
       "version": 2616,
@@ -1959,6 +1959,57 @@
       "crown": 1,
       "version": 2616,
       "uid": "3FgI1lLELStSTPT",
+      "runId": 466530711
+    },
+    "Pmdlp44MK7PdWW1": {
+      "name": "mailovelor",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 111,
+      "win": false,
+      "kills": 717,
+      "ultra": 2,
+      "skills": [
+        22,
+        17,
+        6,
+        10,
+        27,
+        23,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Pmdlp44MK7PdWW1",
+      "runId": 466530711
+    },
+    "J74kqnz2503EJT1": {
+      "name": "mamaguevo",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 111,
+      "win": false,
+      "kills": 280,
+      "ultra": 0,
+      "skills": [
+        12,
+        9,
+        6,
+        1,
+        27,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J74kqnz2503EJT1",
       "runId": 466530711
     }
   }
