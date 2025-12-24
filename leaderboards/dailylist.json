@@ -428,6 +428,92 @@
       "version": 2616,
       "uid": "f5TMbRX1tV4fUgk",
       "runId": 1925242382
+    },
+    "v5jEV972K5UFT3j": {
+      "name": "rhetti",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "v5jEV972K5UFT3j",
+      "runId": 1925242382
+    },
+    "J1310A51338h9Tx": {
+      "name": "Фирог",
+      "char": 2,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 92,
+      "bwep": 111,
+      "win": false,
+      "kills": 1026,
+      "ultra": 1,
+      "skills": [
+        14,
+        4,
+        8,
+        9,
+        3,
+        27,
+        13
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "J1310A51338h9Tx",
+      "runId": 1925242382
+    },
+    "MRERZvI7Nas40By": {
+      "name": "cooper",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 69,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MRERZvI7Nas40By",
+      "runId": 1925242382
+    },
+    "77O2Bd2M8R72195": {
+      "name": "xerto",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "77O2Bd2M8R72195",
+      "runId": 1925242382
     }
   }
 }
