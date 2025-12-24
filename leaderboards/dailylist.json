@@ -340,6 +340,69 @@
       "version": 2616,
       "uid": "bGCro6DB8zahlLA",
       "runId": 1925242382
+    },
+    "27JMy868YAU834I": {
+      "name": "Brobtozez",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 16,
+      "win": false,
+      "kills": 19,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "27JMy868YAU834I",
+      "runId": 1925242382
+    },
+    "L1O96R2vX7ElLKU": {
+      "name": "Macintosh",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 0,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        27,
+        7,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L1O96R2vX7ElLKU",
+      "runId": 1925242382
+    },
+    "NY9RApSawklF80D": {
+      "name": "BonkChoi",
+      "char": 9,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 5,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        14,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "NY9RApSawklF80D",
+      "runId": 1925242382
     }
   }
 }
