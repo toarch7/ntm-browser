@@ -868,6 +868,48 @@
       "version": 2616,
       "uid": "R01pEpp7J3YZsw1",
       "runId": 1223511686
+    },
+    "43CeaX99b412A2q": {
+      "name": "CrazyNoob",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 4,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        6,
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "43CeaX99b412A2q",
+      "runId": 1223511686
+    },
+    "2Ja80X782sRs6lr": {
+      "name": "Onin",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2Ja80X782sRs6lr",
+      "runId": 1223511686
     }
   }
 }
