@@ -2375,9 +2375,9 @@
       "subarea": 1,
       "loops": 0,
       "wep": 111,
-      "bwep": 6,
+      "bwep": 50,
       "win": false,
-      "kills": 58,
+      "kills": 74,
       "ultra": 0,
       "skills": [
         22,
@@ -2482,18 +2482,19 @@
       "name": "Yordan",
       "char": 8,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 79,
+      "wep": 50,
       "bwep": 111,
       "win": false,
-      "kills": 136,
+      "kills": 175,
       "ultra": 0,
       "skills": [
+        2,
+        17,
         26,
-        3,
-        23
+        1
       ],
       "crown": 1,
       "version": 2616,
@@ -3022,14 +3023,14 @@
       "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 30,
-      "bwep": 0,
+      "wep": 27,
+      "bwep": 111,
       "win": false,
-      "kills": 63,
+      "kills": 74,
       "ultra": 0,
       "skills": [
-        12,
-        21,
+        26,
+        17,
         13
       ],
       "crown": 1,
@@ -3125,6 +3126,29 @@
       "crown": 1,
       "version": 2616,
       "uid": "iSLcz79zSEaRlYl",
+      "runId": 466530711
+    },
+    "cEw77y1OV7beq9j": {
+      "name": "Kionix",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 111,
+      "bwep": 5,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        12,
+        3,
+        6,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cEw77y1OV7beq9j",
       "runId": 466530711
     }
   }
