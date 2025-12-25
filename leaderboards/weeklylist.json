@@ -3057,6 +3057,31 @@
       "version": 2616,
       "uid": "kIRH45mFKf66AM4",
       "runId": 466530711
+    },
+    "l0KK4785fDITJ4P": {
+      "name": "ГАНДОН",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 111,
+      "win": false,
+      "kills": 185,
+      "ultra": 0,
+      "skills": [
+        12,
+        17,
+        6,
+        7,
+        27,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "l0KK4785fDITJ4P",
+      "runId": 466530711
     }
   }
 }
