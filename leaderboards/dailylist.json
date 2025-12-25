@@ -776,6 +776,32 @@
       "version": 2616,
       "uid": "8tZ6jojR71o0F59",
       "runId": 1223511686
+    },
+    "1txvcvXZFuaGg9p": {
+      "name": "Fish201",
+      "char": 8,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 112,
+      "bwep": 74,
+      "win": false,
+      "kills": 396,
+      "ultra": 1,
+      "skills": [
+        6,
+        1,
+        8,
+        23,
+        27,
+        19,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "1txvcvXZFuaGg9p",
+      "runId": 1223511686
     }
   }
 }
