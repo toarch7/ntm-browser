@@ -2420,18 +2420,19 @@
       "name": "GHOST",
       "char": 8,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 111,
-      "bwep": 16,
+      "wep": 20,
+      "bwep": 111,
       "win": false,
-      "kills": 146,
+      "kills": 161,
       "ultra": 0,
       "skills": [
         22,
         17,
-        26
+        6,
+        7
       ],
       "crown": 1,
       "version": 2616,
@@ -2561,13 +2562,13 @@
       "subarea": 1,
       "loops": 0,
       "wep": 3,
-      "bwep": 0,
+      "bwep": 111,
       "win": false,
-      "kills": 42,
+      "kills": 48,
       "ultra": 0,
       "skills": [
         12,
-        9
+        17
       ],
       "crown": 1,
       "version": 2616,
@@ -2729,6 +2730,48 @@
       "crown": 1,
       "version": 2616,
       "uid": "C79epfpu9tSFH4a",
+      "runId": 466530711
+    },
+    "4s44G1txP9A80Fc": {
+      "name": "El",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 111,
+      "bwep": 0,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        26,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4s44G1txP9A80Fc",
+      "runId": 466530711
+    },
+    "cE6W3fvh74w6VRA": {
+      "name": "coco33",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 111,
+      "bwep": 0,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        12,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cE6W3fvh74w6VRA",
       "runId": 466530711
     }
   }

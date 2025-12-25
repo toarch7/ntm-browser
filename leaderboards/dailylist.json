@@ -339,6 +339,46 @@
       "version": 2616,
       "uid": "7UjeSnnc07ij35o",
       "runId": 1223511686
+    },
+    "60WIS3hkmctvP6W": {
+      "name": "Shakra",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "60WIS3hkmctvP6W",
+      "runId": 1223511686
+    },
+    "cE6W3fvh74w6VRA": {
+      "name": "coco33",
+      "char": 8,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 26,
+      "win": false,
+      "kills": 269,
+      "ultra": 0,
+      "skills": [
+        6,
+        1,
+        7,
+        27,
+        12
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "cE6W3fvh74w6VRA",
+      "runId": 1223511686
     }
   }
 }
