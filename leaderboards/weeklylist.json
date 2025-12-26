@@ -2434,19 +2434,18 @@
       "name": "GHOST",
       "char": 8,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 20,
+      "wep": 22,
       "bwep": 111,
       "win": false,
-      "kills": 161,
+      "kills": 259,
       "ultra": 0,
       "skills": [
         22,
         17,
-        6,
-        7
+        26
       ],
       "crown": 1,
       "version": 2616,
@@ -3090,17 +3089,19 @@
       "name": "julho",
       "char": 8,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 69,
+      "wep": 13,
       "bwep": 111,
       "win": false,
-      "kills": 74,
+      "kills": 148,
       "ultra": 0,
       "skills": [
-        26,
-        17
+        22,
+        9,
+        6,
+        10
       ],
       "crown": 1,
       "version": 2616,
@@ -3151,6 +3152,49 @@
       "crown": 1,
       "version": 2616,
       "uid": "cEw77y1OV7beq9j",
+      "runId": 466530711
+    },
+    "3JG40Iyt3C7k5Nh": {
+      "name": "Jhofran",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 0,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        12,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3JG40Iyt3C7k5Nh",
+      "runId": 466530711
+    },
+    "Si5Ka0C4jIkKPia": {
+      "name": "Frnnd",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 111,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        26,
+        3,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Si5Ka0C4jIkKPia",
       "runId": 466530711
     }
   }
