@@ -522,17 +522,18 @@
       "name": "GayBreed",
       "char": 8,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 7,
+      "wep": 5,
       "bwep": 111,
       "win": false,
-      "kills": 73,
+      "kills": 114,
       "ultra": 0,
       "skills": [
         12,
-        3
+        3,
+        21
       ],
       "crown": 1,
       "version": 2616,

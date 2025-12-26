@@ -404,6 +404,66 @@
       "version": 2616,
       "uid": "9At4L0N1F7a85gD",
       "runId": 1045484571
+    },
+    "J1310A51338h9Tx": {
+      "name": "Фирог",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 4,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J1310A51338h9Tx",
+      "runId": 1045484571
+    },
+    "tln6WWP3eP1xd2F": {
+      "name": "360",
+      "char": 5,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 20,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "tln6WWP3eP1xd2F",
+      "runId": 1045484571
+    },
+    "iSW1g25J593JBRX": {
+      "name": "tsiger",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 17,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "iSW1g25J593JBRX",
+      "runId": 1045484571
     }
   }
 }
