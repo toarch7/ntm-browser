@@ -720,6 +720,51 @@
       "version": 2616,
       "uid": "bdb14YjzN3x9ECz",
       "runId": 1045484571
+    },
+    "851NgyuXK2hj35S": {
+      "name": "fisting",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 49,
+      "bwep": 11,
+      "win": false,
+      "kills": 244,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        22,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "851NgyuXK2hj35S",
+      "runId": 1045484571
+    },
+    "L1O96R2vX7ElLKU": {
+      "name": "Macintosh",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 116,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        7,
+        19,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L1O96R2vX7ElLKU",
+      "runId": 1045484571
     }
   }
 }
