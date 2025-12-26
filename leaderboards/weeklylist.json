@@ -3379,6 +3379,54 @@
       "version": 2616,
       "uid": "9b93cS95RuEmd7t",
       "runId": 466530711
+    },
+    "H90BV3458098T3Z": {
+      "name": "hell1926",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 111,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        22,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "H90BV3458098T3Z",
+      "runId": 466530711
+    },
+    "uXfYJ4wcFcPrj81": {
+      "name": "Seeker",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 22,
+      "bwep": 111,
+      "win": false,
+      "kills": 551,
+      "ultra": 1,
+      "skills": [
+        12,
+        17,
+        6,
+        10,
+        25,
+        4,
+        23,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uXfYJ4wcFcPrj81",
+      "runId": 466530711
     }
   }
 }
