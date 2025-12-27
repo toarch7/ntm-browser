@@ -2116,10 +2116,10 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 19,
+      "wep": 31,
       "bwep": 111,
       "win": false,
-      "kills": 74,
+      "kills": 80,
       "ultra": 0,
       "skills": [
         12,
@@ -3534,6 +3534,73 @@
       "crown": 1,
       "version": 2616,
       "uid": "Sz0tL6tBQbGOFlW",
+      "runId": 466530711
+    },
+    "l565NP61pv9x08J": {
+      "name": "SantKont",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 111,
+      "bwep": 0,
+      "win": false,
+      "kills": 190,
+      "ultra": 0,
+      "skills": [
+        22,
+        17,
+        6,
+        10,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "l565NP61pv9x08J",
+      "runId": 466530711
+    },
+    "3DhGq29KxG2N42r": {
+      "name": "pisun",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 111,
+      "bwep": 0,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        26,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3DhGq29KxG2N42r",
+      "runId": 466530711
+    },
+    "j9FX768QENXZj26": {
+      "name": "Dante777",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 111,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        2,
+        17,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "j9FX768QENXZj26",
       "runId": 466530711
     }
   }
