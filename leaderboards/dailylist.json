@@ -255,6 +255,48 @@
       "version": 2616,
       "uid": "Rqg7II9Bi1vpuav",
       "runId": 1256067869
+    },
+    "L1O96R2vX7ElLKU": {
+      "name": "Macintosh",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        6,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L1O96R2vX7ElLKU",
+      "runId": 1256067869
+    },
+    "HOuRYAJMpcX2FQL": {
+      "name": "Ngoen_Gus",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 6,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        10,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HOuRYAJMpcX2FQL",
+      "runId": 1256067869
     }
   }
 }
