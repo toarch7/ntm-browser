@@ -100,6 +100,57 @@
       "version": 2616,
       "uid": "w41VsMfoWgjkim8",
       "runId": 1256067869
+    },
+    "74zX9LiUcsL0KJm": {
+      "name": "Seekerьлч",
+      "char": 6,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 17,
+      "win": false,
+      "kills": 369,
+      "ultra": 0,
+      "skills": [
+        6,
+        8,
+        4,
+        9,
+        27,
+        7,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "74zX9LiUcsL0KJm",
+      "runId": 1256067869
+    },
+    "1txvcvXZFuaGg9p": {
+      "name": "Suco_de_Fruta",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 6,
+      "win": false,
+      "kills": 273,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        8,
+        4,
+        21,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1txvcvXZFuaGg9p",
+      "runId": 1256067869
     }
   }
 }
