@@ -858,20 +858,21 @@
       "name": "huevo_minion.2",
       "char": 8,
       "skin": true,
-      "area": 6,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 11,
+      "wep": 14,
       "bwep": 111,
       "win": false,
-      "kills": 157,
+      "kills": 197,
       "ultra": 0,
       "skills": [
         22,
         17,
         13,
         10,
-        27
+        27,
+        23
       ],
       "crown": 1,
       "version": 2616,
@@ -3447,6 +3448,51 @@
       "crown": 1,
       "version": 2616,
       "uid": "o1e1gbB0y7BCZfq",
+      "runId": 466530711
+    },
+    "j8E6KJ754nkRdp3": {
+      "name": "frozzy",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 111,
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        12,
+        21,
+        13,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "j8E6KJ754nkRdp3",
+      "runId": 466530711
+    },
+    "OPu1N3QSV1481Sn": {
+      "name": "the_n_word",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 111,
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        22,
+        3,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OPu1N3QSV1481Sn",
       "runId": 466530711
     }
   }
