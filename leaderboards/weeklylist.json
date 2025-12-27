@@ -3704,6 +3704,56 @@
       "version": 2616,
       "uid": "9Q4u437u5xkS7EF",
       "runId": 466530711
+    },
+    "Vq156b85caByDsW": {
+      "name": "prodro",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 111,
+      "win": false,
+      "kills": 194,
+      "ultra": 0,
+      "skills": [
+        12,
+        17,
+        6,
+        10,
+        27,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Vq156b85caByDsW",
+      "runId": 466530711
+    },
+    "sJmRM0v54iB9ouc": {
+      "name": "Flivent",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 111,
+      "win": false,
+      "kills": 271,
+      "ultra": 0,
+      "skills": [
+        22,
+        17,
+        6,
+        1,
+        8,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sJmRM0v54iB9ouc",
+      "runId": 466530711
     }
   }
 }
