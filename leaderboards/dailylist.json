@@ -953,6 +953,124 @@
       "version": 2616,
       "uid": "7MMBvrQTKGtP3z8",
       "runId": 1256067869
+    },
+    "mmHcskSf5lESu64": {
+      "name": "advokat",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 39,
+      "win": false,
+      "kills": 21,
+      "crown": 1,
+      "version": 2616,
+      "uid": "mmHcskSf5lESu64",
+      "runId": 1256067869
+    },
+    "59464Za71i0bv49": {
+      "name": "anima",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 16,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        13,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "59464Za71i0bv49",
+      "runId": 1256067869
+    },
+    "Y3R293Uw3en8B6c": {
+      "name": "Rika",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 13,
+      "win": false,
+      "kills": 282,
+      "ultra": 0,
+      "skills": [
+        6,
+        8,
+        4,
+        14,
+        27
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "Y3R293Uw3en8B6c",
+      "runId": 1256067869
+    },
+    "3JG40Iyt3C7k5Nh": {
+      "name": "Jhofran",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 23,
+      "win": false,
+      "kills": 171,
+      "ultra": 0,
+      "skills": [
+        24,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3JG40Iyt3C7k5Nh",
+      "runId": 1256067869
+    },
+    "NmHEdN8F0e78W0g": {
+      "name": "Haunter21",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 39,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "NmHEdN8F0e78W0g",
+      "runId": 1256067869
+    },
+    "6GYl3l2B53r7z3t": {
+      "name": "Lexzo",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 27,
+      "crown": 1,
+      "version": 2616,
+      "uid": "6GYl3l2B53r7z3t",
+      "runId": 1256067869
     }
   }
 }
