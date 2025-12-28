@@ -2784,17 +2784,18 @@
       "name": "coco33",
       "char": 8,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 111,
-      "bwep": 0,
+      "wep": 79,
+      "bwep": 111,
       "win": false,
-      "kills": 67,
+      "kills": 98,
       "ultra": 0,
       "skills": [
         12,
-        3
+        3,
+        26
       ],
       "crown": 1,
       "version": 2616,
@@ -4068,6 +4069,27 @@
       "crown": 1,
       "version": 2616,
       "uid": "R2XFAWe7Z2wDX7D",
+      "runId": 466530711
+    },
+    "3bZtLT5oSu7vq81": {
+      "name": "Seeker90312",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 111,
+      "bwep": 4,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        2,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3bZtLT5oSu7vq81",
       "runId": 466530711
     }
   }
