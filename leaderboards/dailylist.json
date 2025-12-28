@@ -451,6 +451,49 @@
       "version": 2616,
       "uid": "5B1ryIhW0194ztc",
       "runId": 1899484155
+    },
+    "1txvcvXZFuaGg9p": {
+      "name": "Suco_de_Fruta",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 2,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1txvcvXZFuaGg9p",
+      "runId": 1899484155
+    },
+    "504sL66nmxK137s": {
+      "name": "Bullseye",
+      "char": 14,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 77,
+      "win": false,
+      "kills": 174,
+      "ultra": 0,
+      "skills": [
+        26,
+        27,
+        3,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "504sL66nmxK137s",
+      "runId": 1899484155
     }
   }
 }
