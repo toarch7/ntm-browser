@@ -494,6 +494,68 @@
       "version": 2616,
       "uid": "504sL66nmxK137s",
       "runId": 1899484155
+    },
+    "gVw3H1rRRb8jtPv": {
+      "name": "Gost1k",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gVw3H1rRRb8jtPv",
+      "runId": 1899484155
+    },
+    "OImciZ21yg4z4hh": {
+      "name": "Micky's",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 10,
+      "win": false,
+      "kills": 197,
+      "ultra": 0,
+      "skills": [
+        10,
+        27,
+        3
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "OImciZ21yg4z4hh",
+      "runId": 1899484155
+    },
+    "Y3R293Uw3en8B6c": {
+      "name": "Rika",
+      "char": 12,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 27,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y3R293Uw3en8B6c",
+      "runId": 1899484155
     }
   }
 }
