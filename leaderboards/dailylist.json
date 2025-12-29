@@ -1051,6 +1051,53 @@
       "version": 2616,
       "uid": "h1U1dg3Bp50iw45",
       "runId": 780270905
+    },
+    "OImciZ21yg4z4hh": {
+      "name": "Micky's",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 35,
+      "bwep": 11,
+      "win": false,
+      "kills": 1358,
+      "ultra": 1,
+      "skills": [
+        12,
+        9,
+        27,
+        23,
+        8,
+        7,
+        10,
+        28
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "OImciZ21yg4z4hh",
+      "runId": 780270905
+    },
+    "NmHEdN8F0e78W0g": {
+      "name": "Haunter21",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 7,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "NmHEdN8F0e78W0g",
+      "runId": 780270905
     }
   }
 }

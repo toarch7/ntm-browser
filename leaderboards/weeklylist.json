@@ -719,17 +719,22 @@
       "char": 6,
       "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 66,
-      "bwep": 117,
+      "wep": 13,
+      "bwep": 11,
       "win": false,
-      "kills": 212,
+      "kills": 269,
       "ultra": 0,
       "skills": [
+        14,
         4,
-        12,
-        23
+        25,
+        8,
+        13,
+        23,
+        22,
+        21
       ],
       "crown": 11,
       "version": 2616,
@@ -1527,6 +1532,50 @@
       "crown": 11,
       "version": 2616,
       "uid": "r806QDLkd2yCEBU",
+      "runId": 221268802
+    },
+    "PKF78LZn00s7jaF": {
+      "name": "Nobboy",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 66,
+      "win": false,
+      "kills": 173,
+      "ultra": 0,
+      "skills": [
+        4,
+        6,
+        28
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "PKF78LZn00s7jaF",
+      "runId": 221268802
+    },
+    "2w2vD0FG76RYoQ3": {
+      "name": "NandoBacanudo",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 27,
+      "win": false,
+      "kills": 118,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        25
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "2w2vD0FG76RYoQ3",
       "runId": 221268802
     }
   }
