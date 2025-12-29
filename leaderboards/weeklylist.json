@@ -324,17 +324,17 @@
       "name": "C6H12O6",
       "char": 6,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 117,
-      "bwep": 71,
+      "wep": 88,
+      "bwep": 78,
       "win": false,
-      "kills": 69,
+      "kills": 114,
       "ultra": 0,
       "skills": [
-        7,
-        19
+        17,
+        4
       ],
       "crown": 11,
       "version": 2616,
@@ -360,6 +360,79 @@
       "crown": 11,
       "version": 2616,
       "uid": "Ye7kezOPm6I355M",
+      "runId": 221268802
+    },
+    "we290zG2yFU7Q46": {
+      "name": "tizinatorghots",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 8,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        7,
+        19,
+        25,
+        4,
+        28
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "we290zG2yFU7Q46",
+      "runId": 221268802
+    },
+    "J1310A51338h9Tx": {
+      "name": "Фирог",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 6,
+      "win": false,
+      "kills": 212,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        6,
+        12
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "J1310A51338h9Tx",
+      "runId": 221268802
+    },
+    "4mLJlNqKa80CiPZ": {
+      "name": "Denbiii",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 75,
+      "win": false,
+      "kills": 258,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        25,
+        8,
+        12,
+        13,
+        22
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "4mLJlNqKa80CiPZ",
       "runId": 221268802
     }
   }
