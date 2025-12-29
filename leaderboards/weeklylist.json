@@ -572,6 +572,51 @@
       "version": 2616,
       "uid": "Ef1MW0z7A3a0c4t",
       "runId": 221268802
+    },
+    "p3eUbC2tVK47I24": {
+      "name": "zalupula",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 11,
+      "win": false,
+      "kills": 188,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        25,
+        8,
+        13
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "p3eUbC2tVK47I24",
+      "runId": 221268802
+    },
+    "B4b2FR09tQS0666": {
+      "name": "Seeke",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 78,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        4,
+        10
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "B4b2FR09tQS0666",
+      "runId": 221268802
     }
   }
 }
