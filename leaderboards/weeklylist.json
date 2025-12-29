@@ -666,19 +666,22 @@
       "name": "hunter",
       "char": 6,
       "skin": true,
-      "area": 5,
+      "area": 2,
       "subarea": 1,
-      "loops": 0,
-      "wep": 11,
-      "bwep": 117,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 111,
       "win": false,
-      "kills": 229,
+      "kills": 685,
       "ultra": 0,
       "skills": [
         4,
         23,
         28,
-        13
+        13,
+        8,
+        3,
+        1
       ],
       "crown": 11,
       "version": 2616,
@@ -771,6 +774,53 @@
       "crown": 11,
       "version": 2616,
       "uid": "5B1ryIhW0194ztc",
+      "runId": 221268802
+    },
+    "l565NP61pv9x08J": {
+      "name": "SantKont",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 13,
+      "win": false,
+      "kills": 252,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        13,
+        6
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "l565NP61pv9x08J",
+      "runId": 221268802
+    },
+    "40z5Xi3T0O441Zq": {
+      "name": "Seeker90₽",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 20,
+      "win": false,
+      "kills": 201,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        6,
+        12,
+        16
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "40z5Xi3T0O441Zq",
       "runId": 221268802
     }
   }
