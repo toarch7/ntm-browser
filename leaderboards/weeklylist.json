@@ -294,6 +294,73 @@
       "version": 2616,
       "uid": "TvbX5np2U8A70y4",
       "runId": 221268802
+    },
+    "C5NK0x36H7C06FF": {
+      "name": "Соплежуй",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 28,
+      "win": false,
+      "kills": 287,
+      "ultra": 0,
+      "skills": [
+        17,
+        10,
+        25,
+        13,
+        23,
+        3
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "C5NK0x36H7C06FF",
+      "runId": 221268802
+    },
+    "jBOe1OQKU5xLK63": {
+      "name": "C6H12O6",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 71,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        7,
+        19
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "jBOe1OQKU5xLK63",
+      "runId": 221268802
+    },
+    "Ye7kezOPm6I355M": {
+      "name": "Enderplay",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 0,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        14,
+        10
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "Ye7kezOPm6I355M",
+      "runId": 221268802
     }
   }
 }
