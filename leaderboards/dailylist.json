@@ -356,6 +356,91 @@
       "version": 2616,
       "uid": "4mLJlNqKa80CiPZ",
       "runId": 780270905
+    },
+    "Ch66aSt55Rgu4sv": {
+      "name": "Hiajen",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 7,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ch66aSt55Rgu4sv",
+      "runId": 780270905
+    },
+    "VFt33YS85TZMOFu": {
+      "name": "ПИЗДУЛЯТОР3000",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 66,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        3,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "VFt33YS85TZMOFu",
+      "runId": 780270905
+    },
+    "V5IX0z4cb4AY2G7": {
+      "name": "petra",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "V5IX0z4cb4AY2G7",
+      "runId": 780270905
+    },
+    "fQXRuxs4bMbf4F8": {
+      "name": "heinoric",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 2,
+      "wep": 13,
+      "bwep": 35,
+      "win": false,
+      "kills": 1606,
+      "ultra": 2,
+      "skills": [
+        12,
+        17,
+        27,
+        23,
+        4,
+        25,
+        14,
+        8,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "fQXRuxs4bMbf4F8",
+      "runId": 780270905
     }
   }
 }
