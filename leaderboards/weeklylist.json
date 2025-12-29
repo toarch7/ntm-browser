@@ -1583,21 +1583,88 @@
       "name": "minikyu",
       "char": 6,
       "skin": true,
-      "area": 103,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
       "wep": 117,
-      "bwep": 27,
+      "bwep": 76,
       "win": false,
-      "kills": 130,
+      "kills": 196,
       "ultra": 0,
       "skills": [
+        14,
         4,
-        10
+        28,
+        16
       ],
       "crown": 11,
       "version": 2616,
       "uid": "9n5ADQaiQ095LJ8",
+      "runId": 221268802
+    },
+    "o79Q3P5PCfhP4Md": {
+      "name": "дол",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 13,
+      "win": false,
+      "kills": 167,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        6
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "o79Q3P5PCfhP4Md",
+      "runId": 221268802
+    },
+    "XnAJIQJLzW63LmH": {
+      "name": "thiagoelcrac",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 117,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        26
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "XnAJIQJLzW63LmH",
+      "runId": 221268802
+    },
+    "oVHR4MU8y0T9CVt": {
+      "name": "GABORRSSS",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 6,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        14,
+        19
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "oVHR4MU8y0T9CVt",
       "runId": 221268802
     }
   }
