@@ -928,6 +928,89 @@
       "version": 2616,
       "uid": "72iG4L7VbC912KR",
       "runId": 780270905
+    },
+    "6gJ755X99gAusv3": {
+      "name": "оарс",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6gJ755X99gAusv3",
+      "runId": 780270905
+    },
+    "ovUHhOyvBYnrZ8n": {
+      "name": "mk.robot",
+      "char": 3,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 75,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        12,
+        9,
+        27,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ovUHhOyvBYnrZ8n",
+      "runId": 780270905
+    },
+    "0VBVvh8E44YCT3d": {
+      "name": "pepe",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 23,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0VBVvh8E44YCT3d",
+      "runId": 780270905
+    },
+    "K6634MT72u7hxf9": {
+      "name": "rafa",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 1,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "K6634MT72u7hxf9",
+      "runId": 780270905
     }
   }
 }
