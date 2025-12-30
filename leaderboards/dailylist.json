@@ -235,6 +235,27 @@
       "version": 2616,
       "uid": "iSW1g25J593JBRX",
       "runId": 1817933386
+    },
+    "J1310A51338h9Tx": {
+      "name": "Фирог",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 6,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        8,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J1310A51338h9Tx",
+      "runId": 1817933386
     }
   }
 }
