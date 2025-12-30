@@ -1933,19 +1933,22 @@
       "name": "diego",
       "char": 6,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 117,
-      "bwep": 0,
+      "wep": 116,
+      "bwep": 88,
       "win": false,
-      "kills": 166,
+      "kills": 261,
       "ultra": 0,
       "skills": [
         4,
         10,
-        6,
-        28
+        25,
+        8,
+        13,
+        23,
+        22
       ],
       "crown": 11,
       "version": 2616,
@@ -2069,6 +2072,27 @@
       "crown": 11,
       "version": 2616,
       "uid": "g8y5Hjq19F13h7R",
+      "runId": 221268802
+    },
+    "JMsnOvLHWOEg262": {
+      "name": "Shadow",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 71,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        4,
+        6
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "JMsnOvLHWOEg262",
       "runId": 221268802
     }
   }
