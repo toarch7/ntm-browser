@@ -535,19 +535,22 @@
       "name": "petra",
       "char": 6,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 38,
-      "bwep": 117,
+      "wep": 26,
+      "bwep": 22,
       "win": false,
-      "kills": 270,
+      "kills": 376,
       "ultra": 0,
       "skills": [
         14,
-        10,
+        19,
+        25,
         4,
         16,
+        8,
+        22,
         1
       ],
       "crown": 11,
@@ -1806,6 +1809,29 @@
       "crown": 11,
       "version": 2616,
       "uid": "NY9RApSawklF80D",
+      "runId": 221268802
+    },
+    "3NBR0LO17i8h5B1": {
+      "name": "GayBreed",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 50,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        4,
+        6,
+        13,
+        23
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "3NBR0LO17i8h5B1",
       "runId": 221268802
     }
   }
