@@ -265,6 +265,48 @@
       "version": 2616,
       "uid": "jBOe1OQKU5xLK63",
       "runId": 144658156
+    },
+    "dV6CsS4t8Z29ZQ8": {
+      "name": "Faton",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 4,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        7,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "dV6CsS4t8Z29ZQ8",
+      "runId": 144658156
+    },
+    "Rqg7II9Bi1vpuav": {
+      "name": "Individ",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        7,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Rqg7II9Bi1vpuav",
+      "runId": 144658156
     }
   }
 }
