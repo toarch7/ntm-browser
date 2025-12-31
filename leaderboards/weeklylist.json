@@ -328,16 +328,17 @@
       "char": 6,
       "skin": true,
       "area": 3,
-      "subarea": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 117,
-      "bwep": 52,
+      "wep": 13,
+      "bwep": 75,
       "win": false,
-      "kills": 155,
+      "kills": 156,
       "ultra": 0,
       "skills": [
-        4,
-        10
+        7,
+        19,
+        4
       ],
       "crown": 11,
       "version": 2616,
@@ -2399,6 +2400,31 @@
       "crown": 11,
       "version": 2616,
       "uid": "Pmdlp44MK7PdWW1",
+      "runId": 221268802
+    },
+    "5F1T08TleE154C6": {
+      "name": "pericles",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 117,
+      "win": false,
+      "kills": 264,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        6,
+        12,
+        16,
+        8
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "5F1T08TleE154C6",
       "runId": 221268802
     }
   }
