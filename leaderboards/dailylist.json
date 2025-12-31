@@ -1122,6 +1122,105 @@
       "version": 2616,
       "uid": "Cx25nQhUUzYS0X3",
       "runId": 144658156
+    },
+    "46dEFL078X8rC71": {
+      "name": "I_Kaido",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "46dEFL078X8rC71",
+      "runId": 144658156
+    },
+    "J65KI7B6j02K6Qg": {
+      "name": "Camael",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 3,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        7,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J65KI7B6j02K6Qg",
+      "runId": 144658156
+    },
+    "Hoqcf9Pmg18b7VQ": {
+      "name": "BinzTheBest",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        7,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Hoqcf9Pmg18b7VQ",
+      "runId": 144658156
+    },
+    "e6CDv1YuY3DexNr": {
+      "name": "felixx",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 5,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "e6CDv1YuY3DexNr",
+      "runId": 144658156
+    },
+    "t7RB2C6gJ9Y95kW": {
+      "name": "zymxc",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 76,
+      "win": false,
+      "kills": 146,
+      "ultra": 0,
+      "skills": [
+        12,
+        24,
+        8,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "t7RB2C6gJ9Y95kW",
+      "runId": 144658156
     }
   }
 }
