@@ -2040,14 +2040,13 @@
       "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 19,
-      "bwep": 2,
+      "wep": 11,
+      "bwep": 71,
       "win": false,
-      "kills": 188,
+      "kills": 191,
       "ultra": 0,
       "skills": [
         7,
-        4,
         25,
         3,
         12,
@@ -2479,6 +2478,69 @@
       "crown": 11,
       "version": 2616,
       "uid": "L1O96R2vX7ElLKU",
+      "runId": 221268802
+    },
+    "cuClQz71810v24k": {
+      "name": "venuz",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 88,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        14,
+        4
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "cuClQz71810v24k",
+      "runId": 221268802
+    },
+    "8QO50FRWUed33YK": {
+      "name": "leandro",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 88,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        7,
+        10
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "8QO50FRWUed33YK",
+      "runId": 221268802
+    },
+    "HOuRYAJMpcX2FQL": {
+      "name": "Ngoen_Gus",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 117,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        4,
+        23
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "HOuRYAJMpcX2FQL",
       "runId": 221268802
     }
   }

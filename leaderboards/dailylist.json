@@ -470,6 +470,68 @@
       "version": 2616,
       "uid": "504sL66nmxK137s",
       "runId": 144658156
+    },
+    "g1211BgCrIKFN2k": {
+      "name": "Alkol",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "g1211BgCrIKFN2k",
+      "runId": 144658156
+    },
+    "5B1ryIhW0194ztc": {
+      "name": "javi",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        28,
+        27,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5B1ryIhW0194ztc",
+      "runId": 144658156
+    },
+    "DcNbQ7620551Wp3": {
+      "name": "Alicebell",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 20,
+      "win": false,
+      "kills": 259,
+      "ultra": 0,
+      "skills": [
+        12,
+        24,
+        14,
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "DcNbQ7620551Wp3",
+      "runId": 144658156
     }
   }
 }
