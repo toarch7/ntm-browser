@@ -51,17 +51,16 @@
       "char": 6,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 71,
-      "bwep": 11,
+      "wep": 30,
+      "bwep": 117,
       "win": false,
-      "kills": 111,
+      "kills": 144,
       "ultra": 0,
       "skills": [
         7,
-        19,
-        6
+        4
       ],
       "crown": 11,
       "version": 2616,
@@ -774,19 +773,22 @@
       "name": "javi",
       "char": 6,
       "skin": true,
-      "area": 104,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 62,
-      "bwep": 88,
+      "wep": 88,
+      "bwep": 12,
       "win": false,
-      "kills": 179,
+      "kills": 257,
       "ultra": 0,
       "skills": [
         4,
         23,
         6,
-        13
+        13,
+        1,
+        8,
+        21
       ],
       "crown": 11,
       "version": 2616,
@@ -3465,6 +3467,31 @@
       "crown": 11,
       "version": 2616,
       "uid": "u1ofC7CR28Ip125",
+      "runId": 221268802
+    },
+    "55FL427Aw0tMxK7": {
+      "name": "BATATAOOP",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 36,
+      "bwep": 117,
+      "win": false,
+      "kills": 327,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        28,
+        6,
+        8,
+        22
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "55FL427Aw0tMxK7",
       "runId": 221268802
     }
   }
