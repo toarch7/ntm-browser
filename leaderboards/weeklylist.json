@@ -3609,6 +3609,31 @@
       "version": 2616,
       "uid": "t4yWNFMaO3kuHBB",
       "runId": 221268802
+    },
+    "p53xkrr01zE2wzp": {
+      "name": "Skulve",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 11,
+      "win": false,
+      "kills": 197,
+      "ultra": 0,
+      "skills": [
+        7,
+        10,
+        6,
+        28,
+        16,
+        25
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "p53xkrr01zE2wzp",
+      "runId": 221268802
     }
   }
 }
