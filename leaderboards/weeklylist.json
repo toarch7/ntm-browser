@@ -1324,19 +1324,20 @@
       "name": "Individ",
       "char": 6,
       "skin": true,
-      "area": 4,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
       "wep": 117,
       "bwep": 44,
       "win": false,
-      "kills": 170,
+      "kills": 220,
       "ultra": 0,
       "skills": [
-        14,
+        4,
         19,
         6,
-        13
+        13,
+        22
       ],
       "crown": 11,
       "version": 2616,
@@ -3214,6 +3215,51 @@
       "crown": 11,
       "version": 2616,
       "uid": "M1l9rz3eT6Fqr2A",
+      "runId": 221268802
+    },
+    "8F2TT0j2zlx4E4u": {
+      "name": "Thevalois595",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 10,
+      "win": false,
+      "kills": 247,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        28,
+        6,
+        8
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "8F2TT0j2zlx4E4u",
+      "runId": 221268802
+    },
+    "TbQ8P9RwAbd46GE": {
+      "name": "balux",
+      "char": 6,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 117,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        4,
+        10
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "TbQ8P9RwAbd46GE",
       "runId": 221268802
     }
   }
