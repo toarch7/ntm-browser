@@ -1327,19 +1327,20 @@
       "char": 6,
       "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 117,
-      "bwep": 44,
+      "wep": 65,
+      "bwep": 23,
       "win": false,
-      "kills": 220,
+      "kills": 234,
       "ultra": 0,
       "skills": [
         4,
-        19,
+        10,
         6,
         13,
-        22
+        22,
+        8
       ],
       "crown": 11,
       "version": 2616,
@@ -3492,6 +3493,27 @@
       "crown": 11,
       "version": 2616,
       "uid": "55FL427Aw0tMxK7",
+      "runId": 221268802
+    },
+    "9GHQjww5g9afFvg": {
+      "name": "AZAEL",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 117,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        14,
+        4
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "9GHQjww5g9afFvg",
       "runId": 221268802
     }
   }
