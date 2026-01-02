@@ -75,6 +75,123 @@
       "version": 2616,
       "uid": "MsUk1E43L3me5QT",
       "runId": 465067201
+    },
+    "Q5tfS02ENE7GO2B": {
+      "name": "ZeroSubjet0",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 21,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Q5tfS02ENE7GO2B",
+      "runId": 465067201
+    },
+    "717n7YHK1wnjG2K": {
+      "name": "Shan",
+      "char": 1,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 115,
+      "bwep": 60,
+      "win": false,
+      "kills": 448,
+      "ultra": 2,
+      "skills": [
+        1,
+        27,
+        13,
+        8,
+        23,
+        10,
+        25,
+        7
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "717n7YHK1wnjG2K",
+      "runId": 465067201
+    },
+    "HOuRYAJMpcX2FQL": {
+      "name": "Ngoen_Gus",
+      "char": 11,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 23,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        9,
+        27,
+        6,
+        1,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HOuRYAJMpcX2FQL",
+      "runId": 465067201
+    },
+    "Rqg7II9Bi1vpuav": {
+      "name": "Individ",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        1,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Rqg7II9Bi1vpuav",
+      "runId": 465067201
+    },
+    "2g560IZ71YfbT57": {
+      "name": "GODKILLER_69",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 59,
+      "win": false,
+      "kills": 266,
+      "ultra": 0,
+      "skills": [
+        21,
+        12,
+        23,
+        8,
+        25,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2g560IZ71YfbT57",
+      "runId": 465067201
     }
   }
 }
