@@ -3574,16 +3574,18 @@
       "name": "xcesarx",
       "char": 6,
       "skin": true,
-      "area": 104,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 88,
+      "wep": 57,
       "bwep": 8,
       "win": false,
-      "kills": 69,
+      "kills": 88,
       "ultra": 0,
       "skills": [
-        4
+        4,
+        26,
+        28
       ],
       "crown": 11,
       "version": 2616,
@@ -3778,20 +3780,21 @@
       "runId": 221268802
     },
     "77nbiUPMb5BkFR6": {
-      "name": "ay",
+      "name": "Spartan845",
       "char": 6,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 62,
-      "bwep": 88,
+      "wep": 88,
+      "bwep": 10,
       "win": false,
-      "kills": 90,
+      "kills": 155,
       "ultra": 0,
       "skills": [
         14,
-        19
+        4,
+        13
       ],
       "crown": 11,
       "version": 2616,
@@ -3978,6 +3981,54 @@
       "crown": 11,
       "version": 2616,
       "uid": "Qn63s7RS797fV0Y",
+      "runId": 221268802
+    },
+    "2Z2fzU34uSWIiU6": {
+      "name": "Soltar.20",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 86,
+      "win": false,
+      "kills": 447,
+      "ultra": 1,
+      "skills": [
+        14,
+        10,
+        25,
+        8,
+        13,
+        23,
+        22,
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "2Z2fzU34uSWIiU6",
+      "runId": 221268802
+    },
+    "6ev8Aaet7fIH3F8": {
+      "name": "David",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 55,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        14,
+        4
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "6ev8Aaet7fIH3F8",
       "runId": 221268802
     }
   }

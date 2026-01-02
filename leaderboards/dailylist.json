@@ -1349,6 +1349,63 @@
       "version": 2616,
       "uid": "3d1f6wyz3n9t3oI",
       "runId": 465067201
+    },
+    "7MMBvrQTKGtP3z8": {
+      "name": "Seeke",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "7MMBvrQTKGtP3z8",
+      "runId": 465067201
+    },
+    "067pYjmrK2bp1RB": {
+      "name": "samur",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 25,
+      "crown": 1,
+      "version": 2616,
+      "uid": "067pYjmrK2bp1RB",
+      "runId": 465067201
+    },
+    "X7HAP4mmVaX45zq": {
+      "name": "huevo_minion.2",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 23,
+      "win": false,
+      "kills": 198,
+      "ultra": 0,
+      "skills": [
+        9,
+        27,
+        13,
+        1,
+        4,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "X7HAP4mmVaX45zq",
+      "runId": 465067201
     }
   }
 }
