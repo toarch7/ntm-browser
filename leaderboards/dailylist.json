@@ -573,6 +573,47 @@
       "version": 2616,
       "uid": "5B1ryIhW0194ztc",
       "runId": 465067201
+    },
+    "3bVXmOX1Wmt2jm7": {
+      "name": "Penance",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 24,
+      "crown": 1,
+      "version": 2616,
+      "uid": "3bVXmOX1Wmt2jm7",
+      "runId": 465067201
+    },
+    "1txvcvXZFuaGg9p": {
+      "name": "Suco_de_Fruta",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 66,
+      "win": false,
+      "kills": 246,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        21,
+        8,
+        10,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1txvcvXZFuaGg9p",
+      "runId": 465067201
     }
   }
 }
