@@ -1154,6 +1154,109 @@
       "version": 2616,
       "uid": "7xZaGX4gPun1aTy",
       "runId": 465067201
+    },
+    "wI797Owv1l5dqVF": {
+      "name": "999=MUERTE",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 57,
+      "win": false,
+      "kills": 224,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        12,
+        8,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "wI797Owv1l5dqVF",
+      "runId": 465067201
+    },
+    "h1U1dg3Bp50iw45": {
+      "name": "Max",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 5,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h1U1dg3Bp50iw45",
+      "runId": 465067201
+    },
+    "fFT741V0zD7Kdn2": {
+      "name": "Seekk",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "fFT741V0zD7Kdn2",
+      "runId": 465067201
+    },
+    "3Z2U1z6a7t7AWUs": {
+      "name": "JIMMY",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 15,
+      "bwep": 5,
+      "win": false,
+      "kills": 198,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        12,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3Z2U1z6a7t7AWUs",
+      "runId": 465067201
+    },
+    "aSVfYb7B8i96w09": {
+      "name": "rjenga",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aSVfYb7B8i96w09",
+      "runId": 465067201
     }
   }
 }

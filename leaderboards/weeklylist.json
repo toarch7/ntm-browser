@@ -3885,6 +3885,79 @@
       "version": 2616,
       "uid": "7xZaGX4gPun1aTy",
       "runId": 221268802
+    },
+    "Pt2Q60770EkCpBZ": {
+      "name": "DARKSALA",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 79,
+      "win": false,
+      "kills": 222,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        28,
+        13,
+        8,
+        21
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "Pt2Q60770EkCpBZ",
+      "runId": 221268802
+    },
+    "6C0U1dHxsB8or8n": {
+      "name": "papuxd",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 33,
+      "win": false,
+      "kills": 229,
+      "ultra": 0,
+      "skills": [
+        4,
+        10,
+        28,
+        13,
+        8
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "6C0U1dHxsB8or8n",
+      "runId": 221268802
+    },
+    "aSVfYb7B8i96w09": {
+      "name": "rjenga",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 25,
+      "win": false,
+      "kills": 226,
+      "ultra": 0,
+      "skills": [
+        14,
+        10,
+        6,
+        28,
+        8
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "aSVfYb7B8i96w09",
+      "runId": 221268802
     }
   }
 }
