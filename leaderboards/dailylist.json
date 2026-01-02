@@ -1,4 +1,80 @@
 {
   "day": 2,
-  "entries": {}
+  "entries": {
+    "J65KI7B6j02K6Qg": {
+      "name": "Camael",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 21,
+      "win": false,
+      "kills": 16,
+      "crown": 1,
+      "version": 2616,
+      "uid": "J65KI7B6j02K6Qg",
+      "runId": 465067201
+    },
+    "9dw405s3rb690Lm": {
+      "name": "Adrian",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 52,
+      "bwep": 69,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        1,
+        6,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9dw405s3rb690Lm",
+      "runId": 465067201
+    },
+    "r806QDLkd2yCEBU": {
+      "name": "Scrotum",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 72,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        12,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "r806QDLkd2yCEBU",
+      "runId": 465067201
+    },
+    "MsUk1E43L3me5QT": {
+      "name": "Alesssss",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 46,
+      "win": false,
+      "kills": 25,
+      "crown": 1,
+      "version": 2616,
+      "uid": "MsUk1E43L3me5QT",
+      "runId": 465067201
+    }
+  }
 }
