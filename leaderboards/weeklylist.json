@@ -3759,16 +3759,17 @@
       "char": 6,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 31,
-      "bwep": 117,
+      "wep": 69,
+      "bwep": 52,
       "win": false,
-      "kills": 115,
+      "kills": 143,
       "ultra": 0,
       "skills": [
         4,
-        19
+        19,
+        28
       ],
       "crown": 11,
       "version": 2616,
