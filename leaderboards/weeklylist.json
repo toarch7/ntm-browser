@@ -3796,6 +3796,27 @@
       "version": 2616,
       "uid": "77nbiUPMb5BkFR6",
       "runId": 221268802
+    },
+    "63ubAvJS1hQ1s4N": {
+      "name": "DAMAR",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 117,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        4,
+        10
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "63ubAvJS1hQ1s4N",
+      "runId": 221268802
     }
   }
 }
