@@ -834,6 +834,42 @@
       "version": 2616,
       "uid": "5B1ryIhW0194ztc",
       "runId": 243129479
+    },
+    "H6W9vgdLP4iCEWr": {
+      "name": "Albert703",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "H6W9vgdLP4iCEWr",
+      "runId": 243129479
+    },
+    "0VBVvh8E44YCT3d": {
+      "name": "pepe",
+      "char": 15,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 3,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0VBVvh8E44YCT3d",
+      "runId": 243129479
     }
   }
 }
