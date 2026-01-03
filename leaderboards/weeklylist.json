@@ -3925,10 +3925,10 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 13,
-      "bwep": 33,
+      "wep": 37,
+      "bwep": 117,
       "win": false,
-      "kills": 229,
+      "kills": 266,
       "ultra": 0,
       "skills": [
         4,
@@ -4397,6 +4397,27 @@
       "crown": 11,
       "version": 2616,
       "uid": "w3f2I4K8cy0CnJy",
+      "runId": 221268802
+    },
+    "A5i3QQN6T9iDNRo": {
+      "name": "penelargo",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 117,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        14,
+        10
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "A5i3QQN6T9iDNRo",
       "runId": 221268802
     }
   }
