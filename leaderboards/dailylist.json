@@ -1051,6 +1051,52 @@
       "version": 2616,
       "uid": "Q5tfS02ENE7GO2B",
       "runId": 243129479
+    },
+    "X7HAP4mmVaX45zq": {
+      "name": "huevo_minion.2",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 85,
+      "bwep": 74,
+      "win": false,
+      "kills": 334,
+      "ultra": 0,
+      "skills": [
+        10,
+        7,
+        24,
+        14,
+        23,
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "X7HAP4mmVaX45zq",
+      "runId": 243129479
+    },
+    "3JG40Iyt3C7k5Nh": {
+      "name": "Jhofran",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 3,
+      "win": false,
+      "kills": 19,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3JG40Iyt3C7k5Nh",
+      "runId": 243129479
     }
   }
 }
