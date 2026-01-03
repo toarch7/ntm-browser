@@ -1104,10 +1104,10 @@
       "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 13,
-      "bwep": 11,
+      "wep": 30,
+      "bwep": 79,
       "win": false,
-      "kills": 173,
+      "kills": 176,
       "ultra": 0,
       "skills": [
         7,
@@ -4418,6 +4418,30 @@
       "crown": 11,
       "version": 2616,
       "uid": "A5i3QQN6T9iDNRo",
+      "runId": 221268802
+    },
+    "R01pEpp7J3YZsw1": {
+      "name": "NEUTRON",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 117,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        7,
+        10,
+        25,
+        8,
+        12
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "R01pEpp7J3YZsw1",
       "runId": 221268802
     }
   }
