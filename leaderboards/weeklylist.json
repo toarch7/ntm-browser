@@ -4152,13 +4152,14 @@
       "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 18,
-      "bwep": 117,
+      "wep": 117,
+      "bwep": 19,
       "win": false,
-      "kills": 99,
+      "kills": 100,
       "ultra": 0,
       "skills": [
-        4
+        4,
+        23
       ],
       "crown": 11,
       "version": 2616,
@@ -4213,6 +4214,28 @@
       "crown": 11,
       "version": 2616,
       "uid": "05Yx6Zi3U6Mnf3W",
+      "runId": 221268802
+    },
+    "9CjvJ3uFb6q5Lp4": {
+      "name": "repka",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 117,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        7,
+        10,
+        25
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "9CjvJ3uFb6q5Lp4",
       "runId": 221268802
     }
   }
