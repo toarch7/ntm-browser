@@ -1007,6 +1007,50 @@
       "version": 2616,
       "uid": "8C7pj260n52Il0h",
       "runId": 243129479
+    },
+    "l565NP61pv9x08J": {
+      "name": "SantKont",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 57,
+      "win": false,
+      "kills": 213,
+      "ultra": 0,
+      "skills": [
+        10,
+        6,
+        12,
+        14,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "l565NP61pv9x08J",
+      "runId": 243129479
+    },
+    "Q5tfS02ENE7GO2B": {
+      "name": "SubjecZero",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 19,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Q5tfS02ENE7GO2B",
+      "runId": 243129479
     }
   }
 }

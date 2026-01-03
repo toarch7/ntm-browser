@@ -1658,18 +1658,16 @@
       "name": "thiagoelcrac",
       "char": 6,
       "skin": true,
-      "area": 3,
+      "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 2,
+      "wep": 79,
       "bwep": 117,
       "win": false,
-      "kills": 84,
+      "kills": 97,
       "ultra": 0,
       "skills": [
-        4,
-        10,
-        26
+        4
       ],
       "crown": 11,
       "version": 2616,
@@ -4312,23 +4310,69 @@
       "name": "fforgotenn",
       "char": 6,
       "skin": true,
-      "area": 104,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 88,
+      "wep": 23,
       "bwep": 117,
       "win": false,
-      "kills": 175,
+      "kills": 355,
       "ultra": 0,
       "skills": [
         4,
         10,
+        25,
         28,
-        13
+        16,
+        24,
+        1
       ],
       "crown": 11,
       "version": 2616,
       "uid": "UR29bJCzlV9PoEv",
+      "runId": 221268802
+    },
+    "Q5tfS02ENE7GO2B": {
+      "name": "SubjecZero",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 50,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        4,
+        19
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "Q5tfS02ENE7GO2B",
+      "runId": 221268802
+    },
+    "lZikK5QMSqj989n": {
+      "name": "KILLERDark",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 117,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        7,
+        19,
+        25
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "lZikK5QMSqj989n",
       "runId": 221268802
     }
   }
