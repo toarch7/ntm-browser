@@ -4939,6 +4939,53 @@
       "version": 2616,
       "uid": "E8OU8s8XZNb9jLJ",
       "runId": 221268802
+    },
+    "nF8jGfFVc5gQtJf": {
+      "name": "Aelex",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 117,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "nF8jGfFVc5gQtJf",
+      "runId": 221268802
+    },
+    "Yz0jrjVK1Ff99xm": {
+      "name": "blastlight",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 88,
+      "bwep": 22,
+      "win": false,
+      "kills": 466,
+      "ultra": 0,
+      "skills": [
+        4,
+        19,
+        13,
+        6,
+        25,
+        3,
+        22,
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "Yz0jrjVK1Ff99xm",
+      "runId": 221268802
     }
   }
 }
