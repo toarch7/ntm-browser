@@ -3922,20 +3922,21 @@
       "name": "papuxd",
       "char": 6,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
+      "area": 6,
+      "subarea": 1,
       "loops": 0,
-      "wep": 37,
-      "bwep": 117,
+      "wep": 117,
+      "bwep": 66,
       "win": false,
-      "kills": 266,
+      "kills": 328,
       "ultra": 0,
       "skills": [
         4,
         10,
         28,
-        13,
-        8
+        16,
+        8,
+        3
       ],
       "crown": 11,
       "version": 2616,
@@ -4579,6 +4580,53 @@
       "crown": 11,
       "version": 2616,
       "uid": "46dEFL078X8rC71",
+      "runId": 221268802
+    },
+    "0SWrFCYC91s948Q": {
+      "name": "Seek",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 71,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        7,
+        19
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "0SWrFCYC91s948Q",
+      "runId": 221268802
+    },
+    "kYgU1aPmLre19Jf": {
+      "name": "РЫБАЧЛЕНОФИЛ",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 9,
+      "win": false,
+      "kills": 196,
+      "ultra": 0,
+      "skills": [
+        17,
+        4,
+        25,
+        7,
+        28,
+        16,
+        8
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "kYgU1aPmLre19Jf",
       "runId": 221268802
     }
   }
