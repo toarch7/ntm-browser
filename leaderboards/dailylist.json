@@ -1150,6 +1150,50 @@
       "version": 2616,
       "uid": "QG253Pt5dYzFRCL",
       "runId": 1657419978
+    },
+    "X7HAP4mmVaX45zq": {
+      "name": "huevo_minion.2",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 7,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        23,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "X7HAP4mmVaX45zq",
+      "runId": 1657419978
+    },
+    "d88yy8T17d6M126": {
+      "name": "B3",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 6,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        6,
+        8,
+        12,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "d88yy8T17d6M126",
+      "runId": 1657419978
     }
   }
 }
