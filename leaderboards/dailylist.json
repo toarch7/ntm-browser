@@ -1251,6 +1251,69 @@
       "version": 2616,
       "uid": "fgQj0O2P1b035Sy",
       "runId": 1657419978
+    },
+    "9WsMZ3D3UF7RsNF": {
+      "name": "dingdan",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 7,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        6,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9WsMZ3D3UF7RsNF",
+      "runId": 1657419978
+    },
+    "3JG40Iyt3C7k5Nh": {
+      "name": "Jhofran",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 6,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        23,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3JG40Iyt3C7k5Nh",
+      "runId": 1657419978
+    },
+    "l565NP61pv9x08J": {
+      "name": "SantKont",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 19,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        23,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "l565NP61pv9x08J",
+      "runId": 1657419978
     }
   }
 }
