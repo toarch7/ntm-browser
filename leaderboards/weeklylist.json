@@ -4703,6 +4703,49 @@
       "version": 2616,
       "uid": "BmHUB93ALbN0Yg6",
       "runId": 221268802
+    },
+    "kKaMVFhEScs02XN": {
+      "name": "Hans",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 11,
+      "win": false,
+      "kills": 173,
+      "ultra": 0,
+      "skills": [
+        4,
+        23,
+        13,
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "kKaMVFhEScs02XN",
+      "runId": 221268802
+    },
+    "sTXKf4R34d044w5": {
+      "name": "DargombeZ",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 6,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "sTXKf4R34d044w5",
+      "runId": 221268802
     }
   }
 }
