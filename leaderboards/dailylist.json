@@ -960,6 +960,51 @@
       "version": 2616,
       "uid": "67qC7sPlsk3CPo7",
       "runId": 1657419978
+    },
+    "J65KI7B6j02K6Qg": {
+      "name": "Camael",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 124,
+      "win": false,
+      "kills": 224,
+      "ultra": 0,
+      "skills": [
+        22,
+        7,
+        9,
+        24,
+        16,
+        19
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "J65KI7B6j02K6Qg",
+      "runId": 1657419978
+    },
+    "9HhjgV1gnquFcPy": {
+      "name": "Kainz",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 16,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9HhjgV1gnquFcPy",
+      "runId": 1657419978
     }
   }
 }
