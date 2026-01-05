@@ -1,4 +1,104 @@
 {
   "day": 5,
-  "entries": {}
+  "entries": {
+    "MNS6zDGpA0RJXwe": {
+      "name": "Seeker90",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "MNS6zDGpA0RJXwe",
+      "runId": 1258389308
+    },
+    "a000X9e7j4vAN46": {
+      "name": "Seeker90",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a000X9e7j4vAN46",
+      "runId": 1258389308
+    },
+    "mVK1r8AwwMqTQG9": {
+      "name": "Astrialiminal",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 8,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "mVK1r8AwwMqTQG9",
+      "runId": 1258389308
+    },
+    "Jj2TXx6YP450Ul3": {
+      "name": "lococo",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Jj2TXx6YP450Ul3",
+      "runId": 1258389308
+    },
+    "717n7YHK1wnjG2K": {
+      "name": "Shan",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 35,
+      "win": false,
+      "kills": 376,
+      "ultra": 0,
+      "skills": [
+        23,
+        4,
+        17,
+        13,
+        1,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "717n7YHK1wnjG2K",
+      "runId": 1258389308
+    }
+  }
 }
