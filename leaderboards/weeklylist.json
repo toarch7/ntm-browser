@@ -8,16 +8,16 @@
       "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 68,
-      "bwep": 8,
+      "wep": 74,
+      "bwep": 28,
       "win": false,
-      "kills": 288,
+      "kills": 317,
       "ultra": 0,
       "skills": [
         3,
         1,
         4,
-        12
+        27
       ],
       "crown": 6,
       "version": 2616,
@@ -917,6 +917,82 @@
       "crown": 6,
       "version": 2616,
       "uid": "4Hx6l9tfW93i9G3",
+      "runId": 1428199515
+    },
+    "2hE0KvNP41ta72a": {
+      "name": "larrycapinga",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 68,
+      "win": false,
+      "kills": 539,
+      "ultra": 1,
+      "skills": [
+        3,
+        23,
+        27,
+        1,
+        17,
+        7
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "2hE0KvNP41ta72a",
+      "runId": 1428199515
+    },
+    "U1X79389jk3l094": {
+      "name": "MADMAXED",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 68,
+      "bwep": 35,
+      "win": false,
+      "kills": 688,
+      "ultra": 1,
+      "skills": [
+        28,
+        23,
+        27,
+        1,
+        17,
+        12,
+        9
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "U1X79389jk3l094",
+      "runId": 1428199515
+    },
+    "DX8947ic09UzK2e": {
+      "name": "julho",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 78,
+      "bwep": 90,
+      "win": false,
+      "kills": 279,
+      "ultra": 0,
+      "skills": [
+        3,
+        23,
+        6,
+        1,
+        12,
+        22
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "DX8947ic09UzK2e",
       "runId": 1428199515
     }
   }
