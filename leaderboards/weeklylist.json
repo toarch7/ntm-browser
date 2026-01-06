@@ -1841,6 +1841,55 @@
       "version": 2616,
       "uid": "77nbiUPMb5BkFR6",
       "runId": 1428199515
+    },
+    "p4xW8V9qC81qdtz": {
+      "name": "критик",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 68,
+      "bwep": 12,
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        26,
+        10,
+        27,
+        1
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "p4xW8V9qC81qdtz",
+      "runId": 1428199515
+    },
+    "aBrYq2bcSKE8mTl": {
+      "name": "Scermitz",
+      "char": 2,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 3,
+      "wep": 111,
+      "bwep": 113,
+      "win": false,
+      "kills": 3880,
+      "ultra": 1,
+      "skills": [
+        3,
+        23,
+        27,
+        4,
+        17,
+        6,
+        7
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "aBrYq2bcSKE8mTl",
+      "runId": 1428199515
     }
   }
 }
