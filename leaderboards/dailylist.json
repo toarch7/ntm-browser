@@ -757,6 +757,57 @@
       "version": 2616,
       "uid": "a00O9SbvWgMV0O3",
       "runId": 199138981
+    },
+    "5B1ryIhW0194ztc": {
+      "name": "javi",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 66,
+      "bwep": 35,
+      "win": false,
+      "kills": 1095,
+      "ultra": 1,
+      "skills": [
+        1,
+        22,
+        8,
+        10,
+        28,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5B1ryIhW0194ztc",
+      "runId": 199138981
+    },
+    "J1310A51338h9Tx": {
+      "name": "Фро́гетик",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 35,
+      "win": false,
+      "kills": 375,
+      "ultra": 0,
+      "skills": [
+        1,
+        12,
+        13,
+        8,
+        22,
+        27,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J1310A51338h9Tx",
+      "runId": 199138981
     }
   }
 }
