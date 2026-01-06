@@ -413,6 +413,69 @@
       "version": 2616,
       "uid": "BmHUB93ALbN0Yg6",
       "runId": 199138981
+    },
+    "sJmRM0v54iB9ouc": {
+      "name": "Flivent",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 69,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        1,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sJmRM0v54iB9ouc",
+      "runId": 199138981
+    },
+    "V5IX0z4cb4AY2G7": {
+      "name": "petra",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "V5IX0z4cb4AY2G7",
+      "runId": 199138981
+    },
+    "Smtr2HrMZWOC9hD": {
+      "name": "монжур",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 183,
+      "ultra": 0,
+      "skills": [
+        1,
+        22,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Smtr2HrMZWOC9hD",
+      "runId": 199138981
     }
   }
 }
