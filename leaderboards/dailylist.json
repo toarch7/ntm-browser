@@ -522,6 +522,68 @@
       "version": 2616,
       "uid": "f5TMbRX1tV4fUgk",
       "runId": 199138981
+    },
+    "9At4L0N1F7a85gD": {
+      "name": "Seeker",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "9At4L0N1F7a85gD",
+      "runId": 199138981
+    },
+    "l565NP61pv9x08J": {
+      "name": "SantKont",
+      "char": 7,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 4,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        6,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "l565NP61pv9x08J",
+      "runId": 199138981
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 5,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 58,
+      "bwep": 38,
+      "win": false,
+      "kills": 390,
+      "ultra": 2,
+      "skills": [
+        1,
+        14,
+        8,
+        27,
+        9,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 199138981
     }
   }
 }
