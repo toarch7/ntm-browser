@@ -1019,6 +1019,48 @@
       "version": 2616,
       "uid": "DFL3f7P58FyA4G2",
       "runId": 1822297506
+    },
+    "Ifh936K257hS0C0": {
+      "name": "Momotaro",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 13,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        3,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ifh936K257hS0C0",
+      "runId": 1822297506
+    },
+    "Ef1MW0z7A3a0c4t": {
+      "name": "mimic",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        16,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ef1MW0z7A3a0c4t",
+      "runId": 1822297506
     }
   }
 }
