@@ -514,6 +514,44 @@
       "version": 2616,
       "uid": "7UjeSnnc07ij35o",
       "runId": 1822297506
+    },
+    "3bVXmOX1Wmt2jm7": {
+      "name": "Penance",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3bVXmOX1Wmt2jm7",
+      "runId": 1822297506
+    },
+    "TvbX5np2U8A70y4": {
+      "name": "chrimsy",
+      "char": 6,
+      "skin": false,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 39,
+      "win": false,
+      "kills": 23,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "TvbX5np2U8A70y4",
+      "runId": 1822297506
     }
   }
 }
