@@ -1177,6 +1177,49 @@
       "version": 2616,
       "uid": "vFt8OCUjmNFP8kV",
       "runId": 1822297506
+    },
+    "OImciZ21yg4z4hh": {
+      "name": "Micky's",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        10,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OImciZ21yg4z4hh",
+      "runId": 1822297506
+    },
+    "YAH6d3426115uVc": {
+      "name": "Master",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "YAH6d3426115uVc",
+      "runId": 1822297506
     }
   }
 }
