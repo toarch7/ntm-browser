@@ -1,4 +1,94 @@
 {
   "day": 7,
-  "entries": {}
+  "entries": {
+    "gFZI7ngFYy6R772": {
+      "name": "Eightyfoahh",
+      "char": 4,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2616,
+      "uid": "gFZI7ngFYy6R772",
+      "runId": 1822297506
+    },
+    "I2u4yMC1va1K89r": {
+      "name": "zetaLK",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 17,
+      "crown": 1,
+      "version": 2616,
+      "uid": "I2u4yMC1va1K89r",
+      "runId": 1822297506
+    },
+    "DcNbQ7620551Wp3": {
+      "name": "Alicebell",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "DcNbQ7620551Wp3",
+      "runId": 1822297506
+    },
+    "0cRvs8170fG3g9Q": {
+      "name": "CedNuclearMen",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 18,
+      "crown": 1,
+      "version": 2616,
+      "uid": "0cRvs8170fG3g9Q",
+      "runId": 1822297506
+    },
+    "y7Av064wqOD8505": {
+      "name": "TheIncubus",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 31,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        4,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "y7Av064wqOD8505",
+      "runId": 1822297506
+    }
+  }
 }
