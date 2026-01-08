@@ -2680,6 +2680,28 @@
       "version": 2616,
       "uid": "6v71N333DDGq4Kp",
       "runId": 1428199515
+    },
+    "g6NY43IcpVBQ2Je": {
+      "name": "Kaemo",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 68,
+      "bwep": 6,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        3,
+        23,
+        27
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "g6NY43IcpVBQ2Je",
+      "runId": 1428199515
     }
   }
 }
