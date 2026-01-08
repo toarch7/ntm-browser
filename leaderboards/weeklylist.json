@@ -700,17 +700,19 @@
       "name": "DargombeZ",
       "char": 2,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 68,
-      "bwep": 9,
+      "wep": 5,
+      "bwep": 68,
       "win": false,
-      "kills": 77,
+      "kills": 116,
       "ultra": 0,
       "skills": [
         3,
-        6
+        26,
+        27,
+        1
       ],
       "crown": 6,
       "version": 2616,
@@ -2655,6 +2657,28 @@
       "crown": 6,
       "version": 2616,
       "uid": "DFL3f7P58FyA4G2",
+      "runId": 1428199515
+    },
+    "6v71N333DDGq4Kp": {
+      "name": "Nar",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 66,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        3,
+        23,
+        27
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "6v71N333DDGq4Kp",
       "runId": 1428199515
     }
   }
