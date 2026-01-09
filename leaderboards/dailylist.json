@@ -469,6 +469,29 @@
       "version": 2616,
       "uid": "NY9RApSawklF80D",
       "runId": 1528940644
+    },
+    "1txvcvXZFuaGg9p": {
+      "name": "Suco_de_Fruta",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 30,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        21,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1txvcvXZFuaGg9p",
+      "runId": 1528940644
     }
   }
 }
