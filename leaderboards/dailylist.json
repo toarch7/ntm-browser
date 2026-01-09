@@ -1206,6 +1206,71 @@
       "version": 2616,
       "uid": "fl6o20HPejHxTh1",
       "runId": 1528940644
+    },
+    "L1O96R2vX7ElLKU": {
+      "name": "Macintosh",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 0,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        4,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L1O96R2vX7ElLKU",
+      "runId": 1528940644
+    },
+    "pGzt30k5ZQP58Ko": {
+      "name": "Matee",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 4,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        4,
+        3,
+        1
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "pGzt30k5ZQP58Ko",
+      "runId": 1528940644
+    },
+    "vz9NKuT5ZJC2lI1": {
+      "name": "Riugh",
+      "char": 11,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 17,
+      "win": false,
+      "kills": 172,
+      "ultra": 0,
+      "skills": [
+        14,
+        8,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "vz9NKuT5ZJC2lI1",
+      "runId": 1528940644
     }
   }
 }
