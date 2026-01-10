@@ -895,6 +895,70 @@
       "version": 2616,
       "uid": "g8y5Hjq19F13h7R",
       "runId": 14604636
+    },
+    "jFfcaNiSPf47ZnV": {
+      "name": "Ideal",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 71,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        7,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "jFfcaNiSPf47ZnV",
+      "runId": 14604636
+    },
+    "5B1ryIhW0194ztc": {
+      "name": "javi",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 88,
+      "win": false,
+      "kills": 347,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        23,
+        9,
+        4,
+        25,
+        22,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5B1ryIhW0194ztc",
+      "runId": 14604636
+    },
+    "sJmRM0v54iB9ouc": {
+      "name": "Flivent",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "sJmRM0v54iB9ouc",
+      "runId": 14604636
     }
   }
 }
