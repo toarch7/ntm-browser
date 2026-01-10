@@ -261,6 +261,110 @@
       "version": 2616,
       "uid": "Rqg7II9Bi1vpuav",
       "runId": 14604636
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 11,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 88,
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        7,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 14604636
+    },
+    "NY9RApSawklF80D": {
+      "name": "BonkChoi",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 6,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "NY9RApSawklF80D",
+      "runId": 14604636
+    },
+    "V5IX0z4cb4AY2G7": {
+      "name": "petra",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        7,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "V5IX0z4cb4AY2G7",
+      "runId": 14604636
+    },
+    "1fLMAC6EaXl3VK2": {
+      "name": "Neo_20026",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 27,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1fLMAC6EaXl3VK2",
+      "runId": 14604636
+    },
+    "2WP1FBf93B9PVvB": {
+      "name": "G",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 21,
+      "win": false,
+      "kills": 164,
+      "ultra": 0,
+      "skills": [
+        9,
+        1,
+        12,
+        14,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2WP1FBf93B9PVvB",
+      "runId": 14604636
     }
   }
 }
