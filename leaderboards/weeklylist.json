@@ -3991,6 +3991,32 @@
       "version": 2616,
       "uid": "rWN8EfBU934ABI7",
       "runId": 1428199515
+    },
+    "O699X6IM95jpfNG": {
+      "name": "SPIDER",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 68,
+      "bwep": 88,
+      "win": false,
+      "kills": 366,
+      "ultra": 0,
+      "skills": [
+        3,
+        27,
+        1,
+        4,
+        17,
+        13,
+        7
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "O699X6IM95jpfNG",
+      "runId": 1428199515
     }
   }
 }
