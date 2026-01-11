@@ -709,6 +709,99 @@
       "version": 2616,
       "uid": "y2qE50gQDUItVUJ",
       "runId": 531321748
+    },
+    "HOuRYAJMpcX2FQL": {
+      "name": "Ngoen_Gus",
+      "char": 8,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 60,
+      "bwep": 73,
+      "win": false,
+      "kills": 380,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        22,
+        1,
+        14,
+        25,
+        10,
+        7,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HOuRYAJMpcX2FQL",
+      "runId": 531321748
+    },
+    "5B1ryIhW0194ztc": {
+      "name": "javi",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 88,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        22,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5B1ryIhW0194ztc",
+      "runId": 531321748
+    },
+    "a00O9SbvWgMV0O3": {
+      "name": "BrickInitiation",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        9,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a00O9SbvWgMV0O3",
+      "runId": 531321748
+    },
+    "BDxp4b8UO0QMzH3": {
+      "name": "cuc",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        9,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BDxp4b8UO0QMzH3",
+      "runId": 531321748
     }
   }
 }
