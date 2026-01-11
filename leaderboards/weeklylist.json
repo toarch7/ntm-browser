@@ -1899,17 +1899,19 @@
       "name": "m4kr",
       "char": 2,
       "skin": false,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 68,
-      "bwep": 37,
+      "wep": 16,
+      "bwep": 68,
       "win": false,
-      "kills": 80,
+      "kills": 172,
       "ultra": 0,
       "skills": [
-        3,
-        6
+        28,
+        6,
+        1,
+        4
       ],
       "crown": 6,
       "version": 2616,
@@ -2587,16 +2589,15 @@
       "subarea": 1,
       "loops": 0,
       "wep": 37,
-      "bwep": 68,
+      "bwep": 72,
       "win": false,
-      "kills": 173,
+      "kills": 187,
       "ultra": 0,
       "skills": [
         3,
         27,
         14,
-        28,
-        17
+        4
       ],
       "crown": 6,
       "version": 2616,
@@ -4040,6 +4041,53 @@
       "crown": 6,
       "version": 2616,
       "uid": "M1l9rz3eT6Fqr2A",
+      "runId": 1428199515
+    },
+    "7ky2cM7460mYUpM": {
+      "name": "YourLukah365",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 68,
+      "bwep": 3,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        28,
+        23,
+        27
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "7ky2cM7460mYUpM",
+      "runId": 1428199515
+    },
+    "75j7iMFy0AJG68o": {
+      "name": "Danilix_.",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 68,
+      "win": false,
+      "kills": 355,
+      "ultra": 2,
+      "skills": [
+        3,
+        27,
+        1,
+        4,
+        13,
+        7
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "75j7iMFy0AJG68o",
       "runId": 1428199515
     }
   }
