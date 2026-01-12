@@ -432,21 +432,21 @@
       "name": "Suco_de_Fruta",
       "char": 5,
       "skin": false,
-      "area": 5,
+      "area": 0,
       "subarea": 1,
-      "loops": 0,
-      "wep": 29,
-      "bwep": 38,
+      "loops": 1,
+      "wep": 33,
+      "bwep": 90,
       "win": false,
-      "kills": 357,
-      "ultra": 0,
+      "kills": 653,
+      "ultra": 2,
       "skills": [
-        25,
-        27,
+        22,
         10,
         6,
-        4,
-        1
+        27,
+        1,
+        28
       ],
       "crown": 7,
       "version": 2616,
@@ -792,6 +792,51 @@
       "crown": 7,
       "version": 2616,
       "uid": "PKF78LZn00s7jaF",
+      "runId": 429477132
+    },
+    "DX8947ic09UzK2e": {
+      "name": "julho",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 8,
+      "win": false,
+      "kills": 170,
+      "ultra": 0,
+      "skills": [
+        12,
+        8,
+        6
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "DX8947ic09UzK2e",
+      "runId": 429477132
+    },
+    "8l39v96Ub6fJ3S6": {
+      "name": "Dross",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 88,
+      "win": false,
+      "kills": 200,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        7,
+        13
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "8l39v96Ub6fJ3S6",
       "runId": 429477132
     }
   }
