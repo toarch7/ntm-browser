@@ -804,6 +804,53 @@
       "version": 2616,
       "uid": "l3717dv2gbIYO6O",
       "runId": 875309671
+    },
+    "DX8947ic09UzK2e": {
+      "name": "julho",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 3,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        22,
+        10,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "DX8947ic09UzK2e",
+      "runId": 875309671
+    },
+    "f5TMbRX1tV4fUgk": {
+      "name": "OPEH",
+      "char": 4,
+      "skin": false,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 84,
+      "bwep": 28,
+      "win": false,
+      "kills": 372,
+      "ultra": 0,
+      "skills": [
+        27,
+        6,
+        1,
+        8,
+        7,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f5TMbRX1tV4fUgk",
+      "runId": 875309671
     }
   }
 }
