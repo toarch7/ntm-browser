@@ -1209,15 +1209,14 @@
       "char": 5,
       "skin": false,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 8,
-      "bwep": 29,
+      "wep": 29,
+      "bwep": 4,
       "win": false,
-      "kills": 193,
+      "kills": 291,
       "ultra": 0,
       "skills": [
-        19,
         12,
         8,
         6
@@ -1408,6 +1407,30 @@
       "crown": 7,
       "version": 2616,
       "uid": "3DhGq29KxG2N42r",
+      "runId": 429477132
+    },
+    "g6NY43IcpVBQ2Je": {
+      "name": "Kaemo",
+      "char": 5,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 24,
+      "win": false,
+      "kills": 307,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        7,
+        6,
+        4
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "g6NY43IcpVBQ2Je",
       "runId": 429477132
     }
   }
