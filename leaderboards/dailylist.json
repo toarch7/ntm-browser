@@ -918,6 +918,67 @@
       "version": 2616,
       "uid": "u9fhq82KhP280q9",
       "runId": 875309671
+    },
+    "l4Jde5CduPkhNGC": {
+      "name": "Orestes",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2616,
+      "uid": "l4Jde5CduPkhNGC",
+      "runId": 875309671
+    },
+    "Ef1MW0z7A3a0c4t": {
+      "name": "mimic",
+      "char": 8,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 20,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        12,
+        8,
+        13,
+        1,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ef1MW0z7A3a0c4t",
+      "runId": 875309671
+    },
+    "XyCQApYi9df3kTp": {
+      "name": "Seeker90",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 27,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        22,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XyCQApYi9df3kTp",
+      "runId": 875309671
     }
   }
 }

@@ -1185,13 +1185,13 @@
       "name": "larrycapinga",
       "char": 5,
       "skin": false,
-      "area": 5,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 12,
+      "wep": 112,
       "bwep": 29,
       "win": false,
-      "kills": 372,
+      "kills": 593,
       "ultra": 0,
       "skills": [
         25,
@@ -1199,7 +1199,8 @@
         7,
         12,
         1,
-        4
+        4,
+        28
       ],
       "crown": 7,
       "version": 2616,
@@ -1574,6 +1575,31 @@
       "crown": 7,
       "version": 2616,
       "uid": "kIRH45mFKf66AM4",
+      "runId": 429477132
+    },
+    "2jn9sMH2IkmDw3q": {
+      "name": "jododendron",
+      "char": 5,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 23,
+      "win": false,
+      "kills": 339,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        8,
+        12,
+        14,
+        1
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "2jn9sMH2IkmDw3q",
       "runId": 429477132
     }
   }
