@@ -1280,18 +1280,20 @@
       "char": 5,
       "skin": false,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 29,
-      "bwep": 13,
+      "wep": 38,
+      "bwep": 75,
       "win": false,
-      "kills": 105,
+      "kills": 228,
       "ultra": 0,
       "skills": [
         19,
-        23,
+        25,
         7,
-        6
+        8,
+        6,
+        27
       ],
       "crown": 7,
       "version": 2616,
@@ -1551,6 +1553,27 @@
       "crown": 7,
       "version": 2616,
       "uid": "v868R21f0WGlck2",
+      "runId": 429477132
+    },
+    "kIRH45mFKf66AM4": {
+      "name": "Prol",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 0,
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        23,
+        10
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "kIRH45mFKf66AM4",
       "runId": 429477132
     }
   }
