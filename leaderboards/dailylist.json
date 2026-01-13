@@ -587,6 +587,53 @@
       "version": 2616,
       "uid": "V5IX0z4cb4AY2G7",
       "runId": 875309671
+    },
+    "b276b3ZWgC38orU": {
+      "name": "doom",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 16,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        27,
+        10,
+        6,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "b276b3ZWgC38orU",
+      "runId": 875309671
+    },
+    "1rwFj1l95D6h1Tq": {
+      "name": "godfrezer",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 3,
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        27,
+        25,
+        23,
+        12,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1rwFj1l95D6h1Tq",
+      "runId": 875309671
     }
   }
 }
