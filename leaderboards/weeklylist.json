@@ -1375,20 +1375,21 @@
       "name": "Individ",
       "char": 5,
       "skin": false,
-      "area": 5,
-      "subarea": 2,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 112,
-      "bwep": 29,
+      "wep": 29,
+      "bwep": 26,
       "win": false,
-      "kills": 444,
-      "ultra": 0,
+      "kills": 695,
+      "ultra": 2,
       "skills": [
         22,
         8,
         6,
         4,
-        1
+        1,
+        24
       ],
       "crown": 7,
       "version": 2616,
@@ -1802,6 +1803,28 @@
       "crown": 7,
       "version": 2616,
       "uid": "6gDLx92VhlcJilo",
+      "runId": 429477132
+    },
+    "DT5YG92578e96s9": {
+      "name": "EZEQUIELX67",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 8,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        19,
+        12,
+        7
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "DT5YG92578e96s9",
       "runId": 429477132
     }
   }

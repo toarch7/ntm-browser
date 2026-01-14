@@ -446,6 +446,49 @@
       "version": 2616,
       "uid": "Ch66aSt55Rgu4sv",
       "runId": 169385093
+    },
+    "w41VsMfoWgjkim8": {
+      "name": "чел",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 57,
+      "win": false,
+      "kills": 161,
+      "ultra": 0,
+      "skills": [
+        27,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "w41VsMfoWgjkim8",
+      "runId": 169385093
+    },
+    "Rqg7II9Bi1vpuav": {
+      "name": "Individ",
+      "char": 10,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 13,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Rqg7II9Bi1vpuav",
+      "runId": 169385093
     }
   }
 }
