@@ -1746,9 +1746,9 @@
       "subarea": 1,
       "loops": 0,
       "wep": 3,
-      "bwep": 29,
+      "bwep": 8,
       "win": false,
-      "kills": 180,
+      "kills": 210,
       "ultra": 0,
       "skills": [
         19,
@@ -2035,6 +2035,31 @@
       "crown": 7,
       "version": 2616,
       "uid": "3M019tPd3mb8A85",
+      "runId": 429477132
+    },
+    "TH19eSfhE83LO2q": {
+      "name": "greninja",
+      "char": 5,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 29,
+      "win": false,
+      "kills": 633,
+      "ultra": 2,
+      "skills": [
+        22,
+        8,
+        12,
+        27,
+        14,
+        28
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "TH19eSfhE83LO2q",
       "runId": 429477132
     }
   }
