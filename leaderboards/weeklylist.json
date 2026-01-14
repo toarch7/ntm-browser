@@ -1668,6 +1668,51 @@
       "version": 2616,
       "uid": "Yz8diFpVb3MOb63",
       "runId": 429477132
+    },
+    "WCCaRwLHqokg83E": {
+      "name": "el",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 17,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        22,
+        10
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "WCCaRwLHqokg83E",
+      "runId": 429477132
+    },
+    "wUfJzTUx0kTnj2Y": {
+      "name": "MiniMonk",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 55,
+      "win": false,
+      "kills": 234,
+      "ultra": 0,
+      "skills": [
+        23,
+        25,
+        7,
+        13,
+        27
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "wUfJzTUx0kTnj2Y",
+      "runId": 429477132
     }
   }
 }
