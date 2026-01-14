@@ -1812,10 +1812,10 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 34,
-      "bwep": 8,
+      "wep": 88,
+      "bwep": 29,
       "win": false,
-      "kills": 139,
+      "kills": 157,
       "ultra": 0,
       "skills": [
         19,
@@ -1846,6 +1846,27 @@
       "crown": 7,
       "version": 2616,
       "uid": "9Dsw4Tz7d4NpXtC",
+      "runId": 429477132
+    },
+    "W6l3Mpr5O381m92": {
+      "name": "Konraddo",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 29,
+      "win": false,
+      "kills": 146,
+      "ultra": 0,
+      "skills": [
+        12,
+        8
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "W6l3Mpr5O381m92",
       "runId": 429477132
     }
   }
