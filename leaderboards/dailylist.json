@@ -336,6 +336,53 @@
       "version": 2616,
       "uid": "a083rj6gJz24x66",
       "runId": 169385093
+    },
+    "6gDLx92VhlcJilo": {
+      "name": "Seeke",
+      "char": 4,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 69,
+      "win": false,
+      "kills": 178,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6gDLx92VhlcJilo",
+      "runId": 169385093
+    },
+    "sJmRM0v54iB9ouc": {
+      "name": "Flivent",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 61,
+      "win": false,
+      "kills": 237,
+      "ultra": 0,
+      "skills": [
+        27,
+        10,
+        1,
+        7,
+        3,
+        8
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "sJmRM0v54iB9ouc",
+      "runId": 169385093
     }
   }
 }
