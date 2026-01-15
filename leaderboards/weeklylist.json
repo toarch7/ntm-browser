@@ -2137,18 +2137,21 @@
       "name": "FFRAMIREZ",
       "char": 5,
       "skin": false,
-      "area": 3,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 8,
+      "wep": 90,
       "bwep": 62,
       "win": false,
-      "kills": 181,
-      "ultra": 0,
+      "kills": 605,
+      "ultra": 1,
       "skills": [
-        23,
+        22,
         8,
-        26
+        26,
+        27,
+        1,
+        24
       ],
       "crown": 7,
       "version": 2616,
@@ -2316,6 +2319,74 @@
       "crown": 7,
       "version": 2616,
       "uid": "5B1ryIhW0194ztc",
+      "runId": 429477132
+    },
+    "b276b3ZWgC38orU": {
+      "name": "doom",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 29,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        22,
+        10
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "b276b3ZWgC38orU",
+      "runId": 429477132
+    },
+    "SG7lQ5Sewzg87kP": {
+      "name": "geremyplatt",
+      "char": 5,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 29,
+      "win": false,
+      "kills": 328,
+      "ultra": 0,
+      "skills": [
+        19,
+        25,
+        7,
+        10,
+        6,
+        4,
+        1
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "SG7lQ5Sewzg87kP",
+      "runId": 429477132
+    },
+    "p597pCON1F5V1vZ": {
+      "name": "al3ruk",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 8,
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        23,
+        10
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "p597pCON1F5V1vZ",
       "runId": 429477132
     }
   }
