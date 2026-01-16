@@ -1052,6 +1052,132 @@
       "version": 2616,
       "uid": "Fxyhv9sJLgiz33u",
       "runId": 2011536993
+    },
+    "uXfYJ4wcFcPrj81": {
+      "name": "Seeker",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 17,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        4,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "uXfYJ4wcFcPrj81",
+      "runId": 2011536993
+    },
+    "4mLJlNqKa80CiPZ": {
+      "name": "Denbiii",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 17,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        4,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4mLJlNqKa80CiPZ",
+      "runId": 2011536993
+    },
+    "f1e4McXb0RgeITO": {
+      "name": "RAh",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "f1e4McXb0RgeITO",
+      "runId": 2011536993
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 5,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 2011536993
+    },
+    "h1U1dg3Bp50iw45": {
+      "name": "Max",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 0,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h1U1dg3Bp50iw45",
+      "runId": 2011536993
+    },
+    "6G0lB45OZkIL1Cy": {
+      "name": "skillfish",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 83,
+      "win": false,
+      "kills": 1037,
+      "ultra": 1,
+      "skills": [
+        10,
+        21,
+        27,
+        7,
+        4,
+        6,
+        25,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6G0lB45OZkIL1Cy",
+      "runId": 2011536993
     }
   }
 }
