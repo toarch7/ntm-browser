@@ -393,6 +393,68 @@
       "version": 2616,
       "uid": "DT5YG92578e96s9",
       "runId": 2011536993
+    },
+    "2taBOBELr0z59AU": {
+      "name": "pavelhaip",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "2taBOBELr0z59AU",
+      "runId": 2011536993
+    },
+    "339unCV4uZIaptg": {
+      "name": "CowFarmEnjoyer",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 80,
+      "bwep": 19,
+      "win": false,
+      "kills": 373,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        7,
+        27,
+        17,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "339unCV4uZIaptg",
+      "runId": 2011536993
+    },
+    "tu5txM84450lEGx": {
+      "name": "pidoril",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 69,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        7,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "tu5txM84450lEGx",
+      "runId": 2011536993
     }
   }
 }
