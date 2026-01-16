@@ -455,6 +455,49 @@
       "version": 2616,
       "uid": "tu5txM84450lEGx",
       "runId": 2011536993
+    },
+    "bAgpksaDmNWy8l9": {
+      "name": "Granatwerfer",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 15,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bAgpksaDmNWy8l9",
+      "runId": 2011536993
+    },
+    "Rqg7II9Bi1vpuav": {
+      "name": "Individ",
+      "char": 2,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 3,
+      "win": false,
+      "kills": 191,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        27,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Rqg7II9Bi1vpuav",
+      "runId": 2011536993
     }
   }
 }
