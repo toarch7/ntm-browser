@@ -457,6 +457,75 @@
       "version": 2616,
       "uid": "y2qE50gQDUItVUJ",
       "runId": 1107348414
+    },
+    "BDxp4b8UO0QMzH3": {
+      "name": "cuc",
+      "char": 15,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 35,
+      "win": false,
+      "kills": 801,
+      "ultra": 2,
+      "skills": [
+        27,
+        3,
+        4,
+        6,
+        14,
+        1,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BDxp4b8UO0QMzH3",
+      "runId": 1107348414
+    },
+    "bAgpksaDmNWy8l9": {
+      "name": "Granatwerfer",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bAgpksaDmNWy8l9",
+      "runId": 1107348414
+    },
+    "sJmRM0v54iB9ouc": {
+      "name": "Flivent",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 69,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        21,
+        8,
+        22,
+        7
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "sJmRM0v54iB9ouc",
+      "runId": 1107348414
     }
   }
 }
