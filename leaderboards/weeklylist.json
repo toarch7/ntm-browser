@@ -3084,6 +3084,50 @@
       "version": 2616,
       "uid": "4rEN0Z1D6S4N9lL",
       "runId": 429477132
+    },
+    "zUAp4z5zJAHl71m": {
+      "name": "Saltero",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 29,
+      "win": false,
+      "kills": 219,
+      "ultra": 0,
+      "skills": [
+        27,
+        25,
+        9,
+        4
+      ],
+      "crown": 7,
+      "version": 3000,
+      "uid": "zUAp4z5zJAHl71m",
+      "runId": 429477132
+    },
+    "1Zw97XJ4mOngW4P": {
+      "name": "FOX",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 6,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        23,
+        8
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "1Zw97XJ4mOngW4P",
+      "runId": 429477132
     }
   }
 }
