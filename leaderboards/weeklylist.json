@@ -698,15 +698,14 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 29,
-      "bwep": 7,
+      "wep": 17,
+      "bwep": 29,
       "win": false,
-      "kills": 134,
+      "kills": 139,
       "ultra": 0,
       "skills": [
-        19,
         12,
-        7
+        8
       ],
       "crown": 7,
       "version": 2616,
@@ -3034,6 +3033,56 @@
       "crown": 7,
       "version": 2616,
       "uid": "55B7KiffsM25fq3",
+      "runId": 429477132
+    },
+    "E1dq22lRFC6Id2K": {
+      "name": "dnnndndkd",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 21,
+      "win": false,
+      "kills": 238,
+      "ultra": 0,
+      "skills": [
+        23,
+        8,
+        13,
+        27
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "E1dq22lRFC6Id2K",
+      "runId": 429477132
+    },
+    "4rEN0Z1D6S4N9lL": {
+      "name": "потныйбанан",
+      "char": 5,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 49,
+      "bwep": 53,
+      "win": false,
+      "kills": 528,
+      "ultra": 1,
+      "skills": [
+        17,
+        23,
+        25,
+        27,
+        13,
+        1,
+        4,
+        26
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "4rEN0Z1D6S4N9lL",
       "runId": 429477132
     }
   }
