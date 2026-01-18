@@ -401,6 +401,66 @@
       "version": 2616,
       "uid": "sJmRM0v54iB9ouc",
       "runId": 1242124870
+    },
+    "Smtr2HrMZWOC9hD": {
+      "name": "монжур",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 46,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Smtr2HrMZWOC9hD",
+      "runId": 1242124870
+    },
+    "Rqg7II9Bi1vpuav": {
+      "name": "Individ",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 1,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Rqg7II9Bi1vpuav",
+      "runId": 1242124870
+    },
+    "Ef1MW0z7A3a0c4t": {
+      "name": "mimic",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 0,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ef1MW0z7A3a0c4t",
+      "runId": 1242124870
     }
   }
 }
