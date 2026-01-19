@@ -253,6 +253,46 @@
       "version": 2616,
       "uid": "7UjeSnnc07ij35o",
       "runId": 1269598657
+    },
+    "9At4L0N1F7a85gD": {
+      "name": "Seeker",
+      "char": 5,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 17,
+      "win": false,
+      "kills": 21,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9At4L0N1F7a85gD",
+      "runId": 1269598657
+    },
+    "K97awxp38a8uXg2": {
+      "name": "Ninja_Panas",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 34,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "K97awxp38a8uXg2",
+      "runId": 1269598657
     }
   }
 }
