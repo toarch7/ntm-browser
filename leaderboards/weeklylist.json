@@ -245,6 +245,30 @@
       "version": 2616,
       "uid": "uzsHEMbcoRv7ntX",
       "runId": 799742131
+    },
+    "zUAp4z5zJAHl71m": {
+      "name": "Afton",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 91,
+      "win": false,
+      "kills": 182,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        27,
+        25,
+        10
+      ],
+      "crown": 9,
+      "version": 3001,
+      "uid": "zUAp4z5zJAHl71m",
+      "runId": 799742131
     }
   }
 }
