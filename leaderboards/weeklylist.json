@@ -198,6 +198,53 @@
       "version": 2616,
       "uid": "l565NP61pv9x08J",
       "runId": 799742131
+    },
+    "L1O96R2vX7ElLKU": {
+      "name": "Macintosh",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 91,
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        8
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "L1O96R2vX7ElLKU",
+      "runId": 799742131
+    },
+    "uzsHEMbcoRv7ntX": {
+      "name": "Salv",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 91,
+      "bwep": 80,
+      "win": false,
+      "kills": 274,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        4,
+        27,
+        10,
+        16
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "uzsHEMbcoRv7ntX",
+      "runId": 799742131
     }
   }
 }
