@@ -742,6 +742,71 @@
       "version": 2616,
       "uid": "t4yWNFMaO3kuHBB",
       "runId": 799742131
+    },
+    "6grHGD15mM3fEdH": {
+      "name": "Seeker",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 91,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        2,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "6grHGD15mM3fEdH",
+      "runId": 799742131
+    },
+    "qH9m4688j4442dz": {
+      "name": "Thronenuclear",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 91,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        14,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "qH9m4688j4442dz",
+      "runId": 799742131
+    },
+    "8xCLPiymc5w2541": {
+      "name": "papumuaaa",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 36,
+      "win": false,
+      "kills": 244,
+      "ultra": 0,
+      "skills": [
+        2,
+        12,
+        4,
+        27
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "8xCLPiymc5w2541",
+      "runId": 799742131
     }
   }
 }
