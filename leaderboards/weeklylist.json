@@ -768,17 +768,19 @@
       "name": "Thronenuclear",
       "char": 7,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 105,
+      "subarea": 1,
       "loops": 0,
       "wep": 91,
-      "bwep": 1,
+      "bwep": 80,
       "win": false,
-      "kills": 146,
+      "kills": 242,
       "ultra": 0,
       "skills": [
         14,
-        21
+        4,
+        27,
+        16
       ],
       "crown": 9,
       "version": 2616,
@@ -851,6 +853,24 @@
       "crown": 9,
       "version": 2616,
       "uid": "55B7KiffsM25fq3",
+      "runId": 799742131
+    },
+    "sJmRM0v54iB9ouc": {
+      "name": "Flivent",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 91,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [],
+      "crown": 9,
+      "version": 2616,
+      "uid": "sJmRM0v54iB9ouc",
       "runId": 799742131
     }
   }
