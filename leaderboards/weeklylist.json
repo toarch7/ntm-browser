@@ -1,4 +1,74 @@
 {
   "seed": 799742131,
-  "entries": {}
+  "entries": {
+    "OG6oUWfDQdLREP4": {
+      "name": "abusamadresjhon",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 91,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        1,
+        12
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "OG6oUWfDQdLREP4",
+      "runId": 799742131
+    },
+    "t2RER5329P2522F": {
+      "name": "chambas",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        2,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "t2RER5329P2522F",
+      "runId": 799742131
+    },
+    "wUfJzTUx0kTnj2Y": {
+      "name": "MiniMonk",
+      "char": 7,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 77,
+      "bwep": 51,
+      "win": false,
+      "kills": 561,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        4,
+        27,
+        10,
+        26,
+        3,
+        23
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "wUfJzTUx0kTnj2Y",
+      "runId": 799742131
+    }
+  }
 }

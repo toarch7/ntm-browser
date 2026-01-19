@@ -1,4 +1,103 @@
 {
   "day": 19,
-  "entries": {}
+  "entries": {
+    "zUAp4z5zJAHl71m": {
+      "name": "multiplefibers",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 3001,
+      "uid": "zUAp4z5zJAHl71m",
+      "runId": 1269598657
+    },
+    "cUktD0EaosKdldA": {
+      "name": "eflomptiy",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 34,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        7,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cUktD0EaosKdldA",
+      "runId": 1269598657
+    },
+    "t2RER5329P2522F": {
+      "name": "chambas",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 17,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "t2RER5329P2522F",
+      "runId": 1269598657
+    },
+    "0cRvs8170fG3g9Q": {
+      "name": "CedNuclearMen",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 17,
+      "win": false,
+      "kills": 19,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0cRvs8170fG3g9Q",
+      "runId": 1269598657
+    },
+    "8Pu3A71K2f7G36d": {
+      "name": "santyyy",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 6,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        13,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8Pu3A71K2f7G36d",
+      "runId": 1269598657
+    }
+  }
 }
