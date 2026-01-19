@@ -247,27 +247,71 @@
       "runId": 799742131
     },
     "zUAp4z5zJAHl71m": {
-      "name": "Afton",
+      "name": "扇",
       "char": 7,
       "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 1,
+      "wep": 57,
       "bwep": 91,
       "win": false,
-      "kills": 182,
+      "kills": 246,
       "ultra": 0,
       "skills": [
+        23,
         1,
-        4,
         27,
         25,
-        10
+        10,
+        3
       ],
       "crown": 9,
       "version": 3001,
       "uid": "zUAp4z5zJAHl71m",
+      "runId": 799742131
+    },
+    "J1310A51338h9Tx": {
+      "name": "Фро́гетик",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 91,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        8
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "J1310A51338h9Tx",
+      "runId": 799742131
+    },
+    "5Gx1GFD5Mp7Ydd3": {
+      "name": "kusogake",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 91,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        14,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "5Gx1GFD5Mp7Ydd3",
       "runId": 799742131
     }
   }
