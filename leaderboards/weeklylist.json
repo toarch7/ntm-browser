@@ -156,6 +156,48 @@
       "version": 2616,
       "uid": "cE6W3fvh74w6VRA",
       "runId": 799742131
+    },
+    "339unCV4uZIaptg": {
+      "name": "CowFarmEnjoyer",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 91,
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "339unCV4uZIaptg",
+      "runId": 799742131
+    },
+    "l565NP61pv9x08J": {
+      "name": "SantKont",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 91,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "l565NP61pv9x08J",
+      "runId": 799742131
     }
   }
 }
