@@ -768,19 +768,20 @@
       "name": "Thronenuclear",
       "char": 7,
       "skin": true,
-      "area": 105,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 91,
-      "bwep": 80,
+      "wep": 59,
+      "bwep": 124,
       "win": false,
-      "kills": 242,
+      "kills": 244,
       "ultra": 0,
       "skills": [
         14,
-        4,
-        27,
-        16
+        21,
+        29,
+        3,
+        27
       ],
       "crown": 9,
       "version": 2616,
@@ -871,6 +872,50 @@
       "crown": 9,
       "version": 2616,
       "uid": "sJmRM0v54iB9ouc",
+      "runId": 799742131
+    },
+    "9HqUZwOtw0NwUme": {
+      "name": "ALEXANDERH",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 91,
+      "bwep": 1,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        26,
+        1,
+        8,
+        10
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "9HqUZwOtw0NwUme",
+      "runId": 799742131
+    },
+    "Nxp0PE4FQFp58Qs": {
+      "name": "7899",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 91,
+      "bwep": 1,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        14,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "Nxp0PE4FQFp58Qs",
       "runId": 799742131
     }
   }
