@@ -5,18 +5,20 @@
       "name": "abusamadresjhon",
       "char": 7,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 21,
-      "bwep": 1,
+      "wep": 8,
+      "bwep": 28,
       "win": false,
-      "kills": 227,
+      "kills": 391,
       "ultra": 0,
       "skills": [
         1,
-        12,
-        10
+        8,
+        10,
+        28,
+        12
       ],
       "crown": 9,
       "version": 2616,
@@ -546,19 +548,18 @@
       "name": "iron",
       "char": 7,
       "skin": true,
-      "area": 5,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 91,
-      "bwep": 80,
+      "wep": 75,
+      "bwep": 4,
       "win": false,
-      "kills": 180,
+      "kills": 181,
       "ultra": 0,
       "skills": [
         1,
-        4,
-        10,
-        19
+        8,
+        10
       ],
       "crown": 9,
       "version": 2616,
@@ -916,6 +917,27 @@
       "crown": 9,
       "version": 2616,
       "uid": "Nxp0PE4FQFp58Qs",
+      "runId": 799742131
+    },
+    "x4LG9ns5o2AFClo": {
+      "name": "YourLukah365",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 91,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        2,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "x4LG9ns5o2AFClo",
       "runId": 799742131
     }
   }
