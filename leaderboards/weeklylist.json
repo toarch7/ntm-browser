@@ -930,17 +930,18 @@
       "name": "YourLukah365",
       "char": 7,
       "skin": true,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 1,
-      "bwep": 91,
+      "wep": 59,
+      "bwep": 37,
       "win": false,
-      "kills": 102,
+      "kills": 222,
       "ultra": 0,
       "skills": [
-        2,
-        1
+        1,
+        8,
+        13
       ],
       "crown": 9,
       "version": 2616,
@@ -1182,6 +1183,49 @@
       "crown": 9,
       "version": 2616,
       "uid": "19ic0ORT35HP8eI",
+      "runId": 799742131
+    },
+    "Ef1MW0z7A3a0c4t": {
+      "name": "mimic",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 91,
+      "bwep": 1,
+      "win": false,
+      "kills": 146,
+      "ultra": 0,
+      "skills": [
+        2,
+        1,
+        8
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "Ef1MW0z7A3a0c4t",
+      "runId": 799742131
+    },
+    "W2i65Cg294Ss5p5": {
+      "name": "CEDR",
+      "char": 7,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 10,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "W2i65Cg294Ss5p5",
       "runId": 799742131
     }
   }
