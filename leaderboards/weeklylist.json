@@ -1076,16 +1076,19 @@
       "name": "fforgotenn",
       "char": 7,
       "skin": true,
-      "area": 3,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 1,
-      "bwep": 91,
+      "wep": 91,
+      "bwep": 1,
       "win": false,
-      "kills": 105,
+      "kills": 176,
       "ultra": 0,
       "skills": [
-        1
+        1,
+        4,
+        10,
+        19
       ],
       "crown": 9,
       "version": 2616,
@@ -1134,6 +1137,51 @@
       "crown": 9,
       "version": 2616,
       "uid": "2hE0KvNP41ta72a",
+      "runId": 799742131
+    },
+    "KSP4UKQD44L1A81": {
+      "name": "camiloño",
+      "char": 7,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 91,
+      "bwep": 28,
+      "win": false,
+      "kills": 356,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        10,
+        16,
+        3
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "KSP4UKQD44L1A81",
+      "runId": 799742131
+    },
+    "19ic0ORT35HP8eI": {
+      "name": "iva",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        2,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "19ic0ORT35HP8eI",
       "runId": 799742131
     }
   }
