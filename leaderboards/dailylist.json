@@ -199,6 +199,49 @@
       "version": 2616,
       "uid": "f5TMbRX1tV4fUgk",
       "runId": 1811253977
+    },
+    "L1O96R2vX7ElLKU": {
+      "name": "Macintosh",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L1O96R2vX7ElLKU",
+      "runId": 1811253977
+    },
+    "r806QDLkd2yCEBU": {
+      "name": "Scrotum",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 21,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        13,
+        4,
+        12,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "r806QDLkd2yCEBU",
+      "runId": 1811253977
     }
   }
 }
