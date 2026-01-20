@@ -1,4 +1,72 @@
 {
   "day": 20,
-  "entries": {}
+  "entries": {
+    "55B7KiffsM25fq3": {
+      "name": "Antony",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 21,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        7,
+        4,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "55B7KiffsM25fq3",
+      "runId": 1811253977
+    },
+    "76Hpu9li468kcc1": {
+      "name": "Seeker90",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 21,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "76Hpu9li468kcc1",
+      "runId": 1811253977
+    },
+    "w41VsMfoWgjkim8": {
+      "name": "чел",
+      "char": 1,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 55,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        13,
+        4,
+        10,
+        26,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "w41VsMfoWgjkim8",
+      "runId": 1811253977
+    }
+  }
 }
