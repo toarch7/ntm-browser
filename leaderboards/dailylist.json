@@ -258,6 +258,28 @@
       "version": 2616,
       "uid": "r806QDLkd2yCEBU",
       "runId": 1007886793
+    },
+    "sJmRM0v54iB9ouc": {
+      "name": "Flivent",
+      "char": 3,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 111,
+      "ultra": 0,
+      "skills": [
+        16,
+        28,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sJmRM0v54iB9ouc",
+      "runId": 1007886793
     }
   }
 }
