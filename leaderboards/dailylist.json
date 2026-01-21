@@ -784,6 +784,27 @@
       "version": 2616,
       "uid": "9lI6dU8smGT0IR1",
       "runId": 1007886793
+    },
+    "Vq156b85caByDsW": {
+      "name": "prodro",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        16,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Vq156b85caByDsW",
+      "runId": 1007886793
     }
   }
 }
