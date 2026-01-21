@@ -493,6 +493,43 @@
       "version": 2616,
       "uid": "RKu65cHkUuh6d09",
       "runId": 1007886793
+    },
+    "3JG40Iyt3C7k5Nh": {
+      "name": "Jhofran",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "3JG40Iyt3C7k5Nh",
+      "runId": 1007886793
+    },
+    "j160WLaqgGMD83c": {
+      "name": "player",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [
+        7,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "j160WLaqgGMD83c",
+      "runId": 1007886793
     }
   }
 }
