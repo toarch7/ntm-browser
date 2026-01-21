@@ -697,12 +697,12 @@
       "char": 7,
       "skin": true,
       "area": 5,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 1,
-      "bwep": 91,
+      "wep": 5,
+      "bwep": 1,
       "win": false,
-      "kills": 193,
+      "kills": 214,
       "ultra": 0,
       "skills": [
         1,
@@ -1448,6 +1448,30 @@
       "crown": 9,
       "version": 2616,
       "uid": "LRkXxFR937Ql6Ec",
+      "runId": 799742131
+    },
+    "3Zfng7XeqC2QkH4": {
+      "name": "si",
+      "char": 7,
+      "skin": true,
+      "area": 105,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 91,
+      "win": false,
+      "kills": 218,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        4,
+        10,
+        22
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "3Zfng7XeqC2QkH4",
       "runId": 799742131
     }
   }
