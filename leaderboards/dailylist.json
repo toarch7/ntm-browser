@@ -179,6 +179,26 @@
       "version": 2616,
       "uid": "iSW1g25J593JBRX",
       "runId": 5220279
+    },
+    "a00O9SbvWgMV0O3": {
+      "name": "BrickInitiation",
+      "char": 9,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 17,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a00O9SbvWgMV0O3",
+      "runId": 5220279
     }
   }
 }
