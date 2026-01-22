@@ -85,6 +85,74 @@
       "version": 2616,
       "uid": "5We13IG9bZ20OMS",
       "runId": 5220279
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 19,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 5220279
+    },
+    "321379np9JO2oMn": {
+      "name": "Diegardo",
+      "char": 2,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 67,
+      "win": false,
+      "kills": 317,
+      "ultra": 0,
+      "skills": [
+        7,
+        16,
+        19,
+        1,
+        6,
+        13
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "321379np9JO2oMn",
+      "runId": 5220279
+    },
+    "cE6W3fvh74w6VRA": {
+      "name": "coco33",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        3,
+        16,
+        7,
+        9
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "cE6W3fvh74w6VRA",
+      "runId": 5220279
     }
   }
 }
