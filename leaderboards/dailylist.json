@@ -178,6 +178,47 @@
       "version": 2616,
       "uid": "NN10s087KDSiKQk",
       "runId": 960079156
+    },
+    "fU32JxR6gJOG919": {
+      "name": "edi",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        10,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "fU32JxR6gJOG919",
+      "runId": 960079156
+    },
+    "2p5CYBdvLlNW760": {
+      "name": "Mizha",
+      "char": 8,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2p5CYBdvLlNW760",
+      "runId": 960079156
     }
   }
 }
