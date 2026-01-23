@@ -1132,6 +1132,62 @@
       "version": 2616,
       "uid": "TH19eSfhE83LO2q",
       "runId": 960079156
+    },
+    "RwSmFhfr4aUyjy4": {
+      "name": "hollowknight616",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 27,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
+      "runId": 960079156
+    },
+    "1NXQP9jyp7pbOHB": {
+      "name": "Hank",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 7,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1NXQP9jyp7pbOHB",
+      "runId": 960079156
+    },
+    "4T3Wg9h75p85Vb3": {
+      "name": "Se",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 20,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4T3Wg9h75p85Vb3",
+      "runId": 960079156
     }
   }
 }
