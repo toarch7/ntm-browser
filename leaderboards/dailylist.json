@@ -1079,6 +1079,59 @@
       "version": 2616,
       "uid": "r806QDLkd2yCEBU",
       "runId": 960079156
+    },
+    "BIzEDB2CJ68Q046": {
+      "name": "Angel",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "BIzEDB2CJ68Q046",
+      "runId": 960079156
+    },
+    "4Hx6l9tfW93i9G3": {
+      "name": "iron",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        10,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4Hx6l9tfW93i9G3",
+      "runId": 960079156
+    },
+    "TH19eSfhE83LO2q": {
+      "name": "greninja",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "TH19eSfhE83LO2q",
+      "runId": 960079156
     }
   }
 }
