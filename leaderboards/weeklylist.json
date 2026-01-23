@@ -1987,6 +1987,50 @@
       "version": 2616,
       "uid": "R1d76zA23Lp48jr",
       "runId": 799742131
+    },
+    "46dEFL078X8rC71": {
+      "name": "I_Kaido",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "46dEFL078X8rC71",
+      "runId": 799742131
+    },
+    "s5FmWX6aJ6H189Z": {
+      "name": "sebas",
+      "char": 7,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 91,
+      "win": false,
+      "kills": 174,
+      "ultra": 0,
+      "skills": [
+        26,
+        1,
+        4,
+        27,
+        10
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "s5FmWX6aJ6H189Z",
+      "runId": 799742131
     }
   }
 }
