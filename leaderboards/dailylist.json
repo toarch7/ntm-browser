@@ -1188,6 +1188,116 @@
       "version": 2616,
       "uid": "4T3Wg9h75p85Vb3",
       "runId": 960079156
+    },
+    "U1X79389jk3l094": {
+      "name": "MADMAXED",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 7,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        13,
+        27,
+        9,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "U1X79389jk3l094",
+      "runId": 960079156
+    },
+    "Vq156b85caByDsW": {
+      "name": "prodro",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Vq156b85caByDsW",
+      "runId": 960079156
+    },
+    "RR2E3iOf27JsRnX": {
+      "name": "WER123",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RR2E3iOf27JsRnX",
+      "runId": 960079156
+    },
+    "c07luZTdz4Tt34E": {
+      "name": "hunter",
+      "char": 9,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 107,
+      "bwep": 11,
+      "win": false,
+      "kills": 971,
+      "ultra": 1,
+      "skills": [
+        13,
+        27,
+        9,
+        8,
+        23,
+        1,
+        25,
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "c07luZTdz4Tt34E",
+      "runId": 960079156
+    },
+    "eLPgb8Af0GLTD7T": {
+      "name": "Satsuki",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 39,
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "eLPgb8Af0GLTD7T",
+      "runId": 960079156
     }
   }
 }
