@@ -245,6 +245,28 @@
       "version": 2616,
       "uid": "iSW1g25J593JBRX",
       "runId": 960079156
+    },
+    "7UjeSnnc07ij35o": {
+      "name": "GHOST",
+      "char": 11,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 2,
+      "win": false,
+      "kills": 180,
+      "ultra": 0,
+      "skills": [
+        10,
+        19,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7UjeSnnc07ij35o",
+      "runId": 960079156
     }
   }
 }
