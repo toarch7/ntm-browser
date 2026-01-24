@@ -1372,16 +1372,18 @@
       "name": "Genus",
       "char": 7,
       "skin": true,
-      "area": 2,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 1,
+      "wep": 4,
       "bwep": 91,
       "win": false,
-      "kills": 81,
+      "kills": 199,
       "ultra": 0,
       "skills": [
-        1
+        1,
+        8,
+        10
       ],
       "crown": 9,
       "version": 2616,
