@@ -2248,6 +2248,49 @@
       "version": 2616,
       "uid": "HU5bFy2L56Uyewu",
       "runId": 799742131
+    },
+    "6gDLx92VhlcJilo": {
+      "name": "Seeke",
+      "char": 7,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 1,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        4,
+        27
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "6gDLx92VhlcJilo",
+      "runId": 799742131
+    },
+    "2Z2fzU34uSWIiU6": {
+      "name": "Soltar.20",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 91,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        8
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "2Z2fzU34uSWIiU6",
+      "runId": 799742131
     }
   }
 }
