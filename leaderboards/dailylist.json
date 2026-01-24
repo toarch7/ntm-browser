@@ -383,6 +383,56 @@
       "version": 2616,
       "uid": "5Gx1GFD5Mp7Ydd3",
       "runId": 479219693
+    },
+    "L1O96R2vX7ElLKU": {
+      "name": "Macintosh",
+      "char": 3,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 88,
+      "win": false,
+      "kills": 193,
+      "ultra": 0,
+      "skills": [
+        27,
+        12,
+        21,
+        23,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L1O96R2vX7ElLKU",
+      "runId": 479219693
+    },
+    "9vMzd54eD3tZpa4": {
+      "name": "кристалл",
+      "char": 2,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 248,
+      "ultra": 0,
+      "skills": [
+        9,
+        25,
+        26,
+        10,
+        4,
+        1,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9vMzd54eD3tZpa4",
+      "runId": 479219693
     }
   }
 }
