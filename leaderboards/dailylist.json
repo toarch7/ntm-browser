@@ -839,6 +839,86 @@
       "version": 2616,
       "uid": "p4xW8V9qC81qdtz",
       "runId": 479219693
+    },
+    "e09zu75EGJP6Fhb": {
+      "name": "Seeker",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "e09zu75EGJP6Fhb",
+      "runId": 479219693
+    },
+    "RwSmFhfr4aUyjy4": {
+      "name": "hollowknight616",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 8,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
+      "runId": 479219693
+    },
+    "55B7KiffsM25fq3": {
+      "name": "Antony",
+      "char": 2,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 76,
+      "win": false,
+      "kills": 322,
+      "ultra": 0,
+      "skills": [
+        9,
+        28,
+        19,
+        4,
+        1,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "55B7KiffsM25fq3",
+      "runId": 479219693
+    },
+    "Sv0LdHEHkOCwMNU": {
+      "name": "steve",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 4,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        25,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Sv0LdHEHkOCwMNU",
+      "runId": 479219693
     }
   }
 }
