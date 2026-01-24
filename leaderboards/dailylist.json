@@ -557,6 +557,66 @@
       "version": 2616,
       "uid": "9Cv22Pd8aowGO0b",
       "runId": 479219693
+    },
+    "HOuRYAJMpcX2FQL": {
+      "name": "Ngoen_Gus",
+      "char": 8,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 50,
+      "win": false,
+      "kills": 168,
+      "ultra": 0,
+      "skills": [
+        9,
+        28,
+        10,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HOuRYAJMpcX2FQL",
+      "runId": 479219693
+    },
+    "46dEFL078X8rC71": {
+      "name": "I_Kaido",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        2,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "46dEFL078X8rC71",
+      "runId": 479219693
+    },
+    "RvjK1mt4uEDK0yu": {
+      "name": "Weirzy",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "win": false,
+      "kills": 20,
+      "crown": 1,
+      "version": 2616,
+      "uid": "RvjK1mt4uEDK0yu",
+      "runId": 479219693
     }
   }
 }
