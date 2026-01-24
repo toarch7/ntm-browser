@@ -2165,6 +2165,46 @@
       "version": 2616,
       "uid": "GRl4MMwlpq0c77F",
       "runId": 799742131
+    },
+    "X7HAP4mmVaX45zq": {
+      "name": "huevo_minion.2",
+      "char": 7,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 91,
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "X7HAP4mmVaX45zq",
+      "runId": 799742131
+    },
+    "dWTz26zrDAZBlkn": {
+      "name": "Miguelangel",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 91,
+      "bwep": 1,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "dWTz26zrDAZBlkn",
+      "runId": 799742131
     }
   }
 }
