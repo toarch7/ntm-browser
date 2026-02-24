@@ -1053,18 +1053,17 @@
       "name": "Brick",
       "char": 6,
       "skin": true,
-      "area": 4,
+      "area": 105,
       "subarea": 1,
       "loops": 0,
-      "wep": 61,
-      "bwep": 79,
+      "wep": 79,
+      "bwep": 61,
       "win": false,
-      "kills": 162,
+      "kills": 193,
       "ultra": 0,
       "skills": [
-        8,
+        22,
         7,
-        14,
         4
       ],
       "crown": 1,
@@ -1279,6 +1278,48 @@
       "crown": 1,
       "version": 3003,
       "uid": "biqQzbIjzAaqYAI",
+      "runId": 2083221994
+    },
+    "FtJJj5yqtvvxRI4": {
+      "name": "Macomac",
+      "char": 6,
+      "skin": true,
+      "area": 105,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 10,
+      "win": false,
+      "kills": 193,
+      "ultra": 0,
+      "skills": [
+        7,
+        16,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "FtJJj5yqtvvxRI4",
+      "runId": 2083221994
+    },
+    "lBn819P263zSyqN": {
+      "name": "gondon",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 88,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "lBn819P263zSyqN",
       "runId": 2083221994
     }
   }
