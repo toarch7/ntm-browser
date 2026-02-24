@@ -1128,6 +1128,73 @@
       "version": 3002,
       "uid": "iaIRjaibiZjJJqZ",
       "runId": 2055744367
+    },
+    "099iL2Mqq5PU8zn": {
+      "name": "Seeker",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 115,
+      "bwep": 26,
+      "win": false,
+      "kills": 868,
+      "ultra": 2,
+      "skills": [
+        4,
+        7,
+        8,
+        3,
+        27,
+        9,
+        16,
+        17,
+        19
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "099iL2Mqq5PU8zn",
+      "runId": 2055744367
+    },
+    "pcEhSi799Myvv19": {
+      "name": "pokemaster69",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 3,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        4,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "pcEhSi799Myvv19",
+      "runId": 2055744367
+    },
+    "57uY56cq6TfqQ2l": {
+      "name": "Alm",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "57uY56cq6TfqQ2l",
+      "runId": 2055744367
     }
   }
 }
