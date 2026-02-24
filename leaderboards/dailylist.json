@@ -1444,6 +1444,69 @@
       "version": 2616,
       "uid": "zu23SD3q46RJ18R",
       "runId": 2055744367
+    },
+    "59464Za71i0bv49": {
+      "name": "anima",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 90,
+      "win": false,
+      "kills": 249,
+      "ultra": 0,
+      "skills": [
+        4,
+        7,
+        19,
+        26,
+        6,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "59464Za71i0bv49",
+      "runId": 2055744367
+    },
+    "l9YgLO8456E2334": {
+      "name": "CazaNovaX47u",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 15,
+      "bwep": 69,
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        17,
+        8,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "l9YgLO8456E2334",
+      "runId": 2055744367
+    },
+    "36lyg6gDZf31lew": {
+      "name": "Seeker4",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "36lyg6gDZf31lew",
+      "runId": 2055744367
     }
   }
 }
