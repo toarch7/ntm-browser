@@ -668,6 +668,48 @@
       "version": 2616,
       "uid": "h1U1dg3Bp50iw45",
       "runId": 1887670949
+    },
+    "PD07a0fZf3Jc1n0": {
+      "name": "Mindkiller06",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 4,
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        25,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "PD07a0fZf3Jc1n0",
+      "runId": 1887670949
+    },
+    "59464Za71i0bv49": {
+      "name": "anima",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 4,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        10,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "59464Za71i0bv49",
+      "runId": 1887670949
     }
   }
 }
