@@ -685,11 +685,10 @@
       "wep": 3,
       "bwep": 100,
       "win": false,
-      "kills": 83,
+      "kills": 86,
       "ultra": 0,
       "skills": [
-        27,
-        2
+        27
       ],
       "crown": 9,
       "version": 2616,
@@ -1289,6 +1288,53 @@
       "crown": 9,
       "version": 3003,
       "uid": "AyAYIyYIZBirjZY",
+      "runId": 225005813
+    },
+    "4hips8OPVM0Fkf6": {
+      "name": "Chente",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 100,
+      "bwep": 3,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "4hips8OPVM0Fkf6",
+      "runId": 225005813
+    },
+    "rayaqjrAAZzqqZa": {
+      "name": "KLONOA",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 116,
+      "win": false,
+      "kills": 537,
+      "ultra": 0,
+      "skills": [
+        10,
+        3,
+        25,
+        14,
+        23,
+        9,
+        1,
+        22
+      ],
+      "crown": 9,
+      "version": 3003,
+      "uid": "rayaqjrAAZzqqZa",
       "runId": 225005813
     }
   }
