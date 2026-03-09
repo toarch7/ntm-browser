@@ -820,6 +820,46 @@
       "version": 2616,
       "uid": "7e98rGgZEaXT1ob",
       "runId": 225005813
+    },
+    "Lv3ruq18z5Ry3kG": {
+      "name": "Arga300",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 100,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "Lv3ruq18z5Ry3kG",
+      "runId": 225005813
+    },
+    "sJmRM0v54iB9ouc": {
+      "name": "Flivent",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 100,
+      "bwep": 6,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "sJmRM0v54iB9ouc",
+      "runId": 225005813
     }
   }
 }
