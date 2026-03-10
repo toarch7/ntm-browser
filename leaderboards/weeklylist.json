@@ -1690,6 +1690,27 @@
       "version": 2616,
       "uid": "J1310A51338h9Tx",
       "runId": 225005813
+    },
+    "7PpylAfnadD28H1": {
+      "name": "Seeker41",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 100,
+      "bwep": 3,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        12,
+        14
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "7PpylAfnadD28H1",
+      "runId": 225005813
     }
   }
 }
