@@ -1808,13 +1808,13 @@
       "name": "wilter",
       "char": 6,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 38,
+      "wep": 61,
       "bwep": 100,
       "win": false,
-      "kills": 130,
+      "kills": 166,
       "ultra": 0,
       "skills": [
         27,
@@ -1865,6 +1865,110 @@
       "crown": 9,
       "version": 2616,
       "uid": "3NBR0LO17i8h5B1",
+      "runId": 225005813
+    },
+    "54256eQf90J09p6": {
+      "name": "ManualElimin8in",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 100,
+      "bwep": 55,
+      "win": false,
+      "kills": 166,
+      "ultra": 0,
+      "skills": [
+        27,
+        3
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "54256eQf90J09p6",
+      "runId": 225005813
+    },
+    "Ri6KEy6Yh4QH00M": {
+      "name": "owil",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 100,
+      "bwep": 6,
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        27,
+        3
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "Ri6KEy6Yh4QH00M",
+      "runId": 225005813
+    },
+    "h30DHxoS21igAam": {
+      "name": "gabo",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 100,
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "h30DHxoS21igAam",
+      "runId": 225005813
+    },
+    "e09zu75EGJP6Fhb": {
+      "name": "seeker",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 100,
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        27,
+        12
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "e09zu75EGJP6Fhb",
+      "runId": 225005813
+    },
+    "5NXn94sI2jpM51T": {
+      "name": "Confusion",
+      "char": 6,
+      "skin": true,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 100,
+      "bwep": 0,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        27,
+        12
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "5NXn94sI2jpM51T",
       "runId": 225005813
     }
   }
