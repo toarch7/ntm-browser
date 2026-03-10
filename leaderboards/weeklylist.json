@@ -235,16 +235,18 @@
       "name": "DarthurV",
       "char": 6,
       "skin": true,
-      "area": 3,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 100,
-      "bwep": 3,
+      "wep": 59,
+      "bwep": 100,
       "win": false,
-      "kills": 90,
+      "kills": 315,
       "ultra": 0,
       "skills": [
-        12
+        12,
+        3,
+        4
       ],
       "crown": 9,
       "version": 2616,
@@ -529,17 +531,19 @@
       "name": "Brick",
       "char": 6,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 5,
+      "subarea": 1,
       "loops": 0,
-      "wep": 100,
-      "bwep": 0,
+      "wep": 3,
+      "bwep": 14,
       "win": false,
-      "kills": 159,
+      "kills": 211,
       "ultra": 0,
       "skills": [
         27,
-        14
+        14,
+        3,
+        1
       ],
       "crown": 9,
       "version": 2616,
@@ -1641,6 +1645,27 @@
       "crown": 9,
       "version": 2616,
       "uid": "t8zyu32ZR6vBjNd",
+      "runId": 225005813
+    },
+    "U0p98m3ObF4AXFl": {
+      "name": "wesker",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 100,
+      "bwep": 3,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        27,
+        14
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "U0p98m3ObF4AXFl",
       "runId": 225005813
     }
   }
