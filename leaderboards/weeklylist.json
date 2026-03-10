@@ -1667,6 +1667,29 @@
       "version": 2616,
       "uid": "U0p98m3ObF4AXFl",
       "runId": 225005813
+    },
+    "J1310A51338h9Tx": {
+      "name": "Фро́гетик",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 100,
+      "bwep": 38,
+      "win": false,
+      "kills": 179,
+      "ultra": 0,
+      "skills": [
+        27,
+        14,
+        17,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "J1310A51338h9Tx",
+      "runId": 225005813
     }
   }
 }
