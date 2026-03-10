@@ -2030,6 +2030,68 @@
       "version": 3003,
       "uid": "iAbirrYjiaiAaqB",
       "runId": 225005813
+    },
+    "LbH71y6yh01ygti": {
+      "name": "Marwuitox",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 100,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "LbH71y6yh01ygti",
+      "runId": 225005813
+    },
+    "tmI8hNK59FDRCSG": {
+      "name": "Masty_03",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 100,
+      "bwep": 3,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        27,
+        14
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "tmI8hNK59FDRCSG",
+      "runId": 225005813
+    },
+    "92K0UP3LqVBzF64": {
+      "name": "See",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 100,
+      "bwep": 0,
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        27,
+        14
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "92K0UP3LqVBzF64",
+      "runId": 225005813
     }
   }
 }
