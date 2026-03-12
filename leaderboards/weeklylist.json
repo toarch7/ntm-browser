@@ -1445,19 +1445,20 @@
       "name": "dinjones",
       "char": 6,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 3,
-      "bwep": 100,
+      "wep": 100,
+      "bwep": 25,
       "win": false,
-      "kills": 256,
+      "kills": 362,
       "ultra": 0,
       "skills": [
         27,
         12,
-        3,
-        1
+        1,
+        2,
+        4
       ],
       "crown": 9,
       "version": 2616,
@@ -2719,6 +2720,47 @@
       "crown": 9,
       "version": 2616,
       "uid": "0xpz6cR7f2xqA5E",
+      "runId": 225005813
+    },
+    "CVzZ2t7Lfaat0Bq": {
+      "name": "PUNISHER",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 100,
+      "bwep": 0,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "CVzZ2t7Lfaat0Bq",
+      "runId": 225005813
+    },
+    "8l39v96Ub6fJ3S6": {
+      "name": "Dross",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 100,
+      "bwep": 3,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        27,
+        12
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "8l39v96Ub6fJ3S6",
       "runId": 225005813
     }
   }
