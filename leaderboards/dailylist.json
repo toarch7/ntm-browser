@@ -531,6 +531,90 @@
       "version": 3003,
       "uid": "ijBAYZyYjyjbaRz",
       "runId": 616084945
+    },
+    "L1O96R2vX7ElLKU": {
+      "name": "Macintosh",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 30,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        9,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L1O96R2vX7ElLKU",
+      "runId": 616084945
+    },
+    "9kzcQOD0zmScIwh": {
+      "name": "NahoOno",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9kzcQOD0zmScIwh",
+      "runId": 616084945
+    },
+    "QFeVHeM79aCKgQk": {
+      "name": "gungod",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 69,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        3,
+        23,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "QFeVHeM79aCKgQk",
+      "runId": 616084945
+    },
+    "J1310A51338h9Tx": {
+      "name": "Фро́гетик",
+      "char": 7,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        9,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J1310A51338h9Tx",
+      "runId": 616084945
     }
   }
 }
