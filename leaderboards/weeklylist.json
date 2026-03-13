@@ -2828,6 +2828,46 @@
       "version": 2616,
       "uid": "4jRApK7Un598X1g",
       "runId": 225005813
+    },
+    "qM45r2CH5q0p1DQ": {
+      "name": "Kling7",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 100,
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "qM45r2CH5q0p1DQ",
+      "runId": 225005813
+    },
+    "rdvE07N5K4NiW0T": {
+      "name": "lukis",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 100,
+      "bwep": 0,
+      "win": false,
+      "kills": 118,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "rdvE07N5K4NiW0T",
+      "runId": 225005813
     }
   }
 }
