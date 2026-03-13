@@ -190,6 +190,28 @@
       "version": 2616,
       "uid": "L00T2S70KV9574Z",
       "runId": 616084945
+    },
+    "a00O9SbvWgMV0O3": {
+      "name": "Brick",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        9,
+        7,
+        22
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "a00O9SbvWgMV0O3",
+      "runId": 616084945
     }
   }
 }
