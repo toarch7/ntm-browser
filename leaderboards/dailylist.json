@@ -845,6 +845,28 @@
       "version": 2616,
       "uid": "9n5ADQaiQ095LJ8",
       "runId": 1587256351
+    },
+    "zkvH7Li9B1a079Q": {
+      "name": "Judicial",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 17,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        23,
+        19,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "zkvH7Li9B1a079Q",
+      "runId": 1587256351
     }
   }
 }
