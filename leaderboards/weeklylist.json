@@ -3118,6 +3118,27 @@
       "version": 2616,
       "uid": "4GqO2wW12YkA27I",
       "runId": 225005813
+    },
+    "59464Za71i0bv49": {
+      "name": "anima",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 100,
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        27,
+        14
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "59464Za71i0bv49",
+      "runId": 225005813
     }
   }
 }
