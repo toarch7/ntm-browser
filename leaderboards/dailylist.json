@@ -736,6 +736,50 @@
       "version": 2616,
       "uid": "OXxG2pkxb5Ga96V",
       "runId": 1587256351
+    },
+    "0xpz6cR7f2xqA5E": {
+      "name": "alex",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 3,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        22,
+        28,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0xpz6cR7f2xqA5E",
+      "runId": 1587256351
+    },
+    "tmI8hNK59FDRCSG": {
+      "name": "Masty_03",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 13,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        3,
+        28,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "tmI8hNK59FDRCSG",
+      "runId": 1587256351
     }
   }
 }
