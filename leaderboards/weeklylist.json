@@ -671,16 +671,16 @@
       "char": 6,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 100,
-      "bwep": 3,
+      "wep": 3,
+      "bwep": 100,
       "win": false,
-      "kills": 88,
+      "kills": 156,
       "ultra": 0,
       "skills": [
         27,
-        2
+        12
       ],
       "crown": 9,
       "version": 2616,
@@ -3680,6 +3680,26 @@
       "crown": 9,
       "version": 2616,
       "uid": "55ik1sEw4xBlomE",
+      "runId": 225005813
+    },
+    "BIzEDB2CJ68Q046": {
+      "name": "Angel",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 100,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "BIzEDB2CJ68Q046",
       "runId": 225005813
     }
   }
