@@ -812,6 +812,66 @@
       "version": 2616,
       "uid": "1MQ6lTg15HC9h51",
       "runId": 115293509
+    },
+    "2oh7vI5x89NXo49": {
+      "name": "A",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2oh7vI5x89NXo49",
+      "runId": 115293509
+    },
+    "I4jAgd4q83zh1Z0": {
+      "name": "cubbie",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "win": false,
+      "kills": 169,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        10,
+        12,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "I4jAgd4q83zh1Z0",
+      "runId": 115293509
+    },
+    "2k28WLB1f1WsJSW": {
+      "name": "Gunman",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "win": false,
+      "kills": 21,
+      "crown": 1,
+      "version": 2616,
+      "uid": "2k28WLB1f1WsJSW",
+      "runId": 115293509
     }
   }
 }
