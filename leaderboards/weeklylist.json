@@ -1904,17 +1904,18 @@
       "name": "owil",
       "char": 6,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
       "wep": 100,
-      "bwep": 6,
+      "bwep": 112,
       "win": false,
-      "kills": 155,
+      "kills": 216,
       "ultra": 0,
       "skills": [
         27,
-        3
+        3,
+        4
       ],
       "crown": 9,
       "version": 2616,
@@ -3468,6 +3469,27 @@
       "crown": 9,
       "version": 2616,
       "uid": "TH19eSfhE83LO2q",
+      "runId": 225005813
+    },
+    "fGyKQ7mp7vZ5ppL": {
+      "name": "WILL",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 100,
+      "win": false,
+      "kills": 54,
+      "ultra": 0,
+      "skills": [
+        27,
+        12
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "fGyKQ7mp7vZ5ppL",
       "runId": 225005813
     }
   }
