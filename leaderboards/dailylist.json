@@ -368,6 +368,48 @@
       "version": 2616,
       "uid": "xId04Y3t939d6w7",
       "runId": 115293509
+    },
+    "iSW1g25J593JBRX": {
+      "name": "tsiger",
+      "char": 2,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 5,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        1,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "iSW1g25J593JBRX",
+      "runId": 115293509
+    },
+    "63WT0VOsfayG4RS": {
+      "name": "Banana",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "63WT0VOsfayG4RS",
+      "runId": 115293509
     }
   }
 }
