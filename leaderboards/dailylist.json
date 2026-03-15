@@ -952,6 +952,48 @@
       "version": 2616,
       "uid": "BR15vi7KJjXNf4S",
       "runId": 115293509
+    },
+    "lGocB90tI2e8ZEB": {
+      "name": "foopa",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 17,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        1,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "lGocB90tI2e8ZEB",
+      "runId": 115293509
+    },
+    "rdvE07N5K4NiW0T": {
+      "name": "lukis",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rdvE07N5K4NiW0T",
+      "runId": 115293509
     }
   }
 }
