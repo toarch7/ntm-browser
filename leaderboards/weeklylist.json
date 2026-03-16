@@ -696,19 +696,22 @@
       "name": "Ah~",
       "char": 6,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 3,
+      "wep": 11,
       "bwep": 75,
       "win": false,
-      "kills": 150,
+      "kills": 221,
       "ultra": 0,
       "skills": [
         4,
         13,
         8,
-        7
+        7,
+        12,
+        1,
+        9
       ],
       "crown": 5,
       "version": 2616,
@@ -759,6 +762,28 @@
       "crown": 5,
       "version": 2616,
       "uid": "t2RER5329P2522F",
+      "runId": 1482374729
+    },
+    "TJfjdn1weDhYO4X": {
+      "name": "Seeker7",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 32,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        4,
+        6,
+        7
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "TJfjdn1weDhYO4X",
       "runId": 1482374729
     }
   }
