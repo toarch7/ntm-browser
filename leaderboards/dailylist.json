@@ -218,6 +218,69 @@
       "version": 2616,
       "uid": "69cJEyF185dgt2e",
       "runId": 1093348244
+    },
+    "ijBAYZyYjyjbaRz": {
+      "name": "ГАНДОН",
+      "char": 10,
+      "skin": false,
+      "area": null,
+      "subarea": null,
+      "loops": 0,
+      "wep": 114,
+      "bwep": 119,
+      "win": false,
+      "kills": 336,
+      "ultra": 0,
+      "skills": [
+        23,
+        4,
+        7,
+        27,
+        1,
+        3
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "ijBAYZyYjyjbaRz",
+      "runId": 1093348244
+    },
+    "JbEyw886Xr9CIBK": {
+      "name": "Anal",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 1,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        10,
+        1,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "JbEyw886Xr9CIBK",
+      "runId": 1093348244
+    },
+    "s9fBlDfo8JSfQf2": {
+      "name": "holamigos",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "s9fBlDfo8JSfQf2",
+      "runId": 1093348244
     }
   }
 }
