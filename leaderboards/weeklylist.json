@@ -1132,6 +1132,28 @@
       "version": 2616,
       "uid": "94BcAr1YtpD5CyW",
       "runId": 1482374729
+    },
+    "ZrbRBrrjAYibYbB": {
+      "name": "Confusion",
+      "char": 6,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 88,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        21,
+        1,
+        17
+      ],
+      "crown": 5,
+      "version": 3003,
+      "uid": "ZrbRBrrjAYibYbB",
+      "runId": 1482374729
     }
   }
 }
