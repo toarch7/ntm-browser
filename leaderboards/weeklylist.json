@@ -388,19 +388,22 @@
       "name": "tsiger",
       "char": 6,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
+      "area": 6,
+      "subarea": 1,
       "loops": 0,
-      "wep": 3,
+      "wep": 112,
       "bwep": 32,
       "win": false,
-      "kills": 252,
+      "kills": 289,
       "ultra": 0,
       "skills": [
-        4,
+        22,
         6,
-        1,
-        16
+        25,
+        8,
+        7,
+        16,
+        9
       ],
       "crown": 5,
       "version": 2616,
@@ -1358,6 +1361,49 @@
       "crown": 5,
       "version": 2616,
       "uid": "W2LSTbrUl8T0Wg2",
+      "runId": 1482374729
+    },
+    "eZcWSF1n96ETlFD": {
+      "name": "Seeker90",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 32,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        4,
+        2,
+        7
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "eZcWSF1n96ETlFD",
+      "runId": 1482374729
+    },
+    "F6NC6dCaPwnS8Y3": {
+      "name": "cane",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 21,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        4,
+        13
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "F6NC6dCaPwnS8Y3",
       "runId": 1482374729
     }
   }
