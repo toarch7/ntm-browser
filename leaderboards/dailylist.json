@@ -826,6 +826,27 @@
       "version": 2616,
       "uid": "wECzag23l714Zst",
       "runId": 1211129091
+    },
+    "bv48bPXn10pj7s2": {
+      "name": "Seeker90",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 69,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        10,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bv48bPXn10pj7s2",
+      "runId": 1211129091
     }
   }
 }
