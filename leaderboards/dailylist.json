@@ -769,6 +769,94 @@
       "version": 3003,
       "uid": "AQbAyrJzYAyYqjb",
       "runId": 330681011
+    },
+    "Fk36Cvlrt10D0uN": {
+      "name": "shira",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Fk36Cvlrt10D0uN",
+      "runId": 330681011
+    },
+    "bv48bPXn10pj7s2": {
+      "name": "Seeker90",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 34,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        7,
+        4,
+        6,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bv48bPXn10pj7s2",
+      "runId": 330681011
+    },
+    "OXxG2pkxb5Ga96V": {
+      "name": "VK/69",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 2,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        7,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "OXxG2pkxb5Ga96V",
+      "runId": 330681011
+    },
+    "27HiA9ejCttu7S1": {
+      "name": "harleysaw",
+      "char": 8,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 0,
+      "win": false,
+      "kills": 249,
+      "ultra": 0,
+      "skills": [
+        7,
+        22,
+        4,
+        23,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "27HiA9ejCttu7S1",
+      "runId": 330681011
     }
   }
 }
