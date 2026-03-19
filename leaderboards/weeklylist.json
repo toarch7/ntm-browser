@@ -2168,6 +2168,28 @@
       "version": 2616,
       "uid": "sJmRM0v54iB9ouc",
       "runId": 1482374729
+    },
+    "Ngj2I9UFLbNz84z": {
+      "name": "Seek",
+      "char": 6,
+      "skin": true,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 32,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        13,
+        8,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "Ngj2I9UFLbNz84z",
+      "runId": 1482374729
     }
   }
 }
