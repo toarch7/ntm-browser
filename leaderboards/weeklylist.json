@@ -346,17 +346,20 @@
       "name": "jododendron",
       "char": 6,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 32,
-      "bwep": 23,
+      "wep": 23,
+      "bwep": 37,
       "win": false,
-      "kills": 81,
+      "kills": 158,
       "ultra": 0,
       "skills": [
         4,
-        6
+        6,
+        3,
+        25,
+        8
       ],
       "crown": 5,
       "version": 2616,
@@ -2122,6 +2125,27 @@
       "crown": 5,
       "version": 2616,
       "uid": "3IDSW2WHk7E3FP8",
+      "runId": 1482374729
+    },
+    "gc9B17E7dt2ao4S": {
+      "name": "Facagamer",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 32,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        13,
+        4
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "gc9B17E7dt2ao4S",
       "runId": 1482374729
     }
   }
