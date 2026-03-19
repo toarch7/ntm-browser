@@ -2057,6 +2057,72 @@
       "version": 2616,
       "uid": "op1320st0RMhjrP",
       "runId": 1482374729
+    },
+    "S46qz51eYBh8e2D": {
+      "name": "casa",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 32,
+      "win": false,
+      "kills": 109,
+      "ultra": 0,
+      "skills": [
+        4,
+        13,
+        7
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "S46qz51eYBh8e2D",
+      "runId": 1482374729
+    },
+    "gPsp1tM8e32521C": {
+      "name": "A",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 32,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "gPsp1tM8e32521C",
+      "runId": 1482374729
+    },
+    "3IDSW2WHk7E3FP8": {
+      "name": "I.Eat.Kids",
+      "char": 6,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 54,
+      "bwep": 28,
+      "win": false,
+      "kills": 349,
+      "ultra": 1,
+      "skills": [
+        2,
+        7,
+        1,
+        27,
+        23
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "3IDSW2WHk7E3FP8",
+      "runId": 1482374729
     }
   }
 }
