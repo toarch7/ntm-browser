@@ -534,6 +534,49 @@
       "version": 2616,
       "uid": "5Y858XjjAOo0ncu",
       "runId": 1582601748
+    },
+    "1WZga1Ex64zcFmI": {
+      "name": "Rakso",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 27,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        4,
+        2,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1WZga1Ex64zcFmI",
+      "runId": 1582601748
+    },
+    "1MD3gjV3p63jgEC": {
+      "name": "laucha",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        4,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1MD3gjV3p63jgEC",
+      "runId": 1582601748
     }
   }
 }
