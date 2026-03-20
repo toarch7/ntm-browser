@@ -346,13 +346,13 @@
       "name": "jododendron",
       "char": 6,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 23,
-      "bwep": 37,
+      "wep": 8,
+      "bwep": 29,
       "win": false,
-      "kills": 158,
+      "kills": 165,
       "ultra": 0,
       "skills": [
         4,
@@ -2387,6 +2387,28 @@
       "crown": 5,
       "version": 2616,
       "uid": "FFN72ui9WDWai7H",
+      "runId": 1482374729
+    },
+    "hG1hn8Z8McdODRE": {
+      "name": "Vite225",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 32,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        4,
+        6,
+        1
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "hG1hn8Z8McdODRE",
       "runId": 1482374729
     }
   }
