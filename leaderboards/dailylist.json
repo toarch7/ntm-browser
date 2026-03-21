@@ -1312,6 +1312,48 @@
       "version": 2616,
       "uid": "FTaB0GTB5qL6425",
       "runId": 202565416
+    },
+    "H034okHV04ZU51h": {
+      "name": "Belyo",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 88,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        23,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "H034okHV04ZU51h",
+      "runId": 202565416
+    },
+    "Oa01NoPr4Kr264V": {
+      "name": "Seeker90",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 6,
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        23,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Oa01NoPr4Kr264V",
+      "runId": 202565416
     }
   }
 }
