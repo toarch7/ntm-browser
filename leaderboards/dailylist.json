@@ -651,6 +651,42 @@
       "version": 3002,
       "uid": "iaIRjaibiZjJJqZ",
       "runId": 1918818296
+    },
+    "eY7ne5LC9bSI1v5": {
+      "name": "sus",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "eY7ne5LC9bSI1v5",
+      "runId": 1918818296
+    },
+    "0eVHnC9399di8Sa": {
+      "name": "Dandy",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0eVHnC9399di8Sa",
+      "runId": 1918818296
     }
   }
 }
