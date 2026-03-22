@@ -2787,17 +2787,18 @@
       "name": "333",
       "char": 6,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 20,
-      "bwep": 32,
+      "wep": 13,
+      "bwep": 75,
       "win": false,
-      "kills": 73,
+      "kills": 91,
       "ultra": 0,
       "skills": [
         4,
-        2
+        13,
+        7
       ],
       "crown": 5,
       "version": 2616,
