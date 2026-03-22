@@ -766,6 +766,48 @@
       "version": 2616,
       "uid": "a000X9e7j4vAN46",
       "runId": 1918818296
+    },
+    "a5wJH9b69WUdeW5": {
+      "name": "Locusprime",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 52,
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        4,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a5wJH9b69WUdeW5",
+      "runId": 1918818296
+    },
+    "R039F5uP51qvsZS": {
+      "name": "карбон",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 69,
+      "win": false,
+      "kills": 116,
+      "ultra": 0,
+      "skills": [
+        28,
+        27
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "R039F5uP51qvsZS",
+      "runId": 1918818296
     }
   }
 }
