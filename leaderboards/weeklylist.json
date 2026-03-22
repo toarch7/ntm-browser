@@ -2224,19 +2224,21 @@
       "name": "dinjones",
       "char": 6,
       "skin": true,
-      "area": 104,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 32,
-      "bwep": 88,
+      "wep": 38,
+      "bwep": 89,
       "win": false,
-      "kills": 171,
+      "kills": 245,
       "ultra": 0,
       "skills": [
         4,
-        13,
+        2,
         1,
-        12
+        12,
+        28,
+        9
       ],
       "crown": 5,
       "version": 2616,
@@ -3153,6 +3155,27 @@
       "crown": 5,
       "version": 2616,
       "uid": "qJ6YBxm3JS3V6HG",
+      "runId": 1482374729
+    },
+    "u7DE35HTB9H1cBf": {
+      "name": "lalk",
+      "char": 6,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 18,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        4,
+        6
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "u7DE35HTB9H1cBf",
       "runId": 1482374729
     }
   }
