@@ -608,13 +608,13 @@
       "name": "карбон",
       "char": 8,
       "skin": false,
-      "area": 3,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 55,
-      "bwep": 16,
+      "wep": 15,
+      "bwep": 105,
       "win": false,
-      "kills": 132,
+      "kills": 148,
       "ultra": 0,
       "skills": [
         23,
@@ -657,20 +657,21 @@
       "name": "Gost1k",
       "char": 8,
       "skin": false,
-      "area": 5,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
       "wep": 13,
       "bwep": 105,
       "win": false,
-      "kills": 182,
+      "kills": 315,
       "ultra": 0,
       "skills": [
         23,
         4,
         25,
         22,
-        13
+        13,
+        7
       ],
       "crown": 1,
       "version": 2616,
@@ -892,16 +893,16 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 76,
+      "wep": 89,
       "bwep": 105,
       "win": false,
-      "kills": 227,
+      "kills": 250,
       "ultra": 0,
       "skills": [
+        22,
         4,
         14,
-        10,
-        26
+        10
       ],
       "crown": 1,
       "version": 2616,
@@ -1675,6 +1676,28 @@
       "crown": 1,
       "version": 2616,
       "uid": "5ewK32ocFD7J69m",
+      "runId": 1273038675
+    },
+    "O5ccE82YwZi5sG2": {
+      "name": "seske2837",
+      "char": 8,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 13,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        22,
+        14,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "O5ccE82YwZi5sG2",
       "runId": 1273038675
     }
   }
