@@ -1051,15 +1051,17 @@
       "char": 8,
       "skin": false,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 5,
-      "bwep": 0,
+      "wep": 31,
+      "bwep": 5,
       "win": false,
-      "kills": 72,
+      "kills": 117,
       "ultra": 0,
       "skills": [
-        25
+        24,
+        19,
+        1
       ],
       "crown": 1,
       "version": 2616,
@@ -1923,6 +1925,28 @@
       "crown": 1,
       "version": 2616,
       "uid": "7hdQ5LL1bTHAeGH",
+      "runId": 1273038675
+    },
+    "h30DHxoS21igAam": {
+      "name": "gabo",
+      "char": 8,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 13,
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        24,
+        19,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h30DHxoS21igAam",
       "runId": 1273038675
     }
   }
