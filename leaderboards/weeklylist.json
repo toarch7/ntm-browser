@@ -424,17 +424,18 @@
       "name": "Dandy",
       "char": 8,
       "skin": false,
-      "area": 2,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 7,
-      "bwep": 6,
+      "wep": 71,
+      "bwep": 105,
       "win": false,
-      "kills": 46,
+      "kills": 146,
       "ultra": 0,
       "skills": [
-        23,
-        4
+        4,
+        16,
+        1
       ],
       "crown": 1,
       "version": 2616,
@@ -2118,6 +2119,27 @@
       "crown": 1,
       "version": 2616,
       "uid": "099iL2Mqq5PU8zn",
+      "runId": 1273038675
+    },
+    "F6NC6dCaPwnS8Y3": {
+      "name": "cane",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 105,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        22,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "F6NC6dCaPwnS8Y3",
       "runId": 1273038675
     }
   }
