@@ -840,6 +840,72 @@
       "version": 3003,
       "uid": "aQBqrIIJzarJqRr",
       "runId": 2019009891
+    },
+    "IDcnB3o5FsBxpAX": {
+      "name": "Kingdomhero",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "IDcnB3o5FsBxpAX",
+      "runId": 2019009891
+    },
+    "USIMXIVle0p6qyy": {
+      "name": "starobelka",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 9,
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        3,
+        1,
+        21,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "USIMXIVle0p6qyy",
+      "runId": 2019009891
+    },
+    "L52v3ftFZeW4k2e": {
+      "name": "куат",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 1,
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        12,
+        1,
+        27,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L52v3ftFZeW4k2e",
+      "runId": 2019009891
     }
   }
 }
