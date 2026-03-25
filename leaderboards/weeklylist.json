@@ -783,20 +783,22 @@
       "name": "owil",
       "char": 8,
       "skin": false,
-      "area": 5,
+      "area": 0,
       "subarea": 1,
-      "loops": 0,
-      "wep": 105,
-      "bwep": 30,
+      "loops": 1,
+      "wep": 22,
+      "bwep": 105,
       "win": false,
-      "kills": 174,
-      "ultra": 0,
+      "kills": 358,
+      "ultra": 2,
       "skills": [
         23,
         4,
         25,
         16,
-        17
+        17,
+        7,
+        3
       ],
       "crown": 1,
       "version": 2616,
@@ -1173,14 +1175,14 @@
       "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 16,
-      "bwep": 4,
+      "wep": 105,
+      "bwep": 69,
       "win": false,
-      "kills": 74,
+      "kills": 82,
       "ultra": 0,
       "skills": [
         22,
-        25
+        19
       ],
       "crown": 1,
       "version": 2616,
@@ -2162,6 +2164,27 @@
       "crown": 1,
       "version": 2616,
       "uid": "J1310A51338h9Tx",
+      "runId": 1273038675
+    },
+    "7xZaGX4gPun1aTy": {
+      "name": "zKRATOZz",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 105,
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        22,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7xZaGX4gPun1aTy",
       "runId": 1273038675
     }
   }
