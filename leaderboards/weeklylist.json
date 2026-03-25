@@ -2323,6 +2323,27 @@
       "version": 2616,
       "uid": "0pY11O5ifvxuN6P",
       "runId": 1273038675
+    },
+    "MLD3I5XwOSVA61a": {
+      "name": "berserk",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 4,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        24,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "MLD3I5XwOSVA61a",
+      "runId": 1273038675
     }
   }
 }
