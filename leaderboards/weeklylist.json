@@ -1823,21 +1823,21 @@
       "name": "Ah~",
       "char": 8,
       "skin": false,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 1,
-      "wep": 77,
+      "wep": 105,
       "bwep": 13,
       "win": false,
-      "kills": 693,
+      "kills": 740,
       "ultra": 2,
       "skills": [
         23,
-        4,
+        10,
         25,
-        24,
+        22,
         1,
-        13,
+        4,
         7,
         3
       ],
@@ -2827,6 +2827,30 @@
       "crown": 1,
       "version": 2616,
       "uid": "5MPb265l169MC6q",
+      "runId": 1273038675
+    },
+    "1s11c48vo8q6G7U": {
+      "name": "felipe",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 117,
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        22,
+        4,
+        14,
+        1,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1s11c48vo8q6G7U",
       "runId": 1273038675
     }
   }
