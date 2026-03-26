@@ -2609,18 +2609,19 @@
       "char": 8,
       "skin": false,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
       "wep": 105,
-      "bwep": 0,
+      "bwep": 65,
       "win": false,
-      "kills": 187,
+      "kills": 235,
       "ultra": 0,
       "skills": [
         23,
         10,
         14,
-        1
+        1,
+        4
       ],
       "crown": 1,
       "version": 2616,
@@ -2851,6 +2852,47 @@
       "crown": 1,
       "version": 2616,
       "uid": "1s11c48vo8q6G7U",
+      "runId": 1273038675
+    },
+    "0v77ybbi5lVKYF1": {
+      "name": "Alex",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 0,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0v77ybbi5lVKYF1",
+      "runId": 1273038675
+    },
+    "2emHu8NqFX2ZtTG": {
+      "name": "Axlord",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 105,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        24,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2emHu8NqFX2ZtTG",
       "runId": 1273038675
     }
   }
