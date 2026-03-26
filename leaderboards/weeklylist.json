@@ -2551,6 +2551,96 @@
       "version": 2616,
       "uid": "v4yX91o8dzOOMBL",
       "runId": 1273038675
+    },
+    "9EkyKX48VdSH7VW": {
+      "name": "Fanton",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 105,
+      "win": false,
+      "kills": 123,
+      "ultra": 0,
+      "skills": [
+        23,
+        10,
+        19,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9EkyKX48VdSH7VW",
+      "runId": 1273038675
+    },
+    "IJIjIBIQJJZRIYY": {
+      "name": "NielEmo",
+      "char": 8,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 105,
+      "win": false,
+      "kills": 347,
+      "ultra": 2,
+      "skills": [
+        27,
+        1,
+        9,
+        8,
+        7,
+        14,
+        28
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "IJIjIBIQJJZRIYY",
+      "runId": 1273038675
+    },
+    "Ngj2I9UFLbNz84z": {
+      "name": "Seek",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 105,
+      "bwep": 0,
+      "win": false,
+      "kills": 187,
+      "ultra": 0,
+      "skills": [
+        23,
+        10,
+        14,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ngj2I9UFLbNz84z",
+      "runId": 1273038675
+    },
+    "CVzZ2t7Lfaat0Bq": {
+      "name": "PUNISHER",
+      "char": 8,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 105,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CVzZ2t7Lfaat0Bq",
+      "runId": 1273038675
     }
   }
 }
