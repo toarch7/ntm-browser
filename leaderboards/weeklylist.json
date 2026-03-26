@@ -53,19 +53,19 @@
       "name": "bojojojo",
       "char": 8,
       "skin": false,
-      "area": 4,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 5,
-      "bwep": 105,
+      "wep": 105,
+      "bwep": 16,
       "win": false,
-      "kills": 153,
+      "kills": 183,
       "ultra": 0,
       "skills": [
+        24,
         4,
         14,
-        1,
-        24
+        1
       ],
       "crown": 1,
       "version": 2616,
@@ -2502,6 +2502,54 @@
       "crown": 1,
       "version": 2616,
       "uid": "iiP3JJy9KGhDVf9",
+      "runId": 1273038675
+    },
+    "4keCUe1QqC9tD1e": {
+      "name": "ратмир",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 28,
+      "bwep": 105,
+      "win": false,
+      "kills": 317,
+      "ultra": 0,
+      "skills": [
+        23,
+        10,
+        14,
+        1,
+        4,
+        2,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4keCUe1QqC9tD1e",
+      "runId": 1273038675
+    },
+    "v4yX91o8dzOOMBL": {
+      "name": "arbuz",
+      "char": 8,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 105,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        23,
+        4,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "v4yX91o8dzOOMBL",
       "runId": 1273038675
     }
   }
