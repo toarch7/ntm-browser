@@ -2888,11 +2888,11 @@
       "wep": 5,
       "bwep": 105,
       "win": false,
-      "kills": 48,
+      "kills": 67,
       "ultra": 0,
       "skills": [
         24,
-        4
+        12
       ],
       "crown": 1,
       "version": 2616,
@@ -3275,6 +3275,30 @@
       "crown": 1,
       "version": 3003,
       "uid": "JaJzjRZRAYQQIZr",
+      "runId": 1273038675
+    },
+    "tmI8hNK59FDRCSG": {
+      "name": "Masty_03",
+      "char": 8,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 105,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        22,
+        4,
+        16,
+        1,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "tmI8hNK59FDRCSG",
       "runId": 1273038675
     }
   }

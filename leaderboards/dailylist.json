@@ -814,6 +814,51 @@
       "version": 2616,
       "uid": "IDcnB3o5FsBxpAX",
       "runId": 2038488213
+    },
+    "2emHu8NqFX2ZtTG": {
+      "name": "Axlord",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2emHu8NqFX2ZtTG",
+      "runId": 2038488213
+    },
+    "jrQqzyybQQqZJya": {
+      "name": "Denbiii",
+      "char": 16,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 21,
+      "win": false,
+      "kills": 325,
+      "ultra": 0,
+      "skills": [
+        8,
+        4,
+        19,
+        12,
+        17,
+        10
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "jrQqzyybQQqZJya",
+      "runId": 2038488213
     }
   }
 }
