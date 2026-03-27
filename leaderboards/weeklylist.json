@@ -2037,21 +2037,19 @@
       "name": "coco33",
       "char": 8,
       "skin": false,
-      "area": 5,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 80,
+      "wep": 114,
       "bwep": 105,
       "win": false,
-      "kills": 166,
+      "kills": 174,
       "ultra": 0,
       "skills": [
         23,
-        4,
-        25,
+        10,
         16,
-        1,
-        24
+        4
       ],
       "crown": 1,
       "version": 2616,
@@ -3255,6 +3253,28 @@
       "crown": 1,
       "version": 2616,
       "uid": "M1l9rz3eT6Fqr2A",
+      "runId": 1273038675
+    },
+    "JaJzjRZRAYQQIZr": {
+      "name": "JOHN",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 105,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        9
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "JaJzjRZRAYQQIZr",
       "runId": 1273038675
     }
   }

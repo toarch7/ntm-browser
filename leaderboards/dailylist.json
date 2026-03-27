@@ -793,6 +793,27 @@
       "version": 2616,
       "uid": "8p9vPaM330Jl5wj",
       "runId": 2038488213
+    },
+    "IDcnB3o5FsBxpAX": {
+      "name": "Kingdomhero",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 6,
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        8,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "IDcnB3o5FsBxpAX",
+      "runId": 2038488213
     }
   }
 }
