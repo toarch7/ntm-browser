@@ -312,17 +312,20 @@
       "name": "Seeker71hahh",
       "char": 8,
       "skin": false,
-      "area": 2,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 19,
-      "bwep": 105,
+      "wep": 105,
+      "bwep": 14,
       "win": false,
-      "kills": 70,
+      "kills": 136,
       "ultra": 0,
       "skills": [
         23,
-        10
+        10,
+        14,
+        1,
+        13
       ],
       "crown": 1,
       "version": 2616,
@@ -3020,6 +3023,28 @@
       "crown": 1,
       "version": 3003,
       "uid": "rayaqjrAAZzqqZa",
+      "runId": 1273038675
+    },
+    "2Z2fzU34uSWIiU6": {
+      "name": "Soltar.20",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 105,
+      "win": false,
+      "kills": 129,
+      "ultra": 0,
+      "skills": [
+        23,
+        12,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2Z2fzU34uSWIiU6",
       "runId": 1273038675
     }
   }
