@@ -847,6 +847,43 @@
       "version": 2616,
       "uid": "35GFhWko20xMY6l",
       "runId": 1766879424
+    },
+    "Z206960DkjdP4d4": {
+      "name": "Abreu",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Z206960DkjdP4d4",
+      "runId": 1766879424
+    },
+    "6ch9j3euBMVO6K0": {
+      "name": "STX",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 16,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        6,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6ch9j3euBMVO6K0",
+      "runId": 1766879424
     }
   }
 }
