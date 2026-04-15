@@ -1307,13 +1307,13 @@
       "name": "Serbero",
       "char": 4,
       "skin": true,
-      "area": 3,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
       "wep": 3,
       "bwep": 97,
       "win": false,
-      "kills": 107,
+      "kills": 159,
       "ultra": 0,
       "skills": [
         1,
@@ -1514,6 +1514,27 @@
       "crown": 10,
       "version": 2616,
       "uid": "sQbr2RP6zEFcRh1",
+      "runId": 1209214414
+    },
+    "aAYZjJzyBaryBAq": {
+      "name": "LilAlice",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 4,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        3,
+        27
+      ],
+      "crown": 10,
+      "version": 3003,
+      "uid": "aAYZjJzyBaryBAq",
       "runId": 1209214414
     }
   }
