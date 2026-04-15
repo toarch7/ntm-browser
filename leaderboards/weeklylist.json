@@ -1295,6 +1295,49 @@
       "version": 2616,
       "uid": "gFTG0d0IQc9AS9W",
       "runId": 1209214414
+    },
+    "LI96dvxv3DoYmw7": {
+      "name": "Serbero",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 97,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        1,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "LI96dvxv3DoYmw7",
+      "runId": 1209214414
+    },
+    "CHPE76C135sifks": {
+      "name": "Lunaixer",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 97,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        3,
+        1,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "CHPE76C135sifks",
+      "runId": 1209214414
     }
   }
 }
