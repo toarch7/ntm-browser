@@ -312,6 +312,47 @@
       "version": 2616,
       "uid": "25S2w88f8o2wSWh",
       "runId": 1766879424
+    },
+    "BzqarIyAYqyqRBI": {
+      "name": "sako.com",
+      "char": 14,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 56,
+      "win": false,
+      "kills": 18,
+      "crown": 1,
+      "version": 3003,
+      "uid": "BzqarIyAYqyqRBI",
+      "runId": 1766879424
+    },
+    "ijBAYZyYjyjbaRz": {
+      "name": "ГАНДОН",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 52,
+      "bwep": 70,
+      "win": false,
+      "kills": 223,
+      "ultra": 0,
+      "skills": [
+        9,
+        6,
+        7,
+        3,
+        8,
+        10
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "ijBAYZyYjyjbaRz",
+      "runId": 1766879424
     }
   }
 }
