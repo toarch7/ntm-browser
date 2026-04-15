@@ -960,17 +960,19 @@
       "name": "Seeker71",
       "char": 4,
       "skin": true,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 97,
-      "bwep": 17,
+      "wep": 26,
+      "bwep": 97,
       "win": false,
-      "kills": 104,
+      "kills": 244,
       "ultra": 0,
       "skills": [
         12,
-        3
+        3,
+        23,
+        21
       ],
       "crown": 10,
       "version": 2616,
@@ -1490,6 +1492,28 @@
       "crown": 10,
       "version": 2616,
       "uid": "oCBLKHcNoA7CDxJ",
+      "runId": 1209214414
+    },
+    "sQbr2RP6zEFcRh1": {
+      "name": "THE_RCD",
+      "char": 4,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 97,
+      "win": false,
+      "kills": 164,
+      "ultra": 0,
+      "skills": [
+        1,
+        23,
+        17
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "sQbr2RP6zEFcRh1",
       "runId": 1209214414
     }
   }
