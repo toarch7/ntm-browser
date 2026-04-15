@@ -396,6 +396,83 @@
       "version": 3003,
       "uid": "iYibYzQJABybIbZ",
       "runId": 1766879424
+    },
+    "7GGkK5T6U08zSoA": {
+      "name": "п",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "7GGkK5T6U08zSoA",
+      "runId": 1766879424
+    },
+    "a9Q2SQ2FN13Y6ax": {
+      "name": "Racnar",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 88,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        9,
+        8,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a9Q2SQ2FN13Y6ax",
+      "runId": 1766879424
+    },
+    "Ern7U4XU92hznEh": {
+      "name": "Seeker",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ern7U4XU92hznEh",
+      "runId": 1766879424
+    },
+    "J1310A51338h9Tx": {
+      "name": "Фро́гетик",
+      "char": 4,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        27,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J1310A51338h9Tx",
+      "runId": 1766879424
     }
   }
 }

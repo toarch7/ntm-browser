@@ -251,18 +251,22 @@
       "name": "andres",
       "char": 4,
       "skin": true,
-      "area": 5,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 11,
-      "bwep": 97,
+      "area": 1,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 106,
+      "bwep": 35,
       "win": false,
-      "kills": 114,
+      "kills": 319,
       "ultra": 0,
       "skills": [
         26,
         1,
-        9
+        9,
+        17,
+        27,
+        8,
+        4
       ],
       "crown": 10,
       "version": 2616,
@@ -1382,6 +1386,110 @@
       "crown": 10,
       "version": 2616,
       "uid": "fFT741V0zD7Kdn2",
+      "runId": 1209214414
+    },
+    "B92C0noQIpj8ja6": {
+      "name": "Roguelike971",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 97,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        1,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "B92C0noQIpj8ja6",
+      "runId": 1209214414
+    },
+    "5Gx1GFD5Mp7Ydd3": {
+      "name": "kusogake",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 97,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "5Gx1GFD5Mp7Ydd3",
+      "runId": 1209214414
+    },
+    "2jn9sMH2IkmDw3q": {
+      "name": "jododendron",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 97,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        3,
+        1
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "2jn9sMH2IkmDw3q",
+      "runId": 1209214414
+    },
+    "q8xqShxSYCjYdF1": {
+      "name": "m4kr",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 97,
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        1,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "q8xqShxSYCjYdF1",
+      "runId": 1209214414
+    },
+    "oCBLKHcNoA7CDxJ": {
+      "name": "Seeker",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 97,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        1,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "oCBLKHcNoA7CDxJ",
       "runId": 1209214414
     }
   }
