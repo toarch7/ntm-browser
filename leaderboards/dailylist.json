@@ -987,6 +987,81 @@
       "version": 2616,
       "uid": "46n6U5hADTXqlFz",
       "runId": 983364969
+    },
+    "r806QDLkd2yCEBU": {
+      "name": "Scrotum",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "r806QDLkd2yCEBU",
+      "runId": 983364969
+    },
+    "z2AAp40jy525I3v": {
+      "name": "gomnuk1",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 15,
+      "crown": 1,
+      "version": 2616,
+      "uid": "z2AAp40jy525I3v",
+      "runId": 983364969
+    },
+    "o81xwvLnHVVKusl": {
+      "name": "null",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 1,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "o81xwvLnHVVKusl",
+      "runId": 983364969
+    },
+    "RArbRJqRrIqIRYr": {
+      "name": "Mindkiller06",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 9,
+      "win": false,
+      "kills": 166,
+      "ultra": 0,
+      "skills": [
+        8,
+        19
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "RArbRJqRrIqIRYr",
+      "runId": 983364969
     }
   }
 }
