@@ -1175,6 +1175,44 @@
       "version": 3003,
       "uid": "abjbRqayBzBQzzR",
       "runId": 983364969
+    },
+    "a9Q2SQ2FN13Y6ax": {
+      "name": "Racnar",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 1,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a9Q2SQ2FN13Y6ax",
+      "runId": 983364969
+    },
+    "aBZJRbyzYBBRIiI": {
+      "name": "Seeker73",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 1,
+      "win": false,
+      "kills": 18,
+      "crown": 1,
+      "version": 3003,
+      "uid": "aBZJRbyzYBBRIiI",
+      "runId": 983364969
     }
   }
 }
