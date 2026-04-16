@@ -1062,6 +1062,74 @@
       "version": 3003,
       "uid": "RArbRJqRrIqIRYr",
       "runId": 983364969
+    },
+    "IRBaRiIrJIijYaq": {
+      "name": "0",
+      "char": 5,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 23,
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        7,
+        22,
+        23
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "IRBaRiIrJIijYaq",
+      "runId": 983364969
+    },
+    "qrBIrIQJyIRaZYb": {
+      "name": "Seeker447",
+      "char": 6,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 39,
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "qrBIrIQJyIRaZYb",
+      "runId": 983364969
+    },
+    "vBgDx6p5FfIXT4l": {
+      "name": "Egrfor",
+      "char": 7,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 26,
+      "win": false,
+      "kills": 245,
+      "ultra": 0,
+      "skills": [
+        4,
+        19,
+        27,
+        7,
+        25,
+        22,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "vBgDx6p5FfIXT4l",
+      "runId": 983364969
     }
   }
 }
