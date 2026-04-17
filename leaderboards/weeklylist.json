@@ -2342,22 +2342,45 @@
       "name": "Huesos228",
       "char": 4,
       "skin": true,
-      "area": 104,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 22,
-      "bwep": 97,
+      "wep": 97,
+      "bwep": 30,
       "win": false,
-      "kills": 181,
+      "kills": 227,
       "ultra": 0,
       "skills": [
         12,
+        1,
+        3,
+        17,
+        27
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "0oTNM101x674oQ5",
+      "runId": 1209214414
+    },
+    "0T7z1R0oBQdkbIA": {
+      "name": "AnorLondo",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 97,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
         1,
         3
       ],
       "crown": 10,
       "version": 2616,
-      "uid": "0oTNM101x674oQ5",
+      "uid": "0T7z1R0oBQdkbIA",
       "runId": 1209214414
     }
   }
