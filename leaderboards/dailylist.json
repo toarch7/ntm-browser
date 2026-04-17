@@ -928,6 +928,49 @@
       "version": 3003,
       "uid": "aIqaYyaIBjBjJYz",
       "runId": 76883431
+    },
+    "Gs5ObHF34q38N96": {
+      "name": "Wazi",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 69,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        16,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Gs5ObHF34q38N96",
+      "runId": 76883431
+    },
+    "kQy4Ko5zK2qOa8f": {
+      "name": "Overiend",
+      "char": 7,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        14,
+        8,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kQy4Ko5zK2qOa8f",
+      "runId": 76883431
     }
   }
 }
