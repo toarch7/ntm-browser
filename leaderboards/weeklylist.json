@@ -364,19 +364,18 @@
       "name": "Фро́гетик",
       "char": 4,
       "skin": true,
-      "area": 6,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 69,
-      "bwep": 14,
+      "wep": 7,
+      "bwep": 97,
       "win": false,
-      "kills": 129,
+      "kills": 143,
       "ultra": 0,
       "skills": [
         12,
         1,
-        9,
-        23
+        9
       ],
       "crown": 10,
       "version": 2616,
@@ -2337,6 +2336,28 @@
       "crown": 10,
       "version": 2616,
       "uid": "a9PTLj2KQ88402C",
+      "runId": 1209214414
+    },
+    "0oTNM101x674oQ5": {
+      "name": "Huesos228",
+      "char": 4,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 97,
+      "win": false,
+      "kills": 181,
+      "ultra": 0,
+      "skills": [
+        12,
+        1,
+        3
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "0oTNM101x674oQ5",
       "runId": 1209214414
     }
   }
