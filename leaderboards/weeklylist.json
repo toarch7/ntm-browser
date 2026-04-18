@@ -1733,10 +1733,10 @@
       "area": 3,
       "subarea": 3,
       "loops": 0,
-      "wep": 2,
+      "wep": 97,
       "bwep": 3,
       "win": false,
-      "kills": 147,
+      "kills": 149,
       "ultra": 0,
       "skills": [
         1,
@@ -2929,6 +2929,49 @@
       "crown": 10,
       "version": 2616,
       "uid": "qUE5s52SV4t28c8",
+      "runId": 1209214414
+    },
+    "Oa01NoPr4Kr264V": {
+      "name": "Seeker90",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 97,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        1,
+        2
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "Oa01NoPr4Kr264V",
+      "runId": 1209214414
+    },
+    "QJ40B2eM2q9biXu": {
+      "name": "gabito",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 97,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        26,
+        1,
+        2
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "QJ40B2eM2q9biXu",
       "runId": 1209214414
     }
   }
