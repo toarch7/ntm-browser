@@ -2776,6 +2776,70 @@
       "version": 2616,
       "uid": "8X0M5G9658Bcb83",
       "runId": 1209214414
+    },
+    "vWLxM9Xj7D617yx": {
+      "name": "EDUC105",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 97,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "vWLxM9Xj7D617yx",
+      "runId": 1209214414
+    },
+    "XflnV0g9kUBGm2d": {
+      "name": "dark",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 97,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        12,
+        22,
+        2
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "XflnV0g9kUBGm2d",
+      "runId": 1209214414
+    },
+    "7ntoZYv8C02iUZ1": {
+      "name": "luiz",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 97,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        12,
+        1,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "7ntoZYv8C02iUZ1",
+      "runId": 1209214414
     }
   }
 }
