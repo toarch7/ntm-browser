@@ -587,6 +587,66 @@
       "version": 3003,
       "uid": "AAiyrAqabybbRAi",
       "runId": 822259387
+    },
+    "xAGfnzHEn4O62g7": {
+      "name": "Betinha",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xAGfnzHEn4O62g7",
+      "runId": 822259387
+    },
+    "QJ40B2eM2q9biXu": {
+      "name": "gabito",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 17,
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "QJ40B2eM2q9biXu",
+      "runId": 822259387
+    },
+    "a9PTLj2KQ88402C": {
+      "name": "SPIDERMAXX",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 4,
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a9PTLj2KQ88402C",
+      "runId": 822259387
     }
   }
 }
