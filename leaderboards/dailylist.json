@@ -1031,6 +1031,27 @@
       "version": 2616,
       "uid": "p0iUaLQIoIV570b",
       "runId": 822259387
+    },
+    "Ern7U4XU92hznEh": {
+      "name": "Seeker",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 21,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        13,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ern7U4XU92hznEh",
+      "runId": 822259387
     }
   }
 }
