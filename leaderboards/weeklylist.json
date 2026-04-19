@@ -1408,15 +1408,16 @@
       "name": "Roguelike971",
       "char": 4,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
       "wep": 3,
       "bwep": 97,
       "win": false,
-      "kills": 70,
+      "kills": 95,
       "ultra": 0,
       "skills": [
+        12,
         1,
         9
       ],
@@ -1470,17 +1471,18 @@
       "name": "m4kr",
       "char": 4,
       "skin": true,
-      "area": 3,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
       "wep": 3,
       "bwep": 97,
       "win": false,
-      "kills": 144,
+      "kills": 153,
       "ultra": 0,
       "skills": [
         1,
-        9
+        9,
+        17
       ],
       "crown": 10,
       "version": 2616,
@@ -3282,6 +3284,47 @@
       "crown": 10,
       "version": 2616,
       "uid": "74UrGPWnvTMo4jz",
+      "runId": 1209214414
+    },
+    "D8g9gXqLFN0TsHG": {
+      "name": "AREPA_MASTER69",
+      "char": 4,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 97,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        1,
+        9
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "D8g9gXqLFN0TsHG",
+      "runId": 1209214414
+    },
+    "267Q71MkSDBlGTP": {
+      "name": "die",
+      "char": 4,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 97,
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "267Q71MkSDBlGTP",
       "runId": 1209214414
     }
   }
