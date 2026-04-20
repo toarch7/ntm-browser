@@ -268,6 +268,135 @@
       "version": 2616,
       "uid": "XEub7E1192A1b6V",
       "runId": 806706435
+    },
+    "a9Q2SQ2FN13Y6ax": {
+      "name": "Racnar",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 29,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "a9Q2SQ2FN13Y6ax",
+      "runId": 806706435
+    },
+    "2jn9sMH2IkmDw3q": {
+      "name": "jododendron",
+      "char": 9,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 63,
+      "win": false,
+      "kills": 165,
+      "ultra": 0,
+      "skills": [
+        4,
+        12,
+        3
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "2jn9sMH2IkmDw3q",
+      "runId": 806706435
+    },
+    "u1ofC7CR28Ip125": {
+      "name": "jalyna",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 29,
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        4,
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "u1ofC7CR28Ip125",
+      "runId": 806706435
+    },
+    "p3eUbC2tVK47I24": {
+      "name": "zalupula",
+      "char": 9,
+      "skin": true,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 88,
+      "bwep": 70,
+      "win": false,
+      "kills": 352,
+      "ultra": 1,
+      "skills": [
+        4,
+        1,
+        27,
+        7,
+        9,
+        13
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "p3eUbC2tVK47I24",
+      "runId": 806706435
+    },
+    "FtJJj5yqtvvxRI4": {
+      "name": "Macomac",
+      "char": 9,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 7,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        21,
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "FtJJj5yqtvvxRI4",
+      "runId": 806706435
+    },
+    "EPR7tNzgGp9n4TX": {
+      "name": "fogg",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 21,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "EPR7tNzgGp9n4TX",
+      "runId": 806706435
     }
   }
 }
