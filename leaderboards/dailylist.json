@@ -152,6 +152,72 @@
       "version": 2616,
       "uid": "7839MMt86pSVShh",
       "runId": 82421153
+    },
+    "Zy4I16hF0503bKJ": {
+      "name": "icywater",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 5,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Zy4I16hF0503bKJ",
+      "runId": 82421153
+    },
+    "0oTNM101x674oQ5": {
+      "name": "Huesos228",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 12,
+      "bwep": 33,
+      "win": false,
+      "kills": 705,
+      "ultra": 1,
+      "skills": [
+        6,
+        3,
+        23,
+        14,
+        12,
+        4,
+        9
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "0oTNM101x674oQ5",
+      "runId": 82421153
+    },
+    "IYIbJbBqJIIbQBy": {
+      "name": "DUTTRON",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 18,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "IYIbJbBqJIIbQBy",
+      "runId": 82421153
     }
   }
 }
