@@ -118,20 +118,22 @@
       "name": "Huesos228",
       "char": 9,
       "skin": true,
-      "area": 6,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
       "wep": 29,
       "bwep": 12,
       "win": false,
-      "kills": 286,
+      "kills": 342,
       "ultra": 0,
       "skills": [
-        28,
+        21,
         3,
-        2,
+        23,
         27,
-        10
+        6,
+        9,
+        4
       ],
       "crown": 12,
       "version": 2616,
@@ -1217,6 +1219,46 @@
       "crown": 12,
       "version": 2616,
       "uid": "M4adQdtC51OaV5v",
+      "runId": 806706435
+    },
+    "2AnK9p35cQw0jN0": {
+      "name": "DoKaN",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 6,
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "2AnK9p35cQw0jN0",
+      "runId": 806706435
+    },
+    "9801p5BgIxmTAX8": {
+      "name": "edixon",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 29,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "9801p5BgIxmTAX8",
       "runId": 806706435
     }
   }
