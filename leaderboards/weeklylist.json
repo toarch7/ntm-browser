@@ -1511,6 +1511,53 @@
       "version": 2616,
       "uid": "94BcAr1YtpD5CyW",
       "runId": 806706435
+    },
+    "E43IM6C583u65eB": {
+      "name": "Seeker9101",
+      "char": 9,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 51,
+      "bwep": 94,
+      "win": false,
+      "kills": 1214,
+      "ultra": 1,
+      "skills": [
+        4,
+        23,
+        27,
+        7,
+        9,
+        3
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "E43IM6C583u65eB",
+      "runId": 806706435
+    },
+    "kQy4Ko5zK2qOa8f": {
+      "name": "Overiend",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 0,
+      "win": false,
+      "kills": 146,
+      "ultra": 0,
+      "skills": [
+        4,
+        3,
+        2
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "kQy4Ko5zK2qOa8f",
+      "runId": 806706435
     }
   }
 }
