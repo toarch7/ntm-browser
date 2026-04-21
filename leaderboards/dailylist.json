@@ -1,4 +1,148 @@
 {
   "day": 21,
-  "entries": {}
+  "entries": {
+    "o81xwvLnHVVKusl": {
+      "name": "null",
+      "char": 2,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 12,
+      "win": false,
+      "kills": 282,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        14,
+        1,
+        16
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "o81xwvLnHVVKusl",
+      "runId": 682903710
+    },
+    "ijBAYZyYjyjbaRz": {
+      "name": "ГАНДОН",
+      "char": 6,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 77,
+      "win": false,
+      "kills": 290,
+      "ultra": 0,
+      "skills": [
+        8,
+        25,
+        4,
+        7,
+        27,
+        1,
+        23
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "ijBAYZyYjyjbaRz",
+      "runId": 682903710
+    },
+    "RJraJyzIQYqziQR": {
+      "name": "Penance",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 21,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "RJraJyzIQYqziQR",
+      "runId": 682903710
+    },
+    "QJ40B2eM2q9biXu": {
+      "name": "gabito",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 20,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        7,
+        24,
+        14,
+        3,
+        2
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "QJ40B2eM2q9biXu",
+      "runId": 682903710
+    },
+    "9t8byXz10Mn17JU": {
+      "name": "ultra",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 17,
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        27,
+        10,
+        1,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9t8byXz10Mn17JU",
+      "runId": 682903710
+    },
+    "Y8Dhk1losqmxrub": {
+      "name": "CruzadosXD111",
+      "char": 10,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 74,
+      "bwep": 11,
+      "win": false,
+      "kills": 313,
+      "ultra": 0,
+      "skills": [
+        7,
+        10,
+        2,
+        1,
+        19,
+        26,
+        21
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "Y8Dhk1losqmxrub",
+      "runId": 682903710
+    }
+  }
 }
