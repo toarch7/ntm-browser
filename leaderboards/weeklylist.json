@@ -1260,13 +1260,14 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 13,
-      "bwep": 29,
+      "wep": 29,
+      "bwep": 88,
       "win": false,
-      "kills": 65,
+      "kills": 71,
       "ultra": 0,
       "skills": [
-        4
+        28,
+        12
       ],
       "crown": 12,
       "version": 2616,
@@ -1754,6 +1755,89 @@
       "crown": 12,
       "version": 2616,
       "uid": "0x7hFdP71a11un2",
+      "runId": 806706435
+    },
+    "g2qTytX89gQ612p": {
+      "name": "Agust",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 29,
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "g2qTytX89gQ612p",
+      "runId": 806706435
+    },
+    "3Q5VAngkZm1LfP3": {
+      "name": "i8cheese",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 29,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        28,
+        14
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "3Q5VAngkZm1LfP3",
+      "runId": 806706435
+    },
+    "Jobc4F87zSL53vv": {
+      "name": "TrayNoName",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 29,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        4,
+        23
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "Jobc4F87zSL53vv",
+      "runId": 806706435
+    },
+    "2Dz2MFS4D9Vvh4q": {
+      "name": "wagyu",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 13,
+      "win": false,
+      "kills": 73,
+      "ultra": 0,
+      "skills": [
+        4,
+        14
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "2Dz2MFS4D9Vvh4q",
       "runId": 806706435
     }
   }
