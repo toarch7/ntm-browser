@@ -858,6 +858,49 @@
       "version": 3003,
       "uid": "aQBqrIIJzarJqRr",
       "runId": 205248604
+    },
+    "2icS72F2ZElpK7a": {
+      "name": "cabmorton",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 69,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        1,
+        16,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2icS72F2ZElpK7a",
+      "runId": 205248604
+    },
+    "EtrOvAE32kVJW4J": {
+      "name": "luismarque",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        1,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "EtrOvAE32kVJW4J",
+      "runId": 205248604
     }
   }
 }
