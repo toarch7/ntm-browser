@@ -989,17 +989,18 @@
       "name": "Ruly",
       "char": 9,
       "skin": true,
-      "area": 3,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
       "wep": 29,
-      "bwep": 6,
+      "bwep": 66,
       "win": false,
-      "kills": 100,
+      "kills": 155,
       "ultra": 0,
       "skills": [
         4,
-        3
+        3,
+        1
       ],
       "crown": 12,
       "version": 2616,
@@ -2192,6 +2193,47 @@
       "crown": 12,
       "version": 2616,
       "uid": "P30BDocZ9IdLowP",
+      "runId": 806706435
+    },
+    "7zBqV9X6n63xehl": {
+      "name": "Spetznarojo",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 27,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        4,
+        12
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "7zBqV9X6n63xehl",
+      "runId": 806706435
+    },
+    "QiA8ceV3gbh9KU9": {
+      "name": "007",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 6,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "QiA8ceV3gbh9KU9",
       "runId": 806706435
     }
   }
