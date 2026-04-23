@@ -291,6 +291,76 @@
       "version": 2616,
       "uid": "cJE34144Nwd3lw3",
       "runId": 2088691592
+    },
+    "zAjzqzqBrbrzIjI": {
+      "name": "BATATAOOP",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 25,
+      "bwep": 53,
+      "win": false,
+      "kills": 393,
+      "ultra": 3,
+      "skills": [
+        19,
+        14,
+        1,
+        9,
+        8,
+        25,
+        7
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "zAjzqzqBrbrzIjI",
+      "runId": 2088691592
+    },
+    "rdK0w70k4e79981": {
+      "name": "Nektos",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 23,
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        27,
+        8,
+        16,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rdK0w70k4e79981",
+      "runId": 2088691592
+    },
+    "0x7hFdP71a11un2": {
+      "name": "iso_042aze",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 17,
+      "win": false,
+      "kills": 81,
+      "ultra": 0,
+      "skills": [
+        1,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0x7hFdP71a11un2",
+      "runId": 2088691592
     }
   }
 }
