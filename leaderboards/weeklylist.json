@@ -1725,18 +1725,19 @@
       "name": "m4kr",
       "char": 9,
       "skin": true,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
       "wep": 13,
-      "bwep": 7,
+      "bwep": 29,
       "win": false,
-      "kills": 101,
+      "kills": 244,
       "ultra": 0,
       "skills": [
         4,
-        14,
-        1
+        17,
+        1,
+        6
       ],
       "crown": 12,
       "version": 2616,
@@ -2234,6 +2235,48 @@
       "crown": 12,
       "version": 2616,
       "uid": "QiA8ceV3gbh9KU9",
+      "runId": 806706435
+    },
+    "FE2SM1uYeKCl1Vq": {
+      "name": "MrDuck202",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 16,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        4,
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "FE2SM1uYeKCl1Vq",
+      "runId": 806706435
+    },
+    "irs6CDJewPkLUFY": {
+      "name": "gonduner",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 2,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        28,
+        12
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "irs6CDJewPkLUFY",
       "runId": 806706435
     }
   }
