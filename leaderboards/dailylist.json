@@ -204,6 +204,93 @@
       "version": 2616,
       "uid": "0h4X3g7nt1f20Q3",
       "runId": 2088691592
+    },
+    "93H9N33tSkvdaew": {
+      "name": "Seeker90",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 20,
+      "win": false,
+      "kills": 323,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        16,
+        3,
+        25,
+        24,
+        23,
+        22
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "93H9N33tSkvdaew",
+      "runId": 2088691592
+    },
+    "a2IniqFeHCFIbLr": {
+      "name": "luiis",
+      "char": 5,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 15,
+      "crown": 1,
+      "version": 2616,
+      "uid": "a2IniqFeHCFIbLr",
+      "runId": 2088691592
+    },
+    "FG38va7Jrc3m461": {
+      "name": "ANTICRISTO",
+      "char": 9,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 13,
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        4,
+        9,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "FG38va7Jrc3m461",
+      "runId": 2088691592
+    },
+    "cJE34144Nwd3lw3": {
+      "name": "luis",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 69,
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        1,
+        9,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cJE34144Nwd3lw3",
+      "runId": 2088691592
     }
   }
 }
