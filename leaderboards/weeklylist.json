@@ -989,18 +989,18 @@
       "name": "Ruly",
       "char": 9,
       "skin": true,
-      "area": 104,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 29,
-      "bwep": 66,
+      "wep": 30,
+      "bwep": 29,
       "win": false,
-      "kills": 155,
+      "kills": 165,
       "ultra": 0,
       "skills": [
         4,
-        3,
-        1
+        1,
+        3
       ],
       "crown": 12,
       "version": 2616,
@@ -2362,6 +2362,27 @@
       "crown": 12,
       "version": 2616,
       "uid": "B0y64tOpcXn22Xb",
+      "runId": 806706435
+    },
+    "33LQGMZC4gW1lKz": {
+      "name": "Angel",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 13,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        4,
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "33LQGMZC4gW1lKz",
       "runId": 806706435
     }
   }
