@@ -5,17 +5,16 @@
       "name": "ГАНДОН",
       "char": 9,
       "skin": true,
-      "area": 5,
+      "area": 3,
       "subarea": 3,
       "loops": 0,
       "wep": 29,
-      "bwep": 79,
+      "bwep": 57,
       "win": false,
-      "kills": 91,
+      "kills": 130,
       "ultra": 0,
       "skills": [
         4,
-        14,
         23
       ],
       "crown": 12,
@@ -2444,6 +2443,28 @@
       "crown": 12,
       "version": 2616,
       "uid": "H90BV3458098T3Z",
+      "runId": 806706435
+    },
+    "f1Lf8jAH6K636zl": {
+      "name": ".A.L.E.K.O.",
+      "char": 9,
+      "skin": true,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 13,
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        28,
+        14,
+        3
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "f1Lf8jAH6K636zl",
       "runId": 806706435
     }
   }
