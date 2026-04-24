@@ -1835,13 +1835,12 @@
       "subarea": 1,
       "loops": 0,
       "wep": 29,
-      "bwep": 13,
+      "bwep": 88,
       "win": false,
-      "kills": 73,
+      "kills": 75,
       "ultra": 0,
       "skills": [
-        4,
-        14
+        4
       ],
       "crown": 12,
       "version": 2616,
@@ -2465,6 +2464,92 @@
       "crown": 12,
       "version": 2616,
       "uid": "f1Lf8jAH6K636zl",
+      "runId": 806706435
+    },
+    "S46qz51eYBh8e2D": {
+      "name": "casa",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 88,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        4,
+        14
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "S46qz51eYBh8e2D",
+      "runId": 806706435
+    },
+    "OoO32RD6t0dtCro": {
+      "name": "nabohervido",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 16,
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        28,
+        22
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "OoO32RD6t0dtCro",
+      "runId": 806706435
+    },
+    "nsG8ePcl8F52zyV": {
+      "name": "Seeke",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 63,
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        4,
+        3
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "nsG8ePcl8F52zyV",
+      "runId": 806706435
+    },
+    "1hu4ha3kQ68KoiW": {
+      "name": "Ca$Hream29",
+      "char": 9,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 6,
+      "win": false,
+      "kills": 290,
+      "ultra": 0,
+      "skills": [
+        21,
+        23,
+        27,
+        7
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "1hu4ha3kQ68KoiW",
       "runId": 806706435
     }
   }
