@@ -415,16 +415,15 @@
       "subarea": 1,
       "loops": 0,
       "wep": 29,
-      "bwep": 12,
+      "bwep": 57,
       "win": false,
-      "kills": 170,
+      "kills": 192,
       "ultra": 0,
       "skills": [
         4,
         23,
-        3,
-        9,
-        7
+        1,
+        9
       ],
       "crown": 12,
       "version": 2616,
@@ -477,16 +476,17 @@
       "name": "Khahr4hk",
       "char": 9,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
       "wep": 29,
-      "bwep": 3,
+      "bwep": 0,
       "win": false,
-      "kills": 71,
+      "kills": 121,
       "ultra": 0,
       "skills": [
-        4
+        4,
+        1
       ],
       "crown": 12,
       "version": 2616,
@@ -2963,6 +2963,29 @@
       "crown": 12,
       "version": 2616,
       "uid": "op1320st0RMhjrP",
+      "runId": 806706435
+    },
+    "xTr2Gd7kTLo81KB": {
+      "name": "yelker954",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 63,
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        4,
+        17,
+        1,
+        2
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "xTr2Gd7kTLo81KB",
       "runId": 806706435
     }
   }
