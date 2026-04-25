@@ -1986,10 +1986,10 @@
       "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 13,
-      "bwep": 29,
+      "wep": 29,
+      "bwep": 13,
       "win": false,
-      "kills": 100,
+      "kills": 109,
       "ultra": 0,
       "skills": [
         4,
@@ -2879,6 +2879,69 @@
       "crown": 12,
       "version": 2616,
       "uid": "4g930U6qGUp7gdD",
+      "runId": 806706435
+    },
+    "7pby2JNg1dG45TR": {
+      "name": "mijuel",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 50,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        28,
+        14
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "7pby2JNg1dG45TR",
+      "runId": 806706435
+    },
+    "2wP4521LiKBXjwZ": {
+      "name": "Seeker",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 29,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        4,
+        12,
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "2wP4521LiKBXjwZ",
+      "runId": 806706435
+    },
+    "7PL6FldIb31LEuq": {
+      "name": "darker",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 6,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "7PL6FldIb31LEuq",
       "runId": 806706435
     }
   }
