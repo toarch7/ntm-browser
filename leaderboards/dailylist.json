@@ -577,6 +577,48 @@
       "version": 2616,
       "uid": "qUE5s52SV4t28c8",
       "runId": 1799577265
+    },
+    "e1loW0I57y5d28M": {
+      "name": "kurasaki",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "e1loW0I57y5d28M",
+      "runId": 1799577265
+    },
+    "2icS72F2ZElpK7a": {
+      "name": "cabmorton",
+      "char": 2,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 2,
+      "win": false,
+      "kills": 166,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2icS72F2ZElpK7a",
+      "runId": 1799577265
     }
   }
 }
