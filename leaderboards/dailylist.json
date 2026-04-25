@@ -240,6 +240,50 @@
       "version": 2616,
       "uid": "7zBqV9X6n63xehl",
       "runId": 1799577265
+    },
+    "gVw3H1rRRb8jtPv": {
+      "name": "Gost1k",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 5,
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        1,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gVw3H1rRRb8jtPv",
+      "runId": 1799577265
+    },
+    "0h4X3g7nt1f20Q3": {
+      "name": "Kursi_goyang",
+      "char": 3,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 38,
+      "win": false,
+      "kills": 190,
+      "ultra": 0,
+      "skills": [
+        1,
+        22,
+        12,
+        8
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "0h4X3g7nt1f20Q3",
+      "runId": 1799577265
     }
   }
 }
