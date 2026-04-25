@@ -1418,17 +1418,18 @@
       "name": "Seek",
       "char": 9,
       "skin": true,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 7,
-      "bwep": 27,
+      "wep": 124,
+      "bwep": 0,
       "win": false,
-      "kills": 68,
+      "kills": 130,
       "ultra": 0,
       "skills": [
-        4,
-        14
+        28,
+        14,
+        1
       ],
       "crown": 12,
       "version": 2616,
@@ -1440,12 +1441,12 @@
       "char": 9,
       "skin": true,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 3,
-      "bwep": 8,
+      "wep": 16,
+      "bwep": 29,
       "win": false,
-      "kills": 88,
+      "kills": 121,
       "ultra": 0,
       "skills": [
         4,
@@ -3085,6 +3086,26 @@
       "crown": 12,
       "version": 3003,
       "uid": "AqIrraAjIiQiaRa",
+      "runId": 806706435
+    },
+    "U1dM5rLJ0r13NrM": {
+      "name": "Mamalo",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 29,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "U1dM5rLJ0r13NrM",
       "runId": 806706435
     }
   }
