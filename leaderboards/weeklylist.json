@@ -3520,6 +3520,66 @@
       "version": 2616,
       "uid": "hjqetfMj4WeqKNd",
       "runId": 806706435
+    },
+    "D26q2RDHNhHvZKo": {
+      "name": "PinWii",
+      "char": 9,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 29,
+      "win": false,
+      "kills": 131,
+      "ultra": 0,
+      "skills": [
+        4,
+        14,
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "D26q2RDHNhHvZKo",
+      "runId": 806706435
+    },
+    "3cht6Xjn08z3VGG": {
+      "name": "Denji_24",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 29,
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [],
+      "crown": 12,
+      "version": 2616,
+      "uid": "3cht6Xjn08z3VGG",
+      "runId": 806706435
+    },
+    "81oN34aN9c076a0": {
+      "name": "Jess",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 69,
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "81oN34aN9c076a0",
+      "runId": 806706435
     }
   }
 }
