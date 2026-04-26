@@ -1512,21 +1512,20 @@
       "name": "Monsutakir4",
       "char": 9,
       "skin": true,
-      "area": 7,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 29,
-      "bwep": 91,
+      "area": 4,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 28,
+      "bwep": 107,
       "win": false,
-      "kills": 400,
+      "kills": 2111,
       "ultra": 1,
       "skills": [
-        4,
         22,
+        23,
         27,
-        9,
-        1,
-        13
+        6,
+        3
       ],
       "crown": 12,
       "version": 2616,
@@ -3259,6 +3258,50 @@
       "crown": 12,
       "version": 2616,
       "uid": "Zd601foS31Iz2k0",
+      "runId": 806706435
+    },
+    "MoW26Y55pEK2hmD": {
+      "name": "sei",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 88,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "MoW26Y55pEK2hmD",
+      "runId": 806706435
+    },
+    "f6G24D9lR3u5XDt": {
+      "name": "Seeker71",
+      "char": 9,
+      "skin": true,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 114,
+      "win": false,
+      "kills": 184,
+      "ultra": 0,
+      "skills": [
+        21,
+        1,
+        3,
+        27,
+        7
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "f6G24D9lR3u5XDt",
       "runId": 806706435
     }
   }
