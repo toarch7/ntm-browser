@@ -1006,6 +1006,66 @@
       "version": 2616,
       "uid": "NWpKTL1UI5lBURB",
       "runId": 722654259
+    },
+    "qa2G4hCn7G60nTd": {
+      "name": "RONALDO",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 4,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qa2G4hCn7G60nTd",
+      "runId": 722654259
+    },
+    "bYWheP32V5AOtA8": {
+      "name": "super",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 5,
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "bYWheP32V5AOtA8",
+      "runId": 722654259
+    },
+    "O16rX87wdJ94a91": {
+      "name": "Seeker9",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "O16rX87wdJ94a91",
+      "runId": 722654259
     }
   }
 }
