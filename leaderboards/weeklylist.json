@@ -2607,17 +2607,18 @@
       "name": "neitham",
       "char": 9,
       "skin": true,
-      "area": 7,
-      "subarea": 3,
-      "loops": 0,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
       "wep": 29,
-      "bwep": 70,
+      "bwep": 0,
       "win": false,
-      "kills": 189,
+      "kills": 201,
       "ultra": 0,
       "skills": [
         4,
         1,
+        3,
         9
       ],
       "crown": 12,
@@ -3387,6 +3388,68 @@
       "crown": 12,
       "version": 2616,
       "uid": "7ntoZYv8C02iUZ1",
+      "runId": 806706435
+    },
+    "7HXJ0ge67P006PC": {
+      "name": "redhoot",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 13,
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "7HXJ0ge67P006PC",
+      "runId": 806706435
+    },
+    "IOfOI6yZixlM974": {
+      "name": "Mondongo18",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 6,
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "IOfOI6yZixlM974",
+      "runId": 806706435
+    },
+    "XUdbi8da6iy6T82": {
+      "name": "Lui",
+      "char": 9,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 69,
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        4,
+        12,
+        1
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "XUdbi8da6iy6T82",
       "runId": 806706435
     }
   }
