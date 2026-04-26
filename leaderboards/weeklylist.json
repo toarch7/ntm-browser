@@ -2008,16 +2008,17 @@
       "name": "brad",
       "char": 9,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
       "wep": 29,
-      "bwep": 13,
+      "bwep": 88,
       "win": false,
-      "kills": 75,
+      "kills": 102,
       "ultra": 0,
       "skills": [
-        4
+        4,
+        1
       ],
       "crown": 12,
       "version": 2616,
@@ -2996,14 +2997,14 @@
       "name": "mama",
       "char": 9,
       "skin": true,
-      "area": 7,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 35,
-      "bwep": 29,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 29,
+      "bwep": 11,
       "win": false,
-      "kills": 346,
-      "ultra": 0,
+      "kills": 350,
+      "ultra": 1,
       "skills": [
         4,
         14,
@@ -3131,6 +3132,67 @@
       "crown": 12,
       "version": 2616,
       "uid": "by1Zl9U7edGcJP2",
+      "runId": 806706435
+    },
+    "3NBR0LO17i8h5B1": {
+      "name": "GayBreed",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 29,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        28,
+        14
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "3NBR0LO17i8h5B1",
+      "runId": 806706435
+    },
+    "Kh23KfR0C67B7RW": {
+      "name": "Myers72",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 17,
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "Kh23KfR0C67B7RW",
+      "runId": 806706435
+    },
+    "8IE2nqWNbMHkVdg": {
+      "name": "Asesino777",
+      "char": 9,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 16,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "8IE2nqWNbMHkVdg",
       "runId": 806706435
     }
   }
