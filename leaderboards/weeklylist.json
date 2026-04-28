@@ -31,17 +31,22 @@
       "name": "Seek",
       "char": 10,
       "skin": false,
-      "area": 2,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 14,
-      "bwep": 16,
+      "wep": 22,
+      "bwep": 2,
       "win": false,
-      "kills": 61,
+      "kills": 297,
       "ultra": 0,
       "skills": [
         1,
-        10
+        10,
+        8,
+        3,
+        25,
+        7,
+        23
       ],
       "crown": 11,
       "version": 2616,
@@ -950,6 +955,49 @@
       "crown": 11,
       "version": 2616,
       "uid": "S9Z31CYTR2W08Fw",
+      "runId": 57914904
+    },
+    "UHxI9HqvuBAUTaa": {
+      "name": "stevan",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 2,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        8
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "UHxI9HqvuBAUTaa",
+      "runId": 57914904
+    },
+    "RwSmFhfr4aUyjy4": {
+      "name": "hollowknight616",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 69,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        1,
+        7
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
       "runId": 57914904
     }
   }
