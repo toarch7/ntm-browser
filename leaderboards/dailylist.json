@@ -788,6 +788,64 @@
       "version": 3003,
       "uid": "AqRYRrBiJqrArBA",
       "runId": 1480839333
+    },
+    "VpVV8c6bUU6umtg": {
+      "name": "Ikari",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 6,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "VpVV8c6bUU6umtg",
+      "runId": 1480839333
+    },
+    "7zBqV9X6n63xehl": {
+      "name": "Spetznarojo",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 31,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7zBqV9X6n63xehl",
+      "runId": 1480839333
+    },
+    "ijyrBqZYbBqIzaB": {
+      "name": "Seeker903",
+      "char": 3,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "win": false,
+      "kills": 14,
+      "crown": 1,
+      "version": 3003,
+      "uid": "ijyrBqZYbBqIzaB",
+      "runId": 1480839333
     }
   }
 }

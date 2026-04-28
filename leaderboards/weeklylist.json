@@ -999,6 +999,48 @@
       "version": 2616,
       "uid": "RwSmFhfr4aUyjy4",
       "runId": 57914904
+    },
+    "mI6B1U81w7T0A5B": {
+      "name": "comene",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 16,
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        1,
+        13
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "mI6B1U81w7T0A5B",
+      "runId": 57914904
+    },
+    "zbIRyiZqYriiQiB": {
+      "name": "diego",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 75,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        24,
+        9
+      ],
+      "crown": 11,
+      "version": 3002,
+      "uid": "zbIRyiZqYriiQiB",
+      "runId": 57914904
     }
   }
 }
