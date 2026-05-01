@@ -1881,6 +1881,57 @@
       "version": 2616,
       "uid": "6s1R3aVg8nW124q",
       "runId": 57914904
+    },
+    "I606K13qYOtKy94": {
+      "name": "Diego01",
+      "char": 10,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 54,
+      "bwep": 10,
+      "win": false,
+      "kills": 408,
+      "ultra": 2,
+      "skills": [
+        1,
+        10,
+        25,
+        9,
+        8,
+        24
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "I606K13qYOtKy94",
+      "runId": 57914904
+    },
+    "Xy891nqgbyL3mk1": {
+      "name": "masr",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 16,
+      "win": false,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        19,
+        13,
+        25,
+        9,
+        8,
+        3,
+        21
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "Xy891nqgbyL3mk1",
+      "runId": 57914904
     }
   }
 }
