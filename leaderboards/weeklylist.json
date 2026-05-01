@@ -1053,10 +1053,10 @@
       "area": 3,
       "subarea": 3,
       "loops": 0,
-      "wep": 14,
-      "bwep": 88,
+      "wep": 88,
+      "bwep": 55,
       "win": false,
-      "kills": 133,
+      "kills": 138,
       "ultra": 0,
       "skills": [
         1,
@@ -1570,6 +1570,33 @@
       "crown": 11,
       "version": 2616,
       "uid": "BwFQaEhGBwEop3n",
+      "runId": 57914904
+    },
+    "9801p5BgIxmTAX8": {
+      "name": "edixon",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 66,
+      "win": false,
+      "kills": 304,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        25,
+        9,
+        8,
+        17,
+        23,
+        26
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "9801p5BgIxmTAX8",
       "runId": 57914904
     }
   }
