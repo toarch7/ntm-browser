@@ -501,6 +501,43 @@
       "version": 2616,
       "uid": "05R0rz9pFaF4l57",
       "runId": 510680031
+    },
+    "CVzZ2t7Lfaat0Bq": {
+      "name": "PUNISHER",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "CVzZ2t7Lfaat0Bq",
+      "runId": 510680031
+    },
+    "0wEvbW0Z40zxq4O": {
+      "name": "UZIEL",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 18,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        7,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0wEvbW0Z40zxq4O",
+      "runId": 510680031
     }
   }
 }
