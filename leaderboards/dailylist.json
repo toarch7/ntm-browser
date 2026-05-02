@@ -728,6 +728,82 @@
       "version": 2616,
       "uid": "2w4T35147r5m7En",
       "runId": 510680031
+    },
+    "QiA8ceV3gbh9KU9": {
+      "name": "007",
+      "char": 2,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 6,
+      "win": false,
+      "kills": 231,
+      "ultra": 0,
+      "skills": [
+        7,
+        19,
+        3,
+        10,
+        8,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "QiA8ceV3gbh9KU9",
+      "runId": 510680031
+    },
+    "by1Zl9U7edGcJP2": {
+      "name": "Collabera",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 111,
+      "win": false,
+      "kills": 673,
+      "ultra": 1,
+      "skills": [
+        7,
+        8,
+        17,
+        13,
+        1,
+        25,
+        23,
+        22,
+        4
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "by1Zl9U7edGcJP2",
+      "runId": 510680031
+    },
+    "RwSmFhfr4aUyjy4": {
+      "name": "hollowknight616",
+      "char": 15,
+      "skin": false,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 70,
+      "win": false,
+      "kills": 209,
+      "ultra": 0,
+      "skills": [
+        8,
+        12,
+        1,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RwSmFhfr4aUyjy4",
+      "runId": 510680031
     }
   }
 }
