@@ -1961,18 +1961,18 @@
       "name": "BWins",
       "char": 10,
       "skin": false,
-      "area": 3,
-      "subarea": 2,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 10,
-      "bwep": 50,
+      "wep": 13,
+      "bwep": 58,
       "win": false,
-      "kills": 101,
+      "kills": 132,
       "ultra": 0,
       "skills": [
         27,
         1,
-        19
+        2
       ],
       "crown": 11,
       "version": 2616,
@@ -1983,19 +1983,19 @@
       "name": "Monkey67",
       "char": 10,
       "skin": false,
-      "area": 105,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 16,
-      "bwep": 13,
+      "wep": 13,
+      "bwep": 116,
       "win": false,
-      "kills": 203,
+      "kills": 245,
       "ultra": 0,
       "skills": [
         1,
         7,
-        19,
         8,
+        3,
         16
       ],
       "crown": 11,
@@ -2207,6 +2207,26 @@
       "crown": 11,
       "version": 2616,
       "uid": "h37n4J8362vNlId",
+      "runId": 57914904
+    },
+    "JRzAjiZQBqqrrzA": {
+      "name": "Seeker4",
+      "char": 10,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 112,
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 11,
+      "version": 3003,
+      "uid": "JRzAjiZQBqqrrzA",
       "runId": 57914904
     }
   }
