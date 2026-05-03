@@ -1646,18 +1646,17 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 77,
-      "bwep": 52,
+      "wep": 58,
+      "bwep": 61,
       "win": false,
-      "kills": 212,
+      "kills": 221,
       "ultra": 0,
       "skills": [
+        19,
         1,
-        7,
         2,
         3,
-        16,
-        26
+        16
       ],
       "crown": 11,
       "version": 2616,
@@ -2480,6 +2479,28 @@
       "crown": 11,
       "version": 3003,
       "uid": "YRAAzJzAzbRaQJA",
+      "runId": 57914904
+    },
+    "t7y6OYY3h38QH1u": {
+      "name": "perron",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 16,
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        19
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "t7y6OYY3h38QH1u",
       "runId": 57914904
     }
   }
