@@ -2266,18 +2266,19 @@
       "char": 10,
       "skin": false,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
       "wep": 4,
       "bwep": 16,
       "win": false,
-      "kills": 95,
+      "kills": 121,
       "ultra": 0,
       "skills": [
         1,
         7,
         25,
-        3
+        3,
+        8
       ],
       "crown": 11,
       "version": 2616,
@@ -2414,6 +2415,27 @@
       "crown": 11,
       "version": 3003,
       "uid": "BJQAjiqBIiBZBRj",
+      "runId": 57914904
+    },
+    "sQbr2RP6zEFcRh1": {
+      "name": "THE_RCD",
+      "char": 10,
+      "skin": false,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 9,
+      "win": false,
+      "kills": 126,
+      "ultra": 0,
+      "skills": [
+        1,
+        10
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "sQbr2RP6zEFcRh1",
       "runId": 57914904
     }
   }

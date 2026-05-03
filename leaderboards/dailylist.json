@@ -1,4 +1,131 @@
 {
   "day": 3,
-  "entries": {}
+  "entries": {
+    "S9Z31CYTR2W08Fw": {
+      "name": "unsencitive",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 13,
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        12,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "S9Z31CYTR2W08Fw",
+      "runId": 779149167
+    },
+    "0h4X3g7nt1f20Q3": {
+      "name": "Kursi_goyang",
+      "char": 10,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 88,
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        6,
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0h4X3g7nt1f20Q3",
+      "runId": 779149167
+    },
+    "3ygt8DDxF4A0si1": {
+      "name": "luke",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        12,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3ygt8DDxF4A0si1",
+      "runId": 779149167
+    },
+    "nsG8ePcl8F52zyV": {
+      "name": "Seeke",
+      "char": 6,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 39,
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "nsG8ePcl8F52zyV",
+      "runId": 779149167
+    },
+    "qrBIrIQJyIRaZYb": {
+      "name": "Seeker447",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 5,
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        8,
+        9
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "qrBIrIQJyIRaZYb",
+      "runId": 779149167
+    },
+    "sQbr2RP6zEFcRh1": {
+      "name": "THE_RCD",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        23,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sQbr2RP6zEFcRh1",
+      "runId": 779149167
+    }
+  }
 }
