@@ -358,6 +358,89 @@
       "version": 3003,
       "uid": "JrjyZQiAIQYqZba",
       "runId": 779149167
+    },
+    "YRAAzJzAzbRaQJA": {
+      "name": "Momotaro",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 6,
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        8,
+        22
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "YRAAzJzAzbRaQJA",
+      "runId": 779149167
+    },
+    "ijyrBqZYbBqIzaB": {
+      "name": "Seeker903",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "win": false,
+      "kills": 21,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "ijyrBqZYbBqIzaB",
+      "runId": 779149167
+    },
+    "yWJ6vbQF7Dc3db0": {
+      "name": "SoulKepper",
+      "char": 3,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 13,
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        12,
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "yWJ6vbQF7Dc3db0",
+      "runId": 779149167
+    },
+    "1qWT7dn2YrW0xH7": {
+      "name": "Empadas",
+      "char": 4,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 7,
+      "win": false,
+      "kills": 11,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1qWT7dn2YrW0xH7",
+      "runId": 779149167
     }
   }
 }
