@@ -2601,6 +2601,53 @@
       "version": 2616,
       "uid": "89ZVnb1mq2hkkkS",
       "runId": 57914904
+    },
+    "33LQGMZC4gW1lKz": {
+      "name": "Angel",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 13,
+      "win": false,
+      "kills": 219,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        25,
+        9,
+        3,
+        24,
+        19
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "33LQGMZC4gW1lKz",
+      "runId": 57914904
+    },
+    "maX5EP2f6h31uvs": {
+      "name": "Metanemo",
+      "char": 10,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 14,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        1,
+        16
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "maX5EP2f6h31uvs",
+      "runId": 57914904
     }
   }
 }
