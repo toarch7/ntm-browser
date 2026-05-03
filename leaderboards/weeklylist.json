@@ -1832,17 +1832,17 @@
       "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 57,
-      "bwep": 13,
+      "wep": 69,
+      "bwep": 59,
       "win": false,
-      "kills": 164,
+      "kills": 168,
       "ultra": 0,
       "skills": [
+        19,
         1,
-        10,
         2,
-        3,
-        16
+        16,
+        17
       ],
       "crown": 11,
       "version": 2616,
@@ -2265,20 +2265,19 @@
       "name": "Trendisaurus",
       "char": 10,
       "skin": false,
-      "area": 3,
-      "subarea": 3,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 4,
-      "bwep": 16,
+      "wep": 76,
+      "bwep": 4,
       "win": false,
-      "kills": 121,
+      "kills": 125,
       "ultra": 0,
       "skills": [
         1,
         7,
         25,
-        3,
-        8
+        3
       ],
       "crown": 11,
       "version": 2616,
@@ -2668,6 +2667,31 @@
       "crown": 11,
       "version": 2616,
       "uid": "BR15vi7KJjXNf4S",
+      "runId": 57914904
+    },
+    "W2LSTbrUl8T0Wg2": {
+      "name": "dex",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 69,
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        25,
+        9,
+        8,
+        16
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "W2LSTbrUl8T0Wg2",
       "runId": 57914904
     }
   }
