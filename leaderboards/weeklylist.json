@@ -2549,6 +2549,58 @@
       "version": 2616,
       "uid": "Z0460Ve8CCf4JkI",
       "runId": 57914904
+    },
+    "Y3R293Uw3en8B6c": {
+      "name": "Sudno",
+      "char": 10,
+      "skin": false,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 37,
+      "win": false,
+      "kills": 199,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        13,
+        22,
+        25,
+        7
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "Y3R293Uw3en8B6c",
+      "runId": 57914904
+    },
+    "89ZVnb1mq2hkkkS": {
+      "name": "leo",
+      "char": 10,
+      "skin": false,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 28,
+      "win": false,
+      "kills": 218,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        25,
+        3,
+        8,
+        16,
+        17,
+        23
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "89ZVnb1mq2hkkkS",
+      "runId": 57914904
     }
   }
 }

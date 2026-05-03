@@ -608,6 +608,109 @@
       "version": 2616,
       "uid": "54HQp59X0F09PT1",
       "runId": 779149167
+    },
+    "iaIRjaibiZjJJqZ": {
+      "name": "cuc",
+      "char": 15,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 255,
+      "bwep": 5,
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        17
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "iaIRjaibiZjJJqZ",
+      "runId": 779149167
+    },
+    "we290zG2yFU7Q46": {
+      "name": "tizinatorghost",
+      "char": 6,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 22,
+      "win": false,
+      "kills": 226,
+      "ultra": 0,
+      "skills": [
+        23,
+        12,
+        25,
+        1,
+        9,
+        14,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "we290zG2yFU7Q46",
+      "runId": 779149167
+    },
+    "2df5nLwUjr408wA": {
+      "name": "Cirius",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2df5nLwUjr408wA",
+      "runId": 779149167
+    },
+    "x4307H3D06949zo": {
+      "name": "maskod",
+      "char": 2,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 17,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        6,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "x4307H3D06949zo",
+      "runId": 779149167
+    },
+    "G0eipT57O5g4iVX": {
+      "name": "Seeker",
+      "char": 3,
+      "skin": true,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 19,
+      "win": false,
+      "kills": 19,
+      "crown": 1,
+      "version": 2616,
+      "uid": "G0eipT57O5g4iVX",
+      "runId": 779149167
     }
   }
 }
