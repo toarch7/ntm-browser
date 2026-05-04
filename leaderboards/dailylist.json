@@ -247,6 +247,84 @@
       "version": 2616,
       "uid": "23FJWPN7ysbNA04",
       "runId": 44550558
+    },
+    "RZJQZQYrJZqrJjQ": {
+      "name": "чел",
+      "char": 16,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 27,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        27,
+        23
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "RZJQZQYrJZqrJjQ",
+      "runId": 44550558
+    },
+    "YRAAzJzAzbRaQJA": {
+      "name": "Momotaro",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 3,
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        27,
+        7
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "YRAAzJzAzbRaQJA",
+      "runId": 44550558
+    },
+    "RcSBrUW6R5KU7W5": {
+      "name": "Seeker90",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 6,
+      "win": false,
+      "kills": 22,
+      "crown": 1,
+      "version": 2616,
+      "uid": "RcSBrUW6R5KU7W5",
+      "runId": 44550558
+    },
+    "LZ4C2U9OAp39bJH": {
+      "name": "sjjsisiwi",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "LZ4C2U9OAp39bJH",
+      "runId": 44550558
     }
   }
 }
