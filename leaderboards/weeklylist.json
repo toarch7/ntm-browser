@@ -1,4 +1,137 @@
 {
   "seed": 142451052,
-  "entries": {}
+  "entries": {
+    "jRZZjqriyjiARbj": {
+      "name": "Seeker612",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 43,
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        24,
+        4,
+        22
+      ],
+      "crown": 6,
+      "version": 3003,
+      "uid": "jRZZjqriyjiARbj",
+      "runId": 142451052
+    },
+    "nsG8ePcl8F52zyV": {
+      "name": "Seeke",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 43,
+      "bwep": 69,
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        22,
+        6
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "nsG8ePcl8F52zyV",
+      "runId": 142451052
+    },
+    "Y10I2U90ZT5sB77": {
+      "name": "Seeker32",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 43,
+      "win": false,
+      "kills": 62,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "Y10I2U90ZT5sB77",
+      "runId": 142451052
+    },
+    "L00T2S70KV9574Z": {
+      "name": "ciyei",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 43,
+      "bwep": 4,
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        22,
+        6
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "L00T2S70KV9574Z",
+      "runId": 142451052
+    },
+    "k01jTtVNmm747Pv": {
+      "name": "Saturn",
+      "char": 10,
+      "skin": true,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 45,
+      "bwep": 89,
+      "win": false,
+      "kills": 316,
+      "ultra": 2,
+      "skills": [
+        23,
+        22,
+        1,
+        4,
+        14,
+        25,
+        17,
+        12
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "k01jTtVNmm747Pv",
+      "runId": 142451052
+    },
+    "S9Z31CYTR2W08Fw": {
+      "name": "unsencitive",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 43,
+      "bwep": 71,
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        21,
+        25
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "S9Z31CYTR2W08Fw",
+      "runId": 142451052
+    }
+  }
 }
