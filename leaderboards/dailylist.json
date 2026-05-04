@@ -404,6 +404,64 @@
       "version": 2616,
       "uid": "UJPE30A3Wvi7rgx",
       "runId": 44550558
+    },
+    "jjAqJyAqYiRbrZZ": {
+      "name": "Yela",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 69,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 3002,
+      "uid": "jjAqJyAqYiRbrZZ",
+      "runId": 44550558
+    },
+    "14Q8bCK1z4y9s7v": {
+      "name": "dans",
+      "char": 7,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 31,
+      "bwep": 1,
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        8,
+        24,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "14Q8bCK1z4y9s7v",
+      "runId": 44550558
+    },
+    "05R0rz9pFaF4l57": {
+      "name": "Seeker9",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "05R0rz9pFaF4l57",
+      "runId": 44550558
     }
   }
 }
