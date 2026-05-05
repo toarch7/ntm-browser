@@ -1,4 +1,27 @@
 {
   "day": 5,
-  "entries": {}
+  "entries": {
+    "VIV16DFy6adN3LX": {
+      "name": "Demasons",
+      "char": 8,
+      "skin": false,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 16,
+      "win": false,
+      "kills": 160,
+      "ultra": 0,
+      "skills": [
+        17,
+        23,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "VIV16DFy6adN3LX",
+      "runId": 2041288310
+    }
+  }
 }
