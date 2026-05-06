@@ -1795,6 +1795,52 @@
       "version": 2616,
       "uid": "d5Gzc21b2xm0Lws",
       "runId": 142451052
+    },
+    "BzqarIyAYqyqRBI": {
+      "name": "sako.com",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 43,
+      "bwep": 0,
+      "win": false,
+      "kills": 216,
+      "ultra": 0,
+      "skills": [
+        4,
+        27,
+        28,
+        1,
+        8
+      ],
+      "crown": 6,
+      "version": 3003,
+      "uid": "BzqarIyAYqyqRBI",
+      "runId": 142451052
+    },
+    "AAiyrAqabybbRAi": {
+      "name": "Seeker493",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 43,
+      "bwep": 16,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        16,
+        4,
+        27
+      ],
+      "crown": 6,
+      "version": 3003,
+      "uid": "AAiyrAqabybbRAi",
+      "runId": 142451052
     }
   }
 }
