@@ -742,6 +742,74 @@
       "version": 2616,
       "uid": "ahN3IMzQ325WAwK",
       "runId": 946769798
+    },
+    "757eCvM8by8S8M0": {
+      "name": "Paceft",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 13,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        2,
+        16,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "757eCvM8by8S8M0",
+      "runId": 946769798
+    },
+    "RzbZIbYYBajzYzZ": {
+      "name": "Fursquerade448",
+      "char": 6,
+      "skin": false,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 62,
+      "bwep": 20,
+      "win": false,
+      "kills": 295,
+      "ultra": 0,
+      "skills": [
+        3,
+        25,
+        8,
+        23,
+        27,
+        13,
+        10
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "RzbZIbYYBajzYzZ",
+      "runId": 946769798
+    },
+    "40Y12y4jXwpW3F0": {
+      "name": "JEM",
+      "char": 7,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 16,
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "40Y12y4jXwpW3F0",
+      "runId": 946769798
     }
   }
 }
