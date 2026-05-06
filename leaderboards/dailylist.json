@@ -1,4 +1,104 @@
 {
   "day": 6,
-  "entries": {}
+  "entries": {
+    "S9Z31CYTR2W08Fw": {
+      "name": "unsencitive",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 13,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        16,
+        21,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "S9Z31CYTR2W08Fw",
+      "runId": 946769798
+    },
+    "zRYZiABiRqyYJjR": {
+      "name": "Nadie",
+      "char": 6,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 116,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        21
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "zRYZiABiRqyYJjR",
+      "runId": 946769798
+    },
+    "2df5nLwUjr408wA": {
+      "name": "Cirius",
+      "char": 1,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 69,
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2df5nLwUjr408wA",
+      "runId": 946769798
+    },
+    "677ONt7IID5NlU4": {
+      "name": "artem",
+      "char": 2,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 6,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        16,
+        21
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "677ONt7IID5NlU4",
+      "runId": 946769798
+    },
+    "eTH7prP37u0fX2H": {
+      "name": "IDWS",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "win": false,
+      "kills": 19,
+      "crown": 1,
+      "version": 2616,
+      "uid": "eTH7prP37u0fX2H",
+      "runId": 946769798
+    }
+  }
 }
