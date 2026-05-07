@@ -27,19 +27,21 @@
       "name": "Seeke",
       "char": 10,
       "skin": true,
-      "area": 5,
+      "area": 7,
       "subarea": 2,
       "loops": 0,
-      "wep": 30,
-      "bwep": 22,
+      "wep": 23,
+      "bwep": 69,
       "win": false,
-      "kills": 192,
-      "ultra": 0,
+      "kills": 334,
+      "ultra": 2,
       "skills": [
         6,
         1,
         4,
-        3
+        16,
+        3,
+        2
       ],
       "crown": 6,
       "version": 2616,
@@ -1998,6 +2000,30 @@
       "crown": 6,
       "version": 2616,
       "uid": "BTdr6089nS6UjcR",
+      "runId": 142451052
+    },
+    "7y0hmuc9LN9c3p3": {
+      "name": "nt23",
+      "char": 10,
+      "skin": true,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 43,
+      "bwep": 14,
+      "win": false,
+      "kills": 195,
+      "ultra": 0,
+      "skills": [
+        21,
+        25,
+        27,
+        1,
+        4
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "7y0hmuc9LN9c3p3",
       "runId": 142451052
     }
   }
