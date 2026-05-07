@@ -937,15 +937,20 @@
       "name": "dinjones",
       "char": 10,
       "skin": true,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 3,
-      "bwep": 43,
+      "wep": 43,
+      "bwep": 8,
       "win": false,
-      "kills": 71,
+      "kills": 162,
       "ultra": 0,
-      "skills": [],
+      "skills": [
+        21,
+        3,
+        1,
+        4
+      ],
       "crown": 6,
       "version": 2616,
       "uid": "sE9W5nCnw7m3Xam",
@@ -2050,6 +2055,27 @@
       "crown": 6,
       "version": 2616,
       "uid": "099iL2Mqq5PU8zn",
+      "runId": 142451052
+    },
+    "B9zCiNjEgU3Kb51": {
+      "name": "Seeker90",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 43,
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        19,
+        3
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "B9zCiNjEgU3Kb51",
       "runId": 142451052
     }
   }
