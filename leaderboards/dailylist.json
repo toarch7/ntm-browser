@@ -593,6 +593,83 @@
       "version": 2616,
       "uid": "851NgyuXK2hj35S",
       "runId": 439226370
+    },
+    "aQBqrIIJzarJqRr": {
+      "name": "anima",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 16,
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "aQBqrIIJzarJqRr",
+      "runId": 439226370
+    },
+    "l3717dv2gbIYO6O": {
+      "name": "Arrha",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "win": false,
+      "kills": 14,
+      "crown": 1,
+      "version": 2616,
+      "uid": "l3717dv2gbIYO6O",
+      "runId": 439226370
+    },
+    "e1loW0I57y5d28M": {
+      "name": "kurasaki",
+      "char": 2,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 8,
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        10,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "e1loW0I57y5d28M",
+      "runId": 439226370
+    },
+    "qrBIrIQJyIRaZYb": {
+      "name": "Seeker447",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 16,
+      "win": false,
+      "kills": 33,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "qrBIrIQJyIRaZYb",
+      "runId": 439226370
     }
   }
 }

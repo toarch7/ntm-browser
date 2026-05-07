@@ -2077,6 +2077,52 @@
       "version": 2616,
       "uid": "B9zCiNjEgU3Kb51",
       "runId": 142451052
+    },
+    "6deSl2lW7bH9OfQ": {
+      "name": "WIZARD",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 43,
+      "bwep": 4,
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        23,
+        22
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "6deSl2lW7bH9OfQ",
+      "runId": 142451052
+    },
+    "l3717dv2gbIYO6O": {
+      "name": "Arrha",
+      "char": 10,
+      "skin": true,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 112,
+      "win": false,
+      "kills": 299,
+      "ultra": 0,
+      "skills": [
+        21,
+        6,
+        1,
+        4,
+        14,
+        25
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "l3717dv2gbIYO6O",
+      "runId": 142451052
     }
   }
 }
