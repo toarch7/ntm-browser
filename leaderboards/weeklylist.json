@@ -1866,6 +1866,71 @@
       "version": 2616,
       "uid": "15R7I5xrZnvtA16",
       "runId": 142451052
+    },
+    "oCBLKHcNoA7CDxJ": {
+      "name": "Seeker",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 43,
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        14,
+        25
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "oCBLKHcNoA7CDxJ",
+      "runId": 142451052
+    },
+    "GBAM3h9w72ovs98": {
+      "name": "KiKi",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 43,
+      "bwep": 75,
+      "win": false,
+      "kills": 193,
+      "ultra": 0,
+      "skills": [
+        23,
+        22,
+        1,
+        4,
+        14
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "GBAM3h9w72ovs98",
+      "runId": 142451052
+    },
+    "757eCvM8by8S8M0": {
+      "name": "Paceft",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 43,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "757eCvM8by8S8M0",
+      "runId": 142451052
     }
   }
 }
