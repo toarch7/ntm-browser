@@ -158,6 +158,46 @@
       "version": 2616,
       "uid": "f59RRgiC3Zpvr9c",
       "runId": 1284936377
+    },
+    "QzBY2TJ06YPyFHB": {
+      "name": "Seeke",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "win": false,
+      "kills": 53,
+      "ultra": 0,
+      "skills": [
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "QzBY2TJ06YPyFHB",
+      "runId": 1284936377
+    },
+    "VIV16DFy6adN3LX": {
+      "name": "Demasons",
+      "char": 12,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 81,
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "VIV16DFy6adN3LX",
+      "runId": 1284936377
     }
   }
 }
