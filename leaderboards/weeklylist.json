@@ -2270,6 +2270,53 @@
       "version": 2616,
       "uid": "kK11o6xtW4XpTPc",
       "runId": 142451052
+    },
+    "a000X9e7j4vAN46": {
+      "name": "Seeker90",
+      "char": 10,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 52,
+      "bwep": 47,
+      "win": false,
+      "kills": 419,
+      "ultra": 2,
+      "skills": [
+        3,
+        1,
+        27,
+        4,
+        22,
+        17
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "a000X9e7j4vAN46",
+      "runId": 142451052
+    },
+    "HOuRYAJMpcX2FQL": {
+      "name": "Hitler_JR",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 43,
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        23,
+        22,
+        3
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "HOuRYAJMpcX2FQL",
+      "runId": 142451052
     }
   }
 }
