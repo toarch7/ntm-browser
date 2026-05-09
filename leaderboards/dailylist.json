@@ -230,6 +230,69 @@
       "version": 2616,
       "uid": "PVUBpB8079e7lw2",
       "runId": 86719276
+    },
+    "IRBaRiIrJIijYaq": {
+      "name": "0",
+      "char": 5,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 4,
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        10,
+        23
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "IRBaRiIrJIijYaq",
+      "runId": 86719276
+    },
+    "iaIRjaibiZjJJqZ": {
+      "name": "cuc",
+      "char": 8,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 2,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        25,
+        3,
+        23
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "iaIRjaibiZjJJqZ",
+      "runId": 86719276
+    },
+    "oAM5j35n3Y4IwZB": {
+      "name": "Kuroi",
+      "char": 2,
+      "skin": true,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "oAM5j35n3Y4IwZB",
+      "runId": 86719276
     }
   }
 }
