@@ -2310,17 +2310,17 @@
       "name": "Hitler_JR",
       "char": 10,
       "skin": true,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 13,
-      "bwep": 43,
+      "wep": 43,
+      "bwep": 34,
       "win": false,
-      "kills": 65,
+      "kills": 94,
       "ultra": 0,
       "skills": [
         23,
-        22,
+        14,
         3
       ],
       "crown": 6,
@@ -2684,6 +2684,50 @@
       "crown": 6,
       "version": 2616,
       "uid": "TF7UBo3NOKS6z56",
+      "runId": 142451052
+    },
+    "m3dt08Y9020NmX1": {
+      "name": "ZeldaMiMujer",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 43,
+      "bwep": 69,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        23,
+        12
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "m3dt08Y9020NmX1",
+      "runId": 142451052
+    },
+    "9F93QzEs5pd7ZT7": {
+      "name": "lamaravilla",
+      "char": 10,
+      "skin": true,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 43,
+      "bwep": 69,
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        22,
+        25,
+        28,
+        1
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "9F93QzEs5pd7ZT7",
       "runId": 142451052
     }
   }
