@@ -2529,18 +2529,19 @@
       "name": "bruno",
       "char": 10,
       "skin": true,
-      "area": 3,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 66,
-      "bwep": 4,
+      "wep": 116,
+      "bwep": 43,
       "win": false,
-      "kills": 75,
+      "kills": 174,
       "ultra": 0,
       "skills": [
-        24,
+        16,
         4,
-        27
+        27,
+        28
       ],
       "crown": 6,
       "version": 3003,
@@ -3011,6 +3012,53 @@
       "crown": 6,
       "version": 2616,
       "uid": "1828uB0j9HgK78P",
+      "runId": 142451052
+    },
+    "625CNC69DBEW4HY": {
+      "name": "Coco",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 11,
+      "win": false,
+      "kills": 214,
+      "ultra": 0,
+      "skills": [
+        21,
+        25,
+        27,
+        1,
+        4,
+        3,
+        28
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "625CNC69DBEW4HY",
+      "runId": 142451052
+    },
+    "60010IRy0LMkdT7": {
+      "name": "Seeke",
+      "char": 10,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 43,
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        21,
+        3
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "60010IRy0LMkdT7",
       "runId": 142451052
     }
   }
