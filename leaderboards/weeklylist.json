@@ -2800,18 +2800,21 @@
       "name": "Seeker903",
       "char": 10,
       "skin": true,
-      "area": 3,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 5,
-      "bwep": 9,
+      "wep": 63,
+      "bwep": 114,
       "win": false,
-      "kills": 77,
+      "kills": 213,
       "ultra": 0,
       "skills": [
         19,
         4,
-        27
+        27,
+        13,
+        28,
+        1
       ],
       "crown": 6,
       "version": 3003,
@@ -2859,6 +2862,29 @@
       "crown": 6,
       "version": 3003,
       "uid": "RzAYqJJaQJJjyzR",
+      "runId": 142451052
+    },
+    "u1ofC7CR28Ip125": {
+      "name": "jalyna",
+      "char": 10,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 43,
+      "win": false,
+      "kills": 178,
+      "ultra": 0,
+      "skills": [
+        14,
+        3,
+        1,
+        4
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "u1ofC7CR28Ip125",
       "runId": 142451052
     }
   }
