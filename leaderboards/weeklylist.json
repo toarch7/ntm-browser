@@ -2886,6 +2886,32 @@
       "version": 2616,
       "uid": "u1ofC7CR28Ip125",
       "runId": 142451052
+    },
+    "aAyryyBrJirQbIi": {
+      "name": "hunter",
+      "char": 10,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 24,
+      "bwep": 11,
+      "win": false,
+      "kills": 385,
+      "ultra": 1,
+      "skills": [
+        25,
+        24,
+        27,
+        13,
+        28,
+        1,
+        8
+      ],
+      "crown": 6,
+      "version": 3003,
+      "uid": "aAyryyBrJirQbIi",
+      "runId": 142451052
     }
   }
 }
