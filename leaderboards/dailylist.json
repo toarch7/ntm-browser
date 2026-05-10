@@ -566,6 +566,90 @@
       "version": 2616,
       "uid": "WWKz897h49tQoEV",
       "runId": 1555110710
+    },
+    "35GFhWko20xMY6l": {
+      "name": "isa",
+      "char": 11,
+      "skin": false,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 19,
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "35GFhWko20xMY6l",
+      "runId": 1555110710
+    },
+    "zrJayirbzQrqQiQ": {
+      "name": "Seeker903",
+      "char": 6,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 11,
+      "win": false,
+      "kills": 115,
+      "ultra": 0,
+      "skills": [
+        21,
+        28
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "zrJayirbzQrqQiQ",
+      "runId": 1555110710
+    },
+    "YRAAzJzAzbRaQJA": {
+      "name": "Momotaro",
+      "char": 6,
+      "skin": true,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 92,
+      "bwep": 12,
+      "win": false,
+      "kills": 385,
+      "ultra": 1,
+      "skills": [
+        23,
+        22,
+        25,
+        1,
+        27,
+        3,
+        4
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "YRAAzJzAzbRaQJA",
+      "runId": 1555110710
+    },
+    "7zBqV9X6n63xehl": {
+      "name": "Spetznarojo",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 16,
+      "win": false,
+      "kills": 85,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7zBqV9X6n63xehl",
+      "runId": 1555110710
     }
   }
 }
