@@ -447,14 +447,14 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 83,
-      "bwep": 23,
+      "wep": 21,
+      "bwep": 83,
       "win": false,
-      "kills": 124,
+      "kills": 129,
       "ultra": 0,
       "skills": [
         9,
-        24,
+        23,
         4
       ],
       "crown": 4,
@@ -1113,18 +1113,19 @@
       "char": 1,
       "skin": false,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 119,
-      "bwep": 83,
+      "wep": 83,
+      "bwep": 36,
       "win": false,
-      "kills": 207,
+      "kills": 251,
       "ultra": 0,
       "skills": [
         4,
         27,
-        28,
-        1
+        10,
+        1,
+        23
       ],
       "crown": 4,
       "version": 2616,
@@ -1949,6 +1950,73 @@
       "crown": 4,
       "version": 2616,
       "uid": "7HF10199Z16u75G",
+      "runId": 548396108
+    },
+    "yRQYQaJjyriAazj": {
+      "name": "Seeker450",
+      "char": 1,
+      "skin": true,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 83,
+      "win": false,
+      "kills": 279,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        9
+      ],
+      "crown": 4,
+      "version": 3003,
+      "uid": "yRQYQaJjyriAazj",
+      "runId": 548396108
+    },
+    "we290zG2yFU7Q46": {
+      "name": "tizinatorghost",
+      "char": 1,
+      "skin": false,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 28,
+      "bwep": 83,
+      "win": false,
+      "kills": 174,
+      "ultra": 0,
+      "skills": [
+        4,
+        19,
+        27,
+        17,
+        1
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "we290zG2yFU7Q46",
+      "runId": 548396108
+    },
+    "15R7I5xrZnvtA16": {
+      "name": "The_joakoX69",
+      "char": 1,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 83,
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        4,
+        24
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "15R7I5xrZnvtA16",
       "runId": 548396108
     }
   }
