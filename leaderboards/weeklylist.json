@@ -2143,17 +2143,17 @@
       "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 113,
-      "bwep": 83,
+      "wep": 74,
+      "bwep": 28,
       "win": false,
-      "kills": 215,
-      "ultra": 0,
+      "kills": 373,
+      "ultra": 2,
       "skills": [
         9,
         27,
         4,
         1,
-        23
+        22
       ],
       "crown": 4,
       "version": 2616,
@@ -2252,6 +2252,69 @@
       "crown": 4,
       "version": 2616,
       "uid": "3AQ8UM0jcAfFGot",
+      "runId": 548396108
+    },
+    "ABqk9eMvkJwjK9m": {
+      "name": "Seeker71",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 83,
+      "bwep": 6,
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        4,
+        27
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "ABqk9eMvkJwjK9m",
+      "runId": 548396108
+    },
+    "1lJq4n7bqLL5v7E": {
+      "name": "kinors",
+      "char": 1,
+      "skin": false,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 3,
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        4,
+        27
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "1lJq4n7bqLL5v7E",
+      "runId": 548396108
+    },
+    "RBJIAJyZbIYIyra": {
+      "name": "Seeker903",
+      "char": 1,
+      "skin": true,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 83,
+      "bwep": 71,
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        7,
+        8
+      ],
+      "crown": 4,
+      "version": 3003,
+      "uid": "RBJIAJyZbIYIyra",
       "runId": 548396108
     }
   }
