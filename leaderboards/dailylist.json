@@ -1,4 +1,68 @@
 {
   "day": 13,
-  "entries": {}
+  "entries": {
+    "GeQZR61X1tto6YS": {
+      "name": "trimewell",
+      "char": 4,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GeQZR61X1tto6YS",
+      "runId": 2025796167
+    },
+    "677ONt7IID5NlU4": {
+      "name": "artem",
+      "char": 11,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 19,
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        17,
+        9,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "677ONt7IID5NlU4",
+      "runId": 2025796167
+    },
+    "S9Z31CYTR2W08Fw": {
+      "name": "unsencitive",
+      "char": 8,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 0,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        17,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "S9Z31CYTR2W08Fw",
+      "runId": 2025796167
+    }
+  }
 }
