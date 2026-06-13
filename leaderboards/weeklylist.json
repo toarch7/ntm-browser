@@ -98,17 +98,19 @@
       "name": "wazas",
       "char": 1,
       "skin": true,
-      "area": 4,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 13,
+      "wep": 80,
       "bwep": 23,
       "win": false,
-      "kills": 39,
+      "kills": 178,
       "ultra": 0,
       "skills": [
         1,
-        13
+        13,
+        7,
+        8
       ],
       "crown": 12,
       "version": 2616,
@@ -1165,6 +1167,73 @@
       "crown": 12,
       "version": 2616,
       "uid": "Cm99n24nr15n016",
+      "runId": 214973275
+    },
+    "C4BV0YcWXY46Zv6": {
+      "name": "jose134613",
+      "char": 1,
+      "skin": true,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 3,
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        21,
+        7
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "C4BV0YcWXY46Zv6",
+      "runId": 214973275
+    },
+    "6F3v67ilsDD0dxQ": {
+      "name": "Gab",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 5,
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        10,
+        19,
+        7,
+        8
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "6F3v67ilsDD0dxQ",
+      "runId": 214973275
+    },
+    "5FKZLiiC9Yq6L1Q": {
+      "name": "santiago",
+      "char": 1,
+      "skin": true,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 23,
+      "win": false,
+      "kills": 154,
+      "ultra": 0,
+      "skills": [
+        1,
+        19,
+        22,
+        8
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "5FKZLiiC9Yq6L1Q",
       "runId": 214973275
     }
   }
