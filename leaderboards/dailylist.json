@@ -1534,6 +1534,113 @@
       "version": 2616,
       "uid": "6Djh172TpfB5Gw1",
       "runId": 501167727
+    },
+    "4o2sVGs8MQpcRKR": {
+      "name": "N",
+      "char": 8,
+      "skin": true,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 0,
+      "win": false,
+      "kills": 88,
+      "ultra": 0,
+      "skills": [
+        10,
+        19,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4o2sVGs8MQpcRKR",
+      "runId": 501167727
+    },
+    "aje6G86a43H6I6j": {
+      "name": "Tsumes",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        10,
+        25,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aje6G86a43H6I6j",
+      "runId": 501167727
+    },
+    "KMMtfuO8lrPb4kl": {
+      "name": "IngenierioFeka",
+      "char": 2,
+      "skin": false,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 21,
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "KMMtfuO8lrPb4kl",
+      "runId": 501167727
+    },
+    "yabjzqJQiyZArQz": {
+      "name": "Misuritis",
+      "char": 8,
+      "skin": false,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 5,
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        9,
+        26,
+        4
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "yabjzqJQiyZArQz",
+      "runId": 501167727
+    },
+    "j1MzcYrAx7zgmln": {
+      "name": "julian",
+      "char": 2,
+      "skin": false,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 7,
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        22,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "j1MzcYrAx7zgmln",
+      "runId": 501167727
     }
   }
 }
