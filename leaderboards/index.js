@@ -178,6 +178,7 @@ client.once(Events.ClientReady, c => {
                     return;
 
                 let stats = parse(message.embeds[0]);
+                stats.name = getFilteredName(stats.name);
                 
                 if (stats.version < 2610) return;
 
@@ -226,6 +227,8 @@ client.once(Events.ClientReady, c => {
                 if (!message.embeds || !message.embeds[0]) return;
                 if (message.embeds[0].footer.text == "(no score improvement)") return;
                 let stats = parse(message.embeds[0]);
+                stats.name = getFilteredName(stats.name);
+                
                 if (stats.version < 2610) return;
     
                 let uid = stats.uid;
