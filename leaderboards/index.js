@@ -156,11 +156,9 @@ client.once(Events.ClientReady, c => {
     client.user.setActivity("must've been the wind...");
 
     function fetchDailyEntries() {
-        const cuzTestMessageId = "1480141807479427267";
         const channel = client.channels.cache.get("676014515078430751");
         
-        // channel.messages.fetch({ limit: 100 }).then(messages => {
-        channel.messages.fetch(cuzTestMessageId).then(messages => {
+        channel.messages.fetch({ limit: 100 }).then(messages => {
             if (test && messages instanceof Message) messages = [messages];
             let date = new Date().getDate();
             let reset = false;
