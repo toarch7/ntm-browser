@@ -1,5 +1,3 @@
-// this is dumb too
-
 const CharNames = require("./tables/characters.json");
 const SkillNames = require("./tables/skills.json");
 const UltraNames = require("./tables/ultras.json");
@@ -10,23 +8,14 @@ let charCurrent = 1;
 
 function parseTitle(str) {
 	let ret = { };
-
 	ret.name = str.replace(/, Windows|, Linux|, iOS/, "").split(" ")[1];
-
 	str = str.toLowerCase();
-
 	CharNames.every((name, i) => {
-		if (!str.startsWith(name))
-			return true;
-
-		charCurrent = i;
-		
-		ret.char = i;
-		ret.skin = str[name.length] == "b";
-
+		if (!str.startsWith(name)) return true;
+		ret.skin = String(str[name.length]).charCodeAt(0) - 97; // 'a'
+		charCurrent = ret.char = i;
 		return false;
 	});
-
 	return ret;
 }
 
@@ -36,15 +25,14 @@ function ultraGet(name) {
 }
 
 function parseDescription(str) {
-	let ret = {area: null, subarea: 1, loops: 0, wep: 0, bwep: 0, win: false };
+	let ret = {area: null, subarea: 1, loops: 0, wep: 0, bwep: 0, extraweps: [], win: false };
 	
 	let desc = str.split("\n");
 	
 	for(let i = 0; i < desc.length; i ++) {
 		let d = desc[i];
 
-		if(d == "")
-			continue;
+		if (d == "") continue;
 
 		if (ret.area == null) {
 			let a = d.substring(2).split(" ");
@@ -90,14 +78,25 @@ function parseDescription(str) {
 		}
 
 		if (d.startsWith("**Weapon")) {
+			const findWeaponId = (weaponName) => {
+				if (weaponName && (typeof weaponName) === "string") {
+					let nameUpper = weaponName.toUpperCase();
+					let idx = WeaponNames.indexOf(nameUpper);
+					return idx;
+				}
+				return 0;
+			};
 			d = desc[++ i];
-			let a = d.split(", ");
+			/** @type {Array<String>} */
+			let wepParts = d.split(", ");
 			
-            if (a[0])
-			    ret.wep = Math.max(0, WeaponNames.indexOf(a[0].toUpperCase()));
-            
-            if (a[1])
-			    ret.bwep = Math.max(0, WeaponNames.indexOf(a[1].toUpperCase()));
+            if (wepParts[0]) ret.wep = findWeaponId(wepParts[0]);
+            if (wepParts[1]) ret.bwep = findWeaponId(wepParts[1]);
+			if (wepParts.length > 2) {
+				ret.extraweps = wepParts.slice(2).map((weaponName) => {
+					return findWeaponId(weaponName);
+				})
+			}
             
 			continue;
 		}
@@ -128,7 +127,6 @@ function parseDescription(str) {
 		if (d.startsWith("**Crown")) {
 			let a = d.split("**Crown**: <:Crown")[1];
 			ret.crown = parseInt(a.split(":")[0]);
-			
 			continue;
 		}
 	}
@@ -149,9 +147,6 @@ function parseFooter(str) {
 
 	ret.uid = identification[0];
 	ret.runId = parseInt(identification[1], 16);
-
-	console.log(identification)
-
     return ret;
 }
 

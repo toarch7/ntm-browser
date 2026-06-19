@@ -42,6 +42,7 @@ jobs:
           MAIL: ${{ secrets.MAIL }}
         run: |
           npm i discord.js
+          npm i "@2toad/profanity"
           npm run leaderboards
       
       ###

@@ -1,16 +1,16 @@
-// this is dumb
-
-const { Client, Events, GatewayIntentBits } = require("discord.js");
+const test = process.argv.indexOf("--local-test") != -1;
+if (test) require("dotenv").config({ "quiet": true });
+const { Client, Events, GatewayIntentBits, Message } = require("discord.js");
 const { readFileSync, writeFileSync, existsSync } = require("fs");
 const Emotes = require("./tables/emotes.json");
 const { parse } = require("./parser.js");
 const { execSync } = require("child_process");
+const { Profanity, CensorType } = require("@2toad/profanity");
 const axios = require("axios");
 const { exit } = require("process");
 
-const test = process.argv.indexOf("--test") != -1;
-
-let weeklySeed, dailySeed;
+let weeklySeed = null;
+let dailySeed = null;
 
 const params = {
     token: process.env.DISCORD_API_TOKEN,
@@ -26,6 +26,24 @@ const params = {
 const client = new Client({
     intents: [ GatewayIntentBits.Guilds | GatewayIntentBits.MessageContent ]
 });
+
+const profanity = new Profanity({
+    languages: [ "en", "es", "ru" ],
+    wholeWord: false,
+    grawlix: "♡♡♡"
+});
+const profanityListBuffer = readFileSync("./leaderboards/epic-russian-gamer-words.txt", "utf-8");
+const profanityListDecodedString = Buffer.from(profanityListBuffer, "base64").toString("utf-8");
+profanity.addWords(profanityListDecodedString.split("\n"));
+
+function getFilteredName(name) {
+    let censored = profanity.censor(name, CensorType.Word);
+    if (censored === name) return name;
+    if (!censored.startsWith(name[0])) censored = name[0] + censored;
+    let last = name[name.length - 1];
+    if (!censored.endsWith(last)) return censored + last;
+    return censored;
+}
 
 function getCurrentDate() {
     let today = new Date();
@@ -44,13 +62,9 @@ function getCurrentDate() {
 }
 
 function sendLeaderboards(kind, list) {
-    if (test)
-        return;
-
+    if (test) return;
     let url = params.webhooks[kind];
-
-    if (!url)
-        return;
+    if (!url)  return;
     
     let title = kind.replace(kind[0], kind[0].toUpperCase());
     
@@ -61,10 +75,18 @@ function sendLeaderboards(kind, list) {
 
     for(let i = 0; i < Math.min(10, list.length); i ++) {
         let item = list[i];
-        let icon = Emotes.Characters[item.char][item.skin ? 1 : 0];
-        
-        let place = (i + 1),
-            suffix = "th.";
+        let place = (i + 1);
+        let suffix = "th.";
+        let charIcons = Emotes.Characters[item.char];
+        let icon = charIcons ? charIcons[item.skin] : `Char${item.char}`;
+        if (icon == null) {
+            if ((typeof charIcons[item.char][0]) === "string") {
+                icon = `${charIcons[item.char][0]} (skin: ${item.skin})`;
+            }
+            else {
+                icon = `Char${item.char} (skin: ${item.skin})`;
+            }
+        }
 
         switch (place) {
             case 1: suffix = "st."; break;
@@ -75,7 +97,7 @@ function sendLeaderboards(kind, list) {
         let areaString = areaGetString(item.area, item.subarea, item.loops);
 
         // living hell, you might say
-        embed.description += `## ${place + suffix} ${icon} ${item.name}\n${Emotes.None}${Emotes.Kills} **Kills**: ${item.kills}\n${Emotes.None}${Emotes.Distance} **Distance**: ${areaString}\n\n`
+        embed.description += `## ${place + suffix} ${icon} ${getFilteredName(item.name)}\n${Emotes.None}${Emotes.Kills} **Kills**: ${item.kills}\n${Emotes.None}${Emotes.Distance} **Distance**: ${areaString}\n\n`
     }
 
     axios.post(url, { content: "", embeds: [ embed ] });
@@ -128,145 +150,116 @@ client.once(Events.ClientReady, c => {
 	console.log(`Ready! Logged in as ${c.user.tag}`);
 
     const checkSeed = (stat, seed) => {
-        console.log("Compare seeds", stat.runId, seed);
-        return Number.isInteger(stat.runId) && stat.runId == seed;
+        return (Number.isInteger(stat.runId) && stat.runId == seed);
     }
 
-    client.user.setActivity("Nuclear Throne Mobile");
+    client.user.setActivity("must've been the wind...");
 
-    let channel;
+    function fetchDailyEntries() {
+        const cuzTestMessageId = "1480141807479427267";
+        const channel = client.channels.cache.get("676014515078430751");
+        
+        // channel.messages.fetch({ limit: 100 }).then(messages => {
+        channel.messages.fetch(cuzTestMessageId).then(messages => {
+            if (test && messages instanceof Message) messages = [messages];
+            let date = new Date().getDate();
+            let reset = false;
+            let dailylist = {};
+            let entries = {};
 
-    //#region Daily
-    channel = client.channels.cache.get("676014515078430751");
-
-    channel.messages.fetch({ limit: 100 }).then(messages => {
-        let date = new Date().getDate();
-        let dailylist = {};
-        let entries = {};
-
-        let reset = false;
-
-        if (existsSync("./leaderboards/dailylist.json")) {
-            dailylist = JSON.parse(readFileSync("./leaderboards/dailylist.json", "utf-8"));
-
-			entries = dailylist.entries;
-			
-            if (dailylist.day != date)
-                reset = true;
-        }
-
-        console.log(`(Daily) Received ${messages.size} messages`);
-
-        messages.forEach(message => {
-            if (!message.embeds || !message.embeds[0])
-                return;
-
-            let stats = parse(message.embeds[0]);
-            
-            if (stats.version < 2610)
-                return;
-
-            let uid = stats.uid;
-
-            if (!entries[uid] && checkSeed(stats, dailySeed)) {
-                console.log("New entry from", stats.name + "|" + uid);
-                entries[uid] = stats;
+            if (existsSync("./leaderboards/dailylist.json")) {
+                dailylist = JSON.parse(readFileSync("./leaderboards/dailylist.json", "utf-8"));
+                entries = dailylist.entries;
+                if (dailylist.day != date) reset = true;
             }
-        });
 
-        let list = Object.values(entries);
+            console.log(`(Daily) Received ${messages.size} messages`);
 
-        console.log("Entires count:", list.length);
+            messages.forEach(message => {
+                if (!message.embeds || !message.embeds[0])
+                    return;
 
-        if (reset) {
-            list.sort((a, b) => b.kills - a.kills);
+                let stats = parse(message.embeds[0]);
+                
+                if (stats.version < 2610) return;
 
-            sendLeaderboards("daily", list);
+                let uid = stats.uid;
 
-            entries = {};
-        }
-
-        writeFileSync("./leaderboards/dailylist.json",
-            JSON.stringify(
-            {
-                day: date,
-                entries: entries
-            },
-            null, 2)
-        );
-    });
-
-    //#endregion
-
-    //#region Weekly
-
-    channel = client.channels.cache.get("764114358052585492");
-
-    channel.messages.fetch({ limit: 100 }).then(messages => {
-        let weeklylist = {};
-        let entries = {};
-
-        let reset = false;
-
-        if (existsSync("./leaderboards/weeklylist.json")) {
-            weeklylist = JSON.parse(readFileSync("./leaderboards/weeklylist.json", "utf-8"));
-
-			entries = weeklylist.entries;
-			
-            if (weeklylist.seed != weeklySeed)
-                reset = true;
-        }
-
-        console.log(`(Weekly) Received ${messages.size} messages`);
-
-        messages.forEach(message => {
-            if (!message.embeds || !message.embeds[0])
-                return;
-
-            if (message.embeds[0].footer.text == "(no score improvement)")
-                return;
-
-            let stats = parse(message.embeds[0]);
-
-            if (stats.version < 2610)
-                return;
-
-            let uid = stats.uid;
-    
-            if (uid && checkSeed(stats, weeklySeed)) {
-                let entry = entries[uid];
-    
-                if (!entry || (entry && entry.kills < stats.kills)) {
-                    console.log("New entry from", stats.name + "|" + stats.uid);
+                if (!entries[uid] && checkSeed(stats, dailySeed)) {
+                    console.log("New entry from", stats.name + "|" + uid);
                     entries[uid] = stats;
                 }
+            });
+
+            let list = Object.values(entries);
+            console.log(`(Daily) total entries:`, list.length);
+
+            if (reset) {
+                list.sort((a, b) => b.kills - a.kills);
+                sendLeaderboards("daily", list);
+                entries = {};
             }
+
+            writeFileSync("./leaderboards/dailylist.json",
+                JSON.stringify({
+                    day: date, entries: entries
+                }, null, 2)
+            );
         });
+    }
 
-        let list = Object.values(entries);
+    function fetchWeeklyEntries() {
+        const channel = client.channels.cache.get("764114358052585492");
 
-        console.log("Entires count:", list.length);
+        channel.messages.fetch({ limit: 100 }).then(messages => {
+            let reset = false;
+            let weeklylist = {};
+            let entries = {};
 
-        if (reset) {
-            list.sort((a, b) => b.kills - a.kills);
-
-            sendLeaderboards("weekly", list);
-
-            entries = {};
-        }
-
-        writeFileSync("./leaderboards/weeklylist.json",
-            JSON.stringify(
-            {
-                seed: weeklySeed,
-                entries: entries
-            },
-            null, 2)
-        );
-    });
-
-    //#endregion
+            if (existsSync("./leaderboards/weeklylist.json")) {
+                weeklylist = JSON.parse(readFileSync("./leaderboards/weeklylist.json", "utf-8"));
+                entries = weeklylist.entries;
+                if (weeklylist.seed != weeklySeed) reset = true;
+            }
     
+            console.log(`(Weekly) Received ${messages.size} messages`);
+    
+            messages.forEach(message => {
+                if (!message.embeds || !message.embeds[0]) return;
+                if (message.embeds[0].footer.text == "(no score improvement)") return;
+                let stats = parse(message.embeds[0]);
+                if (stats.version < 2610) return;
+    
+                let uid = stats.uid;
+                if (uid && checkSeed(stats, weeklySeed)) {
+                    let entry = entries[uid];
+        
+                    if (!entry || (entry && entry.kills < stats.kills)) {
+                        console.log("New entry from", stats.name + "|" + stats.uid);
+                        entries[uid] = stats;
+                    }
+                }
+            });
+    
+            let list = Object.values(entries);
+            console.log("(Weekly) total entries:", list.length);
+    
+            if (reset) {
+                list.sort((a, b) => b.kills - a.kills);
+                sendLeaderboards("weekly", list);
+                entries = {};
+            }
+
+            writeFileSync("./leaderboards/weeklylist.json",
+                JSON.stringify({
+                    seed: weeklySeed, entries: entries
+                }, null, 2)
+            );
+        });
+    }
+
+    fetchDailyEntries();
+    fetchWeeklyEntries();
 });
 
 async function start() {
@@ -289,16 +282,14 @@ async function start() {
 
         console.log("Trying to shutdown the client...");
 
-        client.destroy()
-			.catch(() => {
-                console.log("Shutdown failed! I hate Discord.JS");
-            });
-    },
-    10000);
+        client.destroy() .catch(() => {
+            console.log("Shutdown failed! I hate Discord.JS");
+        });
+    }, 10000);
 }
 
-start()
-.catch((err) => {
+start().catch((err) => {
     console.log(err);
     console.error("Something went wrong...");
+    process.exit(1);
 });

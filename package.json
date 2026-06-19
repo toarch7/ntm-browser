@@ -19,7 +19,8 @@
   },
   "scripts": {
     "browser": "node browser.js",
-    "leaderboards": "node leaderboards/index.js"
+    "leaderboards": "node leaderboards/index.js",
+    "test-leaderboards": "node leaderboards/index.js --local-test"
   },
   "author": "toncho_",
   "license": "ISC"
