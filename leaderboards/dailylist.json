@@ -1,4 +1,115 @@
 {
   "day": 20,
-  "entries": {}
+  "entries": {
+    "yyaQZZAyiBRZBir": {
+      "name": "Bigoctus",
+      "skin": 0,
+      "char": 7,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "yyaQZZAyiBRZBir",
+      "runId": 1611196686
+    },
+    "7aO5kajZEj06d84": {
+      "name": "MayMay",
+      "skin": 0,
+      "char": 15,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 127,
+      "extraweps": [],
+      "win": false,
+      "kills": 121,
+      "ultra": 0,
+      "skills": [
+        10,
+        13,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7aO5kajZEj06d84",
+      "runId": 1611196686
+    },
+    "HKnovMFxUNQ1U3q": {
+      "name": "FR4N",
+      "skin": 0,
+      "char": 5,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 4,
+      "extraweps": [],
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HKnovMFxUNQ1U3q",
+      "runId": 1611196686
+    },
+    "Du85j4PgMeY75F3": {
+      "name": "Jesse",
+      "skin": 0,
+      "char": 2,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 23,
+      "extraweps": [],
+      "win": false,
+      "kills": 254,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        4,
+        8
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "Du85j4PgMeY75F3",
+      "runId": 1611196686
+    },
+    "6PeTefTF760cfpP": {
+      "name": "Yarix",
+      "skin": 1,
+      "char": 2,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 27,
+      "extraweps": [],
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6PeTefTF760cfpP",
+      "runId": 1611196686
+    }
+  }
 }
