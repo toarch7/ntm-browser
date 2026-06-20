@@ -274,11 +274,11 @@
       "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 3,
-      "bwep": 14,
+      "wep": 26,
+      "bwep": 60,
       "extraweps": [],
       "win": false,
-      "kills": 347,
+      "kills": 348,
       "ultra": 0,
       "skills": [
         1,
@@ -1009,6 +1009,28 @@
       "crown": 2,
       "version": 2616,
       "uid": "CVzZ2t7Lfaat0Bq",
+      "runId": 1879602515
+    },
+    "4RN0kqeFdPVCLn0": {
+      "name": "S♡♡♡imiKa",
+      "skin": 1,
+      "char": 3,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 119,
+      "extraweps": [],
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        7,
+        8
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "4RN0kqeFdPVCLn0",
       "runId": 1879602515
     }
   }
