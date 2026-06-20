@@ -1060,6 +1060,30 @@
       "version": 2616,
       "uid": "mD4KznBP467wShE",
       "runId": 1879602515
+    },
+    "v92b05qCFoL0wIL": {
+      "name": "NEMESIS",
+      "skin": 1,
+      "char": 3,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 119,
+      "extraweps": [],
+      "win": false,
+      "kills": 186,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        9,
+        13
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "v92b05qCFoL0wIL",
+      "runId": 1879602515
     }
   }
 }
