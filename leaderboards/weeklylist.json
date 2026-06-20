@@ -924,18 +924,20 @@
       "name": "JJDiaz1234",
       "skin": 1,
       "char": 3,
-      "area": 3,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 20,
-      "bwep": 5,
+      "wep": 52,
+      "bwep": 117,
       "extraweps": [],
       "win": false,
-      "kills": 79,
+      "kills": 149,
       "ultra": 0,
       "skills": [
         1,
-        8
+        8,
+        21,
+        26
       ],
       "crown": 2,
       "version": 2616,
@@ -1031,6 +1033,32 @@
       "crown": 2,
       "version": 2616,
       "uid": "4RN0kqeFdPVCLn0",
+      "runId": 1879602515
+    },
+    "mD4KznBP467wShE": {
+      "name": "EZEQUIELX6",
+      "skin": 1,
+      "char": 3,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 113,
+      "extraweps": [],
+      "win": false,
+      "kills": 354,
+      "ultra": 0,
+      "skills": [
+        1,
+        8,
+        21,
+        3,
+        7,
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "mD4KznBP467wShE",
       "runId": 1879602515
     }
   }
