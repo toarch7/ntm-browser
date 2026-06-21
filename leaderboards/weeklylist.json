@@ -1301,6 +1301,51 @@
       "version": 2616,
       "uid": "5PhP0cXS66zJiK6",
       "runId": 1879602515
+    },
+    "UToiDg3g5GlkX11": {
+      "name": "Seeke",
+      "skin": 1,
+      "char": 3,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 20,
+      "extraweps": [],
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        7,
+        13,
+        28
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "UToiDg3g5GlkX11",
+      "runId": 1879602515
+    },
+    "f8bO1jNx6L09Y5U": {
+      "name": "Mclovin",
+      "skin": 1,
+      "char": 3,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 119,
+      "bwep": 66,
+      "extraweps": [],
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        1,
+        8
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "f8bO1jNx6L09Y5U",
+      "runId": 1879602515
     }
   }
 }
