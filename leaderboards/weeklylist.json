@@ -488,19 +488,20 @@
       "name": "nestor",
       "skin": 1,
       "char": 3,
-      "area": 3,
-      "subarea": 2,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
       "wep": 119,
-      "bwep": 16,
+      "bwep": 17,
       "extraweps": [],
       "win": false,
-      "kills": 121,
+      "kills": 169,
       "ultra": 0,
       "skills": [
         1,
         8,
-        2
+        2,
+        26
       ],
       "crown": 2,
       "version": 2616,
@@ -1224,6 +1225,28 @@
       "crown": 2,
       "version": 2616,
       "uid": "KMMtfuO8lrPb4kl",
+      "runId": 1879602515
+    },
+    "z8riLROzd7uBxLJ": {
+      "name": "apolito",
+      "skin": 1,
+      "char": 3,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 119,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 113,
+      "ultra": 0,
+      "skills": [
+        1,
+        8
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "z8riLROzd7uBxLJ",
       "runId": 1879602515
     }
   }
