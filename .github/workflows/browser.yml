@@ -16,7 +16,7 @@ jobs:
     strategy:
       matrix:
         node-version:
-          - 18.x
+          - lts/*
     
     timeout-minutes: 20
     
