@@ -71,14 +71,14 @@
       "name": "Yarix",
       "skin": 0,
       "char": 12,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 87,
-      "bwep": 21,
+      "wep": 21,
+      "bwep": 87,
       "extraweps": [],
       "win": false,
-      "kills": 78,
+      "kills": 96,
       "ultra": 0,
       "skills": [
         19,
@@ -196,6 +196,112 @@
       "crown": 8,
       "version": 2616,
       "uid": "9VvIWGtw3sb8I7H",
+      "runId": 2117709559
+    },
+    "t39HRF070O6LVLs": {
+      "name": "yungman",
+      "skin": 0,
+      "char": 12,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 87,
+      "extraweps": [],
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "t39HRF070O6LVLs",
+      "runId": 2117709559
+    },
+    "gQ13kS3RPknYoS4": {
+      "name": "wazas",
+      "skin": 0,
+      "char": 12,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 87,
+      "extraweps": [],
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "gQ13kS3RPknYoS4",
+      "runId": 2117709559
+    },
+    "35GFhWko20xMY6l": {
+      "name": "isa",
+      "skin": 0,
+      "char": 12,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 87,
+      "extraweps": [],
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "35GFhWko20xMY6l",
+      "runId": 2117709559
+    },
+    "l9YgLO8456E2334": {
+      "name": "CazaNovaX47u",
+      "skin": 0,
+      "char": 12,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 87,
+      "extraweps": [],
+      "win": false,
+      "kills": 74,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "l9YgLO8456E2334",
+      "runId": 2117709559
+    },
+    "a000X9e7j4vAN46": {
+      "name": "Seeker90",
+      "skin": 0,
+      "char": 12,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 87,
+      "bwep": 79,
+      "extraweps": [],
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        19,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "a000X9e7j4vAN46",
       "runId": 2117709559
     }
   }
