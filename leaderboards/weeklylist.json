@@ -308,14 +308,14 @@
       "name": "TrayNoName",
       "skin": 0,
       "char": 12,
-      "area": 4,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 2,
       "loops": 0,
-      "wep": 10,
-      "bwep": 2,
+      "wep": 5,
+      "bwep": 13,
       "extraweps": [],
       "win": false,
-      "kills": 103,
+      "kills": 117,
       "ultra": 0,
       "skills": [
         19,
@@ -674,6 +674,70 @@
       "crown": 8,
       "version": 3004,
       "uid": "jYJrjqjaAzaRZyb",
+      "runId": 2117709559
+    },
+    "Ngj2I9UFLbNz84z": {
+      "name": "Seek",
+      "skin": 0,
+      "char": 12,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 87,
+      "extraweps": [],
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        19,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "Ngj2I9UFLbNz84z",
+      "runId": 2117709559
+    },
+    "6deSl2lW7bH9OfQ": {
+      "name": "WIZARD",
+      "skin": 0,
+      "char": 12,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 87,
+      "extraweps": [],
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "6deSl2lW7bH9OfQ",
+      "runId": 2117709559
+    },
+    "n67LXGW42znCKxl": {
+      "name": "Nova4267",
+      "skin": 0,
+      "char": 12,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 61,
+      "bwep": 87,
+      "extraweps": [],
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "n67LXGW42znCKxl",
       "runId": 2117709559
     }
   }
