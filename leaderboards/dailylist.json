@@ -449,6 +449,70 @@
       "version": 2616,
       "uid": "5Gx1GFD5Mp7Ydd3",
       "runId": 1010899306
+    },
+    "g6BWvWT8b9kltSt": {
+      "name": "elchamo1128",
+      "skin": 1,
+      "char": 2,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "extraweps": [],
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g6BWvWT8b9kltSt",
+      "runId": 1010899306
+    },
+    "a9Q2SQ2FN13Y6ax": {
+      "name": "Racnar",
+      "skin": 0,
+      "char": 4,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 14,
+      "extraweps": [],
+      "win": false,
+      "kills": 178,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        14,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a9Q2SQ2FN13Y6ax",
+      "runId": 1010899306
+    },
+    "U6x0951W7fVO6k0": {
+      "name": "DAV",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "U6x0951W7fVO6k0",
+      "runId": 1010899306
     }
   }
 }
