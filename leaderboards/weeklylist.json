@@ -917,6 +917,50 @@
       "version": 3003,
       "uid": "zJjAzBqrryjRByR",
       "runId": 2117709559
+    },
+    "95ilxk2183M6d3B": {
+      "name": "LotusFlower",
+      "skin": 0,
+      "char": 12,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 87,
+      "bwep": 112,
+      "extraweps": [],
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        19,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "95ilxk2183M6d3B",
+      "runId": 2117709559
+    },
+    "zjYYzRqiiJIjaaz": {
+      "name": "Jet",
+      "skin": 1,
+      "char": 12,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        3,
+        10
+      ],
+      "crown": 8,
+      "version": 3004,
+      "uid": "zjYYzRqiiJIjaaz",
+      "runId": 2117709559
     }
   }
 }
