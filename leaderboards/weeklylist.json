@@ -1269,6 +1269,51 @@
       "version": 2616,
       "uid": "W1Z9n5oMKAoI88G",
       "runId": 2117709559
+    },
+    "a9Q2SQ2FN13Y6ax": {
+      "name": "Racnar",
+      "skin": 0,
+      "char": 12,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 87,
+      "extraweps": [],
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        19,
+        10
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "a9Q2SQ2FN13Y6ax",
+      "runId": 2117709559
+    },
+    "JBzIzjZJYyYQjJA": {
+      "name": "sekk",
+      "skin": 1,
+      "char": 12,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 2,
+      "extraweps": [],
+      "win": false,
+      "kills": 177,
+      "ultra": 0,
+      "skills": [
+        3,
+        10,
+        17
+      ],
+      "crown": 8,
+      "version": 3003,
+      "uid": "JBzIzjZJYyYQjJA",
+      "runId": 2117709559
     }
   }
 }
