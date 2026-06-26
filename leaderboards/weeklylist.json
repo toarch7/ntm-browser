@@ -1255,11 +1255,11 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 23,
-      "bwep": 87,
+      "wep": 112,
+      "bwep": 21,
       "extraweps": [],
       "win": false,
-      "kills": 122,
+      "kills": 124,
       "ultra": 0,
       "skills": [
         19,
@@ -1357,6 +1357,27 @@
       "crown": 8,
       "version": 2616,
       "uid": "qfdvEsHQiScsi85",
+      "runId": 2117709559
+    },
+    "4s44G1txP9A80Fc": {
+      "name": "El",
+      "skin": 0,
+      "char": 12,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 87,
+      "extraweps": [],
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "4s44G1txP9A80Fc",
       "runId": 2117709559
     }
   }
