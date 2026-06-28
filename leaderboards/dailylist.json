@@ -220,6 +220,93 @@
       "version": 2616,
       "uid": "J55jbd6k3Lkn1YA",
       "runId": 867807973
+    },
+    "h1U1dg3Bp50iw45": {
+      "name": "Max",
+      "skin": 0,
+      "char": 8,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 14,
+      "crown": 1,
+      "version": 2616,
+      "uid": "h1U1dg3Bp50iw45",
+      "runId": 867807973
+    },
+    "RZJQZQYrJZqrJjQ": {
+      "name": "чел",
+      "skin": 2,
+      "char": 16,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 6,
+      "extraweps": [
+        7
+      ],
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 3003,
+      "uid": "RZJQZQYrJZqrJjQ",
+      "runId": 867807973
+    },
+    "099iL2Mqq5PU8zn": {
+      "name": "Seeker",
+      "skin": 0,
+      "char": 7,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 60,
+      "extraweps": [],
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        3
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "099iL2Mqq5PU8zn",
+      "runId": 867807973
+    },
+    "l1U0W9a0z7n9pEQ": {
+      "name": "шаверма",
+      "skin": 0,
+      "char": 7,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 106,
+      "bwep": 77,
+      "extraweps": [],
+      "win": false,
+      "kills": 307,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        19,
+        14,
+        22,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "l1U0W9a0z7n9pEQ",
+      "runId": 867807973
     }
   }
 }
