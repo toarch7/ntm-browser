@@ -1,4 +1,137 @@
 {
   "day": 28,
-  "entries": {}
+  "entries": {
+    "aYizrYaJzYyyJzJ": {
+      "name": "Seeker070",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "extraweps": [],
+      "win": false,
+      "kills": 13,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 3003,
+      "uid": "aYizrYaJzYyyJzJ",
+      "runId": 867807973
+    },
+    "ziQrzbRRArzQIBI": {
+      "name": "Reptilboid",
+      "skin": 0,
+      "char": 2,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 69,
+      "extraweps": [],
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        10,
+        9
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "ziQrzbRRArzQIBI",
+      "runId": 867807973
+    },
+    "Y3FUl2FqvnpbGQ4": {
+      "name": "melt_man00",
+      "skin": 1,
+      "char": 4,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 90,
+      "bwep": 70,
+      "extraweps": [],
+      "win": false,
+      "kills": 349,
+      "ultra": 1,
+      "skills": [
+        1,
+        10,
+        3,
+        14,
+        27,
+        4
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "Y3FUl2FqvnpbGQ4",
+      "runId": 867807973
+    },
+    "7zBqV9X6n63xehl": {
+      "name": "Spetznarojo",
+      "skin": 1,
+      "char": 2,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 62,
+      "extraweps": [],
+      "win": false,
+      "kills": 230,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        19,
+        8,
+        28,
+        21
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "7zBqV9X6n63xehl",
+      "runId": 867807973
+    },
+    "HPfSEWZRNw2KuH1": {
+      "name": "MORO",
+      "skin": 0,
+      "char": 8,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 4,
+      "extraweps": [],
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        1,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HPfSEWZRNw2KuH1",
+      "runId": 867807973
+    },
+    "QSwrK5Q5HesgBFy": {
+      "name": "KevinDeMonkey",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "QSwrK5Q5HesgBFy",
+      "runId": 867807973
+    }
+  }
 }
