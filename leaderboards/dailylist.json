@@ -1,4 +1,75 @@
 {
   "day": 29,
-  "entries": {}
+  "entries": {
+    "677ONt7IID5NlU4": {
+      "name": "artem",
+      "skin": 1,
+      "char": 2,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        27,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "677ONt7IID5NlU4",
+      "runId": 1062262814
+    },
+    "77x12XRgEeDCGWP": {
+      "name": "DegtryxD",
+      "skin": 0,
+      "char": 5,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "77x12XRgEeDCGWP",
+      "runId": 1062262814
+    },
+    "RdDtys8Z51nXS4e": {
+      "name": "LGMC",
+      "skin": 1,
+      "char": 8,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 67,
+      "extraweps": [],
+      "win": false,
+      "kills": 230,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        4,
+        27,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RdDtys8Z51nXS4e",
+      "runId": 1062262814
+    }
+  }
 }
