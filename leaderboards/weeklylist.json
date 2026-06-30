@@ -1779,6 +1779,55 @@
       "version": 2616,
       "uid": "Gy4glfFAFF7aRzZ",
       "runId": 2140369047
+    },
+    "2uhARAvP03oDf0k": {
+      "name": "Trendisaurus",
+      "skin": 1,
+      "char": 8,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 38,
+      "extraweps": [],
+      "win": false,
+      "kills": 167,
+      "ultra": 0,
+      "skills": [
+        8,
+        16,
+        10
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "2uhARAvP03oDf0k",
+      "runId": 2140369047
+    },
+    "qyJBriYQZbZRbRJ": {
+      "name": "nerdir",
+      "skin": 1,
+      "char": 8,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 3,
+      "extraweps": [],
+      "win": false,
+      "kills": 278,
+      "ultra": 0,
+      "skills": [
+        6,
+        23,
+        21,
+        10,
+        28,
+        8
+      ],
+      "crown": 9,
+      "version": 3003,
+      "uid": "qyJBriYQZbZRbRJ",
+      "runId": 2140369047
     }
   }
 }
