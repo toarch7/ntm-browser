@@ -1,4 +1,103 @@
 {
   "day": 30,
-  "entries": {}
+  "entries": {
+    "8o2tT2TaG9o3fwd": {
+      "name": "ZUN",
+      "skin": 0,
+      "char": 6,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "8o2tT2TaG9o3fwd",
+      "runId": 1197236476
+    },
+    "HOuRYAJMpcX2FQL": {
+      "name": "TF2_LMAO",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 5,
+      "extraweps": [],
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        10,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "HOuRYAJMpcX2FQL",
+      "runId": 1197236476
+    },
+    "P605lGb7seOIWli": {
+      "name": "OG09",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 16,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "P605lGb7seOIWli",
+      "runId": 1197236476
+    },
+    "RdDtys8Z51nXS4e": {
+      "name": "LGMC",
+      "skin": 1,
+      "char": 8,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RdDtys8Z51nXS4e",
+      "runId": 1197236476
+    },
+    "1Sdl6cWcl60G26i": {
+      "name": "Jackinglegends",
+      "skin": 0,
+      "char": 1,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 3,
+      "extraweps": [],
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "1Sdl6cWcl60G26i",
+      "runId": 1197236476
+    }
+  }
 }
