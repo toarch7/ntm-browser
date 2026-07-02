@@ -1561,19 +1561,21 @@
       "name": "134",
       "skin": 1,
       "char": 8,
-      "area": 103,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 62,
-      "bwep": 27,
+      "wep": 17,
+      "bwep": 62,
       "extraweps": [],
       "win": false,
-      "kills": 137,
+      "kills": 228,
       "ultra": 0,
       "skills": [
         4,
         16,
-        10
+        22,
+        1,
+        3
       ],
       "crown": 9,
       "version": 2616,
@@ -3284,6 +3286,31 @@
       "crown": 9,
       "version": 2616,
       "uid": "zAunPfwZSdbW1ym",
+      "runId": 2140369047
+    },
+    "j8E6KJ754nkRdp3": {
+      "name": "frozzy44",
+      "skin": 1,
+      "char": 8,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 10,
+      "extraweps": [],
+      "win": false,
+      "kills": 245,
+      "ultra": 0,
+      "skills": [
+        7,
+        13,
+        10,
+        4,
+        3
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "j8E6KJ754nkRdp3",
       "runId": 2140369047
     }
   }
