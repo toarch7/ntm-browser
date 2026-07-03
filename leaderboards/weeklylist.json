@@ -3528,6 +3528,52 @@
       "version": 2616,
       "uid": "hSGb7xG3L1q720S",
       "runId": 2140369047
+    },
+    "qM45r2CH5q0p1DQ": {
+      "name": "Anime",
+      "skin": 1,
+      "char": 8,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 16,
+      "extraweps": [],
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        4,
+        13
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "qM45r2CH5q0p1DQ",
+      "runId": 2140369047
+    },
+    "zc7BFPhJCwyDUNP": {
+      "name": "UwU",
+      "skin": 1,
+      "char": 8,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 38,
+      "extraweps": [],
+      "win": false,
+      "kills": 171,
+      "ultra": 0,
+      "skills": [
+        8,
+        16,
+        10,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "zc7BFPhJCwyDUNP",
+      "runId": 2140369047
     }
   }
 }
