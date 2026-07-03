@@ -3698,6 +3698,57 @@
       "version": 2616,
       "uid": "012Aq37V0Vyh09Z",
       "runId": 2140369047
+    },
+    "r6MY98wd54nVHMl": {
+      "name": "Ziga",
+      "skin": 1,
+      "char": 8,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 116,
+      "bwep": 60,
+      "extraweps": [],
+      "win": false,
+      "kills": 432,
+      "ultra": 0,
+      "skills": [
+        4,
+        13,
+        22,
+        1,
+        3,
+        21,
+        23,
+        27
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "r6MY98wd54nVHMl",
+      "runId": 2140369047
+    },
+    "SK3o5vrIn4236au": {
+      "name": "2ali1",
+      "skin": 1,
+      "char": 8,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        7,
+        16,
+        10
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "SK3o5vrIn4236au",
+      "runId": 2140369047
     }
   }
 }
