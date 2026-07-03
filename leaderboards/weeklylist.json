@@ -3599,6 +3599,56 @@
       "version": 2616,
       "uid": "14aeU8O05ssfF4t",
       "runId": 2140369047
+    },
+    "Tt4Oja1akc5V2hn": {
+      "name": "RandomEntry",
+      "skin": 1,
+      "char": 8,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 229,
+      "ultra": 0,
+      "skills": [
+        7,
+        24,
+        10,
+        1,
+        3
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "Tt4Oja1akc5V2hn",
+      "runId": 2140369047
+    },
+    "QSjIfWD5Z75epw3": {
+      "name": "Xfurtherm",
+      "skin": 1,
+      "char": 8,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 62,
+      "extraweps": [],
+      "win": false,
+      "kills": 250,
+      "ultra": 0,
+      "skills": [
+        8,
+        16,
+        10,
+        1,
+        3
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "QSjIfWD5Z75epw3",
+      "runId": 2140369047
     }
   }
 }
