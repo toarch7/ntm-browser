@@ -657,6 +657,44 @@
       "version": 2616,
       "uid": "TbQ8P9RwAbd46GE",
       "runId": 99281191
+    },
+    "aQBqrIIJzarJqRr": {
+      "name": "anima",
+      "skin": 2,
+      "char": 2,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "extraweps": [],
+      "win": false,
+      "kills": 17,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "aQBqrIIJzarJqRr",
+      "runId": 99281191
+    },
+    "jIbZZZziIzQRqYb": {
+      "name": "Jet",
+      "skin": 1,
+      "char": 10,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "extraweps": [],
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 3004,
+      "uid": "jIbZZZziIzQRqYb",
+      "runId": 99281191
     }
   }
 }
