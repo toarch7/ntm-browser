@@ -233,6 +233,70 @@
       "version": 2616,
       "uid": "HOuRYAJMpcX2FQL",
       "runId": 660231197
+    },
+    "J1310A51338h9Tx": {
+      "name": "Фро́гетик",
+      "skin": 1,
+      "char": 4,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 7,
+      "extraweps": [],
+      "win": false,
+      "kills": 52,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "J1310A51338h9Tx",
+      "runId": 660231197
+    },
+    "op1320st0RMhjrP": {
+      "name": "TheChoosenOne",
+      "skin": 0,
+      "char": 4,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 5,
+      "extraweps": [],
+      "win": false,
+      "kills": 124,
+      "ultra": 0,
+      "skills": [
+        2,
+        3,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "op1320st0RMhjrP",
+      "runId": 660231197
+    },
+    "099iL2Mqq5PU8zn": {
+      "name": "Seeker",
+      "skin": 0,
+      "char": 11,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 2,
+      "extraweps": [],
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        4,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "099iL2Mqq5PU8zn",
+      "runId": 660231197
     }
   }
 }
