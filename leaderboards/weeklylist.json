@@ -3749,6 +3749,51 @@
       "version": 2616,
       "uid": "SK3o5vrIn4236au",
       "runId": 2140369047
+    },
+    "0C4o60WrzlbC8bg": {
+      "name": "garrel_34",
+      "skin": 1,
+      "char": 8,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        8,
+        16
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "0C4o60WrzlbC8bg",
+      "runId": 2140369047
+    },
+    "HrbPs99pki0uWxH": {
+      "name": "mambo",
+      "skin": 1,
+      "char": 8,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 243,
+      "ultra": 0,
+      "skills": [
+        7,
+        10,
+        1
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "HrbPs99pki0uWxH",
+      "runId": 2140369047
     }
   }
 }
