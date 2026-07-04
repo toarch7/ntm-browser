@@ -640,21 +640,22 @@
       "name": "Racnar",
       "skin": 1,
       "char": 8,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 38,
-      "bwep": 62,
+      "wep": 62,
+      "bwep": 0,
       "extraweps": [],
       "win": false,
-      "kills": 248,
+      "kills": 346,
       "ultra": 0,
       "skills": [
-        4,
+        8,
         16,
         10,
         1,
-        3
+        21,
+        4
       ],
       "crown": 9,
       "version": 2616,
@@ -3958,6 +3959,28 @@
       "crown": 9,
       "version": 2616,
       "uid": "Fc8eWikm878h3DR",
+      "runId": 2140369047
+    },
+    "rkG7lnqcbF7xuC5": {
+      "name": "Jom♡♡♡eve",
+      "skin": 1,
+      "char": 8,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 63,
+      "ultra": 0,
+      "skills": [
+        7,
+        16
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "rkG7lnqcbF7xuC5",
       "runId": 2140369047
     }
   }
