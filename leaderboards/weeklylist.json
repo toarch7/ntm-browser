@@ -3691,17 +3691,18 @@
       "skin": 1,
       "char": 8,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 62,
-      "bwep": 27,
+      "wep": 27,
+      "bwep": 0,
       "extraweps": [],
       "win": false,
-      "kills": 94,
+      "kills": 132,
       "ultra": 0,
       "skills": [
         4,
-        16
+        16,
+        10
       ],
       "crown": 9,
       "version": 2616,
@@ -4008,6 +4009,51 @@
       "crown": 9,
       "version": 2616,
       "uid": "dZ0og0zeN3GJ1CR",
+      "runId": 2140369047
+    },
+    "gdWBzDODT7J3E0Z": {
+      "name": "刚刚是是是",
+      "skin": 1,
+      "char": 8,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        4,
+        24
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "gdWBzDODT7J3E0Z",
+      "runId": 2140369047
+    },
+    "190U4b10qFE10Ud": {
+      "name": "JeanXx",
+      "skin": 1,
+      "char": 8,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        8,
+        24,
+        10
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "190U4b10qFE10Ud",
       "runId": 2140369047
     }
   }
