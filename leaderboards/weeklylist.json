@@ -4357,6 +4357,53 @@
       "version": 2616,
       "uid": "zpm11qgo603S0E8",
       "runId": 2140369047
+    },
+    "MFS0Kg0p4Wndx3Y": {
+      "name": "Estelar",
+      "skin": 1,
+      "char": 8,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 78,
+      "extraweps": [],
+      "win": false,
+      "kills": 195,
+      "ultra": 0,
+      "skills": [
+        7,
+        24,
+        12,
+        1,
+        3
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "MFS0Kg0p4Wndx3Y",
+      "runId": 2140369047
+    },
+    "yRQYQaJjyriAazj": {
+      "name": "Seeker450",
+      "skin": 1,
+      "char": 8,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        23,
+        21
+      ],
+      "crown": 9,
+      "version": 3003,
+      "uid": "yRQYQaJjyriAazj",
+      "runId": 2140369047
     }
   }
 }
