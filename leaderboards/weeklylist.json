@@ -373,6 +373,28 @@
       "version": 2616,
       "uid": "j3Ce3QF1Dd2P1QC",
       "runId": 1020503484
+    },
+    "0jx1o30zChWztSw": {
+      "name": "muerte",
+      "skin": 0,
+      "char": 3,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 31,
+      "extraweps": [],
+      "win": false,
+      "kills": 121,
+      "ultra": 0,
+      "skills": [
+        8,
+        13
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "0jx1o30zChWztSw",
+      "runId": 1020503484
     }
   }
 }
