@@ -963,6 +963,52 @@
       "version": 2616,
       "uid": "a9Q2SQ2FN13Y6ax",
       "runId": 1020503484
+    },
+    "z0632RqABtVmeLl": {
+      "name": "Seiya",
+      "skin": 0,
+      "char": 3,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 14,
+      "extraweps": [],
+      "win": false,
+      "kills": 135,
+      "ultra": 0,
+      "skills": [
+        8,
+        14,
+        23,
+        7
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "z0632RqABtVmeLl",
+      "runId": 1020503484
+    },
+    "Vrw4FMrkTSQo00d": {
+      "name": "Manducon~K",
+      "skin": 0,
+      "char": 3,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 14,
+      "extraweps": [],
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        8,
+        14
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "Vrw4FMrkTSQo00d",
+      "runId": 1020503484
     }
   }
 }
