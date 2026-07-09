@@ -820,6 +820,67 @@
       "version": 2616,
       "uid": "210x6rP6Yo632Fq",
       "runId": 1139463238
+    },
+    "aQBqrIIJzarJqRr": {
+      "name": "anima",
+      "skin": 2,
+      "char": 2,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "extraweps": [],
+      "win": false,
+      "kills": 19,
+      "crown": 1,
+      "version": 3004,
+      "uid": "aQBqrIIJzarJqRr",
+      "runId": 1139463238
+    },
+    "B0529b9pboc2Gbu": {
+      "name": "yhel",
+      "skin": 1,
+      "char": 6,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        14,
+        8,
+        17
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "B0529b9pboc2Gbu",
+      "runId": 1139463238
+    },
+    "1DMsRo1BN972zdy": {
+      "name": "Orestes",
+      "skin": 0,
+      "char": 12,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1DMsRo1BN972zdy",
+      "runId": 1139463238
     }
   }
 }
