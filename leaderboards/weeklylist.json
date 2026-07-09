@@ -742,16 +742,15 @@
       "area": 3,
       "subarea": 2,
       "loops": 0,
-      "wep": 3,
+      "wep": 76,
       "bwep": 14,
       "extraweps": [],
       "win": false,
-      "kills": 90,
+      "kills": 134,
       "ultra": 0,
       "skills": [
         8,
-        14,
-        13
+        14
       ],
       "crown": 4,
       "version": 2616,
@@ -1494,6 +1493,29 @@
       "crown": 4,
       "version": 2616,
       "uid": "Nxpd7TK5dIKXN9h",
+      "runId": 1020503484
+    },
+    "35GFhWko20xMY6l": {
+      "name": "isa",
+      "skin": 0,
+      "char": 3,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 52,
+      "bwep": 14,
+      "extraweps": [],
+      "win": false,
+      "kills": 110,
+      "ultra": 0,
+      "skills": [
+        9,
+        14,
+        4
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "35GFhWko20xMY6l",
       "runId": 1020503484
     }
   }
