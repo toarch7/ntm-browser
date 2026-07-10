@@ -707,6 +707,78 @@
       "version": 2616,
       "uid": "1DMsRo1BN972zdy",
       "runId": 1034826855
+    },
+    "0WfxS4drwnwCPQU": {
+      "name": "caroxx",
+      "skin": 0,
+      "char": 2,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 36,
+      "extraweps": [],
+      "win": false,
+      "kills": 245,
+      "ultra": 0,
+      "skills": [
+        7,
+        23,
+        24,
+        2,
+        10,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0WfxS4drwnwCPQU",
+      "runId": 1034826855
+    },
+    "g1h3h87pC5BOqVC": {
+      "name": "keymer",
+      "skin": 1,
+      "char": 3,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 3,
+      "extraweps": [],
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "g1h3h87pC5BOqVC",
+      "runId": 1034826855
+    },
+    "sK3rVg2Z7TH8XV5": {
+      "name": "Deivison_BR",
+      "skin": 0,
+      "char": 2,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 12,
+      "bwep": 20,
+      "extraweps": [],
+      "win": false,
+      "kills": 232,
+      "ultra": 0,
+      "skills": [
+        12,
+        4,
+        10,
+        26,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "sK3rVg2Z7TH8XV5",
+      "runId": 1034826855
     }
   }
 }
