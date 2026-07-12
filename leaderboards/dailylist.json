@@ -219,6 +219,45 @@
       "version": 2616,
       "uid": "zZQJC1YA1I5G73t",
       "runId": 1400837724
+    },
+    "bJQQJrBIIrbziiB": {
+      "name": "Seeker920",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 22,
+      "crown": 1,
+      "version": 3003,
+      "uid": "bJQQJrBIIrbziiB",
+      "runId": 1400837724
+    },
+    "RZJQZQYrJZqrJjQ": {
+      "name": "чел",
+      "skin": 1,
+      "char": 11,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 7,
+      "extraweps": [],
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        27,
+        17
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "RZJQZQYrJZqrJjQ",
+      "runId": 1400837724
     }
   }
 }
