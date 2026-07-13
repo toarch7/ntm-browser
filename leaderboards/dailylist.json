@@ -598,6 +598,93 @@
       "version": 3004,
       "uid": "RAQaiqaabarryZj",
       "runId": 689449050
+    },
+    "JBzIzjZJYyYQjJA": {
+      "name": "sekk",
+      "skin": 1,
+      "char": 16,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 17,
+      "extraweps": [
+        30
+      ],
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        7,
+        28
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "JBzIzjZJYyYQjJA",
+      "runId": 689449050
+    },
+    "7wV598PX7zVatph": {
+      "name": "yupimortal",
+      "skin": 0,
+      "char": 12,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 81,
+      "extraweps": [],
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        1,
+        7,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7wV598PX7zVatph",
+      "runId": 689449050
+    },
+    "W6525l2dk4Q4dSF": {
+      "name": "Seeker90",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "W6525l2dk4Q4dSF",
+      "runId": 689449050
+    },
+    "yrGn5VMs38nzIwU": {
+      "name": "Volcan0",
+      "skin": 0,
+      "char": 9,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 46,
+      "extraweps": [],
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "yrGn5VMs38nzIwU",
+      "runId": 689449050
     }
   }
 }
