@@ -846,6 +846,50 @@
       "version": 2616,
       "uid": "fCC896VyFVQE9xr",
       "runId": 690856350
+    },
+    "a9Q2SQ2FN13Y6ax": {
+      "name": "Racnar",
+      "skin": 0,
+      "char": 2,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a9Q2SQ2FN13Y6ax",
+      "runId": 690856350
+    },
+    "7wV598PX7zVatph": {
+      "name": "yupimortal",
+      "skin": 0,
+      "char": 7,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 33,
+      "extraweps": [],
+      "win": false,
+      "kills": 347,
+      "ultra": 0,
+      "skills": [
+        14,
+        4,
+        9,
+        27,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7wV598PX7zVatph",
+      "runId": 690856350
     }
   }
 }
