@@ -488,19 +488,19 @@
       "name": "EZEQUIELX6",
       "skin": 0,
       "char": 6,
-      "area": 104,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 33,
-      "bwep": 20,
+      "wep": 88,
+      "bwep": 33,
       "extraweps": [],
       "win": false,
-      "kills": 167,
+      "kills": 248,
       "ultra": 0,
       "skills": [
-        19,
         7,
-        17
+        3,
+        8
       ],
       "crown": 13,
       "version": 2616,
@@ -1444,6 +1444,52 @@
       "crown": 13,
       "version": 2616,
       "uid": "62HdD8b9Lnfj41R",
+      "runId": 1496465905
+    },
+    "jG7KUse9hcHnsBj": {
+      "name": "8710G4",
+      "skin": 0,
+      "char": 6,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 37,
+      "extraweps": [],
+      "win": false,
+      "kills": 248,
+      "ultra": 0,
+      "skills": [
+        9,
+        27,
+        3,
+        12
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "jG7KUse9hcHnsBj",
+      "runId": 1496465905
+    },
+    "CVzZ2t7Lfaat0Bq": {
+      "name": "PUNI♡♡♡ER",
+      "skin": 0,
+      "char": 6,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 33,
+      "extraweps": [],
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        28,
+        25
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "CVzZ2t7Lfaat0Bq",
       "runId": 1496465905
     }
   }
