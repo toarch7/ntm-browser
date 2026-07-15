@@ -452,6 +452,84 @@
       "version": 2616,
       "uid": "6BPv58E02y6b0jf",
       "runId": 1431021828
+    },
+    "7wV598PX7zVatph": {
+      "name": "yupimortal",
+      "skin": 0,
+      "char": 2,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 27,
+      "extraweps": [],
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7wV598PX7zVatph",
+      "runId": 1431021828
+    },
+    "4e7i0CN7g9vw02i": {
+      "name": "hardcore",
+      "skin": 1,
+      "char": 3,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "extraweps": [],
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "4e7i0CN7g9vw02i",
+      "runId": 1431021828
+    },
+    "1wZM4Hno1RY4Nr2": {
+      "name": "саид",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "1wZM4Hno1RY4Nr2",
+      "runId": 1431021828
+    },
+    "x79u1zQ4lX6n18Z": {
+      "name": "null",
+      "skin": 0,
+      "char": 7,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "extraweps": [],
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        7,
+        26,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "x79u1zQ4lX6n18Z",
+      "runId": 1431021828
     }
   }
 }
