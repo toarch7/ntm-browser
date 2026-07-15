@@ -386,6 +386,72 @@
       "version": 2616,
       "uid": "0WfxS4drwnwCPQU",
       "runId": 1431021828
+    },
+    "KtZrE6Pv61f3H3v": {
+      "name": "cuartode",
+      "skin": 0,
+      "char": 8,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "KtZrE6Pv61f3H3v",
+      "runId": 1431021828
+    },
+    "3LL0dP4hbm906m7": {
+      "name": "ismael",
+      "skin": 1,
+      "char": 2,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 5,
+      "extraweps": [],
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3LL0dP4hbm906m7",
+      "runId": 1431021828
+    },
+    "6BPv58E02y6b0jf": {
+      "name": "Лапатепа",
+      "skin": 0,
+      "char": 7,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 49,
+      "bwep": 118,
+      "extraweps": [],
+      "win": false,
+      "kills": 467,
+      "ultra": 0,
+      "skills": [
+        3,
+        4,
+        16,
+        21,
+        1,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6BPv58E02y6b0jf",
+      "runId": 1431021828
     }
   }
 }
