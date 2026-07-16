@@ -1270,18 +1270,20 @@
       "name": "ilikemoni",
       "skin": 0,
       "char": 6,
-      "area": 3,
-      "subarea": 2,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 10,
-      "bwep": 33,
+      "wep": 11,
+      "bwep": 20,
       "extraweps": [],
       "win": false,
-      "kills": 123,
+      "kills": 169,
       "ultra": 0,
       "skills": [
         7,
-        27
+        27,
+        3,
+        21
       ],
       "crown": 13,
       "version": 2616,
@@ -2662,6 +2664,29 @@
       "crown": 13,
       "version": 2616,
       "uid": "op1320st0RMhjrP",
+      "runId": 1496465905
+    },
+    "HOuRYAJMpcX2FQL": {
+      "name": "TF2_LMAO",
+      "skin": 0,
+      "char": 6,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 20,
+      "extraweps": [],
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        14,
+        9,
+        10
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "HOuRYAJMpcX2FQL",
       "runId": 1496465905
     }
   }
