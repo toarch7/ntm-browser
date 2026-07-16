@@ -2631,18 +2631,19 @@
       "skin": 0,
       "char": 6,
       "area": 5,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
       "wep": 88,
       "bwep": 119,
       "extraweps": [],
       "win": false,
-      "kills": 214,
+      "kills": 253,
       "ultra": 0,
       "skills": [
         7,
         8,
-        10
+        10,
+        14
       ],
       "crown": 13,
       "version": 2616,
@@ -2832,6 +2833,28 @@
       "crown": 13,
       "version": 2616,
       "uid": "ihW2tc9W20kmu97",
+      "runId": 1496465905
+    },
+    "D5nPx240279woWc": {
+      "name": "BuErGo",
+      "skin": 0,
+      "char": 6,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 33,
+      "extraweps": [],
+      "win": false,
+      "kills": 112,
+      "ultra": 0,
+      "skills": [
+        9,
+        8
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "D5nPx240279woWc",
       "runId": 1496465905
     }
   }
