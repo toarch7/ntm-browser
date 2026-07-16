@@ -596,6 +596,94 @@
       "version": 2616,
       "uid": "qs2xEIvafIWnICQ",
       "runId": 1263812254
+    },
+    "80Os6t13CJ5A6bC": {
+      "name": "Neurotrauma",
+      "skin": 0,
+      "char": 2,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 3,
+      "extraweps": [],
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        6,
+        14,
+        7,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "80Os6t13CJ5A6bC",
+      "runId": 1263812254
+    },
+    "KtZrE6Pv61f3H3v": {
+      "name": "cuartode",
+      "skin": 0,
+      "char": 8,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 9,
+      "extraweps": [],
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        2,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "KtZrE6Pv61f3H3v",
+      "runId": 1263812254
+    },
+    "ijBAYZyYjyjbaRz": {
+      "name": "Г♡♡♡Н",
+      "skin": 0,
+      "char": 11,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "ijBAYZyYjyjbaRz",
+      "runId": 1263812254
+    },
+    "zjYYzRqiiJIjaaz": {
+      "name": "Jet",
+      "skin": 1,
+      "char": 6,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "zjYYzRqiiJIjaaz",
+      "runId": 1263812254
     }
   }
 }
