@@ -1,4 +1,100 @@
 {
   "day": 17,
-  "entries": {}
+  "entries": {
+    "zRiayRjAIqyriyB": {
+      "name": "yupimortal",
+      "skin": 0,
+      "char": 2,
+      "area": 5,
+      "subarea": 2,
+      "loops": 1,
+      "wep": 111,
+      "bwep": 37,
+      "extraweps": [],
+      "win": false,
+      "kills": 753,
+      "ultra": 2,
+      "skills": [
+        14,
+        22,
+        8,
+        25,
+        9,
+        23,
+        27
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "zRiayRjAIqyriyB",
+      "runId": 1312884271
+    },
+    "S6tzFa3AHW6GoYK": {
+      "name": "Qozz",
+      "skin": 0,
+      "char": 6,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "S6tzFa3AHW6GoYK",
+      "runId": 1312884271
+    },
+    "v92b05qCFoL0wIL": {
+      "name": "NEMESIS",
+      "skin": 0,
+      "char": 2,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 4,
+      "extraweps": [],
+      "win": false,
+      "kills": 283,
+      "ultra": 0,
+      "skills": [
+        9,
+        23,
+        1,
+        12,
+        8,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "v92b05qCFoL0wIL",
+      "runId": 1312884271
+    },
+    "B74n1Tm6qTitq0o": {
+      "name": "hardcore",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "extraweps": [],
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "B74n1Tm6qTitq0o",
+      "runId": 1312884271
+    }
+  }
 }
