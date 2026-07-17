@@ -2724,19 +2724,21 @@
       "name": "jmlpcrack",
       "skin": 0,
       "char": 6,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 33,
-      "bwep": 6,
+      "wep": 25,
+      "bwep": 14,
       "extraweps": [],
       "win": false,
-      "kills": 136,
+      "kills": 397,
       "ultra": 0,
       "skills": [
         14,
-        7,
-        8
+        2,
+        27,
+        24,
+        10
       ],
       "crown": 13,
       "version": 2616,
@@ -2993,6 +2995,30 @@
       "crown": 13,
       "version": 2616,
       "uid": "0dVh0I86otXWGZt",
+      "runId": 1496465905
+    },
+    "ajaiabAIYIJBAyZ": {
+      "name": "Seeker757",
+      "skin": 2,
+      "char": 6,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 112,
+      "extraweps": [],
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        25,
+        9,
+        14,
+        28
+      ],
+      "crown": 13,
+      "version": 3004,
+      "uid": "ajaiabAIYIJBAyZ",
       "runId": 1496465905
     }
   }
