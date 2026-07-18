@@ -824,17 +824,22 @@
       "name": "s♡♡♡o",
       "skin": 0,
       "char": 6,
-      "area": 2,
-      "subarea": 1,
-      "loops": 0,
-      "wep": 20,
-      "bwep": 33,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 33,
+      "bwep": 26,
       "extraweps": [],
       "win": false,
-      "kills": 88,
+      "kills": 580,
       "ultra": 0,
       "skills": [
-        7
+        7,
+        27,
+        10,
+        8,
+        4,
+        6
       ],
       "crown": 13,
       "version": 2616,
@@ -3360,6 +3365,29 @@
       "crown": 13,
       "version": 2616,
       "uid": "e89t9kW7A4X58WM",
+      "runId": 1496465905
+    },
+    "S2mZIZPQg2uh4wT": {
+      "name": "cdobleta",
+      "skin": 0,
+      "char": 6,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 10,
+      "extraweps": [],
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        28,
+        7,
+        24
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "S2mZIZPQg2uh4wT",
       "runId": 1496465905
     }
   }
