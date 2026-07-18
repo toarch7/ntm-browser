@@ -3524,19 +3524,20 @@
       "name": "wazas",
       "skin": 0,
       "char": 6,
-      "area": 5,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 88,
-      "bwep": 33,
+      "wep": 77,
+      "bwep": 30,
       "extraweps": [],
       "win": false,
-      "kills": 67,
+      "kills": 199,
       "ultra": 0,
       "skills": [
         25,
         3,
-        8
+        10,
+        12
       ],
       "crown": 13,
       "version": 2616,
@@ -3589,6 +3590,50 @@
       "crown": 13,
       "version": 2616,
       "uid": "U7EH5D19A3Tst12",
+      "runId": 1496465905
+    },
+    "cE6W3fvh74w6VRA": {
+      "name": "leon333",
+      "skin": 0,
+      "char": 6,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 10,
+      "extraweps": [],
+      "win": false,
+      "kills": 173,
+      "ultra": 0,
+      "skills": [
+        7,
+        27,
+        10
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "cE6W3fvh74w6VRA",
+      "runId": 1496465905
+    },
+    "E4F71H8Icy67172": {
+      "name": "effie",
+      "skin": 0,
+      "char": 6,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 4,
+      "extraweps": [],
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "E4F71H8Icy67172",
       "runId": 1496465905
     }
   }
