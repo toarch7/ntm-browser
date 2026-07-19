@@ -1739,18 +1739,18 @@
       "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 36,
-      "bwep": 30,
+      "wep": 37,
+      "bwep": 68,
       "extraweps": [],
       "win": false,
-      "kills": 381,
+      "kills": 390,
       "ultra": 0,
       "skills": [
         14,
         25,
         3,
         27,
-        7,
+        10,
         8,
         4,
         6
@@ -3900,6 +3900,95 @@
       "crown": 13,
       "version": 2616,
       "uid": "33LQGMZC4gW1lKz",
+      "runId": 1496465905
+    },
+    "Ra5k3cTHJFaEGC7": {
+      "name": "MAXLJMM",
+      "skin": 0,
+      "char": 6,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 16,
+      "extraweps": [],
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        28,
+        7,
+        8,
+        3
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "Ra5k3cTHJFaEGC7",
+      "runId": 1496465905
+    },
+    "S46qz51eYBh8e2D": {
+      "name": "casa",
+      "skin": 0,
+      "char": 6,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 33,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "S46qz51eYBh8e2D",
+      "runId": 1496465905
+    },
+    "7e1r0aAdCL4FnLN": {
+      "name": "brosler",
+      "skin": 0,
+      "char": 6,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 33,
+      "extraweps": [],
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        14,
+        25
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "7e1r0aAdCL4FnLN",
+      "runId": 1496465905
+    },
+    "nb8Aq63znSo2o42": {
+      "name": "jose",
+      "skin": 0,
+      "char": 6,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 33,
+      "extraweps": [],
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        14,
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "nb8Aq63znSo2o42",
       "runId": 1496465905
     }
   }
