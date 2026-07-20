@@ -1,4 +1,153 @@
 {
   "seed": 1412442604,
-  "entries": {}
+  "entries": {
+    "c836p19XO0opUEV": {
+      "name": "alex",
+      "skin": 1,
+      "char": 6,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 14,
+      "extraweps": [],
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        28,
+        21,
+        3,
+        19
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "c836p19XO0opUEV",
+      "runId": 1412442604
+    },
+    "Y3FUl2FqvnpbGQ4": {
+      "name": "melt_man00",
+      "skin": 1,
+      "char": 6,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 70,
+      "extraweps": [],
+      "win": false,
+      "kills": 173,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        19,
+        3,
+        17,
+        24,
+        21
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "Y3FUl2FqvnpbGQ4",
+      "runId": 1412442604
+    },
+    "15fVJ9aJzXG0Crp": {
+      "name": "jhoa",
+      "skin": 1,
+      "char": 6,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 2,
+      "extraweps": [],
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        19,
+        3,
+        17
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "15fVJ9aJzXG0Crp",
+      "runId": 1412442604
+    },
+    "yIJqzJJyyqaJqIy": {
+      "name": "Rednui",
+      "skin": 1,
+      "char": 6,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 27,
+      "extraweps": [],
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        10
+      ],
+      "crown": 8,
+      "version": 3004,
+      "uid": "yIJqzJJyyqaJqIy",
+      "runId": 1412442604
+    },
+    "J1310A51338h9Tx": {
+      "name": "Фро́гетик",
+      "skin": 1,
+      "char": 6,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 27,
+      "extraweps": [],
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        19,
+        3,
+        17
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "J1310A51338h9Tx",
+      "runId": 1412442604
+    },
+    "RAQaiqaabarryZj": {
+      "name": "MayMay",
+      "skin": 1,
+      "char": 6,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 61,
+      "extraweps": [],
+      "win": false,
+      "kills": 117,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        10,
+        17
+      ],
+      "crown": 8,
+      "version": 3004,
+      "uid": "RAQaiqaabarryZj",
+      "runId": 1412442604
+    }
+  }
 }
