@@ -479,6 +479,95 @@
       "version": 2616,
       "uid": "VI2ho6kBcA2ymXx",
       "runId": 95725006
+    },
+    "W1Z9n5oMKAoI88G": {
+      "name": "LASD9<3",
+      "skin": 1,
+      "char": 2,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        25,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "W1Z9n5oMKAoI88G",
+      "runId": 95725006
+    },
+    "ArzAIBAQqrriJRA": {
+      "name": "Seeke",
+      "skin": 0,
+      "char": 4,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 59,
+      "bwep": 62,
+      "extraweps": [],
+      "win": false,
+      "kills": 332,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        14,
+        1,
+        6,
+        8,
+        21
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "ArzAIBAQqrriJRA",
+      "runId": 95725006
+    },
+    "BUxK0QHDi5b559a": {
+      "name": "ROKEN",
+      "skin": 1,
+      "char": 8,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "BUxK0QHDi5b559a",
+      "runId": 95725006
+    },
+    "v92b05qCFoL0wIL": {
+      "name": "NEMESIS",
+      "skin": 0,
+      "char": 2,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 3,
+      "extraweps": [],
+      "win": false,
+      "kills": 137,
+      "ultra": 0,
+      "skills": [
+        23,
+        9,
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "v92b05qCFoL0wIL",
+      "runId": 95725006
     }
   }
 }
