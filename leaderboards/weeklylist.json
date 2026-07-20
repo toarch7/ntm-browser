@@ -473,10 +473,10 @@
       "subarea": 1,
       "loops": 0,
       "wep": 14,
-      "bwep": 6,
+      "bwep": 4,
       "extraweps": [],
       "win": false,
-      "kills": 55,
+      "kills": 57,
       "ultra": 0,
       "skills": [
         25,
@@ -539,6 +539,30 @@
       "crown": 8,
       "version": 2616,
       "uid": "l565NP61pv9x08J",
+      "runId": 1412442604
+    },
+    "zbIRyiZqYriiQiB": {
+      "name": "diego",
+      "skin": 1,
+      "char": 6,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 61,
+      "extraweps": [],
+      "win": false,
+      "kills": 121,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        10,
+        17
+      ],
+      "crown": 8,
+      "version": 3002,
+      "uid": "zbIRyiZqYriiQiB",
       "runId": 1412442604
     }
   }

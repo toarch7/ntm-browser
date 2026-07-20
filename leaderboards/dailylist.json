@@ -657,6 +657,93 @@
       "version": 2616,
       "uid": "7AOm5LwN8i7KFj2",
       "runId": 95725006
+    },
+    "6PeTefTF760cfpP": {
+      "name": "Yarix",
+      "skin": 1,
+      "char": 2,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 26,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "6PeTefTF760cfpP",
+      "runId": 95725006
+    },
+    "3GI0T8z4cJ3I6RA": {
+      "name": "Karma",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 15,
+      "crown": 1,
+      "version": 2616,
+      "uid": "3GI0T8z4cJ3I6RA",
+      "runId": 95725006
+    },
+    "QYIQYZAYiziQzYI": {
+      "name": "Prol",
+      "skin": 0,
+      "char": 5,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 124,
+      "extraweps": [],
+      "win": false,
+      "kills": 286,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        14,
+        1,
+        23,
+        8
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "QYIQYZAYiziQzYI",
+      "runId": 95725006
+    },
+    "nN88gqpQ43r1IDn": {
+      "name": "FLAKSI",
+      "skin": 0,
+      "char": 1,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 14,
+      "extraweps": [],
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        13,
+        6,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "nN88gqpQ43r1IDn",
+      "runId": 95725006
     }
   }
 }
