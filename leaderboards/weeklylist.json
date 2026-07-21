@@ -549,11 +549,11 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 76,
-      "bwep": 70,
+      "wep": 74,
+      "bwep": 76,
       "extraweps": [],
       "win": false,
-      "kills": 226,
+      "kills": 236,
       "ultra": 0,
       "skills": [
         8,
@@ -728,13 +728,13 @@
       "skin": 1,
       "char": 6,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 19,
-      "bwep": 14,
+      "wep": 61,
+      "bwep": 50,
       "extraweps": [],
       "win": false,
-      "kills": 134,
+      "kills": 144,
       "ultra": 0,
       "skills": [
         25,
@@ -954,6 +954,30 @@
       "crown": 8,
       "version": 3004,
       "uid": "QYIQYZAYiziQzYI",
+      "runId": 1412442604
+    },
+    "obq6k8x7PumIUYC": {
+      "name": "destroyer",
+      "skin": 1,
+      "char": 6,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 69,
+      "extraweps": [],
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        25,
+        19,
+        8,
+        3
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "obq6k8x7PumIUYC",
       "runId": 1412442604
     }
   }
