@@ -1272,6 +1272,56 @@
       "version": 2616,
       "uid": "ZP06EIrTJb8lKl8",
       "runId": 1412442604
+    },
+    "dsls1s49wHIXdVD": {
+      "name": "See",
+      "skin": 1,
+      "char": 6,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        25,
+        19,
+        8,
+        3
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "dsls1s49wHIXdVD",
+      "runId": 1412442604
+    },
+    "zAjzqzqBrbrzIjI": {
+      "name": "batataoop",
+      "skin": 1,
+      "char": 6,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 22,
+      "bwep": 55,
+      "extraweps": [],
+      "win": false,
+      "kills": 237,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        10,
+        17,
+        24,
+        7
+      ],
+      "crown": 8,
+      "version": 3004,
+      "uid": "zAjzqzqBrbrzIjI",
+      "runId": 1412442604
     }
   }
 }
