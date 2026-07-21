@@ -932,6 +932,29 @@
       "version": 2616,
       "uid": "qs2xEIvafIWnICQ",
       "runId": 1412442604
+    },
+    "QYIQYZAYiziQzYI": {
+      "name": "Prol",
+      "skin": 1,
+      "char": 6,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 66,
+      "extraweps": [],
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        10
+      ],
+      "crown": 8,
+      "version": 3004,
+      "uid": "QYIQYZAYiziQzYI",
+      "runId": 1412442604
     }
   }
 }
