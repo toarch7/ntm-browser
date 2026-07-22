@@ -963,11 +963,11 @@
       "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 6,
-      "bwep": 14,
+      "wep": 14,
+      "bwep": 75,
       "extraweps": [],
       "win": false,
-      "kills": 75,
+      "kills": 90,
       "ultra": 0,
       "skills": [
         25,
@@ -1321,6 +1321,58 @@
       "crown": 8,
       "version": 3004,
       "uid": "zAjzqzqBrbrzIjI",
+      "runId": 1412442604
+    },
+    "zIpMjkLEZOB036P": {
+      "name": "BrMan",
+      "skin": 1,
+      "char": 6,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 199,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        19,
+        3,
+        17,
+        24,
+        21
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "zIpMjkLEZOB036P",
+      "runId": 1412442604
+    },
+    "3TA992pEMOU1sUu": {
+      "name": "Rube_21",
+      "skin": 1,
+      "char": 6,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 75,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        19,
+        3,
+        17
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "3TA992pEMOU1sUu",
       "runId": 1412442604
     }
   }
