@@ -765,6 +765,108 @@
       "version": 2616,
       "uid": "PnsNAs2pz48t3dr",
       "runId": 1237745150
+    },
+    "qJYRZjqaRRyiqyI": {
+      "name": "elvissant",
+      "skin": 1,
+      "char": 5,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 37,
+      "extraweps": [],
+      "win": false,
+      "kills": 316,
+      "ultra": 0,
+      "skills": [
+        3,
+        8,
+        1,
+        4,
+        27,
+        9,
+        6
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "qJYRZjqaRRyiqyI",
+      "runId": 1237745150
+    },
+    "h1U1dg3Bp50iw45": {
+      "name": "Max",
+      "skin": 0,
+      "char": 8,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 15,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "h1U1dg3Bp50iw45",
+      "runId": 1237745150
+    },
+    "kgF11ATx8DfJ955": {
+      "name": "(AQUILES)",
+      "skin": 1,
+      "char": 8,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 111,
+      "bwep": 74,
+      "extraweps": [],
+      "win": false,
+      "kills": 391,
+      "ultra": 2,
+      "skills": [
+        3,
+        4,
+        8,
+        13,
+        28,
+        26,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "kgF11ATx8DfJ955",
+      "runId": 1237745150
+    },
+    "z0632RqABtVmeLl": {
+      "name": "Seiya",
+      "skin": 1,
+      "char": 8,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 217,
+      "ultra": 0,
+      "skills": [
+        25,
+        27,
+        1,
+        28,
+        8,
+        10,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "z0632RqABtVmeLl",
+      "runId": 1237745150
     }
   }
 }
