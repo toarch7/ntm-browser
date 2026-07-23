@@ -584,6 +584,58 @@
       "version": 3004,
       "uid": "QyjaBJRJQijAqzR",
       "runId": 975800434
+    },
+    "qJYRZjqaRRyiqyI": {
+      "name": "elvissant",
+      "skin": 1,
+      "char": 5,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 36,
+      "extraweps": [],
+      "win": false,
+      "kills": 282,
+      "ultra": 0,
+      "skills": [
+        1,
+        13,
+        21,
+        4,
+        23,
+        10
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "qJYRZjqaRRyiqyI",
+      "runId": 975800434
+    },
+    "gQ13kS3RPknYoS4": {
+      "name": "wazas",
+      "skin": 1,
+      "char": 2,
+      "area": 5,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 92,
+      "bwep": 111,
+      "extraweps": [],
+      "win": false,
+      "kills": 1084,
+      "ultra": 1,
+      "skills": [
+        27,
+        6,
+        1,
+        7,
+        12,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gQ13kS3RPknYoS4",
+      "runId": 975800434
     }
   }
 }
