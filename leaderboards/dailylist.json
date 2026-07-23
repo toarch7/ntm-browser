@@ -1,4 +1,32 @@
 {
   "day": 23,
-  "entries": {}
+  "entries": {
+    "1wZM4Hno1RY4Nr2": {
+      "name": "саид",
+      "skin": 1,
+      "char": 2,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 76,
+      "bwep": 116,
+      "extraweps": [],
+      "win": false,
+      "kills": 357,
+      "ultra": 0,
+      "skills": [
+        8,
+        24,
+        10,
+        27,
+        7,
+        28,
+        9
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "1wZM4Hno1RY4Nr2",
+      "runId": 975800434
+    }
+  }
 }
