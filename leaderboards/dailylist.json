@@ -157,6 +157,50 @@
       "version": 2616,
       "uid": "aga4P913IfMn8bO",
       "runId": 728224077
+    },
+    "kWWKaa1pKARBgAp": {
+      "name": "Cwet",
+      "skin": 1,
+      "char": 2,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 15,
+      "extraweps": [],
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        22,
+        9
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "kWWKaa1pKARBgAp",
+      "runId": 728224077
+    },
+    "qs2xEIvafIWnICQ": {
+      "name": "Silent",
+      "skin": 0,
+      "char": 8,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        22,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qs2xEIvafIWnICQ",
+      "runId": 728224077
     }
   }
 }
