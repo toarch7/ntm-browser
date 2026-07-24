@@ -106,13 +106,13 @@
       "skin": 1,
       "char": 6,
       "area": 3,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 19,
-      "bwep": 14,
+      "wep": 5,
+      "bwep": 72,
       "extraweps": [],
       "win": false,
-      "kills": 115,
+      "kills": 144,
       "ultra": 0,
       "skills": [
         25,
@@ -120,7 +120,8 @@
         19,
         3,
         17,
-        24
+        24,
+        21
       ],
       "crown": 8,
       "version": 2616,
@@ -2034,6 +2035,28 @@
       "crown": 8,
       "version": 2616,
       "uid": "s027in1txKotyN6",
+      "runId": 1412442604
+    },
+    "QIajQJJAYiRRzYy": {
+      "name": "Seeker365",
+      "skin": 1,
+      "char": 6,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        8,
+        6
+      ],
+      "crown": 8,
+      "version": 3003,
+      "uid": "QIajQJJAYiRRzYy",
       "runId": 1412442604
     }
   }
