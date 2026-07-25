@@ -1,4 +1,71 @@
 {
   "day": 25,
-  "entries": {}
+  "entries": {
+    "hvkzQ06613RG6D2": {
+      "name": "jesus",
+      "skin": 1,
+      "char": 2,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 27,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "hvkzQ06613RG6D2",
+      "runId": 1610466851
+    },
+    "qs2xEIvafIWnICQ": {
+      "name": "Silent",
+      "skin": 0,
+      "char": 5,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qs2xEIvafIWnICQ",
+      "runId": 1610466851
+    },
+    "S6tzFa3AHW6GoYK": {
+      "name": "Qozz",
+      "skin": 0,
+      "char": 6,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 44,
+      "extraweps": [],
+      "win": false,
+      "kills": 332,
+      "ultra": 0,
+      "skills": [
+        4,
+        22,
+        2,
+        7,
+        12,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "S6tzFa3AHW6GoYK",
+      "runId": 1610466851
+    }
+  }
 }
