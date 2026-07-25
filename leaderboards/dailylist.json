@@ -295,6 +295,76 @@
       "version": 2616,
       "uid": "kWWKaa1pKARBgAp",
       "runId": 1610466851
+    },
+    "BUxK0QHDi5b559a": {
+      "name": "ROKEN",
+      "skin": 1,
+      "char": 8,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 56,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "BUxK0QHDi5b559a",
+      "runId": 1610466851
+    },
+    "Jcf5KI4Xe2U9U7a": {
+      "name": "null",
+      "skin": 1,
+      "char": 2,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        4,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Jcf5KI4Xe2U9U7a",
+      "runId": 1610466851
+    },
+    "J1310A51338h9Tx": {
+      "name": "Фро́гетик",
+      "skin": 1,
+      "char": 2,
+      "area": 6,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 13,
+      "bwep": 111,
+      "extraweps": [],
+      "win": false,
+      "kills": 1639,
+      "ultra": 1,
+      "skills": [
+        4,
+        14,
+        8,
+        7,
+        23,
+        13,
+        10
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "J1310A51338h9Tx",
+      "runId": 1610466851
     }
   }
 }
