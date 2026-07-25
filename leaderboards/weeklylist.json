@@ -2264,6 +2264,32 @@
       "version": 2616,
       "uid": "5uAKYi5ra8v0fvp",
       "runId": 1412442604
+    },
+    "8J368clcZC80VsW": {
+      "name": "Deimos",
+      "skin": 1,
+      "char": 6,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 76,
+      "extraweps": [],
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        19,
+        3,
+        17,
+        24
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "8J368clcZC80VsW",
+      "runId": 1412442604
     }
   }
 }
