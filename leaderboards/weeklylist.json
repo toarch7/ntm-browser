@@ -1469,14 +1469,14 @@
       "name": "Qozz",
       "skin": 1,
       "char": 6,
-      "area": 103,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 2,
-      "bwep": 19,
+      "wep": 58,
+      "bwep": 30,
       "extraweps": [],
       "win": false,
-      "kills": 122,
+      "kills": 343,
       "ultra": 0,
       "skills": [
         25,
@@ -1484,7 +1484,9 @@
         19,
         3,
         17,
-        24
+        24,
+        21,
+        28
       ],
       "crown": 8,
       "version": 2616,
@@ -2472,6 +2474,56 @@
       "crown": 8,
       "version": 2616,
       "uid": "6PeTefTF760cfpP",
+      "runId": 1412442604
+    },
+    "63U2n5bUo99FYQf": {
+      "name": "Sparda",
+      "skin": 1,
+      "char": 6,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 50,
+      "extraweps": [],
+      "win": false,
+      "kills": 190,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        19,
+        3,
+        17,
+        24,
+        21
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "63U2n5bUo99FYQf",
+      "runId": 1412442604
+    },
+    "ZziAYiqJqAQirRZ": {
+      "name": "Jay",
+      "skin": 1,
+      "char": 6,
+      "area": 102,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        10
+      ],
+      "crown": 8,
+      "version": 3004,
+      "uid": "ZziAYiqJqAQirRZ",
       "runId": 1412442604
     }
   }
