@@ -2420,6 +2420,59 @@
       "version": 2616,
       "uid": "vfGjI3R4vifbfnT",
       "runId": 1412442604
+    },
+    "0A904k2N4wB9aZL": {
+      "name": "sisy",
+      "skin": 1,
+      "char": 6,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 27,
+      "extraweps": [],
+      "win": false,
+      "kills": 99,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        19,
+        3,
+        17,
+        24
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "0A904k2N4wB9aZL",
+      "runId": 1412442604
+    },
+    "6PeTefTF760cfpP": {
+      "name": "Yarix",
+      "skin": 1,
+      "char": 6,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 70,
+      "extraweps": [],
+      "win": false,
+      "kills": 202,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        19,
+        3,
+        17,
+        24,
+        21
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "6PeTefTF760cfpP",
+      "runId": 1412442604
     }
   }
 }
