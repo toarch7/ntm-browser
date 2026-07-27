@@ -566,6 +566,65 @@
       "version": 2616,
       "uid": "a9Q2SQ2FN13Y6ax",
       "runId": 1514328759
+    },
+    "EPR7tNzgGp9n4TX": {
+      "name": "fogg",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "EPR7tNzgGp9n4TX",
+      "runId": 1514328759
+    },
+    "iBRJYAZjzjzjAaA": {
+      "name": "Seeker713",
+      "skin": 0,
+      "char": 2,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 75,
+      "extraweps": [],
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        27,
+        8,
+        9
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "iBRJYAZjzjzjAaA",
+      "runId": 1514328759
+    },
+    "17365naAJX8a4p9": {
+      "name": "ipyree",
+      "skin": 0,
+      "char": 12,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "17365naAJX8a4p9",
+      "runId": 1514328759
     }
   }
 }
