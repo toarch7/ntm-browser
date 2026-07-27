@@ -96,18 +96,20 @@
       "skin": 1,
       "char": 11,
       "area": 7,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 36,
+      "wep": 119,
       "bwep": 117,
       "extraweps": [],
       "win": false,
-      "kills": 185,
+      "kills": 306,
       "ultra": 0,
       "skills": [
         14,
         1,
-        4
+        28,
+        19,
+        27
       ],
       "crown": 3,
       "version": 3004,
@@ -623,13 +625,13 @@
       "subarea": 1,
       "loops": 0,
       "wep": 13,
-      "bwep": 71,
+      "bwep": 36,
       "extraweps": [],
       "win": false,
-      "kills": 54,
+      "kills": 63,
       "ultra": 0,
       "skills": [
-        21
+        17
       ],
       "crown": 3,
       "version": 2616,
@@ -753,6 +755,51 @@
       "crown": 3,
       "version": 2616,
       "uid": "4Hx6l9tfW93i9G3",
+      "runId": 195509984
+    },
+    "jOj98LKx540NkkY": {
+      "name": "Supreme",
+      "skin": 0,
+      "char": 11,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 27,
+      "extraweps": [],
+      "win": false,
+      "kills": 94,
+      "ultra": 0,
+      "skills": [
+        10,
+        23
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "jOj98LKx540NkkY",
+      "runId": 195509984
+    },
+    "22s9O8oT4TMXGNa": {
+      "name": "Eddy",
+      "skin": 0,
+      "char": 11,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        12
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "22s9O8oT4TMXGNa",
       "runId": 195509984
     }
   }
