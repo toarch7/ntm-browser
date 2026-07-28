@@ -1281,6 +1281,50 @@
       "version": 3003,
       "uid": "JAqQqYBjBZairyB",
       "runId": 195509984
+    },
+    "vF074SJ3jf2CC1I": {
+      "name": "Seeker",
+      "skin": 0,
+      "char": 11,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 38,
+      "extraweps": [],
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        21,
+        12,
+        14
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "vF074SJ3jf2CC1I",
+      "runId": 195509984
+    },
+    "sK3rVg2Z7TH8XV5": {
+      "name": "Deivison_BR",
+      "skin": 0,
+      "char": 11,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 4,
+      "extraweps": [],
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "sK3rVg2Z7TH8XV5",
+      "runId": 195509984
     }
   }
 }
