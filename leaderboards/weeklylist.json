@@ -1325,6 +1325,95 @@
       "version": 2616,
       "uid": "sK3rVg2Z7TH8XV5",
       "runId": 195509984
+    },
+    "9owX7GvHW30N8bS": {
+      "name": "san123",
+      "skin": 0,
+      "char": 11,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 71,
+      "extraweps": [],
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        10,
+        6
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "9owX7GvHW30N8bS",
+      "runId": 195509984
+    },
+    "c51KsPPYzh01j7d": {
+      "name": "Mufalord",
+      "skin": 0,
+      "char": 11,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 36,
+      "bwep": 71,
+      "extraweps": [],
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [],
+      "crown": 3,
+      "version": 2616,
+      "uid": "c51KsPPYzh01j7d",
+      "runId": 195509984
+    },
+    "z0632RqABtVmeLl": {
+      "name": "Seiya",
+      "skin": 0,
+      "char": 11,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 77,
+      "extraweps": [],
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        27,
+        12,
+        14,
+        19
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "z0632RqABtVmeLl",
+      "runId": 195509984
+    },
+    "6BPv58E02y6b0jf": {
+      "name": "Лапатепа",
+      "skin": 0,
+      "char": 11,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 9,
+      "extraweps": [],
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        23,
+        4
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "6BPv58E02y6b0jf",
+      "runId": 195509984
     }
   }
 }
