@@ -794,6 +794,93 @@
       "version": 2616,
       "uid": "C76qDVTTrqCLWy0",
       "runId": 1786634399
+    },
+    "8J368clcZC80VsW": {
+      "name": "Deimos",
+      "skin": 0,
+      "char": 7,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        12,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8J368clcZC80VsW",
+      "runId": 1786634399
+    },
+    "vEb9A1NV39N5jah": {
+      "name": "Byuzgaa",
+      "skin": 0,
+      "char": 6,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 39,
+      "extraweps": [],
+      "win": false,
+      "kills": 49,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "vEb9A1NV39N5jah",
+      "runId": 1786634399
+    },
+    "jZAaqqyrzIYijyA": {
+      "name": "Seeker763",
+      "skin": 1,
+      "char": 2,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 170,
+      "ultra": 0,
+      "skills": [
+        24,
+        4,
+        1
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "jZAaqqyrzIYijyA",
+      "runId": 1786634399
+    },
+    "AyjBrRzBJrZJIaa": {
+      "name": "Duck",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 4,
+      "extraweps": [],
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "AyjBrRzBJrZJIaa",
+      "runId": 1786634399
     }
   }
 }
