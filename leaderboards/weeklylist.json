@@ -186,11 +186,11 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 20,
-      "bwep": 117,
+      "wep": 70,
+      "bwep": 89,
       "extraweps": [],
       "win": false,
-      "kills": 239,
+      "kills": 248,
       "ultra": 0,
       "skills": [
         10,
@@ -2215,6 +2215,51 @@
       "crown": 3,
       "version": 3002,
       "uid": "zbIRyiZqYriiQiB",
+      "runId": 195509984
+    },
+    "NrSHsXVgDNB62wQ": {
+      "name": "jmlpcrack",
+      "skin": 0,
+      "char": 11,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 36,
+      "extraweps": [],
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        10,
+        17,
+        26,
+        14
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "NrSHsXVgDNB62wQ",
+      "runId": 195509984
+    },
+    "7La1FMi36P3MKeU": {
+      "name": "lexxx,com",
+      "skin": 0,
+      "char": 11,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 36,
+      "extraweps": [],
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "7La1FMi36P3MKeU",
       "runId": 195509984
     }
   }
