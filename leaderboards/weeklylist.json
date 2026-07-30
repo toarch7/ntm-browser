@@ -183,21 +183,23 @@
       "name": "Yarix",
       "skin": 0,
       "char": 11,
-      "area": 5,
-      "subarea": 3,
-      "loops": 0,
-      "wep": 19,
-      "bwep": 117,
+      "area": 1,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 106,
+      "bwep": 54,
       "extraweps": [],
       "win": false,
-      "kills": 262,
-      "ultra": 0,
+      "kills": 1396,
+      "ultra": 1,
       "skills": [
         10,
         17,
         12,
         4,
-        9
+        9,
+        27,
+        16
       ],
       "crown": 3,
       "version": 2616,
@@ -2528,6 +2530,29 @@
       "crown": 3,
       "version": 2616,
       "uid": "15fVJ9aJzXG0Crp",
+      "runId": 195509984
+    },
+    "DlGcL5a7Egw2SCQ": {
+      "name": "SirdDamian",
+      "skin": 0,
+      "char": 11,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 36,
+      "bwep": 71,
+      "extraweps": [],
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        27,
+        22,
+        23
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "DlGcL5a7Egw2SCQ",
       "runId": 195509984
     }
   }
