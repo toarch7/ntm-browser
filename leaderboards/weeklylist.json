@@ -186,11 +186,11 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 70,
-      "bwep": 89,
+      "wep": 19,
+      "bwep": 117,
       "extraweps": [],
       "win": false,
-      "kills": 248,
+      "kills": 262,
       "ultra": 0,
       "skills": [
         10,
@@ -2307,6 +2307,72 @@
       "crown": 3,
       "version": 2616,
       "uid": "U7EH5D19A3Tst12",
+      "runId": 195509984
+    },
+    "S6tzFa3AHW6GoYK": {
+      "name": "Qozz",
+      "skin": 0,
+      "char": 11,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 36,
+      "extraweps": [],
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        3,
+        22
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "S6tzFa3AHW6GoYK",
+      "runId": 195509984
+    },
+    "iSY3xQMSG8Jcg69": {
+      "name": "Lapla",
+      "skin": 0,
+      "char": 11,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 36,
+      "bwep": 4,
+      "extraweps": [],
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "iSY3xQMSG8Jcg69",
+      "runId": 195509984
+    },
+    "8g0Djq01Yf9UPsV": {
+      "name": "S",
+      "skin": 0,
+      "char": 11,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 36,
+      "extraweps": [],
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        3,
+        6,
+        23
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "8g0Djq01Yf9UPsV",
       "runId": 195509984
     }
   }
