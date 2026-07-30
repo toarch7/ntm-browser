@@ -2416,6 +2416,27 @@
       "version": 2616,
       "uid": "rMzFFj0a38Qj0Sf",
       "runId": 195509984
+    },
+    "aQBqrIIJzarJqRr": {
+      "name": "anima",
+      "skin": 1,
+      "char": 11,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 36,
+      "extraweps": [],
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 3,
+      "version": 3004,
+      "uid": "aQBqrIIJzarJqRr",
+      "runId": 195509984
     }
   }
 }
