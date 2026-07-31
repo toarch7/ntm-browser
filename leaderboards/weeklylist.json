@@ -117,17 +117,18 @@
       "name": "S♡♡♡m",
       "skin": 0,
       "char": 11,
-      "area": 101,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
-      "wep": 4,
-      "bwep": 36,
+      "wep": 36,
+      "bwep": 4,
       "extraweps": [],
       "win": false,
-      "kills": 46,
+      "kills": 54,
       "ultra": 0,
       "skills": [
-        17
+        27,
+        22
       ],
       "crown": 3,
       "version": 2616,
@@ -2803,6 +2804,70 @@
       "crown": 3,
       "version": 2616,
       "uid": "c9tJxyRGDgwoGqk",
+      "runId": 195509984
+    },
+    "67qC7sPlsk3CPo7": {
+      "name": "petyapocoyo",
+      "skin": 0,
+      "char": 11,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 36,
+      "extraweps": [],
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        27,
+        23
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "67qC7sPlsk3CPo7",
+      "runId": 195509984
+    },
+    "9RWo5pF3ALpBLB7": {
+      "name": "9RWo5pF3ALpBLB7",
+      "skin": 0,
+      "char": 11,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 36,
+      "extraweps": [],
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        22
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "9RWo5pF3ALpBLB7",
+      "runId": 195509984
+    },
+    "BhpTm89rkPjTDCX": {
+      "name": "arbolverde",
+      "skin": 0,
+      "char": 11,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 36,
+      "extraweps": [],
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "BhpTm89rkPjTDCX",
       "runId": 195509984
     }
   }
