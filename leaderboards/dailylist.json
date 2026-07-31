@@ -784,6 +784,96 @@
       "version": 2616,
       "uid": "Wq0wIvmZc5K4d6m",
       "runId": 1825528702
+    },
+    "a9Q2SQ2FN13Y6ax": {
+      "name": "Racnar",
+      "skin": 0,
+      "char": 7,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 5,
+      "extraweps": [],
+      "win": false,
+      "kills": 84,
+      "ultra": 0,
+      "skills": [
+        13,
+        1,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "a9Q2SQ2FN13Y6ax",
+      "runId": 1825528702
+    },
+    "9RWo5pF3ALpBLB7": {
+      "name": "9RWo5pF3ALpBLB7",
+      "skin": 1,
+      "char": 11,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 34,
+      "crown": 1,
+      "version": 2616,
+      "uid": "9RWo5pF3ALpBLB7",
+      "runId": 1825528702
+    },
+    "Wnxv9jlb9ITOl6W": {
+      "name": "Seeker",
+      "skin": 1,
+      "char": 2,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 49,
+      "bwep": 12,
+      "extraweps": [],
+      "win": false,
+      "kills": 303,
+      "ultra": 0,
+      "skills": [
+        9,
+        23,
+        1,
+        14,
+        27,
+        3,
+        8
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "Wnxv9jlb9ITOl6W",
+      "runId": 1825528702
+    },
+    "O83p04cDEV6r5m7": {
+      "name": "Saifer",
+      "skin": 1,
+      "char": 10,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 4,
+      "extraweps": [],
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        13,
+        1,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "O83p04cDEV6r5m7",
+      "runId": 1825528702
     }
   }
 }
