@@ -355,6 +355,90 @@
       "version": 2616,
       "uid": "0dVh0I86otXWGZt",
       "runId": 1825528702
+    },
+    "aJZijBYbiyaZRAR": {
+      "name": "kusogake",
+      "skin": 0,
+      "char": 16,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 5,
+      "extraweps": [
+        69
+      ],
+      "win": false,
+      "kills": 82,
+      "ultra": 0,
+      "skills": [
+        7,
+        4,
+        23
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "aJZijBYbiyaZRAR",
+      "runId": 1825528702
+    },
+    "59Kwm7uRa00858v": {
+      "name": "lokmen",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 46,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "59Kwm7uRa00858v",
+      "runId": 1825528702
+    },
+    "K60USgG4kPm2RGJ": {
+      "name": "Меченый",
+      "skin": 0,
+      "char": 8,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "K60USgG4kPm2RGJ",
+      "runId": 1825528702
+    },
+    "ObmemEXHde2rp8S": {
+      "name": "Seeker",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 39,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ObmemEXHde2rp8S",
+      "runId": 1825528702
     }
   }
 }
