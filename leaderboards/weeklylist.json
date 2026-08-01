@@ -649,18 +649,21 @@
       "name": "Spetznarojo",
       "skin": 0,
       "char": 11,
-      "area": 104,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 3,
       "loops": 0,
-      "wep": 22,
-      "bwep": 37,
+      "wep": 11,
+      "bwep": 24,
       "extraweps": [],
       "win": false,
-      "kills": 163,
+      "kills": 223,
       "ultra": 0,
       "skills": [
+        27,
+        21,
         23,
-        14
+        4,
+        17
       ],
       "crown": 3,
       "version": 2616,
@@ -3026,6 +3029,27 @@
       "crown": 3,
       "version": 2616,
       "uid": "s027in1txKotyN6",
+      "runId": 195509984
+    },
+    "J65KI7B6j02K6Qg": {
+      "name": "Camael",
+      "skin": 0,
+      "char": 11,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 36,
+      "extraweps": [],
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "J65KI7B6j02K6Qg",
       "runId": 195509984
     }
   }
