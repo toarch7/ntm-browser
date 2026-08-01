@@ -1,4 +1,139 @@
 {
   "day": 1,
-  "entries": {}
+  "entries": {
+    "qk7hMS454sUOz1U": {
+      "name": "Seeker90",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 10,
+      "ultra": 0,
+      "skills": [
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "qk7hMS454sUOz1U",
+      "runId": 1355190518
+    },
+    "H7I7XB81X1Bs7F2": {
+      "name": "Quee",
+      "skin": 0,
+      "char": 7,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "H7I7XB81X1Bs7F2",
+      "runId": 1355190518
+    },
+    "1o06lIX2eR9I2My": {
+      "name": "EnmaRC",
+      "skin": 0,
+      "char": 3,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 114,
+      "bwep": 30,
+      "extraweps": [],
+      "win": false,
+      "kills": 299,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        10,
+        4,
+        8,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1o06lIX2eR9I2My",
+      "runId": 1355190518
+    },
+    "S6tzFa3AHW6GoYK": {
+      "name": "Qozz",
+      "skin": 0,
+      "char": 5,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 57,
+      "extraweps": [],
+      "win": false,
+      "kills": 309,
+      "ultra": 0,
+      "skills": [
+        2,
+        1,
+        12,
+        3,
+        27,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "S6tzFa3AHW6GoYK",
+      "runId": 1355190518
+    },
+    "B74n1Tm6qTitq0o": {
+      "name": "hardcore",
+      "skin": 1,
+      "char": 3,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 2,
+      "extraweps": [],
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        16,
+        1,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "B74n1Tm6qTitq0o",
+      "runId": 1355190518
+    },
+    "41QW2Phs6dIr0eC": {
+      "name": "jojoh",
+      "skin": 0,
+      "char": 12,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 5,
+      "extraweps": [],
+      "win": false,
+      "kills": 25,
+      "crown": 1,
+      "version": 2616,
+      "uid": "41QW2Phs6dIr0eC",
+      "runId": 1355190518
+    }
+  }
 }
