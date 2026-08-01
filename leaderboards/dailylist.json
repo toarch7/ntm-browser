@@ -206,6 +206,57 @@
       "version": 2616,
       "uid": "0dVh0I86otXWGZt",
       "runId": 1355190518
+    },
+    "z0632RqABtVmeLl": {
+      "name": "Seiya",
+      "skin": 1,
+      "char": 8,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 124,
+      "extraweps": [],
+      "win": false,
+      "kills": 224,
+      "ultra": 0,
+      "skills": [
+        16,
+        1,
+        4,
+        8,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "z0632RqABtVmeLl",
+      "runId": 1355190518
+    },
+    "5dVK39S9gV2e3lQ": {
+      "name": "STEVE",
+      "skin": 0,
+      "char": 2,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 53,
+      "bwep": 43,
+      "extraweps": [],
+      "win": false,
+      "kills": 205,
+      "ultra": 0,
+      "skills": [
+        26,
+        1,
+        10,
+        4,
+        27,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "5dVK39S9gV2e3lQ",
+      "runId": 1355190518
     }
   }
 }
