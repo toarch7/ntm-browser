@@ -346,6 +346,67 @@
       "version": 2616,
       "uid": "c51KsPPYzh01j7d",
       "runId": 1531771672
+    },
+    "vNn9c5DjRyO3zcY": {
+      "name": "jesus",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "extraweps": [],
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "vNn9c5DjRyO3zcY",
+      "runId": 1531771672
+    },
+    "B74n1Tm6qTitq0o": {
+      "name": "hardcore",
+      "skin": 0,
+      "char": 6,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 42,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 157,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "B74n1Tm6qTitq0o",
+      "runId": 1531771672
+    },
+    "1o06lIX2eR9I2My": {
+      "name": "EnmaRC",
+      "skin": 0,
+      "char": 1,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 27,
+      "extraweps": [],
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1o06lIX2eR9I2My",
+      "runId": 1531771672
     }
   }
 }
