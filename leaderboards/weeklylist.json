@@ -343,6 +343,106 @@
       "version": 2616,
       "uid": "FsjvuiQ83i4CN05",
       "runId": 571361663
+    },
+    "1o06lIX2eR9I2My": {
+      "name": "EnmaRC",
+      "skin": 1,
+      "char": 6,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 114,
+      "bwep": 14,
+      "extraweps": [],
+      "win": false,
+      "kills": 207,
+      "ultra": 0,
+      "skills": [
+        28,
+        8,
+        1,
+        4,
+        14
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "1o06lIX2eR9I2My",
+      "runId": 571361663
+    },
+    "zjAbAqzirIjjBIz": {
+      "name": "mimic",
+      "skin": 1,
+      "char": 6,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 119,
+      "extraweps": [],
+      "win": false,
+      "kills": 259,
+      "ultra": 0,
+      "skills": [
+        8,
+        17,
+        27,
+        16,
+        26,
+        1
+      ],
+      "crown": 13,
+      "version": 3002,
+      "uid": "zjAbAqzirIjjBIz",
+      "runId": 571361663
+    },
+    "2jn9sMH2IkmDw3q": {
+      "name": "jododendron",
+      "skin": 1,
+      "char": 6,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 37,
+      "extraweps": [],
+      "win": false,
+      "kills": 150,
+      "ultra": 0,
+      "skills": [
+        28,
+        25,
+        27
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "2jn9sMH2IkmDw3q",
+      "runId": 571361663
+    },
+    "14aeU8O05ssfF4t": {
+      "name": "ZeKnight",
+      "skin": 1,
+      "char": 6,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 227,
+      "ultra": 0,
+      "skills": [
+        28,
+        23,
+        17,
+        1,
+        7,
+        27
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "14aeU8O05ssfF4t",
+      "runId": 571361663
     }
   }
 }
