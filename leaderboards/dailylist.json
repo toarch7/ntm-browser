@@ -1,4 +1,73 @@
 {
   "day": 3,
-  "entries": {}
+  "entries": {
+    "AyjBrRzBJrZJIaa": {
+      "name": "Duck",
+      "skin": 1,
+      "char": 16,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 7,
+      "extraweps": [
+        6
+      ],
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        8,
+        22,
+        14
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "AyjBrRzBJrZJIaa",
+      "runId": 374247003
+    },
+    "aQBqrIIJzarJqRr": {
+      "name": "anima",
+      "skin": 2,
+      "char": 2,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 20,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "aQBqrIIJzarJqRr",
+      "runId": 374247003
+    },
+    "r6j0O582v209lzt": {
+      "name": "UliDaysooo",
+      "skin": 1,
+      "char": 8,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 34,
+      "extraweps": [],
+      "win": false,
+      "kills": 57,
+      "ultra": 0,
+      "skills": [
+        25,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "r6j0O582v209lzt",
+      "runId": 374247003
+    }
+  }
 }
