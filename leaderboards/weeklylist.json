@@ -791,11 +791,11 @@
       "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 112,
-      "bwep": 91,
+      "wep": 30,
+      "bwep": 22,
       "extraweps": [],
       "win": false,
-      "kills": 279,
+      "kills": 283,
       "ultra": 0,
       "skills": [
         28,
@@ -803,7 +803,7 @@
         27,
         21,
         4,
-        26
+        19
       ],
       "crown": 13,
       "version": 2616,
@@ -1127,6 +1127,80 @@
       "crown": 13,
       "version": 2616,
       "uid": "4Hx6l9tfW93i9G3",
+      "runId": 571361663
+    },
+    "nHw8XWwp799mcTI": {
+      "name": "你好",
+      "skin": 1,
+      "char": 6,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 50,
+      "extraweps": [],
+      "win": false,
+      "kills": 207,
+      "ultra": 0,
+      "skills": [
+        24,
+        23,
+        8,
+        27,
+        4,
+        14
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "nHw8XWwp799mcTI",
+      "runId": 571361663
+    },
+    "8o2tT2TaG9o3fwd": {
+      "name": "ZUN",
+      "skin": 1,
+      "char": 6,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 26,
+      "extraweps": [],
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        13,
+        23,
+        25,
+        9,
+        27
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "8o2tT2TaG9o3fwd",
+      "runId": 571361663
+    },
+    "BdVlUAv1jx484V7": {
+      "name": "Erickkk",
+      "skin": 1,
+      "char": 6,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 14,
+      "extraweps": [],
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        28,
+        1,
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "BdVlUAv1jx484V7",
       "runId": 571361663
     }
   }
