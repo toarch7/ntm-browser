@@ -104,6 +104,67 @@
       "version": 2616,
       "uid": "yrGn5VMs38nzIwU",
       "runId": 2132841689
+    },
+    "9MAzy8p0oYR29DS": {
+      "name": "ans",
+      "skin": 0,
+      "char": 2,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 27,
+      "extraweps": [],
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        7,
+        28,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "9MAzy8p0oYR29DS",
+      "runId": 2132841689
+    },
+    "AyjBrRzBJrZJIaa": {
+      "name": "Duck",
+      "skin": 1,
+      "char": 16,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 39,
+      "extraweps": [],
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "AyjBrRzBJrZJIaa",
+      "runId": 2132841689
+    },
+    "GAQ38O09CE30043": {
+      "name": "rira",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "GAQ38O09CE30043",
+      "runId": 2132841689
     }
   }
 }
