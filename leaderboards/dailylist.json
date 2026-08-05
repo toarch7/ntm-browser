@@ -217,6 +217,96 @@
       "version": 2616,
       "uid": "mD4KznBP467wShE",
       "runId": 1710183489
+    },
+    "f0VO59IIrPA4Y14": {
+      "name": "dilanyt",
+      "skin": 1,
+      "char": 2,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 125,
+      "ultra": 0,
+      "skills": [
+        8,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f0VO59IIrPA4Y14",
+      "runId": 1710183489
+    },
+    "DxfE45yKE0s8nFe": {
+      "name": "FinaldeathX",
+      "skin": 0,
+      "char": 3,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 36,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "DxfE45yKE0s8nFe",
+      "runId": 1710183489
+    },
+    "c51KsPPYzh01j7d": {
+      "name": "Mufalord",
+      "skin": 0,
+      "char": 6,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "c51KsPPYzh01j7d",
+      "runId": 1710183489
+    },
+    "z0632RqABtVmeLl": {
+      "name": "Seiya",
+      "skin": 1,
+      "char": 8,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 45,
+      "bwep": 11,
+      "extraweps": [],
+      "win": false,
+      "kills": 378,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        23,
+        27,
+        28,
+        6,
+        1,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "z0632RqABtVmeLl",
+      "runId": 1710183489
     }
   }
 }
