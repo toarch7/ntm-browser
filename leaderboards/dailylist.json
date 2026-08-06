@@ -1,4 +1,142 @@
 {
   "day": 6,
-  "entries": {}
+  "entries": {
+    "t2HOZt10vR2mR37": {
+      "name": "VicSan",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 15,
+      "crown": 1,
+      "version": 2616,
+      "uid": "t2HOZt10vR2mR37",
+      "runId": 1341644441
+    },
+    "abBirQBibRIIzbI": {
+      "name": "Yung",
+      "skin": 0,
+      "char": 16,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 34,
+      "extraweps": [
+        5
+      ],
+      "win": false,
+      "kills": 121,
+      "ultra": 0,
+      "skills": [
+        19,
+        24,
+        25
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "abBirQBibRIIzbI",
+      "runId": 1341644441
+    },
+    "S6tzFa3AHW6GoYK": {
+      "name": "Qozz",
+      "skin": 0,
+      "char": 5,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 90,
+      "bwep": 23,
+      "extraweps": [],
+      "win": false,
+      "kills": 266,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        3,
+        22,
+        12,
+        4
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "S6tzFa3AHW6GoYK",
+      "runId": 1341644441
+    },
+    "c51KsPPYzh01j7d": {
+      "name": "Mufalord",
+      "skin": 0,
+      "char": 6,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 69,
+      "extraweps": [],
+      "win": false,
+      "kills": 71,
+      "ultra": 0,
+      "skills": [
+        27,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "c51KsPPYzh01j7d",
+      "runId": 1341644441
+    },
+    "z0632RqABtVmeLl": {
+      "name": "Seiya",
+      "skin": 1,
+      "char": 8,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        25,
+        14,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "z0632RqABtVmeLl",
+      "runId": 1341644441
+    },
+    "Fk36Cvlrt10D0uN": {
+      "name": "s♡♡♡ira",
+      "skin": 0,
+      "char": 2,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        21,
+        27,
+        1,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Fk36Cvlrt10D0uN",
+      "runId": 1341644441
+    }
+  }
 }

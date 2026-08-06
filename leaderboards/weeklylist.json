@@ -27,17 +27,18 @@
       "name": "Krisfollatrabas",
       "skin": 1,
       "char": 6,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 75,
-      "bwep": 79,
+      "wep": 113,
+      "bwep": 104,
       "extraweps": [],
       "win": false,
-      "kills": 121,
+      "kills": 144,
       "ultra": 0,
       "skills": [
         28,
+        23,
         25,
         1
       ],
@@ -2203,6 +2204,50 @@
       "crown": 13,
       "version": 2616,
       "uid": "IYxQIv273Z1CFq3",
+      "runId": 571361663
+    },
+    "3ZmmVoC1r9Cd8de": {
+      "name": "knight",
+      "skin": 1,
+      "char": 6,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 75,
+      "extraweps": [],
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "3ZmmVoC1r9Cd8de",
+      "runId": 571361663
+    },
+    "z0632RqABtVmeLl": {
+      "name": "Seiya",
+      "skin": 1,
+      "char": 6,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 20,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        28,
+        8,
+        1
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "z0632RqABtVmeLl",
       "runId": 571361663
     }
   }
