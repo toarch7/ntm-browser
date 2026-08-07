@@ -2856,6 +2856,56 @@
       "version": 2616,
       "uid": "eymzIlpbUcr428O",
       "runId": 571361663
+    },
+    "3iY4DdlsEUE2U0X": {
+      "name": "Akilesler",
+      "skin": 1,
+      "char": 6,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 82,
+      "bwep": 4,
+      "extraweps": [],
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "3iY4DdlsEUE2U0X",
+      "runId": 571361663
+    },
+    "cEw77y1OV7beq9j": {
+      "name": "Kionix",
+      "skin": 1,
+      "char": 6,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 10,
+      "extraweps": [],
+      "win": false,
+      "kills": 343,
+      "ultra": 0,
+      "skills": [
+        28,
+        2,
+        25,
+        4,
+        1,
+        7,
+        16,
+        22,
+        27
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "cEw77y1OV7beq9j",
+      "runId": 571361663
     }
   }
 }
