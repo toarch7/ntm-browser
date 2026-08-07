@@ -2668,17 +2668,19 @@
       "skin": 1,
       "char": 6,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
       "wep": 88,
       "bwep": 75,
       "extraweps": [],
       "win": false,
-      "kills": 59,
+      "kills": 98,
       "ultra": 0,
       "skills": [
         28,
-        25
+        25,
+        9,
+        1
       ],
       "crown": 13,
       "version": 2616,
@@ -2709,6 +2711,27 @@
       "crown": 13,
       "version": 2616,
       "uid": "L3p20mcd8Hya3np",
+      "runId": 571361663
+    },
+    "50TBCnLzdOY2190": {
+      "name": "loids",
+      "skin": 1,
+      "char": 6,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 27,
+      "extraweps": [],
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "50TBCnLzdOY2190",
       "runId": 571361663
     }
   }
