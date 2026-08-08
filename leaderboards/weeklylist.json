@@ -3024,6 +3024,74 @@
       "version": 2616,
       "uid": "tG071quRuOnw5Zg",
       "runId": 571361663
+    },
+    "kgF11ATx8DfJ955": {
+      "name": "(AQUILES)",
+      "skin": 1,
+      "char": 6,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 10,
+      "extraweps": [],
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        13,
+        8,
+        27,
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "kgF11ATx8DfJ955",
+      "runId": 571361663
+    },
+    "nkV29Nw8b79B7BB": {
+      "name": "joel",
+      "skin": 1,
+      "char": 6,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 75,
+      "extraweps": [],
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        28,
+        8
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "nkV29Nw8b79B7BB",
+      "runId": 571361663
+    },
+    "BV0q0MknSpy5Y4x": {
+      "name": "fersi",
+      "skin": 1,
+      "char": 6,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 26,
+      "extraweps": [],
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        24,
+        8
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "BV0q0MknSpy5Y4x",
+      "runId": 571361663
     }
   }
 }
