@@ -779,6 +779,97 @@
       "version": 2616,
       "uid": "kyZck38mtZ98rn5",
       "runId": 544243272
+    },
+    "zbIRyiZqYriiQiB": {
+      "name": "diego",
+      "skin": 0,
+      "char": 6,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 116,
+      "extraweps": [],
+      "win": false,
+      "kills": 122,
+      "ultra": 0,
+      "skills": [
+        8,
+        13,
+        1,
+        25
+      ],
+      "crown": 1,
+      "version": 3002,
+      "uid": "zbIRyiZqYriiQiB",
+      "runId": 544243272
+    },
+    "21WJ3n831WrA9PY": {
+      "name": "bars12233",
+      "skin": 0,
+      "char": 1,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "21WJ3n831WrA9PY",
+      "runId": 544243272
+    },
+    "lRflV3wY7L6EwNW": {
+      "name": "Enma",
+      "skin": 0,
+      "char": 7,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        25,
+        14,
+        28,
+        16,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "lRflV3wY7L6EwNW",
+      "runId": 544243272
+    },
+    "z0632RqABtVmeLl": {
+      "name": "Seiya",
+      "skin": 1,
+      "char": 8,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 13,
+      "extraweps": [],
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        25,
+        14,
+        28,
+        1,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "z0632RqABtVmeLl",
+      "runId": 544243272
     }
   }
 }
