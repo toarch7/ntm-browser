@@ -3526,6 +3526,29 @@
       "version": 2616,
       "uid": "Gid6L3lPfjZCt81",
       "runId": 571361663
+    },
+    "902Ya752Q1bHpcB": {
+      "name": "CrossWrighter",
+      "skin": 1,
+      "char": 6,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 75,
+      "extraweps": [],
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        28,
+        23,
+        8
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "902Ya752Q1bHpcB",
+      "runId": 571361663
     }
   }
 }
