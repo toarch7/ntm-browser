@@ -793,6 +793,51 @@
       "version": 2616,
       "uid": "3TA992pEMOU1sUu",
       "runId": 2062915996
+    },
+    "3DSzeA9Jh43500S": {
+      "name": "sora",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        13,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "3DSzeA9Jh43500S",
+      "runId": 2062915996
+    },
+    "E21h298zqPFTukT": {
+      "name": "ricardox",
+      "skin": 0,
+      "char": 2,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        10,
+        1,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "E21h298zqPFTukT",
+      "runId": 2062915996
     }
   }
 }

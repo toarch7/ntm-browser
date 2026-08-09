@@ -292,16 +292,17 @@
       "skin": 1,
       "char": 6,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 27,
+      "wep": 15,
       "bwep": 75,
       "extraweps": [],
       "win": false,
-      "kills": 72,
+      "kills": 113,
       "ultra": 0,
       "skills": [
-        13
+        21,
+        8
       ],
       "crown": 13,
       "version": 2616,
@@ -3877,6 +3878,30 @@
       "crown": 13,
       "version": 2616,
       "uid": "8J368clcZC80VsW",
+      "runId": 571361663
+    },
+    "d8m1v9Z1FsE3cte": {
+      "name": "s♡♡♡arky",
+      "skin": 1,
+      "char": 6,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 20,
+      "extraweps": [],
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        28,
+        8,
+        27,
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "d8m1v9Z1FsE3cte",
       "runId": 571361663
     }
   }
