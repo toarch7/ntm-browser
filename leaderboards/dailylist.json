@@ -118,6 +118,65 @@
       "version": 2616,
       "uid": "Gid6L3lPfjZCt81",
       "runId": 2062915996
+    },
+    "902Ya752Q1bHpcB": {
+      "name": "CrossWrighter",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "902Ya752Q1bHpcB",
+      "runId": 2062915996
+    },
+    "yrGn5VMs38nzIwU": {
+      "name": "Volcan0",
+      "skin": 1,
+      "char": 11,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "yrGn5VMs38nzIwU",
+      "runId": 2062915996
+    },
+    "MJ04F734yPoG2i1": {
+      "name": "ultra",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 27,
+      "extraweps": [],
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "MJ04F734yPoG2i1",
+      "runId": 2062915996
     }
   }
 }
