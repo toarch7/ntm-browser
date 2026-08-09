@@ -3470,6 +3470,57 @@
       "version": 2616,
       "uid": "8F2TT0j2zlx4E4u",
       "runId": 571361663
+    },
+    "QiA8ceV3gbh9KU9": {
+      "name": "007",
+      "skin": 1,
+      "char": 6,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 65,
+      "extraweps": [],
+      "win": false,
+      "kills": 290,
+      "ultra": 0,
+      "skills": [
+        28,
+        8,
+        1,
+        19,
+        27
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "QiA8ceV3gbh9KU9",
+      "runId": 571361663
+    },
+    "Gid6L3lPfjZCt81": {
+      "name": "DragonBlue",
+      "skin": 1,
+      "char": 6,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 75,
+      "extraweps": [],
+      "win": false,
+      "kills": 228,
+      "ultra": 0,
+      "skills": [
+        28,
+        2,
+        17,
+        27,
+        19,
+        14
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "Gid6L3lPfjZCt81",
+      "runId": 571361663
     }
   }
 }

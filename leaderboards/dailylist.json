@@ -1,4 +1,79 @@
 {
   "day": 9,
-  "entries": {}
+  "entries": {
+    "QiA8ceV3gbh9KU9": {
+      "name": "007",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "QiA8ceV3gbh9KU9",
+      "runId": 2062915996
+    },
+    "1o06lIX2eR9I2My": {
+      "name": "EnmaRC",
+      "skin": 0,
+      "char": 1,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 27,
+      "extraweps": [],
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        10,
+        1,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1o06lIX2eR9I2My",
+      "runId": 2062915996
+    },
+    "8X0H6bLk125s5iC": {
+      "name": "bersek",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 2,
+      "crown": 1,
+      "version": 2616,
+      "uid": "8X0H6bLk125s5iC",
+      "runId": 2062915996
+    },
+    "7ft1a1Yx1zv9RtH": {
+      "name": "isa",
+      "skin": 0,
+      "char": 3,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "7ft1a1Yx1zv9RtH",
+      "runId": 2062915996
+    }
+  }
 }
