@@ -312,14 +312,14 @@
       "name": "Gost1k",
       "skin": 1,
       "char": 6,
-      "area": 6,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 11,
-      "bwep": 75,
+      "wep": 6,
+      "bwep": 77,
       "extraweps": [],
       "win": false,
-      "kills": 272,
+      "kills": 327,
       "ultra": 0,
       "skills": [
         23,
@@ -328,7 +328,8 @@
         25,
         9,
         7,
-        22
+        22,
+        3
       ],
       "crown": 13,
       "version": 3003,
@@ -2089,18 +2090,20 @@
       "name": "Rider12",
       "skin": 1,
       "char": 6,
-      "area": 2,
+      "area": 104,
       "subarea": 1,
       "loops": 0,
-      "wep": 75,
-      "bwep": 19,
+      "wep": 52,
+      "bwep": 75,
       "extraweps": [],
       "win": false,
-      "kills": 47,
+      "kills": 137,
       "ultra": 0,
       "skills": [
         13,
-        23
+        23,
+        8,
+        1
       ],
       "crown": 13,
       "version": 2616,
@@ -3848,6 +3851,32 @@
       "crown": 13,
       "version": 2616,
       "uid": "c74dB5jDdZ148j7",
+      "runId": 571361663
+    },
+    "8J368clcZC80VsW": {
+      "name": "Deimos",
+      "skin": 1,
+      "char": 6,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 69,
+      "extraweps": [],
+      "win": false,
+      "kills": 221,
+      "ultra": 0,
+      "skills": [
+        28,
+        2,
+        25,
+        4,
+        27,
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "8J368clcZC80VsW",
       "runId": 571361663
     }
   }
