@@ -3571,6 +3571,54 @@
       "version": 2616,
       "uid": "S6tzFa3AHW6GoYK",
       "runId": 571361663
+    },
+    "G1cKQ4S0ygmUFGU": {
+      "name": "See",
+      "skin": 1,
+      "char": 6,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        24,
+        23,
+        1,
+        19
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "G1cKQ4S0ygmUFGU",
+      "runId": 571361663
+    },
+    "Ngj2I9UFLbNz84z": {
+      "name": "Seek",
+      "skin": 1,
+      "char": 6,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 58,
+      "bwep": 76,
+      "extraweps": [],
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        28,
+        8,
+        1,
+        7
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "Ngj2I9UFLbNz84z",
+      "runId": 571361663
     }
   }
 }
