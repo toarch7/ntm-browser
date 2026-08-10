@@ -238,6 +238,48 @@
       "version": 3004,
       "uid": "abBirQBibRIIzbI",
       "runId": 1346135978
+    },
+    "qG33Mz0eFoi9KE6": {
+      "name": "popohca",
+      "skin": 0,
+      "char": 1,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 9,
+      "crown": 1,
+      "version": 2616,
+      "uid": "qG33Mz0eFoi9KE6",
+      "runId": 1346135978
+    },
+    "S6tzFa3AHW6GoYK": {
+      "name": "Qozz",
+      "skin": 0,
+      "char": 6,
+      "area": 3,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 107,
+      "bwep": 96,
+      "extraweps": [],
+      "win": false,
+      "kills": 783,
+      "ultra": 1,
+      "skills": [
+        3,
+        1,
+        12,
+        9,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "S6tzFa3AHW6GoYK",
+      "runId": 1346135978
     }
   }
 }
