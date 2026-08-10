@@ -1,4 +1,32 @@
 {
   "seed": 629869726,
-  "entries": {}
+  "entries": {
+    "7zBqV9X6n63xehl": {
+      "name": "Spetznarojo",
+      "skin": 1,
+      "char": 9,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 89,
+      "bwep": 12,
+      "extraweps": [],
+      "win": false,
+      "kills": 500,
+      "ultra": 0,
+      "skills": [
+        9,
+        4,
+        13,
+        27,
+        16,
+        6,
+        1
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "7zBqV9X6n63xehl",
+      "runId": 629869726
+    }
+  }
 }
