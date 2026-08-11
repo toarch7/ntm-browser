@@ -685,6 +685,28 @@
       "version": 2616,
       "uid": "JAec82vlxpI7hXF",
       "runId": 629869726
+    },
+    "c74dB5jDdZ148j7": {
+      "name": "postav",
+      "skin": 1,
+      "char": 9,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 50,
+      "bwep": 3,
+      "extraweps": [],
+      "win": false,
+      "kills": 120,
+      "ultra": 0,
+      "skills": [
+        19,
+        4
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "c74dB5jDdZ148j7",
+      "runId": 629869726
     }
   }
 }
