@@ -193,6 +193,74 @@
       "version": 2616,
       "uid": "01e4u8I3T3yru2L",
       "runId": 1078377842
+    },
+    "cdckNmNb9gW7goN": {
+      "name": "KnightPure",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "cdckNmNb9gW7goN",
+      "runId": 1078377842
+    },
+    "902Ya752Q1bHpcB": {
+      "name": "CrossWrighter",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 29,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "902Ya752Q1bHpcB",
+      "runId": 1078377842
+    },
+    "8J368clcZC80VsW": {
+      "name": "Deimos",
+      "skin": 0,
+      "char": 6,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 62,
+      "extraweps": [],
+      "win": false,
+      "kills": 277,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        22,
+        4,
+        2,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8J368clcZC80VsW",
+      "runId": 1078377842
     }
   }
 }
