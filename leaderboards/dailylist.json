@@ -431,6 +431,61 @@
       "version": 2616,
       "uid": "30VTD04082RobAj",
       "runId": 1078377842
+    },
+    "1MQ6lTg15HC9h51": {
+      "name": "Coelho",
+      "skin": 0,
+      "char": 1,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 2616,
+      "uid": "1MQ6lTg15HC9h51",
+      "runId": 1078377842
+    },
+    "obq6k8x7PumIUYC": {
+      "name": "destroyer",
+      "skin": 0,
+      "char": 2,
+      "area": 101,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 25,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "obq6k8x7PumIUYC",
+      "runId": 1078377842
+    },
+    "za5oV2nM1Pu9587": {
+      "name": "ferkos",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "za5oV2nM1Pu9587",
+      "runId": 1078377842
     }
   }
 }
