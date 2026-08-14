@@ -641,6 +641,74 @@
       "version": 2616,
       "uid": "93z65lvxbCGUxaT",
       "runId": 459689617
+    },
+    "KKEo1LGly82YLH6": {
+      "name": "AMATHEUR",
+      "skin": 0,
+      "char": 2,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 58,
+      "extraweps": [],
+      "win": false,
+      "kills": 238,
+      "ultra": 0,
+      "skills": [
+        17,
+        4,
+        14,
+        8,
+        22,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "KKEo1LGly82YLH6",
+      "runId": 459689617
+    },
+    "902Ya752Q1bHpcB": {
+      "name": "CrossWrighter",
+      "skin": 0,
+      "char": 2,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 114,
+      "extraweps": [],
+      "win": false,
+      "kills": 220,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        14,
+        8,
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "902Ya752Q1bHpcB",
+      "runId": 459689617
+    },
+    "xwNZXlE8I8uwICi": {
+      "name": "Seeker",
+      "skin": 0,
+      "char": 11,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 18,
+      "crown": 1,
+      "version": 2616,
+      "uid": "xwNZXlE8I8uwICi",
+      "runId": 459689617
     }
   }
 }
