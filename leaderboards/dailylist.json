@@ -274,6 +274,45 @@
       "version": 2616,
       "uid": "z0632RqABtVmeLl",
       "runId": 14047204
+    },
+    "6HQumivGNS838Hb": {
+      "name": "Mun",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "6HQumivGNS838Hb",
+      "runId": 14047204
+    },
+    "S6tzFa3AHW6GoYK": {
+      "name": "Qozz",
+      "skin": 0,
+      "char": 5,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        9,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "S6tzFa3AHW6GoYK",
+      "runId": 14047204
     }
   }
 }
