@@ -194,6 +194,86 @@
       "version": 2616,
       "uid": "0AHI2n0hYeln7Ic",
       "runId": 14047204
+    },
+    "BUxK0QHDi5b559a": {
+      "name": "ROKEN",
+      "skin": 1,
+      "char": 8,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 17,
+      "crown": 1,
+      "version": 2616,
+      "uid": "BUxK0QHDi5b559a",
+      "runId": 14047204
+    },
+    "0dVh0I86otXWGZt": {
+      "name": "Exor4ist",
+      "skin": 0,
+      "char": 7,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0dVh0I86otXWGZt",
+      "runId": 14047204
+    },
+    "yrGn5VMs38nzIwU": {
+      "name": "Volcan0",
+      "skin": 1,
+      "char": 4,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 7,
+      "extraweps": [],
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "yrGn5VMs38nzIwU",
+      "runId": 14047204
+    },
+    "z0632RqABtVmeLl": {
+      "name": "Seiya",
+      "skin": 1,
+      "char": 8,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        10
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "z0632RqABtVmeLl",
+      "runId": 14047204
     }
   }
 }
