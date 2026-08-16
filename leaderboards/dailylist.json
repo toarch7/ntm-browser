@@ -334,6 +334,52 @@
       "version": 2616,
       "uid": "nbVr06AhhK2k6Cm",
       "runId": 1112210012
+    },
+    "yIJqzJJyyqaJqIy": {
+      "name": "Rednui",
+      "skin": 0,
+      "char": 2,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 26,
+      "extraweps": [],
+      "win": false,
+      "kills": 223,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        27,
+        28
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "yIJqzJJyyqaJqIy",
+      "runId": 1112210012
+    },
+    "kgF11ATx8DfJ955": {
+      "name": "(AQUILES)",
+      "skin": 1,
+      "char": 8,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 11,
+      "extraweps": [],
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        28,
+        1
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "kgF11ATx8DfJ955",
+      "runId": 1112210012
     }
   }
 }
