@@ -209,20 +209,20 @@
       "name": "Qosti",
       "skin": 1,
       "char": 9,
-      "area": 3,
-      "subarea": 2,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 72,
-      "bwep": 38,
+      "wep": 38,
+      "bwep": 12,
       "extraweps": [],
       "win": false,
-      "kills": 198,
+      "kills": 311,
       "ultra": 0,
       "skills": [
         9,
         4,
-        12,
-        16
+        22,
+        27
       ],
       "crown": 7,
       "version": 2616,
@@ -1599,6 +1599,30 @@
       "crown": 7,
       "version": 2616,
       "uid": "63ubAvJS1hQ1s4N",
+      "runId": 629869726
+    },
+    "t4Uh2WbTlZz7WM7": {
+      "name": "jesus",
+      "skin": 1,
+      "char": 9,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 38,
+      "extraweps": [],
+      "win": false,
+      "kills": 211,
+      "ultra": 0,
+      "skills": [
+        13,
+        4,
+        12,
+        27
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "t4Uh2WbTlZz7WM7",
       "runId": 629869726
     }
   }
