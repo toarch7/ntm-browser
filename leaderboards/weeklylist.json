@@ -1676,6 +1676,30 @@
       "version": 2616,
       "uid": "Rkl5Ya4UuR0z45K",
       "runId": 629869726
+    },
+    "L3p20mcd8Hya3np": {
+      "name": "Seeker",
+      "skin": 1,
+      "char": 9,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 228,
+      "ultra": 0,
+      "skills": [
+        9,
+        12,
+        22,
+        27
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "L3p20mcd8Hya3np",
+      "runId": 629869726
     }
   }
 }
