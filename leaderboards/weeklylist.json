@@ -1,4 +1,78 @@
 {
   "seed": 444481612,
-  "entries": {}
+  "entries": {
+    "CV1OSVXYEq4W427": {
+      "name": "RO80T",
+      "skin": 1,
+      "char": 2,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 51,
+      "extraweps": [],
+      "win": false,
+      "kills": 76,
+      "ultra": 0,
+      "skills": [
+        17,
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "CV1OSVXYEq4W427",
+      "runId": 444481612
+    },
+    "yrGn5VMs38nzIwU": {
+      "name": "Volcan0",
+      "skin": 1,
+      "char": 2,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 51,
+      "extraweps": [],
+      "win": false,
+      "kills": 277,
+      "ultra": 0,
+      "skills": [
+        25,
+        6,
+        7,
+        28,
+        23,
+        1,
+        19
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "yrGn5VMs38nzIwU",
+      "runId": 444481612
+    },
+    "7ft1a1Yx1zv9RtH": {
+      "name": "isa",
+      "skin": 1,
+      "char": 2,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 63,
+      "bwep": 51,
+      "extraweps": [],
+      "win": false,
+      "kills": 151,
+      "ultra": 0,
+      "skills": [
+        24,
+        7,
+        16,
+        23
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "7ft1a1Yx1zv9RtH",
+      "runId": 444481612
+    }
+  }
 }

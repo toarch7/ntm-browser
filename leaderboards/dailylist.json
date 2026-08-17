@@ -1,4 +1,109 @@
 {
   "day": 17,
-  "entries": {}
+  "entries": {
+    "CV1OSVXYEq4W427": {
+      "name": "RO80T",
+      "skin": 1,
+      "char": 8,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 12,
+      "crown": 1,
+      "version": 2616,
+      "uid": "CV1OSVXYEq4W427",
+      "runId": 1006508173
+    },
+    "r806QDLkd2yCEBU": {
+      "name": "S♡♡♡m",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "r806QDLkd2yCEBU",
+      "runId": 1006508173
+    },
+    "yrGn5VMs38nzIwU": {
+      "name": "Volcan0",
+      "skin": 1,
+      "char": 8,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 11,
+      "extraweps": [],
+      "win": false,
+      "kills": 355,
+      "ultra": 0,
+      "skills": [
+        21,
+        8,
+        17,
+        27,
+        1,
+        9,
+        10
+      ],
+      "crown": 10,
+      "version": 2616,
+      "uid": "yrGn5VMs38nzIwU",
+      "runId": 1006508173
+    },
+    "7ft1a1Yx1zv9RtH": {
+      "name": "isa",
+      "skin": 0,
+      "char": 6,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 27,
+      "extraweps": [],
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        23,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7ft1a1Yx1zv9RtH",
+      "runId": 1006508173
+    },
+    "0D66CA9ZOuU26M5": {
+      "name": "Seeker90",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "0D66CA9ZOuU26M5",
+      "runId": 1006508173
+    }
+  }
 }
