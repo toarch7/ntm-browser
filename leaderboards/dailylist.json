@@ -208,6 +208,32 @@
       "version": 2616,
       "uid": "vNn9c5DjRyO3zcY",
       "runId": 1006508173
+    },
+    "AyjBrRzBJrZJIaa": {
+      "name": "Duck",
+      "skin": 0,
+      "char": 5,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 88,
+      "extraweps": [],
+      "win": false,
+      "kills": 229,
+      "ultra": 0,
+      "skills": [
+        7,
+        12,
+        13,
+        23,
+        9,
+        4
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "AyjBrRzBJrZJIaa",
+      "runId": 1006508173
     }
   }
 }
