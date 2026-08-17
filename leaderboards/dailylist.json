@@ -274,6 +274,49 @@
       "version": 2616,
       "uid": "0dVh0I86otXWGZt",
       "runId": 1006508173
+    },
+    "0AHI2n0hYeln7Ic": {
+      "name": "kb",
+      "skin": 0,
+      "char": 3,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0AHI2n0hYeln7Ic",
+      "runId": 1006508173
+    },
+    "261676Y76B1nPrH": {
+      "name": "Речистов",
+      "skin": 1,
+      "char": 6,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 39,
+      "extraweps": [],
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        21,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "261676Y76B1nPrH",
+      "runId": 1006508173
     }
   }
 }
