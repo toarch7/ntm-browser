@@ -27,14 +27,14 @@
       "name": "Volcan0",
       "skin": 1,
       "char": 2,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
       "wep": 76,
       "bwep": 51,
       "extraweps": [],
       "win": false,
-      "kills": 277,
+      "kills": 319,
       "ultra": 0,
       "skills": [
         25,
@@ -43,7 +43,8 @@
         28,
         23,
         1,
-        19
+        13,
+        10
       ],
       "crown": 2,
       "version": 2616,
@@ -72,6 +73,53 @@
       "crown": 2,
       "version": 2616,
       "uid": "7ft1a1Yx1zv9RtH",
+      "runId": 444481612
+    },
+    "azjaBZaYZQQzQzq": {
+      "name": "ParceNutri",
+      "skin": 1,
+      "char": 2,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 2,
+      "extraweps": [],
+      "win": false,
+      "kills": 127,
+      "ultra": 0,
+      "skills": [
+        7,
+        8
+      ],
+      "crown": 2,
+      "version": 3004,
+      "uid": "azjaBZaYZQQzQzq",
+      "runId": 444481612
+    },
+    "rzjyAbqQjBbBrYi": {
+      "name": "chrimsy",
+      "skin": 1,
+      "char": 2,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 77,
+      "extraweps": [],
+      "win": false,
+      "kills": 313,
+      "ultra": 0,
+      "skills": [
+        23,
+        8,
+        4,
+        2,
+        3
+      ],
+      "crown": 2,
+      "version": 3004,
+      "uid": "rzjyAbqQjBbBrYi",
       "runId": 444481612
     }
   }
