@@ -586,6 +586,68 @@
       "version": 2616,
       "uid": "0WfxS4drwnwCPQU",
       "runId": 704337285
+    },
+    "v92b05qCFoL0wIL": {
+      "name": "NEMESIS",
+      "skin": 0,
+      "char": 2,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "v92b05qCFoL0wIL",
+      "runId": 704337285
+    },
+    "7ft1a1Yx1zv9RtH": {
+      "name": "isa",
+      "skin": 0,
+      "char": 5,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 18,
+      "bwep": 3,
+      "extraweps": [],
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        1,
+        13,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7ft1a1Yx1zv9RtH",
+      "runId": 704337285
+    },
+    "MGCNqvAXAOG6Twm": {
+      "name": "Seeke",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "MGCNqvAXAOG6Twm",
+      "runId": 704337285
     }
   }
 }
