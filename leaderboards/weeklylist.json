@@ -899,23 +899,92 @@
       "name": "ssmaidana12",
       "skin": 1,
       "char": 2,
-      "area": 104,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 63,
+      "wep": 17,
       "bwep": 51,
       "extraweps": [],
       "win": false,
-      "kills": 154,
+      "kills": 157,
       "ultra": 0,
       "skills": [
         16,
         7,
-        19
+        28
       ],
       "crown": 2,
       "version": 2616,
       "uid": "967C7CZFo5uG9LN",
+      "runId": 444481612
+    },
+    "8sB2Q8EqpuH7BXJ": {
+      "name": "YUKI",
+      "skin": 1,
+      "char": 2,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 71,
+      "extraweps": [],
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        16,
+        2,
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "8sB2Q8EqpuH7BXJ",
+      "runId": 444481612
+    },
+    "Y10I2U90ZT5sB77": {
+      "name": "Seeker32",
+      "skin": 1,
+      "char": 2,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 66,
+      "extraweps": [],
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        24,
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "Y10I2U90ZT5sB77",
+      "runId": 444481612
+    },
+    "Iu4AAq5wWhHR2KJ": {
+      "name": "Hi",
+      "skin": 1,
+      "char": 2,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 112,
+      "extraweps": [],
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        16,
+        26,
+        28,
+        9
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "Iu4AAq5wWhHR2KJ",
       "runId": 444481612
     }
   }
