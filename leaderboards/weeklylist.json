@@ -1186,6 +1186,33 @@
       "version": 2616,
       "uid": "6579Lfy1OSppq3s",
       "runId": 444481612
+    },
+    "ZQBzrAaryzybRjq": {
+      "name": "Соплежуй",
+      "skin": 1,
+      "char": 2,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 9,
+      "bwep": 51,
+      "extraweps": [],
+      "win": false,
+      "kills": 221,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        7,
+        4,
+        25,
+        3,
+        23
+      ],
+      "crown": 2,
+      "version": 3004,
+      "uid": "ZQBzrAaryzybRjq",
+      "runId": 444481612
     }
   }
 }
