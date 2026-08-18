@@ -1419,19 +1419,23 @@
       "name": "kevin",
       "skin": 1,
       "char": 2,
-      "area": 3,
-      "subarea": 3,
+      "area": 6,
+      "subarea": 1,
       "loops": 0,
-      "wep": 79,
-      "bwep": 31,
+      "wep": 90,
+      "bwep": 63,
       "extraweps": [],
       "win": false,
-      "kills": 142,
+      "kills": 290,
       "ultra": 0,
       "skills": [
-        16,
+        25,
+        6,
         7,
-        28
+        19,
+        23,
+        1,
+        4
       ],
       "crown": 2,
       "version": 2616,
@@ -1484,6 +1488,50 @@
       "crown": 2,
       "version": 2616,
       "uid": "7KIiI1Y7e5X6u5L",
+      "runId": 444481612
+    },
+    "IYxQIv273Z1CFq3": {
+      "name": "FFFFFFFFFFFFFF",
+      "skin": 1,
+      "char": 2,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 66,
+      "extraweps": [],
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        16,
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "IYxQIv273Z1CFq3",
+      "runId": 444481612
+    },
+    "vEb9A1NV39N5jah": {
+      "name": "Byuzgaa",
+      "skin": 1,
+      "char": 2,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 51,
+      "extraweps": [],
+      "win": false,
+      "kills": 100,
+      "ultra": 0,
+      "skills": [
+        24,
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "vEb9A1NV39N5jah",
       "runId": 444481612
     }
   }
