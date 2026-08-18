@@ -731,6 +731,51 @@
       "version": 2616,
       "uid": "e36W9uAveS14K7P",
       "runId": 704337285
+    },
+    "0j35I9y5e1424bQ": {
+      "name": "D3V1L",
+      "skin": 0,
+      "char": 1,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 7,
+      "extraweps": [],
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "0j35I9y5e1424bQ",
+      "runId": 704337285
+    },
+    "B74n1Tm6qTitq0o": {
+      "name": "hardcore",
+      "skin": 0,
+      "char": 6,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 155,
+      "ultra": 0,
+      "skills": [
+        1,
+        4
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "B74n1Tm6qTitq0o",
+      "runId": 704337285
     }
   }
 }
