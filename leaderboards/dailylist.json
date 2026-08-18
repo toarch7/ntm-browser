@@ -259,6 +259,53 @@
       "version": 2616,
       "uid": "071OYA2Xt2K4I75",
       "runId": 704337285
+    },
+    "09uaHy0Khy48st2": {
+      "name": "DARKING",
+      "skin": 0,
+      "char": 1,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "09uaHy0Khy48st2",
+      "runId": 704337285
+    },
+    "c836p19XO0opUEV": {
+      "name": "alex",
+      "skin": 0,
+      "char": 4,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 25,
+      "extraweps": [],
+      "win": false,
+      "kills": 320,
+      "ultra": 0,
+      "skills": [
+        1,
+        14,
+        27,
+        16,
+        8,
+        4
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "c836p19XO0opUEV",
+      "runId": 704337285
     }
   }
 }
