@@ -1346,24 +1346,50 @@
       "skin": 1,
       "char": 2,
       "area": 5,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 71,
-      "bwep": 23,
+      "wep": 69,
+      "bwep": 51,
       "extraweps": [],
       "win": false,
-      "kills": 184,
+      "kills": 249,
       "ultra": 0,
       "skills": [
         16,
         7,
         28,
         23,
-        9
+        1,
+        26
       ],
       "crown": 2,
       "version": 2616,
       "uid": "4kw115nPc4HiFT5",
+      "runId": 444481612
+    },
+    "7i76SDL8Dw9MSGh": {
+      "name": "Krisfollatrabas",
+      "skin": 1,
+      "char": 2,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 113,
+      "bwep": 66,
+      "extraweps": [],
+      "win": false,
+      "kills": 195,
+      "ultra": 0,
+      "skills": [
+        17,
+        7,
+        28,
+        23,
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "7i76SDL8Dw9MSGh",
       "runId": 444481612
     }
   }
