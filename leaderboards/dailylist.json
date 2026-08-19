@@ -686,6 +686,74 @@
       "version": 2616,
       "uid": "1DMsRo1BN972zdy",
       "runId": 1282357668
+    },
+    "ijI8145L306Lw9o": {
+      "name": "MVM",
+      "skin": 1,
+      "char": 2,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 86,
+      "ultra": 0,
+      "skills": [
+        8,
+        28,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "ijI8145L306Lw9o",
+      "runId": 1282357668
+    },
+    "gE0qB3wWSeD1osz": {
+      "name": "BlackCat",
+      "skin": 0,
+      "char": 4,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 2,
+      "extraweps": [],
+      "win": false,
+      "kills": 97,
+      "ultra": 0,
+      "skills": [
+        21,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "gE0qB3wWSeD1osz",
+      "runId": 1282357668
+    },
+    "B74n1Tm6qTitq0o": {
+      "name": "hardcore",
+      "skin": 0,
+      "char": 2,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        8,
+        21,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "B74n1Tm6qTitq0o",
+      "runId": 1282357668
     }
   }
 }
