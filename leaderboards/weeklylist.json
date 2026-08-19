@@ -1712,6 +1712,53 @@
       "version": 2616,
       "uid": "m8shd50O232Ou9Q",
       "runId": 444481612
+    },
+    "01e4u8I3T3yru2L": {
+      "name": "ТурмалинМоль",
+      "skin": 1,
+      "char": 2,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 75,
+      "extraweps": [],
+      "win": false,
+      "kills": 172,
+      "ultra": 0,
+      "skills": [
+        16,
+        7,
+        23,
+        9
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "01e4u8I3T3yru2L",
+      "runId": 444481612
+    },
+    "6P77O92z0ek6rZ6": {
+      "name": "See",
+      "skin": 1,
+      "char": 2,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 42,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 156,
+      "ultra": 0,
+      "skills": [
+        24,
+        7,
+        19
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "6P77O92z0ek6rZ6",
+      "runId": 444481612
     }
   }
 }
