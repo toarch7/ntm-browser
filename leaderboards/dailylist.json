@@ -1,4 +1,132 @@
 {
   "day": 19,
-  "entries": {}
+  "entries": {
+    "9RT6s9n85mE7TN1": {
+      "name": "Wutifer",
+      "skin": 0,
+      "char": 12,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 81,
+      "extraweps": [],
+      "win": false,
+      "kills": 38,
+      "crown": 1,
+      "version": 2616,
+      "uid": "9RT6s9n85mE7TN1",
+      "runId": 1282357668
+    },
+    "93z65lvxbCGUxaT": {
+      "name": "moises",
+      "skin": 1,
+      "char": 2,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 69,
+      "extraweps": [],
+      "win": false,
+      "kills": 83,
+      "ultra": 0,
+      "skills": [
+        8,
+        3,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "93z65lvxbCGUxaT",
+      "runId": 1282357668
+    },
+    "4e7i0CN7g9vw02i": {
+      "name": "hardcore",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 34,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "4e7i0CN7g9vw02i",
+      "runId": 1282357668
+    },
+    "b4W7m4RD5f07Fa4": {
+      "name": "joseju",
+      "skin": 0,
+      "char": 2,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "extraweps": [],
+      "win": false,
+      "kills": 95,
+      "ultra": 0,
+      "skills": [
+        8,
+        28,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "b4W7m4RD5f07Fa4",
+      "runId": 1282357668
+    },
+    "L3p20mcd8Hya3np": {
+      "name": "Seeker",
+      "skin": 1,
+      "char": 8,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "L3p20mcd8Hya3np",
+      "runId": 1282357668
+    },
+    "7Yzb3cIqkih0nY2": {
+      "name": "pulpi21",
+      "skin": 1,
+      "char": 2,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 23,
+      "extraweps": [],
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        8,
+        28,
+        9,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "7Yzb3cIqkih0nY2",
+      "runId": 1282357668
+    }
+  }
 }
