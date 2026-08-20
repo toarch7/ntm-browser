@@ -1530,17 +1530,18 @@
       "skin": 1,
       "char": 2,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 71,
+      "wep": 31,
       "bwep": 51,
       "extraweps": [],
       "win": false,
-      "kills": 100,
+      "kills": 115,
       "ultra": 0,
       "skills": [
-        24,
-        7
+        16,
+        7,
+        19
       ],
       "crown": 2,
       "version": 2616,
