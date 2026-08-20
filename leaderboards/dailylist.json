@@ -637,6 +637,62 @@
       "version": 2616,
       "uid": "v92b05qCFoL0wIL",
       "runId": 332232815
+    },
+    "G934aW62uZcc3W6": {
+      "name": "Cayzenx",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "G934aW62uZcc3W6",
+      "runId": 332232815
+    },
+    "rD9dVDYIgeN57K3": {
+      "name": "gabril",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 7,
+      "crown": 1,
+      "version": 2616,
+      "uid": "rD9dVDYIgeN57K3",
+      "runId": 332232815
+    },
+    "jDo8rwWHIxTXm1f": {
+      "name": "luffy",
+      "skin": 0,
+      "char": 6,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 2,
+      "extraweps": [],
+      "win": false,
+      "kills": 68,
+      "ultra": 0,
+      "skills": [
+        27,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "jDo8rwWHIxTXm1f",
+      "runId": 332232815
     }
   }
 }

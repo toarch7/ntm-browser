@@ -2499,6 +2499,30 @@
       "version": 2616,
       "uid": "uo0Q179t9gUTY2K",
       "runId": 444481612
+    },
+    "jDo8rwWHIxTXm1f": {
+      "name": "luffy",
+      "skin": 1,
+      "char": 2,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 10,
+      "extraweps": [],
+      "win": false,
+      "kills": 192,
+      "ultra": 0,
+      "skills": [
+        16,
+        7,
+        23,
+        26
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "jDo8rwWHIxTXm1f",
+      "runId": 444481612
     }
   }
 }
