@@ -2361,11 +2361,11 @@
       "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 51,
-      "bwep": 62,
+      "wep": 66,
+      "bwep": 75,
       "extraweps": [],
       "win": false,
-      "kills": 175,
+      "kills": 198,
       "ultra": 0,
       "skills": [
         25,
@@ -2473,6 +2473,31 @@
       "crown": 2,
       "version": 2616,
       "uid": "gPsp1tM8e32521C",
+      "runId": 444481612
+    },
+    "uo0Q179t9gUTY2K": {
+      "name": "Seeker9031esrze",
+      "skin": 1,
+      "char": 2,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 15,
+      "extraweps": [],
+      "win": false,
+      "kills": 194,
+      "ultra": 0,
+      "skills": [
+        24,
+        7,
+        19,
+        26,
+        1
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "uo0Q179t9gUTY2K",
       "runId": 444481612
     }
   }
