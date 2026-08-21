@@ -1412,19 +1412,21 @@
       "name": "rira",
       "skin": 1,
       "char": 2,
-      "area": 2,
+      "area": 4,
       "subarea": 1,
       "loops": 0,
-      "wep": 71,
+      "wep": 55,
       "bwep": 51,
       "extraweps": [],
       "win": false,
-      "kills": 91,
+      "kills": 152,
       "ultra": 0,
       "skills": [
         25,
-        2,
-        26
+        6,
+        7,
+        19,
+        23
       ],
       "crown": 2,
       "version": 2616,
@@ -2899,6 +2901,28 @@
       "crown": 2,
       "version": 2616,
       "uid": "32059eBvO1rUXeB",
+      "runId": 444481612
+    },
+    "BAaBrrbjiJriJyq": {
+      "name": "zarb_lord",
+      "skin": 1,
+      "char": 2,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 51,
+      "extraweps": [],
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        7,
+        8
+      ],
+      "crown": 2,
+      "version": 3004,
+      "uid": "BAaBrrbjiJriJyq",
       "runId": 444481612
     }
   }
