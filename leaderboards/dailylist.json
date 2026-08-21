@@ -1,4 +1,112 @@
 {
   "day": 21,
-  "entries": {}
+  "entries": {
+    "3LL0dP4hbm906m7": {
+      "name": "ismael",
+      "skin": 1,
+      "char": 2,
+      "area": 7,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 9,
+      "bwep": 105,
+      "extraweps": [],
+      "win": false,
+      "kills": 1346,
+      "ultra": 1,
+      "skills": [
+        10,
+        3,
+        8,
+        14,
+        16,
+        1,
+        6,
+        24
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "3LL0dP4hbm906m7",
+      "runId": 615872400
+    },
+    "b4W7m4RD5f07Fa4": {
+      "name": "joseju",
+      "skin": 0,
+      "char": 2,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 12,
+      "extraweps": [],
+      "win": false,
+      "kills": 258,
+      "ultra": 0,
+      "skills": [
+        10,
+        28,
+        8,
+        7,
+        21,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "b4W7m4RD5f07Fa4",
+      "runId": 615872400
+    },
+    "c836p19XO0opUEV": {
+      "name": "alex",
+      "skin": 0,
+      "char": 4,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 65,
+      "bwep": 47,
+      "extraweps": [],
+      "win": false,
+      "kills": 357,
+      "ultra": 0,
+      "skills": [
+        27,
+        14,
+        1,
+        22,
+        29,
+        7
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "c836p19XO0opUEV",
+      "runId": 615872400
+    },
+    "S6tzFa3AHW6GoYK": {
+      "name": "Qozz",
+      "skin": 1,
+      "char": 3,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 77,
+      "bwep": 28,
+      "extraweps": [],
+      "win": false,
+      "kills": 377,
+      "ultra": 2,
+      "skills": [
+        4,
+        3,
+        1,
+        2,
+        14,
+        27,
+        22
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "S6tzFa3AHW6GoYK",
+      "runId": 615872400
+    }
+  }
 }
