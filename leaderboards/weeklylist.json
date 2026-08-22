@@ -3655,23 +3655,47 @@
       "name": "Seeke",
       "skin": 1,
       "char": 2,
-      "area": 3,
-      "subarea": 3,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 23,
-      "bwep": 51,
+      "wep": 79,
+      "bwep": 55,
       "extraweps": [],
       "win": false,
-      "kills": 148,
+      "kills": 153,
       "ultra": 0,
       "skills": [
-        17,
-        26,
-        28
+        24,
+        13,
+        7,
+        26
       ],
       "crown": 2,
       "version": 2616,
       "uid": "fDUQJIWF0MqeihV",
+      "runId": 444481612
+    },
+    "sE9W5nCnw7m3Xam": {
+      "name": "dinjones",
+      "skin": 1,
+      "char": 2,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 51,
+      "extraweps": [],
+      "win": false,
+      "kills": 79,
+      "ultra": 0,
+      "skills": [
+        25,
+        2,
+        13
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "sE9W5nCnw7m3Xam",
       "runId": 444481612
     }
   }
