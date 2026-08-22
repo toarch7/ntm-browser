@@ -3272,18 +3272,18 @@
       "name": "PICXE",
       "skin": 1,
       "char": 2,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
       "wep": 71,
-      "bwep": 88,
+      "bwep": 51,
       "extraweps": [],
       "win": false,
-      "kills": 81,
+      "kills": 106,
       "ultra": 0,
       "skills": [
-        24,
-        26
+        16,
+        7
       ],
       "crown": 2,
       "version": 2616,
@@ -3553,6 +3553,30 @@
       "crown": 2,
       "version": 2616,
       "uid": "D97qG0fu6AB6Nz5",
+      "runId": 444481612
+    },
+    "xmKjH6Sgux09Nyv": {
+      "name": "Boom0930",
+      "skin": 1,
+      "char": 2,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 45,
+      "extraweps": [],
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        25,
+        6,
+        7,
+        28
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "xmKjH6Sgux09Nyv",
       "runId": 444481612
     }
   }
