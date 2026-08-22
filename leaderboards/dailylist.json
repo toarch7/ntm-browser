@@ -1,4 +1,113 @@
 {
   "day": 22,
-  "entries": {}
+  "entries": {
+    "967C7CZFo5uG9LN": {
+      "name": "ssmaidana12",
+      "skin": 1,
+      "char": 2,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        1,
+        10,
+        3,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "967C7CZFo5uG9LN",
+      "runId": 340211282
+    },
+    "CVG14q7073Pv6a4": {
+      "name": "kyose",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 3,
+      "crown": 1,
+      "version": 2616,
+      "uid": "CVG14q7073Pv6a4",
+      "runId": 340211282
+    },
+    "yrGn5VMs38nzIwU": {
+      "name": "Volcan0",
+      "skin": 1,
+      "char": 8,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 146,
+      "ultra": 0,
+      "skills": [
+        1,
+        27,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "yrGn5VMs38nzIwU",
+      "runId": 340211282
+    },
+    "o75TyJ40fXs8c9r": {
+      "name": "ga",
+      "skin": 0,
+      "char": 6,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 69,
+      "extraweps": [],
+      "win": false,
+      "kills": 158,
+      "ultra": 0,
+      "skills": [
+        1,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "o75TyJ40fXs8c9r",
+      "runId": 340211282
+    },
+    "zbZRJbBqiYzQAAQ": {
+      "name": "Un_Waffle",
+      "skin": 1,
+      "char": 8,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 30,
+      "extraweps": [],
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        1,
+        27
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "zbZRJbBqiYzQAAQ",
+      "runId": 340211282
+    }
+  }
 }
