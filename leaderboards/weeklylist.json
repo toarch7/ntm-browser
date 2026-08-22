@@ -482,20 +482,23 @@
       "name": "W3bos",
       "skin": 1,
       "char": 2,
-      "area": 104,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
-      "wep": 63,
-      "bwep": 17,
+      "wep": 57,
+      "bwep": 26,
       "extraweps": [],
       "win": false,
-      "kills": 156,
+      "kills": 324,
       "ultra": 0,
       "skills": [
         16,
         7,
+        28,
+        23,
+        4,
         19,
-        23
+        10
       ],
       "crown": 2,
       "version": 2616,
@@ -3768,6 +3771,28 @@
       "crown": 2,
       "version": 2616,
       "uid": "W8oCQo7y9mk34TG",
+      "runId": 444481612
+    },
+    "izIrabJRrAjjQir": {
+      "name": "Seeker319",
+      "skin": 1,
+      "char": 2,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 51,
+      "extraweps": [],
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        7,
+        8
+      ],
+      "crown": 2,
+      "version": 3003,
+      "uid": "izIrabJRrAjjQir",
       "runId": 444481612
     }
   }
