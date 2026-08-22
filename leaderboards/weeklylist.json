@@ -3602,6 +3602,77 @@
       "version": 3004,
       "uid": "yyaQZZAyiBRZBir",
       "runId": 444481612
+    },
+    "O3hoIoyMQe0RIkx": {
+      "name": "Banan_kapkan",
+      "skin": 1,
+      "char": 2,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 71,
+      "extraweps": [],
+      "win": false,
+      "kills": 154,
+      "ultra": 0,
+      "skills": [
+        16,
+        7,
+        28,
+        23
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "O3hoIoyMQe0RIkx",
+      "runId": 444481612
+    },
+    "zIYbbIqYyriqjra": {
+      "name": "Seeker893",
+      "skin": 1,
+      "char": 2,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 77,
+      "bwep": 84,
+      "extraweps": [],
+      "win": false,
+      "kills": 329,
+      "ultra": 0,
+      "skills": [
+        23,
+        8,
+        28,
+        9
+      ],
+      "crown": 2,
+      "version": 3003,
+      "uid": "zIYbbIqYyriqjra",
+      "runId": 444481612
+    },
+    "fDUQJIWF0MqeihV": {
+      "name": "Seeke",
+      "skin": 1,
+      "char": 2,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 51,
+      "extraweps": [],
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        17,
+        26,
+        28
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "fDUQJIWF0MqeihV",
+      "runId": 444481612
     }
   }
 }
