@@ -3697,6 +3697,78 @@
       "version": 2616,
       "uid": "sE9W5nCnw7m3Xam",
       "runId": 444481612
+    },
+    "63U2n5bUo99FYQf": {
+      "name": "Sparda",
+      "skin": 1,
+      "char": 2,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 112,
+      "bwep": 51,
+      "extraweps": [],
+      "win": false,
+      "kills": 271,
+      "ultra": 0,
+      "skills": [
+        16,
+        7,
+        24,
+        23,
+        1,
+        19
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "63U2n5bUo99FYQf",
+      "runId": 444481612
+    },
+    "Pr44qAy4DuPPeyb": {
+      "name": "leon",
+      "skin": 1,
+      "char": 2,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 71,
+      "extraweps": [],
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        24,
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "Pr44qAy4DuPPeyb",
+      "runId": 444481612
+    },
+    "W8oCQo7y9mk34TG": {
+      "name": "gabo3lr7",
+      "skin": 1,
+      "char": 2,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 112,
+      "extraweps": [],
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        16,
+        7,
+        28,
+        23
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "W8oCQo7y9mk34TG",
+      "runId": 444481612
     }
   }
 }
