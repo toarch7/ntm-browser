@@ -3794,6 +3794,52 @@
       "version": 3003,
       "uid": "izIrabJRrAjjQir",
       "runId": 444481612
+    },
+    "a00O9SbvWgMV0O3": {
+      "name": "Brick",
+      "skin": 1,
+      "char": 2,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 51,
+      "bwep": 4,
+      "extraweps": [],
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        25,
+        22,
+        7,
+        24
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "a00O9SbvWgMV0O3",
+      "runId": 444481612
+    },
+    "O3ZM2Uq5rYC4b41": {
+      "name": "Alancdp",
+      "skin": 1,
+      "char": 2,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 23,
+      "extraweps": [],
+      "win": false,
+      "kills": 101,
+      "ultra": 0,
+      "skills": [
+        16,
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "O3ZM2Uq5rYC4b41",
+      "runId": 444481612
     }
   }
 }
