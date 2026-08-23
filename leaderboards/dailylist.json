@@ -783,6 +783,44 @@
       "version": 2616,
       "uid": "a9K93SKR78TKrP1",
       "runId": 444387938
+    },
+    "Cz0Gh43s27G3Ap0": {
+      "name": "Seeker",
+      "skin": 0,
+      "char": 3,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Cz0Gh43s27G3Ap0",
+      "runId": 444387938
+    },
+    "VM4iI42kf6L1JTp": {
+      "name": "Kirito",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "VM4iI42kf6L1JTp",
+      "runId": 444387938
     }
   }
 }
