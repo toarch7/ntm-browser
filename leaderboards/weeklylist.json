@@ -3277,17 +3277,18 @@
       "skin": 1,
       "char": 2,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 71,
-      "bwep": 51,
+      "wep": 66,
+      "bwep": 16,
       "extraweps": [],
       "win": false,
-      "kills": 106,
+      "kills": 132,
       "ultra": 0,
       "skills": [
-        16,
-        7
+        24,
+        7,
+        19
       ],
       "crown": 2,
       "version": 2616,
@@ -3980,6 +3981,29 @@
       "crown": 2,
       "version": 2616,
       "uid": "y4g070it3hj1wZd",
+      "runId": 444481612
+    },
+    "qEu3G89HrskwLWr": {
+      "name": "EL_MACHO",
+      "skin": 1,
+      "char": 2,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 51,
+      "extraweps": [],
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        25,
+        22,
+        2
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "qEu3G89HrskwLWr",
       "runId": 444481612
     }
   }
