@@ -1,4 +1,62 @@
 {
   "day": 23,
-  "entries": {}
+  "entries": {
+    "zbZRJbBqiYzQAAQ": {
+      "name": "Un_Waffle",
+      "skin": 1,
+      "char": 8,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 13,
+      "ultra": 0,
+      "skills": [
+        1
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "zbZRJbBqiYzQAAQ",
+      "runId": 444387938
+    },
+    "Ad01H065Re1gDB3": {
+      "name": "gabril",
+      "skin": 0,
+      "char": 1,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 4,
+      "extraweps": [],
+      "win": false,
+      "kills": 44,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ad01H065Re1gDB3",
+      "runId": 444387938
+    },
+    "3LMOEcS7u78nk2v": {
+      "name": "crick",
+      "skin": 0,
+      "char": 8,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "3LMOEcS7u78nk2v",
+      "runId": 444387938
+    }
+  }
 }
