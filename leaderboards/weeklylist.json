@@ -1785,21 +1785,22 @@
       "name": "un♡♡♡wslayer",
       "skin": 1,
       "char": 2,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 1,
       "loops": 0,
-      "wep": 23,
+      "wep": 77,
       "bwep": 26,
       "extraweps": [],
       "win": false,
-      "kills": 247,
+      "kills": 303,
       "ultra": 0,
       "skills": [
         25,
-        22,
         2,
+        22,
         7,
-        23
+        23,
+        19
       ],
       "crown": 2,
       "version": 2616,
@@ -3908,6 +3909,30 @@
       "crown": 2,
       "version": 2616,
       "uid": "ee8cGtB2F4a4E07",
+      "runId": 444481612
+    },
+    "zjYYzRqiiJIjaaz": {
+      "name": "Jet",
+      "skin": 1,
+      "char": 2,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 76,
+      "bwep": 37,
+      "extraweps": [],
+      "win": false,
+      "kills": 267,
+      "ultra": 0,
+      "skills": [
+        7,
+        8,
+        4,
+        27
+      ],
+      "crown": 2,
+      "version": 3004,
+      "uid": "zjYYzRqiiJIjaaz",
       "runId": 444481612
     }
   }
