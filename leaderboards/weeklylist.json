@@ -230,6 +230,52 @@
       "version": 2616,
       "uid": "17365naAJX8a4p9",
       "runId": 1894928081
+    },
+    "S6UYT9l065DdqnL": {
+      "name": "zangetsu",
+      "skin": 1,
+      "char": 5,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 55,
+      "bwep": 72,
+      "extraweps": [],
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        8,
+        6,
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "S6UYT9l065DdqnL",
+      "runId": 1894928081
+    },
+    "rPJxGEcC75zf46u": {
+      "name": "Rojo",
+      "skin": 1,
+      "char": 5,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 55,
+      "extraweps": [],
+      "win": false,
+      "kills": 144,
+      "ultra": 0,
+      "skills": [
+        7,
+        6,
+        4
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "rPJxGEcC75zf46u",
+      "runId": 1894928081
     }
   }
 }
