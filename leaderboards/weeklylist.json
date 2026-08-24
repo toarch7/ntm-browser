@@ -440,6 +440,57 @@
       "version": 2616,
       "uid": "bD277OC6rg2a6f6",
       "runId": 1894928081
+    },
+    "4Hx6l9tfW93i9G3": {
+      "name": "iron",
+      "skin": 1,
+      "char": 5,
+      "area": 1,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 11,
+      "bwep": 26,
+      "extraweps": [],
+      "win": false,
+      "kills": 576,
+      "ultra": 1,
+      "skills": [
+        8,
+        4,
+        10,
+        1,
+        12,
+        21
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "4Hx6l9tfW93i9G3",
+      "runId": 1894928081
+    },
+    "8awjj0UA635PUcy": {
+      "name": "vick",
+      "skin": 1,
+      "char": 5,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 16,
+      "bwep": 59,
+      "extraweps": [],
+      "win": false,
+      "kills": 182,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        4,
+        10,
+        24
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "8awjj0UA635PUcy",
+      "runId": 1894928081
     }
   }
 }
