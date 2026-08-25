@@ -1097,19 +1097,17 @@
       "name": "deyhangg",
       "skin": 1,
       "char": 5,
-      "area": 5,
+      "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 72,
-      "bwep": 10,
+      "wep": 14,
+      "bwep": 16,
       "extraweps": [],
       "win": false,
-      "kills": 57,
+      "kills": 64,
       "ultra": 0,
       "skills": [
-        7,
-        1,
-        4
+        7
       ],
       "crown": 2,
       "version": 2616,
@@ -1414,6 +1412,28 @@
       "crown": 2,
       "version": 2616,
       "uid": "KKEo1LGly82YLH6",
+      "runId": 1894928081
+    },
+    "yIJqzJJyyqaJqIy": {
+      "name": "Rednui",
+      "skin": 1,
+      "char": 5,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 42,
+      "bwep": 57,
+      "extraweps": [],
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        13,
+        6
+      ],
+      "crown": 2,
+      "version": 3004,
+      "uid": "yIJqzJJyyqaJqIy",
       "runId": 1894928081
     }
   }
