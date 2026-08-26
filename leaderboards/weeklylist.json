@@ -523,20 +523,22 @@
       "name": "jesus",
       "skin": 1,
       "char": 5,
-      "area": 5,
-      "subarea": 2,
-      "loops": 0,
-      "wep": 13,
-      "bwep": 113,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 74,
+      "bwep": 60,
       "extraweps": [],
       "win": false,
-      "kills": 193,
-      "ultra": 0,
+      "kills": 362,
+      "ultra": 1,
       "skills": [
         8,
         4,
-        23,
-        14
+        10,
+        1,
+        13,
+        17
       ],
       "crown": 2,
       "version": 2616,
@@ -1528,6 +1530,51 @@
       "crown": 2,
       "version": 2616,
       "uid": "sE9W5nCnw7m3Xam",
+      "runId": 1894928081
+    },
+    "uzsHEMbcoRv7ntX": {
+      "name": "Salv._.zzz",
+      "skin": 1,
+      "char": 5,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 31,
+      "extraweps": [],
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "uzsHEMbcoRv7ntX",
+      "runId": 1894928081
+    },
+    "WwqDqY2b4X23R63": {
+      "name": "Seeker903a12",
+      "skin": 1,
+      "char": 5,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 76,
+      "extraweps": [],
+      "win": false,
+      "kills": 176,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7,
+        10
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "WwqDqY2b4X23R63",
       "runId": 1894928081
     }
   }
