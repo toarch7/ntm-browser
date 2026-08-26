@@ -785,19 +785,18 @@
       "name": "Seeker053",
       "skin": 1,
       "char": 5,
-      "area": 3,
-      "subarea": 2,
+      "area": 104,
+      "subarea": 1,
       "loops": 0,
-      "wep": 19,
-      "bwep": 23,
+      "wep": 23,
+      "bwep": 30,
       "extraweps": [],
       "win": false,
-      "kills": 115,
+      "kills": 160,
       "ultra": 0,
       "skills": [
-        17,
         6,
-        7
+        3
       ],
       "crown": 2,
       "version": 3003,
@@ -1434,6 +1433,30 @@
       "crown": 2,
       "version": 3004,
       "uid": "yIJqzJJyyqaJqIy",
+      "runId": 1894928081
+    },
+    "IeA7p3XbRjtwyts": {
+      "name": "moisesconcrocks",
+      "skin": 1,
+      "char": 5,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 70,
+      "extraweps": [],
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        8,
+        1,
+        7,
+        23
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "IeA7p3XbRjtwyts",
       "runId": 1894928081
     }
   }
