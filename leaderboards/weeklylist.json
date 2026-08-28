@@ -402,19 +402,19 @@
       "name": "Seeker9031esrze",
       "skin": 1,
       "char": 5,
-      "area": 104,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
-      "wep": 31,
-      "bwep": 61,
+      "wep": 34,
+      "bwep": 114,
       "extraweps": [],
       "win": false,
-      "kills": 134,
+      "kills": 167,
       "ultra": 0,
       "skills": [
         8,
         1,
-        4
+        9
       ],
       "crown": 2,
       "version": 2616,
@@ -2362,6 +2362,116 @@
       "crown": 2,
       "version": 2616,
       "uid": "2H0WL9t0Bzh32rP",
+      "runId": 1894928081
+    },
+    "1o06lIX2eR9I2My": {
+      "name": "EnmaRC",
+      "skin": 1,
+      "char": 5,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 16,
+      "extraweps": [],
+      "win": false,
+      "kills": 175,
+      "ultra": 0,
+      "skills": [
+        7,
+        1,
+        4,
+        23
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "1o06lIX2eR9I2My",
+      "runId": 1894928081
+    },
+    "c429zynJ1kCmOzM": {
+      "name": "Mr.♡♡♡S",
+      "skin": 1,
+      "char": 5,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 72,
+      "extraweps": [],
+      "win": false,
+      "kills": 60,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "c429zynJ1kCmOzM",
+      "runId": 1894928081
+    },
+    "yBbUXEmQ55Uw8e5": {
+      "name": "ezy7y",
+      "skin": 1,
+      "char": 5,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 31,
+      "extraweps": [],
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        8,
+        1
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "yBbUXEmQ55Uw8e5",
+      "runId": 1894928081
+    },
+    "V3jDsY4nto5N4ZH": {
+      "name": "un♡♡♡wslayer",
+      "skin": 1,
+      "char": 5,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 23,
+      "extraweps": [],
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        7,
+        10
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "V3jDsY4nto5N4ZH",
+      "runId": 1894928081
+    },
+    "vJjq0XGzYBADTWH": {
+      "name": "sacro",
+      "skin": 1,
+      "char": 5,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 72,
+      "bwep": 2,
+      "extraweps": [],
+      "win": false,
+      "kills": 59,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "vJjq0XGzYBADTWH",
       "runId": 1894928081
     }
   }
