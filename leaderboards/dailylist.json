@@ -1,4 +1,70 @@
 {
   "day": 29,
-  "entries": {}
+  "entries": {
+    "ybqRjAYZIBzAYZR": {
+      "name": "Rokenizu",
+      "skin": 0,
+      "char": 8,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 70,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 253,
+      "ultra": 0,
+      "skills": [
+        1,
+        4,
+        14,
+        9,
+        17
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "ybqRjAYZIBzAYZR",
+      "runId": 276309785
+    },
+    "91UeTx63vIZrh8B": {
+      "name": "VAILRAIL",
+      "skin": 1,
+      "char": 2,
+      "area": 7,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 76,
+      "extraweps": [],
+      "win": false,
+      "kills": 204,
+      "ultra": 0,
+      "skills": [
+        14,
+        8,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "91UeTx63vIZrh8B",
+      "runId": 276309785
+    },
+    "r806QDLkd2yCEBU": {
+      "name": "S♡♡♡m",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 1,
+      "crown": 1,
+      "version": 2616,
+      "uid": "r806QDLkd2yCEBU",
+      "runId": 276309785
+    }
+  }
 }
