@@ -5,18 +5,22 @@
       "name": "Boom0930",
       "skin": 1,
       "char": 7,
-      "area": 2,
-      "subarea": 1,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 19,
-      "bwep": 17,
+      "wep": 4,
+      "bwep": 23,
       "extraweps": [],
       "win": false,
-      "kills": 97,
+      "kills": 292,
       "ultra": 0,
       "skills": [
         4,
-        1
+        1,
+        24,
+        25,
+        28,
+        7
       ],
       "crown": 7,
       "version": 2616,
@@ -1742,6 +1746,52 @@
       "crown": 7,
       "version": 2616,
       "uid": "01e4u8I3T3yru2L",
+      "runId": 1496914448
+    },
+    "ajQyzyzQIYrzJQq": {
+      "name": "Dexter¥",
+      "skin": 1,
+      "char": 7,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 86,
+      "extraweps": [],
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        7,
+        14
+      ],
+      "crown": 7,
+      "version": 3004,
+      "uid": "ajQyzyzQIYrzJQq",
+      "runId": 1496914448
+    },
+    "a9K93SKR78TKrP1": {
+      "name": "Spicog3",
+      "skin": 1,
+      "char": 7,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 86,
+      "extraweps": [],
+      "win": false,
+      "kills": 217,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        27,
+        25
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "a9K93SKR78TKrP1",
       "runId": 1496914448
     }
   }
