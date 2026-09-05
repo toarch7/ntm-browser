@@ -923,14 +923,14 @@
       "name": "Seeke",
       "skin": 1,
       "char": 7,
-      "area": 5,
-      "subarea": 3,
+      "area": 7,
+      "subarea": 2,
       "loops": 0,
-      "wep": 19,
-      "bwep": 8,
+      "wep": 70,
+      "bwep": 113,
       "extraweps": [],
       "win": false,
-      "kills": 430,
+      "kills": 537,
       "ultra": 0,
       "skills": [
         4,
@@ -940,7 +940,8 @@
         10,
         28,
         7,
-        17
+        17,
+        14
       ],
       "crown": 7,
       "version": 2616,
@@ -1893,6 +1894,54 @@
       "crown": 7,
       "version": 2616,
       "uid": "kB84K70L191yEV1",
+      "runId": 1496914448
+    },
+    "KKEo1LGly82YLH6": {
+      "name": "AMATHEUR",
+      "skin": 1,
+      "char": 7,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 86,
+      "extraweps": [],
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        19,
+        4,
+        3
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "KKEo1LGly82YLH6",
+      "runId": 1496914448
+    },
+    "0oGyoKfZo06LCjB": {
+      "name": "squeaker",
+      "skin": 1,
+      "char": 7,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 52,
+      "extraweps": [],
+      "win": false,
+      "kills": 241,
+      "ultra": 0,
+      "skills": [
+        9,
+        1,
+        21,
+        22,
+        8
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "0oGyoKfZo06LCjB",
       "runId": 1496914448
     }
   }
