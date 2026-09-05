@@ -923,20 +923,24 @@
       "name": "Seeke",
       "skin": 1,
       "char": 7,
-      "area": 3,
+      "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 8,
-      "bwep": 61,
+      "wep": 19,
+      "bwep": 8,
       "extraweps": [],
       "win": false,
-      "kills": 224,
+      "kills": 430,
       "ultra": 0,
       "skills": [
         4,
         1,
         27,
-        25
+        25,
+        10,
+        28,
+        7,
+        17
       ],
       "crown": 7,
       "version": 2616,
@@ -1866,6 +1870,29 @@
       "crown": 7,
       "version": 2616,
       "uid": "p5cA9AnzcZ874KD",
+      "runId": 1496914448
+    },
+    "kB84K70L191yEV1": {
+      "name": "Seeker86",
+      "skin": 1,
+      "char": 7,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 2,
+      "extraweps": [],
+      "win": false,
+      "kills": 139,
+      "ultra": 0,
+      "skills": [
+        19,
+        1,
+        27
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "kB84K70L191yEV1",
       "runId": 1496914448
     }
   }
