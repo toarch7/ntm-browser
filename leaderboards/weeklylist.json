@@ -1844,6 +1844,28 @@
       "version": 2616,
       "uid": "1wZM4Hno1RY4Nr2",
       "runId": 1496914448
+    },
+    "p5cA9AnzcZ874KD": {
+      "name": "Clown",
+      "skin": 1,
+      "char": 7,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        4,
+        3
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "p5cA9AnzcZ874KD",
+      "runId": 1496914448
     }
   }
 }
