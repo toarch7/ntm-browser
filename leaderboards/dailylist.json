@@ -701,6 +701,95 @@
       "version": 2616,
       "uid": "EsCsrbR5ewX4Weg",
       "runId": 783746583
+    },
+    "b07Jywhe18986XP": {
+      "name": "Ratswell",
+      "skin": 0,
+      "char": 2,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        3,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "b07Jywhe18986XP",
+      "runId": 783746583
+    },
+    "967C7CZFo5uG9LN": {
+      "name": "ssmaidana12",
+      "skin": 1,
+      "char": 2,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 9,
+      "extraweps": [],
+      "win": false,
+      "kills": 182,
+      "ultra": 0,
+      "skills": [
+        7,
+        6,
+        17,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "967C7CZFo5uG9LN",
+      "runId": 783746583
+    },
+    "zbZRJbBqiYzQAAQ": {
+      "name": "Un_Waffle",
+      "skin": 0,
+      "char": 7,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        28,
+        9
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "zbZRJbBqiYzQAAQ",
+      "runId": 783746583
+    },
+    "rKPcXn5NttSypN9": {
+      "name": "kiriel",
+      "skin": 0,
+      "char": 4,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 66,
+      "ultra": 0,
+      "skills": [
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "rKPcXn5NttSypN9",
+      "runId": 783746583
     }
   }
 }
