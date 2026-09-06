@@ -471,6 +471,132 @@
       "version": 3004,
       "uid": "yiaqIJRRbJqIJqy",
       "runId": 783746583
+    },
+    "3iY4DdlsEUE2U0X": {
+      "name": "Akilesler",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 0,
+      "crown": 1,
+      "version": 2616,
+      "uid": "3iY4DdlsEUE2U0X",
+      "runId": 783746583
+    },
+    "7ft1a1Yx1zv9RtH": {
+      "name": "ISA",
+      "skin": 0,
+      "char": 5,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 91,
+      "bwep": 58,
+      "extraweps": [],
+      "win": false,
+      "kills": 234,
+      "ultra": 0,
+      "skills": [
+        7,
+        24,
+        1
+      ],
+      "crown": 2,
+      "version": 2616,
+      "uid": "7ft1a1Yx1zv9RtH",
+      "runId": 783746583
+    },
+    "z8riLROzd7uBxLJ": {
+      "name": "apolito",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 27,
+      "extraweps": [],
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "z8riLROzd7uBxLJ",
+      "runId": 783746583
+    },
+    "UHxI9HqvuBAUTaa": {
+      "name": "stevan",
+      "skin": 1,
+      "char": 8,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 26,
+      "bwep": 112,
+      "extraweps": [],
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        3,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "UHxI9HqvuBAUTaa",
+      "runId": 783746583
+    },
+    "XGHfIK7A9b3viCr": {
+      "name": "nakamura",
+      "skin": 0,
+      "char": 8,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        7,
+        25
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "XGHfIK7A9b3viCr",
+      "runId": 783746583
+    },
+    "G86P472uRy496yg": {
+      "name": "Rugaldrx",
+      "skin": 0,
+      "char": 11,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 21,
+      "bwep": 69,
+      "extraweps": [],
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "G86P472uRy496yg",
+      "runId": 783746583
     }
   }
 }
