@@ -1,4 +1,74 @@
 {
   "seed": 2128404656,
-  "entries": {}
+  "entries": {
+    "vra5KnowUrjfnLz": {
+      "name": "vinagre",
+      "skin": 0,
+      "char": 11,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 87,
+      "extraweps": [],
+      "win": false,
+      "kills": 143,
+      "ultra": 0,
+      "skills": [
+        8,
+        10
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "vra5KnowUrjfnLz",
+      "runId": 2128404656
+    },
+    "677ONt7IID5NlU4": {
+      "name": "artem",
+      "skin": 0,
+      "char": 11,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 87,
+      "extraweps": [],
+      "win": false,
+      "kills": 159,
+      "ultra": 0,
+      "skills": [
+        8,
+        10,
+        17
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "677ONt7IID5NlU4",
+      "runId": 2128404656
+    },
+    "yrGn5VMs38nzIwU": {
+      "name": "Volcan0",
+      "skin": 0,
+      "char": 11,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 66,
+      "bwep": 87,
+      "extraweps": [],
+      "win": false,
+      "kills": 242,
+      "ultra": 0,
+      "skills": [
+        8,
+        9,
+        4,
+        7
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "yrGn5VMs38nzIwU",
+      "runId": 2128404656
+    }
+  }
 }

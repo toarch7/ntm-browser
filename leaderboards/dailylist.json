@@ -1,4 +1,109 @@
 {
   "day": 7,
-  "entries": {}
+  "entries": {
+    "56Lfu2HQ3px8z2a": {
+      "name": "Ol'Syp",
+      "skin": 1,
+      "char": 10,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 29,
+      "bwep": 88,
+      "extraweps": [],
+      "win": false,
+      "kills": 331,
+      "ultra": 0,
+      "skills": [
+        27,
+        1,
+        9,
+        8,
+        4,
+        25,
+        24,
+        13
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "56Lfu2HQ3px8z2a",
+      "runId": 361257497
+    },
+    "RHuBWR0w6X7Xb7W": {
+      "name": "BloodHanter",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 5,
+      "extraweps": [],
+      "win": false,
+      "kills": 13,
+      "crown": 1,
+      "version": 2616,
+      "uid": "RHuBWR0w6X7Xb7W",
+      "runId": 361257497
+    },
+    "1V2yxH4ND987E5N": {
+      "name": "Joniii",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 37,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1V2yxH4ND987E5N",
+      "runId": 361257497
+    },
+    "P93144KXE6RQ8IW": {
+      "name": "pirdun",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "P93144KXE6RQ8IW",
+      "runId": 361257497
+    },
+    "r8O7xovcd95FIW7": {
+      "name": "luk",
+      "skin": 0,
+      "char": 2,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "r8O7xovcd95FIW7",
+      "runId": 361257497
+    }
+  }
 }
