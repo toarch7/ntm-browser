@@ -1,4 +1,44 @@
 {
   "day": 10,
-  "entries": {}
+  "entries": {
+    "KKEo1LGly82YLH6": {
+      "name": "AMATHEUR",
+      "skin": 0,
+      "char": 7,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        22,
+        16
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "KKEo1LGly82YLH6",
+      "runId": 954028504
+    },
+    "n1W3Wyi4ERZk58k": {
+      "name": "s♡♡♡oaib",
+      "skin": 0,
+      "char": 1,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "n1W3Wyi4ERZk58k",
+      "runId": 954028504
+    }
+  }
 }
