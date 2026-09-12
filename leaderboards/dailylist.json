@@ -1,4 +1,75 @@
 {
   "day": 12,
-  "entries": {}
+  "entries": {
+    "yiqaryyYZYzyZBZ": {
+      "name": "ROKEN",
+      "skin": 0,
+      "char": 12,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 8,
+      "bwep": 20,
+      "extraweps": [],
+      "win": false,
+      "kills": 141,
+      "ultra": 0,
+      "skills": [
+        25,
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "yiqaryyYZYzyZBZ",
+      "runId": 547101596
+    },
+    "prs849Hs5DTyR0J": {
+      "name": "Dom",
+      "skin": 0,
+      "char": 2,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        28,
+        7,
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "prs849Hs5DTyR0J",
+      "runId": 547101596
+    },
+    "CVG14q7073Pv6a4": {
+      "name": "Kyose",
+      "skin": 0,
+      "char": 9,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 46,
+      "bwep": 66,
+      "extraweps": [],
+      "win": false,
+      "kills": 162,
+      "ultra": 0,
+      "skills": [
+        7,
+        24,
+        13,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "CVG14q7073Pv6a4",
+      "runId": 547101596
+    }
+  }
 }
