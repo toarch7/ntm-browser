@@ -479,6 +479,53 @@
       "version": 2616,
       "uid": "r8O7xovcd95FIW7",
       "runId": 547101596
+    },
+    "kgF11ATx8DfJ955": {
+      "name": "(AQUILES)",
+      "skin": 1,
+      "char": 8,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 47,
+      "bwep": 28,
+      "extraweps": [],
+      "win": false,
+      "kills": 247,
+      "ultra": 0,
+      "skills": [
+        28,
+        13,
+        17,
+        10,
+        4,
+        8
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "kgF11ATx8DfJ955",
+      "runId": 547101596
+    },
+    "aYizrYaJzYyyJzJ": {
+      "name": "Seeker070",
+      "skin": 0,
+      "char": 7,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 7,
+      "extraweps": [],
+      "win": false,
+      "kills": 38,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "aYizrYaJzYyyJzJ",
+      "runId": 547101596
     }
   }
 }
