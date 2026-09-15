@@ -640,22 +640,23 @@
       "runId": 1728330543
     },
     "Z03v1NyE724Mmiz": {
-      "name": "Asiful",
+      "name": "null",
       "skin": 0,
       "char": 1,
-      "area": 3,
-      "subarea": 3,
+      "area": 5,
+      "subarea": 1,
       "loops": 0,
       "wep": 23,
-      "bwep": 17,
+      "bwep": 13,
       "extraweps": [],
       "win": false,
-      "kills": 147,
+      "kills": 200,
       "ultra": 0,
       "skills": [
         4,
         26,
-        27
+        27,
+        7
       ],
       "crown": 9,
       "version": 2616,
@@ -1096,6 +1097,29 @@
       "crown": 9,
       "version": 2616,
       "uid": "wLIDWYkJd83Gr0d",
+      "runId": 1728330543
+    },
+    "JAbyBrQZRbaRaJj": {
+      "name": "Seeker758",
+      "skin": 0,
+      "char": 1,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 23,
+      "extraweps": [],
+      "win": false,
+      "kills": 132,
+      "ultra": 0,
+      "skills": [
+        7,
+        22,
+        10
+      ],
+      "crown": 9,
+      "version": 3004,
+      "uid": "JAbyBrQZRbaRaJj",
       "runId": 1728330543
     }
   }
