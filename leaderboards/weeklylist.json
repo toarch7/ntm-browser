@@ -1752,6 +1752,75 @@
       "version": 2616,
       "uid": "rsv1SQ7cjez9M2U",
       "runId": 1728330543
+    },
+    "2jn9sMH2IkmDw3q": {
+      "name": "jododendron",
+      "skin": 0,
+      "char": 1,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 90,
+      "ultra": 0,
+      "skills": [
+        10,
+        8,
+        3
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "2jn9sMH2IkmDw3q",
+      "runId": 1728330543
+    },
+    "4D59gecn4omH04h": {
+      "name": "Seeker",
+      "skin": 0,
+      "char": 1,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 23,
+      "extraweps": [],
+      "win": false,
+      "kills": 184,
+      "ultra": 0,
+      "skills": [
+        4,
+        27,
+        13
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "4D59gecn4omH04h",
+      "runId": 1728330543
+    },
+    "099iL2Mqq5PU8zn": {
+      "name": "Seeker",
+      "skin": 0,
+      "char": 1,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 23,
+      "extraweps": [],
+      "win": false,
+      "kills": 147,
+      "ultra": 0,
+      "skills": [
+        4,
+        13,
+        27
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "099iL2Mqq5PU8zn",
+      "runId": 1728330543
     }
   }
 }
