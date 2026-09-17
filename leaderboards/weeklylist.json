@@ -667,14 +667,14 @@
       "name": "Moises",
       "skin": 0,
       "char": 1,
-      "area": 3,
-      "subarea": 2,
+      "area": 103,
+      "subarea": 1,
       "loops": 0,
       "wep": 23,
-      "bwep": 4,
+      "bwep": 27,
       "extraweps": [],
       "win": false,
-      "kills": 105,
+      "kills": 115,
       "ultra": 0,
       "skills": [
         10
@@ -1962,6 +1962,30 @@
       "crown": 9,
       "version": 2616,
       "uid": "8F2TT0j2zlx4E4u",
+      "runId": 1728330543
+    },
+    "8s0qV0Uuq2kK770": {
+      "name": "a♡♡♡lan",
+      "skin": 0,
+      "char": 1,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 140,
+      "ultra": 0,
+      "skills": [
+        4,
+        8,
+        26,
+        27
+      ],
+      "crown": 9,
+      "version": 2616,
+      "uid": "8s0qV0Uuq2kK770",
       "runId": 1728330543
     }
   }
