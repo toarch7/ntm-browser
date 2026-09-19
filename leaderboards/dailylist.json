@@ -684,6 +684,44 @@
       "version": 2616,
       "uid": "2ZV2Bx55VH5018C",
       "runId": 113118153
+    },
+    "ArjBizabZAIAzAq": {
+      "name": "momazos.galick",
+      "skin": 0,
+      "char": 6,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 39,
+      "extraweps": [],
+      "win": false,
+      "kills": 8,
+      "crown": 1,
+      "version": 3004,
+      "uid": "ArjBizabZAIAzAq",
+      "runId": 113118153
+    },
+    "xl8719B7C9j0CPw": {
+      "name": "KYOTO",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 30,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "xl8719B7C9j0CPw",
+      "runId": 113118153
     }
   }
 }
