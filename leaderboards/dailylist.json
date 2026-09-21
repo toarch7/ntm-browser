@@ -1,4 +1,45 @@
 {
   "day": 21,
-  "entries": {}
+  "entries": {
+    "677ONt7IID5NlU4": {
+      "name": "artem",
+      "skin": 0,
+      "char": 6,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 5,
+      "extraweps": [],
+      "win": false,
+      "kills": 45,
+      "ultra": 0,
+      "skills": [],
+      "crown": 1,
+      "version": 2616,
+      "uid": "677ONt7IID5NlU4",
+      "runId": 466474341
+    },
+    "RCoa564aV1V2fA9": {
+      "name": "JCKIlovepro",
+      "skin": 0,
+      "char": 2,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 4,
+      "extraweps": [],
+      "win": false,
+      "kills": 61,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RCoa564aV1V2fA9",
+      "runId": 466474341
+    }
+  }
 }
