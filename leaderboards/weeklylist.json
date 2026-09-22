@@ -828,6 +828,79 @@
       "version": 2616,
       "uid": "IYxQIv273Z1CFq3",
       "runId": 778660698
+    },
+    "yiqaryyYZYzyZBZ": {
+      "name": "ROKEN",
+      "skin": 1,
+      "char": 3,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 3,
+      "extraweps": [],
+      "win": false,
+      "kills": 51,
+      "ultra": 0,
+      "skills": [
+        4,
+        19
+      ],
+      "crown": 8,
+      "version": 3004,
+      "uid": "yiqaryyYZYzyZBZ",
+      "runId": 778660698
+    },
+    "G1cKQ4S0ygmUFGU": {
+      "name": "See",
+      "skin": 1,
+      "char": 3,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 79,
+      "bwep": 75,
+      "extraweps": [],
+      "win": false,
+      "kills": 254,
+      "ultra": 0,
+      "skills": [
+        12,
+        26,
+        3,
+        14,
+        8,
+        27,
+        23
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "G1cKQ4S0ygmUFGU",
+      "runId": 778660698
+    },
+    "ROlDg3Z1rqp2jw0": {
+      "name": "killgood",
+      "skin": 1,
+      "char": 3,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 148,
+      "ultra": 0,
+      "skills": [
+        12,
+        26,
+        3,
+        14
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "ROlDg3Z1rqp2jw0",
+      "runId": 778660698
     }
   }
 }
