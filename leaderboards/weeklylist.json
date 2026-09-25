@@ -2243,6 +2243,29 @@
       "version": 2616,
       "uid": "v679EaY6Fr85xTs",
       "runId": 778660698
+    },
+    "bAgpksaDmNWy8l9": {
+      "name": "Granatwerfer",
+      "skin": 1,
+      "char": 3,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 83,
+      "extraweps": [],
+      "win": false,
+      "kills": 92,
+      "ultra": 0,
+      "skills": [
+        12,
+        26,
+        3
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "bAgpksaDmNWy8l9",
+      "runId": 778660698
     }
   }
 }
