@@ -1140,11 +1140,11 @@
       "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 13,
+      "wep": 57,
       "bwep": 83,
       "extraweps": [],
       "win": false,
-      "kills": 100,
+      "kills": 109,
       "ultra": 0,
       "skills": [
         12,
@@ -2985,6 +2985,53 @@
       "crown": 8,
       "version": 2616,
       "uid": "X4F11L78l9In4E2",
+      "runId": 778660698
+    },
+    "6gB90Ia706Osaki": {
+      "name": "yohelvis",
+      "skin": 1,
+      "char": 3,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 83,
+      "extraweps": [],
+      "win": false,
+      "kills": 104,
+      "ultra": 0,
+      "skills": [
+        12,
+        26,
+        3,
+        14
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "6gB90Ia706Osaki",
+      "runId": 778660698
+    },
+    "1w61m9sR18FlMtu": {
+      "name": "Drix",
+      "skin": 1,
+      "char": 3,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 83,
+      "extraweps": [],
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        12,
+        26,
+        3
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "1w61m9sR18FlMtu",
       "runId": 778660698
     }
   }
