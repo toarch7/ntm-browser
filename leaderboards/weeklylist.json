@@ -329,14 +329,14 @@
       "name": "Alancdp",
       "skin": 1,
       "char": 3,
-      "area": 1,
+      "area": 4,
       "subarea": 1,
       "loops": 1,
-      "wep": 74,
-      "bwep": 83,
+      "wep": 37,
+      "bwep": 22,
       "extraweps": [],
       "win": false,
-      "kills": 423,
+      "kills": 913,
       "ultra": 1,
       "skills": [
         12,
@@ -2962,6 +2962,29 @@
       "crown": 8,
       "version": 3003,
       "uid": "BRjIyqZQRijZzrj",
+      "runId": 778660698
+    },
+    "X4F11L78l9In4E2": {
+      "name": "blackstarr",
+      "skin": 1,
+      "char": 3,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 30,
+      "extraweps": [],
+      "win": false,
+      "kills": 89,
+      "ultra": 0,
+      "skills": [
+        12,
+        26,
+        3
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "X4F11L78l9In4E2",
       "runId": 778660698
     }
   }
