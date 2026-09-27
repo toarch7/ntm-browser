@@ -404,13 +404,13 @@
       "skin": 1,
       "char": 3,
       "area": 7,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 119,
-      "bwep": 10,
+      "wep": 76,
+      "bwep": 11,
       "extraweps": [],
       "win": false,
-      "kills": 302,
+      "kills": 335,
       "ultra": 0,
       "skills": [
         12,
@@ -419,7 +419,8 @@
         14,
         8,
         27,
-        23
+        23,
+        17
       ],
       "crown": 8,
       "version": 2616,
@@ -2868,6 +2869,53 @@
       "crown": 8,
       "version": 2616,
       "uid": "QSwrK5Q5HesgBFy",
+      "runId": 778660698
+    },
+    "arziJbAbYqAAyYa": {
+      "name": "Seeker716",
+      "skin": 1,
+      "char": 3,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 88,
+      "bwep": 83,
+      "extraweps": [],
+      "win": false,
+      "kills": 134,
+      "ultra": 0,
+      "skills": [
+        4,
+        19,
+        23,
+        3
+      ],
+      "crown": 8,
+      "version": 3004,
+      "uid": "arziJbAbYqAAyYa",
+      "runId": 778660698
+    },
+    "0l9kv4my5506631": {
+      "name": "YoungVoid",
+      "skin": 1,
+      "char": 3,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 57,
+      "bwep": 76,
+      "extraweps": [],
+      "win": false,
+      "kills": 136,
+      "ultra": 0,
+      "skills": [
+        12,
+        26,
+        3
+      ],
+      "crown": 8,
+      "version": 2616,
+      "uid": "0l9kv4my5506631",
       "runId": 778660698
     }
   }
