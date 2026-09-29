@@ -1,4 +1,84 @@
 {
   "day": 29,
-  "entries": {}
+  "entries": {
+    "f5TMbRX1tV4fUgk": {
+      "name": "OPEH",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 4,
+      "crown": 1,
+      "version": 2616,
+      "uid": "f5TMbRX1tV4fUgk",
+      "runId": 1289625605
+    },
+    "E8OLEtV1aq5k42E": {
+      "name": "leo",
+      "skin": 0,
+      "char": 6,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 10,
+      "extraweps": [],
+      "win": false,
+      "kills": 107,
+      "ultra": 0,
+      "skills": [
+        4,
+        6,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "E8OLEtV1aq5k42E",
+      "runId": 1289625605
+    },
+    "l87880zl0UF35q2": {
+      "name": "Noone",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 16,
+      "extraweps": [],
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        4,
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "l87880zl0UF35q2",
+      "runId": 1289625605
+    },
+    "g35V2nk426mqwrq": {
+      "name": "Idate",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 20,
+      "crown": 1,
+      "version": 2616,
+      "uid": "g35V2nk426mqwrq",
+      "runId": 1289625605
+    }
+  }
 }
