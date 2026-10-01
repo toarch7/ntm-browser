@@ -1472,6 +1472,51 @@
       "version": 2616,
       "uid": "2jn9sMH2IkmDw3q",
       "runId": 1325402762
+    },
+    "62Jc434a6qIXB59": {
+      "name": "loquito",
+      "skin": 1,
+      "char": 9,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 45,
+      "extraweps": [],
+      "win": false,
+      "kills": 161,
+      "ultra": 0,
+      "skills": [
+        12,
+        8,
+        7,
+        14
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "62Jc434a6qIXB59",
+      "runId": 1325402762
+    },
+    "bfh32i1xC1LT5dn": {
+      "name": "Enio",
+      "skin": 1,
+      "char": 9,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 7,
+      "extraweps": [],
+      "win": false,
+      "kills": 67,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "bfh32i1xC1LT5dn",
+      "runId": 1325402762
     }
   }
 }
