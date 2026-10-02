@@ -916,18 +916,18 @@
       "skin": 1,
       "char": 9,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 30,
-      "bwep": 103,
+      "wep": 71,
+      "bwep": 34,
       "extraweps": [],
       "win": false,
-      "kills": 89,
+      "kills": 148,
       "ultra": 0,
       "skills": [
         25,
-        9,
-        7
+        7,
+        10
       ],
       "crown": 5,
       "version": 2616,
@@ -1819,6 +1819,31 @@
       "crown": 5,
       "version": 2616,
       "uid": "HOuRYAJMpcX2FQL",
+      "runId": 1325402762
+    },
+    "Cm99n24nr15n016": {
+      "name": "Erikcioso16",
+      "skin": 1,
+      "char": 9,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 9,
+      "extraweps": [],
+      "win": false,
+      "kills": 164,
+      "ultra": 0,
+      "skills": [
+        25,
+        2,
+        8,
+        14,
+        27
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "Cm99n24nr15n016",
       "runId": 1325402762
     }
   }
