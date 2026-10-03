@@ -1,4 +1,73 @@
 {
   "day": 3,
-  "entries": {}
+  "entries": {
+    "S6tzFa3AHW6GoYK": {
+      "name": "Qozz",
+      "skin": 1,
+      "char": 11,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 29,
+      "bwep": 11,
+      "extraweps": [],
+      "win": false,
+      "kills": 361,
+      "ultra": 1,
+      "skills": [
+        27,
+        3,
+        4,
+        23,
+        22,
+        7,
+        25,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "S6tzFa3AHW6GoYK",
+      "runId": 1146071294
+    },
+    "Q8Wg2qi39m6j9nl": {
+      "name": "Darket",
+      "skin": 0,
+      "char": 4,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 48,
+      "ultra": 0,
+      "skills": [
+        27,
+        24,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Q8Wg2qi39m6j9nl",
+      "runId": 1146071294
+    },
+    "CT9s11bA6m3Xt58": {
+      "name": "Seeke",
+      "skin": 0,
+      "char": 5,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "CT9s11bA6m3Xt58",
+      "runId": 1146071294
+    }
+  }
 }
