@@ -874,19 +874,20 @@
       "skin": 1,
       "char": 9,
       "area": 3,
-      "subarea": 1,
+      "subarea": 3,
       "loops": 0,
-      "wep": 7,
-      "bwep": 103,
+      "wep": 103,
+      "bwep": 9,
       "extraweps": [],
       "win": false,
-      "kills": 97,
+      "kills": 150,
       "ultra": 0,
       "skills": [
         25,
         23,
         8,
-        7
+        7,
+        10
       ],
       "crown": 5,
       "version": 2616,
@@ -2619,6 +2620,27 @@
       "crown": 5,
       "version": 3003,
       "uid": "zRaBYRrZaQYiIqZ",
+      "runId": 1325402762
+    },
+    "28VR65sIgTtJjmZ": {
+      "name": "THEREAPER",
+      "skin": 1,
+      "char": 9,
+      "area": 103,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 27,
+      "bwep": 103,
+      "extraweps": [],
+      "win": false,
+      "kills": 114,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "28VR65sIgTtJjmZ",
       "runId": 1325402762
     }
   }
