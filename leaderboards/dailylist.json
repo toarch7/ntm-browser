@@ -1,4 +1,74 @@
 {
   "day": 5,
-  "entries": {}
+  "entries": {
+    "1BK7Al00QEpnhJ7": {
+      "name": "Lobo",
+      "skin": 0,
+      "char": 1,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 40,
+      "ultra": 0,
+      "skills": [
+        13,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "1BK7Al00QEpnhJ7",
+      "runId": 2140571089
+    },
+    "Y473yLUX3QEghuj": {
+      "name": "Exorcist",
+      "skin": 0,
+      "char": 9,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 75,
+      "extraweps": [],
+      "win": false,
+      "kills": 119,
+      "ultra": 0,
+      "skills": [
+        13,
+        7
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Y473yLUX3QEghuj",
+      "runId": 2140571089
+    },
+    "17wSb77VWGU74nc": {
+      "name": "neo",
+      "skin": 0,
+      "char": 7,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 17,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 255,
+      "ultra": 0,
+      "skills": [
+        7,
+        16,
+        10,
+        19,
+        26
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "17wSb77VWGU74nc",
+      "runId": 2140571089
+    }
+  }
 }
