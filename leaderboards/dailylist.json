@@ -1,4 +1,138 @@
 {
   "day": 12,
-  "entries": {}
+  "entries": {
+    "aBrYq2bcSKE8mTl": {
+      "name": "Scermitz",
+      "skin": 1,
+      "char": 6,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 75,
+      "extraweps": [],
+      "win": false,
+      "kills": 263,
+      "ultra": 0,
+      "skills": [
+        3,
+        25,
+        1,
+        17,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "aBrYq2bcSKE8mTl",
+      "runId": 1271708789
+    },
+    "Yg1BLJ4MWLHdtDp": {
+      "name": "sot",
+      "skin": 0,
+      "char": 7,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 117,
+      "bwep": 114,
+      "extraweps": [],
+      "win": false,
+      "kills": 153,
+      "ultra": 0,
+      "skills": [
+        6,
+        2,
+        14,
+        28
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Yg1BLJ4MWLHdtDp",
+      "runId": 1271708789
+    },
+    "S6tzFa3AHW6GoYK": {
+      "name": "Qozz",
+      "skin": 1,
+      "char": 6,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 75,
+      "extraweps": [],
+      "win": false,
+      "kills": 77,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "S6tzFa3AHW6GoYK",
+      "runId": 1271708789
+    },
+    "G1cKQ4S0ygmUFGU": {
+      "name": "See",
+      "skin": 1,
+      "char": 2,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 2,
+      "extraweps": [],
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "G1cKQ4S0ygmUFGU",
+      "runId": 1271708789
+    },
+    "c5y7iR2Qg8z8qzg": {
+      "name": "Mistical9",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 5,
+      "extraweps": [],
+      "win": false,
+      "kills": 32,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "c5y7iR2Qg8z8qzg",
+      "runId": 1271708789
+    },
+    "Spo2m66764o2WtO": {
+      "name": "joaw",
+      "skin": 0,
+      "char": 2,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 75,
+      "bwep": 2,
+      "extraweps": [],
+      "win": false,
+      "kills": 65,
+      "ultra": 0,
+      "skills": [
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Spo2m66764o2WtO",
+      "runId": 1271708789
+    }
+  }
 }
