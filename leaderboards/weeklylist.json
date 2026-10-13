@@ -991,17 +991,23 @@
       "name": "luffy",
       "skin": 0,
       "char": 9,
-      "area": 2,
-      "subarea": 1,
+      "area": 7,
+      "subarea": 3,
       "loops": 0,
       "wep": 115,
-      "bwep": 6,
+      "bwep": 12,
       "extraweps": [],
       "win": false,
-      "kills": 120,
-      "ultra": 0,
+      "kills": 630,
+      "ultra": 1,
       "skills": [
-        4
+        4,
+        1,
+        13,
+        8,
+        27,
+        22,
+        3
       ],
       "crown": 7,
       "version": 2616,
@@ -1123,6 +1129,51 @@
       "crown": 7,
       "version": 2616,
       "uid": "QiA8ceV3gbh9KU9",
+      "runId": 1813773154
+    },
+    "t4Uh2WbTlZz7WM7": {
+      "name": "jesus",
+      "skin": 0,
+      "char": 9,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 14,
+      "extraweps": [],
+      "win": false,
+      "kills": 243,
+      "ultra": 0,
+      "skills": [
+        4,
+        1,
+        13
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "t4Uh2WbTlZz7WM7",
+      "runId": 1813773154
+    },
+    "7ft1a1Yx1zv9RtH": {
+      "name": "ISA",
+      "skin": 0,
+      "char": 9,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 14,
+      "bwep": 115,
+      "extraweps": [],
+      "win": false,
+      "kills": 170,
+      "ultra": 0,
+      "skills": [
+        14,
+        1
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "7ft1a1Yx1zv9RtH",
       "runId": 1813773154
     }
   }
