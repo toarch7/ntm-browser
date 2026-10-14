@@ -1,4 +1,110 @@
 {
   "day": 14,
-  "entries": {}
+  "entries": {
+    "aBrYq2bcSKE8mTl": {
+      "name": "Scermitz",
+      "skin": 1,
+      "char": 6,
+      "area": 5,
+      "subarea": 3,
+      "loops": 2,
+      "wep": 92,
+      "bwep": 111,
+      "extraweps": [],
+      "win": false,
+      "kills": 3252,
+      "ultra": 0,
+      "skills": [
+        27,
+        13,
+        10,
+        3,
+        23,
+        17,
+        1,
+        25,
+        7
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "aBrYq2bcSKE8mTl",
+      "runId": 620631018
+    },
+    "f5TMbRX1tV4fUgk": {
+      "name": "OPEH",
+      "skin": 0,
+      "char": 4,
+      "area": 7,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 34,
+      "bwep": 26,
+      "extraweps": [],
+      "win": false,
+      "kills": 352,
+      "ultra": 0,
+      "skills": [
+        13,
+        14,
+        3,
+        17,
+        25,
+        8,
+        1,
+        9
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "f5TMbRX1tV4fUgk",
+      "runId": 620631018
+    },
+    "yiqaryyYZYzyZBZ": {
+      "name": "ROKEN",
+      "skin": 0,
+      "char": 4,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 62,
+      "bwep": 3,
+      "extraweps": [],
+      "win": false,
+      "kills": 219,
+      "ultra": 0,
+      "skills": [
+        13,
+        12,
+        8,
+        4
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "yiqaryyYZYzyZBZ",
+      "runId": 620631018
+    },
+    "62Jc434a6qIXB59": {
+      "name": "loquito",
+      "skin": 0,
+      "char": 2,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 117,
+      "extraweps": [],
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        27,
+        4,
+        28,
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "62Jc434a6qIXB59",
+      "runId": 620631018
+    }
+  }
 }

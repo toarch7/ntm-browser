@@ -1074,17 +1074,23 @@
       "name": "null",
       "skin": 0,
       "char": 9,
-      "area": 2,
+      "area": 7,
       "subarea": 1,
       "loops": 0,
       "wep": 115,
-      "bwep": 0,
+      "bwep": 12,
       "extraweps": [],
       "win": false,
-      "kills": 113,
-      "ultra": 0,
+      "kills": 604,
+      "ultra": 2,
       "skills": [
-        4
+        4,
+        1,
+        13,
+        8,
+        27,
+        21,
+        3
       ],
       "crown": 7,
       "version": 2616,
@@ -1251,6 +1257,33 @@
       "crown": 7,
       "version": 2616,
       "uid": "qp71wfl7iryJLK6",
+      "runId": 1813773154
+    },
+    "wuMEDv3LND8hy1l": {
+      "name": "tenewoi",
+      "skin": 0,
+      "char": 9,
+      "area": 1,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 115,
+      "bwep": 12,
+      "extraweps": [],
+      "win": false,
+      "kills": 772,
+      "ultra": 1,
+      "skills": [
+        14,
+        1,
+        13,
+        3,
+        27,
+        21,
+        8
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "wuMEDv3LND8hy1l",
       "runId": 1813773154
     }
   }
