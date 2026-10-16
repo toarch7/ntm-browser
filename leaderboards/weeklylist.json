@@ -1192,11 +1192,11 @@
       "area": 2,
       "subarea": 1,
       "loops": 0,
-      "wep": 69,
+      "wep": 4,
       "bwep": 115,
       "extraweps": [],
       "win": false,
-      "kills": 136,
+      "kills": 142,
       "ultra": 0,
       "skills": [
         4
@@ -1901,6 +1901,98 @@
       "crown": 7,
       "version": 3004,
       "uid": "iJQbbriYZZBQzZY",
+      "runId": 1813773154
+    },
+    "iAbirrYjiaiAaqB": {
+      "name": "Jhofran",
+      "skin": 1,
+      "char": 9,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 57,
+      "extraweps": [],
+      "win": false,
+      "kills": 273,
+      "ultra": 0,
+      "skills": [
+        7,
+        13,
+        14
+      ],
+      "crown": 7,
+      "version": 3003,
+      "uid": "iAbirrYjiaiAaqB",
+      "runId": 1813773154
+    },
+    "9NG1E54QJd6AZsk": {
+      "name": "siloevinagre",
+      "skin": 0,
+      "char": 9,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 10,
+      "bwep": 115,
+      "extraweps": [],
+      "win": false,
+      "kills": 133,
+      "ultra": 0,
+      "skills": [
+        19
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "9NG1E54QJd6AZsk",
+      "runId": 1813773154
+    },
+    "v679EaY6Fr85xTs": {
+      "name": "kamote456",
+      "skin": 0,
+      "char": 9,
+      "area": 7,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 23,
+      "extraweps": [],
+      "win": false,
+      "kills": 644,
+      "ultra": 2,
+      "skills": [
+        4,
+        1,
+        13,
+        8,
+        27,
+        14,
+        19
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "v679EaY6Fr85xTs",
+      "runId": 1813773154
+    },
+    "9zu663Vn1a0c1oE": {
+      "name": "Xxiycho",
+      "skin": 0,
+      "char": 9,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 0,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 105,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "9zu663Vn1a0c1oE",
       "runId": 1813773154
     }
   }
