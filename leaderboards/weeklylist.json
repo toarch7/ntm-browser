@@ -131,18 +131,22 @@
       "name": "jjjjj",
       "skin": 0,
       "char": 9,
-      "area": 3,
-      "subarea": 3,
+      "area": 5,
+      "subarea": 2,
       "loops": 0,
-      "wep": 6,
-      "bwep": 115,
+      "wep": 15,
+      "bwep": 38,
       "extraweps": [],
       "win": false,
-      "kills": 255,
+      "kills": 437,
       "ultra": 0,
       "skills": [
-        21,
-        1
+        4,
+        1,
+        19,
+        26,
+        27,
+        12
       ],
       "crown": 7,
       "version": 2616,
@@ -2120,6 +2124,73 @@
       "crown": 7,
       "version": 2616,
       "uid": "x4S9W0aY1Wr3hq2",
+      "runId": 1813773154
+    },
+    "64MMw5784D53fm7": {
+      "name": "PepitoxdNuclear",
+      "skin": 0,
+      "char": 9,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 98,
+      "ultra": 0,
+      "skills": [
+        4,
+        16
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "64MMw5784D53fm7",
+      "runId": 1813773154
+    },
+    "5XKDpeE0LNb46ZC": {
+      "name": "xavier",
+      "skin": 0,
+      "char": 9,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 17,
+      "extraweps": [],
+      "win": false,
+      "kills": 128,
+      "ultra": 0,
+      "skills": [
+        4
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "5XKDpeE0LNb46ZC",
+      "runId": 1813773154
+    },
+    "X4yWnQmF2wd4Ujl": {
+      "name": "Seeker90",
+      "skin": 0,
+      "char": 9,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 47,
+      "extraweps": [],
+      "win": false,
+      "kills": 298,
+      "ultra": 0,
+      "skills": [
+        14,
+        1,
+        13,
+        8
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "X4yWnQmF2wd4Ujl",
       "runId": 1813773154
     }
   }
