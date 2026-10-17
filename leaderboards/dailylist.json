@@ -1,4 +1,104 @@
 {
   "day": 17,
-  "entries": {}
+  "entries": {
+    "iAbirrYjiaiAaqB": {
+      "name": "Jhofran",
+      "skin": 0,
+      "char": 4,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 26,
+      "extraweps": [],
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        27,
+        9,
+        21,
+        23
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "iAbirrYjiaiAaqB",
+      "runId": 1076424321
+    },
+    "DGrT6238Vw9bQpr": {
+      "name": "RORONOA",
+      "skin": 1,
+      "char": 7,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 28,
+      "bwep": 28,
+      "extraweps": [],
+      "win": false,
+      "kills": 288,
+      "ultra": 0,
+      "skills": [
+        4,
+        19,
+        1,
+        2,
+        9,
+        22
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "DGrT6238Vw9bQpr",
+      "runId": 1076424321
+    },
+    "S6tzFa3AHW6GoYK": {
+      "name": "Qozz",
+      "skin": 1,
+      "char": 11,
+      "area": 0,
+      "subarea": 1,
+      "loops": 1,
+      "wep": 28,
+      "bwep": 10,
+      "extraweps": [],
+      "win": false,
+      "kills": 418,
+      "ultra": 0,
+      "skills": [
+        4,
+        2,
+        1,
+        7,
+        12,
+        27,
+        6
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "S6tzFa3AHW6GoYK",
+      "runId": 1076424321
+    },
+    "677ONt7IID5NlU4": {
+      "name": "artem",
+      "skin": 0,
+      "char": 4,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 7,
+      "extraweps": [],
+      "win": false,
+      "kills": 78,
+      "ultra": 0,
+      "skills": [
+        27,
+        19
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "677ONt7IID5NlU4",
+      "runId": 1076424321
+    }
+  }
 }
