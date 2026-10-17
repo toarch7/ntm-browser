@@ -1173,18 +1173,20 @@
       "name": "ISA",
       "skin": 0,
       "char": 9,
-      "area": 3,
+      "area": 5,
       "subarea": 1,
       "loops": 0,
-      "wep": 14,
+      "wep": 89,
       "bwep": 115,
       "extraweps": [],
       "win": false,
-      "kills": 170,
+      "kills": 311,
       "ultra": 0,
       "skills": [
         14,
-        1
+        1,
+        13,
+        19
       ],
       "crown": 7,
       "version": 2616,
@@ -2137,11 +2139,10 @@
       "bwep": 0,
       "extraweps": [],
       "win": false,
-      "kills": 98,
+      "kills": 138,
       "ultra": 0,
       "skills": [
-        4,
-        16
+        4
       ],
       "crown": 7,
       "version": 2616,
@@ -2213,6 +2214,28 @@
       "crown": 7,
       "version": 3003,
       "uid": "qRZrzzqaRAqQQyZ",
+      "runId": 1813773154
+    },
+    "pB7uZW1sKuY5Kr1": {
+      "name": "s♡♡♡erwood",
+      "skin": 0,
+      "char": 9,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 115,
+      "bwep": 5,
+      "extraweps": [],
+      "win": false,
+      "kills": 163,
+      "ultra": 0,
+      "skills": [
+        4,
+        1
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "pB7uZW1sKuY5Kr1",
       "runId": 1813773154
     }
   }
