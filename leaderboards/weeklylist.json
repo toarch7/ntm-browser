@@ -1008,19 +1008,17 @@
       "skin": 1,
       "char": 11,
       "area": 5,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 33,
-      "bwep": 52,
+      "wep": 88,
+      "bwep": 33,
       "extraweps": [],
       "win": false,
-      "kills": 51,
+      "kills": 78,
       "ultra": 0,
       "skills": [
-        23,
         27,
-        6,
-        13
+        6
       ],
       "crown": 12,
       "version": 2616,
@@ -2371,18 +2369,18 @@
       "name": "Abdi♡♡♡arwma",
       "skin": 1,
       "char": 11,
-      "area": 2,
+      "area": 3,
       "subarea": 1,
       "loops": 0,
-      "wep": 2,
-      "bwep": 3,
+      "wep": 3,
+      "bwep": 33,
       "extraweps": [],
       "win": false,
-      "kills": 43,
+      "kills": 80,
       "ultra": 0,
       "skills": [
         7,
-        19
+        27
       ],
       "crown": 12,
       "version": 2616,
@@ -2409,6 +2407,29 @@
       "crown": 12,
       "version": 3004,
       "uid": "IiyjybjZzaZBybq",
+      "runId": 889352004
+    },
+    "3x7iSs00VB59KmC": {
+      "name": "LoliPop",
+      "skin": 1,
+      "char": 11,
+      "area": 5,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 10,
+      "extraweps": [],
+      "win": false,
+      "kills": 58,
+      "ultra": 0,
+      "skills": [
+        14,
+        27,
+        28
+      ],
+      "crown": 12,
+      "version": 2616,
+      "uid": "3x7iSs00VB59KmC",
       "runId": 889352004
     }
   }
