@@ -2004,18 +2004,20 @@
       "name": "sako.com",
       "skin": 1,
       "char": 11,
-      "area": 3,
-      "subarea": 2,
+      "area": 4,
+      "subarea": 1,
       "loops": 0,
-      "wep": 19,
-      "bwep": 33,
+      "wep": 33,
+      "bwep": 57,
       "extraweps": [],
       "win": false,
-      "kills": 101,
+      "kills": 141,
       "ultra": 0,
       "skills": [
         9,
-        4
+        4,
+        3,
+        27
       ],
       "crown": 12,
       "version": 3004,
@@ -2766,6 +2768,27 @@
       "crown": 12,
       "version": 2616,
       "uid": "n2Z7Pg5ev3F4UmM",
+      "runId": 889352004
+    },
+    "abyrQzazjRzQyij": {
+      "name": "DavidL",
+      "skin": 1,
+      "char": 11,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 30,
+      "bwep": 33,
+      "extraweps": [],
+      "win": false,
+      "kills": 55,
+      "ultra": 0,
+      "skills": [
+        9
+      ],
+      "crown": 12,
+      "version": 3003,
+      "uid": "abyrQzazjRzQyij",
       "runId": 889352004
     }
   }
