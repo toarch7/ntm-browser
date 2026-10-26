@@ -381,14 +381,14 @@
       "name": "4180",
       "skin": 1,
       "char": 6,
-      "area": 5,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
       "wep": 95,
       "bwep": 5,
       "extraweps": [],
       "win": false,
-      "kills": 58,
+      "kills": 100,
       "ultra": 0,
       "skills": [
         8,
@@ -523,6 +523,55 @@
       "crown": 13,
       "version": 2616,
       "uid": "1X82Zqq8mnjD8k7",
+      "runId": 520622123
+    },
+    "3x7iSs00VB59KmC": {
+      "name": "LoliPop",
+      "skin": 1,
+      "char": 6,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 116,
+      "extraweps": [],
+      "win": false,
+      "kills": 96,
+      "ultra": 0,
+      "skills": [
+        8,
+        7,
+        25,
+        19
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "3x7iSs00VB59KmC",
+      "runId": 520622123
+    },
+    "VePVyXRUU6X2Dek": {
+      "name": "axecito",
+      "skin": 1,
+      "char": 6,
+      "area": 5,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 37,
+      "bwep": 114,
+      "extraweps": [],
+      "win": false,
+      "kills": 184,
+      "ultra": 0,
+      "skills": [
+        8,
+        7,
+        4,
+        14,
+        28
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "VePVyXRUU6X2Dek",
       "runId": 520622123
     }
   }
