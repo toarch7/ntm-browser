@@ -1,4 +1,72 @@
 {
   "day": 26,
-  "entries": {}
+  "entries": {
+    "qhFCsR70BiCX6d5": {
+      "name": "null",
+      "skin": 0,
+      "char": 6,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 15,
+      "bwep": 20,
+      "extraweps": [],
+      "win": false,
+      "kills": 152,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        4
+      ],
+      "crown": 4,
+      "version": 2616,
+      "uid": "qhFCsR70BiCX6d5",
+      "runId": 615755046
+    },
+    "k3734h2g0Y2914S": {
+      "name": "SNICKERS",
+      "skin": 1,
+      "char": 2,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 4,
+      "extraweps": [],
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        8,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "k3734h2g0Y2914S",
+      "runId": 615755046
+    },
+    "DGrT6238Vw9bQpr": {
+      "name": "RORONOA",
+      "skin": 1,
+      "char": 7,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 2,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        8,
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "DGrT6238Vw9bQpr",
+      "runId": 615755046
+    }
+  }
 }
