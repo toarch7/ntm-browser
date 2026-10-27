@@ -771,23 +771,70 @@
       "name": "Yarix",
       "skin": 1,
       "char": 6,
-      "area": 3,
+      "area": 5,
       "subarea": 3,
       "loops": 0,
-      "wep": 13,
+      "wep": 3,
       "bwep": 95,
       "extraweps": [],
       "win": false,
-      "kills": 149,
+      "kills": 248,
       "ultra": 0,
       "skills": [
         8,
         6,
-        4
+        4,
+        14,
+        3,
+        10
       ],
       "crown": 13,
       "version": 2616,
       "uid": "6PeTefTF760cfpP",
+      "runId": 520622123
+    },
+    "QSwrK5Q5HesgBFy": {
+      "name": "KevinDeMonkey",
+      "skin": 1,
+      "char": 6,
+      "area": 104,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 113,
+      "extraweps": [],
+      "win": false,
+      "kills": 138,
+      "ultra": 0,
+      "skills": [
+        8,
+        7,
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "QSwrK5Q5HesgBFy",
+      "runId": 520622123
+    },
+    "jJYqraQarIIzJyr": {
+      "name": "Seeker71",
+      "skin": 1,
+      "char": 6,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 95,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        13
+      ],
+      "crown": 13,
+      "version": 3003,
+      "uid": "jJYqraQarIIzJyr",
       "runId": 520622123
     }
   }
