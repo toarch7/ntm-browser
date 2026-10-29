@@ -1,4 +1,27 @@
 {
   "day": 29,
-  "entries": {}
+  "entries": {
+    "RHuBWR0w6X7Xb7W": {
+      "name": "BloodHanter",
+      "skin": 0,
+      "char": 4,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 8,
+      "extraweps": [],
+      "win": false,
+      "kills": 72,
+      "ultra": 0,
+      "skills": [
+        1,
+        2
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RHuBWR0w6X7Xb7W",
+      "runId": 1921643794
+    }
+  }
 }
