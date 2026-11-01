@@ -1501,20 +1501,23 @@
       "name": "fudiid",
       "skin": 1,
       "char": 6,
-      "area": 5,
-      "subarea": 2,
-      "loops": 0,
-      "wep": 6,
-      "bwep": 95,
+      "area": 3,
+      "subarea": 3,
+      "loops": 1,
+      "wep": 77,
+      "bwep": 106,
       "extraweps": [],
       "win": false,
-      "kills": 100,
-      "ultra": 0,
+      "kills": 642,
+      "ultra": 1,
       "skills": [
         8,
         9,
-        7,
-        14
+        4,
+        14,
+        27,
+        10,
+        1
       ],
       "crown": 13,
       "version": 2616,
@@ -2538,6 +2541,29 @@
       "crown": 13,
       "version": 2616,
       "uid": "f5m3UMEQIk043u8",
+      "runId": 520622123
+    },
+    "5oWg2oF9AOUC6QK": {
+      "name": "teancobra1",
+      "skin": 1,
+      "char": 6,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 3,
+      "extraweps": [],
+      "win": false,
+      "kills": 93,
+      "ultra": 0,
+      "skills": [
+        8,
+        7,
+        4
+      ],
+      "crown": 13,
+      "version": 2616,
+      "uid": "5oWg2oF9AOUC6QK",
       "runId": 520622123
     }
   }
