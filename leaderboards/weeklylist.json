@@ -391,18 +391,17 @@
       "skin": 0,
       "char": 12,
       "area": 3,
-      "subarea": 1,
+      "subarea": 2,
       "loops": 0,
-      "wep": 38,
+      "wep": 21,
       "bwep": 93,
       "extraweps": [],
       "win": false,
-      "kills": 97,
+      "kills": 151,
       "ultra": 0,
       "skills": [
-        25,
-        10,
-        7
+        7,
+        1
       ],
       "crown": 1,
       "version": 2616,
@@ -1355,6 +1354,86 @@
       "crown": 1,
       "version": 2616,
       "uid": "ETZ456dtB7xmn27",
+      "runId": 1600664908
+    },
+    "bIbZiRryZRqrJIQ": {
+      "name": "Seeker304",
+      "skin": 1,
+      "char": 12,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 19,
+      "bwep": 4,
+      "extraweps": [],
+      "win": false,
+      "kills": 70,
+      "ultra": 0,
+      "skills": [
+        7
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "bIbZiRryZRqrJIQ",
+      "runId": 1600664908
+    },
+    "2B7O14fzOPArYux": {
+      "name": "javier",
+      "skin": 0,
+      "char": 12,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 3,
+      "extraweps": [],
+      "win": false,
+      "kills": 69,
+      "ultra": 0,
+      "skills": [
+        6
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "2B7O14fzOPArYux",
+      "runId": 1600664908
+    },
+    "8Pu3A71K2f7G36d": {
+      "name": "santyyy",
+      "skin": 0,
+      "char": 12,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 93,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 59,
+      "crown": 1,
+      "version": 2616,
+      "uid": "8Pu3A71K2f7G36d",
+      "runId": 1600664908
+    },
+    "WylSg3mmqFTADf9": {
+      "name": "Nexx",
+      "skin": 0,
+      "char": 12,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 6,
+      "bwep": 93,
+      "extraweps": [],
+      "win": false,
+      "kills": 102,
+      "ultra": 0,
+      "skills": [
+        3
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "WylSg3mmqFTADf9",
       "runId": 1600664908
     }
   }
