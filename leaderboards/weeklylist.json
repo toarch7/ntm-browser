@@ -118,16 +118,17 @@
       "skin": 0,
       "char": 10,
       "area": 5,
-      "subarea": 2,
+      "subarea": 3,
       "loops": 0,
-      "wep": 9,
+      "wep": 5,
       "bwep": 34,
       "extraweps": [],
       "win": false,
-      "kills": 85,
+      "kills": 115,
       "ultra": 0,
       "skills": [
-        27
+        22,
+        4
       ],
       "crown": 5,
       "version": 2616,
@@ -961,17 +962,21 @@
       "name": "Ki!!08",
       "skin": 0,
       "char": 10,
-      "area": 3,
+      "area": 7,
       "subarea": 2,
       "loops": 0,
-      "wep": 2,
-      "bwep": 92,
+      "wep": 74,
+      "bwep": 77,
       "extraweps": [],
       "win": false,
-      "kills": 145,
+      "kills": 333,
       "ultra": 0,
       "skills": [
-        28
+        28,
+        8,
+        13,
+        6,
+        7
       ],
       "crown": 5,
       "version": 2616,
@@ -1574,6 +1579,51 @@
       "crown": 5,
       "version": 2616,
       "uid": "9Ysh0Gsq476chRf",
+      "runId": 681385596
+    },
+    "yyaQZZAyiBRZBir": {
+      "name": "Bigoctus",
+      "skin": 1,
+      "char": 10,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 38,
+      "bwep": 3,
+      "extraweps": [],
+      "win": false,
+      "kills": 164,
+      "ultra": 0,
+      "skills": [
+        3,
+        25,
+        22,
+        1
+      ],
+      "crown": 5,
+      "version": 3004,
+      "uid": "yyaQZZAyiBRZBir",
+      "runId": 681385596
+    },
+    "HiBDn484oaqO1CE": {
+      "name": "Pelusina",
+      "skin": 0,
+      "char": 10,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 3,
+      "extraweps": [],
+      "win": false,
+      "kills": 103,
+      "ultra": 0,
+      "skills": [
+        27
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "HiBDn484oaqO1CE",
       "runId": 681385596
     }
   }

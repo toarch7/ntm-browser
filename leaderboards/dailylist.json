@@ -1,4 +1,55 @@
 {
   "day": 12,
-  "entries": {}
+  "entries": {
+    "f5TMbRX1tV4fUgk": {
+      "name": "OPEH",
+      "skin": 0,
+      "char": 4,
+      "area": 0,
+      "subarea": 1,
+      "loops": 2,
+      "wep": 35,
+      "bwep": 54,
+      "extraweps": [],
+      "win": false,
+      "kills": 1873,
+      "ultra": 1,
+      "skills": [
+        14,
+        1,
+        17,
+        23,
+        27,
+        3
+      ],
+      "crown": 7,
+      "version": 2616,
+      "uid": "f5TMbRX1tV4fUgk",
+      "runId": 802724550
+    },
+    "S6tzFa3AHW6GoYK": {
+      "name": "Qozz",
+      "skin": 0,
+      "char": 9,
+      "area": 5,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 124,
+      "bwep": 20,
+      "extraweps": [],
+      "win": false,
+      "kills": 205,
+      "ultra": 0,
+      "skills": [
+        1,
+        28,
+        12,
+        22
+      ],
+      "crown": 11,
+      "version": 2616,
+      "uid": "S6tzFa3AHW6GoYK",
+      "runId": 802724550
+    }
+  }
 }
