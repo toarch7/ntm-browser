@@ -1,4 +1,132 @@
 {
   "day": 15,
-  "entries": {}
+  "entries": {
+    "Ern7U4XU92hznEh": {
+      "name": "Seeker",
+      "skin": 0,
+      "char": 7,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "extraweps": [],
+      "win": false,
+      "kills": 47,
+      "ultra": 0,
+      "skills": [
+        16,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Ern7U4XU92hznEh",
+      "runId": 1511430663
+    },
+    "9oAsyWZ2W83FmCk": {
+      "name": "iko0o",
+      "skin": 0,
+      "char": 8,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 10,
+      "crown": 1,
+      "version": 2616,
+      "uid": "9oAsyWZ2W83FmCk",
+      "runId": 1511430663
+    },
+    "WP9Y7zIVFx7gcU9": {
+      "name": "Jebert",
+      "skin": 0,
+      "char": 7,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 4,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 130,
+      "ultra": 0,
+      "skills": [
+        16,
+        23,
+        1
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "WP9Y7zIVFx7gcU9",
+      "runId": 1511430663
+    },
+    "S6tzFa3AHW6GoYK": {
+      "name": "Qozz",
+      "skin": 0,
+      "char": 12,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 81,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 42,
+      "ultra": 0,
+      "skills": [
+        2,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "S6tzFa3AHW6GoYK",
+      "runId": 1511430663
+    },
+    "Du85j4PgMeY75F3": {
+      "name": "Jesse",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 50,
+      "ultra": 0,
+      "skills": [
+        24,
+        23
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "Du85j4PgMeY75F3",
+      "runId": 1511430663
+    },
+    "8Pu3A71K2f7G36d": {
+      "name": "santyyy",
+      "skin": 0,
+      "char": 8,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 21,
+      "extraweps": [],
+      "win": false,
+      "kills": 16,
+      "ultra": 0,
+      "skills": [
+        24
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "8Pu3A71K2f7G36d",
+      "runId": 1511430663
+    }
+  }
 }
