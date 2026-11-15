@@ -328,20 +328,23 @@
       "name": "jesus",
       "skin": 0,
       "char": 10,
-      "area": 5,
+      "area": 7,
       "subarea": 3,
       "loops": 0,
-      "wep": 88,
-      "bwep": 6,
+      "wep": 47,
+      "bwep": 91,
       "extraweps": [],
       "win": false,
-      "kills": 306,
+      "kills": 363,
       "ultra": 0,
       "skills": [
         28,
         8,
+        27,
+        7,
         4,
-        7
+        1,
+        26
       ],
       "crown": 5,
       "version": 2616,
@@ -2367,6 +2370,50 @@
       "crown": 5,
       "version": 2616,
       "uid": "vQP7RpQ8vyscafH",
+      "runId": 681385596
+    },
+    "0J2v9hJvm7yzC08": {
+      "name": "Seeker90",
+      "skin": 0,
+      "char": 10,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 23,
+      "bwep": 6,
+      "extraweps": [],
+      "win": false,
+      "kills": 149,
+      "ultra": 0,
+      "skills": [
+        8,
+        27,
+        9
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "0J2v9hJvm7yzC08",
+      "runId": 681385596
+    },
+    "f0VO59IIrPA4Y14": {
+      "name": "dilanyt",
+      "skin": 0,
+      "char": 10,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 92,
+      "extraweps": [],
+      "win": false,
+      "kills": 80,
+      "ultra": 0,
+      "skills": [
+        8
+      ],
+      "crown": 5,
+      "version": 2616,
+      "uid": "f0VO59IIrPA4Y14",
       "runId": 681385596
     }
   }
