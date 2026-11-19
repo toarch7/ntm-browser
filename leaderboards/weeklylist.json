@@ -1455,18 +1455,18 @@
       "name": "RONALD",
       "skin": 0,
       "char": 12,
-      "area": 2,
-      "subarea": 1,
+      "area": 3,
+      "subarea": 3,
       "loops": 0,
       "wep": 118,
-      "bwep": 69,
+      "bwep": 14,
       "extraweps": [],
       "win": false,
-      "kills": 82,
+      "kills": 148,
       "ultra": 0,
       "skills": [
-        19,
-        1
+        1,
+        17
       ],
       "crown": 6,
       "version": 2616,
@@ -1677,6 +1677,52 @@
       "crown": 6,
       "version": 2616,
       "uid": "gJ866W4oXqxJ2wU",
+      "runId": 934760380
+    },
+    "L0LfHi4GJ38vw2L": {
+      "name": "n♡♡♡killa",
+      "skin": 0,
+      "char": 12,
+      "area": 3,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 3,
+      "bwep": 118,
+      "extraweps": [],
+      "win": false,
+      "kills": 91,
+      "ultra": 0,
+      "skills": [
+        1,
+        3
+      ],
+      "crown": 6,
+      "version": 2616,
+      "uid": "L0LfHi4GJ38vw2L",
+      "runId": 934760380
+    },
+    "BbYqiZQAZqyYRzY": {
+      "name": "luffy",
+      "skin": 1,
+      "char": 12,
+      "area": 3,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 11,
+      "bwep": 118,
+      "extraweps": [],
+      "win": false,
+      "kills": 160,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        8,
+        27
+      ],
+      "crown": 6,
+      "version": 3004,
+      "uid": "BbYqiZQAZqyYRzY",
       "runId": 934760380
     }
   }
