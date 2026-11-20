@@ -1,4 +1,143 @@
 {
   "day": 20,
-  "entries": {}
+  "entries": {
+    "lVHDrt98CmlTTVy": {
+      "name": "ThunderAxe",
+      "skin": 1,
+      "char": 2,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 6,
+      "crown": 1,
+      "version": 2616,
+      "uid": "lVHDrt98CmlTTVy",
+      "runId": 1417124016
+    },
+    "fuCOQ7Vj2s41iCR": {
+      "name": "NuggetsGuy",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 1,
+      "extraweps": [],
+      "win": false,
+      "kills": 11,
+      "crown": 1,
+      "version": 2616,
+      "uid": "fuCOQ7Vj2s41iCR",
+      "runId": 1417124016
+    },
+    "ZQBzrAaryzybRjq": {
+      "name": "Соплежуй",
+      "skin": 2,
+      "char": 2,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 69,
+      "bwep": 3,
+      "extraweps": [],
+      "win": false,
+      "kills": 43,
+      "ultra": 0,
+      "skills": [
+        28
+      ],
+      "crown": 1,
+      "version": 3004,
+      "uid": "ZQBzrAaryzybRjq",
+      "runId": 1417124016
+    },
+    "z121jMAfmnYNsdL": {
+      "name": "kenoml",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 7,
+      "bwep": 5,
+      "extraweps": [],
+      "win": false,
+      "kills": 35,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "z121jMAfmnYNsdL",
+      "runId": 1417124016
+    },
+    "dI5uMvmMY36mk82": {
+      "name": "dante",
+      "skin": 0,
+      "char": 6,
+      "area": 1,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 39,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 23,
+      "crown": 1,
+      "version": 2616,
+      "uid": "dI5uMvmMY36mk82",
+      "runId": 1417124016
+    },
+    "RQyAzRJJyRARaYB": {
+      "name": "Seeker265",
+      "skin": 0,
+      "char": 3,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 66,
+      "extraweps": [],
+      "win": false,
+      "kills": 145,
+      "ultra": 0,
+      "skills": [
+        16,
+        8,
+        28,
+        24
+      ],
+      "crown": 1,
+      "version": 3003,
+      "uid": "RQyAzRJJyRARaYB",
+      "runId": 1417124016
+    },
+    "GRV9M127a2f3UmG": {
+      "name": "sup4ick",
+      "skin": 0,
+      "char": 2,
+      "area": 1,
+      "subarea": 3,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 7,
+      "extraweps": [],
+      "win": false,
+      "kills": 41,
+      "ultra": 0,
+      "skills": [
+        14
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "GRV9M127a2f3UmG",
+      "runId": 1417124016
+    }
+  }
 }
