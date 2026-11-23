@@ -1,4 +1,72 @@
 {
   "day": 23,
-  "entries": {}
+  "entries": {
+    "RHuBWR0w6X7Xb7W": {
+      "name": "BloodHanter",
+      "skin": 0,
+      "char": 7,
+      "area": 6,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 13,
+      "bwep": 23,
+      "extraweps": [],
+      "win": false,
+      "kills": 321,
+      "ultra": 0,
+      "skills": [
+        9,
+        27,
+        23,
+        1,
+        4,
+        12
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "RHuBWR0w6X7Xb7W",
+      "runId": 1045288347
+    },
+    "o7LD7TfJptVb8h9": {
+      "name": "MAX",
+      "skin": 0,
+      "char": 3,
+      "area": 2,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 4,
+      "extraweps": [],
+      "win": false,
+      "kills": 64,
+      "ultra": 0,
+      "skills": [
+        25,
+        1,
+        2,
+        27
+      ],
+      "crown": 1,
+      "version": 2616,
+      "uid": "o7LD7TfJptVb8h9",
+      "runId": 1045288347
+    },
+    "HQMpUzffhVCirjN": {
+      "name": "gabo",
+      "skin": 0,
+      "char": 4,
+      "area": 1,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 1,
+      "bwep": 0,
+      "extraweps": [],
+      "win": false,
+      "kills": 5,
+      "crown": 1,
+      "version": 2616,
+      "uid": "HQMpUzffhVCirjN",
+      "runId": 1045288347
+    }
+  }
 }
