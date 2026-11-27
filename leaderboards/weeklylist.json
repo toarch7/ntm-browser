@@ -1327,19 +1327,22 @@
       "name": "dojfjfj",
       "skin": 0,
       "char": 7,
-      "area": 4,
+      "area": 6,
       "subarea": 1,
       "loops": 0,
-      "wep": 20,
-      "bwep": 23,
+      "wep": 23,
+      "bwep": 11,
       "extraweps": [],
       "win": false,
-      "kills": 157,
+      "kills": 256,
       "ultra": 0,
       "skills": [
-        4,
+        21,
         1,
-        24
+        22,
+        4,
+        27,
+        8
       ],
       "crown": 3,
       "version": 2616,
@@ -2190,6 +2193,51 @@
       "crown": 3,
       "version": 3004,
       "uid": "BIqRyAqJjqriIJJ",
+      "runId": 1812213621
+    },
+    "DFH1Nf9inu2l7HJ": {
+      "name": "infinikill",
+      "skin": 0,
+      "char": 7,
+      "area": 3,
+      "subarea": 2,
+      "loops": 0,
+      "wep": 5,
+      "bwep": 23,
+      "extraweps": [],
+      "win": false,
+      "kills": 108,
+      "ultra": 0,
+      "skills": [
+        6,
+        4
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "DFH1Nf9inu2l7HJ",
+      "runId": 1812213621
+    },
+    "SqD7wZXACY4XbDf": {
+      "name": "jaxel",
+      "skin": 0,
+      "char": 7,
+      "area": 4,
+      "subarea": 1,
+      "loops": 0,
+      "wep": 71,
+      "bwep": 69,
+      "extraweps": [],
+      "win": false,
+      "kills": 87,
+      "ultra": 0,
+      "skills": [
+        12,
+        1,
+        19
+      ],
+      "crown": 3,
+      "version": 2616,
+      "uid": "SqD7wZXACY4XbDf",
       "runId": 1812213621
     }
   }
